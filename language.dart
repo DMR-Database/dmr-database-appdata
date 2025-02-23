@@ -149,6 +149,32 @@ class Language {
       'appinfo_changes': 'Last Changes',
       'appinfo_googleversion': 'Google Play Version',
       'appinfo_localversion': 'Installed Version',
+      //
+      //Contact Screen contactonline_screen.dart
+      'contact_appbar': 'Contact Information',
+      'contact_report': 'Report an Issue',
+      'contact_report_description': 'Please Report any Issues',
+      'contact_discord': 'Contact us via Discord',
+      'contact_discord_description': 'Join our Discord Server',
+      'contact_email': 'Contact us via Email',
+      'contact_email_description': 'U can contact us thru Email',
+      'contact_phone': 'Contact us thru Phone',
+      'contact_phone_description': 'Reach us via phone services like Hamshack Hotline.',
+      //
+      //contact phone contactphone_screen.dart
+      'contactphone_appbar': 'Phone Contact Info',
+      'contactphone_hamvoip': 'A reliable VoIP service for ham radio operators.',
+      'contactphone_hamshack': 'Free VoIP service for ham radio enthusiasts.',
+      'contactphone_hamsoverip': 'A worldwide VoIP network for ham radio users.',
+      'contactphone_hackerspace': 'Private VoIP service for hackerspace communication.',
+      //
+      //Testers Screen testers_screen.dart
+      'testers_appbar': 'Thank you to all testers',
+      'testers_header': 'A Huge Thank You!',
+      'testers_text1': 'Our amazing testers',
+      'testers_text2': 'Thank you to the following testers for their invaluable contributions.',
+
+
 
     },
 
@@ -301,6 +327,30 @@ class Language {
       'appinfo_changes': 'Laatste wijzigingen',
       'appinfo_googleversion': 'Google Play-versie',
       'appinfo_localversion': 'Geïnstalleerde versie',
+      //
+      //Contact Screen contactonline_screen.dart
+      'contact_appbar': 'Contactgegevens',
+      'contact_report': 'Een Probleem Melden',
+      'contact_report_description': 'Meld eventuele problemen',
+      'contact_discord': 'Neem contact met ons op via Discord',
+      'contact_discord_description': 'Word lid van onze Discord-server',
+      'contact_email': 'Neem contact met ons op via E-mail',
+      'contact_email_description': 'U kunt contact met ons opnemen via e-mail',
+      'contact_phone': 'Neem contact met ons op via Telefoon',
+      'contact_phone_description': 'Bereik ons via telefoonservices zoals Hamshack Hotline.',
+      //
+      //contact phone contactphone_screen.dart
+      'contactphone_appbar': 'Telefooncontactgegevens',
+      'contactphone_hamvoip': 'Een betrouwbare VoIP-service voor radioamateurs.',
+      'contactphone_hamshack': 'Gratis VoIP-service voor radioamateur-enthousiastelingen.',
+      'contactphone_hamsoverip': 'Een wereldwijd VoIP-netwerk voor radioamateurgebruikers.',
+      'contactphone_hackerspace': 'Privé VoIP-service voor hackerspace-communicatie.',
+      //
+      //Testers Screen testers_screen.dart
+      'testers_appbar': 'Bedankt aan alle testers',
+      'testers_header': 'Een Enorme Dankjewel!',
+      'testers_text1': 'Onze geweldige testers',
+      'testers_text2': 'Bedankt aan de volgende testers voor hun onschatbare bijdragen.',
     },
 
     'de-de': {
@@ -452,6 +502,205 @@ class Language {
       'appinfo_changes': 'Letzte Änderungen',
       'appinfo_googleversion': 'Google Play Version',
       'appinfo_localversion': 'Installierte Version',
+      //
+      //Contact Screen contactonline_screen.dart
+      'contact_appbar': 'Kontaktinformationen',
+      'contact_report': 'Ein Problem Melden',
+      'contact_report_description': 'Bitte melden Sie alle Probleme',
+      'contact_discord': 'Kontaktieren Sie uns über Discord',
+      'contact_discord_description': 'Treten Sie unserem Discord-Server bei',
+      'contact_email': 'Kontaktieren Sie uns per E-Mail',
+      'contact_email_description': 'Sie können uns per E-Mail kontaktieren',
+      'contact_phone': 'Kontaktieren Sie uns telefonisch',
+      'contact_phone_description': 'Erreichen Sie uns über Telefondienste wie Hamshack Hotline.',
+      //
+      //contact phone contactphone_screen.dart
+      'contactphone_appbar': 'Telefonkontaktinformationen',
+      'contactphone_hamvoip': 'Ein zuverlässiger VoIP-Dienst für Funkamateure.',
+      'contactphone_hamshack': 'Kostenloser VoIP-Dienst für Funkamateur-Enthusiasten.',
+      'contactphone_hamsoverip': 'Ein weltweites VoIP-Netzwerk für Funkamateur-Nutzer.',
+      'contactphone_hackerspace': 'Privater VoIP-Dienst für Hackerspace-Kommunikation.',
+      //
+      //Testers Screen testers_screen.dart
+      'testers_appbar': 'Vielen Dank an alle Tester',
+      'testers_header': 'Ein Riesiges Dankeschön!',
+      'testers_text1': 'Unsere großartigen Tester',
+      'testers_text2': 'Vielen Dank an die folgenden Tester für ihre unschätzbaren Beiträge.',
+    },
+
+    'fr-fr': {
+      //All
+      'all_extra_features': 'Fonctionnalités Supplémentaires :',
+      //
+      //Menu main.dart
+      'menu_home': 'Accueil',
+      'menu_search': 'Recherche',
+      'menu_news': 'Actualités',
+      'menu_database': 'Base de Données',
+      'menu_settings': 'Paramètres',
+      'menu_information': 'Informations',
+      //
+      //Home Screen home_screen.dart
+      'home_appbar': 'Bienvenue',
+      'home_text_1': 'Explorez les systèmes radio mondiaux facilement ! Recherchez des ID Radio, Indicatifs et détails des utilisateurs dans des bases de données comme RadioID, Hamvoip, HamshackHotline, DAPNET, NXDN et Repeaters.',
+      'home_text_2': 'Découvrez des répéteurs et hackerspaces sur des cartes interactives et plongez dans l\'excitation de la chasse au renard. Restez connecté avec la communauté radioamateur grâce à cette application conviviale.',
+      'home_text_3': 'Fonctionnalités Clés :',
+      'home_text_4': '🔹 Base de Données RadioID : Trouvez des utilisateurs par ID Radio, Indicatif, Nom, Ville, État ou Pays.',
+      'home_text_5': '🔹 Base de Données NXDN : Trouvez des utilisateurs par ID NXDN, Indicatif, Nom, Ville, État ou Pays.',
+      'home_text_6': '🔹 Base de Données Hamvoip : Trouvez des utilisateurs par Extension, Indicatif, Nom, Ville, État ou Pays.',
+      'home_text_7': '🔹 Base de Données HamshackHotline : Trouvez des utilisateurs par Extension, Indicatif, Nom, Ville, État, Pays ou Serveur.',
+      'home_text_8': '🔹 Base de Données DAPNET : Trouvez des utilisateurs par Indicatif, Ville, État ou Pays.',
+      'home_text_9': '🔹 Base de Données Repeaters : Trouvez des répéteurs par Indicatif, Ville, État ou Pays.',
+      'home_text_10': '🦊 Chasse au Renard : Commencez l\'excitation de la chasse au renard – visitez la page d\'information et trouvez le premier renard !',
+      'home_text_11': 'Fonctionnalités Supplémentaires :',
+      'home_text_12': '📍 Cartes Interactives : Découvrez des répéteurs et hackerspaces à proximité.',
+      'home_text_13': '🔹 Exporter la Base de Données : Exportez la base de données pour différents appareils (Windows/macOS).',
+      'home_text_14': '🔹 Utilisateurs par Pays : Affiche le nombre d\'utilisateurs par pays.',
+      'home_text_15': '🔹 Carnet de Log : Enregistrez vos QSO et exportez-les en ADIF ou CSV.',
+      //
+      //Menu 2
+      //Search Screen Search_screen.dart
+      'search_appbar': 'Rechercher dans la Base de Données',
+      'search_callsign': 'Indicatif',
+      'search_extension': 'Extension',
+      'search_name': 'Nom',
+      'search_first_name': 'Prénom',
+      'search_city': 'Ville',
+      'search_state': 'État',
+      'search_country': 'Pays',
+      'search_server': 'Serveur',
+      'search_trustee': 'Trustee',
+      'search_nxdn_id': 'ID NXDN',
+      'search_radio_id': 'ID DMR',
+      'search_database': 'Rechercher dans la Base de Données',
+      'search_enter_search_term': 'Entrez un terme de recherche',
+      'search_please_enter_search_term': 'Veuillez entrer un terme de recherche',
+      'search_results_name': 'Résultat(s)',
+      //
+      //Menu 3
+      //News Screen news_screen.dart
+      'news_appbar': 'Actualités de la Base de Données DMR',
+      //
+      //Menu 4
+      //Database Screen info_screen.dart
+      'infoscreen_appbar': 'Informations sur la Base de Données',
+      'infoscreen_radioid': 'Contient des informations sur les opérateurs radio DMR dans le monde.',
+      'infoscreen_hamvoip': 'Contient des informations sur les opérateurs radio sur HamVoIP.',
+      'infoscreen_hamshack': 'Contient des informations sur les opérateurs radio sur Hamshack Hotline.',
+      'infoscreen_dapnet': 'Contient des informations sur les opérateurs radio sur Dapnet.',
+      'infoscreen_nxdn': 'Contient des informations sur les opérateurs radio sur NXDN.',
+      'infoscreen_repeater': 'Contient des informations sur les répéteurs DMR dans le monde.',
+      //
+      //Menu 5
+      //Settings Page settings_screen.dart
+      'settings_appbar': 'Paramètres',
+      'settings_appbar_extra': 'Paramètres Supplémentaires',
+      'settings_user' : 'Paramètres Utilisateur',
+      'settings_user_description': 'Entrez votre indicatif et activez des fonctionnalités supplémentaires.',
+      'settings_database' : 'Paramètres de la Base de Données',
+      'settings_database_description': 'Mettez à jour la base de données et testez la connexion réseau.',
+      'settings_repeater_map': 'Carte des Répéteurs',
+      'settings_repeatermap_radioid_description': 'Explorez les répéteurs RadioID sur une carte.',
+      'settings_repeatermap_repeaterbook_description': 'Explorez les répéteurs RepeaterBook sur une carte.',
+      'settings_hackerspace_map': 'Carte des Hackerspaces',
+      'settings_hackerspacemap_description': 'Explorez les hackerspaces sur une carte.',
+      'settings_listen_dmr': 'Écouter DMR',
+      'settings_listendmr_description': 'Écoutez DMR via Hoseline.',
+      'settings_links': 'Vos propres liens.',
+      'settings_links_description': 'Vos propres liens.',
+      'settings_logbook': 'Carnet de Log',
+      'settings_logbook_description': 'Enregistrez vos QSO dans le carnet de log.',
+      //
+      //Menu 6
+      //information Page contact_screen.dart
+      'information_appbar': 'Informations',
+      'information_button1_text': 'Informations sur l\'Application & la Base de Données',
+      'information_button1_description': 'Affichez la version de l\'app, le numéro de build et plus.',
+      'information_button2_text': 'Informations de Contact',
+      'information_button2_description': 'Contactez-nous via différents canaux.',
+      'information_button3_text': 'Partager l\'Application Android',
+      'information_button3_description': 'Partagez un lien vers l\'application sur le Play Store Android.',
+      'information_button4_text': 'Merci aux Testeurs',
+      'information_button4_description': 'Un grand merci à tous nos testeurs pour leur soutien !',
+      'information_button5_text': 'Politique de Confidentialité',
+      'information_button5_description': 'Lisez notre politique de confidentialité et nos pratiques.',
+      'information_share_header': 'Regardez ce que j\'ai trouvé !',
+      'information_share_text': 'Regardez ce que j\'ai trouvé, découvrez l\'application DMR User Database sur https://play.google.com/store/apps/developer?id=PD2EMC',
+      //
+      //User Settings Screen settingsuser_screen.dart
+      'update': 'Mettre à Jour',
+      'enter_callsign': 'Entrez votre Indicatif',
+      'callsign_description': 'Entrez votre indicatif ici. Il sera affiché dans la barre supérieure de l\'accueil.',
+      'save_callsign': 'Enregistrer l\'Indicatif',
+      'clear_callsign': 'Effacer l\'Indicatif',
+      'extra_features': 'Fonctionnalités Supplémentaires :',
+      'export_feature': 'Fonction d\'Exportation',
+      'users_per_country': 'Utilisateurs par Pays',
+      'repeater_maps': 'Cartes des Répéteurs',
+      'hackerspaces_maps': 'Cartes des Hackerspaces',
+      'hoseline_link': 'Lien Hoseline',
+      'links_page': 'Page des Liens',
+      'logbook_feature': 'Fonction Carnet de Log',
+      'language': 'Langue',
+      //
+      //database_screen.dart
+      'database_page_translation': 'database_page_translation',
+      'database_appbar':'Paramètres de la Base de Données',
+      'database_info': 'Informations sur le Fichier de la Base de Données',
+      'database_info_description': 'Informations sur le fichier de la base de données.',
+      'database_update': 'Mettre à Jour la Base de Données',
+      'database_update_description': 'Téléchargez la dernière base de données depuis GitHub.',
+      'database_update_description_local': 'Téléchargez les dernières données depuis GitHub et mettez à jour les tables locales.',
+      'download_new_database': 'Télécharger une nouvelle base de données.',
+      'test_network':'Tester la Connexion Réseau',
+      'test_network_description': 'Testez votre connexion réseau à GitHub.',
+      'test_network_sucess': 'Test réseau réussi !',
+      'export_database': 'Exporter les Bases de Données',
+      'export_database_description': 'Exportez les bases de données pour vos appareils.',
+      'users_per_country_description': 'Affiche le nombre d\'utilisateurs par pays.',
+      //
+      //Database Info Page database_info_screen.dart
+      'databaseinfo_appbar': 'Informations sur le Fichier de la Base de Données',
+      'databaseinfo_path': 'Chemin de la Base de Données',
+      'databaseinfo_update': 'Dernière mise à jour',
+      'databaseinfo_upload': 'Dernier téléversement',
+      'export_appbar': 'Exporter les Bases de Données',
+      //database_count
+      'database_count_appbar': 'Utilisateurs par Pays',
+      'database_count_users': 'Utilisateurs',
+      'database_count_country': 'Pays',
+      //Application Information Page appinfo_screen.dart
+      'appinfo_appbar': 'Informations sur l\'Application',
+      'appinfo_path': 'Chemin de la Base de Données',
+      'appinfo_update': 'Dernière mise à jour',
+      'appinfo_upload': 'Dernier téléversement',
+      'appinfo_changes': 'Dernières modifications',
+      'appinfo_googleversion': 'Version Google Play',
+      'appinfo_localversion': 'Version Installée',
+      //
+      //Contact Screen contactonline_screen.dart
+      'contact_appbar': 'Informations de Contact',
+      'contact_report': 'Signaler un Problème',
+      'contact_report_description': 'Veuillez signaler tout problème',
+      'contact_discord': 'Contactez-nous via Discord',
+      'contact_discord_description': 'Rejoignez notre serveur Discord',
+      'contact_email': 'Contactez-nous par E-mail',
+      'contact_email_description': 'Vous pouvez nous contacter par e-mail',
+      'contact_phone': 'Contactez-nous par Téléphone',
+      'contact_phone_description': 'Contactez-nous via des services téléphoniques comme Hamshack Hotline.',
+      //
+      //contact phone contactphone_screen.dart
+      'contactphone_appbar': 'Informations de Contact Téléphonique',
+      'contactphone_hamvoip': 'Un service VoIP fiable pour les opérateurs radioamateurs.',
+      'contactphone_hamshack': 'Service VoIP gratuit pour les passionnés de radioamateur.',
+      'contactphone_hamsoverip': 'Un réseau VoIP mondial pour les utilisateurs de radioamateur.',
+      'contactphone_hackerspace': 'Service VoIP privé pour la communication des hackerspaces.',
+      //
+      //Testers Screen testers_screen.dart
+      'testers_appbar': 'Merci à tous les testeurs',
+      'testers_header': 'Un Grand Merci !',
+      'testers_text1': 'Nos incroyables testeurs',
+      'testers_text2': 'Merci aux testeurs suivants pour leurs contributions inestimables.',
     },
 
     'jp-jp': {
@@ -603,6 +852,30 @@ class Language {
       'appinfo_changes': '最終変更',
       'appinfo_googleversion': 'Google Playバージョン',
       'appinfo_localversion': 'インストール済みバージョン',
+      //
+      //Contact Screen contactonline_screen.dart
+      'contact_appbar': '連絡先情報',
+      'contact_report': '問題を報告',
+      'contact_report_description': '問題があれば報告してください',
+      'contact_discord': 'Discordでお問い合わせ',
+      'contact_discord_description': 'Discordサーバーに参加',
+      'contact_email': 'メールでお問い合わせ',
+      'contact_email_description': 'メールでご連絡いただけます',
+      'contact_phone': '電話でお問い合わせ',
+      'contact_phone_description': 'Hamshack Hotlineなどの電話サービスでご連絡ください。',
+      //
+      //contact phone contactphone_screen.dart
+      'contactphone_appbar': '電話連絡先情報',
+      'contactphone_hamvoip': 'アマチュア無線オペレーター向けの信頼性の高いVoIPサービス。',
+      'contactphone_hamshack': 'アマチュア無線愛好家向けの無料VoIPサービス。',
+      'contactphone_hamsoverip': 'アマチュア無線ユーザー向けの世界的なVoIPネットワーク。',
+      'contactphone_hackerspace': 'ハッカースペース通信向けのプライベートVoIPサービス。',
+      //
+      //Testers Screen testers_screen.dart
+      'testers_appbar': 'すべてのテスターに感謝',
+      'testers_header': '心より感謝申し上げます！',
+      'testers_text1': '素晴らしいテスターの方々',
+      'testers_text2': '以下のテスターの方々に、貴重な貢献をいただき感謝申し上げます。',
     },
 
     'cn-cn': {
@@ -754,6 +1027,30 @@ class Language {
       'appinfo_changes': '最后更改',
       'appinfo_googleversion': 'Google Play版本',
       'appinfo_localversion': '安装版本',
+      //
+      //Contact Screen contactonline_screen.dart
+      'contact_appbar': '联系信息',
+      'contact_report': '报告问题',
+      'contact_report_description': '请报告任何问题',
+      'contact_discord': '通过Discord联系我们',
+      'contact_discord_description': '加入我们的Discord服务器',
+      'contact_email': '通过电子邮件联系我们',
+      'contact_email_description': '您可以通过电子邮件联系我们',
+      'contact_phone': '通过电话联系我们',
+      'contact_phone_description': '通过Hamshack Hotline等电话服务联系我们。',
+      //
+      //contact phone contactphone_screen.dart
+      'contactphone_appbar': '电话联系信息',
+      'contactphone_hamvoip': '为业余无线电操作员提供的可靠VoIP服务。',
+      'contactphone_hamshack': '为业余无线电爱好者提供的免费VoIP服务。',
+      'contactphone_hamsoverip': '为业余无线电用户提供的全球VoIP网络。',
+      'contactphone_hackerspace': '为黑客空间通信提供的私人VoIP服务。',
+      //
+      //Testers Screen testers_screen.dart
+      'testers_appbar': '感谢所有测试人员',
+      'testers_header': '衷心感谢！',
+      'testers_text1': '我们出色的测试人员',
+      'testers_text2': '感谢以下测试人员的宝贵贡献。',
     },
 
   };
