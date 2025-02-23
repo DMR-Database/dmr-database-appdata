@@ -3,6 +3,7 @@ class Language {
     'en-us': {
       //All
       'all_extra_features': 'Extra Features:',
+      'all_close': 'Close',
       //
       //Menu main.dart
       'menu_home': 'Home',
@@ -40,17 +41,28 @@ class Language {
       'search_database': 'Search Database', //searchbutton
       'search_results_name': 'Result(s)',
       //
-      'search_callsign': 'Callsign',
       'search_extension': 'Extension',
       'search_name': 'Name',
       'search_first_name': 'First Name',
+      'search_frequency': 'Frequency',
+      'search_nxdn_id': 'NXDN ID',
+      'search_radio_id': 'DMR ID',
+      'search_found_in': 'Found in',
+      'search_database_word': 'Database',
+      //
+      'search_callsign': 'Callsign',
       'search_city': 'City',
       'search_state': 'State',
       'search_country': 'Country',
+      'search_trustee': 'Maintainer',
       'search_server': 'Server',
-      'search_trustee': 'Trustee',
-      'search_nxdn_id': 'NXDN ID',
-      'search_radio_id': 'DMR ID',
+      'search_downlink': 'Downlink',
+      'search_uplink': 'Uplink',
+      'search_offset': 'Offset',
+      'search_colorcode': 'Color Code',
+      'search_tslinked': 'Timeslot',
+      'search_ipcsnetwork': 'Network',
+
       //
       //Menu 3
       //News Screen news_screen.dart
@@ -186,6 +198,7 @@ class Language {
     'nl-nl': {
       //All
       'all_extra_features': 'Extra Functies:',
+      'all_close': 'Sluiten',
       //
       //Menu main.dart
       'menu_home': 'Home',
@@ -223,21 +236,31 @@ class Language {
       'search_database': 'Database Zoeken', //searchbutton
       'search_results_name': 'Resultaat(en)',
       //
-      'search_callsign': 'Roepnaam',
       'search_extension': 'Extensie',
       'search_name': 'Naam',
       'search_first_name': 'Voornaam',
-      'search_city': 'Stad',
-      'search_state': 'Staat',
-      'search_country': 'Land',
-      'search_server': 'Server',
-      'search_trustee': 'Trustee',
+      'search_frequency': 'Frequentie',
       'search_nxdn_id': 'NXDN ID',
       'search_radio_id': 'DMR ID',
+      'search_found_in': 'Gevonden in',
+      'search_database_word': 'Database',
+      //
+      'search_callsign': 'Roepnaam',
+      'search_city': 'Stad',
+      'search_state': 'Provincie',
+      'search_country': 'Land',
+      'search_trustee': 'Beheerder',
+      'search_server': 'Server',
+      'search_downlink': 'Downlink',
+      'search_uplink': 'Uplink',
+      'search_offset': 'Offset',
+      'search_colorcode': 'Kleurcode',
+      'search_tslinked': 'Timeslot',
+      'search_ipcsnetwork': 'Netwerk',
       //
       //Menu 3
       //News Screen news_screen.dart
-      'news_appbar': 'DMR Gebruikersdatabase Nieuws',
+      'news_appbar': 'DMR User Database Nieuws',
       //
       //Menu 4
       //Database Screen info_screen.dart
@@ -366,6 +389,7 @@ class Language {
     'de-de': {
       //All
       'all_extra_features': 'Zusätzliche Funktionen:',
+      'all_close': 'Schließen',
       //
       //Menu main.dart
       'menu_home': 'Startseite',
@@ -403,17 +427,27 @@ class Language {
       'search_database': 'Datenbank Durchsuchen', //searchbutton
       'search_results_name': 'Ergebnis(se)',
       //
-      'search_callsign': 'Rufzeichen',
       'search_extension': 'Erweiterung',
       'search_name': 'Name',
       'search_first_name': 'Vorname',
+      'search_frequency': 'Frequenz',
+      'search_nxdn_id': 'NXDN ID',
+      'search_radio_id': 'DMR ID',
+      'search_found_in': 'Gefunden in',
+      'search_database_word': 'Datenbank',
+      //
+      'search_callsign': 'Rufzeichen',
       'search_city': 'Stadt',
       'search_state': 'Bundesland',
       'search_country': 'Land',
+      'search_trustee': 'Betreuer',
       'search_server': 'Server',
-      'search_trustee': 'Trustee',
-      'search_nxdn_id': 'NXDN ID',
-      'search_radio_id': 'DMR ID',
+      'search_downlink': 'Downlink',
+      'search_uplink': 'Uplink',
+      'search_offset': 'Offset',
+      'search_colorcode': 'Farbcode',
+      'search_tslinked': 'Timeslot',
+      'search_ipcsnetwork': 'Netzwerk',
       //
       //Menu 3
       //News Screen news_screen.dart
@@ -546,6 +580,7 @@ class Language {
     'fr-fr': {
       //All
       'all_extra_features': 'Fonctionnalités Supplémentaires :',
+      'all_close': 'Fermer',
       //
       //Menu main.dart
       'menu_home': 'Accueil',
@@ -583,17 +618,27 @@ class Language {
       'search_database': 'Rechercher dans la Base de Données', //searchbutton
       'search_results_name': 'Résultat(s)',
       //
-      'search_callsign': 'Indicatif',
       'search_extension': 'Extension',
       'search_name': 'Nom',
       'search_first_name': 'Prénom',
+      'search_frequency': 'Fréquence',
+      'search_nxdn_id': 'ID NXDN',
+      'search_radio_id': 'ID DMR',
+      'search_found_in': 'Trouvé dans',
+      'search_database_word': 'Base de Données',
+      //
+      'search_callsign': 'Indicatif',
       'search_city': 'Ville',
       'search_state': 'État',
       'search_country': 'Pays',
+      'search_trustee': 'Mainteneur',
       'search_server': 'Serveur',
-      'search_trustee': 'Trustee',
-      'search_nxdn_id': 'ID NXDN',
-      'search_radio_id': 'ID DMR',
+      'search_downlink': 'Downlink',
+      'search_uplink': 'Uplink',
+      'search_offset': 'Offset',
+      'search_colorcode': 'Code Couleur',
+      'search_tslinked': 'Timeslot',
+      'search_ipcsnetwork': 'Réseau',
       //
       //Menu 3
       //News Screen news_screen.dart
@@ -726,6 +771,7 @@ class Language {
     'jp-jp': {
       //All
       'all_extra_features': '追加機能:',
+      'all_close': '閉じる',
       //
       //Menu main.dart
       'menu_home': 'ホーム',
@@ -763,17 +809,27 @@ class Language {
       'search_database': 'データベース検索', //searchbutton
       'search_results_name': '結果',
       //
-      'search_callsign': 'コールサイン',
       'search_extension': '内線番号',
       'search_name': '名前',
       'search_first_name': '名',
+      'search_frequency': '周波数',
+      'search_nxdn_id': 'NXDN ID',
+      'search_radio_id': 'DMR ID',
+      'search_found_in': '見つかった場所',
+      'search_database_word': 'データベース',
+      //
+      'search_callsign': 'コールサイン',
       'search_city': '都市',
       'search_state': '州',
       'search_country': '国',
+      'search_trustee': '管理者',
       'search_server': 'サーバー',
-      'search_trustee': 'トラスティ',
-      'search_nxdn_id': 'NXDN ID',
-      'search_radio_id': 'DMR ID',
+      'search_downlink': 'ダウンリンク',
+      'search_uplink': 'アップリンク',
+      'search_offset': 'オフセット',
+      'search_colorcode': 'カラーコード',
+      'search_tslinked': 'タイムスロット',
+      'search_ipcsnetwork': 'ネットワーク',
       //
       //Menu 3
       //News Screen news_screen.dart
@@ -906,6 +962,7 @@ class Language {
     'cn-cn': {
       //All
       'all_extra_features': '额外功能：',
+      'all_close': '关闭',
       //
       //Menu main.dart
       'menu_home': '首页',
@@ -943,17 +1000,27 @@ class Language {
       'search_database': '搜索数据库', //searchbutton
       'search_results_name': '结果',
       //
-      'search_callsign': '呼号',
       'search_extension': '分机号',
       'search_name': '姓名',
       'search_first_name': '名字',
+      'search_frequency': '频率',
+      'search_nxdn_id': 'NXDN ID',
+      'search_radio_id': 'DMR ID',
+      'search_found_in': '找到于',
+      'search_database_word': '数据库',
+      //
+      'search_callsign': '呼号',
       'search_city': '城市',
       'search_state': '州',
       'search_country': '国家',
+      'search_trustee': '维护者',
       'search_server': '服务器',
-      'search_trustee': '受托人',
-      'search_nxdn_id': 'NXDN ID',
-      'search_radio_id': 'DMR ID',
+      'search_downlink': '下行链路',
+      'search_uplink': '上行链路',
+      'search_offset': '偏移',
+      'search_colorcode': '色码',
+      'search_tslinked': '时隙',
+      'search_ipcsnetwork': '网络',
       //
       //Menu 3
       //News Screen news_screen.dart
