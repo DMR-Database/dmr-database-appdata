@@ -33,6 +33,13 @@ class Language {
       //Menu 2
       //Search Screen Search_screen.dart
       'search_appbar': 'Search Database',
+      'search_select_database': 'Select Database',
+      'search_enter_search_type': 'Select Search Type',
+      'search_enter_search_term': 'Enter Search Term',
+      'search_please_enter_search_term': 'Please enter a Search Term',
+      'search_database': 'Search Database', //searchbutton
+      'search_results_name': 'Result(s)',
+      //
       'search_callsign': 'Callsign',
       'search_extension': 'Extension',
       'search_name': 'Name',
@@ -44,10 +51,6 @@ class Language {
       'search_trustee': 'Trustee',
       'search_nxdn_id': 'NXDN ID',
       'search_radio_id': 'DMR ID',
-      'search_database': 'Search Database',
-      'search_enter_search_term': 'Enter Search Term',
-      'search_please_enter_search_term': 'Please enter a Search Term',
-      'search_results_name': 'Result(s)',
       //
       //Menu 3
       //News Screen news_screen.dart
@@ -56,7 +59,9 @@ class Language {
       //Menu 4
       //Database Screen info_screen.dart
       'infoscreen_appbar': 'Database Information',
-      'infoscreen_radioid': 'Contains information about radio operators on DMR worldwide.',
+      'infoscreen_localcount': 'Local Count',
+      'infoscreen_servercount': 'Server Count',
+      'infoscreen_radioid': 'Contains information about radio operators on DMR.',
       'infoscreen_hamvoip': 'Contains information about radio operators on HamVoIP.',
       'infoscreen_hamshack': 'Contains information about radio operators on Hamshack Hotline.',
       'infoscreen_dapnet': 'Contains information about radio operators on Dapnet.',
@@ -211,6 +216,13 @@ class Language {
       //Menu 2
       //Search Screen Search_screen.dart
       'search_appbar': 'Database Zoeken',
+      'search_select_database': 'Selecteer Database',
+      'search_enter_search_type': 'Selecteer Zoektype',
+      'search_enter_search_term': 'Voer Zoekterm In',
+      'search_please_enter_search_term': 'Voer alstublieft een zoekterm in',
+      'search_database': 'Database Zoeken', //searchbutton
+      'search_results_name': 'Resultaat(en)',
+      //
       'search_callsign': 'Roepnaam',
       'search_extension': 'Extensie',
       'search_name': 'Naam',
@@ -222,10 +234,6 @@ class Language {
       'search_trustee': 'Trustee',
       'search_nxdn_id': 'NXDN ID',
       'search_radio_id': 'DMR ID',
-      'search_database': 'Database Zoeken',
-      'search_enter_search_term': 'Voer zoekterm in',
-      'search_please_enter_search_term': 'Voer alstublieft een zoekterm in',
-      'search_results_name': 'Resultaat(en)',
       //
       //Menu 3
       //News Screen news_screen.dart
@@ -234,11 +242,13 @@ class Language {
       //Menu 4
       //Database Screen info_screen.dart
       'infoscreen_appbar': 'Database Informatie',
-      'infoscreen_radioid': 'Bevat informatie over radio-operators in DMR wereldwijd.',
-      'infoscreen_hamvoip': 'Bevat informatie over radio-operators op HamVoIP.',
-      'infoscreen_hamshack': 'Bevat informatie over radio-operators op Hamshack Hotline.',
-      'infoscreen_dapnet': 'Bevat informatie over radio-operators op Dapnet.',
-      'infoscreen_nxdn': 'Bevat informatie over radio-operators op NXDN.',
+      'infoscreen_localcount': 'Lokale Telling',
+      'infoscreen_servercount': 'Server Telling',
+      'infoscreen_radioid': 'Bevat informatie over Radioamateurs op DMR.',
+      'infoscreen_hamvoip': 'Bevat informatie over Radioamateurs op HamVoIP.',
+      'infoscreen_hamshack': 'Bevat informatie over Radioamateurs op Hamshack Hotline.',
+      'infoscreen_dapnet': 'Bevat informatie over Radioamateurs op Dapnet.',
+      'infoscreen_nxdn': 'Bevat informatie over Radioamateurs op NXDN.',
       'infoscreen_repeater': 'Bevat informatie over DMR-repeaters wereldwijd.',
       //
       //Menu 5
@@ -385,9 +395,16 @@ class Language {
       //
       //Menu 2
       //Search Screen Search_screen.dart
-      'search_appbar': 'Datenbank durchsuchen',
+      'search_appbar': 'Datenbank Durchsuchen',
+      'search_select_database': 'Datenbank Auswählen',
+      'search_enter_search_type': 'Suchtyp Auswählen',
+      'search_enter_search_term': 'Suchbegriff Eingeben',
+      'search_please_enter_search_term': 'Bitte geben Sie einen Suchbegriff ein',
+      'search_database': 'Datenbank Durchsuchen', //searchbutton
+      'search_results_name': 'Ergebnis(se)',
+      //
       'search_callsign': 'Rufzeichen',
-      'search_extension': 'Extension',
+      'search_extension': 'Erweiterung',
       'search_name': 'Name',
       'search_first_name': 'Vorname',
       'search_city': 'Stadt',
@@ -397,10 +414,6 @@ class Language {
       'search_trustee': 'Trustee',
       'search_nxdn_id': 'NXDN ID',
       'search_radio_id': 'DMR ID',
-      'search_database': 'Datenbank durchsuchen',
-      'search_enter_search_term': 'Suchbegriff eingeben',
-      'search_please_enter_search_term': 'Bitte geben Sie einen Suchbegriff ein',
-      'search_results_name': 'Ergebnis(se)',
       //
       //Menu 3
       //News Screen news_screen.dart
@@ -409,7 +422,9 @@ class Language {
       //Menu 4
       //Database Screen info_screen.dart
       'infoscreen_appbar': 'Datenbankinformationen',
-      'infoscreen_radioid': 'Enthält Informationen über Funkamateure im DMR weltweit.',
+      'infoscreen_localcount': 'Lokale Anzahl',
+      'infoscreen_servercount': 'Server Anzahl',
+      'infoscreen_radioid': 'Enthält Informationen über Funkamateure auf DMR.',
       'infoscreen_hamvoip': 'Enthält Informationen über Funkamateure auf HamVoIP.',
       'infoscreen_hamshack': 'Enthält Informationen über Funkamateure auf Hamshack Hotline.',
       'infoscreen_dapnet': 'Enthält Informationen über Funkamateure auf Dapnet.',
@@ -561,6 +576,13 @@ class Language {
       //Menu 2
       //Search Screen Search_screen.dart
       'search_appbar': 'Rechercher dans la Base de Données',
+      'search_select_database': 'Sélectionner la Base de Données',
+      'search_enter_search_type': 'Sélectionner le Type de Recherche',
+      'search_enter_search_term': 'Entrer un Terme de Recherche',
+      'search_please_enter_search_term': 'Veuillez entrer un terme de recherche',
+      'search_database': 'Rechercher dans la Base de Données', //searchbutton
+      'search_results_name': 'Résultat(s)',
+      //
       'search_callsign': 'Indicatif',
       'search_extension': 'Extension',
       'search_name': 'Nom',
@@ -572,10 +594,6 @@ class Language {
       'search_trustee': 'Trustee',
       'search_nxdn_id': 'ID NXDN',
       'search_radio_id': 'ID DMR',
-      'search_database': 'Rechercher dans la Base de Données',
-      'search_enter_search_term': 'Entrez un terme de recherche',
-      'search_please_enter_search_term': 'Veuillez entrer un terme de recherche',
-      'search_results_name': 'Résultat(s)',
       //
       //Menu 3
       //News Screen news_screen.dart
@@ -584,6 +602,8 @@ class Language {
       //Menu 4
       //Database Screen info_screen.dart
       'infoscreen_appbar': 'Informations sur la Base de Données',
+      'infoscreen_localcount': 'Compteur Local',
+      'infoscreen_servercount': 'Compteur Serveur',
       'infoscreen_radioid': 'Contient des informations sur les opérateurs radio DMR dans le monde.',
       'infoscreen_hamvoip': 'Contient des informations sur les opérateurs radio sur HamVoIP.',
       'infoscreen_hamshack': 'Contient des informations sur les opérateurs radio sur Hamshack Hotline.',
@@ -736,6 +756,13 @@ class Language {
       //Menu 2
       //Search Screen Search_screen.dart
       'search_appbar': 'データベース検索',
+      'search_select_database': 'データベースを選択',
+      'search_enter_search_type': '検索タイプを選択',
+      'search_enter_search_term': '検索語を入力',
+      'search_please_enter_search_term': '検索語を入力してください',
+      'search_database': 'データベース検索', //searchbutton
+      'search_results_name': '結果',
+      //
       'search_callsign': 'コールサイン',
       'search_extension': '内線番号',
       'search_name': '名前',
@@ -747,10 +774,6 @@ class Language {
       'search_trustee': 'トラスティ',
       'search_nxdn_id': 'NXDN ID',
       'search_radio_id': 'DMR ID',
-      'search_database': 'データベース検索',
-      'search_enter_search_term': '検索語を入力',
-      'search_please_enter_search_term': '検索語を入力してください',
-      'search_results_name': '結果',
       //
       //Menu 3
       //News Screen news_screen.dart
@@ -759,6 +782,8 @@ class Language {
       //Menu 4
       //Database Screen info_screen.dart
       'infoscreen_appbar': 'データベース情報',
+      'infoscreen_localcount': 'ローカルカウント',
+      'infoscreen_servercount': 'サーバーカウント',
       'infoscreen_radioid': '世界中のDMRオペレーターに関する情報を含みます。',
       'infoscreen_hamvoip': 'HamVoIPの無線オペレーターに関する情報を含みます。',
       'infoscreen_hamshack': 'Hamshack Hotlineの無線オペレーターに関する情報を含みます。',
@@ -911,6 +936,13 @@ class Language {
       //Menu 2
       //Search Screen Search_screen.dart
       'search_appbar': '搜索数据库',
+      'search_select_database': '选择数据库',
+      'search_enter_search_type': '选择搜索类型',
+      'search_enter_search_term': '输入搜索词',
+      'search_please_enter_search_term': '请输入搜索词',
+      'search_database': '搜索数据库', //searchbutton
+      'search_results_name': '结果',
+      //
       'search_callsign': '呼号',
       'search_extension': '分机号',
       'search_name': '姓名',
@@ -922,10 +954,6 @@ class Language {
       'search_trustee': '受托人',
       'search_nxdn_id': 'NXDN ID',
       'search_radio_id': 'DMR ID',
-      'search_database': '搜索数据库',
-      'search_enter_search_term': '输入搜索词',
-      'search_please_enter_search_term': '请输入搜索词',
-      'search_results_name': '结果',
       //
       //Menu 3
       //News Screen news_screen.dart
@@ -934,6 +962,8 @@ class Language {
       //Menu 4
       //Database Screen info_screen.dart
       'infoscreen_appbar': '数据库信息',
+      'infoscreen_localcount': '本地计数',
+      'infoscreen_servercount': '服务器计数',
       'infoscreen_radioid': '包含全球DMR无线电操作员的信息。',
       'infoscreen_hamvoip': '包含HamVoIP无线电操作员的信息。',
       'infoscreen_hamshack': '包含Hamshack Hotline无线电操作员的信息。',
