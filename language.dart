@@ -67,6 +67,8 @@ class Language {
       //Menu 3
       //News Screen news_screen.dart
       'news_appbar': 'DMR User Database News',
+      'news_more': 'Read more',
+
       //
       //Menu 4
       //Database Screen info_screen.dart
@@ -261,6 +263,7 @@ class Language {
       //Menu 3
       //News Screen news_screen.dart
       'news_appbar': 'DMR User Database Nieuws',
+      'news_more': 'Lees meer',
       //
       //Menu 4
       //Database Screen info_screen.dart
@@ -452,6 +455,7 @@ class Language {
       //Menu 3
       //News Screen news_screen.dart
       'news_appbar': 'DMR-Benutzerdatenbank Neuigkeiten',
+      'news_more': 'Mehr lesen',
       //
       //Menu 4
       //Database Screen info_screen.dart
@@ -643,6 +647,7 @@ class Language {
       //Menu 3
       //News Screen news_screen.dart
       'news_appbar': 'Actualités de la Base de Données DMR',
+      'news_more': 'Lire plus',
       //
       //Menu 4
       //Database Screen info_screen.dart
@@ -834,6 +839,7 @@ class Language {
       //Menu 3
       //News Screen news_screen.dart
       'news_appbar': 'DMRユーザーデータベースニュース',
+      'news_more': '続きを読む',
       //
       //Menu 4
       //Database Screen info_screen.dart
@@ -1025,6 +1031,7 @@ class Language {
       //Menu 3
       //News Screen news_screen.dart
       'news_appbar': 'DMR用户数据库新闻',
+      'news_more': '阅读更多',
       //
       //Menu 4
       //Database Screen info_screen.dart
