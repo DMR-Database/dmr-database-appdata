@@ -155,7 +155,6 @@ class Language {
       'databaseinfo_path': 'Database Path',
       'databaseinfo_update': 'Last Update time',
       'databaseinfo_upload': 'Last Upload time',
-      'export_appbar': 'Export Databases',
       //database_count
       'database_count_appbar': 'Users per Country',
       'database_count_users': 'Users',
@@ -192,6 +191,30 @@ class Language {
       'testers_header': 'A Huge Thank You!',
       'testers_text1': 'Our amazing testers',
       'testers_text2': 'Thank you to the following testers for their invaluable contributions.',
+      //
+      // export screen export_screen.dart
+      'export_appbar': 'Export Databases',
+      'export_all': 'Export all RadioID data',
+      'export_all_description': 'Export all RadioID data to "exported_data.csv".',
+      'export_all_anytone': 'Export all RadioID data for Anytone radios',
+      'export_all_anytone_description': 'Export all RadioID data for Anytone radios to "userat.csv".',
+      'export_select_anytone': 'Export selected RadioID data for Anytone radios',
+      'export_select_anytone_description': 'Export selected RadioID data for Anytone radios to "userat.csv".',
+      'export_hamvoip_fanvil': 'Export all Hamvoip users for Fanvil Phones',
+      'export_hamvoip_fanvil_description': 'Export all Hamvoip users for Fanvil Phones to "hamvoip_fanvil_data.csv".',
+      'export_dutch_fanvil': 'Export all Dutch users for Fanvil Phones',
+      'export_dutch_fanvil_description': 'Export all Dutch users for Fanvil Phones to "all_fanvil_data.csv".',
+      'export_hamvoip_grandstream': 'Export all Hamvoip users for Grandstream Phones',
+      'export_hamvoip_grandstream_description': 'Export all Hamvoip users for Grandstream Phones to "hamvoip_grandstream_data.csv".',
+      'export_dutch_grandstream': 'Export all Dutch users for Grandstream Phones',
+      'export_dutch_grandstream_description': 'Export all Dutch users for Grandstream Phones to "all_grandstream_data.csv".',
+      'export_hamvoip_cisco': 'Export all Hamvoip users for Cisco Phones',
+      'export_hamvoip_cisco_description': 'Export all Hamvoip users for Cisco Phones to "hamvoip_cisco_data.xml".',
+      'export_to_database': 'Export Database:',
+      'export_to_radio': 'Export to Radio:',
+      'export_to_phone': 'Export to Phone:',
+
+
 
 
 
@@ -387,6 +410,32 @@ class Language {
       'testers_header': 'Een Enorme Dankjewel!',
       'testers_text1': 'Onze geweldige testers',
       'testers_text2': 'Bedankt aan de volgende testers voor hun onschatbare bijdragen.',
+
+      //
+      // export screen export_screen.dart
+      //'export_appbar': 'Exporteer Databases',
+      'export_all': 'Exporteer alle RadioID-gegevens',
+      'export_all_description': 'Exporteer alle RadioID-gegevens naar "exported_data.csv".',
+      'export_all_anytone': 'Exporteer alle RadioID-gegevens voor Anytone-radios',
+      'export_all_anytone_description': 'Exporteer alle RadioID-gegevens voor Anytone-radios naar "userat.csv".',
+      'export_select_anytone': 'Exporteer geselecteerde RadioID-gegevens voor Anytone-radios',
+      'export_select_anytone_description': 'Exporteer geselecteerde RadioID-gegevens voor Anytone-radios naar "userat.csv".',
+      'export_hamvoip_fanvil': 'Exporteer alle Hamvoip-gebruikers voor Fanvil-telefoons',
+      'export_hamvoip_fanvil_description': 'Exporteer alle Hamvoip-gebruikers voor Fanvil-telefoons naar "hamvoip_fanvil_data.csv".',
+      'export_dutch_fanvil': 'Exporteer alle Nederlandse gebruikers voor Fanvil-telefoons',
+      'export_dutch_fanvil_description': 'Exporteer alle Nederlandse gebruikers voor Fanvil-telefoons naar "all_fanvil_data.csv".',
+      'export_hamvoip_grandstream': 'Exporteer alle Hamvoip-gebruikers voor Grandstream-telefoons',
+      'export_hamvoip_grandstream_description': 'Exporteer alle Hamvoip-gebruikers voor Grandstream-telefoons naar "hamvoip_grandstream_data.csv".',
+      'export_dutch_grandstream': 'Exporteer alle Nederlandse gebruikers voor Grandstream-telefoons',
+      'export_dutch_grandstream_description': 'Exporteer alle Nederlandse gebruikers voor Grandstream-telefoons naar "all_grandstream_data.csv".',
+      'export_hamvoip_cisco': 'Exporteer alle Hamvoip-gebruikers voor Cisco-telefoons',
+      'export_hamvoip_cisco_description': 'Exporteer alle Hamvoip-gebruikers voor Cisco-telefoons naar "hamvoip_cisco_data.xml".',
+      'export_to_database': 'Exporteer Database:',
+      'export_to_radio': 'Exporteer naar Radio:',
+      'export_to_phone': 'Exporteer naar Telefoon:',
+
+
+
     },
 
     'de-de': {
@@ -579,6 +628,31 @@ class Language {
       'testers_header': 'Ein Riesiges Dankeschön!',
       'testers_text1': 'Unsere großartigen Tester',
       'testers_text2': 'Vielen Dank an die folgenden Tester für ihre unschätzbaren Beiträge.',
+
+      //
+      // export screen export_screen.dart
+      //'export_appbar': 'Datenbanken Exportieren',
+      'export_all': 'Alle RadioID-Daten exportieren',
+      'export_all_description': 'Exportiere alle RadioID-Daten nach "exported_data.csv".',
+      'export_all_anytone': 'Alle RadioID-Daten für Anytone-Funkgeräte exportieren',
+      'export_all_anytone_description': 'Exportiere alle RadioID-Daten für Anytone-Funkgeräte nach "userat.csv".',
+      'export_select_anytone': 'Ausgewählte RadioID-Daten für Anytone-Funkgeräte exportieren',
+      'export_select_anytone_description': 'Exportiere ausgewählte RadioID-Daten für Anytone-Funkgeräte nach "userat.csv".',
+      'export_hamvoip_fanvil': 'Alle Hamvoip-Benutzer für Fanvil-Telefone exportieren',
+      'export_hamvoip_fanvil_description': 'Exportiere alle Hamvoip-Benutzer für Fanvil-Telefone nach "hamvoip_fanvil_data.csv".',
+      'export_dutch_fanvil': 'Alle niederländischen Benutzer für Fanvil-Telefone exportieren',
+      'export_dutch_fanvil_description': 'Exportiere alle niederländischen Benutzer für Fanvil-Telefone nach "all_fanvil_data.csv".',
+      'export_hamvoip_grandstream': 'Alle Hamvoip-Benutzer für Grandstream-Telefone exportieren',
+      'export_hamvoip_grandstream_description': 'Exportiere alle Hamvoip-Benutzer für Grandstream-Telefone nach "hamvoip_grandstream_data.csv".',
+      'export_dutch_grandstream': 'Alle niederländischen Benutzer für Grandstream-Telefone exportieren',
+      'export_dutch_grandstream_description': 'Exportiere alle niederländischen Benutzer für Grandstream-Telefone nach "all_grandstream_data.csv".',
+      'export_hamvoip_cisco': 'Alle Hamvoip-Benutzer für Cisco-Telefone exportieren',
+      'export_hamvoip_cisco_description': 'Exportiere alle Hamvoip-Benutzer für Cisco-Telefone nach "hamvoip_cisco_data.xml".',
+      'export_to_database': 'Datenbank exportieren:',
+      'export_to_radio': 'Exportieren zu Funkgerät:',
+      'export_to_phone': 'Exportieren zu Telefon:',
+
+
     },
 
     'fr-fr': {
@@ -771,6 +845,31 @@ class Language {
       'testers_header': 'Un Grand Merci !',
       'testers_text1': 'Nos incroyables testeurs',
       'testers_text2': 'Merci aux testeurs suivants pour leurs contributions inestimables.',
+
+      //
+      // export screen export_screen.dart
+      //'export_appbar': 'Exporter les Bases de Données',
+      'export_all': 'Exporter toutes les données RadioID',
+      'export_all_description': 'Exporter toutes les données RadioID vers "exported_data.csv".',
+      'export_all_anytone': 'Exporter toutes les données RadioID pour les radios Anytone',
+      'export_all_anytone_description': 'Exporter toutes les données RadioID pour les radios Anytone vers "userat.csv".',
+      'export_select_anytone': 'Exporter les données RadioID sélectionnées pour les radios Anytone',
+      'export_select_anytone_description': 'Exporter les données RadioID sélectionnées pour les radios Anytone vers "userat.csv".',
+      'export_hamvoip_fanvil': 'Exporter tous les utilisateurs Hamvoip pour les téléphones Fanvil',
+      'export_hamvoip_fanvil_description': 'Exporter tous les utilisateurs Hamvoip pour les téléphones Fanvil vers "hamvoip_fanvil_data.csv".',
+      'export_dutch_fanvil': 'Exporter tous les utilisateurs néerlandais pour les téléphones Fanvil',
+      'export_dutch_fanvil_description': 'Exporter tous les utilisateurs néerlandais pour les téléphones Fanvil vers "all_fanvil_data.csv".',
+      'export_hamvoip_grandstream': 'Exporter tous les utilisateurs Hamvoip pour les téléphones Grandstream',
+      'export_hamvoip_grandstream_description': 'Exporter tous les utilisateurs Hamvoip pour les téléphones Grandstream vers "hamvoip_grandstream_data.csv".',
+      'export_dutch_grandstream': 'Exporter tous les utilisateurs néerlandais pour les téléphones Grandstream',
+      'export_dutch_grandstream_description': 'Exporter tous les utilisateurs néerlandais pour les téléphones Grandstream vers "all_grandstream_data.csv".',
+      'export_hamvoip_cisco': 'Exporter tous les utilisateurs Hamvoip pour les téléphones Cisco',
+      'export_hamvoip_cisco_description': 'Exporter tous les utilisateurs Hamvoip pour les téléphones Cisco vers "hamvoip_cisco_data.xml".',
+      'export_to_database': 'Exporter la Base de Données :',
+      'export_to_radio': 'Exporter vers Radio :',
+      'export_to_phone': 'Exporter vers Téléphone :',
+
+
     },
 
     'jp-jp': {
@@ -963,6 +1062,31 @@ class Language {
       'testers_header': '心より感謝申し上げます！',
       'testers_text1': '素晴らしいテスターの方々',
       'testers_text2': '以下のテスターの方々に、貴重な貢献をいただき感謝申し上げます。',
+
+      //
+      // export screen export_screen.dart
+      //'export_appbar': 'データベースをエクスポート',
+      'export_all': 'すべてのRadioIDデータをエクスポート',
+      'export_all_description': 'すべてのRadioIDデータを"exported_data.csv"にエクスポートします。',
+      'export_all_anytone': 'Anytoneラジオ用のすべてのRadioIDデータをエクスポート',
+      'export_all_anytone_description': 'Anytoneラジオ用のすべてのRadioIDデータを"userat.csv"にエクスポートします。',
+      'export_select_anytone': 'Anytoneラジオ用の選択したRadioIDデータをエクスポート',
+      'export_select_anytone_description': 'Anytoneラジオ用の選択したRadioIDデータを"userat.csv"にエクスポートします。',
+      'export_hamvoip_fanvil': 'Fanvil電話用のすべてのHamvoipユーザーをエクスポート',
+      'export_hamvoip_fanvil_description': 'Fanvil電話用のすべてのHamvoipユーザーを"hamvoip_fanvil_data.csv"にエクスポートします。',
+      'export_dutch_fanvil': 'Fanvil電話用のすべてのオランダユーザーをエクスポート',
+      'export_dutch_fanvil_description': 'Fanvil電話用のすべてのオランダユーザーを"all_fanvil_data.csv"にエクスポートします。',
+      'export_hamvoip_grandstream': 'Grandstream電話用のすべてのHamvoipユーザーをエクスポート',
+      'export_hamvoip_grandstream_description': 'Grandstream電話用のすべてのHamvoipユーザーを"hamvoip_grandstream_data.csv"にエクスポートします。',
+      'export_dutch_grandstream': 'Grandstream電話用のすべてのオランダユーザーをエクスポート',
+      'export_dutch_grandstream_description': 'Grandstream電話用のすべてのオランダユーザーを"all_grandstream_data.csv"にエクスポートします。',
+      'export_hamvoip_cisco': 'Cisco電話用のすべてのHamvoipユーザーをエクスポート',
+      'export_hamvoip_cisco_description': 'Cisco電話用のすべてのHamvoipユーザーを"hamvoip_cisco_data.xml"にエクスポートします。',
+      'export_to_database': 'データベースをエクスポート:',
+      'export_to_radio': 'ラジオにエクスポート:',
+      'export_to_phone': '電話にエクスポート:',
+
+
     },
 
     'cn-cn': {
@@ -1155,6 +1279,31 @@ class Language {
       'testers_header': '衷心感谢！',
       'testers_text1': '我们出色的测试人员',
       'testers_text2': '感谢以下测试人员的宝贵贡献。',
+
+      //
+      // export screen export_screen.dart
+      //'export_appbar': '导出数据库',
+      'export_all': '导出所有RadioID数据',
+      'export_all_description': '将所有RadioID数据导出到"exported_data.csv"。',
+      'export_all_anytone': '导出所有Anytone无线电的RadioID数据',
+      'export_all_anytone_description': '将所有Anytone无线电的RadioID数据导出到"userat.csv"。',
+      'export_select_anytone': '导出选定的Anytone无线电的RadioID数据',
+      'export_select_anytone_description': '将选定的Anytone无线电的RadioID数据导出到"userat.csv"。',
+      'export_hamvoip_fanvil': '导出所有Hamvoip用户的Fanvil电话数据',
+      'export_hamvoip_fanvil_description': '将所有Hamvoip用户的Fanvil电话数据导出到"hamvoip_fanvil_data.csv"。',
+      'export_dutch_fanvil': '导出所有荷兰用户的Fanvil电话数据',
+      'export_dutch_fanvil_description': '将所有荷兰用户的Fanvil电话数据导出到"all_fanvil_data.csv"。',
+      'export_hamvoip_grandstream': '导出所有Hamvoip用户的Grandstream电话数据',
+      'export_hamvoip_grandstream_description': '将所有Hamvoip用户的Grandstream电话数据导出到"hamvoip_grandstream_data.csv"。',
+      'export_dutch_grandstream': '导出所有荷兰用户的Grandstream电话数据',
+      'export_dutch_grandstream_description': '将所有荷兰用户的Grandstream电话数据导出到"all_grandstream_data.csv"。',
+      'export_hamvoip_cisco': '导出所有Hamvoip用户的Cisco电话数据',
+      'export_hamvoip_cisco_description': '将所有Hamvoip用户的Cisco电话数据导出到"hamvoip_cisco_data.xml"。',
+      'export_to_database': '导出数据库：',
+      'export_to_radio': '导出到无线电：',
+      'export_to_phone': '导出到电话：',
+
+
     },
 
   };
