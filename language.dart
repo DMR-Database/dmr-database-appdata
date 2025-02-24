@@ -4,6 +4,8 @@ class Language {
       //All
       'all_extra_features': 'Extra Features:',
       'all_close': 'Close',
+      // 'extra_features': 'Extra Features:',
+
       //
       //Menu main.dart
       'menu_home': 'Home',
@@ -118,22 +120,27 @@ class Language {
       'information_share_header': 'Look what I found!',
       'information_share_text': 'Look what I found, check out DMR User Database App at https://play.google.com/store/apps/developer?id=PD2EMC',
       //
-      //User Settings Screen settingsuser_screen.dart
       'update': 'Update',
-      'enter_callsign': 'Enter Your Callsign',
-      'callsign_description': 'Enter your callsign here. This will be shown on the home screen topbar.',
-      'save_callsign': 'Save Callsign',
-      'clear_callsign': 'Clear Callsign',
-      'extra_features': 'Extra Features:',
-      'export_feature': 'Export Feature',
-      'users_per_country': 'Users per Country',
-      'repeater_maps': 'Repeater Maps',
-      'hackerspaces_maps': 'Hackerspaces Maps',
-      'hoseline_link': 'Hoseline Link',
-      'links_page': 'Links Page',
-      'logbook_feature': 'Logbook Feature',
-      'language': 'Language',
+      //User Settings Screen settingsuser_screen.dart
+      'settingsuser_appbar': 'User Settings',
+      'settingsuser_enter_callsign': 'Enter Your Callsign',
+      'settingsuser_callsign_description': 'Enter your callsign here. This will be shown on the home screen topbar.',
+      'settingsuser_callsign_save': 'Save Callsign',
+      'settingsuser_callsign_clear': 'Clear Callsign',
+      'settingsuser_extra_features': 'Enable Extra Features:',
+      'settingsuser_export_feature': 'Export Feature',
+      'settingsuser_users_per_country': 'Users per Country',
+      'settingsuser_repeater_maps': 'Repeater Maps',
+      'settingsuser_hackerspaces_maps': 'Hackerspaces Maps',
+      'settingsuser_hoseline_link': 'Hoseline Link',
+      'settingsuser_links_page': 'Links Page',
+      'settingsuser_logbook_feature': 'Logbook Feature',
+      'settingsuser_language': 'Choose your Language',
+      'settingsuser_language_description': 'Menu Language will be changed after restart of App',
+      'settingsuser_language_message': 'Language Setting saved...',
+
       //
+
       //database_screen.dart
       'database_page_translation': 'database_page_translation',
       'database_appbar':'Database Settings',
@@ -148,6 +155,7 @@ class Language {
       'test_network_sucess': 'Network test successful!',
       'export_database': 'Export Databases',
       'export_database_description': 'Export Databases for your devices.',
+      'users_per_country': 'Users per Country',
       'users_per_country_description': 'Show amount of Users per Country.',
       //
       //Database Info Page database_info_screen.dart
@@ -224,6 +232,8 @@ class Language {
       //All
       'all_extra_features': 'Extra Functies:',
       'all_close': 'Sluiten',
+      // 'extra_features': 'Extra Functies:',
+
       //
       //Menu main.dart
       'menu_home': 'Home',
@@ -272,7 +282,7 @@ class Language {
       //
       'search_callsign': 'Roepnaam',
       'search_city': 'Stad',
-      'search_state': 'Provincie',
+      'search_state': 'Staat',
       'search_country': 'Land',
       'search_trustee': 'Beheerder',
       'search_server': 'Server',
@@ -282,22 +292,24 @@ class Language {
       'search_colorcode': 'Kleurcode',
       'search_tslinked': 'Timeslot',
       'search_ipcsnetwork': 'Netwerk',
+
       //
       //Menu 3
       //News Screen news_screen.dart
-      'news_appbar': 'DMR User Database Nieuws',
+      'news_appbar': 'DMR Gebruikersdatabase Nieuws',
       'news_more': 'Lees meer',
+
       //
       //Menu 4
       //Database Screen info_screen.dart
       'infoscreen_appbar': 'Database Informatie',
       'infoscreen_localcount': 'Lokale Telling',
       'infoscreen_servercount': 'Server Telling',
-      'infoscreen_radioid': 'Bevat informatie over Radioamateurs op DMR.',
-      'infoscreen_hamvoip': 'Bevat informatie over Radioamateurs op HamVoIP.',
-      'infoscreen_hamshack': 'Bevat informatie over Radioamateurs op Hamshack Hotline.',
-      'infoscreen_dapnet': 'Bevat informatie over Radioamateurs op Dapnet.',
-      'infoscreen_nxdn': 'Bevat informatie over Radioamateurs op NXDN.',
+      'infoscreen_radioid': 'Bevat informatie over radio-operators in DMR.',
+      'infoscreen_hamvoip': 'Bevat informatie over radio-operators op HamVoIP.',
+      'infoscreen_hamshack': 'Bevat informatie over radio-operators op Hamshack Hotline.',
+      'infoscreen_dapnet': 'Bevat informatie over radio-operators op Dapnet.',
+      'infoscreen_nxdn': 'Bevat informatie over radio-operators op NXDN.',
       'infoscreen_repeater': 'Bevat informatie over DMR-repeaters wereldwijd.',
       //
       //Menu 5
@@ -336,22 +348,27 @@ class Language {
       'information_share_header': 'Kijk wat ik heb gevonden!',
       'information_share_text': 'Kijk wat ik heb gevonden, bekijk de DMR Gebruikersdatabase App op https://play.google.com/store/apps/developer?id=PD2EMC',
       //
-      //User Settings Screen settingsuser_screen.dart
       'update': 'Bijwerken',
-      'enter_callsign': 'Voer uw roepnaam in',
-      'callsign_description': 'Voer hier uw roepnaam in. Dit wordt weergegeven in de bovenste balk van de startpagina.',
-      'save_callsign': 'Roepnaam Opslaan',
-      'clear_callsign': 'Roepnaam Wissen',
-      'extra_features': 'Extra Functies:',
-      'export_feature': 'Exportfunctie',
-      'users_per_country': 'Gebruikers per Land',
-      'repeater_maps': 'Repeater Kaarten',
-      'hackerspaces_maps': 'Hackerspaces Kaarten',
-      'hoseline_link': 'Hoseline Link',
-      'links_page': 'Links Pagina',
-      'logbook_feature': 'Logboekfunctie',
-      'language': 'Taal',
+      //User Settings Screen settingsuser_screen.dart
+      'settingsuser_appbar': 'Gebruikersinstellingen',
+      'settingsuser_enter_callsign': 'Voer uw roepnaam in',
+      'settingsuser_callsign_description': 'Voer hier uw roepnaam in. Dit wordt weergegeven in de bovenste balk van de startpagina.',
+      'settingsuser_callsign_save': 'Roepnaam Opslaan',
+      'settingsuser_callsign_clear': 'Roepnaam Wissen',
+      'settingsuser_extra_features': 'Extra Functies Inschakelen:',
+      'settingsuser_export_feature': 'Exportfunctie',
+      'settingsuser_users_per_country': 'Gebruikers per Land',
+      'settingsuser_repeater_maps': 'Repeater Kaarten',
+      'settingsuser_hackerspaces_maps': 'Hackerspaces Kaarten',
+      'settingsuser_hoseline_link': 'Hoseline Link',
+      'settingsuser_links_page': 'Links Pagina',
+      'settingsuser_logbook_feature': 'Logboekfunctie',
+      'settingsuser_language': 'Kies uw Taal',
+      'settingsuser_language_description': 'Menutaal wordt gewijzigd na herstart van de app',
+      'settingsuser_language_message': 'Taalinstelling opgeslagen...',
+
       //
+
       //database_screen.dart
       'database_page_translation': 'database_page_translation',
       'database_appbar':'Database Instellingen',
@@ -366,6 +383,7 @@ class Language {
       'test_network_sucess': 'Netwerktest succesvol!',
       'export_database': 'Databases Exporteren',
       'export_database_description': 'Exporteer databases voor uw apparaten.',
+      'users_per_country': 'Gebruikers per Land',
       'users_per_country_description': 'Toon het aantal gebruikers per land.',
       //
       //Database Info Page database_info_screen.dart
@@ -373,7 +391,6 @@ class Language {
       'databaseinfo_path': 'Databasepad',
       'databaseinfo_update': 'Laatste update',
       'databaseinfo_upload': 'Laatste upload',
-      'export_appbar': 'Databases Exporteren',
       //database_count
       'database_count_appbar': 'Gebruikers per Land',
       'database_count_users': 'Gebruikers',
@@ -410,10 +427,9 @@ class Language {
       'testers_header': 'Een Enorme Dankjewel!',
       'testers_text1': 'Onze geweldige testers',
       'testers_text2': 'Bedankt aan de volgende testers voor hun onschatbare bijdragen.',
-
       //
       // export screen export_screen.dart
-      //'export_appbar': 'Exporteer Databases',
+      'export_appbar': 'Databases Exporteren',
       'export_all': 'Exporteer alle RadioID-gegevens',
       'export_all_description': 'Exporteer alle RadioID-gegevens naar "exported_data.csv".',
       'export_all_anytone': 'Exporteer alle RadioID-gegevens voor Anytone-radios',
@@ -433,15 +449,14 @@ class Language {
       'export_to_database': 'Exporteer Database:',
       'export_to_radio': 'Exporteer naar Radio:',
       'export_to_phone': 'Exporteer naar Telefoon:',
-
-
-
     },
 
     'de-de': {
       //All
       'all_extra_features': 'Zusätzliche Funktionen:',
       'all_close': 'Schließen',
+      // 'extra_features': 'Zusätzliche Funktionen:',
+
       //
       //Menu main.dart
       'menu_home': 'Startseite',
@@ -471,12 +486,12 @@ class Language {
       //
       //Menu 2
       //Search Screen Search_screen.dart
-      'search_appbar': 'Datenbank Durchsuchen',
-      'search_select_database': 'Datenbank Auswählen',
-      'search_enter_search_type': 'Suchtyp Auswählen',
-      'search_enter_search_term': 'Suchbegriff Eingeben',
+      'search_appbar': 'Datenbank durchsuchen',
+      'search_select_database': 'Datenbank auswählen',
+      'search_enter_search_type': 'Suchtyp auswählen',
+      'search_enter_search_term': 'Suchbegriff eingeben',
       'search_please_enter_search_term': 'Bitte geben Sie einen Suchbegriff ein',
-      'search_database': 'Datenbank Durchsuchen', //searchbutton
+      'search_database': 'Datenbank durchsuchen', //searchbutton
       'search_results_name': 'Ergebnis(se)',
       //
       'search_extension': 'Erweiterung',
@@ -500,18 +515,20 @@ class Language {
       'search_colorcode': 'Farbcode',
       'search_tslinked': 'Timeslot',
       'search_ipcsnetwork': 'Netzwerk',
+
       //
       //Menu 3
       //News Screen news_screen.dart
       'news_appbar': 'DMR-Benutzerdatenbank Neuigkeiten',
       'news_more': 'Mehr lesen',
+
       //
       //Menu 4
       //Database Screen info_screen.dart
       'infoscreen_appbar': 'Datenbankinformationen',
       'infoscreen_localcount': 'Lokale Anzahl',
       'infoscreen_servercount': 'Server Anzahl',
-      'infoscreen_radioid': 'Enthält Informationen über Funkamateure auf DMR.',
+      'infoscreen_radioid': 'Enthält Informationen über Funkamateure im DMR.',
       'infoscreen_hamvoip': 'Enthält Informationen über Funkamateure auf HamVoIP.',
       'infoscreen_hamshack': 'Enthält Informationen über Funkamateure auf Hamshack Hotline.',
       'infoscreen_dapnet': 'Enthält Informationen über Funkamateure auf Dapnet.',
@@ -554,22 +571,27 @@ class Language {
       'information_share_header': 'Schau, was ich gefunden habe!',
       'information_share_text': 'Schau, was ich gefunden habe, probiere die DMR-Benutzerdatenbank-App aus: https://play.google.com/store/apps/developer?id=PD2EMC',
       //
-      //User Settings Screen settingsuser_screen.dart
       'update': 'Aktualisieren',
-      'enter_callsign': 'Geben Sie Ihr Rufzeichen ein',
-      'callsign_description': 'Geben Sie hier Ihr Rufzeichen ein. Dies wird in der oberen Leiste der Startseite angezeigt.',
-      'save_callsign': 'Rufzeichen speichern',
-      'clear_callsign': 'Rufzeichen löschen',
-      'extra_features': 'Zusätzliche Funktionen:',
-      'export_feature': 'Exportfunktion',
-      'users_per_country': 'Benutzer pro Land',
-      'repeater_maps': 'Repeater-Karten',
-      'hackerspaces_maps': 'Hackerspaces-Karten',
-      'hoseline_link': 'Hoseline-Link',
-      'links_page': 'Links-Seite',
-      'logbook_feature': 'Logbuchfunktion',
-      'language': 'Sprache',
+      //User Settings Screen settingsuser_screen.dart
+      'settingsuser_appbar': 'Benutzereinstellungen',
+      'settingsuser_enter_callsign': 'Geben Sie Ihr Rufzeichen ein',
+      'settingsuser_callsign_description': 'Geben Sie hier Ihr Rufzeichen ein. Dies wird in der oberen Leiste der Startseite angezeigt.',
+      'settingsuser_callsign_save': 'Rufzeichen speichern',
+      'settingsuser_callsign_clear': 'Rufzeichen löschen',
+      'settingsuser_extra_features': 'Zusätzliche Funktionen aktivieren:',
+      'settingsuser_export_feature': 'Exportfunktion',
+      'settingsuser_users_per_country': 'Benutzer pro Land',
+      'settingsuser_repeater_maps': 'Repeater-Karten',
+      'settingsuser_hackerspaces_maps': 'Hackerspaces-Karten',
+      'settingsuser_hoseline_link': 'Hoseline-Link',
+      'settingsuser_links_page': 'Links-Seite',
+      'settingsuser_logbook_feature': 'Logbuchfunktion',
+      'settingsuser_language': 'Wählen Sie Ihre Sprache',
+      'settingsuser_language_description': 'Die Menüsprache wird nach dem Neustart der App geändert.',
+      'settingsuser_language_message': 'Spracheinstellung gespeichert...',
+
       //
+
       //database_screen.dart
       'database_page_translation': 'database_page_translation',
       'database_appbar':'Datenbankeinstellungen',
@@ -584,6 +606,7 @@ class Language {
       'test_network_sucess': 'Netzwerktest erfolgreich!',
       'export_database': 'Datenbanken exportieren',
       'export_database_description': 'Exportieren Sie Datenbanken für Ihre Geräte.',
+      'users_per_country': 'Benutzer pro Land',
       'users_per_country_description': 'Zeigt die Anzahl der Benutzer pro Land an.',
       //
       //Database Info Page database_info_screen.dart
@@ -591,7 +614,6 @@ class Language {
       'databaseinfo_path': 'Datenbankpfad',
       'databaseinfo_update': 'Letzte Aktualisierung',
       'databaseinfo_upload': 'Letzter Upload',
-      'export_appbar': 'Datenbanken exportieren',
       //database_count
       'database_count_appbar': 'Benutzer pro Land',
       'database_count_users': 'Benutzer',
@@ -602,12 +624,12 @@ class Language {
       'appinfo_update': 'Letzte Aktualisierung',
       'appinfo_upload': 'Letzter Upload',
       'appinfo_changes': 'Letzte Änderungen',
-      'appinfo_googleversion': 'Google Play Version',
+      'appinfo_googleversion': 'Google Play-Version',
       'appinfo_localversion': 'Installierte Version',
       //
       //Contact Screen contactonline_screen.dart
       'contact_appbar': 'Kontaktinformationen',
-      'contact_report': 'Ein Problem Melden',
+      'contact_report': 'Ein Problem melden',
       'contact_report_description': 'Bitte melden Sie alle Probleme',
       'contact_discord': 'Kontaktieren Sie uns über Discord',
       'contact_discord_description': 'Treten Sie unserem Discord-Server bei',
@@ -628,37 +650,36 @@ class Language {
       'testers_header': 'Ein Riesiges Dankeschön!',
       'testers_text1': 'Unsere großartigen Tester',
       'testers_text2': 'Vielen Dank an die folgenden Tester für ihre unschätzbaren Beiträge.',
-
       //
       // export screen export_screen.dart
-      //'export_appbar': 'Datenbanken Exportieren',
-      'export_all': 'Alle RadioID-Daten exportieren',
-      'export_all_description': 'Exportiere alle RadioID-Daten nach "exported_data.csv".',
-      'export_all_anytone': 'Alle RadioID-Daten für Anytone-Funkgeräte exportieren',
-      'export_all_anytone_description': 'Exportiere alle RadioID-Daten für Anytone-Funkgeräte nach "userat.csv".',
-      'export_select_anytone': 'Ausgewählte RadioID-Daten für Anytone-Funkgeräte exportieren',
-      'export_select_anytone_description': 'Exportiere ausgewählte RadioID-Daten für Anytone-Funkgeräte nach "userat.csv".',
-      'export_hamvoip_fanvil': 'Alle Hamvoip-Benutzer für Fanvil-Telefone exportieren',
-      'export_hamvoip_fanvil_description': 'Exportiere alle Hamvoip-Benutzer für Fanvil-Telefone nach "hamvoip_fanvil_data.csv".',
-      'export_dutch_fanvil': 'Alle niederländischen Benutzer für Fanvil-Telefone exportieren',
-      'export_dutch_fanvil_description': 'Exportiere alle niederländischen Benutzer für Fanvil-Telefone nach "all_fanvil_data.csv".',
-      'export_hamvoip_grandstream': 'Alle Hamvoip-Benutzer für Grandstream-Telefone exportieren',
-      'export_hamvoip_grandstream_description': 'Exportiere alle Hamvoip-Benutzer für Grandstream-Telefone nach "hamvoip_grandstream_data.csv".',
-      'export_dutch_grandstream': 'Alle niederländischen Benutzer für Grandstream-Telefone exportieren',
-      'export_dutch_grandstream_description': 'Exportiere alle niederländischen Benutzer für Grandstream-Telefone nach "all_grandstream_data.csv".',
-      'export_hamvoip_cisco': 'Alle Hamvoip-Benutzer für Cisco-Telefone exportieren',
-      'export_hamvoip_cisco_description': 'Exportiere alle Hamvoip-Benutzer für Cisco-Telefone nach "hamvoip_cisco_data.xml".',
+      'export_appbar': 'Datenbanken exportieren',
+      'export_all': 'Exportieren Sie alle RadioID-Daten',
+      'export_all_description': 'Exportieren Sie alle RadioID-Daten in "exported_data.csv".',
+      'export_all_anytone': 'Exportieren Sie alle RadioID-Daten für Anytone-Radios',
+      'export_all_anytone_description': 'Exportieren Sie alle RadioID-Daten für Anytone-Radios in "userat.csv".',
+      'export_select_anytone': 'Exportieren Sie ausgewählte RadioID-Daten für Anytone-Radios',
+      'export_select_anytone_description': 'Exportieren Sie ausgewählte RadioID-Daten für Anytone-Radios in "userat.csv".',
+      'export_hamvoip_fanvil': 'Exportieren Sie alle Hamvoip-Benutzer für Fanvil-Telefone',
+      'export_hamvoip_fanvil_description': 'Exportieren Sie alle Hamvoip-Benutzer für Fanvil-Telefone in "hamvoip_fanvil_data.csv".',
+      'export_dutch_fanvil': 'Exportieren Sie alle niederländischen Benutzer für Fanvil-Telefone',
+      'export_dutch_fanvil_description': 'Exportieren Sie alle niederländischen Benutzer für Fanvil-Telefone in "all_fanvil_data.csv".',
+      'export_hamvoip_grandstream': 'Exportieren Sie alle Hamvoip-Benutzer für Grandstream-Telefone',
+      'export_hamvoip_grandstream_description': 'Exportieren Sie alle Hamvoip-Benutzer für Grandstream-Telefone in "hamvoip_grandstream_data.csv".',
+      'export_dutch_grandstream': 'Exportieren Sie alle niederländischen Benutzer für Grandstream-Telefone',
+      'export_dutch_grandstream_description': 'Exportieren Sie alle niederländischen Benutzer für Grandstream-Telefone in "all_grandstream_data.csv".',
+      'export_hamvoip_cisco': 'Exportieren Sie alle Hamvoip-Benutzer für Cisco-Telefone',
+      'export_hamvoip_cisco_description': 'Exportieren Sie alle Hamvoip-Benutzer für Cisco-Telefone in "hamvoip_cisco_data.xml".',
       'export_to_database': 'Datenbank exportieren:',
-      'export_to_radio': 'Exportieren zu Funkgerät:',
-      'export_to_phone': 'Exportieren zu Telefon:',
-
-
+      'export_to_radio': 'Exportieren Sie in das Radio:',
+      'export_to_phone': 'Exportieren Sie in das Telefon:',
     },
 
     'fr-fr': {
       //All
       'all_extra_features': 'Fonctionnalités Supplémentaires :',
       'all_close': 'Fermer',
+      // 'extra_features': 'Fonctionnalités Supplémentaires :',
+
       //
       //Menu main.dart
       'menu_home': 'Accueil',
@@ -717,18 +738,20 @@ class Language {
       'search_colorcode': 'Code Couleur',
       'search_tslinked': 'Timeslot',
       'search_ipcsnetwork': 'Réseau',
+
       //
       //Menu 3
       //News Screen news_screen.dart
       'news_appbar': 'Actualités de la Base de Données DMR',
-      'news_more': 'Lire plus',
+      'news_more': 'Lire la suite',
+
       //
       //Menu 4
       //Database Screen info_screen.dart
       'infoscreen_appbar': 'Informations sur la Base de Données',
       'infoscreen_localcount': 'Compteur Local',
       'infoscreen_servercount': 'Compteur Serveur',
-      'infoscreen_radioid': 'Contient des informations sur les opérateurs radio DMR dans le monde.',
+      'infoscreen_radioid': 'Contient des informations sur les opérateurs radio DMR.',
       'infoscreen_hamvoip': 'Contient des informations sur les opérateurs radio sur HamVoIP.',
       'infoscreen_hamshack': 'Contient des informations sur les opérateurs radio sur Hamshack Hotline.',
       'infoscreen_dapnet': 'Contient des informations sur les opérateurs radio sur Dapnet.',
@@ -771,22 +794,27 @@ class Language {
       'information_share_header': 'Regardez ce que j\'ai trouvé !',
       'information_share_text': 'Regardez ce que j\'ai trouvé, découvrez l\'application DMR User Database sur https://play.google.com/store/apps/developer?id=PD2EMC',
       //
-      //User Settings Screen settingsuser_screen.dart
       'update': 'Mettre à Jour',
-      'enter_callsign': 'Entrez votre Indicatif',
-      'callsign_description': 'Entrez votre indicatif ici. Il sera affiché dans la barre supérieure de l\'accueil.',
-      'save_callsign': 'Enregistrer l\'Indicatif',
-      'clear_callsign': 'Effacer l\'Indicatif',
-      'extra_features': 'Fonctionnalités Supplémentaires :',
-      'export_feature': 'Fonction d\'Exportation',
-      'users_per_country': 'Utilisateurs par Pays',
-      'repeater_maps': 'Cartes des Répéteurs',
-      'hackerspaces_maps': 'Cartes des Hackerspaces',
-      'hoseline_link': 'Lien Hoseline',
-      'links_page': 'Page des Liens',
-      'logbook_feature': 'Fonction Carnet de Log',
-      'language': 'Langue',
+      //User Settings Screen settingsuser_screen.dart
+      'settingsuser_appbar': 'Paramètres Utilisateur',
+      'settingsuser_enter_callsign': 'Entrez votre Indicatif',
+      'settingsuser_callsign_description': 'Entrez votre indicatif ici. Il sera affiché dans la barre supérieure de l\'accueil.',
+      'settingsuser_callsign_save': 'Enregistrer l\'Indicatif',
+      'settingsuser_callsign_clear': 'Effacer l\'Indicatif',
+      'settingsuser_extra_features': 'Activer les Fonctionnalités Supplémentaires :',
+      'settingsuser_export_feature': 'Fonction d\'Exportation',
+      'settingsuser_users_per_country': 'Utilisateurs par Pays',
+      'settingsuser_repeater_maps': 'Cartes des Répéteurs',
+      'settingsuser_hackerspaces_maps': 'Cartes des Hackerspaces',
+      'settingsuser_hoseline_link': 'Lien Hoseline',
+      'settingsuser_links_page': 'Page des Liens',
+      'settingsuser_logbook_feature': 'Fonction Carnet de Log',
+      'settingsuser_language': 'Choisissez votre Langue',
+      'settingsuser_language_description': 'La langue du menu sera modifiée après le redémarrage de l\'application.',
+      'settingsuser_language_message': 'Paramètre de langue enregistré...',
+
       //
+
       //database_screen.dart
       'database_page_translation': 'database_page_translation',
       'database_appbar':'Paramètres de la Base de Données',
@@ -801,6 +829,7 @@ class Language {
       'test_network_sucess': 'Test réseau réussi !',
       'export_database': 'Exporter les Bases de Données',
       'export_database_description': 'Exportez les bases de données pour vos appareils.',
+      'users_per_country': 'Utilisateurs par Pays',
       'users_per_country_description': 'Affiche le nombre d\'utilisateurs par pays.',
       //
       //Database Info Page database_info_screen.dart
@@ -808,7 +837,6 @@ class Language {
       'databaseinfo_path': 'Chemin de la Base de Données',
       'databaseinfo_update': 'Dernière mise à jour',
       'databaseinfo_upload': 'Dernier téléversement',
-      'export_appbar': 'Exporter les Bases de Données',
       //database_count
       'database_count_appbar': 'Utilisateurs par Pays',
       'database_count_users': 'Utilisateurs',
@@ -845,37 +873,36 @@ class Language {
       'testers_header': 'Un Grand Merci !',
       'testers_text1': 'Nos incroyables testeurs',
       'testers_text2': 'Merci aux testeurs suivants pour leurs contributions inestimables.',
-
       //
       // export screen export_screen.dart
-      //'export_appbar': 'Exporter les Bases de Données',
+      'export_appbar': 'Exporter les Bases de Données',
       'export_all': 'Exporter toutes les données RadioID',
-      'export_all_description': 'Exporter toutes les données RadioID vers "exported_data.csv".',
+      'export_all_description': 'Exportez toutes les données RadioID dans "exported_data.csv".',
       'export_all_anytone': 'Exporter toutes les données RadioID pour les radios Anytone',
-      'export_all_anytone_description': 'Exporter toutes les données RadioID pour les radios Anytone vers "userat.csv".',
+      'export_all_anytone_description': 'Exportez toutes les données RadioID pour les radios Anytone dans "userat.csv".',
       'export_select_anytone': 'Exporter les données RadioID sélectionnées pour les radios Anytone',
-      'export_select_anytone_description': 'Exporter les données RadioID sélectionnées pour les radios Anytone vers "userat.csv".',
+      'export_select_anytone_description': 'Exportez les données RadioID sélectionnées pour les radios Anytone dans "userat.csv".',
       'export_hamvoip_fanvil': 'Exporter tous les utilisateurs Hamvoip pour les téléphones Fanvil',
-      'export_hamvoip_fanvil_description': 'Exporter tous les utilisateurs Hamvoip pour les téléphones Fanvil vers "hamvoip_fanvil_data.csv".',
+      'export_hamvoip_fanvil_description': 'Exportez tous les utilisateurs Hamvoip pour les téléphones Fanvil dans "hamvoip_fanvil_data.csv".',
       'export_dutch_fanvil': 'Exporter tous les utilisateurs néerlandais pour les téléphones Fanvil',
-      'export_dutch_fanvil_description': 'Exporter tous les utilisateurs néerlandais pour les téléphones Fanvil vers "all_fanvil_data.csv".',
+      'export_dutch_fanvil_description': 'Exportez tous les utilisateurs néerlandais pour les téléphones Fanvil dans "all_fanvil_data.csv".',
       'export_hamvoip_grandstream': 'Exporter tous les utilisateurs Hamvoip pour les téléphones Grandstream',
-      'export_hamvoip_grandstream_description': 'Exporter tous les utilisateurs Hamvoip pour les téléphones Grandstream vers "hamvoip_grandstream_data.csv".',
+      'export_hamvoip_grandstream_description': 'Exportez tous les utilisateurs Hamvoip pour les téléphones Grandstream dans "hamvoip_grandstream_data.csv".',
       'export_dutch_grandstream': 'Exporter tous les utilisateurs néerlandais pour les téléphones Grandstream',
-      'export_dutch_grandstream_description': 'Exporter tous les utilisateurs néerlandais pour les téléphones Grandstream vers "all_grandstream_data.csv".',
+      'export_dutch_grandstream_description': 'Exportez tous les utilisateurs néerlandais pour les téléphones Grandstream dans "all_grandstream_data.csv".',
       'export_hamvoip_cisco': 'Exporter tous les utilisateurs Hamvoip pour les téléphones Cisco',
-      'export_hamvoip_cisco_description': 'Exporter tous les utilisateurs Hamvoip pour les téléphones Cisco vers "hamvoip_cisco_data.xml".',
+      'export_hamvoip_cisco_description': 'Exportez tous les utilisateurs Hamvoip pour les téléphones Cisco dans "hamvoip_cisco_data.xml".',
       'export_to_database': 'Exporter la Base de Données :',
-      'export_to_radio': 'Exporter vers Radio :',
-      'export_to_phone': 'Exporter vers Téléphone :',
-
-
+      'export_to_radio': 'Exporter vers la Radio :',
+      'export_to_phone': 'Exporter vers le Téléphone :',
     },
 
     'jp-jp': {
       //All
       'all_extra_features': '追加機能:',
       'all_close': '閉じる',
+      // 'extra_features': '追加機能:',
+
       //
       //Menu main.dart
       'menu_home': 'ホーム',
@@ -934,18 +961,20 @@ class Language {
       'search_colorcode': 'カラーコード',
       'search_tslinked': 'タイムスロット',
       'search_ipcsnetwork': 'ネットワーク',
+
       //
       //Menu 3
       //News Screen news_screen.dart
       'news_appbar': 'DMRユーザーデータベースニュース',
       'news_more': '続きを読む',
+
       //
       //Menu 4
       //Database Screen info_screen.dart
       'infoscreen_appbar': 'データベース情報',
       'infoscreen_localcount': 'ローカルカウント',
       'infoscreen_servercount': 'サーバーカウント',
-      'infoscreen_radioid': '世界中のDMRオペレーターに関する情報を含みます。',
+      'infoscreen_radioid': 'DMRの無線オペレーターに関する情報を含みます。',
       'infoscreen_hamvoip': 'HamVoIPの無線オペレーターに関する情報を含みます。',
       'infoscreen_hamshack': 'Hamshack Hotlineの無線オペレーターに関する情報を含みます。',
       'infoscreen_dapnet': 'Dapnetの無線オペレーターに関する情報を含みます。',
@@ -988,22 +1017,27 @@ class Language {
       'information_share_header': '見つけたものをチェック！',
       'information_share_text': 'DMRユーザーデータベースアプリを見つけました: https://play.google.com/store/apps/developer?id=PD2EMC',
       //
-      //User Settings Screen settingsuser_screen.dart
       'update': '更新',
-      'enter_callsign': 'コールサインを入力',
-      'callsign_description': 'ここにコールサインを入力します。ホーム画面の上部バーに表示されます。',
-      'save_callsign': 'コールサインを保存',
-      'clear_callsign': 'コールサインをクリア',
-      'extra_features': '追加機能:',
-      'export_feature': 'エクスポート機能',
-      'users_per_country': '国別ユーザー数',
-      'repeater_maps': 'リピーターマップ',
-      'hackerspaces_maps': 'ハッカースペースマップ',
-      'hoseline_link': 'Hoselineリンク',
-      'links_page': 'リンクページ',
-      'logbook_feature': 'ログブック機能',
-      'language': '言語',
+      //User Settings Screen settingsuser_screen.dart
+      'settingsuser_appbar': 'ユーザー設定',
+      'settingsuser_enter_callsign': 'コールサインを入力',
+      'settingsuser_callsign_description': 'ここにコールサインを入力します。ホーム画面の上部バーに表示されます。',
+      'settingsuser_callsign_save': 'コールサインを保存',
+      'settingsuser_callsign_clear': 'コールサインをクリア',
+      'settingsuser_extra_features': '追加機能を有効にする:',
+      'settingsuser_export_feature': 'エクスポート機能',
+      'settingsuser_users_per_country': '国別ユーザー数',
+      'settingsuser_repeater_maps': 'リピーターマップ',
+      'settingsuser_hackerspaces_maps': 'ハッカースペースマップ',
+      'settingsuser_hoseline_link': 'Hoselineリンク',
+      'settingsuser_links_page': 'リンクページ',
+      'settingsuser_logbook_feature': 'ログブック機能',
+      'settingsuser_language': '言語を選択',
+      'settingsuser_language_description': 'アプリを再起動するとメニュー言語が変更されます。',
+      'settingsuser_language_message': '言語設定が保存されました...',
+
       //
+
       //database_screen.dart
       'database_page_translation': 'database_page_translation',
       'database_appbar':'データベース設定',
@@ -1018,6 +1052,7 @@ class Language {
       'test_network_sucess': 'ネットワークテスト成功！',
       'export_database': 'データベースをエクスポート',
       'export_database_description': 'デバイス用にデータベースをエクスポート。',
+      'users_per_country': '国別ユーザー数',
       'users_per_country_description': '国ごとのユーザー数を表示。',
       //
       //Database Info Page database_info_screen.dart
@@ -1025,7 +1060,6 @@ class Language {
       'databaseinfo_path': 'データベースパス',
       'databaseinfo_update': '最終更新日時',
       'databaseinfo_upload': '最終アップロード日時',
-      'export_appbar': 'データベースをエクスポート',
       //database_count
       'database_count_appbar': '国別ユーザー数',
       'database_count_users': 'ユーザー',
@@ -1062,37 +1096,36 @@ class Language {
       'testers_header': '心より感謝申し上げます！',
       'testers_text1': '素晴らしいテスターの方々',
       'testers_text2': '以下のテスターの方々に、貴重な貢献をいただき感謝申し上げます。',
-
       //
       // export screen export_screen.dart
-      //'export_appbar': 'データベースをエクスポート',
+      'export_appbar': 'データベースをエクスポート',
       'export_all': 'すべてのRadioIDデータをエクスポート',
-      'export_all_description': 'すべてのRadioIDデータを"exported_data.csv"にエクスポートします。',
+      'export_all_description': 'すべてのRadioIDデータを"exported_data.csv"にエクスポート。',
       'export_all_anytone': 'Anytoneラジオ用のすべてのRadioIDデータをエクスポート',
-      'export_all_anytone_description': 'Anytoneラジオ用のすべてのRadioIDデータを"userat.csv"にエクスポートします。',
+      'export_all_anytone_description': 'Anytoneラジオ用のすべてのRadioIDデータを"userat.csv"にエクスポート。',
       'export_select_anytone': 'Anytoneラジオ用の選択したRadioIDデータをエクスポート',
-      'export_select_anytone_description': 'Anytoneラジオ用の選択したRadioIDデータを"userat.csv"にエクスポートします。',
+      'export_select_anytone_description': 'Anytoneラジオ用の選択したRadioIDデータを"userat.csv"にエクスポート。',
       'export_hamvoip_fanvil': 'Fanvil電話用のすべてのHamvoipユーザーをエクスポート',
-      'export_hamvoip_fanvil_description': 'Fanvil電話用のすべてのHamvoipユーザーを"hamvoip_fanvil_data.csv"にエクスポートします。',
+      'export_hamvoip_fanvil_description': 'Fanvil電話用のすべてのHamvoipユーザーを"hamvoip_fanvil_data.csv"にエクスポート。',
       'export_dutch_fanvil': 'Fanvil電話用のすべてのオランダユーザーをエクスポート',
-      'export_dutch_fanvil_description': 'Fanvil電話用のすべてのオランダユーザーを"all_fanvil_data.csv"にエクスポートします。',
+      'export_dutch_fanvil_description': 'Fanvil電話用のすべてのオランダユーザーを"all_fanvil_data.csv"にエクスポート。',
       'export_hamvoip_grandstream': 'Grandstream電話用のすべてのHamvoipユーザーをエクスポート',
-      'export_hamvoip_grandstream_description': 'Grandstream電話用のすべてのHamvoipユーザーを"hamvoip_grandstream_data.csv"にエクスポートします。',
+      'export_hamvoip_grandstream_description': 'Grandstream電話用のすべてのHamvoipユーザーを"hamvoip_grandstream_data.csv"にエクスポート。',
       'export_dutch_grandstream': 'Grandstream電話用のすべてのオランダユーザーをエクスポート',
-      'export_dutch_grandstream_description': 'Grandstream電話用のすべてのオランダユーザーを"all_grandstream_data.csv"にエクスポートします。',
+      'export_dutch_grandstream_description': 'Grandstream電話用のすべてのオランダユーザーを"all_grandstream_data.csv"にエクスポート。',
       'export_hamvoip_cisco': 'Cisco電話用のすべてのHamvoipユーザーをエクスポート',
-      'export_hamvoip_cisco_description': 'Cisco電話用のすべてのHamvoipユーザーを"hamvoip_cisco_data.xml"にエクスポートします。',
+      'export_hamvoip_cisco_description': 'Cisco電話用のすべてのHamvoipユーザーを"hamvoip_cisco_data.xml"にエクスポート。',
       'export_to_database': 'データベースをエクスポート:',
       'export_to_radio': 'ラジオにエクスポート:',
       'export_to_phone': '電話にエクスポート:',
-
-
     },
 
     'cn-cn': {
       //All
       'all_extra_features': '额外功能：',
       'all_close': '关闭',
+      // 'extra_features': '额外功能：',
+
       //
       //Menu main.dart
       'menu_home': '首页',
@@ -1151,23 +1184,25 @@ class Language {
       'search_colorcode': '色码',
       'search_tslinked': '时隙',
       'search_ipcsnetwork': '网络',
+
       //
       //Menu 3
       //News Screen news_screen.dart
       'news_appbar': 'DMR用户数据库新闻',
       'news_more': '阅读更多',
+
       //
       //Menu 4
       //Database Screen info_screen.dart
       'infoscreen_appbar': '数据库信息',
       'infoscreen_localcount': '本地计数',
       'infoscreen_servercount': '服务器计数',
-      'infoscreen_radioid': '包含全球DMR无线电操作员的信息。',
-      'infoscreen_hamvoip': '包含HamVoIP无线电操作员的信息。',
-      'infoscreen_hamshack': '包含Hamshack Hotline无线电操作员的信息。',
-      'infoscreen_dapnet': '包含Dapnet无线电操作员的信息。',
-      'infoscreen_nxdn': '包含NXDN无线电操作员的信息。',
-      'infoscreen_repeater': '包含全球DMR中继器的信息。',
+      'infoscreen_radioid': '包含有关DMR无线电操作员的信息。',
+      'infoscreen_hamvoip': '包含有关HamVoIP无线电操作员的信息。',
+      'infoscreen_hamshack': '包含有关Hamshack Hotline无线电操作员的信息。',
+      'infoscreen_dapnet': '包含有关Dapnet无线电操作员的信息。',
+      'infoscreen_nxdn': '包含有关NXDN无线电操作员的信息。',
+      'infoscreen_repeater': '包含有关全球DMR中继器的信息。',
       //
       //Menu 5
       //Settings Page settings_screen.dart
@@ -1205,22 +1240,27 @@ class Language {
       'information_share_header': '看看我发现了什么！',
       'information_share_text': '看看我发现了什么，试试DMR用户数据库应用：https://play.google.com/store/apps/developer?id=PD2EMC',
       //
-      //User Settings Screen settingsuser_screen.dart
       'update': '更新',
-      'enter_callsign': '输入您的呼号',
-      'callsign_description': '在此输入您的呼号。这将显示在首页顶部栏中。',
-      'save_callsign': '保存呼号',
-      'clear_callsign': '清除呼号',
-      'extra_features': '额外功能：',
-      'export_feature': '导出功能',
-      'users_per_country': '国家用户数',
-      'repeater_maps': '中继器地图',
-      'hackerspaces_maps': '黑客空间地图',
-      'hoseline_link': 'Hoseline链接',
-      'links_page': '链接页面',
-      'logbook_feature': '日志簿功能',
-      'language': '语言',
+      //User Settings Screen settingsuser_screen.dart
+      'settingsuser_appbar': '用户设置',
+      'settingsuser_enter_callsign': '输入您的呼号',
+      'settingsuser_callsign_description': '在此输入您的呼号。这将显示在首页顶部栏中。',
+      'settingsuser_callsign_save': '保存呼号',
+      'settingsuser_callsign_clear': '清除呼号',
+      'settingsuser_extra_features': '启用额外功能：',
+      'settingsuser_export_feature': '导出功能',
+      'settingsuser_users_per_country': '国家用户数',
+      'settingsuser_repeater_maps': '中继器地图',
+      'settingsuser_hackerspaces_maps': '黑客空间地图',
+      'settingsuser_hoseline_link': 'Hoseline链接',
+      'settingsuser_links_page': '链接页面',
+      'settingsuser_logbook_feature': '日志簿功能',
+      'settingsuser_language': '选择您的语言',
+      'settingsuser_language_description': '菜单语言将在应用程序重启后更改。',
+      'settingsuser_language_message': '语言设置已保存...',
+
       //
+
       //database_screen.dart
       'database_page_translation': 'database_page_translation',
       'database_appbar':'数据库设置',
@@ -1235,6 +1275,7 @@ class Language {
       'test_network_sucess': '网络测试成功！',
       'export_database': '导出数据库',
       'export_database_description': '为您的设备导出数据库。',
+      'users_per_country': '国家用户数',
       'users_per_country_description': '显示每个国家的用户数量。',
       //
       //Database Info Page database_info_screen.dart
@@ -1242,7 +1283,6 @@ class Language {
       'databaseinfo_path': '数据库路径',
       'databaseinfo_update': '最后更新时间',
       'databaseinfo_upload': '最后上传时间',
-      'export_appbar': '导出数据库',
       //database_count
       'database_count_appbar': '国家用户数',
       'database_count_users': '用户',
@@ -1279,31 +1319,28 @@ class Language {
       'testers_header': '衷心感谢！',
       'testers_text1': '我们出色的测试人员',
       'testers_text2': '感谢以下测试人员的宝贵贡献。',
-
       //
       // export screen export_screen.dart
-      //'export_appbar': '导出数据库',
+      'export_appbar': '导出数据库',
       'export_all': '导出所有RadioID数据',
       'export_all_description': '将所有RadioID数据导出到"exported_data.csv"。',
       'export_all_anytone': '导出所有Anytone无线电的RadioID数据',
       'export_all_anytone_description': '将所有Anytone无线电的RadioID数据导出到"userat.csv"。',
       'export_select_anytone': '导出选定的Anytone无线电的RadioID数据',
       'export_select_anytone_description': '将选定的Anytone无线电的RadioID数据导出到"userat.csv"。',
-      'export_hamvoip_fanvil': '导出所有Hamvoip用户的Fanvil电话数据',
-      'export_hamvoip_fanvil_description': '将所有Hamvoip用户的Fanvil电话数据导出到"hamvoip_fanvil_data.csv"。',
-      'export_dutch_fanvil': '导出所有荷兰用户的Fanvil电话数据',
-      'export_dutch_fanvil_description': '将所有荷兰用户的Fanvil电话数据导出到"all_fanvil_data.csv"。',
-      'export_hamvoip_grandstream': '导出所有Hamvoip用户的Grandstream电话数据',
-      'export_hamvoip_grandstream_description': '将所有Hamvoip用户的Grandstream电话数据导出到"hamvoip_grandstream_data.csv"。',
-      'export_dutch_grandstream': '导出所有荷兰用户的Grandstream电话数据',
-      'export_dutch_grandstream_description': '将所有荷兰用户的Grandstream电话数据导出到"all_grandstream_data.csv"。',
-      'export_hamvoip_cisco': '导出所有Hamvoip用户的Cisco电话数据',
-      'export_hamvoip_cisco_description': '将所有Hamvoip用户的Cisco电话数据导出到"hamvoip_cisco_data.xml"。',
+      'export_hamvoip_fanvil': '导出所有Hamvoip用户用于Fanvil电话',
+      'export_hamvoip_fanvil_description': '将所有Hamvoip用户用于Fanvil电话导出到"hamvoip_fanvil_data.csv"。',
+      'export_dutch_fanvil': '导出所有荷兰用户用于Fanvil电话',
+      'export_dutch_fanvil_description': '将所有荷兰用户用于Fanvil电话导出到"all_fanvil_data.csv"。',
+      'export_hamvoip_grandstream': '导出所有Hamvoip用户用于Grandstream电话',
+      'export_hamvoip_grandstream_description': '将所有Hamvoip用户用于Grandstream电话导出到"hamvoip_grandstream_data.csv"。',
+      'export_dutch_grandstream': '导出所有荷兰用户用于Grandstream电话',
+      'export_dutch_grandstream_description': '将所有荷兰用户用于Grandstream电话导出到"all_grandstream_data.csv"。',
+      'export_hamvoip_cisco': '导出所有Hamvoip用户用于Cisco电话',
+      'export_hamvoip_cisco_description': '将所有Hamvoip用户用于Cisco电话导出到"hamvoip_cisco_data.xml"。',
       'export_to_database': '导出数据库：',
       'export_to_radio': '导出到无线电：',
       'export_to_phone': '导出到电话：',
-
-
     },
 
   };
