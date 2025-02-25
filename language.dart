@@ -17,6 +17,7 @@ class Language {
       //
       //Home Screen home_screen.dart
       'home_appbar': 'Welcome',
+      'home_appbar2': 'to our App',
       'home_text_1': 'Explore global radio systems with ease! Search Radio IDs, Callsigns and user details across databases like RadioID, Hamvoip, HamshackHotline, DAPNET, NXDN and Repeaters.',
       'home_text_2': 'Discover repeaters and hackerspaces on interactive maps and join the thrill of fox hunting. Stay connected with the vibrant amateur radio community through this user-friendly app.',
       'home_text_3': 'Key Features:',
@@ -221,7 +222,33 @@ class Language {
       'export_to_database': 'Export Database:',
       'export_to_radio': 'Export to Radio:',
       'export_to_phone': 'Export to Phone:',
-
+      //
+      //export_select_screen.dart
+      'export_select_appbar': 'Export Selected Users',
+      'export_select_selected': 'Selected',
+      'export_select_export': 'Export to CSV',
+      'export_select_all': 'Select All',
+      'export_select_none': 'Deselect All',
+      'export_select_save': 'Save Countries',
+      'export_select_load': 'Load Saved Countries',
+      //
+      //linkset_screen.dart
+      'linkset_appbar':'Set Links Page',
+      'linkset_url':'URL for',
+      'linkset_url_text':'Enter URL',
+      'linkset_description':'Description for',
+      'linkset_description_text':'Enter description',
+      //
+      //logbook_screen.dart
+      'logbook_appbar': 'Logbook Options',
+      'logbook_add': 'Add',
+      'logbook_add_description': 'Add Qso to the Logbook.',
+      'logbook_view': 'View',
+      'logbook_view_description': 'View the Logbook.',
+      'logbook_edit': 'Edit',
+      'logbook_edit_description': 'Edit the Logbook.',
+      'logbook_management': 'Logbook Management',
+      'logbook_management_description': 'Export or Clear the Logbook.',
 
 
 
@@ -245,6 +272,7 @@ class Language {
       //
       //Home Screen home_screen.dart
       'home_appbar': 'Welkom',
+      'home_appbar2': 'in onze App',
       'home_text_1': 'Verken wereldwijde radiosystemen met gemak! Zoek naar Radio-ID\'s, Roepnamen en gebruikersgegevens in databases zoals RadioID, Hamvoip, HamshackHotline, DAPNET, NXDN en Repeaters.',
       'home_text_2': 'Ontdek repeaters en hackerspaces op interactieve kaarten en ervaar de spanning van foxhunting. Blijf verbonden met de levendige amateurradiogemeenschap via deze gebruiksvriendelijke app.',
       'home_text_3': 'Belangrijke Functies:',
@@ -282,7 +310,7 @@ class Language {
       //
       'search_callsign': 'Roepnaam',
       'search_city': 'Stad',
-      'search_state': 'Staat',
+      'search_state': 'Provincie',
       'search_country': 'Land',
       'search_trustee': 'Beheerder',
       'search_server': 'Server',
@@ -449,6 +477,35 @@ class Language {
       'export_to_database': 'Exporteer Database:',
       'export_to_radio': 'Exporteer naar Radio:',
       'export_to_phone': 'Exporteer naar Telefoon:',
+      //
+      //export_select_screen.dart
+      'export_select_appbar': 'Exporteer Geselecteerde Gebruikers',
+      'export_select_selected': 'Geselecteerd',
+      'export_select_export': 'Exporteer naar CSV',
+      'export_select_all': 'Alles Selecteren',
+      'export_select_none': 'Alles Deselecteren',
+      'export_select_save': 'Landen Opslaan',
+      'export_select_load': 'Opgeslagen Landen Laden',
+      //
+      //linkset_screen.dart
+      'linkset_appbar': 'Links Pagina Instellen',
+      'linkset_url': 'URL voor',
+      'linkset_url_text': 'Voer URL in',
+      'linkset_description': 'Beschrijving voor',
+      'linkset_description_text': 'Voer beschrijving in',
+      //
+      //logbook_screen.dart
+      'logbook_appbar': 'Logboek Opties',
+      'logbook_add': 'Toevoegen',
+      'logbook_add_description': 'Voeg Qso toe aan het logboek.',
+      'logbook_view': 'Bekijken',
+      'logbook_view_description': 'Bekijk het logboek.',
+      'logbook_edit': 'Bewerken',
+      'logbook_edit_description': 'Bewerk het logboek.',
+      'logbook_management': 'Logboek Beheer',
+      'logbook_management_description': 'Exporteer of wis het logboek.',
+
+
     },
 
     'de-de': {
@@ -468,6 +525,7 @@ class Language {
       //
       //Home Screen home_screen.dart
       'home_appbar': 'Willkommen',
+      'home_appbar2': 'zu unserer App',
       'home_text_1': 'Erkunden Sie globale Funksysteme mit Leichtigkeit! Durchsuchen Sie Radio-IDs, Rufzeichen und Benutzerdetails in Datenbanken wie RadioID, Hamvoip, HamshackHotline, DAPNET, NXDN und Repeatern.',
       'home_text_2': 'Entdecken Sie Repeater und Hackerspaces auf interaktiven Karten und erleben Sie den Nervenkitzel der Fuchsjagd. Bleiben Sie mit der lebendigen Amateurfunk-Community über diese benutzerfreundliche App verbunden.',
       'home_text_3': 'Hauptfunktionen:',
@@ -672,6 +730,34 @@ class Language {
       'export_to_database': 'Datenbank exportieren:',
       'export_to_radio': 'Exportieren Sie in das Radio:',
       'export_to_phone': 'Exportieren Sie in das Telefon:',
+      //
+      //export_select_screen.dart
+      'export_select_appbar': 'Ausgewählte Benutzer Exportieren',
+      'export_select_selected': 'Ausgewählt',
+      'export_select_export': 'Als CSV Exportieren',
+      'export_select_all': 'Alle Auswählen',
+      'export_select_none': 'Alle Abwählen',
+      'export_select_save': 'Länder Speichern',
+      'export_select_load': 'Gespeicherte Länder Laden',
+      //
+      //linkset_screen.dart
+      'linkset_appbar': 'Links-Seite Festlegen',
+      'linkset_url': 'URL für',
+      'linkset_url_text': 'URL eingeben',
+      'linkset_description': 'Beschreibung für',
+      'linkset_description_text': 'Beschreibung eingeben',
+      //
+      //logbook_screen.dart
+      'logbook_appbar': 'Logbuch Optionen',
+      'logbook_add': 'Hinzufügen',
+      'logbook_add_description': 'Füge Qso zum Logbuch hinzu.',
+      'logbook_view': 'Anzeigen',
+      'logbook_view_description': 'Zeige das Logbuch an.',
+      'logbook_edit': 'Bearbeiten',
+      'logbook_edit_description': 'Bearbeite das Logbuch.',
+      'logbook_management': 'Logbuch Verwaltung',
+      'logbook_management_description': 'Exportiere oder leere das Logbuch.',
+
     },
 
     'fr-fr': {
@@ -691,6 +777,7 @@ class Language {
       //
       //Home Screen home_screen.dart
       'home_appbar': 'Bienvenue',
+      'home_appbar2': 'à notre App',
       'home_text_1': 'Explorez les systèmes radio mondiaux facilement ! Recherchez des ID Radio, Indicatifs et détails des utilisateurs dans des bases de données comme RadioID, Hamvoip, HamshackHotline, DAPNET, NXDN et Repeaters.',
       'home_text_2': 'Découvrez des répéteurs et hackerspaces sur des cartes interactives et plongez dans l\'excitation de la chasse au renard. Restez connecté avec la communauté radioamateur grâce à cette application conviviale.',
       'home_text_3': 'Fonctionnalités Clés :',
@@ -895,6 +982,36 @@ class Language {
       'export_to_database': 'Exporter la Base de Données :',
       'export_to_radio': 'Exporter vers la Radio :',
       'export_to_phone': 'Exporter vers le Téléphone :',
+      //
+      //export_select_screen.dart
+      'export_select_appbar': 'Exporter les Utilisateurs Sélectionnés',
+      'export_select_selected': 'Sélectionné',
+      'export_select_export': 'Exporter en CSV',
+      'export_select_all': 'Tout Sélectionner',
+      'export_select_none': 'Tout Désélectionner',
+      'export_select_save': 'Enregistrer les Pays',
+      'export_select_load': 'Charger les Pays Enregistrés',
+      //
+      //linkset_screen.dart
+      'linkset_appbar': 'Définir la Page des Liens',
+      'linkset_url': 'URL pour',
+      'linkset_url_text': 'Entrez l\'URL',
+      'linkset_description': 'Description pour',
+      'linkset_description_text': 'Entrez la description',
+      //
+      //logbook_screen.dart
+      'logbook_appbar': 'Options du Carnet de Log',
+      'logbook_add': 'Ajouter',
+      'logbook_add_description': 'Ajouter un QSO au carnet de log.',
+      'logbook_view': 'Voir',
+      'logbook_view_description': 'Voir le carnet de log.',
+      'logbook_edit': 'Modifier',
+      'logbook_edit_description': 'Modifier le carnet de log.',
+      'logbook_management': 'Gestion du Carnet de Log',
+      'logbook_management_description': 'Exporter ou effacer le carnet de log.',
+
+
+
     },
 
     'jp-jp': {
@@ -914,6 +1031,7 @@ class Language {
       //
       //Home Screen home_screen.dart
       'home_appbar': 'ようこそ',
+      'home_appbar2': '私たちのアプリへ',
       'home_text_1': '世界中の無線システムを簡単に探索！RadioID、Hamvoip、HamshackHotline、DAPNET、NXDN、リピーターなどのデータベースから無線ID、コールサイン、ユーザー詳細を検索できます。',
       'home_text_2': 'インタラクティブマップでリピーターやハッカースペースを発見し、フォックスハンティングの興奮を体験してください。このユーザーフレンドリーなアプリを通じて、活気あるアマチュア無線コミュニティとつながりましょう。',
       'home_text_3': '主な機能:',
@@ -1118,6 +1236,35 @@ class Language {
       'export_to_database': 'データベースをエクスポート:',
       'export_to_radio': 'ラジオにエクスポート:',
       'export_to_phone': '電話にエクスポート:',
+      //
+      //export_select_screen.dart
+      'export_select_appbar': '選択したユーザーをエクスポート',
+      'export_select_selected': '選択済み',
+      'export_select_export': 'CSVにエクスポート',
+      'export_select_all': 'すべて選択',
+      'export_select_none': 'すべて解除',
+      'export_select_save': '国を保存',
+      'export_select_load': '保存した国を読み込む',
+      //
+      //linkset_screen.dart
+      'linkset_appbar': 'リンクページを設定',
+      'linkset_url': 'URL',
+      'linkset_url_text': 'URLを入力',
+      'linkset_description': '説明',
+      'linkset_description_text': '説明を入力',
+      //
+      //logbook_screen.dart
+      'logbook_appbar': 'ログブックオプション',
+      'logbook_add': '追加',
+      'logbook_add_description': 'Qsoをログブックに追加します。',
+      'logbook_view': '表示',
+      'logbook_view_description': 'ログブックを表示します。',
+      'logbook_edit': '編集',
+      'logbook_edit_description': 'ログブックを編集します。',
+      'logbook_management': 'ログブック管理',
+      'logbook_management_description': 'ログブックをエクスポートまたは消去します。',
+
+
     },
 
     'cn-cn': {
@@ -1137,6 +1284,7 @@ class Language {
       //
       //Home Screen home_screen.dart
       'home_appbar': '欢迎',
+      'home_appbar2': '欢迎使用我们的应用',
       'home_text_1': '轻松探索全球无线电系统！在RadioID、Hamvoip、HamshackHotline、DAPNET、NXDN和中继器等数据库中搜索无线电ID、呼号和用户详细信息。',
       'home_text_2': '在互动地图上发现中继器和黑客空间，体验狐狸狩猎的刺激。通过这款用户友好的应用程序与活跃的业余无线电社区保持联系。',
       'home_text_3': '主要功能：',
@@ -1341,6 +1489,35 @@ class Language {
       'export_to_database': '导出数据库：',
       'export_to_radio': '导出到无线电：',
       'export_to_phone': '导出到电话：',
+      //
+      //export_select_screen.dart
+      'export_select_appbar': '导出选定的用户',
+      'export_select_selected': '已选定',
+      'export_select_export': '导出为CSV',
+      'export_select_all': '全选',
+      'export_select_none': '取消全选',
+      'export_select_save': '保存国家',
+      'export_select_load': '加载已保存的国家',
+      //
+      //linkset_screen.dart
+      'linkset_appbar': '设置链接页面',
+      'linkset_url': 'URL',
+      'linkset_url_text': '输入URL',
+      'linkset_description': '描述',
+      'linkset_description_text': '输入描述',
+      //
+      //logbook_screen.dart
+      'logbook_appbar': '日志簿选项',
+      'logbook_add': '添加',
+      'logbook_add_description': '将Qso添加到日志簿。',
+      'logbook_view': '查看',
+      'logbook_view_description': '查看日志簿。',
+      'logbook_edit': '编辑',
+      'logbook_edit_description': '编辑日志簿。',
+      'logbook_management': '日志簿管理',
+      'logbook_management_description': '导出或清除日志簿。',
+
+
     },
 
   };
