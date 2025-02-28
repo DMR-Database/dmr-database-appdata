@@ -5,16 +5,20 @@ class Language {
       //All
       'all_extra_features': 'Extra Features:',
       'all_close': 'Close',
+      'all_callsign': 'Callsign',
+      //
       // 'extra_features': 'Extra Features:',
-
       //
       //Menu main.dart
-      'menu_home': 'Home',
-      'menu_search': 'Search',
-      'menu_news': 'News',
-      'menu_database': 'Database',
-      'menu_settings': 'Settings',
-      'menu_information': 'Information',
+      'main_footer': 'DMR User Database Team',
+      'main_app_name': 'DMR User Database',
+      'main_loading': 'One moment please...',
+      'main_menu_home': 'Home',
+      'main_menu_search': 'Search',
+      'main_menu_news': 'News',
+      'main_menu_database': 'Database',
+      'main_menu_settings': 'Settings',
+      'main_menu_information': 'Information',
       //
       //Home Screen home_screen.dart
       'home_appbar': 'Welcome',
@@ -54,7 +58,7 @@ class Language {
       'search_found_in': 'Found in',
       'search_database_word': 'Database',
       //
-      'search_callsign': 'Callsign',
+      //Callsign uses all_callsign
       'search_city': 'City',
       'search_state': 'State',
       'search_country': 'Country',
@@ -122,7 +126,7 @@ class Language {
       'information_share_header': 'Look what I found!',
       'information_share_text': 'Look what I found, check out DMR User Database App at https://play.google.com/store/apps/developer?id=PD2EMC',
       //
-      'update': 'Update',
+      //'update': 'Update',
       //User Settings Screen settingsuser_screen.dart
       'settingsuser_appbar': 'User Settings',
       'settingsuser_enter_callsign': 'Enter Your Callsign',
@@ -142,23 +146,21 @@ class Language {
       'settingsuser_language_message': 'Language Setting saved...',
 
       //
-
       //database_screen.dart
-      'database_page_translation': 'database_page_translation',
       'database_appbar':'Database Settings',
       'database_info': 'Database File Information',
       'database_info_description': 'Information about the Database File.',
       'database_update': 'Update Database',
       'database_update_description': 'Download latest Database from github.',
       'database_update_description_local': 'Download latest data from github and update local tables.',
-      'download_new_database': 'Download new Database.',
-      'test_network':'Test Network Connection',
-      'test_network_description': 'Test your Network Connection to Github.',
-      'test_network_sucess': 'Network test successful!',
-      'export_database': 'Export Databases',
-      'export_database_description': 'Export Databases for your devices.',
-      'users_per_country': 'Users per Country',
-      'users_per_country_description': 'Show amount of Users per Country.',
+      'database_download_new_database': 'Download new Database.',
+      'database_test_network':'Test Network Connection',
+      'database_test_network_description': 'Test your Network Connection to Github.',
+      'database_test_network_sucess': 'Network test successful!',
+      'database_export_database': 'Export Databases',
+      'database_export_database_description': 'Export Databases for your devices.',
+      'database_users_per_country': 'Users per Country',
+      'database_users_per_country_description': 'Show amount of Users per Country.',
       //
       //Database Info Page database_info_screen.dart
       'databaseinfo_appbar': 'Database File Information',
@@ -253,16 +255,18 @@ class Language {
       //
       //logbook_insert_screen.dart
       'logbook_insert_appbar': 'Add QSO to Logbook',
-      //callsign needs has entry use search_callsign
-      'logbook_insert_date': 'Date',
-      'logbook_insert_time': 'Time',
-      'logbook_insert_band': 'Band',
-      'logbook_insert_mode': 'Mode',
-      'logbook_insert_power': 'Power',
-      'logbook_insert_frequency': 'Frequency',
-      'logbook_insert_operator': 'Operator',
-      'logbook_insert_gridsquare': 'Gridsquare',
-      'logbook_insert_comment': 'Comment',
+      //callsign needs has entry use all_callsign
+      //same with date time in logbook_view_screen
+      //same with date time in logbook_edit ?
+      'logbook_all_date': 'Date',
+      'logbook_all_time': 'Time',
+      'logbook_all_band': 'Band',
+      'logbook_all_mode': 'Mode',
+      'logbook_all_power': 'Power',
+      'logbook_all_frequency': 'Frequency',
+      'logbook_all_operator': 'Operator',
+      'logbook_all_gridsquare': 'Gridsquare',
+      'logbook_all_comment': 'Comment',
       'logbook_insert_save': 'Save QSO',
       'logbook_insert_clear': 'Clear Fields',
       'logbook_insert_save_ok': 'QSO saved successfully!',
@@ -271,6 +275,28 @@ class Language {
       'logbook_insert_notentered': 'not entered.',
       //'logbook_insert_enter': 'Please enter a',
       //'logbook_insert_select': 'Please select a',
+      //
+      //logbook_view_screen.dart
+      'logbook_view_appbar': 'View Logbook',
+      'logbook_view_add': 'Add',
+      'logbook_view_add_qso': 'Add Qso',
+      'logbook_view_add_qso_description': 'Add first Qso to the Logbook.',
+      'logbook_view_add_sample': 'Insert Sample Data',
+      'logbook_view_add_sample_description': 'Add sample QSOs to the logbook',
+      //
+      //maps
+      'maps_appbar': 'Map',
+      'maps_please_select': 'Select Country',
+      'maps_name': 'Name',
+      'maps_address': 'Address',
+      'maps_email': 'Email',
+      'maps_mailinglist': 'Mailinglist',
+      'maps_wiki': 'Wiki',
+      'maps_irc': 'IRC',
+      'maps_website': 'Website',
+
+
+
 
 
 
@@ -284,34 +310,38 @@ class Language {
       //All
       'all_extra_features': 'Extra Functies:',
       'all_close': 'Sluiten',
+      'all_callsign': 'Roepnaam',
       // 'extra_features': 'Extra Functies:',
 
       //
       //Menu main.dart
-      'menu_home': 'Home',
-      'menu_search': 'Zoeken',
-      'menu_news': 'Nieuws',
-      'menu_database': 'Database',
-      'menu_settings': 'Instellingen',
-      'menu_information': 'Informatie',
-      //
+      'main_footer': 'DMR User Database Team',
+      'main_app_name': 'DMR User Database',
+      'main_loading': 'Een moment geduld alstublieft...',
+      'main_menu_home': 'Home',
+      'main_menu_search': 'Zoeken',
+      'main_menu_news': 'Nieuws',
+      'main_menu_database': 'Database',
+      'main_menu_settings': 'Instellingen',
+      'main_menu_information': 'Informatie',
+      //      //
       //Home Screen home_screen.dart
       'home_appbar': 'Welkom',
       'home_appbar2': 'in onze App',
       'home_text_1': 'Verken wereldwijde radiosystemen met gemak! Zoek naar Radio-ID\'s, Roepnamen en gebruikersgegevens in databases zoals RadioID, Hamvoip, HamshackHotline, DAPNET, NXDN en Repeaters.',
       'home_text_2': 'Ontdek repeaters en hackerspaces op interactieve kaarten en ervaar de spanning van foxhunting. Blijf verbonden met de levendige amateurradiogemeenschap via deze gebruiksvriendelijke app.',
       'home_text_3': 'Belangrijke Functies:',
-      'home_text_4': '🔹 RadioID Database: Vind gebruikers op Radio-ID, Roepnaam, Naam, Stad, Staat of Land.',
-      'home_text_5': '🔹 NXDN Database: Vind gebruikers op NXDN-ID, Roepnaam, Naam, Stad, Staat of Land.',
-      'home_text_6': '🔹 Hamvoip Database: Vind gebruikers op Extensie, Roepnaam, Naam, Stad, Staat of Land.',
-      'home_text_7': '🔹 HamshackHotline Database: Vind gebruikers op Extensie, Roepnaam, Naam, Stad, Staat, Land of Server.',
-      'home_text_8': '🔹 DAPNET Database: Vind gebruikers op Roepnaam, Stad, Staat of Land.',
-      'home_text_9': '🔹 Repeater Database: Vind repeaters op Roepnaam, Stad, Staat of Land.',
-      'home_text_10': '🦊 Foxhunt: Begin met de spanning van foxhunting – bezoek de informatiepagina en vind de eerste fox!',
+      'home_text_4': '🔹 RadioID Database: Zoek gebruikers op Radio-ID, Roepnaam, Naam, Stad, Staat of Land.',
+      'home_text_5': '🔹 NXDN Database: Zoek gebruikers op NXDN-ID, Roepnaam, Naam, Stad, Staat of Land.',
+      'home_text_6': '🔹 Hamvoip Database: Zoek gebruikers op Extensie, Roepnaam, Naam, Stad, Staat of Land.',
+      'home_text_7': '🔹 HamshackHotline Database: Zoek gebruikers op Extensie, Roepnaam, Naam, Stad, Staat, Land of Server.',
+      'home_text_8': '🔹 DAPNET Database: Zoek gebruikers op Roepnaam, Stad, Staat of Land.',
+      'home_text_9': '🔹 Repeater Database: Zoek repeaters op Roepnaam, Stad, Staat of Land.',
+      'home_text_10': '🦊 Foxhunt: Begin met de spanning van een Vossenjacht – bezoek de informatiepagina en vind de eerste vos!',
       'home_text_11': 'Extra Functies:',
       'home_text_12': '📍 Interactieve Kaarten: Ontdek repeaters en hackerspaces in de buurt.',
       'home_text_13': '🔹 Exporteer Database: Exporteer de database voor verschillende apparaten (Windows/macOS).',
-      'home_text_14': '🔹 Gebruikers per Land: Toont het aantal gebruikers per land.',
+      'home_text_14': '🔹 Gebruikers per Land: Toon het aantal DMR gebruikers per land.',
       'home_text_15': '🔹 Logboek: Log uw QSO\'s en exporteer naar ADIF of CSV.',
       //
       //Menu 2
@@ -333,7 +363,7 @@ class Language {
       'search_found_in': 'Gevonden in',
       'search_database_word': 'Database',
       //
-      'search_callsign': 'Roepnaam',
+      //Callsign uses all_callsign
       'search_city': 'Stad',
       'search_state': 'Provincie',
       'search_country': 'Land',
@@ -358,7 +388,7 @@ class Language {
       'infoscreen_appbar': 'Database Informatie',
       'infoscreen_localcount': 'Lokale Telling',
       'infoscreen_servercount': 'Server Telling',
-      'infoscreen_radioid': 'Bevat informatie over radio-operators in DMR.',
+      'infoscreen_radioid': 'Bevat informatie over radio-operators op DMR.',
       'infoscreen_hamvoip': 'Bevat informatie over radio-operators op HamVoIP.',
       'infoscreen_hamshack': 'Bevat informatie over radio-operators op Hamshack Hotline.',
       'infoscreen_dapnet': 'Bevat informatie over radio-operators op Dapnet.',
@@ -430,14 +460,14 @@ class Language {
       'database_update': 'Database Bijwerken',
       'database_update_description': 'Download de nieuwste database van GitHub.',
       'database_update_description_local': 'Download de nieuwste gegevens van GitHub en update lokale tabellen.',
-      'download_new_database': 'Nieuwe database downloaden.',
-      'test_network':'Test Netwerkverbinding',
-      'test_network_description': 'Test uw netwerkverbinding met GitHub.',
-      'test_network_sucess': 'Netwerktest succesvol!',
-      'export_database': 'Databases Exporteren',
-      'export_database_description': 'Exporteer databases voor uw apparaten.',
-      'users_per_country': 'Gebruikers per Land',
-      'users_per_country_description': 'Toon het aantal gebruikers per land.',
+      'database_download_new_database': 'Nieuwe database downloaden.',
+      'database_test_network':'Test Netwerkverbinding',
+      'database_test_network_description': 'Test uw netwerkverbinding met GitHub.',
+      'database_test_network_sucess': 'Netwerktest succesvol!',
+      'database_export_database': 'Databases Exporteren',
+      'database_export_database_description': 'Exporteer databases voor uw apparaten.',
+      'database_users_per_country': 'Gebruikers per Land',
+      'database_users_per_country_description': 'Toon het aantal gebruikers per land.',
       //
       //Database Info Page database_info_screen.dart
       'databaseinfo_appbar': 'Databasebestandsinformatie',
@@ -532,16 +562,16 @@ class Language {
       //
       //logbook_insert_screen.dart
       'logbook_insert_appbar': 'Voeg QSO toe aan Logboek',
-      //callsign needs has entry use search_callsign
-      'logbook_insert_date': 'Datum',
-      'logbook_insert_time': 'Tijd',
-      'logbook_insert_band': 'Band',
-      'logbook_insert_mode': 'Modus',
-      'logbook_insert_power': 'Vermogen',
-      'logbook_insert_frequency': 'Frequentie',
-      'logbook_insert_operator': 'Operator',
-      'logbook_insert_gridsquare': 'Gridsquare',
-      'logbook_insert_comment': 'Opmerking',
+      //callsign uses entry all_callsign
+      'logbook_all_date': 'Datum',
+      'logbook_all_time': 'Tijd',
+      'logbook_all_band': 'Band',
+      'logbook_all_mode': 'Modus',
+      'logbook_all_power': 'Vermogen',
+      'logbook_all_frequency': 'Frequentie',
+      'logbook_all_operator': 'Operator',
+      'logbook_all_gridsquare': 'Gridsquare',
+      'logbook_all_comment': 'Opmerking',
       'logbook_insert_save': 'QSO Opslaan',
       'logbook_insert_clear': 'Velden Wissen',
       'logbook_insert_save_ok': 'QSO succesvol opgeslagen!',
@@ -550,6 +580,26 @@ class Language {
       'logbook_insert_notentered': 'niet ingevoerd.',
       //'logbook_insert_enter': 'Voer alstublieft een in',
       //'logbook_insert_select': 'Selecteer alstublieft een',
+      //
+      //logbook_view_screen.dart
+      'logbook_view_appbar': 'Bekijk Logboek',
+      'logbook_view_add': 'Toevoegen',
+      'logbook_view_add_qso': 'Qso Toevoegen',
+      'logbook_view_add_qso_description': 'Voeg eerste Qso toe aan het logboek.',
+      'logbook_view_add_sample': 'Voorbeeldgegevens Invoegen',
+      'logbook_view_add_sample_description': 'Voeg voorbeeld QSO\'s toe aan het logboek',
+      //
+      //maps
+      'maps_appbar': 'Kaart',
+      'maps_please_select': 'Selecteer Land',
+      'maps_name': 'Naam',
+      'maps_address': 'Adres',
+      'maps_email': 'E-mail',
+      'maps_mailinglist': 'Mailinglijst',
+      'maps_wiki': 'Wiki',
+      'maps_irc': 'IRC',
+      'maps_website': 'Website',
+
 
 
     },
@@ -558,16 +608,22 @@ class Language {
       //All
       'all_extra_features': 'Zusätzliche Funktionen:',
       'all_close': 'Schließen',
+      'all_callsign': 'Rufzeichen',
+
       // 'extra_features': 'Zusätzliche Funktionen:',
 
       //
       //Menu main.dart
-      'menu_home': 'Startseite',
-      'menu_search': 'Suche',
-      'menu_news': 'Neuigkeiten',
-      'menu_database': 'Datenbank',
-      'menu_settings': 'Einstellungen',
-      'menu_information': 'Informationen',
+      'main_footer': 'DMR User Database Team',
+      'main_app_name': 'DMR User Database',
+      'main_loading': 'Einen Moment bitte...',
+      'main_menu_home': 'Startseite',
+      'main_menu_search': 'Suche',
+      'main_menu_news': 'Neuigkeiten',
+      'main_menu_database': 'Datenbank',
+      'main_menu_settings': 'Einstellungen',
+      'main_menu_information': 'Informationen',
+      //
       //
       //Home Screen home_screen.dart
       'home_appbar': 'Willkommen',
@@ -607,7 +663,7 @@ class Language {
       'search_found_in': 'Gefunden in',
       'search_database_word': 'Datenbank',
       //
-      'search_callsign': 'Rufzeichen',
+      //Callsign uses all_callsign
       'search_city': 'Stadt',
       'search_state': 'Bundesland',
       'search_country': 'Land',
@@ -632,7 +688,7 @@ class Language {
       'infoscreen_appbar': 'Datenbankinformationen',
       'infoscreen_localcount': 'Lokale Anzahl',
       'infoscreen_servercount': 'Server Anzahl',
-      'infoscreen_radioid': 'Enthält Informationen über Funkamateure im DMR.',
+      'infoscreen_radioid': 'Enthält Informationen über Funkamateure auf DMR.',
       'infoscreen_hamvoip': 'Enthält Informationen über Funkamateure auf HamVoIP.',
       'infoscreen_hamshack': 'Enthält Informationen über Funkamateure auf Hamshack Hotline.',
       'infoscreen_dapnet': 'Enthält Informationen über Funkamateure auf Dapnet.',
@@ -704,14 +760,14 @@ class Language {
       'database_update': 'Datenbank aktualisieren',
       'database_update_description': 'Laden Sie die neueste Datenbank von GitHub herunter.',
       'database_update_description_local': 'Laden Sie die neuesten Daten von GitHub herunter und aktualisieren Sie lokale Tabellen.',
-      'download_new_database': 'Neue Datenbank herunterladen.',
-      'test_network':'Netzwerkverbindung testen',
-      'test_network_description': 'Testen Sie Ihre Netzwerkverbindung zu GitHub.',
-      'test_network_sucess': 'Netzwerktest erfolgreich!',
-      'export_database': 'Datenbanken exportieren',
-      'export_database_description': 'Exportieren Sie Datenbanken für Ihre Geräte.',
-      'users_per_country': 'Benutzer pro Land',
-      'users_per_country_description': 'Zeigt die Anzahl der Benutzer pro Land an.',
+      'database_download_new_database': 'Neue Datenbank herunterladen.',
+      'database_test_network':'Netzwerkverbindung testen',
+      'database_test_network_description': 'Testen Sie Ihre Netzwerkverbindung zu GitHub.',
+      'database_test_network_sucess': 'Netzwerktest erfolgreich!',
+      'database_export_database': 'Datenbanken exportieren',
+      'database_export_database_description': 'Exportieren Sie Datenbanken für Ihre Geräte.',
+      'database_users_per_country': 'Benutzer pro Land',
+      'database_users_per_country_description': 'Zeigt die Anzahl der Benutzer pro Land an.',
       //
       //Database Info Page database_info_screen.dart
       'databaseinfo_appbar': 'Datenbankdateiinformationen',
@@ -806,16 +862,16 @@ class Language {
       //
       //logbook_insert_screen.dart
       'logbook_insert_appbar': 'QSO zum Logbuch hinzufügen',
-      //callsign needs has entry use search_callsign
-      'logbook_insert_date': 'Datum',
-      'logbook_insert_time': 'Zeit',
-      'logbook_insert_band': 'Band',
-      'logbook_insert_mode': 'Modus',
-      'logbook_insert_power': 'Leistung',
-      'logbook_insert_frequency': 'Frequenz',
-      'logbook_insert_operator': 'Operator',
-      'logbook_insert_gridsquare': 'Gridsquare',
-      'logbook_insert_comment': 'Kommentar',
+      //callsign uses entry all_callsign
+      'logbook_all_date': 'Datum',
+      'logbook_all_time': 'Zeit',
+      'logbook_all_band': 'Band',
+      'logbook_all_mode': 'Modus',
+      'logbook_all_power': 'Leistung',
+      'logbook_all_frequency': 'Frequenz',
+      'logbook_all_operator': 'Operator',
+      'logbook_all_gridsquare': 'Gridsquare',
+      'logbook_all_comment': 'Kommentar',
       'logbook_insert_save': 'QSO Speichern',
       'logbook_insert_clear': 'Felder Löschen',
       'logbook_insert_save_ok': 'QSO erfolgreich gespeichert!',
@@ -824,7 +880,25 @@ class Language {
       'logbook_insert_notentered': 'nicht eingegeben.',
       //'logbook_insert_enter': 'Bitte geben Sie ein',
       //'logbook_insert_select': 'Bitte wählen Sie ein',
-
+      //
+      //logbook_view_screen.dart
+      'logbook_view_appbar': 'Logbuch Anzeigen',
+      'logbook_view_add': 'Hinzufügen',
+      'logbook_view_add_qso': 'Qso Hinzufügen',
+      'logbook_view_add_qso_description': 'Füge ersten Qso zum Logbuch hinzu.',
+      'logbook_view_add_sample': 'Beispieldaten Einfügen',
+      'logbook_view_add_sample_description': 'Füge Beispiel-QSOs zum Logbuch hinzu',
+      //
+      //maps
+      'maps_appbar': 'Karte',
+      'maps_please_select': 'Land auswählen',
+      'maps_name': 'Name',
+      'maps_address': 'Adresse',
+      'maps_email': 'E-Mail',
+      'maps_mailinglist': 'Mailingliste',
+      'maps_wiki': 'Wiki',
+      'maps_irc': 'IRC',
+      'maps_website': 'Webseite',
 
 
     },
@@ -833,17 +907,21 @@ class Language {
       //All
       'all_extra_features': 'Fonctionnalités Supplémentaires :',
       'all_close': 'Fermer',
+      'all_callsign': 'Indicatif',
       // 'extra_features': 'Fonctionnalités Supplémentaires :',
 
       //
       //Menu main.dart
-      'menu_home': 'Accueil',
-      'menu_search': 'Recherche',
-      'menu_news': 'Actualités',
-      'menu_database': 'Base de Données',
-      'menu_settings': 'Paramètres',
-      'menu_information': 'Informations',
-      //
+      'main_footer': 'DMR User Database Team',
+      'main_app_name': 'DMR User Database',
+      'main_loading': 'Un instant s\'il vous plaît...',
+      'main_menu_home': 'Accueil',
+      'main_menu_search': 'Recherche',
+      'main_menu_news': 'Actualités',
+      'main_menu_database': 'Base de Données',
+      'main_menu_settings': 'Paramètres',
+      'main_menu_information': 'Informations',
+      //      //
       //Home Screen home_screen.dart
       'home_appbar': 'Bienvenue',
       'home_appbar2': 'à notre App',
@@ -882,7 +960,7 @@ class Language {
       'search_found_in': 'Trouvé dans',
       'search_database_word': 'Base de Données',
       //
-      'search_callsign': 'Indicatif',
+      //Callsign uses all_callsign
       'search_city': 'Ville',
       'search_state': 'État',
       'search_country': 'Pays',
@@ -907,7 +985,7 @@ class Language {
       'infoscreen_appbar': 'Informations sur la Base de Données',
       'infoscreen_localcount': 'Compteur Local',
       'infoscreen_servercount': 'Compteur Serveur',
-      'infoscreen_radioid': 'Contient des informations sur les opérateurs radio DMR.',
+      'infoscreen_radioid': 'Contient des informations sur les opérateurs radio sur DMR.',
       'infoscreen_hamvoip': 'Contient des informations sur les opérateurs radio sur HamVoIP.',
       'infoscreen_hamshack': 'Contient des informations sur les opérateurs radio sur Hamshack Hotline.',
       'infoscreen_dapnet': 'Contient des informations sur les opérateurs radio sur Dapnet.',
@@ -979,14 +1057,14 @@ class Language {
       'database_update': 'Mettre à Jour la Base de Données',
       'database_update_description': 'Téléchargez la dernière base de données depuis GitHub.',
       'database_update_description_local': 'Téléchargez les dernières données depuis GitHub et mettez à jour les tables locales.',
-      'download_new_database': 'Télécharger une nouvelle base de données.',
-      'test_network':'Tester la Connexion Réseau',
-      'test_network_description': 'Testez votre connexion réseau à GitHub.',
-      'test_network_sucess': 'Test réseau réussi !',
-      'export_database': 'Exporter les Bases de Données',
-      'export_database_description': 'Exportez les bases de données pour vos appareils.',
-      'users_per_country': 'Utilisateurs par Pays',
-      'users_per_country_description': 'Affiche le nombre d\'utilisateurs par pays.',
+      'database_download_new_database': 'Télécharger une nouvelle base de données.',
+      'database_test_network':'Tester la Connexion Réseau',
+      'database_test_network_description': 'Testez votre connexion réseau à GitHub.',
+      'database_test_network_sucess': 'Test réseau réussi !',
+      'database_export_database': 'Exporter les Bases de Données',
+      'database_export_database_description': 'Exportez les bases de données pour vos appareils.',
+      'database_users_per_country': 'Utilisateurs par Pays',
+      'database_users_per_country_description': 'Affiche le nombre d\'utilisateurs par pays.',
       //
       //Database Info Page database_info_screen.dart
       'databaseinfo_appbar': 'Informations sur le Fichier de la Base de Données',
@@ -1081,16 +1159,16 @@ class Language {
       //
       //logbook_insert_screen.dart
       'logbook_insert_appbar': 'Ajouter un QSO au Carnet de Log',
-      //callsign needs has entry use search_callsign
-      'logbook_insert_date': 'Date',
-      'logbook_insert_time': 'Heure',
-      'logbook_insert_band': 'Bande',
-      'logbook_insert_mode': 'Mode',
-      'logbook_insert_power': 'Puissance',
-      'logbook_insert_frequency': 'Fréquence',
-      'logbook_insert_operator': 'Opérateur',
-      'logbook_insert_gridsquare': 'Gridsquare',
-      'logbook_insert_comment': 'Commentaire',
+      //callsign uses entry all_callsign
+      'logbook_all_date': 'Date',
+      'logbook_all_time': 'Heure',
+      'logbook_all_band': 'Bande',
+      'logbook_all_mode': 'Mode',
+      'logbook_all_power': 'Puissance',
+      'logbook_all_frequency': 'Fréquence',
+      'logbook_all_operator': 'Opérateur',
+      'logbook_all_gridsquare': 'Gridsquare',
+      'logbook_all_comment': 'Commentaire',
       'logbook_insert_save': 'Enregistrer QSO',
       'logbook_insert_clear': 'Effacer les Champs',
       'logbook_insert_save_ok': 'QSO enregistré avec succès !',
@@ -1099,7 +1177,25 @@ class Language {
       'logbook_insert_notentered': 'non entré.',
       //'logbook_insert_enter': 'Veuillez entrer un',
       //'logbook_insert_select': 'Veuillez sélectionner un',
-
+      //
+      //logbook_view_screen.dart
+      'logbook_view_appbar': 'Voir le Carnet de Log',
+      'logbook_view_add': 'Ajouter',
+      'logbook_view_add_qso': 'Ajouter Qso',
+      'logbook_view_add_qso_description': 'Ajouter le premier Qso au carnet de log.',
+      'logbook_view_add_sample': 'Insérer des Données Exemple',
+      'logbook_view_add_sample_description': 'Ajouter des QSOs exemple au carnet de log',
+      //
+      //maps
+      'maps_appbar': 'Carte',
+      'maps_please_select': 'Sélectionnez un Pays',
+      'maps_name': 'Nom',
+      'maps_address': 'Adresse',
+      'maps_email': 'E-mail',
+      'maps_mailinglist': 'Liste de Diffusion',
+      'maps_wiki': 'Wiki',
+      'maps_irc': 'IRC',
+      'maps_website': 'Site Web',
 
 
 
@@ -1109,16 +1205,22 @@ class Language {
       //All
       'all_extra_features': '追加機能:',
       'all_close': '閉じる',
+      'all_callsign': 'コールサイン',
+
       // 'extra_features': '追加機能:',
 
       //
       //Menu main.dart
-      'menu_home': 'ホーム',
-      'menu_search': '検索',
-      'menu_news': 'ニュース',
-      'menu_database': 'データベース',
-      'menu_settings': '設定',
-      'menu_information': '情報',
+      'main_footer': 'DMR User Database Team',
+      'main_app_name': 'DMR User Database',
+      'main_loading': '少々お待ちください...',
+      'main_menu_home': 'ホーム',
+      'main_menu_search': '検索',
+      'main_menu_news': 'ニュース',
+      'main_menu_database': 'データベース',
+      'main_menu_settings': '設定',
+      'main_menu_information': '情報',
+      //
       //
       //Home Screen home_screen.dart
       'home_appbar': 'ようこそ',
@@ -1158,7 +1260,7 @@ class Language {
       'search_found_in': '見つかった場所',
       'search_database_word': 'データベース',
       //
-      'search_callsign': 'コールサイン',
+      //Callsign uses all_callsign
       'search_city': '都市',
       'search_state': '州',
       'search_country': '国',
@@ -1255,14 +1357,14 @@ class Language {
       'database_update': 'データベースを更新',
       'database_update_description': 'GitHubから最新のデータベースをダウンロード。',
       'database_update_description_local': 'GitHubから最新データをダウンロードし、ローカルテーブルを更新。',
-      'download_new_database': '新しいデータベースをダウンロード。',
-      'test_network':'ネットワーク接続をテスト',
-      'test_network_description': 'GitHubへのネットワーク接続をテスト。',
-      'test_network_sucess': 'ネットワークテスト成功！',
-      'export_database': 'データベースをエクスポート',
-      'export_database_description': 'デバイス用にデータベースをエクスポート。',
-      'users_per_country': '国別ユーザー数',
-      'users_per_country_description': '国ごとのユーザー数を表示。',
+      'database_download_new_database': '新しいデータベースをダウンロード。',
+      'database_test_network':'ネットワーク接続をテスト',
+      'database_test_network_description': 'GitHubへのネットワーク接続をテスト。',
+      'database_test_network_sucess': 'ネットワークテスト成功！',
+      'database_export_database': 'データベースをエクスポート',
+      'database_export_database_description': 'デバイス用にデータベースをエクスポート。',
+      'database_users_per_country': '国別ユーザー数',
+      'database_users_per_country_description': '国ごとのユーザー数を表示。',
       //
       //Database Info Page database_info_screen.dart
       'databaseinfo_appbar': 'データベースファイル情報',
@@ -1357,16 +1459,16 @@ class Language {
       //
       //logbook_insert_screen.dart
       'logbook_insert_appbar': 'QSOをログブックに追加',
-      //callsign needs has entry use search_callsign
-      'logbook_insert_date': '日付',
-      'logbook_insert_time': '時間',
-      'logbook_insert_band': 'バンド',
-      'logbook_insert_mode': 'モード',
-      'logbook_insert_power': 'パワー',
-      'logbook_insert_frequency': '周波数',
-      'logbook_insert_operator': 'オペレーター',
-      'logbook_insert_gridsquare': 'グリッドスクエア',
-      'logbook_insert_comment': 'コメント',
+      //callsign uses entry all_callsign
+      'logbook_all_date': '日付',
+      'logbook_all_time': '時間',
+      'logbook_all_band': 'バンド',
+      'logbook_all_mode': 'モード',
+      'logbook_all_power': 'パワー',
+      'logbook_all_frequency': '周波数',
+      'logbook_all_operator': 'オペレーター',
+      'logbook_all_gridsquare': 'グリッドスクエア',
+      'logbook_all_comment': 'コメント',
       'logbook_insert_save': 'QSOを保存',
       'logbook_insert_clear': 'フィールドをクリア',
       'logbook_insert_save_ok': 'QSOが正常に保存されました！',
@@ -1375,7 +1477,25 @@ class Language {
       'logbook_insert_notentered': '入力されていません。',
       //'logbook_insert_enter': '入力してください',
       //'logbook_insert_select': '選択してください',
-
+      //
+      //logbook_view_screen.dart
+      'logbook_view_appbar': 'ログブックを表示',
+      'logbook_view_add': '追加',
+      'logbook_view_add_qso': 'Qsoを追加',
+      'logbook_view_add_qso_description': '最初のQsoをログブックに追加します。',
+      'logbook_view_add_sample': 'サンプルデータを挿入',
+      'logbook_view_add_sample_description': 'サンプルQSOをログブックに追加します',
+      //
+      //maps
+      'maps_appbar': 'マップ',
+      'maps_please_select': '国を選択',
+      'maps_name': '名前',
+      'maps_address': '住所',
+      'maps_email': 'メール',
+      'maps_mailinglist': 'メーリングリスト',
+      'maps_wiki': 'Wiki',
+      'maps_irc': 'IRC',
+      'maps_website': 'ウェブサイト',
 
 
     },
@@ -1384,16 +1504,22 @@ class Language {
       //All
       'all_extra_features': '额外功能：',
       'all_close': '关闭',
+      'all_callsign': '呼号',
+
       // 'extra_features': '额外功能：',
 
       //
       //Menu main.dart
-      'menu_home': '首页',
-      'menu_search': '搜索',
-      'menu_news': '新闻',
-      'menu_database': '数据库',
-      'menu_settings': '设置',
-      'menu_information': '信息',
+      'main_footer': 'DMR User Database Team',
+      'main_app_name': 'DMR User Database',
+      'main_loading': '请稍候...',
+      'main_menu_home': '首页',
+      'main_menu_search': '搜索',
+      'main_menu_news': '新闻',
+      'main_menu_database': '数据库',
+      'main_menu_settings': '设置',
+      'main_menu_information': '信息',
+      //
       //
       //Home Screen home_screen.dart
       'home_appbar': '欢迎',
@@ -1433,7 +1559,7 @@ class Language {
       'search_found_in': '找到于',
       'search_database_word': '数据库',
       //
-      'search_callsign': '呼号',
+      //Callsign uses all_callsign
       'search_city': '城市',
       'search_state': '州',
       'search_country': '国家',
@@ -1530,14 +1656,14 @@ class Language {
       'database_update': '更新数据库',
       'database_update_description': '从GitHub下载最新数据库。',
       'database_update_description_local': '从GitHub下载最新数据并更新本地表。',
-      'download_new_database': '下载新数据库。',
-      'test_network':'测试网络连接',
-      'test_network_description': '测试您到GitHub的网络连接。',
-      'test_network_sucess': '网络测试成功！',
-      'export_database': '导出数据库',
-      'export_database_description': '为您的设备导出数据库。',
-      'users_per_country': '国家用户数',
-      'users_per_country_description': '显示每个国家的用户数量。',
+      'database_download_new_database': '下载新数据库。',
+      'database_test_network':'测试网络连接',
+      'database_test_network_description': '测试您到GitHub的网络连接。',
+      'database_test_network_sucess': '网络测试成功！',
+      'database_export_database': '导出数据库',
+      'database_export_database_description': '为您的设备导出数据库。',
+      'database_users_per_country': '国家用户数',
+      'database_users_per_country_description': '显示每个国家的用户数量。',
       //
       //Database Info Page database_info_screen.dart
       'databaseinfo_appbar': '数据库文件信息',
@@ -1632,16 +1758,16 @@ class Language {
       //
       //logbook_insert_screen.dart
       'logbook_insert_appbar': '将QSO添加到日志簿',
-      //callsign needs has entry use search_callsign
-      'logbook_insert_date': '日期',
-      'logbook_insert_time': '时间',
-      'logbook_insert_band': '频段',
-      'logbook_insert_mode': '模式',
-      'logbook_insert_power': '功率',
-      'logbook_insert_frequency': '频率',
-      'logbook_insert_operator': '操作员',
-      'logbook_insert_gridsquare': '网格坐标',
-      'logbook_insert_comment': '备注',
+      //callsign uses entry all_callsign
+      'logbook_all_date': '日期',
+      'logbook_all_time': '时间',
+      'logbook_all_band': '频段',
+      'logbook_all_mode': '模式',
+      'logbook_all_power': '功率',
+      'logbook_all_frequency': '频率',
+      'logbook_all_operator': '操作员',
+      'logbook_all_gridsquare': '网格坐标',
+      'logbook_all_comment': '备注',
       'logbook_insert_save': '保存QSO',
       'logbook_insert_clear': '清空字段',
       'logbook_insert_save_ok': 'QSO保存成功！',
@@ -1650,8 +1776,26 @@ class Language {
       'logbook_insert_notentered': '未输入。',
       //'logbook_insert_enter': '请输入',
       //'logbook_insert_select': '请选择',
+      //
+      //logbook_view_screen.dart
+      'logbook_view_appbar': '查看日志簿',
+      'logbook_view_add': '添加',
+      'logbook_view_add_qso': '添加Qso',
+      'logbook_view_add_qso_description': '将第一个Qso添加到日志簿。',
+      'logbook_view_add_sample': '插入示例数据',
+      'logbook_view_add_sample_description': '将示例QSO添加到日志簿',
+      //
+      //maps
+      'maps_appbar': '地图',
+      'maps_please_select': '选择国家',
+      'maps_name': '名称',
+      'maps_address': '地址',
+      'maps_email': '电子邮件',
+      'maps_mailinglist': '邮件列表',
+      'maps_wiki': 'Wiki',
+      'maps_irc': 'IRC',
+      'maps_website': '网站',
 
-      
 
     },
 
