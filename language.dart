@@ -1,5 +1,6 @@
 class Language {
   static Map<String, Map<String, String>> translations = {
+
     'en-us': {
       //All
       'all_extra_features': 'Extra Features:',
@@ -249,6 +250,27 @@ class Language {
       'logbook_edit_description': 'Edit the Logbook.',
       'logbook_management': 'Logbook Management',
       'logbook_management_description': 'Export or Clear the Logbook.',
+      //
+      //logbook_insert_screen.dart
+      'logbook_insert_appbar': 'Add QSO to Logbook',
+      //callsign needs has entry use search_callsign
+      'logbook_insert_date': 'Date',
+      'logbook_insert_time': 'Time',
+      'logbook_insert_band': 'Band',
+      'logbook_insert_mode': 'Mode',
+      'logbook_insert_power': 'Power',
+      'logbook_insert_frequency': 'Frequency',
+      'logbook_insert_operator': 'Operator',
+      'logbook_insert_gridsquare': 'Gridsquare',
+      'logbook_insert_comment': 'Comment',
+      'logbook_insert_save': 'Save QSO',
+      'logbook_insert_clear': 'Clear Fields',
+      //'logbook_insert_enter': 'Please enter a',
+      //'logbook_insert_select': 'Please select a',
+      'logbook_insert_notselected': 'not selected.',
+      'logbook_insert_notentered': 'not entered.',
+
+
 
 
 
@@ -504,6 +526,23 @@ class Language {
       'logbook_edit_description': 'Bewerk het logboek.',
       'logbook_management': 'Logboek Beheer',
       'logbook_management_description': 'Exporteer of wis het logboek.',
+      //
+      //logbook_insert_screen.dart
+      'logbook_insert_appbar': 'Voeg QSO toe aan Logboek',
+      //callsign needs has entry use search_callsign
+      'logbook_insert_date': 'Datum',
+      'logbook_insert_time': 'Tijd',
+      'logbook_insert_band': 'Band',
+      'logbook_insert_mode': 'Modus',
+      'logbook_insert_power': 'Vermogen',
+      'logbook_insert_frequency': 'Frequentie',
+      'logbook_insert_operator': 'Operator',
+      'logbook_insert_gridsquare': 'Gridsquare',
+      'logbook_insert_comment': 'Opmerking',
+      'logbook_insert_save': 'QSO Opslaan',
+      'logbook_insert_clear': 'Velden Wissen',
+      'logbook_insert_notselected': 'niet geselecteerd.',
+      'logbook_insert_notentered': 'niet ingevoerd.',
 
 
     },
@@ -757,6 +796,24 @@ class Language {
       'logbook_edit_description': 'Bearbeite das Logbuch.',
       'logbook_management': 'Logbuch Verwaltung',
       'logbook_management_description': 'Exportiere oder leere das Logbuch.',
+      //
+      //logbook_insert_screen.dart
+      'logbook_insert_appbar': 'QSO zum Logbuch hinzufügen',
+      //callsign needs has entry use search_callsign
+      'logbook_insert_date': 'Datum',
+      'logbook_insert_time': 'Zeit',
+      'logbook_insert_band': 'Band',
+      'logbook_insert_mode': 'Modus',
+      'logbook_insert_power': 'Leistung',
+      'logbook_insert_frequency': 'Frequenz',
+      'logbook_insert_operator': 'Operator',
+      'logbook_insert_gridsquare': 'Gridsquare',
+      'logbook_insert_comment': 'Kommentar',
+      'logbook_insert_save': 'QSO Speichern',
+      'logbook_insert_clear': 'Felder Löschen',
+      'logbook_insert_notselected': 'nicht ausgewählt.',
+      'logbook_insert_notentered': 'nicht eingegeben.',
+
 
     },
 
@@ -1009,6 +1066,23 @@ class Language {
       'logbook_edit_description': 'Modifier le carnet de log.',
       'logbook_management': 'Gestion du Carnet de Log',
       'logbook_management_description': 'Exporter ou effacer le carnet de log.',
+      //
+      //logbook_insert_screen.dart
+      'logbook_insert_appbar': 'Ajouter un QSO au Carnet de Log',
+      //callsign needs has entry use search_callsign
+      'logbook_insert_date': 'Date',
+      'logbook_insert_time': 'Heure',
+      'logbook_insert_band': 'Bande',
+      'logbook_insert_mode': 'Mode',
+      'logbook_insert_power': 'Puissance',
+      'logbook_insert_frequency': 'Fréquence',
+      'logbook_insert_operator': 'Opérateur',
+      'logbook_insert_gridsquare': 'Gridsquare',
+      'logbook_insert_comment': 'Commentaire',
+      'logbook_insert_save': 'Enregistrer QSO',
+      'logbook_insert_clear': 'Effacer les Champs',
+      'logbook_insert_notselected': 'non sélectionné.',
+      'logbook_insert_notentered': 'non entré.',
 
 
 
@@ -1263,6 +1337,23 @@ class Language {
       'logbook_edit_description': 'ログブックを編集します。',
       'logbook_management': 'ログブック管理',
       'logbook_management_description': 'ログブックをエクスポートまたは消去します。',
+      //
+      //logbook_insert_screen.dart
+      'logbook_insert_appbar': 'QSOをログブックに追加',
+      //callsign needs has entry use search_callsign
+      'logbook_insert_date': '日付',
+      'logbook_insert_time': '時間',
+      'logbook_insert_band': 'バンド',
+      'logbook_insert_mode': 'モード',
+      'logbook_insert_power': 'パワー',
+      'logbook_insert_frequency': '周波数',
+      'logbook_insert_operator': 'オペレーター',
+      'logbook_insert_gridsquare': 'グリッドスクエア',
+      'logbook_insert_comment': 'コメント',
+      'logbook_insert_save': 'QSOを保存',
+      'logbook_insert_clear': 'フィールドをクリア',
+      'logbook_insert_notselected': '選択されていません。',
+      'logbook_insert_notentered': '入力されていません。',
 
 
     },
@@ -1516,8 +1607,25 @@ class Language {
       'logbook_edit_description': '编辑日志簿。',
       'logbook_management': '日志簿管理',
       'logbook_management_description': '导出或清除日志簿。',
+      //
+      //logbook_insert_screen.dart
+      'logbook_insert_appbar': '将QSO添加到日志簿',
+      //callsign needs has entry use search_callsign
+      'logbook_insert_date': '日期',
+      'logbook_insert_time': '时间',
+      'logbook_insert_band': '频段',
+      'logbook_insert_mode': '模式',
+      'logbook_insert_power': '功率',
+      'logbook_insert_frequency': '频率',
+      'logbook_insert_operator': '操作员',
+      'logbook_insert_gridsquare': '网格坐标',
+      'logbook_insert_comment': '备注',
+      'logbook_insert_save': '保存QSO',
+      'logbook_insert_clear': '清空字段',
+      'logbook_insert_notselected': '未选择。',
+      'logbook_insert_notentered': '未输入。',
 
-
+      
     },
 
   };
