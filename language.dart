@@ -265,10 +265,13 @@ class Language {
       'logbook_insert_comment': 'Comment',
       'logbook_insert_save': 'Save QSO',
       'logbook_insert_clear': 'Clear Fields',
-      //'logbook_insert_enter': 'Please enter a',
-      //'logbook_insert_select': 'Please select a',
+      'logbook_insert_save_ok': 'QSO saved successfully!',
+      'logbook_insert_save_nok': 'Failed to save QSO. Error: ',
       'logbook_insert_notselected': 'not selected.',
       'logbook_insert_notentered': 'not entered.',
+      //'logbook_insert_enter': 'Please enter a',
+      //'logbook_insert_select': 'Please select a',
+
 
 
 
@@ -541,8 +544,12 @@ class Language {
       'logbook_insert_comment': 'Opmerking',
       'logbook_insert_save': 'QSO Opslaan',
       'logbook_insert_clear': 'Velden Wissen',
+      'logbook_insert_save_ok': 'QSO succesvol opgeslagen!',
+      'logbook_insert_save_nok': 'Opslaan van QSO mislukt. Fout: ',
       'logbook_insert_notselected': 'niet geselecteerd.',
       'logbook_insert_notentered': 'niet ingevoerd.',
+      //'logbook_insert_enter': 'Voer alstublieft een in',
+      //'logbook_insert_select': 'Selecteer alstublieft een',
 
 
     },
@@ -811,8 +818,13 @@ class Language {
       'logbook_insert_comment': 'Kommentar',
       'logbook_insert_save': 'QSO Speichern',
       'logbook_insert_clear': 'Felder Löschen',
+      'logbook_insert_save_ok': 'QSO erfolgreich gespeichert!',
+      'logbook_insert_save_nok': 'Fehler beim Speichern des QSO. Fehler: ',
       'logbook_insert_notselected': 'nicht ausgewählt.',
       'logbook_insert_notentered': 'nicht eingegeben.',
+      //'logbook_insert_enter': 'Bitte geben Sie ein',
+      //'logbook_insert_select': 'Bitte wählen Sie ein',
+
 
 
     },
@@ -1081,8 +1093,13 @@ class Language {
       'logbook_insert_comment': 'Commentaire',
       'logbook_insert_save': 'Enregistrer QSO',
       'logbook_insert_clear': 'Effacer les Champs',
+      'logbook_insert_save_ok': 'QSO enregistré avec succès !',
+      'logbook_insert_save_nok': 'Échec de l\'enregistrement du QSO. Erreur : ',
       'logbook_insert_notselected': 'non sélectionné.',
       'logbook_insert_notentered': 'non entré.',
+      //'logbook_insert_enter': 'Veuillez entrer un',
+      //'logbook_insert_select': 'Veuillez sélectionner un',
+
 
 
 
@@ -1352,8 +1369,13 @@ class Language {
       'logbook_insert_comment': 'コメント',
       'logbook_insert_save': 'QSOを保存',
       'logbook_insert_clear': 'フィールドをクリア',
+      'logbook_insert_save_ok': 'QSOが正常に保存されました！',
+      'logbook_insert_save_nok': 'QSOの保存に失敗しました。エラー：',
       'logbook_insert_notselected': '選択されていません。',
       'logbook_insert_notentered': '入力されていません。',
+      //'logbook_insert_enter': '入力してください',
+      //'logbook_insert_select': '選択してください',
+
 
 
     },
@@ -1622,10 +1644,15 @@ class Language {
       'logbook_insert_comment': '备注',
       'logbook_insert_save': '保存QSO',
       'logbook_insert_clear': '清空字段',
+      'logbook_insert_save_ok': 'QSO保存成功！',
+      'logbook_insert_save_nok': '保存QSO失败。错误：',
       'logbook_insert_notselected': '未选择。',
       'logbook_insert_notentered': '未输入。',
+      //'logbook_insert_enter': '请输入',
+      //'logbook_insert_select': '请选择',
 
       
+
     },
 
   };
