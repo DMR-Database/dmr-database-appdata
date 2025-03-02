@@ -48,6 +48,8 @@ class Language {
       'search_please_enter_search_term': 'Please enter a Search Term',
       'search_database': 'Search Database', //searchbutton
       'search_results_name': 'Result(s)',
+      'search_export': 'Export',
+
       //
       'search_extension': 'Extension',
       'search_name': 'Name',
@@ -241,6 +243,9 @@ class Language {
       'linkset_url_text':'Enter URL',
       'linkset_description':'Description for',
       'linkset_description_text':'Enter description',
+      'linkset_edit': 'Edit Links',
+
+
       //
       //logbook_screen.dart
       'logbook_appbar': 'Logbook Options',
@@ -267,6 +272,9 @@ class Language {
       'logbook_all_operator': 'Operator',
       'logbook_all_gridsquare': 'Gridsquare',
       'logbook_all_comment': 'Comment',
+      'logbook_all_at': 'at', //fe 2025-01-01 at 14:00
+      //
+      //
       'logbook_insert_save': 'Save QSO',
       'logbook_insert_clear': 'Clear Fields',
       'logbook_insert_save_ok': 'QSO saved successfully!',
@@ -283,6 +291,43 @@ class Language {
       'logbook_view_add_qso_description': 'Add first Qso to the Logbook.',
       'logbook_view_add_sample': 'Insert Sample Data',
       'logbook_view_add_sample_description': 'Add sample QSOs to the logbook',
+      'logbook_view_add_sample_ok': 'Sample data inserted successfully!',
+      'logbook_view_add_sample_nok': 'Failed to insert sample data',
+      //
+      //logbook_list_screen.dart
+      'logbook_list_appbar': 'Edit Logbook',
+      'logbook_list_no_entries': 'No QSO\'s found.',
+      //
+      //logbook_edit_screen.dart
+      'logbook_edit_appbar': 'Edit Logbook',
+      'logbook_edit_save': 'Save',
+      'logbook_edit_delete': 'Delete',
+      'logbook_edit_cancel': 'Cancel',
+      'logbook_edit_confirm': 'Confirm Deletion',
+      'logbook_edit_confirm_text': 'Are you sure you want to delete this QSO?',
+      //
+      //logbook_export_screen.dart
+      'logbook_export_appbar': 'Logbook Maintenance',
+      'logbook_export_path': 'Database Path',
+      'logbook_export_path_description': 'This is the location of your current database.',
+      'logbook_export_export_adif': 'Export to ADIF',
+      'logbook_export_export_adif_description': 'Export the logbook to ADIF format.',
+      'logbook_export_send_adif': 'Send ADIF Data',
+      'logbook_export_send_adif_description': 'Send ADIF Exported Data.',
+      'logbook_export_export_csv': 'Export to CSV',
+      'logbook_export_export_csv_description': 'Export the logbook to CSV format.',
+      'logbook_export_send_csv': 'Send CSV Data',
+      'logbook_export_send_csv_description': 'Send CVS Exported Data.',
+      'logbook_export_send_database': 'Send Full Database',
+      'logbook_export_send_database_description': 'Send full SQLite Database.',
+      'logbook_export_insert_sample': 'Insert Sample Data',
+      'logbook_export_insert_sample_description': 'Insert sample data into the logbook.',
+      'logbook_export_clear': 'Clear Database',
+      'logbook_export_clear_description': 'Clear all entries from the logbook. This action cannot be undone.',
+      'logbook_export_cancel': 'Cancel',
+      'logbook_export_confirm': 'Confirm',
+      'logbook_export_confirm_text': 'Are you sure you want to clear the entire logbook? This action cannot be undone.',
+      //
       //
       //maps
       'maps_appbar': 'Map',
@@ -294,6 +339,69 @@ class Language {
       'maps_wiki': 'Wiki',
       'maps_irc': 'IRC',
       'maps_website': 'Website',
+      'maps_city': 'City',
+      'maps_nearest_city': 'Nearest City',
+      'maps_landmark': 'Landmark',
+      'maps_region': 'Region',
+      'maps_state': 'State',
+      'maps_country': 'Country',
+      'maps_state_id': 'State ID',
+      'maps_lat': 'Latitude',
+      'maps_lng': 'Longitude',
+      'maps_precise': 'Precise',
+      'maps_frequency': 'Frequency',
+      'maps_input_freq': 'Input Frequency',
+      'maps_rptr_id': 'Repeater ID',
+      'maps_pl': 'PL',
+      'maps_tsq': 'TSQ',
+      'maps_color_code': 'Color Code',
+      'maps_offset': 'Offset',
+      'maps_status': 'Status',
+      'maps_trustee': 'Trustee',
+      'maps_operational_status': 'Operational Status',
+      'maps_assigned': 'Assigned',
+      'maps_ts_linked': 'TS Linked',
+      'maps_allstar_node': 'Allstar Node',
+      'maps_echolink_node': 'EchoLink Node',
+      'wires_node': 'Wires Node',
+      'maps_fm_analog': 'FM Analog',
+      'maps_fm_bandwidth': 'FM Bandwidth',
+      'maps_dmr': 'DMR',
+      'maps_dmr_color_code': 'DMR Color Code',
+      'maps_dmr_id': 'DMR ID',
+      'maps_d_star': 'D-Star',
+      'maps_nxdn': 'NXDN',
+      'maps_apco_p25': 'APCO P25',
+      'maps_p_25_nac': 'P25 NAC',
+      'maps_m17': 'M17',
+      'maps_m17_can': 'M17 CAN',
+      'maps_tetra': 'TETRA',
+      'maps_tetra_mcc': 'TETRA MCC',
+      'maps_tetra_mnc': 'TETRA MNC',
+      'maps_system_fusion': 'System Fusion',
+      'maps_locator': 'Locator',
+      'maps_map_info': 'Maps Info',
+      'maps_ipsc_network': 'IPSC Network',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -353,6 +461,7 @@ class Language {
       'search_please_enter_search_term': 'Voer alstublieft een zoekterm in',
       'search_database': 'Database Zoeken', //searchbutton
       'search_results_name': 'Resultaat(en)',
+      'search_export': 'Exporteren',
       //
       'search_extension': 'Extensie',
       'search_name': 'Naam',
@@ -548,6 +657,7 @@ class Language {
       'linkset_url_text': 'Voer URL in',
       'linkset_description': 'Beschrijving voor',
       'linkset_description_text': 'Voer beschrijving in',
+      'linkset_edit': 'Links Bewerken',
       //
       //logbook_screen.dart
       'logbook_appbar': 'Logboek Opties',
@@ -572,6 +682,9 @@ class Language {
       'logbook_all_operator': 'Operator',
       'logbook_all_gridsquare': 'Gridsquare',
       'logbook_all_comment': 'Opmerking',
+      'logbook_all_at': 'om', //bijv. 2025-01-01 om 14:00
+      //
+      //
       'logbook_insert_save': 'QSO Opslaan',
       'logbook_insert_clear': 'Velden Wissen',
       'logbook_insert_save_ok': 'QSO succesvol opgeslagen!',
@@ -588,6 +701,43 @@ class Language {
       'logbook_view_add_qso_description': 'Voeg eerste Qso toe aan het logboek.',
       'logbook_view_add_sample': 'Voorbeeldgegevens Invoegen',
       'logbook_view_add_sample_description': 'Voeg voorbeeld QSO\'s toe aan het logboek',
+      'logbook_view_add_sample_ok': 'Voorbeeldgegevens succesvol ingevoegd!',
+      'logbook_view_add_sample_nok': 'Invoegen van voorbeeldgegevens mislukt',
+      //logbook_list_screen.dart
+      'logbook_list_appbar': 'Logboek Bewerken',
+      'logbook_list_no_entries': 'Geen QSO\'s gevonden.',
+      //
+      //logbook_edit_screen.dart
+      'logbook_edit_appbar': 'Logboek Bewerken',
+      'logbook_edit_save': 'Opslaan',
+      'logbook_edit_delete': 'Verwijderen',
+      'logbook_edit_cancel': 'Annuleren',
+      'logbook_edit_confirm': 'Bevestig Verwijdering',
+      'logbook_edit_confirm_text': 'Weet u zeker dat u deze QSO wilt verwijderen?',
+      //
+      //logbook_export_screen.dart
+      'logbook_export_appbar': 'Logboek Beheer',
+      'logbook_export_path': 'Databasepad',
+      'logbook_export_path_description': 'Dit is de locatie van uw huidige database.',
+      'logbook_export_export_adif': 'Exporteren naar ADIF',
+      'logbook_export_export_adif_description': 'Exporteer het logboek naar ADIF-formaat.',
+      'logbook_export_send_adif': 'ADIF-gegevens Verzenden',
+      'logbook_export_send_adif_description': 'Verzend geëxporteerde ADIF-gegevens.',
+      'logbook_export_export_csv': 'Exporteren naar CSV',
+      'logbook_export_export_csv_description': 'Exporteer het logboek naar CSV-formaat.',
+      'logbook_export_send_csv': 'CSV-gegevens Verzenden',
+      'logbook_export_send_csv_description': 'Verzend geëxporteerde CSV-gegevens.',
+      'logbook_export_send_database': 'Volledige Database Verzenden',
+      'logbook_export_send_database_description': 'Verzend de volledige SQLite-database.',
+      'logbook_export_insert_sample': 'Voorbeeldgegevens Invoegen',
+      'logbook_export_insert_sample_description': 'Voeg voorbeeldgegevens toe aan het logboek.',
+      'logbook_export_clear': 'Database Wissen',
+      'logbook_export_clear_description': 'Wis alle vermeldingen uit het logboek. Deze actie kan niet ongedaan worden gemaakt.',
+      'logbook_export_cancel': 'Annuleren',
+      'logbook_export_confirm': 'Bevestigen',
+      'logbook_export_confirm_text': 'Weet u zeker dat u het hele logboek wilt wissen? Deze actie kan niet ongedaan worden gemaakt.',
+
+
       //
       //maps
       'maps_appbar': 'Kaart',
@@ -599,6 +749,49 @@ class Language {
       'maps_wiki': 'Wiki',
       'maps_irc': 'IRC',
       'maps_website': 'Website',
+      'maps_city': 'Stad',
+      'maps_nearest_city': 'Dichtstbijzijnde Stad',
+      'maps_landmark': 'Bezienswaardigheid',
+      'maps_region': 'Regio',
+      'maps_state': 'Staat',
+      'maps_country': 'Land',
+      'maps_state_id': 'Staat ID',
+      'maps_lat': 'Breedtegraad',
+      'maps_lng': 'Lengtegraad',
+      'maps_precise': 'Precies',
+      'maps_frequency': 'Frequentie',
+      'maps_input_freq': 'Ingangsfrequentie',
+      'maps_rptr_id': 'Repeater ID',
+      'maps_pl': 'PL',
+      'maps_tsq': 'TSQ',
+      'maps_color_code': 'Kleurcode',
+      'maps_offset': 'Offset',
+      'maps_status': 'Status',
+      'maps_trustee': 'Beheerder',
+      'maps_operational_status': 'Operationele Status',
+      'maps_assigned': 'Toegewezen',
+      'maps_ts_linked': 'TS Gekoppeld',
+      'maps_allstar_node': 'Allstar Node',
+      'maps_echolink_node': 'EchoLink Node',
+      'wires_node': 'Wires Node',
+      'maps_fm_analog': 'FM Analoog',
+      'maps_fm_bandwidth': 'FM Bandbreedte',
+      'maps_dmr': 'DMR',
+      'maps_dmr_color_code': 'DMR Kleurcode',
+      'maps_dmr_id': 'DMR ID',
+      'maps_d_star': 'D-Star',
+      'maps_nxdn': 'NXDN',
+      'maps_apco_p25': 'APCO P25',
+      'maps_p_25_nac': 'P25 NAC',
+      'maps_m17': 'M17',
+      'maps_m17_can': 'M17 CAN',
+      'maps_tetra': 'TETRA',
+      'maps_tetra_mcc': 'TETRA MCC',
+      'maps_tetra_mnc': 'TETRA MNC',
+      'maps_system_fusion': 'System Fusion',
+      'maps_locator': 'Locator',
+      'maps_map_info': 'Kaartinformatie',
+      'maps_ipsc_network': 'IPSC Netwerk',
 
 
 
@@ -653,6 +846,7 @@ class Language {
       'search_please_enter_search_term': 'Bitte geben Sie einen Suchbegriff ein',
       'search_database': 'Datenbank durchsuchen', //searchbutton
       'search_results_name': 'Ergebnis(se)',
+      'search_export': 'Exportieren',
       //
       'search_extension': 'Erweiterung',
       'search_name': 'Name',
@@ -848,6 +1042,7 @@ class Language {
       'linkset_url_text': 'URL eingeben',
       'linkset_description': 'Beschreibung für',
       'linkset_description_text': 'Beschreibung eingeben',
+      'linkset_edit': 'Links Bearbeiten',
       //
       //logbook_screen.dart
       'logbook_appbar': 'Logbuch Optionen',
@@ -872,6 +1067,9 @@ class Language {
       'logbook_all_operator': 'Operator',
       'logbook_all_gridsquare': 'Gridsquare',
       'logbook_all_comment': 'Kommentar',
+      'logbook_all_at': 'um', //z.B. 2025-01-01 um 14:00
+      //
+      //
       'logbook_insert_save': 'QSO Speichern',
       'logbook_insert_clear': 'Felder Löschen',
       'logbook_insert_save_ok': 'QSO erfolgreich gespeichert!',
@@ -888,6 +1086,42 @@ class Language {
       'logbook_view_add_qso_description': 'Füge ersten Qso zum Logbuch hinzu.',
       'logbook_view_add_sample': 'Beispieldaten Einfügen',
       'logbook_view_add_sample_description': 'Füge Beispiel-QSOs zum Logbuch hinzu',
+      'logbook_view_add_sample_ok': 'Beispieldaten erfolgreich eingefügt!',
+      'logbook_view_add_sample_nok': 'Einfügen der Beispieldaten fehlgeschlagen',
+      //logbook_list_screen.dart
+      'logbook_list_appbar': 'Logbuch Bearbeiten',
+      'logbook_list_no_entries': 'Keine QSOs gefunden.',
+      //
+      //logbook_edit_screen.dart
+      'logbook_edit_appbar': 'Logbuch Bearbeiten',
+      'logbook_edit_save': 'Speichern',
+      'logbook_edit_delete': 'Löschen',
+      'logbook_edit_cancel': 'Abbrechen',
+      'logbook_edit_confirm': 'Löschen Bestätigen',
+      'logbook_edit_confirm_text': 'Sind Sie sicher, dass Sie diesen QSO löschen möchten?',
+      //
+      //logbook_export_screen.dart
+      'logbook_export_appbar': 'Logbuch Verwaltung',
+      'logbook_export_path': 'Datenbankpfad',
+      'logbook_export_path_description': 'Dies ist der Speicherort Ihrer aktuellen Datenbank.',
+      'logbook_export_export_adif': 'Als ADIF exportieren',
+      'logbook_export_export_adif_description': 'Exportieren Sie das Logbuch im ADIF-Format.',
+      'logbook_export_send_adif': 'ADIF-Daten senden',
+      'logbook_export_send_adif_description': 'Senden Sie exportierte ADIF-Daten.',
+      'logbook_export_export_csv': 'Als CSV exportieren',
+      'logbook_export_export_csv_description': 'Exportieren Sie das Logbuch im CSV-Format.',
+      'logbook_export_send_csv': 'CSV-Daten senden',
+      'logbook_export_send_csv_description': 'Senden Sie exportierte CSV-Daten.',
+      'logbook_export_send_database': 'Vollständige Datenbank senden',
+      'logbook_export_send_database_description': 'Senden Sie die vollständige SQLite-Datenbank.',
+      'logbook_export_insert_sample': 'Beispieldaten einfügen',
+      'logbook_export_insert_sample_description': 'Fügen Sie Beispieldaten in das Logbuch ein.',
+      'logbook_export_clear': 'Datenbank löschen',
+      'logbook_export_clear_description': 'Löschen Sie alle Einträge aus dem Logbuch. Diese Aktion kann nicht rückgängig gemacht werden.',
+      'logbook_export_cancel': 'Abbrechen',
+      'logbook_export_confirm': 'Bestätigen',
+      'logbook_export_confirm_text': 'Sind Sie sicher, dass Sie das gesamte Logbuch löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.',
+
       //
       //maps
       'maps_appbar': 'Karte',
@@ -898,7 +1132,50 @@ class Language {
       'maps_mailinglist': 'Mailingliste',
       'maps_wiki': 'Wiki',
       'maps_irc': 'IRC',
-      'maps_website': 'Webseite',
+      'maps_website': 'Website',
+      'maps_city': 'Stadt',
+      'maps_nearest_city': 'Nächste Stadt',
+      'maps_landmark': 'Wahrzeichen',
+      'maps_region': 'Region',
+      'maps_state': 'Bundesland',
+      'maps_country': 'Land',
+      'maps_state_id': 'Bundesland ID',
+      'maps_lat': 'Breitengrad',
+      'maps_lng': 'Längengrad',
+      'maps_precise': 'Präzise',
+      'maps_frequency': 'Frequenz',
+      'maps_input_freq': 'Eingangsfrequenz',
+      'maps_rptr_id': 'Repeater ID',
+      'maps_pl': 'PL',
+      'maps_tsq': 'TSQ',
+      'maps_color_code': 'Farbcode',
+      'maps_offset': 'Offset',
+      'maps_status': 'Status',
+      'maps_trustee': 'Trustee',
+      'maps_operational_status': 'Betriebsstatus',
+      'maps_assigned': 'Zugewiesen',
+      'maps_ts_linked': 'TS Verknüpft',
+      'maps_allstar_node': 'Allstar Node',
+      'maps_echolink_node': 'EchoLink Node',
+      'wires_node': 'Wires Node',
+      'maps_fm_analog': 'FM Analog',
+      'maps_fm_bandwidth': 'FM Bandbreite',
+      'maps_dmr': 'DMR',
+      'maps_dmr_color_code': 'DMR Farbcode',
+      'maps_dmr_id': 'DMR ID',
+      'maps_d_star': 'D-Star',
+      'maps_nxdn': 'NXDN',
+      'maps_apco_p25': 'APCO P25',
+      'maps_p_25_nac': 'P25 NAC',
+      'maps_m17': 'M17',
+      'maps_m17_can': 'M17 CAN',
+      'maps_tetra': 'TETRA',
+      'maps_tetra_mcc': 'TETRA MCC',
+      'maps_tetra_mnc': 'TETRA MNC',
+      'maps_system_fusion': 'System Fusion',
+      'maps_locator': 'Locator',
+      'maps_map_info': 'Karteninformation',
+      'maps_ipsc_network': 'IPSC Netzwerk',
 
 
     },
@@ -950,6 +1227,7 @@ class Language {
       'search_please_enter_search_term': 'Veuillez entrer un terme de recherche',
       'search_database': 'Rechercher dans la Base de Données', //searchbutton
       'search_results_name': 'Résultat(s)',
+      'search_export': 'Exporter',
       //
       'search_extension': 'Extension',
       'search_name': 'Nom',
@@ -1145,6 +1423,7 @@ class Language {
       'linkset_url_text': 'Entrez l\'URL',
       'linkset_description': 'Description pour',
       'linkset_description_text': 'Entrez la description',
+      'linkset_edit': 'Modifier les Liens',
       //
       //logbook_screen.dart
       'logbook_appbar': 'Options du Carnet de Log',
@@ -1169,6 +1448,9 @@ class Language {
       'logbook_all_operator': 'Opérateur',
       'logbook_all_gridsquare': 'Gridsquare',
       'logbook_all_comment': 'Commentaire',
+      'logbook_all_at': 'à', //par ex. 2025-01-01 à 14:00
+      //
+      //
       'logbook_insert_save': 'Enregistrer QSO',
       'logbook_insert_clear': 'Effacer les Champs',
       'logbook_insert_save_ok': 'QSO enregistré avec succès !',
@@ -1185,6 +1467,43 @@ class Language {
       'logbook_view_add_qso_description': 'Ajouter le premier Qso au carnet de log.',
       'logbook_view_add_sample': 'Insérer des Données Exemple',
       'logbook_view_add_sample_description': 'Ajouter des QSOs exemple au carnet de log',
+      'logbook_view_add_sample_ok': 'Données exemple insérées avec succès !',
+      'logbook_view_add_sample_nok': 'Échec de l\'insertion des données exemple',
+      //logbook_list_screen.dart
+      'logbook_list_appbar': 'Modifier le Carnet de Log',
+      'logbook_list_no_entries': 'Aucun QSO trouvé.',
+      //
+      //logbook_edit_screen.dart
+      'logbook_edit_appbar': 'Modifier le Carnet de Log',
+      'logbook_edit_save': 'Enregistrer',
+      'logbook_edit_delete': 'Supprimer',
+      'logbook_edit_cancel': 'Annuler',
+      'logbook_edit_confirm': 'Confirmer la Suppression',
+      'logbook_edit_confirm_text': 'Êtes-vous sûr de vouloir supprimer ce QSO ?',
+      //
+      //logbook_export_screen.dart
+      'logbook_export_appbar': 'Exporter le Carnet de Log',
+      'logbook_export_path': 'Chemin de la Base de Données',
+      'logbook_export_path_description': 'C\'est l\'emplacement de votre base de données actuelle.',
+      'logbook_export_export_adif': 'Exporter en ADIF',
+      'logbook_export_export_adif_description': 'Exporter le carnet de log au format ADIF.',
+      'logbook_export_send_adif': 'Envoyer les Données ADIF',
+      'logbook_export_send_adif_description': 'Envoyer les données exportées au format ADIF.',
+      'logbook_export_export_csv': 'Exporter en CSV',
+      'logbook_export_export_csv_description': 'Exporter le carnet de log au format CSV.',
+      'logbook_export_send_csv': 'Envoyer les Données CSV',
+      'logbook_export_send_csv_description': 'Envoyer les données exportées au format CSV.',
+      'logbook_export_send_database': 'Envoyer la Base de Données Complète',
+      'logbook_export_send_database_description': 'Envoyer la base de données SQLite complète.',
+      'logbook_export_insert_sample': 'Insérer des Données Exemple',
+      'logbook_export_insert_sample_description': 'Insérer des données exemple dans le carnet de log.',
+      'logbook_export_clear': 'Effacer la Base de Données',
+      'logbook_export_clear_description': 'Effacer toutes les entrées du carnet de log. Cette action ne peut pas être annulée.',
+      'logbook_export_cancel': 'Annuler',
+      'logbook_export_confirm': 'Confirmer',
+      'logbook_export_confirm_text': 'Êtes-vous sûr de vouloir effacer tout le carnet de log ? Cette action ne peut pas être annulée.',
+
+
       //
       //maps
       'maps_appbar': 'Carte',
@@ -1196,7 +1515,49 @@ class Language {
       'maps_wiki': 'Wiki',
       'maps_irc': 'IRC',
       'maps_website': 'Site Web',
-
+      'maps_city': 'Ville',
+      'maps_nearest_city': 'Ville la plus proche',
+      'maps_landmark': 'Point de Repère',
+      'maps_region': 'Région',
+      'maps_state': 'État',
+      'maps_country': 'Pays',
+      'maps_state_id': 'ID de l\'État',
+      'maps_lat': 'Latitude',
+      'maps_lng': 'Longitude',
+      'maps_precise': 'Précis',
+      'maps_frequency': 'Fréquence',
+      'maps_input_freq': 'Fréquence d\'Entrée',
+      'maps_rptr_id': 'ID du Répéteur',
+      'maps_pl': 'PL',
+      'maps_tsq': 'TSQ',
+      'maps_color_code': 'Code Couleur',
+      'maps_offset': 'Offset',
+      'maps_status': 'Statut',
+      'maps_trustee': 'Trustee',
+      'maps_operational_status': 'Statut Opérationnel',
+      'maps_assigned': 'Assigné',
+      'maps_ts_linked': 'TS Lié',
+      'maps_allstar_node': 'Nœud Allstar',
+      'maps_echolink_node': 'Nœud EchoLink',
+      'wires_node': 'Nœud Wires',
+      'maps_fm_analog': 'FM Analogique',
+      'maps_fm_bandwidth': 'Bande Passante FM',
+      'maps_dmr': 'DMR',
+      'maps_dmr_color_code': 'Code Couleur DMR',
+      'maps_dmr_id': 'ID DMR',
+      'maps_d_star': 'D-Star',
+      'maps_nxdn': 'NXDN',
+      'maps_apco_p25': 'APCO P25',
+      'maps_p_25_nac': 'P25 NAC',
+      'maps_m17': 'M17',
+      'maps_m17_can': 'M17 CAN',
+      'maps_tetra': 'TETRA',
+      'maps_tetra_mcc': 'TETRA MCC',
+      'maps_tetra_mnc': 'TETRA MNC',
+      'maps_system_fusion': 'System Fusion',
+      'maps_locator': 'Locator',
+      'maps_map_info': 'Informations sur la Carte',
+      'maps_ipsc_network': 'Réseau IPSC',
 
 
     },
@@ -1250,6 +1611,7 @@ class Language {
       'search_please_enter_search_term': '検索語を入力してください',
       'search_database': 'データベース検索', //searchbutton
       'search_results_name': '結果',
+      'search_export': 'エクスポート',
       //
       'search_extension': '内線番号',
       'search_name': '名前',
@@ -1445,6 +1807,8 @@ class Language {
       'linkset_url_text': 'URLを入力',
       'linkset_description': '説明',
       'linkset_description_text': '説明を入力',
+      'linkset_edit': 'リンクを編集',
+
       //
       //logbook_screen.dart
       'logbook_appbar': 'ログブックオプション',
@@ -1469,6 +1833,9 @@ class Language {
       'logbook_all_operator': 'オペレーター',
       'logbook_all_gridsquare': 'グリッドスクエア',
       'logbook_all_comment': 'コメント',
+      'logbook_all_at': 'に', //例: 2025-01-01 に 14:00
+      //
+      //
       'logbook_insert_save': 'QSOを保存',
       'logbook_insert_clear': 'フィールドをクリア',
       'logbook_insert_save_ok': 'QSOが正常に保存されました！',
@@ -1485,6 +1852,42 @@ class Language {
       'logbook_view_add_qso_description': '最初のQsoをログブックに追加します。',
       'logbook_view_add_sample': 'サンプルデータを挿入',
       'logbook_view_add_sample_description': 'サンプルQSOをログブックに追加します',
+      'logbook_view_add_sample_ok': 'サンプルデータが正常に挿入されました！',
+      'logbook_view_add_sample_nok': 'サンプルデータの挿入に失敗しました',
+      //logbook_list_screen.dart
+      'logbook_list_appbar': 'ログブックを編集',
+      'logbook_list_no_entries': 'QSOが見つかりませんでした。',
+      //
+      //logbook_edit_screen.dart
+      'logbook_edit_appbar': 'ログブックを編集',
+      'logbook_edit_save': '保存',
+      'logbook_edit_delete': '削除',
+      'logbook_edit_cancel': 'キャンセル',
+      'logbook_edit_confirm': '削除の確認',
+      'logbook_edit_confirm_text': 'このQSOを削除してもよろしいですか？',
+      //
+      //logbook_export_screen.dart
+      'logbook_export_appbar': 'ログブックをエクスポート',
+      'logbook_export_path': 'データベースパス',
+      'logbook_export_path_description': 'これは現在のデータベースの場所です。',
+      'logbook_export_export_adif': 'ADIF形式でエクスポート',
+      'logbook_export_export_adif_description': 'ログブックをADIF形式でエクスポートします。',
+      'logbook_export_send_adif': 'ADIFデータを送信',
+      'logbook_export_send_adif_description': 'エクスポートされたADIFデータを送信します。',
+      'logbook_export_export_csv': 'CSV形式でエクスポート',
+      'logbook_export_export_csv_description': 'ログブックをCSV形式でエクスポートします。',
+      'logbook_export_send_csv': 'CSVデータを送信',
+      'logbook_export_send_csv_description': 'エクスポートされたCSVデータを送信します。',
+      'logbook_export_send_database': '完全なデータベースを送信',
+      'logbook_export_send_database_description': '完全なSQLiteデータベースを送信します。',
+      'logbook_export_insert_sample': 'サンプルデータを挿入',
+      'logbook_export_insert_sample_description': 'ログブックにサンプルデータを挿入します。',
+      'logbook_export_clear': 'データベースをクリア',
+      'logbook_export_clear_description': 'ログブックからすべてのエントリを削除します。この操作は元に戻せません。',
+      'logbook_export_cancel': 'キャンセル',
+      'logbook_export_confirm': '確認',
+      'logbook_export_confirm_text': 'ログブック全体をクリアしてもよろしいですか？この操作は元に戻せません。',
+
       //
       //maps
       'maps_appbar': 'マップ',
@@ -1496,6 +1899,49 @@ class Language {
       'maps_wiki': 'Wiki',
       'maps_irc': 'IRC',
       'maps_website': 'ウェブサイト',
+      'maps_city': '都市',
+      'maps_nearest_city': '最寄りの都市',
+      'maps_landmark': 'ランドマーク',
+      'maps_region': '地域',
+      'maps_state': '州',
+      'maps_country': '国',
+      'maps_state_id': '州ID',
+      'maps_lat': '緯度',
+      'maps_lng': '経度',
+      'maps_precise': '正確',
+      'maps_frequency': '周波数',
+      'maps_input_freq': '入力周波数',
+      'maps_rptr_id': 'リピーターID',
+      'maps_pl': 'PL',
+      'maps_tsq': 'TSQ',
+      'maps_color_code': 'カラーコード',
+      'maps_offset': 'オフセット',
+      'maps_status': 'ステータス',
+      'maps_trustee': 'トラスティ',
+      'maps_operational_status': '動作ステータス',
+      'maps_assigned': '割り当て済み',
+      'maps_ts_linked': 'TSリンク',
+      'maps_allstar_node': 'Allstarノード',
+      'maps_echolink_node': 'EchoLinkノード',
+      'wires_node': 'Wiresノード',
+      'maps_fm_analog': 'FMアナログ',
+      'maps_fm_bandwidth': 'FM帯域幅',
+      'maps_dmr': 'DMR',
+      'maps_dmr_color_code': 'DMRカラーコード',
+      'maps_dmr_id': 'DMR ID',
+      'maps_d_star': 'D-Star',
+      'maps_nxdn': 'NXDN',
+      'maps_apco_p25': 'APCO P25',
+      'maps_p_25_nac': 'P25 NAC',
+      'maps_m17': 'M17',
+      'maps_m17_can': 'M17 CAN',
+      'maps_tetra': 'TETRA',
+      'maps_tetra_mcc': 'TETRA MCC',
+      'maps_tetra_mnc': 'TETRA MNC',
+      'maps_system_fusion': 'System Fusion',
+      'maps_locator': 'ロケーター',
+      'maps_map_info': 'マップ情報',
+      'maps_ipsc_network': 'IPSCネットワーク',
 
 
     },
@@ -1549,6 +1995,7 @@ class Language {
       'search_please_enter_search_term': '请输入搜索词',
       'search_database': '搜索数据库', //searchbutton
       'search_results_name': '结果',
+      'search_export': '导出',
       //
       'search_extension': '分机号',
       'search_name': '姓名',
@@ -1744,6 +2191,7 @@ class Language {
       'linkset_url_text': '输入URL',
       'linkset_description': '描述',
       'linkset_description_text': '输入描述',
+      'linkset_edit': '编辑链接',
       //
       //logbook_screen.dart
       'logbook_appbar': '日志簿选项',
@@ -1768,6 +2216,9 @@ class Language {
       'logbook_all_operator': '操作员',
       'logbook_all_gridsquare': '网格坐标',
       'logbook_all_comment': '备注',
+      'logbook_all_at': '于', //例如: 2025-01-01 于 14:00
+      //
+      //
       'logbook_insert_save': '保存QSO',
       'logbook_insert_clear': '清空字段',
       'logbook_insert_save_ok': 'QSO保存成功！',
@@ -1784,6 +2235,43 @@ class Language {
       'logbook_view_add_qso_description': '将第一个Qso添加到日志簿。',
       'logbook_view_add_sample': '插入示例数据',
       'logbook_view_add_sample_description': '将示例QSO添加到日志簿',
+      'logbook_view_add_sample_ok': '示例数据插入成功！',
+      'logbook_view_add_sample_nok': '插入示例数据失败',
+      //logbook_list_screen.dart
+      'logbook_list_appbar': '编辑日志簿',
+      'logbook_list_no_entries': '未找到QSO。',
+      //
+      //logbook_edit_screen.dart
+      'logbook_edit_appbar': '编辑日志簿',
+      'logbook_edit_save': '保存',
+      'logbook_edit_delete': '删除',
+      'logbook_edit_cancel': '取消',
+      'logbook_edit_confirm': '确认删除',
+      'logbook_edit_confirm_text': '您确定要删除此QSO吗？',
+      //
+      //logbook_export_screen.dart
+      'logbook_export_appbar': '导出日志簿',
+      'logbook_export_path': '数据库路径',
+      'logbook_export_path_description': '这是您当前数据库的位置。',
+      'logbook_export_export_adif': '导出为ADIF',
+      'logbook_export_export_adif_description': '将日志簿导出为ADIF格式。',
+      'logbook_export_send_adif': '发送ADIF数据',
+      'logbook_export_send_adif_description': '发送导出的ADIF数据。',
+      'logbook_export_export_csv': '导出为CSV',
+      'logbook_export_export_csv_description': '将日志簿导出为CSV格式。',
+      'logbook_export_send_csv': '发送CSV数据',
+      'logbook_export_send_csv_description': '发送导出的CSV数据。',
+      'logbook_export_send_database': '发送完整数据库',
+      'logbook_export_send_database_description': '发送完整的SQLite数据库。',
+      'logbook_export_insert_sample': '插入示例数据',
+      'logbook_export_insert_sample_description': '将示例数据插入日志簿。',
+      'logbook_export_clear': '清空数据库',
+      'logbook_export_clear_description': '清除日志簿中的所有条目。此操作无法撤消。',
+      'logbook_export_cancel': '取消',
+      'logbook_export_confirm': '确认',
+      'logbook_export_confirm_text': '您确定要清空整个日志簿吗？此操作无法撤消。',
+
+
       //
       //maps
       'maps_appbar': '地图',
@@ -1795,6 +2283,49 @@ class Language {
       'maps_wiki': 'Wiki',
       'maps_irc': 'IRC',
       'maps_website': '网站',
+      'maps_city': '城市',
+      'maps_nearest_city': '最近的城市',
+      'maps_landmark': '地标',
+      'maps_region': '地区',
+      'maps_state': '州',
+      'maps_country': '国家',
+      'maps_state_id': '州ID',
+      'maps_lat': '纬度',
+      'maps_lng': '经度',
+      'maps_precise': '精确',
+      'maps_frequency': '频率',
+      'maps_input_freq': '输入频率',
+      'maps_rptr_id': '中继器ID',
+      'maps_pl': 'PL',
+      'maps_tsq': 'TSQ',
+      'maps_color_code': '色码',
+      'maps_offset': '偏移',
+      'maps_status': '状态',
+      'maps_trustee': '受托人',
+      'maps_operational_status': '运行状态',
+      'maps_assigned': '已分配',
+      'maps_ts_linked': 'TS链接',
+      'maps_allstar_node': 'Allstar节点',
+      'maps_echolink_node': 'EchoLink节点',
+      'wires_node': 'Wires节点',
+      'maps_fm_analog': 'FM模拟',
+      'maps_fm_bandwidth': 'FM带宽',
+      'maps_dmr': 'DMR',
+      'maps_dmr_color_code': 'DMR色码',
+      'maps_dmr_id': 'DMR ID',
+      'maps_d_star': 'D-Star',
+      'maps_nxdn': 'NXDN',
+      'maps_apco_p25': 'APCO P25',
+      'maps_p_25_nac': 'P25 NAC',
+      'maps_m17': 'M17',
+      'maps_m17_can': 'M17 CAN',
+      'maps_tetra': 'TETRA',
+      'maps_tetra_mcc': 'TETRA MCC',
+      'maps_tetra_mnc': 'TETRA MNC',
+      'maps_system_fusion': 'System Fusion',
+      'maps_locator': '定位器',
+      'maps_map_info': '地图信息',
+      'maps_ipsc_network': 'IPSC网络',
 
 
     },
