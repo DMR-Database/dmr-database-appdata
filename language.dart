@@ -107,7 +107,7 @@ class Language {
       'settings_hackerspacemap_description': 'Explore Hackerspaces on a Map.',
       'settings_listen_dmr': 'Listen to DMR',
       'settings_listendmr_description': 'Listen to DMR thru Hoseline.',
-      'settings_links': 'Your own links.',
+      'settings_links': 'Links Page',
       'settings_links_description': 'Your own links.',
       'settings_logbook': 'Logbook',
       'settings_logbook_description': 'Log your QSO`s in the logbook.',
@@ -227,6 +227,11 @@ class Language {
       'export_to_database': 'Export Database:',
       'export_to_radio': 'Export to Radio:',
       'export_to_phone': 'Export to Phone:',
+      'export_one_moment': 'One moment please, exporting database',
+      'export_success': 'exported successfully',
+      'export_failed': 'Failed to export',
+
+
       //
       //export_select_screen.dart
       'export_select_appbar': 'Export Selected Users',
@@ -299,7 +304,7 @@ class Language {
       'logbook_list_no_entries': 'No QSO\'s found.',
       //
       //logbook_edit_screen.dart
-      'logbook_edit_appbar': 'Edit Logbook',
+      'logbook_edit_appbar': 'Edit QSO',
       'logbook_edit_save': 'Save',
       'logbook_edit_delete': 'Delete',
       'logbook_edit_cancel': 'Cancel',
@@ -327,6 +332,19 @@ class Language {
       'logbook_export_cancel': 'Cancel',
       'logbook_export_confirm': 'Confirm',
       'logbook_export_confirm_text': 'Are you sure you want to clear the entire logbook? This action cannot be undone.',
+      'logbook_export_to': 'Log exported to',
+      'logbook_export_failed': 'Failed to export log',
+      'logbook_export_clear_failed': 'Failed to clear logbook',
+      'logbook_export_clear_success': 'Logbook cleared successfully!',
+      'logbook_export_share_no_file': 'No file to share. Please export a file first.',
+      'logbook_export_share_failed': 'Failed to share file',
+      'logbook_export_share_no_db': 'Logbook file not found. Please ensure it exists.',
+      'logbook_export_share_failed_db': 'Failed to share file',
+      'logbook_export_exported_file': 'Exported File',
+
+
+
+
       //
       //
       //maps
@@ -382,36 +400,6 @@ class Language {
       'maps_locator': 'Locator',
       'maps_map_info': 'Maps Info',
       'maps_ipsc_network': 'IPSC Network',
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     },
 
     'nl-nl': {
@@ -519,7 +507,7 @@ class Language {
       'settings_hackerspacemap_description': 'Verken hackerspaces op een kaart.',
       'settings_listen_dmr': 'Luister naar DMR',
       'settings_listendmr_description': 'Luister naar DMR via Hoseline.',
-      'settings_links': 'Uw eigen links.',
+      'settings_links': 'Links Pagina',
       'settings_links_description': 'Uw eigen links.',
       'settings_logbook': 'Logboek',
       'settings_logbook_description': 'Log uw QSO\'s in het logboek.',
@@ -641,6 +629,9 @@ class Language {
       'export_to_database': 'Exporteer Database:',
       'export_to_radio': 'Exporteer naar Radio:',
       'export_to_phone': 'Exporteer naar Telefoon:',
+      'export_one_moment': 'Een moment geduld alstublieft, database wordt geëxporteerd',
+      'export_success': 'succesvol geëxporteerd',
+      'export_failed': 'Exporteren mislukt',
       //
       //export_select_screen.dart
       'export_select_appbar': 'Exporteer Geselecteerde Gebruikers',
@@ -708,7 +699,7 @@ class Language {
       'logbook_list_no_entries': 'Geen QSO\'s gevonden.',
       //
       //logbook_edit_screen.dart
-      'logbook_edit_appbar': 'Logboek Bewerken',
+      'logbook_edit_appbar': 'QSO Bewerken',
       'logbook_edit_save': 'Opslaan',
       'logbook_edit_delete': 'Verwijderen',
       'logbook_edit_cancel': 'Annuleren',
@@ -716,28 +707,36 @@ class Language {
       'logbook_edit_confirm_text': 'Weet u zeker dat u deze QSO wilt verwijderen?',
       //
       //logbook_export_screen.dart
-      'logbook_export_appbar': 'Logboek Beheer',
+
+      'logbook_export_appbar': 'Logboek Onderhoud',
       'logbook_export_path': 'Databasepad',
       'logbook_export_path_description': 'Dit is de locatie van uw huidige database.',
       'logbook_export_export_adif': 'Exporteren naar ADIF',
       'logbook_export_export_adif_description': 'Exporteer het logboek naar ADIF-formaat.',
-      'logbook_export_send_adif': 'ADIF-gegevens Verzenden',
+      'logbook_export_send_adif': 'ADIF-gegevens verzenden',
       'logbook_export_send_adif_description': 'Verzend geëxporteerde ADIF-gegevens.',
       'logbook_export_export_csv': 'Exporteren naar CSV',
       'logbook_export_export_csv_description': 'Exporteer het logboek naar CSV-formaat.',
-      'logbook_export_send_csv': 'CSV-gegevens Verzenden',
+      'logbook_export_send_csv': 'CSV-gegevens verzenden',
       'logbook_export_send_csv_description': 'Verzend geëxporteerde CSV-gegevens.',
-      'logbook_export_send_database': 'Volledige Database Verzenden',
+      'logbook_export_send_database': 'Volledige database verzenden',
       'logbook_export_send_database_description': 'Verzend de volledige SQLite-database.',
-      'logbook_export_insert_sample': 'Voorbeeldgegevens Invoegen',
-      'logbook_export_insert_sample_description': 'Voeg voorbeeldgegevens toe aan het logboek.',
-      'logbook_export_clear': 'Database Wissen',
+      'logbook_export_insert_sample': 'Voorbeeldgegevens invoegen',
+      'logbook_export_insert_sample_description': 'Voeg voorbeeldgegevens in het logboek in.',
+      'logbook_export_clear': 'Database wissen',
       'logbook_export_clear_description': 'Wis alle vermeldingen uit het logboek. Deze actie kan niet ongedaan worden gemaakt.',
       'logbook_export_cancel': 'Annuleren',
       'logbook_export_confirm': 'Bevestigen',
       'logbook_export_confirm_text': 'Weet u zeker dat u het hele logboek wilt wissen? Deze actie kan niet ongedaan worden gemaakt.',
-
-
+      'logbook_export_to': 'Logboek geëxporteerd naar',
+      'logbook_export_failed': 'Exporteren van logboek mislukt',
+      'logbook_export_clear_failed': 'Logboek wissen mislukt',
+      'logbook_export_clear_success': 'Logboek succesvol gewist!',
+      'logbook_export_share_no_file': 'Geen bestand om te delen. Exporteer eerst een bestand.',
+      'logbook_export_share_failed': 'Delen van bestand mislukt',
+      'logbook_export_share_no_db': 'Logboekbestand niet gevonden. Zorg ervoor dat het bestaat.',
+      'logbook_export_share_failed_db': 'Delen van bestand mislukt',
+      'logbook_export_exported_file': 'Geëxporteerd bestand',
       //
       //maps
       'maps_appbar': 'Kaart',
@@ -1026,6 +1025,9 @@ class Language {
       'export_to_database': 'Datenbank exportieren:',
       'export_to_radio': 'Exportieren Sie in das Radio:',
       'export_to_phone': 'Exportieren Sie in das Telefon:',
+      'export_one_moment': 'Einen Moment bitte, die Datenbank wird exportiert',
+      'export_success': 'erfolgreich exportiert',
+      'export_failed': 'Export fehlgeschlagen',
       //
       //export_select_screen.dart
       'export_select_appbar': 'Ausgewählte Benutzer Exportieren',
@@ -1093,7 +1095,7 @@ class Language {
       'logbook_list_no_entries': 'Keine QSOs gefunden.',
       //
       //logbook_edit_screen.dart
-      'logbook_edit_appbar': 'Logbuch Bearbeiten',
+      'logbook_edit_appbar': 'QSO Bearbeiten',
       'logbook_edit_save': 'Speichern',
       'logbook_edit_delete': 'Löschen',
       'logbook_edit_cancel': 'Abbrechen',
@@ -1101,17 +1103,17 @@ class Language {
       'logbook_edit_confirm_text': 'Sind Sie sicher, dass Sie diesen QSO löschen möchten?',
       //
       //logbook_export_screen.dart
-      'logbook_export_appbar': 'Logbuch Verwaltung',
+      'logbook_export_appbar': 'Logbuchwartung',
       'logbook_export_path': 'Datenbankpfad',
       'logbook_export_path_description': 'Dies ist der Speicherort Ihrer aktuellen Datenbank.',
-      'logbook_export_export_adif': 'Als ADIF exportieren',
-      'logbook_export_export_adif_description': 'Exportieren Sie das Logbuch im ADIF-Format.',
+      'logbook_export_export_adif': 'In ADIF exportieren',
+      'logbook_export_export_adif_description': 'Exportieren Sie das Logbuch in das ADIF-Format.',
       'logbook_export_send_adif': 'ADIF-Daten senden',
-      'logbook_export_send_adif_description': 'Senden Sie exportierte ADIF-Daten.',
-      'logbook_export_export_csv': 'Als CSV exportieren',
-      'logbook_export_export_csv_description': 'Exportieren Sie das Logbuch im CSV-Format.',
+      'logbook_export_send_adif_description': 'Gesendete ADIF-Daten exportieren.',
+      'logbook_export_export_csv': 'In CSV exportieren',
+      'logbook_export_export_csv_description': 'Exportieren Sie das Logbuch in das CSV-Format.',
       'logbook_export_send_csv': 'CSV-Daten senden',
-      'logbook_export_send_csv_description': 'Senden Sie exportierte CSV-Daten.',
+      'logbook_export_send_csv_description': 'Gesendete CSV-Daten exportieren.',
       'logbook_export_send_database': 'Vollständige Datenbank senden',
       'logbook_export_send_database_description': 'Senden Sie die vollständige SQLite-Datenbank.',
       'logbook_export_insert_sample': 'Beispieldaten einfügen',
@@ -1121,7 +1123,15 @@ class Language {
       'logbook_export_cancel': 'Abbrechen',
       'logbook_export_confirm': 'Bestätigen',
       'logbook_export_confirm_text': 'Sind Sie sicher, dass Sie das gesamte Logbuch löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.',
-
+      'logbook_export_to': 'Logbuch exportiert nach',
+      'logbook_export_failed': 'Export des Logbuchs fehlgeschlagen',
+      'logbook_export_clear_failed': 'Löschen des Logbuchs fehlgeschlagen',
+      'logbook_export_clear_success': 'Logbuch erfolgreich gelöscht!',
+      'logbook_export_share_no_file': 'Keine Datei zum Teilen. Bitte exportieren Sie zuerst eine Datei.',
+      'logbook_export_share_failed': 'Teilen der Datei fehlgeschlagen',
+      'logbook_export_share_no_db': 'Logbuchdatei nicht gefunden. Bitte stellen Sie sicher, dass sie existiert.',
+      'logbook_export_share_failed_db': 'Teilen der Datei fehlgeschlagen',
+      'logbook_export_exported_file': 'Exportierte Datei',
       //
       //maps
       'maps_appbar': 'Karte',
@@ -1407,6 +1417,9 @@ class Language {
       'export_to_database': 'Exporter la Base de Données :',
       'export_to_radio': 'Exporter vers la Radio :',
       'export_to_phone': 'Exporter vers le Téléphone :',
+      'export_one_moment': 'Un instant s\'il vous plaît, exportation de la base de données',
+      'export_success': 'exporté avec succès',
+      'export_failed': 'Échec de l\'exportation',
       //
       //export_select_screen.dart
       'export_select_appbar': 'Exporter les Utilisateurs Sélectionnés',
@@ -1482,27 +1495,35 @@ class Language {
       'logbook_edit_confirm_text': 'Êtes-vous sûr de vouloir supprimer ce QSO ?',
       //
       //logbook_export_screen.dart
-      'logbook_export_appbar': 'Exporter le Carnet de Log',
-      'logbook_export_path': 'Chemin de la Base de Données',
-      'logbook_export_path_description': 'C\'est l\'emplacement de votre base de données actuelle.',
+      'logbook_export_appbar': 'Maintenance du journal',
+      'logbook_export_path': 'Chemin de la base de données',
+      'logbook_export_path_description': 'Ceci est l\'emplacement de votre base de données actuelle.',
       'logbook_export_export_adif': 'Exporter en ADIF',
-      'logbook_export_export_adif_description': 'Exporter le carnet de log au format ADIF.',
-      'logbook_export_send_adif': 'Envoyer les Données ADIF',
+      'logbook_export_export_adif_description': 'Exporter le journal au format ADIF.',
+      'logbook_export_send_adif': 'Envoyer les données ADIF',
       'logbook_export_send_adif_description': 'Envoyer les données exportées au format ADIF.',
       'logbook_export_export_csv': 'Exporter en CSV',
-      'logbook_export_export_csv_description': 'Exporter le carnet de log au format CSV.',
-      'logbook_export_send_csv': 'Envoyer les Données CSV',
+      'logbook_export_export_csv_description': 'Exporter le journal au format CSV.',
+      'logbook_export_send_csv': 'Envoyer les données CSV',
       'logbook_export_send_csv_description': 'Envoyer les données exportées au format CSV.',
-      'logbook_export_send_database': 'Envoyer la Base de Données Complète',
+      'logbook_export_send_database': 'Envoyer la base de données complète',
       'logbook_export_send_database_description': 'Envoyer la base de données SQLite complète.',
-      'logbook_export_insert_sample': 'Insérer des Données Exemple',
-      'logbook_export_insert_sample_description': 'Insérer des données exemple dans le carnet de log.',
-      'logbook_export_clear': 'Effacer la Base de Données',
-      'logbook_export_clear_description': 'Effacer toutes les entrées du carnet de log. Cette action ne peut pas être annulée.',
+      'logbook_export_insert_sample': 'Insérer des données d\'exemple',
+      'logbook_export_insert_sample_description': 'Insérer des données d\'exemple dans le journal.',
+      'logbook_export_clear': 'Effacer la base de données',
+      'logbook_export_clear_description': 'Effacer toutes les entrées du journal. Cette action ne peut pas être annulée.',
       'logbook_export_cancel': 'Annuler',
       'logbook_export_confirm': 'Confirmer',
-      'logbook_export_confirm_text': 'Êtes-vous sûr de vouloir effacer tout le carnet de log ? Cette action ne peut pas être annulée.',
-
+      'logbook_export_confirm_text': 'Êtes-vous sûr de vouloir effacer tout le journal ? Cette action ne peut pas être annulée.',
+      'logbook_export_to': 'Journal exporté vers',
+      'logbook_export_failed': 'Échec de l\'exportation du journal',
+      'logbook_export_clear_failed': 'Échec de l\'effacement du journal',
+      'logbook_export_clear_success': 'Journal effacé avec succès !',
+      'logbook_export_share_no_file': 'Aucun fichier à partager. Veuillez d\'abord exporter un fichier.',
+      'logbook_export_share_failed': 'Échec du partage du fichier',
+      'logbook_export_share_no_db': 'Fichier journal introuvable. Assurez-vous qu\'il existe.',
+      'logbook_export_share_failed_db': 'Échec du partage du fichier',
+      'logbook_export_exported_file': 'Fichier exporté',
 
       //
       //maps
@@ -1791,6 +1812,9 @@ class Language {
       'export_to_database': 'データベースをエクスポート:',
       'export_to_radio': 'ラジオにエクスポート:',
       'export_to_phone': '電話にエクスポート:',
+      'export_one_moment': '少々お待ちください、データベースをエクスポート中です',
+      'export_success': '正常にエクスポートされました',
+      'export_failed': 'エクスポートに失敗しました',
       //
       //export_select_screen.dart
       'export_select_appbar': '選択したユーザーをエクスポート',
@@ -1867,8 +1891,8 @@ class Language {
       'logbook_edit_confirm_text': 'このQSOを削除してもよろしいですか？',
       //
       //logbook_export_screen.dart
-      'logbook_export_appbar': 'ログブックをエクスポート',
-      'logbook_export_path': 'データベースパス',
+      'logbook_export_appbar': 'ログブックのメンテナンス',
+      'logbook_export_path': 'データベースのパス',
       'logbook_export_path_description': 'これは現在のデータベースの場所です。',
       'logbook_export_export_adif': 'ADIF形式でエクスポート',
       'logbook_export_export_adif_description': 'ログブックをADIF形式でエクスポートします。',
@@ -1887,6 +1911,15 @@ class Language {
       'logbook_export_cancel': 'キャンセル',
       'logbook_export_confirm': '確認',
       'logbook_export_confirm_text': 'ログブック全体をクリアしてもよろしいですか？この操作は元に戻せません。',
+      'logbook_export_to': 'ログをエクスポートしました',
+      'logbook_export_failed': 'ログのエクスポートに失敗しました',
+      'logbook_export_clear_failed': 'ログブックのクリアに失敗しました',
+      'logbook_export_clear_success': 'ログブックが正常にクリアされました！',
+      'logbook_export_share_no_file': '共有するファイルがありません。まずファイルをエクスポートしてください。',
+      'logbook_export_share_failed': 'ファイルの共有に失敗しました',
+      'logbook_export_share_no_db': 'ログブックファイルが見つかりません。ファイルが存在することを確認してください。',
+      'logbook_export_share_failed_db': 'ファイルの共有に失敗しました',
+      'logbook_export_exported_file': 'エクスポートされたファイル',
 
       //
       //maps
@@ -2175,6 +2208,9 @@ class Language {
       'export_to_database': '导出数据库：',
       'export_to_radio': '导出到无线电：',
       'export_to_phone': '导出到电话：',
+      'export_one_moment': '请稍等，正在导出数据库',
+      'export_success': '导出成功',
+      'export_failed': '导出失败',
       //
       //export_select_screen.dart
       'export_select_appbar': '导出选定的用户',
@@ -2250,27 +2286,35 @@ class Language {
       'logbook_edit_confirm_text': '您确定要删除此QSO吗？',
       //
       //logbook_export_screen.dart
-      'logbook_export_appbar': '导出日志簿',
+      'logbook_export_appbar': '日志维护',
       'logbook_export_path': '数据库路径',
       'logbook_export_path_description': '这是您当前数据库的位置。',
       'logbook_export_export_adif': '导出为ADIF',
-      'logbook_export_export_adif_description': '将日志簿导出为ADIF格式。',
+      'logbook_export_export_adif_description': '将日志导出为ADIF格式。',
       'logbook_export_send_adif': '发送ADIF数据',
       'logbook_export_send_adif_description': '发送导出的ADIF数据。',
       'logbook_export_export_csv': '导出为CSV',
-      'logbook_export_export_csv_description': '将日志簿导出为CSV格式。',
+      'logbook_export_export_csv_description': '将日志导出为CSV格式。',
       'logbook_export_send_csv': '发送CSV数据',
       'logbook_export_send_csv_description': '发送导出的CSV数据。',
       'logbook_export_send_database': '发送完整数据库',
       'logbook_export_send_database_description': '发送完整的SQLite数据库。',
       'logbook_export_insert_sample': '插入示例数据',
-      'logbook_export_insert_sample_description': '将示例数据插入日志簿。',
-      'logbook_export_clear': '清空数据库',
-      'logbook_export_clear_description': '清除日志簿中的所有条目。此操作无法撤消。',
+      'logbook_export_insert_sample_description': '将示例数据插入日志中。',
+      'logbook_export_clear': '清除数据库',
+      'logbook_export_clear_description': '清除日志中的所有条目。此操作无法撤消。',
       'logbook_export_cancel': '取消',
       'logbook_export_confirm': '确认',
-      'logbook_export_confirm_text': '您确定要清空整个日志簿吗？此操作无法撤消。',
-
+      'logbook_export_confirm_text': '您确定要清除整个日志吗？此操作无法撤消。',
+      'logbook_export_to': '日志已导出到',
+      'logbook_export_failed': '导出日志失败',
+      'logbook_export_clear_failed': '清除日志失败',
+      'logbook_export_clear_success': '日志已成功清除！',
+      'logbook_export_share_no_file': '没有可共享的文件。请先导出一个文件。',
+      'logbook_export_share_failed': '文件共享失败',
+      'logbook_export_share_no_db': '未找到日志文件。请确保文件存在。',
+      'logbook_export_share_failed_db': '文件共享失败',
+      'logbook_export_exported_file': '导出的文件',
 
       //
       //maps
