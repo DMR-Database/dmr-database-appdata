@@ -128,7 +128,7 @@ class Language {
       'information_share_header': 'Look what I found!',
       'information_share_text': 'Look what I found, check out DMR User Database App at https://play.google.com/store/apps/developer?id=PD2EMC',
       //
-      //'update': 'Update',
+      'update': 'Update',
       //User Settings Screen settingsuser_screen.dart
       'settingsuser_appbar': 'User Settings',
       'settingsuser_enter_callsign': 'Enter Your Callsign',
@@ -341,10 +341,6 @@ class Language {
       'logbook_export_share_no_db': 'Logbook file not found. Please ensure it exists.',
       'logbook_export_share_failed_db': 'Failed to share file',
       'logbook_export_exported_file': 'Exported File',
-
-
-
-
       //
       //
       //maps
@@ -550,7 +546,6 @@ class Language {
       //
 
       //database_screen.dart
-      'database_page_translation': 'database_page_translation',
       'database_appbar':'Database Instellingen',
       'database_info': 'Databasebestandsinformatie',
       'database_info_description': 'Informatie over het databasebestand.',
@@ -946,7 +941,6 @@ class Language {
       //
 
       //database_screen.dart
-      'database_page_translation': 'database_page_translation',
       'database_appbar':'Datenbankeinstellungen',
       'database_info': 'Datenbankdateiinformationen',
       'database_info_description': 'Informationen über die Datenbankdatei.',
@@ -1338,7 +1332,6 @@ class Language {
       //
 
       //database_screen.dart
-      'database_page_translation': 'database_page_translation',
       'database_appbar':'Paramètres de la Base de Données',
       'database_info': 'Informations sur le Fichier de la Base de Données',
       'database_info_description': 'Informations sur le fichier de la base de données.',
@@ -1733,7 +1726,6 @@ class Language {
       //
 
       //database_screen.dart
-      'database_page_translation': 'database_page_translation',
       'database_appbar':'データベース設定',
       'database_info': 'データベースファイル情報',
       'database_info_description': 'データベースファイルに関する情報。',
@@ -2129,7 +2121,6 @@ class Language {
       //
 
       //database_screen.dart
-      'database_page_translation': 'database_page_translation',
       'database_appbar':'数据库设置',
       'database_info': '数据库文件信息',
       'database_info_description': '有关数据库文件的信息。',
@@ -2374,6 +2365,402 @@ class Language {
 
     },
 
+    'el-gr': {
+      //All
+      'all_extra_features': 'Επιπλέον Χαρακτηριστικά:',
+      'all_close': 'Κλείσιμο',
+      'all_callsign': 'Σήμα Κλήσης',
+      //
+      // 'extra_features': 'Επιπλέον Χαρακτηριστικά:',
+      //
+      //Menu main.dart
+      'main_footer': 'Ομάδα Βάσης Δεδομένων Χρηστών DMR',
+      'main_app_name': 'Βάση Δεδομένων Χρηστών DMR',
+      'main_loading': 'Μια στιγμή παρακαλώ...',
+      'main_menu_home': 'Αρχική',
+      'main_menu_search': 'Αναζήτηση',
+      'main_menu_news': 'Νέα',
+      'main_menu_database': 'Βάση Δεδομένων',
+      'main_menu_settings': 'Ρυθμίσεις',
+      'main_menu_information': 'Πληροφορίες',
+      //
+      //Home Screen home_screen.dart
+      'home_appbar': 'Καλώς ήρθατε',
+      'home_appbar2': 'στην εφαρμογή μας',
+      'home_text_1': 'Εξερευνήστε παγκόσμια συστήματα ραδιοφώνου με ευκολία! Αναζητήστε Αναγνωριστικά Ραδιοφώνου, Σήματα Κλήσης και στοιχεία χρηστών σε βάσεις δεδομένων όπως RadioID, Hamvoip, HamshackHotline, DAPNET, NXDN και Repeaters.',
+      'home_text_2': 'Ανακαλύψτε αναμεταδότες και χώρους hackerspaces σε διαδραστικούς χάρτες και εμπλακείτε στον ενθουσιασμό του fox hunting. Μείνετε συνδεδεμένοι με την ζωντανή κοινότητα ερασιτεχνικού ραδιοφώνου μέσω αυτής της φιλικής προς τον χρήστη εφαρμογής.',
+      'home_text_3': 'Κύρια Χαρακτηριστικά:',
+      'home_text_4': '🔹 Βάση Δεδομένων RadioID: Βρείτε χρήστες με Αναγνωριστικό Ραδιοφώνου, Σήμα Κλήσης, Όνομα, Πόλη, Πολιτεία ή Χώρα.',
+      'home_text_5': '🔹 Βάση Δεδομένων NXDN: Βρείτε χρήστες με Αναγνωριστικό NXDN, Σήμα Κλήσης, Όνομα, Πόλη, Πολιτεία ή Χώρα.',
+      'home_text_6': '🔹 Βάση Δεδομένων Hamvoip: Βρείτε χρήστες με Επέκταση, Σήμα Κλήσης, Όνομα, Πόλη, Πολιτεία ή Χώρα.',
+      'home_text_7': '🔹 Βάση Δεδομένων HamshackHotline: Βρείτε χρήστες με Επέκταση, Σήμα Κλήσης, Όνομα, Πόλη, Πολιτεία, Χώρα ή Διακομιστή.',
+      'home_text_8': '🔹 Βάση Δεδομένων DAPNET: Βρείτε χρήστες με Σήμα Κλήσης, Πόλη, Πολιτεία ή Χώρα.',
+      'home_text_9': '🔹 Βάση Δεδομένων Repeaters: Βρείτε αναμεταδότες με Σήμα Κλήσης, Πόλη, Πολιτεία ή Χώρα.',
+      'home_text_10': '🦊 Foxhunt: Ξεκινήστε με τον ενθουσιασμό του fox hunting—επισκεφτείτε τη σελίδα πληροφοριών και βρείτε την πρώτη αλεπού!',
+      'home_text_11': 'Επιπλέον Χαρακτηριστικά:',
+      'home_text_12': '📍 Διαδραστικοί Χάρτες: Ανακαλύψτε αναμεταδότες και χώρους hackerspaces κοντά σας.',
+      'home_text_13': '🔹 Εξαγωγή Βάσης Δεδομένων: Εξαγωγή Βάσης Δεδομένων για διαφορετικές Συσκευές (Windows/macOS).',
+      'home_text_14': '🔹 Οθόνη Χρηστών ανά Χώρα: Εμφανίζει τον αριθμό χρηστών ανά χώρα.',
+      'home_text_15': '🔹 Ημερολόγιο: Καταγράψτε τα QSO σας και εξάγετε σε ADIF ή CSV.',
+      //
+      //Menu 2
+      //Search Screen Search_screen.dart
+      'search_appbar': 'Αναζήτηση Βάσης Δεδομένων',
+      'search_select_database': 'Επιλέξτε Βάση Δεδομένων',
+      'search_enter_search_type': 'Επιλέξτε Τύπο Αναζήτησης',
+      'search_enter_search_term': 'Εισαγάγετε Όρο Αναζήτησης',
+      'search_please_enter_search_term': 'Παρακαλώ εισάγετε έναν Όρο Αναζήτησης',
+      'search_database': 'Αναζήτηση Βάσης Δεδομένων', //searchbutton
+      'search_results_name': 'Αποτέλεσμα(τα)',
+      'search_export': 'Εξαγωγή',
+
+      //
+      'search_extension': 'Επέκταση',
+      'search_name': 'Όνομα',
+      'search_first_name': 'Όνομα',
+      'search_frequency': 'Συχνότητα',
+      'search_nxdn_id': 'Αναγνωριστικό NXDN',
+      'search_radio_id': 'Αναγνωριστικό DMR',
+      'search_found_in': 'Βρέθηκε σε',
+      'search_database_word': 'Βάση Δεδομένων',
+      //
+      //Callsign uses all_callsign
+      'search_city': 'Πόλη',
+      'search_state': 'Πολιτεία',
+      'search_country': 'Χώρα',
+      'search_trustee': 'Υπεύθυνος',
+      'search_server': 'Διακομιστής',
+      'search_downlink': 'Downlink',
+      'search_uplink': 'Uplink',
+      'search_offset': 'Offset',
+      'search_colorcode': 'Χρώμα Κώδικα',
+      'search_tslinked': 'Χρονική Θυρίδα',
+      'search_ipcsnetwork': 'Δίκτυο',
+
+      //
+      //Menu 3
+      //News Screen news_screen.dart
+      'news_appbar': 'Νέα Βάσης Δεδομένων Χρηστών DMR',
+      'news_more': 'Διαβάστε περισσότερα',
+
+      //
+      //Menu 4
+      //Database Screen info_screen.dart
+      'infoscreen_appbar': 'Πληροφορίες Βάσης Δεδομένων',
+      'infoscreen_localcount': 'Τοπικός Αριθμός',
+      'infoscreen_servercount': 'Αριθμός Διακομιστή',
+      'infoscreen_radioid': 'Περιέχει πληροφορίες για χειριστές ραδιοφώνου στο DMR.',
+      'infoscreen_hamvoip': 'Περιέχει πληροφορίες για χειριστές ραδιοφώνου στο HamVoIP.',
+      'infoscreen_hamshack': 'Περιέχει πληροφορίες για χειριστές ραδιοφώνου στο Hamshack Hotline.',
+      'infoscreen_dapnet': 'Περιέχει πληροφορίες για χειριστές ραδιοφώνου στο Dapnet.',
+      'infoscreen_nxdn': 'Περιέχει πληροφορίες για χειριστές ραδιοφώνου στο NXDN.',
+      'infoscreen_repeater': 'Περιέχει πληροφορίες για αναμεταδότες DMR παγκοσμίως.',
+      //
+      //Menu 5
+      //Settings Page settings_screen.dart
+      'settings_appbar': 'Ρυθμίσεις',
+      'settings_appbar_extra': 'Ρυθμίσεις-Επιπλέον',
+      'settings_user' : 'Ρυθμίσεις Χρήστη',
+      'settings_user_description': 'Εισαγάγετε το Σήμα Κλήσης σας και ενεργοποιήστε επιπλέον χαρακτηριστικά.',
+      'settings_database' : 'Ρυθμίσεις Βάσης Δεδομένων',
+      'settings_database_description': 'Ενημέρωση Βάσης Δεδομένων και Δοκιμή Σύνδεσης Δικτύου.',
+      'settings_repeater_map': 'Χάρτης Αναμεταδότες',
+      'settings_repeatermap_radioid_description': 'Εξερευνήστε Αναμεταδότες RadioID σε έναν Χάρτη.',
+      'settings_repeatermap_repeaterbook_description': 'Εξερευνήστε Αναμεταδότες RepeaterBook σε έναν Χάρτη.',
+      'settings_hackerspace_map': 'Χάρτης Hackerspaces',
+      'settings_hackerspacemap_description': 'Εξερευνήστε Hackerspaces σε έναν Χάρτη.',
+      'settings_listen_dmr': 'Ακούστε DMR',
+      'settings_listendmr_description': 'Ακούστε DMR μέσω Hoseline.',
+      'settings_links': 'Σελίδα Συνδέσμων',
+      'settings_links_description': 'Οι δικοί σας σύνδεσμοι.',
+      'settings_logbook': 'Ημερολόγιο',
+      'settings_logbook_description': 'Καταγράψτε τα QSO σας στο ημερολόγιο.',
+      //
+      //Menu 6
+      //information Page contact_screen.dart
+      'information_appbar': 'Πληροφορίες',
+      'information_button1_text': 'Πληροφορίες Εφαρμογής & Βάσης Δεδομένων',
+      'information_button1_description': 'Δείτε την έκδοση της εφαρμογής, τον αριθμό έκδοσης και περισσότερα.',
+      'information_button2_text': 'Στοιχεία Επικοινωνίας',
+      'information_button2_description': 'Επικοινωνήστε μαζί μας μέσω διαφορετικών καναλιών.',
+      'information_button3_text': 'Κοινοποίηση Εφαρμογής Android',
+      'information_button3_description': 'Κοινοποιήστε έναν σύνδεσμο για την Εφαρμογή στο Android Play Store.',
+      'information_button4_text': 'Ευχαριστίες στους Δοκιμαστές',
+      'information_button4_description': 'Μια ιδιαίτερη ευχαριστία σε όλους τους δοκιμαστές μας για την υποστήριξή τους!',
+      'information_button5_text': 'Πολιτική Απορρήτου',
+      'information_button5_description': 'Διαβάστε την πολιτική απορρήτου και τις πρακτικές μας.',
+      'information_share_header': 'Κοίτα τι βρήκα!',
+      'information_share_text': 'Κοίτα τι βρήκα, δείτε την Εφαρμογή Βάσης Δεδομένων Χρηστών DMR στο https://play.google.com/store/apps/developer?id=PD2EMC',
+      //
+      'update': 'Ενημέρωση',
+      //User Settings Screen settingsuser_screen.dart
+      'settingsuser_appbar': 'Ρυθμίσεις Χρήστη',
+      'settingsuser_enter_callsign': 'Εισαγάγετε το Σήμα Κλήσης σας',
+      'settingsuser_callsign_description': 'Εισαγάγετε το σήμα κλήσης σας εδώ. Αυτό θα εμφανίζεται στην κορυφή της αρχικής οθόνης.',
+      'settingsuser_callsign_save': 'Αποθήκευση Σήματος Κλήσης',
+      'settingsuser_callsign_clear': 'Καθαρισμός Σήματος Κλήσης',
+      'settingsuser_extra_features': 'Ενεργοποίηση Επιπλέον Χαρακτηριστικών:',
+      'settingsuser_export_feature': 'Χαρακτηριστικό Εξαγωγής',
+      'settingsuser_users_per_country': 'Χρήστες ανά Χώρα',
+      'settingsuser_repeater_maps': 'Χάρτες Αναμεταδότες',
+      'settingsuser_hackerspaces_maps': 'Χάρτες Hackerspaces',
+      'settingsuser_hoseline_link': 'Σύνδεσμος Hoseline',
+      'settingsuser_links_page': 'Σελίδα Συνδέσμων',
+      'settingsuser_logbook_feature': 'Χαρακτηριστικό Ημερολογίου',
+      'settingsuser_language': 'Επιλέξτε τη Γλώσσα σας',
+      'settingsuser_language_description': 'Η γλώσσα του μενού θα αλλάξει μετά την επανεκκίνηση της εφαρμογής',
+      'settingsuser_language_message': 'Η ρύθμιση γλώσσας αποθηκεύτηκε...',
+
+      //
+      //database_screen.dart
+      'database_appbar':'Ρυθμίσεις Βάσης Δεδομένων',
+      'database_info': 'Πληροφορίες Αρχείου Βάσης Δεδομένων',
+      'database_info_description': 'Πληροφορίες σχετικά με το Αρχείο Βάσης Δεδομένων.',
+      'database_update': 'Ενημέρωση Βάσης Δεδομένων',
+      'database_update_description': 'Λήψη της τελευταίας Βάσης Δεδομένων από το github.',
+      'database_update_description_local': 'Λήψη των τελευταίων δεδομένων από το github και ενημέρωση των τοπικών πινάκων.',
+      'database_download_new_database': 'Λήψη νέας Βάσης Δεδομένων.',
+      'database_test_network':'Δοκιμή Σύνδεσης Δικτύου',
+      'database_test_network_description': 'Δοκιμάστε τη σύνδεση δικτύου σας με το Github.',
+      'database_test_network_sucess': 'Η δοκιμή δικτύου ήταν επιτυχής!',
+      'database_export_database': 'Εξαγωγή Βάσεων Δεδομένων',
+      'database_export_database_description': 'Εξαγωγή Βάσεων Δεδομένων για τις συσκευές σας.',
+      'database_users_per_country': 'Χρήστες ανά Χώρα',
+      'database_users_per_country_description': 'Εμφάνιση του αριθμού χρηστών ανά χώρα.',
+      //
+      //Database Info Page database_info_screen.dart
+      'databaseinfo_appbar': 'Πληροφορίες Αρχείου Βάσης Δεδομένων',
+      'databaseinfo_path': 'Διαδρομή Βάσης Δεδομένων',
+      'databaseinfo_update': 'Τελευταία ώρα ενημέρωσης',
+      'databaseinfo_upload': 'Τελευταία ώρα μεταφόρτωσης',
+      //database_count
+      'database_count_appbar': 'Χρήστες ανά Χώρα',
+      'database_count_users': 'Χρήστες',
+      'database_count_country': 'Χώρα',
+      //Application Information Page appinfo_screen.dart
+      'appinfo_appbar': 'Πληροφορίες Εφαρμογής',
+      'appinfo_path': 'Διαδρομή Βάσης Δεδομένων',
+      'appinfo_update': 'Τελευταία ώρα ενημέρωσης',
+      'appinfo_upload': 'Τελευταία ώρα μεταφόρτωσης',
+      'appinfo_changes': 'Τελευταίες Αλλαγές',
+      'appinfo_googleversion': 'Έκδοση Google Play',
+      'appinfo_localversion': 'Εγκατεστημένη Έκδοση',
+      //
+      //Contact Screen contactonline_screen.dart
+      'contact_appbar': 'Στοιχεία Επικοινωνίας',
+      'contact_report': 'Αναφορά Προβλήματος',
+      'contact_report_description': 'Παρακαλώ αναφέρετε οποιοδήποτε πρόβλημα',
+      'contact_discord': 'Επικοινωνήστε μαζί μας μέσω Discord',
+      'contact_discord_description': 'Ελάτε στον διακομιστή Discord μας',
+      'contact_email': 'Επικοινωνήστε μαζί μας μέσω Email',
+      'contact_email_description': 'Μπορείτε να επικοινωνήσετε μαζί μας μέσω Email',
+      'contact_phone': 'Επικοινωνήστε μαζί μας μέσω Τηλεφώνου',
+      'contact_phone_description': 'Επικοινωνήστε μαζί μας μέσω υπηρεσιών τηλεφώνου όπως το Hamshack Hotline.',
+      //
+      //contact phone contactphone_screen.dart
+      'contactphone_appbar': 'Στοιχεία Επικοινωνίας Τηλεφώνου',
+      'contactphone_hamvoip': 'Μια αξιόπιστη υπηρεσία VoIP για χειριστές ερασιτεχνικού ραδιοφώνου.',
+      'contactphone_hamshack': 'Δωρεάν υπηρεσία VoIP για λάτρεις του ερασιτεχνικού ραδιοφώνου.',
+      'contactphone_hamsoverip': 'Ένα παγκόσμιο δίκτυο VoIP για χρήστες ερασιτεχνικού ραδιοφώνου.',
+      'contactphone_hackerspace': 'Ιδιωτική υπηρεσία VoIP για επικοινωνία σε hackerspaces.',
+      //
+      //Testers Screen testers_screen.dart
+      'testers_appbar': 'Ευχαριστίες σε όλους τους δοκιμαστές',
+      'testers_header': 'Μια Τεράστια Ευχαριστώ!',
+      'testers_text1': 'Οι καταπληκτικοί δοκιμαστές μας',
+      'testers_text2': 'Ευχαριστούμε τους παρακάτω δοκιμαστές για τις ανεκτίμητες συνεισφορές τους.',
+      //
+      // export screen export_screen.dart
+      'export_appbar': 'Εξαγωγή Βάσεων Δεδομένων',
+      'export_all': 'Εξαγωγή όλων των δεδομένων RadioID',
+      'export_all_description': 'Εξαγωγή όλων των δεδομένων RadioID σε "exported_data.csv".',
+      'export_all_anytone': 'Εξαγωγή όλων των δεδομένων RadioID για ραδιόφωνα Anytone',
+      'export_all_anytone_description': 'Εξαγωγή όλων των δεδομένων RadioID για ραδιόφωνα Anytone σε "userat.csv".',
+      'export_select_anytone': 'Εξαγωγή επιλεγμένων δεδομένων RadioID για ραδιόφωνα Anytone',
+      'export_select_anytone_description': 'Εξαγωγή επιλεγμένων δεδομένων RadioID για ραδιόφωνα Anytone σε "userat.csv".',
+      'export_hamvoip_fanvil': 'Εξαγωγή όλων των χρηστών Hamvoip για τηλέφωνα Fanvil',
+      'export_hamvoip_fanvil_description': 'Εξαγωγή όλων των χρηστών Hamvoip για τηλέφωνα Fanvil σε "hamvoip_fanvil_data.csv".',
+      'export_dutch_fanvil': 'Εξαγωγή όλων των Ολλανδών χρηστών για τηλέφωνα Fanvil',
+      'export_dutch_fanvil_description': 'Εξαγωγή όλων των Ολλανδών χρηστών για τηλέφωνα Fanvil σε "all_fanvil_data.csv".',
+      'export_hamvoip_grandstream': 'Εξαγωγή όλων των χρηστών Hamvoip για τηλέφωνα Grandstream',
+      'export_hamvoip_grandstream_description': 'Εξαγωγή όλων των χρηστών Hamvoip για τηλέφωνα Grandstream σε "hamvoip_grandstream_data.csv".',
+      'export_dutch_grandstream': 'Εξαγωγή όλων των Ολλανδών χρηστών για τηλέφωνα Grandstream',
+      'export_dutch_grandstream_description': 'Εξαγωγή όλων των Ολλανδών χρηστών για τηλέφωνα Grandstream σε "all_grandstream_data.csv".',
+      'export_hamvoip_cisco': 'Εξαγωγή όλων των χρηστών Hamvoip για τηλέφωνα Cisco',
+      'export_hamvoip_cisco_description': 'Εξαγωγή όλων των χρηστών Hamvoip για τηλέφωνα Cisco σε "hamvoip_cisco_data.xml".',
+      'export_to_database': 'Εξαγωγή Βάσης Δεδομένων:',
+      'export_to_radio': 'Εξαγωγή σε Ραδιόφωνο:',
+      'export_to_phone': 'Εξαγωγή σε Τηλέφωνο:',
+      'export_one_moment': 'Μια στιγμή παρακαλώ, εξαγωγή βάσης δεδομένων',
+      'export_success': 'Εξαγωγή επιτυχής',
+      'export_failed': 'Αποτυχία εξαγωγής',
+
+
+      //
+      //export_select_screen.dart
+      'export_select_appbar': 'Εξαγωγή Επιλεγμένων Χρηστών',
+      'export_select_selected': 'Επιλεγμένο',
+      'export_select_export': 'Εξαγωγή σε CSV',
+      'export_select_all': 'Επιλογή Όλων',
+      'export_select_none': 'Αποεπιλογή Όλων',
+      'export_select_save': 'Αποθήκευση Χωρών',
+      'export_select_load': 'Φόρτωση Αποθηκευμένων Χωρών',
+      //
+      //linkset_screen.dart
+      'linkset_appbar':'Ρύθμιση Σελίδας Συνδέσμων',
+      'linkset_url':'URL για',
+      'linkset_url_text':'Εισαγάγετε URL',
+      'linkset_description':'Περιγραφή για',
+      'linkset_description_text':'Εισαγάγετε περιγραφή',
+      'linkset_edit': 'Επεξεργασία Συνδέσμων',
+
+
+      //
+      //logbook_screen.dart
+      'logbook_appbar': 'Επιλογές Ημερολογίου',
+      'logbook_add': 'Προσθήκη',
+      'logbook_add_description': 'Προσθήκη Qso στο Ημερολόγιο.',
+      'logbook_view': 'Προβολή',
+      'logbook_view_description': 'Προβολή του Ημερολογίου.',
+      'logbook_edit': 'Επεξεργασία',
+      'logbook_edit_description': 'Επεξεργασία του Ημερολογίου.',
+      'logbook_management': 'Διαχείριση Ημερολογίου',
+      'logbook_management_description': 'Εξαγωγή ή Καθαρισμός του Ημερολογίου.',
+      //
+      //logbook_insert_screen.dart
+      'logbook_insert_appbar': 'Προσθήκη QSO στο Ημερολόγιο',
+      //callsign needs has entry use all_callsign
+      //same with date time in logbook_view_screen
+      //same with date time in logbook_edit ?
+      'logbook_all_date': 'Ημερομηνία',
+      'logbook_all_time': 'Ώρα',
+      'logbook_all_band': 'Ζώνη',
+      'logbook_all_mode': 'Τρόπος',
+      'logbook_all_power': 'Ισχύς',
+      'logbook_all_frequency': 'Συχνότητα',
+      'logbook_all_operator': 'Χειριστής',
+      'logbook_all_gridsquare': 'Τετράγωνο Πλέγματος',
+      'logbook_all_comment': 'Σχόλιο',
+      'logbook_all_at': 'στις', //fe 2025-01-01 at 14:00
+      //
+      //
+      'logbook_insert_save': 'Αποθήκευση QSO',
+      'logbook_insert_clear': 'Καθαρισμός Πεδίων',
+      'logbook_insert_save_ok': 'Το QSO αποθηκεύτηκε επιτυχώς!',
+      'logbook_insert_save_nok': 'Αποτυχία αποθήκευσης QSO. Σφάλμα: ',
+      'logbook_insert_notselected': 'δεν επιλέχθηκε.',
+      'logbook_insert_notentered': 'δεν εισήχθη.',
+      //'logbook_insert_enter': 'Παρακαλώ εισάγετε ένα',
+      //'logbook_insert_select': 'Παρακαλώ επιλέξτε ένα',
+      //
+      //logbook_view_screen.dart
+      'logbook_view_appbar': 'Προβολή Ημερολογίου',
+      'logbook_view_add': 'Προσθήκη',
+      'logbook_view_add_qso': 'Προσθήκη Qso',
+      'logbook_view_add_qso_description': 'Προσθήκη πρώτου Qso στο Ημερολόγιο.',
+      'logbook_view_add_sample': 'Εισαγωγή Δεδομένων Δείγματος',
+      'logbook_view_add_sample_description': 'Προσθήκη δειγματοληπτικών QSOs στο ημερολόγιο',
+      'logbook_view_add_sample_ok': 'Τα δείγματα εισήχθησαν επιτυχώς!',
+      'logbook_view_add_sample_nok': 'Αποτυχία εισαγωγής δειγμάτων',
+      //
+      //logbook_list_screen.dart
+      'logbook_list_appbar': 'Επεξεργασία Ημερολογίου',
+      'logbook_list_no_entries': 'Δεν βρέθηκαν QSO.',
+      //
+      //logbook_edit_screen.dart
+      'logbook_edit_appbar': 'Επεξεργασία QSO',
+      'logbook_edit_save': 'Αποθήκευση',
+      'logbook_edit_delete': 'Διαγραφή',
+      'logbook_edit_cancel': 'Ακύρωση',
+      'logbook_edit_confirm': 'Επιβεβαίωση Διαγραφής',
+      'logbook_edit_confirm_text': 'Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το QSO;',
+      //
+      //logbook_export_screen.dart
+      'logbook_export_appbar': 'Συντήρηση Ημερολογίου',
+      'logbook_export_path': 'Διαδρομή Βάσης Δεδομένων',
+      'logbook_export_path_description': 'Αυτή είναι η τοποθεσία της τρέχουσας βάσης δεδομένων σας.',
+      'logbook_export_export_adif': 'Εξαγωγή σε ADIF',
+      'logbook_export_export_adif_description': 'Εξαγωγή του ημερολογίου σε μορφή ADIF.',
+      'logbook_export_send_adif': 'Αποστολή ADIF Δεδομένων',
+      'logbook_export_send_adif_description': 'Αποστολή εξαγόμενων δεδομένων ADIF.',
+      'logbook_export_export_csv': 'Εξαγωγή σε CSV',
+      'logbook_export_export_csv_description': 'Εξαγωγή του ημερολογίου σε μορφή CSV.',
+      'logbook_export_send_csv': 'Αποστολή CSV Δεδομένων',
+      'logbook_export_send_csv_description': 'Αποστολή εξαγόμενων δεδομένων CSV.',
+      'logbook_export_send_database': 'Αποστολή Πλήρους Βάσης Δεδομένων',
+      'logbook_export_send_database_description': 'Αποστολή πλήρους βάσης δεδομένων SQLite.',
+      'logbook_export_insert_sample': 'Εισαγωγή Δεδομένων Δείγματος',
+      'logbook_export_insert_sample_description': 'Εισαγωγή δειγματοληπτικών δεδομένων στο ημερολόγιο.',
+      'logbook_export_clear': 'Καθαρισμός Βάσης Δεδομένων',
+      'logbook_export_clear_description': 'Καθαρισμός όλων των εγγραφών από το ημερολόγιο. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.',
+      'logbook_export_cancel': 'Ακύρωση',
+      'logbook_export_confirm': 'Επιβεβαίωση',
+      'logbook_export_confirm_text': 'Είστε βέβαιοι ότι θέλετε να καθαρίσετε ολόκληρο το ημερολόγιο; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.',
+      'logbook_export_to': 'Το ημερολόγιο εξήχθη σε',
+      'logbook_export_failed': 'Αποτυχία εξαγωγής ημερολογίου',
+      'logbook_export_clear_failed': 'Αποτυχία καθαρισμού ημερολογίου',
+      'logbook_export_clear_success': 'Το ημερολόγιο καθαρίστηκε επιτυχώς!',
+      'logbook_export_share_no_file': 'Δεν υπάρχει αρχείο για κοινοποίηση. Παρακαλώ εξάγετε πρώτα ένα αρχείο.',
+      'logbook_export_share_failed': 'Αποτυχία κοινοποίησης αρχείου',
+      'logbook_export_share_no_db': 'Το αρχείο ημερολογίου δεν βρέθηκε. Παρακαλώ βεβαιωθείτε ότι υπάρχει.',
+      'logbook_export_share_failed_db': 'Αποτυχία κοινοποίησης αρχείου',
+      'logbook_export_exported_file': 'Εξαγόμενο Αρχείο',
+      //
+      //
+      //maps
+      'maps_appbar': 'Χάρτης',
+      'maps_please_select': 'Επιλέξτε Χώρα',
+      'maps_name': 'Όνομα',
+      'maps_address': 'Διεύθυνση',
+      'maps_email': 'Email',
+      'maps_mailinglist': 'Λίστα Αλληλογραφίας',
+      'maps_wiki': 'Wiki',
+      'maps_irc': 'IRC',
+      'maps_website': 'Ιστότοπος',
+      'maps_city': 'Πόλη',
+      'maps_nearest_city': 'Πλησιέστερη Πόλη',
+      'maps_landmark': 'Ορόσημο',
+      'maps_region': 'Περιοχή',
+      'maps_state': 'Πολιτεία',
+      'maps_country': 'Χώρα',
+      'maps_state_id': 'Αναγνωριστικό Πολιτείας',
+      'maps_lat': 'Γεωγραφικό Πλάτος',
+      'maps_lng': 'Γεωγραφικό Μήκος',
+      'maps_precise': 'Ακριβές',
+      'maps_frequency': 'Συχνότητα',
+      'maps_input_freq': 'Συχνότητα Εισόδου',
+      'maps_rptr_id': 'Αναγνωριστικό Αναμεταδότη',
+      'maps_pl': 'PL',
+      'maps_tsq': 'TSQ',
+      'maps_color_code': 'Χρώμα Κώδικα',
+      'maps_offset': 'Offset',
+      'maps_status': 'Κατάσταση',
+      'maps_trustee': 'Υπεύθυνος',
+      'maps_operational_status': 'Κατάσταση Λειτουργίας',
+      'maps_assigned': 'Ανατεθειμένο',
+      'maps_ts_linked': 'TS Συνδεδεμένο',
+      'maps_allstar_node': 'Κόμβος Allstar',
+      'maps_echolink_node': 'Κόμβος EchoLink',
+      'wires_node': 'Κόμβος Wires',
+      'maps_fm_analog': 'FM Αναλογικό',
+      'maps_fm_bandwidth': 'FM Εύρος Ζώνης',
+      'maps_dmr': 'DMR',
+      'maps_dmr_color_code': 'Χρώμα Κώδικα DMR',
+      'maps_dmr_id': 'Αναγνωριστικό DMR',
+      'maps_d_star': 'D-Star',
+      'maps_nxdn': 'NXDN',
+      'maps_apco_p25': 'APCO P25',
+      'maps_p_25_nac': 'P25 NAC',
+      'maps_m17': 'M17',
+      'maps_m17_can': 'M17 CAN',
+      'maps_tetra': 'TETRA',
+      'maps_tetra_mcc': 'TETRA MCC',
+      'maps_tetra_mnc': 'TETRA MNC',
+      'maps_system_fusion': 'System Fusion',
+      'maps_locator': 'Εντοπιστής',
+      'maps_map_info': 'Πληροφορίες Χάρτη',
+      'maps_ipsc_network': 'Δίκτυο IPSC',
+    },
   };
 
   static String get(String key, String lang) {
