@@ -346,7 +346,7 @@ Master,F6ZAN,MONTIGNY LE BRETONNEUX,1,France,430.03750,208002,FREEDMR,208002,1,,
 ,F5ZIW,BURES SUR YVETTE,1,France,430.20000,208006,None,208006,0,,9.400,,F6CNB,
 Master,F1ZGI,RUEIL 92,7,France,430.57500,208007,DMR-plus,208007,1,,+9.400,Ile-de-France,F1TUV,TS1 TS2
 ,F1ZGO,Meudon,1,France,430.05000,208008,BM,208008,0,,9.400,Centre-Val de Loire,F1TDI,TS1 TS2
-,F1ZRD,Chatenay-Malabry,15,France,430.47500,208009,None,208009,0,,9.400,Centre-Val de Loire,F1IUQ,
+Peer,F1ZRD,,1,France,430.47500,208009,None,208009,0,,9.400,Ile-de-France,F1IUQ,
 ,F1ZWD,Paris,1,France,145.78750,208010,BM,208010,0,,-0.600,Centre-Val de Loire,F1HBG,TS1 TS2
 ,F1ZLK,Rueil Malmaison,1,France,439.37500,208011,BM,208011,0,,-5.000,,F1PTL,TS1 TS2
 Master,F5ZIC,Chartres,1,France,439.43750,208012,BM,208012,0,,-7.6,Hauts-de-France,F4GZQ,TS1 TS2
@@ -423,6 +423,7 @@ Master,F1ZBU,Epinal,1,France,433.02500,208087,DMR+,208087,1,,-1.600,Grand Est,F8
 Master,F6ZDY,Dreux,1,France,439.35000,208089,"BM, ADN, XLX",208089,0,,-7.6,Centre-Val de Loire,F4BVC,TS1 TS2
 Master,F1ZMV,Saint Etienne Lardeyrol,1,France,439.68750,208090,"BM, ADN, XLX",208090,1,RELAIS REPETEUR UHF MMDVM  439.6875 -9.4<br>RETROUVER PLUS D'INFOS SUR WWW.QRZ.COM  EN  RECHERCHANT F1ZMV,-9.400,Auvergne-Rhone-Alpes,F4GVA,TS1 TS2
 ,F5ZIP,La Ville-du-bois,1,France,430.01250,208091,DMR-plus,208091,0,,9.400,Centre-Val de Loire,F6MPN,TS1 TS2
+Peer,F1ZVL,Chatenay-Malabry,1,France,145.63750,208092,Brandmeister,208092,1,None,-0.600,Ile-de-France,,TS1 TS2
 ,F5ZIO,Montreuil,1,France,430.45000,208093,BM,208093,0,,9.400,Centre-Val de Loire,F6MPN,TS1 TS2
 Master,F1ZLJ,GALGON,1,France,430.21250,208095,DMR-plus,208095,1,,+9.400,Nouvelle-Aquitaine,F4GLJ,TS1 TS2
 ,F1ZHW,Montfermeil,7,France,430.53750,208099,BM,208099,0,,9.400,,F1TUV,TS1 TS2
@@ -614,6 +615,7 @@ Master,ED1ZBK,Salas,1,Spain,438.37500,214019,BM,214019,0,,-7.600,Asturias,EA1JAY
 Master,ED3YBK,Esparreguera,1,Spain,145.57500,214020,BM,214020,1,TG 8 CLUSTER EA3SPAIN EN SLOT 2 PERMANENTE,-0.600,Barcelona,EA3PJ,Mixed Mode
 Master,ED3YBK,Esparreguera,1,Spain,145.57500,214021,BM,214021,0,TG 214316 EA3SPAIN,-0.600,Barcelona,EA3PJ,TS1 TS2
 Master,ED5ZAQ,Higueruela,1,Spain,438.40000,214022,BM,214022,0,,-7.600,Albacete,EA5SW,TS1 TS2
+Master,ED1YBL,Parada Sil - Ourense ,1,Spain,145.63750,214025,BM,214025,1,None,-600.000,Ourense,,Mixed Mode
 ,ED1ZAS,San Martin,1,Spain,438.22500,214102,BM,214102,0,,-7.600,,EB1TK,TS1 TS2
 ,ED1YBQ,Bejar,1,Spain,438.65000,214103,DMR-plus,214103,0,,-7.600,,EA1EZ,TS1 TS2
 ,ED1ZAU,Monte Naranco Oviedo,1,Spain,438.50000,214104,BM,214104,0,,-7.600,,EB1TK,TS1 TS2
@@ -8607,7 +8609,7 @@ Peer,N9UMJ,Bedford,1,United States,442.25000,314565,XLXSIN,314565,0,This is a Mu
 Master,WR0MG,Coffeyville,5,United States,444.55000,314566,BM,314566,0,TS:1 - TG 314093<br>TS:2 - All dynamic TG,+5.00,Kansas,WR0MG,TS1 TS2
 Peer,KC7Z,Bremerton,1,United States,146.62000,314568,BM,314568,0,,-0.600,Washington,KC7Z,Mixed Mode
 Master,KG4TRV,Miami,1,United States,443.55000,314569,BM,314569,0,,+5.000,Florida,KG4TRV,Mixed Mode
-Peer,KF8DEA,Chardon,9,United States,444.33750,314570,BM,314570,1,<br>3139 Ohio Statewide<br>31391 Northeast Ohio,+5.000,Ohio,KF8DEA,TS1 TS2
+Peer,KF8DEA,Chardon,1,United States,444.33750,314570,BM,314570,1,3139 Ohio Statewide<br>31391 Northeast Ohio,+5.000,Ohio,KF8DEA,TS1 TS2
 Peer,K4MJO,South Hill,4,United States,442.35000,314571,BM,314571,1,"Updated: 10/11/2025<br>Contact: K4MJO Matt<br><br>DMR Repeater  <br>Color Code 4<br><br>Slot 1<br> 31373   Eastern NC Repeaters Full Time Link  K4BLA Backwoods DMR<br> 310997   Echo Test. Test Your Audio Here!<br> 31377   Outer Banks, Nc Repeaters<br> 4000   Disconnect (Clear PTT Activated TG)<br><br>Slot 2<br><br> 314571   RF & Hot spot (LOCAL ONLY)",+5.000,Virginia,K4MJO,TS1 TS2
 Peer,KE0IHD,Mount Pleasant,1,United States,147.22500,314572,Brandmeister,314572,1,,+0.6,Iowa,KE0IHD,TS1 TS2
 Peer,K5URD,Luling,1,United States,146.98000,314573,BrandMeister,314573,0,"Open TGs, Works mostly in city limits.",-0.6,Texas,K5URD,TS1 TS2
@@ -8788,6 +8790,7 @@ Peer,NE4RC,Johnson City,1,United States,146.80500,314764,dmr,314764,0,moutain la
 Peer,W8LGX,Logan,1,United States,443.02500,314765,BM,314765,1,"TS1 - TG3139, TG31393, TG31392, TG313953   TS2 - TG1 local<br>Est. On-Air by December 10, 2025<br>HAAT of antenna: 442 ft.,, ERP: 25 watts omnidirectional<br><br>",+5.000,Ohio,W8LGX,TS1 TS2
 Peer,W5CJR,Hattiesburg,1,United States,444.76250,314766,DMR-SE C-Bridge,314766,1,"November 21, 2025<br>Network: DMR-SE C-Bridge + BrandMeister where noted<br>Callsign: W5CJR<br>City: Hattiesburg, Mississippi<br><br>Frequency: 444.7625 MHz<br>Color Code: 1<br>Offset: -5.000 (+ offset if programming radio)<br>Time Slots: TS1 TS2<br><br>Static (Full Time Talk groups)<br>TS 1 - TG 314766 - Hattiesburg, MS<br>TS 2 - TG 312801 - Lucedale, MS<br><br>TS 1 Dynamic Talk groups (PTT Activated  10 Min Timer)<br>TG 9998 - Parrot (Private Echo/Audio Test  local only)<br><br>TS 2 Dynamic Talk groups (PTT Activated  10 Min Timer)<br>TG 9 - Local 9 (Local Only  no network pass)<br>TG 314490 - Petal, MS<br>TG 314128 - Wiggins / McHenry, MS<br>TG 31285 - NE Mississippi (BM)<br>TG 311552 - Laurel, MS (BM)<br>TG 314309 - Biloxi, MS<br>TG 3128 - Mississippi Statewide (BM)<br>TG 314654 - Poplarville, MS (BM)<br>TG 314622 - Thomasville, MS<br>TG 3199 - US Hurricane Net (BM)",+5.000,Mississippi,W5CJR,TS1 TS2
 Peer,W4OWE,Ashville,1,United States,442.12500,314770,"AMCOMM, BM",314770,1,"AmComm:<br>TS1: 31012, 31013<br>TS2:  4101, 31010, 31325<br>BM: 3101, 31015",+5.000,Alabama,W4OWE,TS1 TS2
+Master,N6PJW,Poplarville,1,United States,440.85000,314772,BM,314772,0,DMR repeater at 50'AGL and 30W from duplexer<br><br>TS 1 Static<br>314654 - Poplarville MS<br>314128 - McHenry MS<br>3200655 - K5STO DMR ID TG<br>3167769 - N6PJW DMR ID TG<br><br>TS 2 Static<br>312801 - Lucedale MS <br>314766 - Hattiesburg MS,+5.000,Mississippi,N6PJW,TS1 TS2
 Master,AA6PP,Larkspur,1,United States,443.37500,314773,SA,314773,0,,+5.000,California,AA6PP,TS1 TS2
 Master,W4GS,Myrtle Beach,1,United States,441.77400,314774,BM,314774,1,,+5.0,South Carolina,W4GS,TS1 TS2
 Peer,WN1R,NEW ORLEANS,5,United States,443.60000,314775,BM,314775,0,testing,+5.0,Louisiana,WN1R,TS1 TS2
@@ -9193,7 +9196,7 @@ Peer,XE2UD,Juarez,8,Mexico,444.30000,334027,DMR+ Mexico,334027,1,Slot 1  TG 9 (L
 Master,XE1SMD,Jamay,1,Mexico,147.36000,334028,BM,334028,0,TG:334<br>TG:3341,-0.600,Jalisco,XE1SMD,TS2
 Master,XE1GQP,Tlaquepaque,1,Mexico,438.15000,334029,BM,334029,0,Repetidor DMR Brandmeister dando cobertura a toda la Zona Metropolitana de Guadalajara,-5.000,Jalisco,XE1GQP,TS1 TS2
 Peer,XE1GSY,Queretaro,1,Mexico,438.01250,334030,BM,334030,0,,-5.0,Queretaro,XE1GSY,TS1 TS2
-Master,XE2PEF,Quertaro,1,Mexico,433.37500,334031,BM,334031,1,,+5.000,Queretaro,XE2PEF,TS2
+Master,XE2PEF,Queretaro,1,Mexico,433.37500,334031,BM,334031,1,,+5.000,Queretaro,XE2PEF,TS2
 Master,XE1E,Mexico City,1,Mexico,438.27500,334032,BM,334032,1,,-5.000,Mexico City,XE1E,TS1 TS2
 Master,XE2MVZ,Durango,1,Mexico,438.37500,334033,BM,334033,0,,-5.000,Durango,XE2MVZ,TS1 TS2
 Peer,XE2KEG,Torreon,1,Mexico,438.12500,334034,DMR+ MEXICO,334034,1,,-5.000,Coahuila,XE2KEG,TS1 TS2
@@ -9893,6 +9896,7 @@ Master,E25MTT,Pathumthani,5201074,Thailand,146.23750,520016,DMR,520016,1,,-0.600
 Peer,HS5GDX,THA,1,Thailand,146.21250,520017,BM,520017,1,,-0.600,Chiang Mai,HS5GDX,TS2
 Master,HS9ZQR,raman,8,Thailand,145.70000,520019,DMR,520019,1,,-0.600,Yala,HS9ZQR,Mixed Mode
 Master,E25MM,Nongkrot,1,Thailand,145.56250,520022,BM,520022,0,,-0.000,Nakhon Sawan,HS0ZET,TS1 TS2
+Peer,E24ZVH,Doisaket,1,Thailand,146.61250,520023,-,520023,1,None,-0.600,Chiang Mai,,TS2
 Singapore South,9V1RS,Singapore,1,Singapore,145.62500,525001,BrandMeister,525001,1,MMDVM Multimode (DMR/C4FM/D-STAR)<br><br>[DMR]<br>TS1: TG525<br>TS2: -<br>[C4FM]: -<br>[D-STAR]: -,-0.600,Singapore,9V1LH,1
 Master,ZL3CAR,Christchurch,1,New Zealand,438.40000,530003,BrandMeister,530003,1,Digital Test Repeater,-5.00,South Island,ZL3TMB,1
 Peer,ZL1WK,Whakatane,1,New Zealand,147.30000,530004,BM,530004,0,,+0.600,North Island 1,ZL1WK,TS1 TS2
