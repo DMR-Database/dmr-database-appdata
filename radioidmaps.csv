@@ -6,9 +6,9 @@ Master,KF6GOI,Thousand Oaks,1,United States,445.56000,West Brandmeister,34.17056
 Peer,K6UHF,Wrightwood,7,United States,449.74000,BrandMeister,34.351742,-117.676888,110605,,-5.000,California,ACTIVE,K6UHF,TS1 TS2
 Peer,KA7QQV,Alameda,1,United States,443.50000,brandmeister,37.7652065,-122.2416355,110607,,+5.000,California,ACTIVE,KA7QQV,TS1 TS2
 Master,KE6UPI,Murrieta,1,United States,447.40000,BrandMeister,33.5539143,-117.2139232,110608,,-5.000,California,ACTIVE,KE6UPI,TS1 TS2
-Peer,WX6D,Place Holder,1,United States,443.43750,Mountain West DMR,37.9100783,-122.0651819,110609,,+5.000,California,UNKNOWN,KE6YJC,TS1 TS2
+Peer,WX6D,Place Holder,1,United States,443.43750,Mountain West DMR,37.9100783,-122.0651819,110609,,+5.000,California,ACTIVE,KE6YJC,TS1 TS2
 Peer,WB6PQM,Walnut Creek,3,United States,927.50000,Brandmeister,37.9020731,-122.0618702,110610,,-25.000,California,ACTIVE,WB6PQM,TS1 TS2
-Peer,WX6D,Soquel,1,United States,442.53750,Mountain West DMR,35.4894169,-120.6707255,110612,,+5.000,California,UNKNOWN,KE6YJC,TS1 TS2
+Peer,WX6D,Soquel,1,United States,442.53750,Mountain West DMR,35.4894169,-120.6707255,110612,,+5.000,California,ACTIVE,KE6YJC,TS1 TS2
 Peer,WB6PQM,Walnut Creek,1,United States,442.65000,Brandmeister,37.9100783,-122.0651819,110613,,+5.000,California,ACTIVE,WB6PQM,TS1 TS2
 Peer,AD1U,SAN JOSE,1,United States,441.21250,Brandmeister,37.3382082,-121.8863286,110614,,+5.000,California,ACTIVE,AD1U,TS1 TS2
 Peer,AD1U,SAN JOSE,1,United States,443.30000,PDMR,37.3382082,-121.8863286,110615,,+5.000,California,ACTIVE,AD1U,TS1 TS2
@@ -71,7 +71,7 @@ Peer,AF6FB,Lake Forest,11,United States,446.86000,BrandMeister,33.6469261,-117.6
 Peer,N6MIK,Placentia,10,United States,446.54000,Brandmeister,33.883881,-117.84703828716307,110691,,-5.000,California,ACTIVE,N6MIK,Mixed Mode
 None,WA6TIP,Sebastopol,1,United States,444.82500,Brandmeister,38.3845125,-122.8332501583744,110693,,+5.000,California,ACTIVE,WA6TIP,TS1 TS2
 Peer,KB6LED,Hayward,1,United States,444.85000,BrandMeister,37.6688205,-122.0807964,110694,,+5.000,California,ACTIVE,KB6LED,TS1 TS2
-Master,WX6D,Place holder,1,United States,446.00000,Mountain West DMR,32.8221453,-117.1061502,110695,,+5.000,California,UNKNOWN,KE6YJC,TS1 TS2
+Master,WX6D,Place holder,1,United States,446.00000,Mountain West DMR,32.8221453,-117.1061502,110695,,+5.000,California,ACTIVE,KE6YJC,TS1 TS2
 Peer,KK6KD,SAN DIEGO,1,United States,448.46000,Brandmeister,32.696430,-117.936203,110696,,-5.000,California,ACTIVE,KK6KD,TS1 TS2
 Peer,K6LO,Deer Park,1,United States,440.10000,SARGE,38.5444,-122.475278,110701,TS1 SARGE / TS2 TG2 Local,+5.000,California,ACTIVE,K6LO,TS1 TS2
 Master,WD4WDW,Lake Buena Vista,3,United States,444.00000,NJTurbo,28.3936186,-81.5386842,111203,,+5.000,Florida,ACTIVE,N2ZXS,TS1 TS2
@@ -2099,7 +2099,7 @@ Peer,GB7RE,Retford,1,United Kingdom,439.71250,BM,53.3187417,-0.9463982,235240,,-
 ,GB7GC,Grimsby UK,2,United Kingdom,439.43750,None,53.555271,-0.134827,235244,,-9.000,England,ACTIVE,G7EOG,
 ,GB7RJ,Chirk,5,United Kingdom,439.53750,DMR-plus,52.925800,-3.055403,235245,,-9.000,England,ACTIVE,G7MHF,TS1 TS2
 ,GB7RA,Neston,5,United Kingdom,439.65000,None,53.289871,-3.064470,235246,,-9.000,England,ACTIVE,M0ORA,
-,GB7WF,Bewdley,1,United Kingdom,439.48750,DMR-plus,52.374569,-2.333281,235247,,9.000,England,ACTIVE,G8OXG,TS1 TS2
+Master,GB7WF,Bewdley,13,United Kingdom,439.48750,DMR Gateway XLX Master,52.3800000,-2.3430000,235247,Static Slot2 235247,-9.000,England,ACTIVE,G8OXG,TS1 TS2
 Master,GB7TC,Swindon,2,United Kingdom,439.52500,DMR-plus,51.50352,-1.70687,235250,Slot 1<br>TG 1<br>TG 2<br>TG 13<br>TG 235<br>TG 2350<br><br>Slot 2<br>TG 810,-9.000,Channel Isles,ACTIVE,G8VRI,TS1 TS2
 Peer,GB7EH,Edge Hill South Warwickshire ,8,United Kingdom,439.75000,BM,52.107550,-1.474550,235251,"This Repeater is a member of the Salop Cluster TG75 on Slot 1, <br>Please refrain from Using Slot 1 for other than TG75 (23575) <br>Slot 2 can be used for local call eg TT on this site only on TG9 or TG235251<br>Best is to use 235251 for normal use of this Repeater then others can join you from others sites by using 235251 to contact there end to this repeater.<br>e.g. if you use TG25173 GB7EH this will connect GB7EH to GB7BM on this TG. <br>Please contact the keeper via https://www.facebook.com",-9.00,England,ACTIVE,G8NDT,TS1 TS2
 ,GB7IP,Leicester,1,United Kingdom,145.65000,None,52.6361398,-1.1330789,235253,,-0.600,England,ACTIVE,M1FJB,
@@ -3619,7 +3619,6 @@ Master,DO0SRT,Reutlingen,1,Germany,144.86250,unknown,48.4919508,9.2114144,262764
 ,DB0GK,Sachsenheim/Hohenhas,1,Germany,438.83750,DMR-plus,49.010792,9.030170,262766,,-7.600,Baden-Wuerttemberg,ACTIVE,DL8SCA,TS1 TS2
 ,DB0HZG,Holzgerlingen,1,Germany,438.58750,None,48.628159,9.026667,262767,,-7.600,Baden-Wuerttemberg,ACTIVE,DK5BM,
 ,DO0SG,Urbach,1,Germany,430.38750,None,48.8133577,9.5765767,262768,,0.000,Baden-Wuerttemberg,ACTIVE,DO1SGL,TS1 TS2
-,DB0MGH,Bad Mergentheim,1,Germany,439.56250,DMR-plus,49.490532,9.7730692,262769,,-7.600,Baden-Wuerttemberg,ACTIVE,DL4SDR,TS1 TS2
 Master,DB0SWR,Wertheim/Main,1,Germany,438.37500,DMR-plus,49.000000,9.000000,262770,,-7.600,Baden-Wuerttemberg,ACTIVE,DG9FFM,TS1 TS2
 Master,DB0TST,Leinfelden Echterd,1,Germany,144.87500,BM,48.679001,9.119000,262771,,-0.000,Baden-Wuerttemberg,ACTIVE,DL6SEC,TS1 TS2
 Master,DB0HDH,Heidenheim,1,Germany,438.42500,BM,48.691055,10.143257,262772,TG2627 <br>TG8 Ostalb (26273)<br><br>FM CTCSS RX/TX 77.0 Hz,-7.600,Baden-Wuerttemberg,ACTIVE,DL5UR,TS1 TS2
@@ -3639,7 +3638,6 @@ Master,DB0SWR,Wertheim/Main,1,Germany,438.37500,DMR-plus,49.000000,9.000000,2627
 ,DO0SG,Urbach,2,Germany,144.85000,None,48.8133577,9.5765767,262786,,0.000,Baden-Wuerttemberg,ACTIVE,DO1SGL,TS1 TS2
 Master,DL8VA,Laupheim,1,Germany,439.30000,BM,48.2305342,9.8771587,262787,,-7.600,Baden-Wuerttemberg,ACTIVE,DL8VA,TS1 TS2
 ,DB0ZRB,Gerlingen,1,Germany,439.53750,BM,48.786156,9.063670,262788,,-7.600,Baden-Wuerttemberg,ACTIVE,DL2GRC,TS1 TS2
-,DB0MGH,Bad Mergentheim,1,Germany,145.57500,DMR-plus,49.490532,9.7730692,262789,,-0.600,Baden-Wuerttemberg,ACTIVE,DL4SDR,TS1 TS2
 Peer,DM0ZF,Lauf,1,Germany,439.93750,BM,48.643688,8.132680,262790,,-9.400,Baden-Wuerttemberg,ACTIVE,DL1IK,TS1 TS2
 Master,DB0WAB,Waldenburg,1,Germany,438.31250,BM DMR-plus,49.190701,9.643110,262792,,-7.600,Baden-Wuerttemberg,ACTIVE,DG2SDW,TS1 TS2
 ,DB0ISP,Ispringen,1,Germany,439.86250,BM,48.918484,8.672777,262794,,-9.400,Baden-Wuerttemberg,ACTIVE,DL4UX,TS1 TS2
@@ -4581,13 +4579,13 @@ Peer,VE9MDR,Moncton,1,Canada,146.92500,BM,46.1054664,-64.7391917,302902,Time Slo
 Peer,VE9SJN,Saint John,1,Canada,145.49000,BM,45.3032297,-66.0291247,302903,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Ti,-0.600,New Brunswick,ACTIVE,VE9GFI,TS1 TS2
 peer,NC4ES,Greenville,1,United States,444.62500,Brandmeister,35.612661,-77.3663538,310001,,+5.000,North Carolina,ACTIVE,WU2V,TS1 TS2
 Peer,N3FE,Whitnyville,1,United States,444.61250,PADMR,41.773251,-77.200528,310002,,+5.000,Pennsylvania,ACTIVE,N3FE,TS1 TS2
-Master,WX6D,Hanford,1,United States,442.53750,Mountain West DMR,36.336051940918,-119.646660400391,310004,Site is under repair,+5.000,California,UNKNOWN,KE6YJC,TS1 TS2
+Master,WX6D,Hanford,1,United States,442.53750,Mountain West DMR,36.336051940918,-119.646660400391,310004,Site is under repair,+5.000,California,ACTIVE,KE6YJC,TS1 TS2
 10,W0JAY,Seymour,1,United States,444.50000,W0JAY HBlink,38.000000,-95.000000,310005,HBlink connected to CAN_TRBO and Limited TG on BM. See list below. <br><br>TS1 Talk groups                                                                               <br>•	BM USA 3100<br>•	DMR TURBO USA 3<br>•	TAC -310  PTT<br>•	TAC-311 PTT<br>•	TAC-312 PTT<br>•	NETAC 1 PTT<br>•	DMR UK PTT<br><br>TS2 Talk groups<br>•	NEARC 31257<br>•	Ham shack Hotline 31688<br>•	Connecticut SW 3109<br>•	New Hampshire 3133<br>•	Massachusetts SW 3125<br>•	Rhode Island 3144<br>•	Vermont 3150<br>•	Cape Net 8004<b,+5.000,Connecticut,ACTIVE,WA1DDD,TS1 TS2
 peer,WR4SC,Chester SC,1,United States,440.57500,None,,,310006,,5.000,,ACTIVE,WR4SC,TS1 TS2
 peer,KB2EYN,South River NJ,1,United States,439.50000,None,40.445950,-74.377670,310007,,-5.000,,ACTIVE,KA2OON,TS1 TS2
 Peer,N4NJJ,Buffalo,2,United States,445.97500,BrandMeister,32.9462361,-85.4018929,310008,,5.000,New York,ACTIVE,KB2TIN,TS1 TS2
 peer,WB4WXD,Palestine Texas,1,United States,444.60000,None,,,310009,,5.000,,ACTIVE,WB4WXD,TS1 TS2
-Master,WX6D,San Luis Obispo,1,United States,443.43750,Mountain West DMR,35.3540209,-120.3757163,310010,,5.000,California,UNKNOWN,KE6YJC,TS1 TS2
+Master,WX6D,San Luis Obispo,1,United States,443.43750,Mountain West DMR,35.3540209,-120.3757163,310010,,5.000,California,ACTIVE,KE6YJC,TS1 TS2
 Peer,W0RAY,Des Moines,1,United States,146.75500,Brandmeister,41.5910641,-93.6037149,310011,,-0.600,Iowa,ACTIVE,W0RAY,TS1 TS2
 Peer,WR7HLN,Mountainair - Capilla Peak,1,United States,443.25000,Brand Meister,34.688869,-106.409416,310012,"Capilla Peak<br><br>Talk Groups Static<br><br>Time Slot 1<br>31302 MPRG 2<br><br>Time Slot 2<br>31301 MPRG 1<br><br>All other Talk Groups should be on Time Slot 1, Dynamic<br><br>wr7hln.org",+5.000,New Mexico,ACTIVE,WR7AGT,TS1 TS2
 Peer,AI6BX,Redlands,3,United States,445.30000,Brandmeister,34.014183,-117.138664,310013,Motorola SLR-5700,-5.000,California,ACTIVE,AI6BX,TS1 TS2
@@ -5169,7 +5167,7 @@ Master,W6GRC,Orland,1,United States,144.96250,BrandMeister,39.7827595,-122.11519
 Master,K6DOA,Tassajera Peak,6,United States,444.35000,DMR of Anarchy,35.394418,-120.7073946,310651,http://www.dmrofanarchy.org,+5.000,California,ACTIVE,K6RCT,TS1 TS2
 Peer,K6VCD,Ojai,1,United States,445.70000,SoCal,34.646286,-112.449806,310652,Talk Group Talk Group # Time Slot # PTT Timer<br>Local 2 1 Always On<br>Regional TG Varies 1 Always On<br>SoCal 1 - PTT 721 1 10 Mins<br>SoCal 2 - PTT 722 1 10 Mins<br>SoCal Talk Group 76225 1 Always ON<br>CenCal - PTT 236225 1 10 Mins<br>NorCal 5150 - PTT 5150 1 10 Mins<br>CAL 1 - PTT 2251 2 10 Mins<br>CAL 2 - PTT 2252 2 10 Mins<br>California 3107 2 Always ON<br>Southwest 3176 2 Always ON<br>North America 3 2 10 Mins<br>Worldwide English - PTT 13 2 10 Mins<br>World Wide - PTT 1 2 20 Mins<br>Com,-5.000,California,ACTIVE,K6VCD,TS1 TS2
 Master,KJ6NRO,Tuolumne,2,United States,144.96250,BrandMeister,37.994057,-120.225616,310653,,+2.500,California,ACTIVE,KJ6NRO,TS1 TS2
-Master,WX6D,Fresno,1,United States,442.23750,Mountain West DMR,36.7388841,-119.2799378,310654,,+5.000,California,UNKNOWN,KE6YJC,TS1 TS2
+Master,WX6D,Fresno,1,United States,442.23750,Mountain West DMR,36.7388841,-119.2799378,310654,,+5.000,California,ACTIVE,KE6YJC,TS1 TS2
 Master,K6ACS,Santa Rosa,1,United States,442.11250,BrandMeister,38.497822,-122.722000,310655,Time Slot #2 - Group Call 1 = DMR-MARC Worldwide<br>Time Slot #2 - Group Call 3 =  DMR-MARC N. Amer./English Speaking Countries <br><br><br>Time Slot #2 - Group Call 3100 = DCI Bridge<br>Time Slot #2 - Group Call 3176= Southwest Regional<br>Time Slot #2- Group Call 3777215= TRBO-6 <br>Time Slot #1- Group Call 2 = Local<br>Time Slot #1- Group Call 5150 = Northern CA<br><br> <br>Contact Name:  Jeff Foster<br>Email: hamus@comcast.net,+5.000,California,ACTIVE,KE6N,TS1 TS2
 Master,W6BXN,Mt. Bullion,1,United States,144.93750,BrandMeister,37.534595,-120.030571,310656,Local LOCAL 2 1 Always On<br>Club / Sub Regional [regional option] Varies 1 Always On<br>NorCal 1 - PTT NORCAL 1 621 1 10 Mins<br>NorCal 2 - PTT NORCAL 2 622 1 10 Mins<br>Norcal- 5150 NORCAL 5150 5150 1 Always On<br>CenCal-PTT CENCAL 236225 1 10 Mins<br>SoCal-PTT SOCAL 76225 1 10 Mins<br>CAL 1 - PTT CAL 1 2251 2 10 Mins<br>CAL 2 - PTT CAL 2 2252 2 10 Mins<br>California CALIFORNIA 3107 2 Always On<br>Southwest SOUTHWEST 3176 2 Always On<br>North America - PTT NORTH AMERICA 3 2 10 Mins<br>English ,+2.500,California,ACTIVE,K6IXA,TS1 TS2
 Peer,KE6NDG,Susanville,1,United States,444.57500,DCI,40.4162842,-120.6530063,310657,,+5.000,California,ACTIVE,KE6NDG,TS1 TS2
@@ -5179,7 +5177,7 @@ Master,WA6YCZ,San Jose,1,United States,442.53750,BM,37.160999,-121.910040,310660
 Master,N6GGS,Victorville,2,United States,446.06000,DCI,34.612725,-117.29677680000002,310661,TS 1<br><br>Local TG 2 AA<br>CenCal TG 236225 AA<br>SoCal TG 76225 AA<br>SoCal 1 TG 721 UA 5min<br><br>TS 2<br><br>CAL TG 3107 AA<br>CAL 1 TG 2251 UA 5 min<br>Southwest TG 3176 AA<br>Southwest 1 TG 31761 UA 5<br>N America TG 3 UA 5<br>WW English TG 13 UA 5<br>WW TG 1 UA 5<br>WW Eng UA 1 TG 113 UA 5<br>WW Eng UA 2 TG 123 UA 5<br>COMM-1 TG 3777215 AA<br>TAC 310 TG 310 UA 5<br>Jenny TG 8675309 UA 5<br>Parrot TG 9998 UA 5<br>Audio Test TG 9999 UA 5<br><br>Website:,-5.000,California,ACTIVE,N6GGS,TS1 TS2
 Master,WA6KPX,Milpitas,1,United States,443.40000,BM,37.5000,-121.837001,310662,"Baycom System,  Group of 4 machines, using Baycom TG 97150 TS2, elevation 2657 ft<br><br>Static  TG's 93 - North America, 3106 CA, 31065 DMR All Stars, 31075 Bay Net, 31096 call Zone 6, 31064 - CARLA<br>",+5.0,California,ACTIVE,N6LXA,TS1 TS2
 Master,K6OTR,Palo Alto,1,United States,441.85000,BM,37.320348,-122.142594,310663,"Baycom System,  Group of 4 machines, using Baycom TG 97150 TS2, elevation 2182 ft<br><br>Static  TG's 93 - North America, 3106 CA, 31065 DMR All Stars, 31075 Bay Net, 31096 call Zone 6, 31064 - CARLA. 91-Worldwide every Sat 0830-1030 PST<br>",+5.0,California,ACTIVE,N6LXA,TS1 TS2
-Master,WX6D,Place Hoilder,2,United States,442.32500,Mountain West DMR,36.7295292,-118.9338684,310664,,+5.000,California,UNKNOWN,KE6YJC,TS1 TS2
+Master,WX6D,Place Hoilder,2,United States,442.32500,Mountain West DMR,36.7295292,-118.9338684,310664,,+5.000,California,ACTIVE,KE6YJC,TS1 TS2
 Peer,NG6D,Auburn,1,United States,442.96250,BrandMeister,35.053253,-120.549332,310665,,+5.000,California,ACTIVE,NG6D,TS1 TS2
 Master,KC6WTF,Morgan Hill,1,United States,444.10000,BrandMeister,37.1305012,-121.6543901,310666,,+5.000,California,ACTIVE,KC6WTF,TS1 TS2
 Peer,W6SS,San Diego,1,United States,449.86250,San Diego,32.597187,-116.844150,310667,,-5.000,California,ACTIVE,W6SS,TS1 TS2
@@ -5193,11 +5191,11 @@ Master,W6YYY,San Jose,1,United States,440.03750,SF-TRBO,37.108794,-121.845384,31
 Peer,K6RET,Bakersfield,1,United States,442.67500,Brandmeister,35.049191,-118.530098,310675,,+5.000,California,ACTIVE,K6RET,TS1 TS2
 Master,K6LNK,Gualala,1,United States,442.07500,BrandMeister,38.788769,-123.523308,310676,,+5.000,California,ACTIVE,N6MVT,TS1 TS2
 Master,W6CX,Walnut Creek,1,United States,145.00000,None,37.881432,-121.915199,310677,,+2.500,California,ACTIVE,W6CX,TS1 TS2
-Master,WX6D,Clovis,1,United States,440.05000,Mountain West DMR,37.0740801,-119.4265366,310678,,+5.000,California,UNKNOWN,KE6YJC,TS1 TS2
+Master,WX6D,Clovis,1,United States,440.05000,Mountain West DMR,37.0740801,-119.4265366,310678,,+5.000,California,ACTIVE,KE6YJC,TS1 TS2
 Master,WD6AML,San Dimas,1,United States,447.90000,Western States DMR,33.6546293,-115.36056330000001,310679,See westernstatesdmr.com,-5.000,California,ACTIVE,WA6PYJ,TS1 TS2
 Peer,W6ELL,Yorba Linda,1,United States,449.46000,BrandMeister,33.885784,-117.745651,310680,,-5.000,California,ACTIVE,W6ELL,TS1 TS2
 Peer,KC7NP,Riverside,1,United States,449.46250,BrandMeister,33.942413,-117.307190,310682,"TS 1<br>91, 93, 95, 310, 311, 312, 313, 314,315, 316, 317. 318, 319 ,3100, 3156, 3130, 3116, 3108, 3149, 3146, 3106<br><br>TS 2<br>31062, 3177, 31371, 31669, 31777, 31012, 31078, 367, 530, 235, 31010, 31328, 31329, 31360, 31361, 31080, 31990, 9990",-5.000,California,ACTIVE,KC7NP,TS1 TS2
-Master,WX6D,Clovis,1,United States,145.45000,Mountain West DMR,-19.431299,-44.231251,310683,,-0.600,California,UNKNOWN,KE6YJC,TS1 TS2
+Master,WX6D,Clovis,1,United States,145.45000,Mountain West DMR,-19.431299,-44.231251,310683,,-0.600,California,ACTIVE,KE6YJC,TS1 TS2
 Peer,KA6P,Wrightwood,2,United States,449.03750,PNW Digital,34.3510895,-117.6117325,310684,Local-1<br>3181-1<br><br>DCI-1<br>3160-1<br><br>Inland<br>465263-1<br><br>Cactus<br>31851<br><br>I-5<br>3168-1<br><br>CA Statewide (bm)<br>3106-1<br><br>Idaho (bm)<br>3116-1 {PTT}<br><br>Idaho ARES (bm)<br>31160-1<br>1<br>Parrot<br>9998-1 {PTT}<br><br>Local-2<br>3166-2<br><br>DCI-2<br>3162-2<br><br>Southwest Regional<br>3176-2<br><br>SW 1<br>31761-2 {PTT}<br><br>Mountain Regional<br>3177-2<br><br>San Diego (bm)<br>310014-2 {PTT}<br><br>N America<br>3163-2 {PTT}<br><br>Worldwide-English<br>13-2 {,-5.000,California,ACTIVE,KA6P,TS1 TS2
 Master,WA6YVX,San Diego,1,United States,449.86250,SoCal,32.8291607,-117.12714309999998,310685,"TS1 TG2 Local<br>TS1 TG3 Regional<br>TS1 TG76225 SoCal<br>TS1 TG721 SoCal 1 -UA<br><br>TS2 TG3107 California Calling<br>TS2 TG2251 California 1 -UA<br>TS2 TG3176 Southwest Region<br>TS2 TG31761 Southwest 1 UA<br>TS2 TG3 North America Calling<br>TS2 TG113 UA English 1<br>TS2 TG123 UA English 2<br>TS2 TG13 WW UA<br>TS2 TG9998 Parrot - UA<br>TS2 TG9999 NorCal Audio Test - UA<br><br>You Must Have [ARS] Disabled Within Your Radio   <br><br>Contact: WA6YVX, Ed Flinn<br>Email: wa6yvx@aol.com<br>",-5.000,California,ACTIVE,WA6YVX,TS1 TS2
 Master,WB6YES,San Marcos,1,United States,446.08000,BrandMeister,34.075558,-118.660278,310686,,-5.000,California,ACTIVE,WD6FZA,TS1 TS2
@@ -5215,14 +5213,14 @@ Peer,KF6FGL,Meadow Lakes CA,1,United States,440.03750,Motorola,37.0727,-119.432,
 Master,K6VCD,Santa Paula,1,United States,447.36000,PAPA,34.324356,-119.041840,310701,,-5.000,California,ACTIVE,K6VCD,TS1 TS2
 Master,N6UTX,Winters,2,United States,144.93750,BrandMeister,38.5249065,-121.9708017,310702,,+2.500,California,ACTIVE,N6UTX,TS1 TS2
 Master,K6LNK,Vacaville,3,United States,927.17500,BrandMeister,38.408661,-122.111511,310703,"Please read CARLA Policy and Procedures for this repeater below and see web link.<br><br>http://carlaradio.net/thesystem/dmr/index.php<br><br>This is a closed repeater - If you are NOT able to observer the CARLA Policy and Procedures for this repeater - PLEASE Do Not Use It.<br><br>Please Do Not add ANY Dynamic T/G's to this repeater.<br><br>Welcome to CARLA / K6LNK VHF DMR - Vacaville, California. This repeater is located on Mt. Vaca between the cities of Vacaville and Napa California at 2,760 ",-25.000,California,ACTIVE,N6JOA,TS1 TS2
-Master,WX6D,Tulare,2,United States,442.47500,Mountain West DMR,36.2077288,-119.3473379,310704,,+5.000,California,UNKNOWN,KE6YJC,TS1 TS2
+Master,WX6D,Tulare,2,United States,442.47500,Mountain West DMR,36.2077288,-119.3473379,310704,,+5.000,California,ACTIVE,KE6YJC,TS1 TS2
 Master,N6GKJ,Lodi,1,United States,444.22500,BrandMeister,37.949520,-120.707588,310705,,+5.000,California,ACTIVE,N4RLS,TS1 TS2
 Master,KG7NBL,Alameda,1,United States,442.30000,BrandMeister,37.7652065,-122.2416355,310706,,+5.000,California,ACTIVE,KA7QQV,TS1 TS2
 Peer,W6AJF,Sonoma,1,United States,440.01250,BrandMeister,38.293060,-122.462402,310707,,+5.000,California,ACTIVE,N6KM,TS1 TS2
 Master,WB6YES,San Marcos,3,United States,445.88000,BrandMeister,33.214169,-117.187500,310708,,-5.000,California,ACTIVE,AA4CD,TS1 TS2
 Master,W6GRC,Redding,1,United States,145.00000,BrandMeister,40.956356,-122.449997,310709,,+2.500,California,ACTIVE,W6GRC,TS1 TS2
 Peer,N9QE,Harbor City,15,United States,449.46000,BrandMeister,33.7906551,-118.2965084,310710,,-5.000,California,ACTIVE,N9QE,TS1 TS2
-Peer,WX6D,Fresno,1,United States,440.06250,Mountain West DMR,36.734889,-119.790910,310712,,+5.000,California,UNKNOWN,KE6YJC,TS1 TS2
+Peer,WX6D,Fresno,1,United States,440.06250,Mountain West DMR,36.734889,-119.790910,310712,,+5.000,California,ACTIVE,KE6YJC,TS1 TS2
 Peer,WD6DIH,Yorba Linda,1,United States,449.44000,BrandMeister,33.850693,-117.653641,310713,,-5.000,California,ACTIVE,WD6DIH,TS1 TS2
 Master,W6OTX,San Jose,3,United States,144.96250,BrandMeister,37.396310,-121.817616,310714,,+2.500,California,ACTIVE,KD6W,TS1 TS2
 Master,W6OTX,San Jose,1,United States,444.47500,BrandMeister,37.396310,-121.817616,310715,,+5.000,California,ACTIVE,KD6W,TS1 TS2
@@ -5233,11 +5231,11 @@ Master,K6VCD,Ventura,2,United States,446.32500,BrandMeister,34.348160,-119.33627
 Peer,W6THC,Carlsbad,7,United States,447.60000,BrandMeister,33.1580933,-117.3505966,310722,None,-5.000,California,ACTIVE,AA4CD,TS1 TS2
 Master,W6BML,Mount Shasta,1,United States,441.27500,D-Star/DMR/C4FM,41.4091897,-122.1949533,310723,,+5.000,California,ACTIVE,NR6J,TS1 TS2
 Master,K6TMD,Pine Cove,1,United States,446.06250,Western States DMR,33.745537,-116.714322,310724,See westernstatesdmr.com,-5.000,California,ACTIVE,WA6PYJ,TS1 TS2
-Master,WX6D,COALINGA,1,United States,442.00000,Mountain West DMR,36.346619,-120.601501,310726,,+5.000,California,UNKNOWN,KE6YJC,TS1 TS2
+Master,WX6D,COALINGA,1,United States,442.00000,Mountain West DMR,36.346619,-120.601501,310726,,+5.000,California,ACTIVE,KE6YJC,TS1 TS2
 None,N6RPV,Rancho Palos Verdes,1,United States,445.72000,none,33.7483311,-118.3707683,310727,,-5.000,California,ACTIVE,N6NNW,Mixed Mode
 Peer,WA6EWV,South Lake Tahoe,3,United States,442.47500,BrandMeister,38.939999,-119.910004,310728,,+5.000,California,ACTIVE,WA6EWV,TS1 TS2
 Master,N6VYT,Coalinga,1,United States,145.02500,BrandMeister,36.139678,-120.3601496,310729,,+2.475,California,ACTIVE,N6VYT,TS1 TS2
-Master,WX6D,Bakersfield,1,United States,440.95000,Mountain West DMR,35.3732921,-119.0187125,310730,Time Slot #2 - Group Call 2 = Local<br>Time Slot #2 - Group Call 3185 = Cactus<br>Time Slot #2 - Group Call 31066 = SoCal<br>Time Slot #2 - Group Call 31068 = NorCal<br>Time Slot #2 - Group Call 31062 = Mountain West<br>Time Slot #2 - Group Call 31063 = Mountain West 1<br>Time Slot #1 - Group Call 3106 = California<br>Time Slot #1 - Group Call 31061 = California 1<br>Time Slot #1 - Group Call 3176 = Southwest<br>Time Slot #1 - Group Call 31761 = Southwest 1<br>Time Slot #1 - Group Call 93 = Nort,+5.000,California,UNKNOWN,KE6YJC,TS1 TS2
+Master,WX6D,Bakersfield,1,United States,440.95000,Mountain West DMR,35.3732921,-119.0187125,310730,Time Slot #2 - Group Call 2 = Local<br>Time Slot #2 - Group Call 3185 = Cactus<br>Time Slot #2 - Group Call 31066 = SoCal<br>Time Slot #2 - Group Call 31068 = NorCal<br>Time Slot #2 - Group Call 31062 = Mountain West<br>Time Slot #2 - Group Call 31063 = Mountain West 1<br>Time Slot #1 - Group Call 3106 = California<br>Time Slot #1 - Group Call 31061 = California 1<br>Time Slot #1 - Group Call 3176 = Southwest<br>Time Slot #1 - Group Call 31761 = Southwest 1<br>Time Slot #1 - Group Call 93 = Nort,+5.000,California,ACTIVE,KE6YJC,TS1 TS2
 Peer,K7AZ,LOMPOC,3,United States,440.50000,BrandMeister,34.583248,-120.560783,310731,Having IP microwave back haul problem.   Should be resolved shortly.  ,+5.000,California,ACTIVE,K7AZ,TS1 TS2
 Peer,KJ6QBM,Bodega Bay,1,United States,440.32500,BrandMeister,38.323673,-123.036331,310732,,+5.000,California,ACTIVE,KJ6QBM,TS1 TS2
 Peer,KO6CXH,Wilton,9,United States,442.18750,"BM, SystemX",38.433891,-121.198997,310733,,+5.000,California,ACTIVE,K6JWN,TS1 TS2
@@ -5247,9 +5245,9 @@ Master,K6DOA,Nipomo,4,United States,444.65000,DMR of Anarchy,35.0427547,-120.475
 Master,KJ6YQW,Culver City,1,United States,446.43000,DMR,34.0211224,-118.3964665,310737,,-5.000,California,ACTIVE,KJ6YQW,Mixed Mode
 Peer,N6CIZ,Mt Wilson,7,United States,445.18000,Brandmeister,34.2249455,-118.0564071,310738,,-5.000,California,ACTIVE,N6CIZ,TS1 TS2
 Master,K6INC,Sacramento,1,United States,443.15000,Scan International,38.5815719,-121.4943996,310739,,+5.000,California,ACTIVE,AK6O,TS1
-Peer,WX6D,Fresno,1,United States,435.10000,Mountain West DMR,36.7468422,-119.7725868,310740,,-0.000,California,UNKNOWN,KE6YJC,Mixed Mode
-Peer,WX6D,Place Holder,1,United States,438.00000,Mountain West DMR,36.3274502,-119.6456844,310741,,-5.000,California,UNKNOWN,KE6YJC,Mixed Mode
-Master,WX6D,Mariposa,1,United States,442.28750,Mountain West DMR,37.4849377,-119.9662843,310742,,+5.000,California,UNKNOWN,KE6YJC,TS1 TS2
+Peer,WX6D,Fresno,1,United States,435.10000,Mountain West DMR,36.7468422,-119.7725868,310740,,-0.000,California,ACTIVE,KE6YJC,Mixed Mode
+Peer,WX6D,Place Holder,1,United States,438.00000,Mountain West DMR,36.3274502,-119.6456844,310741,,-5.000,California,ACTIVE,KE6YJC,Mixed Mode
+Master,WX6D,Mariposa,1,United States,442.28750,Mountain West DMR,37.4849377,-119.9662843,310742,,+5.000,California,ACTIVE,KE6YJC,TS1 TS2
 Peer,W4VCO,Clermont,1,United States,442.45000,Interstate-2 Network,28.564687,-81.743021,310743,"TS, TG, Talkgroup Name, Full-Time/PTT<br>================================<br>1, 1, World Wide Calling, PTT<br>1, 3, North America Calling, PTT<br>1, 13, WW English Calling, PTT<br>1, 3172, Northeast Regional, FT<br>1, 3112, Florida Statewide, FT<br>2, 2, Local 2, FT<br>2, 3173, MidAtlantic Regional, PTT<br>2, 3174, Southeast Regional, PTT<br>2, 3175, Southern Plains Regional, PTT<br>2, 31121, First Coast (NE FL), PTT<br>2, 310, TAC310, PTT<br>2, 311, TAC311, PTT<br>2, 312, TAC312, PTT<br>2, 313,",+5.000,Florida,ACTIVE,W4VCO,TS1 TS2
 Peer,W4VCO,Welcome,1,United States,443.81250,Interstate-2 Network,27.748744,-81.891851,310744,"TS, TG, Talkgroup Name, Full-Time/PTT<br>================================<br>1, 1, World Wide Calling, PTT<br>1, 3, North America Calling, PTT<br>1, 13, WW English Calling, PTT<br>1, 3172, Northeast Regional, FT<br>1, 3112, Florida Statewide, FT<br>2, 2, Local 2, FT<br>2, 3173, MidAtlantic Regional, PTT<br>2, 3174, Southeast Regional, PTT<br>2, 3175, Southern Plains Regional, PTT<br>2, 31121, First Coast (NE FL), PTT<br>2, 310, TAC310, PTT<br>2, 311, TAC311, PTT<br>2, 312, TAC312, PTT<br>2, 313,",+5.000,Florida,ACTIVE,W4VCO,TS1 TS2
 Peer,KH7MS,Ocean View ,1,United States,444.95000,BrandMeister,19.094498,-155.756092,310745,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1<br>,+5.000,Hawaii,ACTIVE,KH7MS,TS1 TS2
@@ -6374,7 +6372,7 @@ Master,WS5B,Salt Flat,1,United States,444.62500,"BM,TGIF,P25",31.7437272,-105.09
 Peer,K3WRB,Jamestown,8,United States,444.82500,BrandMeister,41.4516758,-80.40050527777778,311968,"Time slot 1 is connected to the SVARC linked repeaters to talk group 314242 and is not aloud to be linked to anything other then 314242 <br>Time slot 2 is for any linking anyone wants to do <br><br>Freq              City                State    Zip   Call            DMR Id   County   <br>444.82500   Jamestown  , Pa   16134  K3WRB      311968   Crawford<br>444.37500  Greenville     , Pa   16125  KE3JP         314242   Mercer<br>444.02500  New Castle   , Pa               KB3YBB      310576   Lawre",+5.00,Pennsylvania,ACTIVE,KE3JP,TS1 TS2
 Master,KE6YEP,WEST COVINA,1,United States,433.55000,DMR,34.0686208,-117.9389526,311969,,+5.000,California,ACTIVE,KE6YEP,TS1 TS2
 Peer,WB6PHE,Las Vegas,1,United States,449.70000,BrandMeister,36.015141,-115.127075,311970,,-5.0,Nevada,ACTIVE,WB6PHE,TS1 TS2
-Peer,KE6YJC,Bakersfield,1,United States,443.03750,BM,35.296170,-119.109860,311971,<b>DMR Recommended Talkgroups</b><br><b>Timeslot 1</b><br>California - 3106 (static)<br>Local - 2 (static)<br>Mountain West 1 - 31063 (static)<br>North America - 93<br>Worldwide - 91<br>TAC-310 - 310Nationwide - 3100<br><br><b>Timeslot 2</b><br>Mountain West - 31062 (static)<br><br>When adding your own talkgroups please use timeslot 1. Timeslot 2 is reserved for local traffic only.<br><br>Please email support@mountainwestdmr.org if you have any questions or issues.,+5.000,California,UNKNOWN,KE6YJC,TS1 TS2
+Peer,KE6YJC,Bakersfield,1,United States,443.03750,BM,35.296170,-119.109860,311971,<b>DMR Recommended Talkgroups</b><br><b>Timeslot 1</b><br>California - 3106 (static)<br>Local - 2 (static)<br>Mountain West 1 - 31063 (static)<br>North America - 93<br>Worldwide - 91<br>TAC-310 - 310Nationwide - 3100<br><br><b>Timeslot 2</b><br>Mountain West - 31062 (static)<br><br>When adding your own talkgroups please use timeslot 1. Timeslot 2 is reserved for local traffic only.<br><br>Please email support@mountainwestdmr.org if you have any questions or issues.,+5.000,California,ACTIVE,KE6YJC,TS1 TS2
 Master,WV4K,athens elkmont,1,United States,442.60000,dmr-marc,30.853331,-81.995552,311972,located in elkmont athens area alabama connection to world wide dmr talk groups,+5.000,Alabama,ACTIVE,WV4K,TS1
 Peer,NA9VY,Freetown,7,United States,441.73750,SIN,38.994492,-86.121422,311973,TS 2: 31188<br>TS 1: 31181,+5.000,Indiana,ACTIVE,NA9VY,TS1 TS2
 Master,KE6YEP,WEST COVINA,1,United States,431.55000,DMR,34.0686208,-117.9389526,311974,,+5.000,California,ACTIVE,KE6YEP,TS1 TS2
