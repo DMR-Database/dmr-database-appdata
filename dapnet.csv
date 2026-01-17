@@ -28,7 +28,6 @@ NOTFUNK-SUEDBADEN,,,,
 DK5DS,Sensweiler,Germany,Sholto,Rheinland-Pfalz  Saarland
 BG7NQF,Shen Zhen,China,Jia,Hunan Guangdong Guangxi Hainan
 BI8ECT,Guangan,China,Chen,Heilongjiang Jilin Liaoning
-SWLJULIANBRÄUTIGAM,,,,
 HB9FVR,Romanshorn,Switzerland,Silvan,Thurgau
 SYSOP-INFO-OE9,,,,
 DG1IHH,Bruehl,Germany,Horst,Baden-Wuerttemberg
@@ -79,6 +78,7 @@ KD7LMN,Pinson,United States,Rich,Alabama
 PY7SA,Garanhuns-Pe,Brazil,Leonardo,Pernambuco
 ON6GPS,Weywertz,Belgium,Jacques,Liege
 PD2ML,Bussum,Netherlands,Mark,Noord-Holland
+DB2VM,Null,Germany,Andreas,Rheinland-Pfalz  Saarland
 DO7TLA,,,,
 YO3GTS,Bucharest,Romania,Dan,nan
 DK5AH,Goettingen,Germany,Detlef,Niedersachsen  Bremen
@@ -135,9 +135,9 @@ DL1CPA,Kempten,Germany,Christian,nan
 SQ6WM,Piensk,Poland,Marcel,nan
 BH9FDZ,Xi An,China,Guo,Shaanxi Ningxia Gansu Qinghai 
 2E0PXC,Torpoint,United Kingdom,Adam,England
-EA5JGX,Lorca,Spain,Angel,Murcia
-OE9MWI,Fussach,Austria,Marcus,Vorarlberg
 DL8EP,Bad Homburg,Germany,Erik,Hessen
+OE9MWI,Fussach,Austria,Marcus,Vorarlberg
+EA5JGX,Lorca,Spain,Angel,Murcia
 N8ACL,Cincinnati,United States,Jeff,Ohio
 M7DJA,Burgess Hill,United Kingdom,Al,England
 DK5BM,Boeblingen,Germany,Bernd,nan
@@ -149,9 +149,9 @@ OE3CTS,Krems,Austria,Roland,nan
 R6LMZ,Rostov-na-Donu,Russia,Valentin,nan
 KC9POS,Hickory Hills,United States,Timothy M,Illinois
 DG9VH,Voelklingen,Germany,Kim,Rheinland-Pfalz  Saarland
-LX3MST,Kehlen,Luxemburg,Michel,nan
+LX3MST,Kehlen,Luxemburg,Michel,All Regions
 K1WIZ,Holly Springs,United States,John A,North Carolina
-9V1AO,,,,
+9V1AO,nan,Singapore,Adrian,Singapore
 9W2DFL,Putrajaya,Malaysia,Faizul,West Malaysia
 KN6WYQ,Torrance,United States,Felix,California
 LX3X,Differdange,Luxemburg,Patrick,nan
@@ -184,7 +184,7 @@ VK3HDV,Koraleigh,Australia,Andrew,New South Wales
 DB2TK,Lehre,Germany,Thorsten,Niedersachsen
 F4UHR,Romorantin,France,Yves,nan
 CT1JQJ,Braga,Portugal,Nuno,Regiao Norte
-SQ7SCC,Lodz,Poland,Arek,nan
+SQ7SCC,Lodz,Poland,Arek,dzkie
 KG4JDC,Lunenburg,United States,Alan,Massachusetts
 ON5SA,Arlon,Belgium,Mich,nan
 K8BIG,,,,
@@ -215,7 +215,7 @@ CE1DR,Antofagasta,Chile,Francisco Javier,Antofagasta
 DN8MAR,,,,
 DO2MWW,Malsch,Germany,Marcus,Baden-Wuerttemberg
 DO1BDO,,,,
-R1ZAAG,Severomorsk,Russia,Vladimir ,All Regions
+R1ZAAG,Severomorsk,Russia,Vladimir,All Regions
 DG0OCG,Erfurt,Germany,Timm,Thringen
 W5CWT,Henderson,United States,David,Texas
 BH7HCU,hengyang,China,Desheng,Hunan Guangdong Guangxi Hainan
@@ -227,7 +227,6 @@ PU1RTX,Rio De Janeiro,Brazil,Rodrigo,Rio de Janeiro
 DO2MUE,Munich,Germany,Andreas,Bayern
 OE3CJB,nan,Austria,Chris,nan
 DF6IU,Karlsruhe,Germany,Hans-Peter,Baden-Wrttemberg
-SWLCLEMENSBUNGE,,,,
 4Z1YR,Modiin,Israel,Yoram,Central
 PE2KMV,nan,Netherlands,Ronald,nan
 N9UPC,Baldwin,United States,John J,Wisconsin
@@ -240,7 +239,7 @@ DL3AMI,Erfurt,Germany,Wolf,Thringen
 BH7PUE,Guangzhou Cityguang,China,Wu,Hunan Guangdong Guangxi Hainan
 F4UAN,La Chapelle de Guinchay,France,Jerome,nan
 BH8SXD,Kunming,China,Peng,nan
-M0HLY,Ipswich,United Kingdom,Andrew,England
+M0HLY,,,,
 M0YNW,Clacton-on-Sea,United Kingdom,Robert Rayner,nan
 DG1ACZ,nan,Germany,Martina,nan
 NOT-I,,,,
@@ -250,6 +249,7 @@ BI1QLN,China,China,Yang,Beijing
 DJ1SO,nan,Germany,DJ1SODMR,nan
 DJ1SM,Wurster Nordseekueste,Germany,Soenke,nan
 M0YNG,Cheltenham,United Kingdom,Christopher,nan
+DL7VIM,,,,
 DO1BBK,Pulheim,Germany,Bastian,Nordrhein-Westfalen
 W8MAL,Oak Harbor,United States,Michael A,Ohio
 DG1ABV,Braunschweig,Germany,Micha,Niedersachsen
@@ -277,7 +277,7 @@ MSH-DLNW,,,,
 IV3JDV,Trieste,Italy,Roby,Veneto  Trentino-AA  Friuli-VG
 K7XST,Snohomish,United States,David,Washington
 EU1AAU,,,,
-K4WZV,Springhill,United States,Robert,Florida
+K4WZV,Spring Hill,United States,Robert,Florida
 IZ1UQG,Gravellona Toce,Italy,Iz1Uqg,Piedmont  Liguria  Aosta
 TA2IZ,nan,Turkiye,Ismet,Central Anatolia Region
 BH1OFP,Beijing,China,Kai,Beijing
@@ -295,9 +295,10 @@ DK1JAN,Bremen,Germany,Jan,Bremen
 DB3MAX,Ribnitz-Damgarten,Germany,Max,Sachsen-Anhalt  Mecklenburg-Vorpommen
 KC8MTQ,Harbert,United States,Nathan,Michigan
 DG8NGI,Ochsenfurt,Germany,Heiko,Bayern
-DO8TM,Bremen,Germany,Thomas,Bremen
+DO8TM,Bremen,Germany,Thomas,Niedersachsen  Bremen
 YO9ION,Ploiesti,Romania,Ionut,nan
 HB9FXQ,Ittigen,Switzerland,Frank,nan
+F4LRB,SAINT-MALO,France,Denis,Bretagne
 WA6NVL,Spring Valley,United States,Ray,California
 KF4YBY,Deltona,United States,Neil,Florida
 OE9MNR,Wolfurt,Austria,Michael,Vorarlberg
@@ -326,6 +327,7 @@ SM7ZDR,Landskrona,Sweden,Gary,Skane
 W1PID,Sanbornton,United States,Jim,New Hampshire
 DB3LO,Halberstadt,Germany,Henry,Sachsen-Anhalt
 KE7WWT,Fort Drum,United States,Maurice,New York
+M3PVM,nan,United Kingdom,Sammy,England
 OK2MOP,Ostrava,Czech Republic,Pavel,Moravian-Silesian Region
 DO1AF,Geisingen,Germany,Andreas,Baden-Wuerttemberg
 VA6DM,Calgary,Canada,Dino,Alberta
@@ -373,6 +375,7 @@ DL5HAW,Hamburg,Germany,Wilfried,Hamburg  Schleswig-Holstein
 VK3AT,Melbourne,Australia,Bradley,Victoria
 MM5XT,Glasgow,United Kingdom,Michael,nan
 DC6PD,nan,Germany,Dirk,nan
+DB3MB,Bannewitz,Germany,Maik,Sachsen  Thueringen
 DB3MA,nan,Germany,Harald,nan
 DO1BT,Westerloy,Germany,Antonius,Niedersachsen  Bremen
 DL5HBF,Hamburg,Germany,Ulli,Hamburg  Schleswig-Holstein
@@ -386,6 +389,7 @@ KO4CCD,Hamilton,United States,Robert,Alabama
 DL8TW,nr Nuremberg,Germany,Tom,Bayern
 N3JSS,Millsboro,United States,Jeffrey,Delaware
 CS7AGH,Seixal,Portugal,Paulo,Regiao de Lisboa
+DO1SKO,Leipzig,Germany,Steffen,Sachsen  Thueringen
 DL2GDE,,,,
 M7CUG,Exeter,United Kingdom,Des,England
 KF4HJW,Newport News,United States,Darrell B,Virginia
@@ -505,8 +509,8 @@ DJ2II,Bremen,Germany,Harald,Bremen
 KR3ORY,State College,United States,Robert P,Pennsylvania
 K0CSN,Conifer,United States,Christopher S,Colorado
 DM3ER,Wallersdorf,Germany,Rainer,Bayern
-WA8WG,Porterfield,United States,William,Wisconsin
-DO1BTW,nan,Germany,Bas,Nordrhein-Westfalen
+WA8WG,Porterfield,United States,Bill,Wisconsin
+DO1BTW,Europe,Germany,Bas,Nordrhein-Westfalen
 DM3ET,Wrohm,Germany,Dennis,Schleswig-Holstein
 DJ2LY,Altenholz,Germany,Hans-Juergen,Schleswig-Holstein
 DD0ZM,nan,Germany,Matthias,nan
@@ -526,6 +530,7 @@ DG1RW,Fulda,Germany,Roman,Hessen
 DJ2KS,Lohmar,Germany,Simone,Nordrhein-Westfalen
 KD7DVD,Seattle,United States,Christopher J,Washington
 DL3BCU,,,,
+EA1FXL,Len,Spain,David,Leon
 DO6ADB,Burgkirchen,Germany,Adrian,nan
 2E0PSV,Plymouth,United Kingdom,John,England
 F4DVG,Saint Martin d Hres,France,Alain,nan
@@ -534,9 +539,9 @@ DL0RWP-2,,,,
 M0XZT,,,,
 DL0RWP-1,,,,
 ON8DSW,Dendermonde,Belgium,Wim,nan
+N1DSK,Montgomery,United States,Dan,Alabama
 DO1KFG,Windhagen,Germany,Frank,Rheinland-Pfalz
 DC6BV,Norden,Germany,Reinhardt,Niedersachsen
-DO4TMA,,,,
 KC1RAO,Williston,United States,Vincent,Vermont
 HB9FLC,Kriens LU,Switzerland,Hans,Lucerne
 DD0TM,nan,Germany,Tobias,nan
@@ -551,7 +556,6 @@ F1TYP,RUMEGIES,France,PHILIPPE,nan
 OK4PS,Kromeriz,Czech Republic,Pavel,nan
 EA8BYO,Vecindario,Spain,ROMANO,nan
 PB1SAM,Maastricht,Netherlands,Pascal,Limburg
-SWLDAVIDSCHMEIER,,,,
 9M2FRI,Klang,Malaysia,Martin,West Malaysia
 DC6AP,Kolln Reisiek,Germany,Andreas,Hamburg  Schleswig-Holstein
 DL6SWN,Neuss,Germany,Stefan,Nordrhein-Westfalen
@@ -560,7 +564,7 @@ HK4SSI,Medellin,Colombia,Alexander,Antioquia
 EA8BYW,nan,Spain,Cheo,nan
 DL2GKM,Reutlingen,Germany,Manfred,Baden-Wrttemberg
 PI9DL,Amersfoort,Netherlands,DARES,Utrecht
-DL2GKH,Kuessaberg,Germany,Hermann,nan
+DL2GKH,Kuessaberg,Germany,Hermann,Baden-Wuerttemberg
 DO1KDL,,,,
 DO1BSD,Hohnhorst,Germany,Sabine,Niedersachsen
 AH6HI,Honolulu,United States,Roy,Hawaii
@@ -598,7 +602,6 @@ DK5JW,Wirges,Germany,Juergen,Rheinland-Pfalz
 DJ2GZ,Seewald,Germany,Michael,Baden-Wuerttemberg
 DL9LBD,Bad Oldesloe,Germany,Michael,Schleswig-Holstein
 DL3JOP,Ottweiler,Germany,Joshua,Saarland
-SWLALEXANDER,,,,
 DL8MC,Neukirchen,Germany,Helwig,Schleswig-Holstein
 DL8MA,Weinstadt,Germany,Juergen,Baden-Wuerttemberg
 DO1KBL,Osterholz-Scharmbeck,Germany,Kim-Benjamin,Niedersachsen
@@ -621,8 +624,8 @@ DJ9PZ,Armsheim,Germany,Arnd,Rheinland-Pfalz  Saarland
 K9DTM,,,,
 DK4BU,Wipperfuerth,Germany,Juergen,nan
 DL1DUR,Olbersdorf,Germany,Juergen,Sachsen  Thueringen
-NY2BX,Bronx,United States,Gil,New York
 DL7FB,Koeln,Germany,Wolfgang,Nordrhein-Westfalen
+NY2BX,Bronx,United States,Gil,New York
 DJ9PH,Lengede,Germany,Christian,Niedersachsen  Bremen
 DG4BRT,Varel,Germany,Ralf,Niedersachsen
 DG8WM,Reutlingen,Germany,Werner,Baden-Wrttemberg
@@ -646,6 +649,7 @@ PU2LQF,Sao Paulo,Brazil,Afonso,Sao Paulo
 ON4LS,Bouge-Namur,Belgium,Jean-Luc Collard,Namur
 DG2MMK,Pfoerring,Germany,Markus,Bayern
 DB2JS2,,,,
+ZS6JPL,Pretoria,South Africa,Johan,Gauteng
 DB2JS1,,,,
 PC5E,Heerenveen,Netherlands,Robert,Friesland
 DB2JS3,,,,
@@ -700,7 +704,6 @@ DS1TXC,Seoul,Korea Republic Of,Daun,Seoul
 BG1THS,Beijing,China,Ma,Beijing
 DL3SHA,,,,
 DO9BAU,Zeuthen,Germany,Alexander,Berlin  Brandenburg
-DO7DLC,Taunusstein,Germany,Felix,Hessen
 DL1MBV,Veitshoechheim,Germany,Michael,nan
 EB3GMK,,,,
 DG8SF,Ulm,Germany,Thomas,Bayern
@@ -717,6 +720,7 @@ HB9NBI,Laufen,Switzerland,Andreas,nan
 G7NZR,Brampton,United Kingdom,Tony,England
 OV-I09,,,,
 KM6KOZ,Buena Park,United States,Brian,California
+K0EB,Brighton,United States,Rich,Colorado
 DO1KLS,Speyer,Germany,Klaus,Rheinland-Pfalz
 DO4CTH,Wunstorf ,Germany,Tim,Niedersachsen  Bremen
 KC3EIZ,Industry,United States,Michael,Pennsylvania
@@ -745,6 +749,8 @@ PU2UAO,Aguas da Prata,Brazil,Antonio,Sao Paulo
 F6INI,Meudon,France,Jacques,nan
 G1DVA,Lymm,United Kingdom,Paul,nan
 SQ5MRD,Sochaczew,Poland,Mikolaj,nan
+SP5SZE,Warszawa,Poland,Maciej,mazowieckie
+DO9BAA,,,,
 DO1KJW,Wassenberg,Germany,Juergen,Nordrhein-Westfalen
 DL1MCA,Dueren,Germany,Michael,Nordrhein-Westfalen
 DC4XC,Hamburg,Germany,Ralf,Hamburg  Schleswig-Holstein
@@ -774,6 +780,7 @@ PU4RON,Janauba,Brazil,Ronualdo,Minas Gerais
 DK3ZL,Frielendorf,Germany,Charly,Hessen
 F17,,,,
 K0JSC,Canon City,United States,Jeffrey,Colorado
+LUALERT-AMBER,,,,
 DG4KLK,Eschershausen,Germany,Kai,Niedersachsen
 DF5KX,Ihlow,Germany,Chris,Niedersachsen
 DJ0VO,Nordhorn,Germany,Gerrit,Niedersachsen
@@ -783,11 +790,11 @@ DM1OK,Beucha,Germany,Oliver,nan
 VA2XMX,Laval,Canada,Petro,Quebec
 DO1KWR,Erkelenz,Germany,Wilfried,Nordrhein-Westfalen
 VK3XEM,Croydon,Australia,Simon,Victoria
-SWLTORSTEN,,,,
 EA4HDJ,Villalbilla,Spain,Alex,Madrid
 S57SP,Divaca,Slovenia,Peter,Obalno - Kraka
 KH2PM,Raleigh,United States,Chris,North Carolina
 DO1TJU,Uttenreuth,Germany,Stephan,Bayern
+DG1BAR,,,,
 KE4URP,Cartersville,United States,Mathew R,Georgia
 2E0IXJ,Plymouth,United Kingdom,Mark,England
 PU2TXQ,Sao Paulo,Brazil,Wilson,Sao Paulo
@@ -827,6 +834,7 @@ DG1SAC,,,,
 M0XJM,London,United Kingdom,James,England
 DO7VN,Voelklingen,Germany,Sandra,nan
 N0RAH,Topeka,United States,Jeffrey P,Kansas
+LUALERT-FIRE,,,,
 DO1THG,Butjadingen,Germany,Thomas,Niedersachsen
 DN9HUT,Stolberg,Germany,Tim,Nordrhein-Westfalen
 WY5S,Houston,United States,Andrew,Texas
@@ -846,6 +854,7 @@ EDWARD,,,,
 KZ7JEF,Star,United States,Jeffrey G,Idaho
 DL9DAK,Hamburg,Germany,Peter,Hamburg
 KD7THQ,Lebanon,United States,Lee,Oregon
+LUALERT-INFRA,,,,
 DO7RA,Thans,Germany,Robert,Bayern
 DG6IFK,,,,
 ON4BCY,nan,Belgium,Bastien,Liege
@@ -944,13 +953,15 @@ N5GCS,Liverpool,United States,Martin,Texas
 DO2WTR,Friedberg,Germany,Julius,Hessen
 M7SPI,Wigan,United Kingdom,Stuart,England
 DL1MWG,Glonn,Germany,Markus,Bayern
-W2RJR,Staten Island,United States,Raymond,New York
+W2RJR,,,,
 VK5URD,Nairne,Australia,Shane,South Australia
 W4GMJ,Dallas,United States,Gregory,Georgia
 DF6EF,Aachen,Germany,Christian,Nordrhein-Westfalen
 DL1EET,Dormagen,Germany,Udo,Nordrhein-Westfalen
 DO8NS,Witten,Germany,Nils,Nordrhein-Westfalen
+SP5SKY,Jozefow,Poland,Marcin,mazowieckie
 DO1LBM,Warstein ,Germany,Lutz,Nordrhein-Westfalen
+9V1PL,Singapore,Singapore,PHILIP,Singapore
 DO4DJA,Goch,Germany,Darian,Nordrhein-Westfalen
 WW2BSA,Hackettstown,United States,Chris,New Jersey
 KC7RBW,Alderwood Manor,United States,Andrew,Washington
@@ -984,7 +995,7 @@ DK1TBL,Neunkirchen,Germany,Thomas,Saarland
 AC7FD,Meridian,United States,Tobias,Idaho
 KB9MQU,Bloomington,United States,Kevin,Indiana
 DH2GTI,Lauchringen,Germany,Roland,Baden-Wrttemberg
-BG4USS,Nantong City Jiangsu Province,China,Jian,Shanghai Shandong Jiangsu
+BG4USS,,,,
 DL7XX,Woerth an der Isar,Germany,Tom,nan
 DG9KB,Kreuztal,Germany,Benjamin,Nordrhein-Westfalen
 DG9KD,nan,Germany,Klaus - Dieter,nan
@@ -1000,6 +1011,7 @@ PD0TW,Obdam,Netherlands,Christiaan,Noord-Holland
 DG1BGS,Norden,Germany,Stephan,Niedersachsen  Bremen
 ON3XI,Vosseslag,Belgium,Christophe,West-Vlaanderen
 DO2FRH,Dortmund,Germany,Frederic,Nordrhein-Westfalen
+G3CAT,London,United Kingdom,Ashley,England
 9W2KHN,Cheras Kuala Lumpur,Malaysia,KuanHoe,West Malaysia
 DL1ITU-2,,,,
 KF4CQ,Lady Lake,United States,Frank E,Florida
@@ -1050,7 +1062,7 @@ HB9VAB,Confignon,Switzerland,Rodolphe,nan
 MW0NXT,Cardiff,United Kingdom,Marc,Wales
 DK5RTA_TEST,,,,
 DO8MW,Woelfersheim,Germany,Michael,nan
-WY7EMT,Saint David,United States,Jason,Arizona
+WY7EMT,Tucson,United States,Jason,Arizona
 DL1EDR,Uslar,Germany,Eike,Niedersachsen
 M7BUY,Workington,United Kingdom,Kevin,England
 HB9MPA,Volketswil,Switzerland,Beat,nan
@@ -1069,12 +1081,13 @@ DL7TJ,Winsen Luhe,Germany,Tobias,Niedersachsen  Bremen
 2E0HXM,,,,
 DO9KAI,,,,
 SQ8MXP,Lublin,Poland,Lukasz,lubelskie
+K4WRJ,Indian Land,United States,John,South Carolina
 EA8DCD,Las Palmas De Gran Canaria,Spain,Oscar,Las Palmas
 DD8MA,Wassenberg,Germany,Marcel,Nordrhein-Westfalen
 DO8LP,Remscheid,Germany,Helmut,Nordrhein-Westfalen
 KD9AEZ,Mukwonago,United States,Matthew,Wisconsin
-SWLTHOMAS,,,,
 DO9SSB,,,,
+W2RFX,Jackson,United States,Scott,New Jersey
 DL7TA,Berlin,Germany,Danielo,Berlin  Brandenburg
 K4OAM,Port Saint Lucie,United States,Jerry L,Florida
 IU4DKT,Piacenza,Italy,Tiziano,Emilia-Romagna
@@ -1152,14 +1165,14 @@ DL7PJ,Dierscheid,Germany,Peter,Rheinland-Pfalz  Saarland
 DG7DCI,Ennepetal,Germany,Michael,Nordrhein-Westfalen
 DJ1JL,Hamburg,Germany,John,Hamburg  Schleswig-Holstein
 DL2HSC,,,,
-2E1GW,London,United Kingdom,Gregory,nan
+2E1GW,London,United Kingdom,Gregory,England
 PD1R,Maartensdijk,Netherlands,Ron,Utrecht
 KQ4KX,Winter Haven,United States,Richard,Florida
 IK1WJN,Sanremo,Italy,Tony,nan
 DL2YTP,,,,
 BH8SEL,Chuxiong,China,Zhongcheng,Guizhou Sichuan 
 DM2BM,,,,
-F4LFB,France,France,Stephen ,Pays de la Loire
+F4LFB,France,France,Stephen,Pays de la Loire
 DO4MAT,Zeitz,Germany,Matthias,Sachsen-Anhalt
 PE1PMD,Grou,Netherlands,Olaf,Friesland
 DG2NDK,nan,Germany,Christian,nan
@@ -1175,6 +1188,7 @@ PD2HSB,Tilburg,Netherlands,Hans,Noord-Brabant
 PD1CD,,,,
 KC8USA,Prudenville,United States,Frederick J,Michigan
 OE1FER,Vienna,Austria,Markus,Wien
+OK2NMA,Dalesice,Czech Republic,Radek,Vysocina Region
 HB9EIV,Rubigen,Switzerland,Michael,nan
 OE9VMR,Bregenz,Austria,Markus,nan
 HB9EIY,Wattwil,Switzerland,Michael,St. Gallen
@@ -1227,6 +1241,7 @@ DL1EML,Mnster,Germany,Eva Marie,Nordrhein-Westfalen
 DO7MTA,Mainz,Germany,Matthias,Rheinland-Pfalz  Saarland
 DC5CC,Holzkirchen,Germany,Christian,Bayern
 DO4DJT,Markersbach,Germany,Dirk,nan
+VK2DU,Riverwood,Australia,David,New South Wales
 BG4UWQ,Nantong,China,Hua,Shanghai Shandong Jiangsu
 DK4HN,Hamburg,Germany,Peter,Hamburg
 N1TVI,Madison,United States,Nicholas,Ohio
@@ -1239,6 +1254,7 @@ DG6ABT,Bad Nenndorf,Germany,Walter,Niedersachsen
 PA3MOE,De Meern,Netherlands,Mark,Utrecht
 DAPNET@FIOUPFIOUP.CH,,,,
 HS3PIK,Saraburi,Thailand,Wattanapon (Joe),Bangkok
+LUALERT-WX,,,,
 S56MSK,Nova Gorica,Slovenia,Martin,Gorika
 DL7KC,Besigheim,Germany,Julian,Baden-Wrttemberg
 DO1CSB,Herne,Germany,Christian,Nordrhein-Westfalen
@@ -1321,12 +1337,13 @@ DH6LP,Holzkirchen,Germany,Peter,Bayern
 DL1WF,,,,
 KC1OCY,West Roxbury,United States,Thomas,Massachusetts
 DO2PC,Ludwigshafen,Germany,Bjoern,nan
+LUALERT-HEALTH,,,,
 DO4DUB,Dreieich,Germany,Martin,Hessen
 KD5DFB,Cypress,United States,Michael,Texas
 WZ2Q,Dublin,United States,Howard M,California
 SQ2IPS,Somonino,Poland,Pawel,pomorskie
 DB4ZZ,Reiskirchen,Germany,Manfred,Hessen
-M0RWV,Scarborough,United Kingdom,Scot ,England
+M0RWV,Scarborough,United Kingdom,Scot,England
 DL1ESK,Viersen,Germany,Basti,Nordrhein-Westfalen
 BV2QS,Taipei,Taiwan,Jack,Taipei
 OE7AAI,Hall in Tirol,Austria,Manfred,Tirol
@@ -1361,7 +1378,6 @@ DL5RBV,Pressath,Germany,Michael,Bayern
 BD4MCG,Linyi,China,Chen,Shanghai Shandong Jiangsu
 DG9BDX,Moormerland,Germany,Bernd,Niedersachsen  Bremen
 KN4FSN,,,,
-DE1OMS,,,,
 LX6JF,Neuhaeusgen,Luxemburg,Jessica,nan
 YO3AKF,None,Romania,Bogdan,Bucuresti  Ilfov
 DL4FNM,Erfurt,Germany,Stefan,Sachsen  Thueringen
@@ -1381,7 +1397,7 @@ DL4FLY,Karlsruhe,Germany,Timm,Baden-Wuerttemberg
 DO2QG,Bad Driburg,Germany,Andreas,Nordrhein-Westfalen
 ON7TA,Duffel,Belgium,Karel,nan
 DL1XH,Schuerensoehlen,Germany,Bernd,nan
-M0AYX,Cirencester,United Kingdom,Tony,England
+M0AYX,,,,
 DG9SEH,Esslingen,Germany,Sven,nan
 KE5FOX,San Antonio,United States,Alberto,Texas
 WZ4K,Newport News,United States,Howard A,Virginia
@@ -1399,6 +1415,7 @@ AD4JR,Saraland,United States,James,Alabama
 YD9CVS,Klungkung,Indonesia,I,Bali
 DO2KV,Leverkusen,Germany,Kai,Nordrhein-Westfalen
 DG3EL,Neukirchen-Vluyn,Germany,Thorsten,Nordrhein-Westfalen
+F5ILB,Martigne-Ferchaud,France,Philippe,Bretagne
 PA1ANT,Breda,Netherlands,Kees,Noord-Brabant
 DL1RI,Romrod,Germany,Werner,Hessen
 KN6DSG,Los Angeles,United States,Brandon,California
@@ -1421,7 +1438,7 @@ IU2KIN,Vignate,Italy,Nizzo,nan
 DL1QT,Wetzlar,Germany,Daniel,Hessen
 OH3LFQ,Lahti,Finland,Janne,nan
 F6DAA,Grandchamp-Des-Fontaines,France,Daa,Pays de la Loire
-DN9AFA,Ergolding,Germany,Marco,Bayern
+DN9AFA,,,,
 DJ1JAY,Meiningen,Germany,Jens,Sachsen  Thueringen
 HB9ZEI,Stadel,Switzerland,Max,nan
 PE1SAY,Boxtel,Netherlands,Michel,Noord-Brabant
@@ -1438,7 +1455,7 @@ HS8JCV,Bangkhuntein,Thailand,Mr.Supparerk,Bangkok
 PD4RS, Heerlen,Netherlands,Ruud,Limburg
 VK2KMA,Albion Park,Australia,Kieran,New South Wales
 DF8TI,Ostrach,Germany,Andreas,Baden-Wrttemberg
-M3SVL,Macclesfield,United Kingdom,Steve ,England
+M3SVL,Macclesfield,United Kingdom,Steve,England
 SP-MASR,,,,
 PU2XCN,Praia Grande,Brazil,Francisco Carlos,Sao Paulo
 DO2MP,Dormagen,Germany,Markus,Nordrhein-Westfalen
@@ -1488,7 +1505,7 @@ DL1NE,Hannover,Germany,Simon,Niedersachsen
 KN4FYR,North Canton,United States,Dan,Ohio
 DH1NBC,Wuerzburg,Germany,Jochen,Bayern
 KC8TAI,Bruceton Mills,United States,Joshua,West Virginia
-GM5AUG,Newton Mearns,United Kingdom,Michael,Scotland
+GM5AUG,Stornoway,United Kingdom,Michael,Scotland
 DO2GM,Illmensee,Germany,Manuel,Baden-Wrttemberg
 DO6STS,Oberkochen,Germany,Stephan,Baden-Wrttemberg
 DO2FT,nan,Germany,Thomas,nan
@@ -1503,6 +1520,7 @@ DH6BS,Ulmet,Germany,Benjamin,nan
 BG2EOB,suihua,China,jingbo,Heilongjiang Jilin Liaoning
 DU1ZCC,Manila,Philippines,Ramon,National Capital Region
 OE3VPA,Grossdietmanns,Austria,Mario,nan
+BI1OHC,nan,China,Kai,Beijing
 DO1LVS,Kiel,Germany,Vittorio,Schleswig-Holstein
 BG2ENW,Harbin,China,Jianyu,Heilongjiang Jilin Liaoning
 DL0UA-NAGIOS,,,,
@@ -1511,6 +1529,7 @@ VE2FQQ,Saint-Gabriel-De-Rimouski,Canada,Felix,Quebec
 M7FUS,,,,
 DM0MTK,,,,
 W7TUE,Buckeye,United States,Peter C,Arizona
+M7FUR,,,,
 DG4UAK,Waldbronn,Germany,Ingo,Baden-Wrttemberg
 SQ9CH,Sosnowiec,Poland,Bartlomiej,lskie
 VA2WDW,,,,
@@ -1523,7 +1542,7 @@ DL2ZBR,Soehrewald,Germany,Torsten,nan
 M6LCK,Carlisle,United Kingdom,Lindsey,nan
 DO2IO,Neunkirchen,Germany,Martin,Rheinland-Pfalz  Saarland
 R2BMR,Moscow ,Russia,Sergei,All Regions
-R2BMP,Moscow,Russia,Andrei,All Regions
+R2BMP,Moscow,Russia,Andrei,nan
 DL1PU,Cambs,Germany,Ralf,nan
 LY1EU,Vilnius,Lithuania,Ramojus,All Regions
 DM4RZ,Tbingen,Germany,Moritz,Baden-Wuerttemberg
@@ -1549,6 +1568,7 @@ OE1GKS,Wien,Austria,Guenter,nan
 DH0BRO,Schwielowsee,Germany,Mario,nan
 KJ4OEM,Jacksonville,United States,Stephen P,Florida
 ON4KRW,,,,
+DN9APA,Erfurt,Germany,Alex,Sachsen  Thueringen
 BD7EM,Shenzhen,China,Xin,Hunan Guangdong Guangxi Hainan
 DF9LT,,,,
 OK1UAX,Velke Popovice - Brtnice,Czech Republic,Jiri,nan
@@ -1560,7 +1580,7 @@ SP5IC,Warszawa,Poland,Pawel,mazowieckie
 DL2LJ,Berlin,Germany,Loria,Berlin
 BG6RKE,hubei,China,Wang,Henan Hubei Anhui
 DO3EF,nan,Germany,Patrick,nan
-G6ORL,Fareham,United Kingdom,G6ORL,nan
+G6ORL,Fareham,United Kingdom,G6Orl,England
 DB5OG,Wedemark,Germany,Carsten,Niedersachsen
 CT7AFY,Lisboa,Portugal,Paulo,Regiao de Lisboa
 VE2FDA,Longueuil,Canada,Francois,Quebec
@@ -1588,7 +1608,7 @@ DK7XM,Halstenbek,Germany,Michael,Schleswig-Holstein
 DL2KJ,Schoenwald,Germany,Juergen,nan
 VE3RD,Grimsby,Canada,Phil,Ontario
 DB5OK,,,,
-KE4DV,Seaford,United States,Charles R,Virginia
+KE4DV,Seaford,United States,Charles,Virginia
 OV-A47,,,,
 5B4APA,Larnaca,Cyprus,Pablo,nan
 ON4KTU,Silly,Belgium,Jean-Marie,nan
@@ -1623,6 +1643,7 @@ HB9HHA,,,,
 DL2ML,Frankfurt am Main,Germany,Markus,Hessen
 DO3SHD,Lauda-Koenigshofen,Germany,Harald,nan
 KK6FNS,San Jose,United States,Saif,California
+OK1UEL,Prague,Czech Republic,Samuel,Prague
 DF9HD,Norderstedt,Germany,Dieter,Schleswig-Holstein
 DG5MM-1,,,,
 ON4KNN,Sambreville,Belgium,Pierre,Namur
@@ -1681,7 +1702,7 @@ G0VKY,Plymouth,United Kingdom,David,nan
 DR1TEL,Gross Gerau,Germany,Notfunk,Hessen
 DO3BAL,,,,
 SQ9MUR,Tarnow,Poland,Maciek,maopolskie
-DM5MN,Leer,Germany,Marcus J R ,Niedersachsen  Bremen
+DM5MN,Leer,Germany,Marcus J R,Niedersachsen  Bremen
 M1DJR,Newhall,United Kingdom,Dan,England
 DM5LW,,,,
 JG1UAA,Sagamihara,Japan,Takayoshi,Kanto
@@ -1689,7 +1710,7 @@ F1NWD,Colombes,France,Dominic,nan
 DL5APR,Luenen,Germany,Andreas,nan
 DH5ABC,Mueglitztal,Germany,Matt,Sachsen  Thueringen
 DF9IK,Weingarten,Germany,Ralf,Baden-Wrttemberg
-M0IXY,Basildon,United Kingdom,Andy,nan
+M0IXY,Basildon,United Kingdom,Andy,England
 N0LAK,Alamosa,United States,Luke,Colorado
 SP6BEL,Krakow,Poland,Jakub,maopolskie
 DH5AAV,Sehlde,Germany,Thomas,Niedersachsen
@@ -1761,12 +1782,13 @@ DL1ODR,Adelebsen,Germany,Andreas,Niedersachsen
 DO2PLE,Varel,Germany,DO2PLE,Niedersachsen
 KE0QHN,,,,
 9M2YOT,Melaka,Malaysia,Mohd,nan
+LUALERT-ENV,,,,
 DG3WT,Gelsenkirchen,Germany,Ralf,Nordrhein-Westfalen
-DL1WTW,Freudenstadt,Germany,Daniel,Baden-Wrttemberg
+DL1WTW,Freudenstadt,Germany,Daniel,Baden-Wuerttemberg
 DL2FH,Bad Vilbel,Germany,Stefan,Hessen
 DL2EZ,Geldern,Germany,Frank,Nordrhein-Westfalen
 IS0AGA,Cagliari,Italy,Simone,nan
-DK7SB,nan,Germany,Stefan,Bayern
+DK7SB,nan,Germany,Stefan,nan
 M0RNX,,,,
 OE1OWA,Wien,Austria,Oskar,nan
 DD6LKB,Berlin,Germany,Lars,Berlin  Brandenburg
@@ -1850,7 +1872,7 @@ SP4FDH,Biala Piska,Poland,Michal,warmisko-mazurskie
 DG7NAE,Selbitz,Germany,Sigi,Bayern
 DS2HXZ,  ,Korea Republic Of,Kim,KyungKi-Do
 M7EDU,Yorkshire,United Kingdom,Tack,England
-W4JDH,Seattle,United States, Juniper,Washington
+W4JDH,Seattle,United States,Juniper,Washington
 DL5SFI,Leonberg,Germany,Steffen,Baden-Wrttemberg
 DK6GC,Baden-Baden,Germany,Martin,Baden-Wrttemberg
 EA3BQ,Canoves y Samalus,Spain,Eric,nan
@@ -1859,10 +1881,10 @@ DJ3DE,Barsinghausen,Germany,Julian,Niedersachsen
 A65TD,Dubai,United Arab Emirates,T,Sharjah
 DL9IK,Krefeld,Germany,Michael,Nordrhein-Westfalen
 DO9DKM,Moers,Germany,Michael,Nordrhein-Westfalen
-KD4HLV,PEACHTREE COR,United States,Marty,Georgia
+KD4HLV,Peachtree Cor,United States,Marty,Georgia
 DL5SEZ,,,,
 OE7SBH,Kaltenbach,Austria,Stefan,nan
-YO4TNV,,,,
+YO4TNV,Focsani,Romania,Victor,Braila  Constanta  Galati  Tulcea  Vrancea
 DL9HW,Aachen,Germany,Horst,Nordrhein-Westfalen
 ON6PU,Duffel,Belgium,De,nan
 HS5YSU,Sansai,Thailand,Suriyan,Chiang mai
@@ -1870,7 +1892,7 @@ DG4MGI,Murnau,Germany,Thomas,nan
 DO8AGU,Ratingen,Germany,Andre,Nordrhein-Westfalen
 HB9GXU,,,,
 DK6FC,Lneburg,Germany,Johannes,Niedersachsen  Bremen
-BH8PVH,,China,Li,Guizhou Sichuan 
+BH8PVH,GuiYang,China,ZhouLi,Sichuan Guizhou Chongqing Yunnan
 N3AR,Simi Valley,United States,Matthew,California
 DO3KHA,Hamm,Germany,Hartwig,Nordrhein-Westfalen
 ON6LY,Turnhout,Belgium,Cis,nan
@@ -1917,9 +1939,8 @@ N1WBV,Dartmouth,United States,Benjamin,Massachusetts
 HF8X,Jaslo,Poland,Tyrel,podkarpackie
 G0CXP,Lincoln,United Kingdom,Keith,England
 TB2DUS,Istanbul,Turkiye,Selimt,Marmara Region
-DD1NZ,Bielefeld,Germany,Alex,Nordrhein-Westfalen
 DO1MOS,Neusaess,Germany,Sascha,nan
-EA7KEN,CABRA,Spain,Rafael,Cordoba
+EA7KEN,Cabra,Spain,Rafael,Cordoba
 DO9DEX,Staudt,Germany,Thomas,nan
 DO1MH,Grossrohrsdorf,Germany,Hubert,nan
 HA8BKG,Szentes,Hungary,Karcsi,Borsod-Abauj-Zemplen  Heves  Jasz-Nagykun-Szolnok 
@@ -1934,6 +1955,7 @@ PA3FFS,Almere,Netherlands,Marijn,Flevoland
 DG2GG,Titisee-Neustadt,Germany,Frank,Baden-Wrttemberg
 VA3POQ,Toronto,Canada,Victor,Ontario
 VK4NB,Koumala,Australia,Neil,Queensland
+KE2DSB,E Brunswick,United States,Peter,New Jersey
 KC0BLK,Kansas City,United States,Benjamin L,Missouri
 DH5IS,Wuerzburg,Germany,Bernd,Bayern
 DL1FSZ,Eisenach,Germany,Frank,Thringen
@@ -1959,7 +1981,7 @@ DL2AJB,Sonneborn,Germany,Jens,nan
 SV9IOR,HERAKLION,Greece,Nektarios,nan
 KB3ZQD,Columbia,United States,Jelly (BW),Maryland
 DH9NAD,nan,Germany,Bernd,Bayern
-WH6AV,,,,
+WH6AV,Wailuku,United States,Gescio O,Hawaii
 SA0BCC,Haninge,Sweden,Joakim,Stockholm
 DO1PB,Hoerdt,Germany,Tobias,nan
 GM8ARV,Edinburgh,United Kingdom,DJT,nan
@@ -2025,6 +2047,7 @@ VK5BUS,Adelaide ,Australia,Nick,South Australia
 E20TWR,Donmung Airport,Thailand,Sanee,Bangkok
 HA7PTY,Szazhalombatta,Hungary,Istvan,nan
 DK6AH,Malsch,Germany,Andreas,Baden-Wuerttemberg
+DK6AI,Pforzheim,Germany,Kai,Baden-Wuerttemberg
 ZL2AUS,nan,New Zealand,Brett,nan
 MW6AHT,SOUTH WALES,United Kingdom,Oll-Tcs,Wales
 DG7NFO,Wuerzburg,Germany,Chris,nan
@@ -2040,6 +2063,7 @@ K1GGS,Simi Valley,United States,Rusty,California
 DO1KQ,,,,
 VA2MVC,Candiac,Canada,Marc,Quebec
 F5HLA,Paris,France,Gilles,nan
+YO3IFO,Bucuresti,Romania,Cornel,Bucuresti  Ilfov
 DH1WNO,Asbach-Baeumenheim,Germany,Norbert,nan
 EMERGENCYBROADCAST,,,,
 KJ7NUX,Salem,United States,Crittenden J,Oregon
@@ -2056,6 +2080,7 @@ DD1KW,,,,
 DD1KU,Bergisch-Gladbach,Germany,Ulrich,Nordrhein-Westfalen
 DG1DDA,Dortmund,Germany,Michael,Nordrhein-Westfalen
 DO1JG,Olching,Germany,Jens,Bayern
+LUALERT-SECU,,,,
 A65IT,Ajman,United Arab Emirates,Maheir,Ajman
 2E0GQJ,Sheerness,United Kingdom,Mark H Thompson,England
 K9WNG,Linn,United States,Brad,Wisconsin
@@ -2065,7 +2090,7 @@ PA3FNT,Emmeloord,Netherlands,Foeke,Flevoland
 M7EQR,Norwich,United Kingdom,Frankie,England
 VK2BAZ,Sydney,Australia,Baz,New South Wales
 Z32IT,Skopje,Macedonia,Dragan,All Regions
-DG5YHF,Wittmund,Germany,Steffen,Niedersachsen
+DG5YHF,Wittmund,Germany,Steffen,Niedersachsen  Bremen
 DO3KMS,Uebach-Palenberg,Germany,Michael,Nordrhein-Westfalen
 DH5AR,,,,
 S51KQ,Vojnik,Slovenia,Mijo,nan
@@ -2085,7 +2110,7 @@ DO1DX,,,,
 BA7NXE,Shenzhen,China,Yong,Hunan Guangdong Guangxi Hainan
 DO2HKR,Erwitte,Germany,Kristian,Nordrhein-Westfalen
 DO1DC,Leipzig,Germany,Daniel,Sachsen  Thueringen
-KO4YDT,Charlottesville ,United States,Matthew ,Virginia
+KO4YDT,Charlottesville ,United States,Matthew,Virginia
 KD9OWN,Royalton,United States,Timothy B,Illinois
 DN9BGL,Gross Lindow,Germany,Benjamin,Berlin  Brandenburg
 F6KGL,Neuilly Sur Marne,France,Radio Club,Ile-de-France
@@ -2100,6 +2125,7 @@ TA2BBE,Ankara,Turkiye,Onur,Central Anatolia Region
 IW3BYL,Trento,Italy,Christian,Veneto  Trentino-AA  Friuli-VG
 DL3MFQ,Muenchen,Germany,Peter,nan
 KP4AG,Guaynabo,Puerto Rico,Hilda,nan
+SP5MASR,Warszawa,Poland,EmCom Klub,nan
 KA4BBC,Wesley Chapel,United States,Andrew,Florida
 M7ESW,Consett,United Kingdom,Jamie Roberts,nan
 LZ1ZAF,Plovidiv,Bulgaria,Stanislav,nan
@@ -2107,7 +2133,7 @@ SP9MIB,Zrebice Pierwsze,Poland,Piotr,nan
 DF1SAM,Neusaess,Germany,Sam,nan
 DL5SMB,Starzach,Germany,Sascha,Baden-Wrttemberg
 DF7NT,Sternenfels,Germany,Tobias - AC7FD,Baden-Wrttemberg
-DM3QM,Bietigheim-Bissingen,Germany,Johannes ,Baden-Wuerttemberg
+DM3QM,Bietigheim-Bissingen,Germany,Johannes,Baden-Wuerttemberg
 DL0NK,Friedrichsthal,Germany,Daniel,Saarland
 DL2ARS,Elmshorn,Germany,Lars,Hamburg  Schleswig-Holstein
 VK4YA,Capalaba,Australia,James,Queensland
@@ -2117,6 +2143,8 @@ DO9WL,Osnabrueck,Germany,Arne,nan
 IW2HGL,Milano,Italy,Diego,Lombardy
 MW6IUT,Neath,United Kingdom,Bryan,Wales
 DO1FT,Eichenzell,Germany,Manfred,Hessen
+TA3LP,Balikesir,Turkiye,Alper,Aegean Region
+VE3YUL,Ottawa,Canada,John Muise,Yukon
 G6VBJ,Ridley,United Kingdom,Peter,England
 DO9WA,Ruelzheim,Germany,Andreas,nan
 OH1GEM,Sastamala,Finland,Jarno,nan
@@ -2138,6 +2166,7 @@ DM4MS,Regensburg,Germany,DM4MS,Bayern
 VK7HSE,Kingston,Australia,Scott,Tasmania
 DO1NEW,Ploessberg,Germany,Tobias,Bayern
 M7DSQ,Hartlepool,United Kingdom,David,England
+K7REX,Boise,United States,Dan,Idaho
 KE9AEK,Green Bay,United States,Ben,Wisconsin
 DL1JZ,Leverkusen,Germany,Rene,Nordrhein-Westfalen
 DL4HCL,,,,
@@ -2155,7 +2184,7 @@ DL8TOP,Schnwlkau,Germany,Tobias,Sachsen  Thueringen
 BG9IPR,Lanzhou,China,Lei,Shaanxi Ningxia Gansu Qinghai 
 DL8TOS,Esslingen,Germany,Tobias,nan
 KI5WMN,Laredo,United States,Juan,Texas
-VA7FK,None,Canada,Ben,British Columbia
+VA7FK,Salmon Arm,Canada,Ben,British Columbia
 GD6AFB,Ramsey,United Kingdom,Nigel,Isle of Man
 KD0MSP,Tustin,United States,Anthony D,California
 NOTFUNK-FLORSTADT,,,,
@@ -2180,7 +2209,7 @@ DO2BC,Bad Oeynhausen,Germany,Christian,Nordrhein-Westfalen
 DL1IN,Gifhorn,Germany,Stefan,Niedersachsen  Bremen
 BD7MQB,Shenzhen,China,Michael Changzhi,Hunan Guangdong Guangxi Hainan
 DL1IL,Muenster,Germany,Frank,nan
-TA9B,nan,Turkiye,Gultekin,nan
+TA9B,Mersin,Turkiye,Gultekin,Mediterranean Region
 DG3SDK,nan,Germany,Andre,nan
 DH6BB,Wiesmoor,Germany,Jens,Niedersachsen
 DO2EN,Ostbevern,Germany,Edgar,Nordrhein-Westfalen
@@ -2205,7 +2234,7 @@ WA4CQZ,Eatonton,United States,William L,Georgia
 DG5YIM,Nordenham,Germany,Thorsten,Niedersachsen  Bremen
 IZ0RIN,Ariccia,Italy,Alessandro,Lazio  Umbria  Sardinia
 SP5QIR,Sochaczew,Poland,Artur,mazowieckie
-DB4OF,Nordstemmen,Germany,Gerd  ,Niedersachsen
+DB4OF,Nordstemmen,Germany,Gerd,Niedersachsen
 IU2DVU,Gussola,Italy,Marco,nan
 DV7FCV,Cebu,Philippines,Oliver,Central Visayas
 N2HOW,Flushing,United States,Levi,New York
@@ -2221,7 +2250,7 @@ EA2MKR,MAKIRRIAIN,Spain,Mkr,nan
 ON3REP,Oudenaarde,Belgium,Eddy,Oost-Vlaanderen
 OE3WGU,Schloss Rosenau,Austria,Gerald,nan
 DL1KJ,Pulheim,Germany,Rolf,Nordrhein-Westfalen
-VR2ZDA,Hongkong,Hong Kong,Ka,Hong Kong
+VR2ZDA,Hongkong,Hong Kong,Ka-Ming,Hong Kong
 DO2DE,Grafhorst,Germany,Daniel,Niedersachsen
 DM4NR,,,,
 F4FAQ,LESPIGNAN,France,Pellegrini,Occitanie
@@ -2244,7 +2273,7 @@ M3ZNE,Newcastle upon Tyne,United Kingdom,Alistair,England
 DL6NEJ,Erlangen,Germany,Juergen,Bayern
 DL9VK,Wadern,Germany,Verena,Rheinland-Pfalz  Saarland
 DL9VO,,,,
-AC9DJ,Kenosha,United States,James P,Wisconsin
+AC9DJ,Kenosha,United States,James,Wisconsin
 BH1UGN,BeiJing,China,Zhang,Beijing
 DL5KAT,,,,
 DK6RS,Pentling,Germany,Josef,Bayern
@@ -2266,7 +2295,7 @@ DJ3OG,,,,
 DL1GFA,Bad Saeckingen,Germany,Karl,nan
 F4EZO,Aunay Les Bois,France,Mathieu,Normandie
 KF0AIT,BROOKINGS,United States,Todd A,South Dakota
-EI9IUB,Dublin,Ireland,Ben,nan
+EI9IUB,Streamstown,Ireland,Ben,All Regions
 KB4MDD,Dadeville,United States,Danny L,Alabama
 DO2AK,,,,
 DL1HT,Braunschweig,Germany,Thomas,Niedersachsen
@@ -2276,7 +2305,7 @@ DL1GHN,Friesenheim,Germany,Pat,Baden-Wrttemberg
 DL9YA,Hamburg,Germany,Gunnar,Hamburg  Schleswig-Holstein
 OE9PKV,Bludesch,Austria,Klaus,Vorarlberg
 IZ7EXI,Barletta,Italy,Maurizio,Apulia  Basilicata
-DK6VC,,,,
+DK6VC,Dahlem,Germany,Juergen,Rheinland-Pfalz  Saarland
 DC7OU,Berlin,Germany,Hans-Joachim,Berlin
 W1QIH,Methuen,United States,Mark F,Massachusetts
 DC7OS,Hannover,Germany,Karsten,Niedersachsen  Bremen
@@ -2284,7 +2313,6 @@ M1CHM,Doncaster,United Kingdom,Mark,England
 DO2YRM,Bielefeld,Germany,Reinke,Nordrhein-Westfalen
 DL3MOH,nan,Germany,Markus,Bayern
 DL5STS,Beetzendorf,Germany,Stefan,Sachsen-Anhalt  Mecklenburg-Vorpommen
-DE1HPT,,,,
 DL1HI,Wahrenholz,Germany,Sascha,Niedersachsen  Bremen
 KD9PDC,Round Lake,United States,Art,Illinois
 ON4LRG,Clavier,Belgium,Robert,nan
@@ -2304,7 +2332,7 @@ DG0ROB,Regensburg,Germany,Robby,Bayern
 M6RXT,Bromley,United Kingdom,Rob,England
 DM4EK,,,,
 DO1ZK,Kiel,Germany,Thomas,Hamburg  Schleswig-Holstein
-DO4OFR,Wolfsburg,Germany,Stephan,Niedersachsen  Bremen
+DO4OFR,,,,
 LU4AE,Villa Del Parque,Argentina Republic,Claudio Marco,Caba
 ON6FU,Oostende,Belgium,Roland,nan
 PA2JF,Naarden,Netherlands,Joeri,Noord-Holland
@@ -2349,7 +2377,7 @@ OE3ZK,Klosterneuburg,Austria,Gerhard,nan
 DG1MFJ,Koenigsbrunn,Germany,Robert,nan
 CT1FZC,Sintra,Portugal,Freitas,Regiao de Lisboa
 WD1AJM,Rutland,United States,Adam,Vermont
-PA2HD,Holwerd,Netherlands,Hendrik,nan
+PA2HD,Holwerd,Netherlands,Hendrik,Friesland
 GM8SAU,Clachan,United Kingdom,Barry,Scotland
 DL4HMS,Augsburg,Germany,Holger,Bayern
 S50SE,Maribor,Slovenia,Simon,nan
@@ -2366,6 +2394,7 @@ WA1KLI,Phillips,United States,John S,Maine
 2E0XCN,Lichfield,United Kingdom,Chris,nan
 DM4GH,Hannover,Germany,Marie,Hamburg  Schleswig-Holstein
 KE6ZFI,Trabuco Canyon,United States,Chris,California
+S50RP,Vojnik,Slovenia,Rok,Savinjska
 2E0XCC,Minster On Sea,United Kingdom,James,England
 DO8SAS,Bielefeld,Germany,Sascha,Nordrhein-Westfalen
 DH5WZ,Worms,Germany,Oliver,Rheinland-Pfalz
@@ -2378,6 +2407,7 @@ DL9SB,,,,
 G5STE,Wednesbury,United Kingdom,Steven,England
 2E0XBT,Worthing,United Kingdom,Sean,nan
 DH5WM,Freiburg,Germany,Markus,nan
+F4EXA,Chateaurenard,France,Jean,Provence-Alpes-Cote d Azur
 PE1JAE,Amsterdam,Netherlands,Jan-Willem,Noord-Holland
 YO3IVA,Bucharest,Romania,Ivan,Bucuresti  Ilfov
 DL6FBT,Giessen,Germany,Alwin,nan
@@ -2409,6 +2439,7 @@ DL3ECT,Remscheid,Germany,Klaus,Nordrhein-Westfalen
 WL7CSL,Eugene,United States,Michael,Oregon
 UB6ZCS,Schastye,Russia,Vladimir,All Regions
 HA1PB,Szentkirly,Hungary,Tobias,Bcs-Kiskun
+DO5IUK,Neunkirchen-Seelscheid,Germany,Rene,Nordrhein-Westfalen
 DB4AI,,,,
 DL1GNM,,,,
 NH2OD,Barrigada,United States,Dilusha,New York
@@ -2425,7 +2456,6 @@ DB1SDJ,Schwieberdingen,Germany,Ton,Baden-Wrttemberg
 DG9UBF,Mannheim,Germany,Andreas,Baden-Wrttemberg
 E21WQY,thailand,Thailand,sikarin,Bangkok
 YO3ABD,Chiajna,Romania,Daniel,Bucuresti  Ilfov
-DN7FW,,,,
 CT2JAY,Coimbra,Portugal,Paulo,Regiao Centro
 OE7RMT,Tarrenz,Austria,Marco,Tirol
 BD7MRU,Shenzhen,China,Bing,Hunan Guangdong Guangxi Hainan
@@ -2554,7 +2584,7 @@ W1LMS,Lynwood,United States,Tony,California
 WB5ZIL,CEDAR PARK,United States,Steve,Texas
 DD4TS,Schmalfeld,Germany,Tom,Hamburg  Schleswig-Holstein
 DL5KSB,Dortmund,Germany,Katze,Nordrhein-Westfalen
-DF2JH,Herzogenrath,Germany,Jochen,Nordrhein-Westfalen
+DF2JH,Bremerhaven,Germany,Jochen,Niedersachsen  Bremen
 YL3CAAG,Riga,Latvia,Aldis,nan
 K1JST,Coventry,United States,Jeremy,Rhode Island
 DL2BJB,,,,
@@ -2568,6 +2598,7 @@ G7TEM,Portsmouth,United Kingdom,Matthew,nan
 DC1MAK,Schelklingen,Germany,Michael,Baden-Wuerttemberg
 G3GXG,Stratford-Upon-Avon,United Kingdom,Colin,England
 KC3JSQ,,,,
+DF2HY,Hamburg,Germany,Falco,Hamburg
 K6IAN,Casa Grande,United States,Ian,Arizona
 N0WEB,Mission,United States,William,Kansas
 DG5LC,Leipzig,Germany,Tomasz,Sachsen
@@ -2604,11 +2635,13 @@ OE1RIC,Wien,Austria,Ricsi,Wien
 KD9NRT,Fort Wayne,United States,Adam,Indiana
 BG2CPU,Harbin,China,Wang,Heilongjiang Jilin Liaoning
 DL1HDL,Hamburg,Germany,Detlef,Hamburg
+EA7LBQ,Sevilla,Spain,German,Sevilla
 DB1BMK,Wingst,Germany,Mike,Niedersachsen
 BG2CPM,Daqing,China,Jun,Heilongjiang Jilin Liaoning
+LUALERT-CBRNE,,,,
 DL1YFT,Frankfurt,Germany,Juergen,Hessen
 AC3DI,Reading,United States,Joseph F,Pennsylvania
-W4EBO,Stoughton,United States,Jay ,Wisconsin
+W4EBO,Stoughton,United States,Jay,Wisconsin
 DC1MU,Vechta,Germany,Christian,Niedersachsen  Bremen
 N3GAR,Birdsboro,United States,Garfield G,Pennsylvania
 DO4OG,nan,Germany,Wolfgang,nan
@@ -2617,6 +2650,7 @@ DD3UTS,Pirna,Germany,Thomas,Sachsen
 DO2ABE,Emmering,Germany,Andi,Bayern
 SA7CIZ,Malmo,Sweden,Lars,nan
 S54LD,Ljubena,Slovenia,Danijel,Savinjska
+SO5DZ,Nowy Dwor Mazowiecki,Poland,Przemyslaw,mazowieckie
 M6NBP,Brighton,United Kingdom,Norman,England
 IZ3WTP,Marghera,Italy,Mattia,Veneto  Trentino-AA  Friuli-VG
 KA8DUX,Grand Rapids,United States,Glenn D,Michigan
@@ -2643,6 +2677,7 @@ WE4MMM,,,,
 DL4ZAB,Kassel,Germany,Bernd,Hessen
 DL3XY,Heusweiler,Germany,Jan,Rheinland-Pfalz  Saarland
 DK6ULI,Schwaebisch Gmuend,Germany,Uli,nan
+KC5YPU,Lubbock,United States,Kelly,Texas
 DC1NF,Lonnerstadt,Germany,Dieter,Bayern
 DO1FMI,Berchtesgaden,Germany,Florian,Bayern
 DO4PX,Berlin,Germany,Jens,Berlin  Brandenburg
@@ -2668,6 +2703,7 @@ M0UEL,Coventry,United Kingdom,Samuel,England
 DO4KF,Hundsdorf,Germany,Florian,nan
 DL3RJ,Unterhaching,Germany,Ralf,Bayern
 DL1YBL,Marl,Germany,Jochen,Nordrhein-Westfalen
+DN9CHO,Koeln,Germany,Chris,Nordrhein-Westfalen
 VY1MGS,Whitehorse,Canada,Michael Gordon,Yukon
 SP9JAL,Krakow,Poland,Jakub,nan
 DO4KJ,Bochum,Germany,Marco,Nordrhein-Westfalen
@@ -2697,7 +2733,6 @@ DN9WP,,,,
 SA7CHT,Hoor,Sweden,Tomas,nan
 NI6V,San Diego,United States,John A,California
 2E0LXY,Wakefield,United Kingdom,Daz,England
-DO4NB,Null,Germany,Nils,Niedersachsen  Bremen
 VA2LOJ,Gatineau,Canada,Jonathan,Quebec
 DM4KCS,Blankenheim,Germany,Christian,Nordrhein-Westfalen
 DLKATBIT,,,,
@@ -2749,7 +2784,6 @@ W3IVH,San Luis Obispo,United States,Christopher B,California
 SP1ARE,Szczecinek,Poland,Arkadiusz,zachodniopomorskie
 W3ADC,Hanover,United States,John F,Pennsylvania
 VK3FTZD,,,,
-SWLMARIUS,,,,
 N2TEC,Martinsville,United States,Callie,Virginia
 W6ZZ,San Francisco,United States,Howard,California
 DO1FWI,Mannheim,Germany,Fabian,Baden-Wrttemberg
@@ -2769,7 +2803,7 @@ LX6ALT,Surre,Luxemburg,Arthur,nan
 DO5SAR,Soltendieck,Germany,Carsten,Niedersachsen  Bremen
 DO5SAS,Westoverledingen,Germany,Sascha,Niedersachsen
 AI5PI,,,,
-AC5A,,,,
+AC5A,Kirbyville,United States,Lonnie,Texas
 VE1INN,Hammonds Plains,Canada,Allen Thomas,Nova Scotia
 K0PUF,Denver,United States,Rodney,Colorado
 BH1TCE,BeiJing,China,Xiang,Beijing
@@ -2796,9 +2830,10 @@ DM7TH,Hamburg,Germany,Timo,Hamburg  Schleswig-Holstein
 ON3JVB,,,,
 BG3OIU,Guang xi,China,wang,Shanxi Hebei Tianjin
 ON3JVD,Buggenhout,Belgium,Jdooren,nan
-WC2F,Tallahassee,United States,Miguel ,Florida
+WC2F,Tallahassee,United States,Miguel,Florida
 DD5KI,Holzkirchen,Germany,Gunnar,Bayern
 DO1OFA,,,,
+F4IGV,Domagne,France,Yoann,Bretagne
 DL7ROX,Berlin,Germany,Ronny,Berlin
 DM7TT,Berlin,Germany,Anselm,Berlin  Brandenburg
 PA1LOU,Gulpen ,Netherlands,Louis,Limburg
@@ -2841,6 +2876,7 @@ G1BDK,Bewdley,United Kingdom,Paul,England
 DO5DC,Erlangen,Germany,Chris,Bayern
 M0TLC,Boston,United Kingdom,Rick,nan
 DL7AHD,Berlin,Germany,Dieter,Berlin
+K1STK,Natick,United States,Steve,Massachusetts
 DL4NT,Nuertingen,Germany,Benjamin,nan
 DD5HA,,,,
 DN6KFO,,,,
@@ -2961,7 +2997,7 @@ DO1OKM,Biebergemuend,Germany,Simon,Hessen
 DB7HI,Winsen,Germany,Guido,Niedersachsen
 ZL2RO,Hastings,New Zealand,Phil,North Island 1
 SV9FBT,IERAPETRA,Greece,George,Kriti
-KE6YJC,,,,
+KE6YJC,Bakersfield,United States,Ted,California
 EA2EQA,Agurain,Spain,EA2EQA,nan
 UB7KDT,Krasnodar,Russia,Anton,All Regions
 M0TSP,Coventry,United Kingdom,Rob,nan
@@ -2982,6 +3018,7 @@ DK5RTA,Gilching,Germany,Robert,Bayern
 KH7MS,Ocean View,United States,Blake,Hawaii
 ON1BJ,,,,
 KJ7ENS,Portland,United States,Glen,Oregon
+YO3DEX,Bucuresti,Romania,Victor,Bucuresti  Ilfov
 DO4ZT,Langebrck,Germany,Marcel,Sachsen  Thueringen
 OE9HRV,,,,
 DL2KSB,Elsdorf,Germany,Simon,Nordrhein-Westfalen
@@ -3014,6 +3051,7 @@ F4HZC,Mont Saint Aignan,France,Sullivan,nan
 N3FUD,New Cumberland,United States,Chip,Pennsylvania
 KF4LZA,Coconut Creek,United States,Eric,Florida
 OE7SPI,nan,Austria,Peter,nan
+LUALERT-OTHER,,,,
 DC4FEA,Frielendorf,Germany,Karl-Heinz,Hessen
 DL1HRC,Bad Drrenberg,Germany,Andreas,Sachsen-Anhalt  Mecklenburg-Vorpommen
 DO2AKW,Biblis,Germany,Torsten,Hessen
@@ -3024,6 +3062,7 @@ DL8EBD,Muelheim,Germany,Thomas,nan
 DC0SK,Riedstadt,Germany,Simon,Hessen
 DO9FNM,,,,
 K5MRE,Lantana,United States,Michael,Texas
+DN9DM,Villmar,Germany,David,Hessen
 DL8EBK,Krefeld,Germany,Heinz-Dieter,Nordrhein-Westfalen
 K2DHW,New York,United States,Dylan,New York
 DK4PA1,,,,
@@ -3036,6 +3075,7 @@ PD0WAG,Wageningen,Netherlands,Herman,Gelderland
 N1HAN,Bedford,United States,Neil,Massachusetts
 N9OXE,Dallas,United States,Jonathan,Texas
 DN9DA,Backnang,Germany,Daniel,Baden-Wuerttemberg
+DO4PPL,Leipzig,Germany,Daniel,Sachsen  Thueringen
 SP6RVW,Warszawa,Poland,Rafal,mazowieckie
 DD3VV,Sankt Ingbert,Germany,Albert,Saarland
 BG7IFP,Chaozhou,China,Haolue,Hunan Guangdong Guangxi Hainan
@@ -3047,6 +3087,7 @@ DK7YGL,Hagermarsch,Germany,Michael,Niedersachsen  Bremen
 DG1FBA,Weroth,Germany,Markus,nan
 M0SVM,Bristol,United Kingdom,Sam,nan
 DG5ALX,,,,
+DO5STS,Wittingen,Germany,Stefan,Niedersachsen  Bremen
 KQ4JJI,,,,
 DB6AC,,,,
 DM6CH,,,,
@@ -3132,13 +3173,16 @@ SQ9MEP,Krakw,Poland,Maciej,maopolskie
 DG1FDV,Taunusstein,Germany,Thomas,Hessen
 KI4QWT,Huntsville,United States,Brandon S,Alabama
 DO3TG,Worpswede,Germany,Thomas,Niedersachsen  Bremen
+SP5GAD,Warszawa,Poland,Ksawery,mazowieckie
 N5LCP,Youngsville,United States,Laurent,Louisiana
 W4CUB,Great Falls,United States,Robert,Virginia
 SN9DX,Bytom,Poland,Lukasz,lskie
+KD0BTC,Thornton,United States,Kris,Colorado
 UF3B,Moscow,Russia,Vladimir,All Regions
 IW4DAH,,,,
 DL2ZT,Frankfurt Main,Germany,Egon,nan
 G0EZY,Doncaster,United Kingdom,Terry,England
+BA4TGZ,Nanjing,China,Wu,Shanghai Shandong Jiangsu
 HB3YHU,Muensingen,Switzerland,Daniel,nan
 EI2GYB,Carndonagh,Ireland,Steve,nan
 LX7LS,Luxemburg,Luxemburg,Luc,All Regions
@@ -3147,7 +3191,7 @@ DG4MK,Weimar,Germany,Micha,Thringen
 CT1ERW,Lisboa,Portugal,Antonio,Regiao de Lisboa
 DO2ATR,Koeln,Germany,Janosch,Nordrhein-Westfalen
 EB1ENT,Lugo,Spain,Jose,Lugo
-LZ5AE,Plovdiv,Bulgaria,Todor,All Regions
+LZ5AE,Plovdiv,Bulgaria,Todor,Plovdiv
 OE4CRC,Jois,Austria,Christian,nan
 F5BCB,CARQUEFOU,France,Jean-Francois,nan
 IW7DZR,,,,
@@ -3159,6 +3203,7 @@ OE9SAU,Goefis,Austria,Martin,Vorarlberg
 CT1ESJ,Sabugal GRD,Portugal,Henrique,Regiao Centro
 XE1GKC,Guadalajara,Mexico,Gustavo Francisco,Jalisco
 BI1LLM,Beijing,China,Xinyu,Beijing
+LUALERT-TRANSP,,,,
 KG7VOU,Phoenix,United States,Joseph,Arizona
 DK8HC,Ronnenberg,Germany,Christopher,Niedersachsen
 KC2OBI,Sayreville,United States,Joseph,New Jersey
@@ -3191,7 +3236,7 @@ M0KNW,Sheffield,United Kingdom,Matt,England
 DB5WI,Huerth,Germany,Wilhelm,nan
 CT2HKF,Vila Nova de Gaia,Portugal,Pedro,Regiao Norte
 VU2EOJ,Kharghar Navi Mumbai,India,Suresh,Maharashtra
-9A3CNN,Split,Croatia,Tomislav ,Split-Dalmatia
+9A3CNN,Split,Croatia,Tomislav,Split-Dalmatia
 DG4FR,Hattingen,Germany,Frank,Nordrhein-Westfalen
 IU5BON,Firenze,Italy,Alessio,Tuscany
 DO1GPX,Moers,Germany,Georg,Nordrhein-Westfalen
@@ -3216,9 +3261,9 @@ E20JFX,Bangkok,Thailand,Suebsak,Bangkok
 PD0WLM,Hardenberg,Netherlands,William,Overijssel
 DF1FS,Laichingen,Germany,Frank,Baden-Wuerttemberg
 EC2UT,Zaragoza,Spain,Oscar,Zaragoza
-SWLDE2AKL,,,,
 DO3MSW,Westum,Germany,Mirko,Rheinland-Pfalz  Saarland
 VE2TIH,Val-D,Canada,Michel,Quebec
+DG4HZ,nan,Germany,Thorsten,Hamburg  Schleswig-Holstein
 K7BLA,Princeton,United States,Ben,Texas
 ON8YY,Waterloo,Belgium,Charles,nan
 DL4APT,Hamburg,Germany,Lars,Hamburg
@@ -3290,6 +3335,8 @@ KB8FBZ,Steubenville,United States,James A,Ohio
 OE3HVH,Engabrunn,Austria,Heinz,nan
 KE0EEG,Bemidji,United States,Michael J,Minnesota
 F8BSY,Ste Marie la Mer,France,Xavier,Occitanie
+DM7DMH,,,,
+NJ8X,Somerville,United States,Ty,Tennessee
 M0KSP,Sheffield,United Kingdom,Karl,England
 DG4DX,Poing,Germany,Oliver,Bayern
 IW2FCH,Brescia,Italy,Tony,nan
@@ -3304,7 +3351,7 @@ DF1BB,Bochum,Germany,Bjrn,Nordrhein-Westfalen
 OE1KBC,Wien,Austria,Kurt,Wien
 HB3YPD,Lengnau,Switzerland,Serdal,Bern
 M0TFF,Wolverhampton,United Kingdom,Rob,nan
-SP9SVH,Krakow,Poland,Krzysztof,maopolskie
+SP9SVH,Zabierzow,Poland,Krzysztof,maopolskie
 DM5UE,Wolfsburg,Germany,Uwe,Niedersachsen  Bremen
 SP2FRN,Gdynia,Poland,Sebastian,pomorskie
 HB3YOS,,,,
@@ -3342,7 +3389,7 @@ DO4FB,Farsleben,Germany,Dirk,Sachsen-Anhalt  Mecklenburg-Vorpommen
 DL3MC,Olfen,Germany,Marco,Nordrhein-Westfalen
 ON8DH,Brussels,Belgium,David,Brussels
 K1JFJ,Monterey,United States,Kristian,Virginia
-DN9MIC,Siegen,Germany,Michael,Nordrhein-Westfalen
+DN9MIC,Siegen-Eisern,Germany,Michael,Nordrhein-Westfalen
 M6LFP,nan,United Kingdom,Peter,nan
 F5SWB,Molsheim,France,Dimitri,Alsace
 ON8DB,Gent,Belgium,Mathieu,nan
@@ -3377,7 +3424,7 @@ EA5GVK,Alguazas,Spain,Joaquin,Murcia
 HB3XZZ,Goldach,Switzerland,Michael,St. Gallen
 KI4ABS,Travelers Rest,United States,Eric,South Carolina
 EB3CXQ,Barcelona,Spain,Sergi,nan
-DN9UK,Reutlingen,Germany,Ulrich,Baden-Wuerttemberg
+DN9UK,,,,
 DB6SW,Riegelsberg,Germany,Sascha,Rheinland-Pfalz  Saarland
 M1EIV,Birkenhead,United Kingdom,Roy,England
 DK4HAA,Hamburg,Germany,Harm,Hamburg  Schleswig-Holstein
@@ -3385,10 +3432,12 @@ DC9VQ,Frankfurt am Main,Germany,Michael,Hessen
 DG2ACD,Wittingen,Germany,Diddy,Niedersachsen  Bremen
 OE5WAQ,Wels,Austria,Andreas,Oberoesterreich
 DM6RT,Hannover,Germany,Michael,Niedersachsen  Bremen
+W3HUB,Boca Raton,United States,Abner,Florida
 DL8NDR,Baunach,Germany,Erik,Bayern
 K1RTN,Denver,United States,Aleksander,Colorado
 HB3XZD,Courgevaux,Switzerland,Joel,Fribourg
-LZ2ISI,Gabrovo,Bulgaria,Ivan,All Regions
+LZ2ISI,Gabrovo,Bulgaria,Ivan,Gabrovo
+N0URB,Las Vegas,United States,John,Nevada
 KC2OQF,Brick,United States,Michael,New Jersey
 F0DEI,Moirans En Montagne,France,Toufik,Bourgogne-Franche-Comte
 DD4CS,nan,Germany,Christopher,nan
@@ -3398,9 +3447,9 @@ DO4YNH,Hoexter,Germany,Hans-Juergen,Nordrhein-Westfalen
 DO4BZ,Garbsen,Germany,Holger,Niedersachsen  Bremen
 KI6GOA,Corona,United States,Thomas,California
 DL4ARS,Bavaria,Germany,Lars,Bayern
-DM6MH,None,Germany,Matthias,nan
+DM6MH,None,Germany,Matthias,Berlin  Brandenburg
 LZ4NY,Vratsa,Bulgaria,Miro,All Regions
-HB3XYE,nan,Switzerland,Vladimir,Zurich
+HB3XYE,Opfikon,Switzerland,Vladimir,Zurich
 DC1AB,Bochum,Germany,Andreas,Nordrhein-Westfalen
 VE4ZIM,Falcon Lake,Canada,Kevin,Manitoba
 CR7BDX,Nadadouro,Portugal,Rafael,Regiao Centro
@@ -3435,6 +3484,7 @@ F4HBW,Vanosc,France,Kevin,Auvergne-Rhone-Alpes
 M0SKF,London,United Kingdom,Sam,nan
 PU5AAG,Itajai,Brazil,Adriano,Santa Catarina
 OZ0CHH,Billund,Denmark,Christian,Midtjylland
+DL4ASF,Braunschweig,Germany,Andreas,Niedersachsen  Bremen
 DO4DW,Neumagen-Dhron,Germany,Daniel,Rheinland-Pfalz  Saarland
 W8DA,Columbus,United States,Wolfgang,Ohio
 HS3LIQ,Digital Radio,Thailand,WiwatM,Nakhon Ratchasima
@@ -3449,7 +3499,6 @@ KN6RSY,San Jose,United States,Dylan,California
 HB3XVB,,,,
 NS4B,Memphis,United States,Clifton,Tennessee
 KC1DAW,Wethersfield,United States,Justin Rutty,Connecticut
-DE1SKP,,,,
 VU3YDA,Hooghly Chinsurah,India,Abhrajit,West Bengal
 PU2YSH,Cotia,Brazil,Antonio Henrique,Sao Paulo
 DG2RON,Mittenwalde,Germany,DG2RON,Brandenburg
@@ -3463,7 +3512,7 @@ E23JKQ,Mae Chaem,Thailand,Satit,Chiang mai
 DG4WO,Thale,Germany,Wilhelm,Sachsen-Anhalt  Mecklenburg-Vorpommen
 DL1RHS,Stephanskirchen,Germany,Richard,Bayern
 DO2KDE,nan,Germany,Klaus-Dieter,nan
-PA4MT,Eindhoven,Netherlands,Maarten,Noord-Brabant
+PA4MT,Son,Netherlands,Maarten,Noord-Brabant
 AJ7HA,nan,United States,Stefan,Wyoming
 DL3EL,Frankfurt,Germany,Thomas,Hessen
 PD1AJZ,WOUWSE PLANTAGE,Netherlands,Mat,Noord-Brabant
@@ -3486,18 +3535,17 @@ SQ9WO,Gliwice,Poland,Wojciech,nan
 DL1AFA,Breisach am Rhein,Germany,Alexander,Baden-Wuerttemberg
 KF5WFX,Amarillo,United States,Marcus D,Texas
 HS8KF,BANNADORM,Thailand,PORNNURAK(PAUL),Surat Thani
-DO4AT,Gttingen,Germany,Pierre,Niedersachsen  Bremen
+DO4AT,,,,
 EA3IWF,La Seu Durgell,Spain,Fernando,Lerida
 DO7RAM,Lutherstadt Wittenberg,Germany,Ralf,nan
 OE7CLI,Inzing,Austria,Juergen,nan
-DN9NW,Badem,Germany,Nils ,Rheinland-Pfalz  Saarland
 DG4ZF,Estenfeld,Germany,Markus,Bayern
 OE1AZS,Wien,Austria,Andreas,nan
 OE3PQA,Klein-Poechlarn,Austria,Marc,nan
 VA7ION,Prince George,Canada,Ion,British Columbia
 PP5FMM,Florianopolis,Brazil,Mateus,Santa Catarina
 DL4BBD,Oerel-Barchel,Germany,Rene,nan
-KJ6RPF,Los Alamos,United States,Gregory S,New Mexico
+KJ6RPF,San Francisco,United States,Gregory,California
 DN9MNG,Weingarten,Germany,Moritz,Baden-Wuerttemberg
 G0FHM,Downham Market,United Kingdom,Jay,England
 KG5HNY,Odessa,United States,Chase B,Texas
@@ -3506,6 +3554,7 @@ DL3GS,,,,
 DL3GR,Fulda,Germany,George,Hessen
 M7GDF,Rothwell,United Kingdom,Dave,England
 ON8IZ,Bredene,Belgium,Steve,West-Vlaanderen
+DN9MP,Neumagen Dhron,Germany,Michael,Rheinland-Pfalz  Saarland
 DL9ZAM,St Maergen,Germany,Johannes,Baden-Wuerttemberg
 N6NWS,Campbell,United States,Brian,California
 DF1VB,Dortmund,Germany,Jochen,Nordrhein-Westfalen
@@ -3526,8 +3575,10 @@ K4JSY,Acworth,United States,Jeremy,Georgia
 DB6KH,Bonn,Germany,Holger,Nordrhein-Westfalen
 KM4BBD,Knoxville,United States,Thorsten,Tennessee
 DB6KD,nan,Germany,Michael,nan
+OE3PRL,,,,
 OE3HCH,Leopoldsdorf,Austria,Christian,Niederoesterreich
 WG5ENE,Edgewood,United States,Gene,New Mexico
+LUALERT-TEST,,,,
 EA5KL,Alicante,Spain,Mariano,Alicante
 DL3BL,Meschede ,Germany,Boris,Nordrhein-Westfalen
 DO1PMS,Bettringen,Germany,Pascal,Baden-Wuerttemberg
@@ -3553,7 +3604,7 @@ KB2EAR,Kendall Park,United States,Scott,New Jersey
 DJ5KX,Bad Honnef,Germany,Stefan,Nordrhein-Westfalen
 W4KYS,,,,
 ON3SYZ,,,,
-F4GVA,Saint Etienne Lardeyrol,France,Christian ,Auvergne-Rhone-Alpes
+F4GVA,Saint Etienne Lardeyrol,France,Christian,Auvergne-Rhone-Alpes
 HB3YAC,Rietheim-Zurzach,Switzerland,Frank,Aargau
 VK2PNH,Balranald Nsw,Australia,Paul,New South Wales
 DF1OE,Neustadt,Germany,Roland,Niedersachsen  Bremen
@@ -3570,6 +3621,7 @@ DK8QS,Rheine,Germany,Sven,Nordrhein-Westfalen
 2W0BTQ,,,,
 AA4ZM,Orlando,United States,Abigail,Florida
 KB2VCX,Newton,United States,Kevin,New Jersey
+PD4JSE,Ouddorp  Z H  ,Netherlands,Leon,Zuid-Holland
 KC3JNI,Germantown,United States,Shigeru,Maryland
 K14,,,,
 DO4HSI,Kerpen Buir,Germany,Mareike,Nordrhein-Westfalen
@@ -3608,9 +3660,10 @@ PA3CDM,Apeldoorn,Netherlands,Lex,Gelderland
 F4BIT,NEUVES-MAISONS,France,F4BIT,nan
 DO9PAT,Nittenau,Germany,Patrick,Bayern
 JM1EOK,Tokyo,Japan,Shinji,Kanto
+M6GLD,Weeting,United Kingdom,Robert,England
 DK4HPA,Geesthacht,Germany,Peter,Schleswig-Holstein
 DL6DT,Wiesmoor,Germany,Michael,Niedersachsen
-SA5LKC,Mantorp,Sweden,Joakim ,Ostergotland
+SA5LKC,Mantorp,Sweden,Joakim,Ostergotland
 DD8MOK,Solms,Germany,Marcus,Hessen
 DO3NOW,Mallersdorf-Pfaffenb,Germany,Oliver,nan
 DH2UAI,Eisenhuettenstadt,Germany,Roland,nan
@@ -3624,7 +3677,6 @@ KD9CSU,Lake Villa,United States,David M,Illinois
 EA5HJX,Valencia,Spain,Alex,Valencia
 KE0MC,FORT COLLINS,United States,Mark,Colorado
 GW6WTK,Caerphilly,United Kingdom,Brian,Wales
-DO5TTB,Gladbeck,Germany,Thomas,Nordrhein-Westfalen
 DN8JSB,,,,
 W6MEW,Pittsburg,United States,Michael E,California
 DL3GWA,Mengen,Germany,Andreas,Baden-Wrttemberg
@@ -3658,15 +3710,16 @@ OE6JWD,Eggersdorf Bei Graz,Austria,Kd,Steiermark
 DG1GHR,Achern,Germany,Roland,nan
 DB9CR,Bayreuth,Germany,Christian,Bayern
 EA8IE,Las Palmas,Spain,Alejandro,Las Palmas
+LUALERT-ALL,,,,
 I8ULU,Piedimonte Matese,Italy,Giacomo,nan
 DG1GHY,Bodelshausen,Germany,Bernd,Baden-Wuerttemberg
 ON3LX,,,,
-KJ7T,Oregon City,United States,Thomas A,Oregon
+KJ7T,Oregon City,United States,Thomas,Oregon
 KC1JZZ,Gun Barrel City,United States,John,Texas
 KM4HQZ,Tucker,United States,Matthew,Georgia
 R3ABM,nan,Russia,Artem,nan
-N9SCX,Damascus,United States,Aaron ,Oregon
-LA5LIA,Sandnessjoen,Norway,Steinar,Nordland
+N9SCX,Damascus,United States,Aaron,Oregon
+LA5LIA,sandnessjoen,Norway,Steinar,Nordland
 OZ4AFQ,Esbjerg,Denmark,Kurt,nan
 DO2KHG,Schrecksbach,Germany,Karl-Heinz,Hessen
 IZ0CZW,Monte San Biagio,Italy,Giovanni,nan
@@ -3677,12 +3730,13 @@ CR7ATL,,,,
 DO8DJK,Knigsmoos,Germany,Julian,Bayern
 MM0NBW,North Berwick,United Kingdom,Craig,Scotland
 A14DH,,,,
-MM7AUH,Cullen,United Kingdom,Kamil Stankiewicz,Scotland
+MM7AUH,Cullen,United Kingdom,Kamil,Scotland
 K0RET,Memphis,United States,Ryan,Tennessee
 F4JTV,Castillon,France,Yoann,Provence-Alpes-Cote d Azur
 F1RMB,Grenoble,France,Daniel,nan
 DD6WG,nan,Germany,Dennis,Berlin  Brandenburg
 OE5PFM,Sipbachzell,Austria,Patrik,nan
+KB8JD,Wakeman,United States,Alexander,Ohio
 AF6FB,Perris,United States,Michael,California
 DC3TC,Regensburg,Germany,Tobias,Bayern
 DO1YHJ,Steinfurt,Germany,Heinz-Juergen,Nordrhein-Westfalen
@@ -3709,7 +3763,7 @@ VK2GRE,Mudgee,Australia,Rodney,New South Wales
 DL8FBI,Heringen,Germany,Peter,Hessen
 DB3BEF,Koblenz,Germany,Steffen,Rheinland-Pfalz  Saarland
 DL1ROE,Witten,Germany,Roetger,Nordrhein-Westfalen
-DL1AMT,Trier,Germany,Andreas ,Rheinland-Pfalz  Saarland
+DL1AMT,Trier,Germany,Andreas,Rheinland-Pfalz  Saarland
 DC4PAI,Nackenheim,Germany,Klaus Peter,Rheinland-Pfalz  Saarland
 DB9FH,,,,
 BG8KMG,chongqing,China,Jingzhang,Guizhou Sichuan 
@@ -3719,12 +3773,11 @@ DF4PD,nan,Germany,Willfried,nan
 N1KMW,,,,
 BI4TRM,Wuxi,China,Huang,Shanghai Shandong Jiangsu
 DG7SL,Eschborn,Germany,Olli,Hessen
-DH2FG,Friedberg,Germany,Frederik,Bayern
+DH2FG,Friedberg,Germany,Frederik,Hessen
 DL2MAN,Rieden,Germany,Manuel,Bayern
 CT1DRB,Aldeia de Paio Pires,Portugal,David Quental,nan
 DL2DOC,Waiblingen,Germany,Sebastian,Baden-Wrttemberg
 OE9CBV,Lauterach,Austria,Christoph,nan
-SWLLWALDINGER,,,,
 DB9DX,Moenchengladbach,Germany,Michael,nan
 DLOVK48REP,,,,
 M6GSN,London,United Kingdom,Glen,nan
@@ -3738,6 +3791,7 @@ DH4RWM,,,,
 OE3APM,Heidenreichstein,Austria,Andi,nan
 PA3TEO,Maasbree,Netherlands,Theo,Limburg
 VA2JDZ,Laval,Canada,Jesus,Quebec
+DA6BA,Neuhaus Rwg,Germany,Sebastian,Sachsen  Thueringen
 VK2GRH,Sanctuary Point,Australia,Glen R,New South Wales
 M5DOS,London,United Kingdom,Mateusz,England
 EA8EE,Las Palmas,Spain,Jose Manuel,Las Palmas
@@ -3767,7 +3821,7 @@ ON3URE,,,,
 DO1HSO,,,,
 DO1HSP,Uslar,Germany,Ole,Niedersachsen  Bremen
 E22WWZ,Bueng Kum,Thailand,Sumet,Bangkok
-N8XSF,Perrysburg,United States,Steven A,Ohio
+N8XSF,Perrysburg,United States,Steven,Ohio
 M0WFM,Cannock,United Kingdom,Mark,nan
 DO7ASU,Berlin,Germany,Andreas,Berlin
 F1IWQ,Semousies,France,Frederic,nan
@@ -3804,7 +3858,6 @@ UB3DQC,Moscow,Russia,Sergey,All Regions
 DO6UK,Uslar,Germany,Rainer,Niedersachsen  Bremen
 DL4STE,Essenbach,Germany,Stephan,Bayern
 SQ5FOX,Warszawa,Poland,Adrian,mazowieckie
-SWLFELIXREHER,,,,
 EI5IXB,Dublin,Ireland,Ana,All Regions
 DB9AZ,,,,
 2E0JXP,Plymouth,United Kingdom,Jani,nan
@@ -3898,7 +3951,7 @@ DG1GNR,Furtwangen,Germany,DG1GNR,nan
 DB1HC,Wiemerstedt,Germany,Manfredo,nan
 KC2NJV,Bellmore,United States,Wayne,New York
 CT2GBJ,,,,
-N9ALD,Plainfield,United States,Aaron,Indiana
+N9ALD,Mooresville,United States,Aaron,Indiana
 F1BBG,Tarascon sur ariege,France,Gerard,nan
 DL6UF,Renchen,Germany,Alexander,Baden-Wuerttemberg
 PA9MWO,Nieuw Vennep,Netherlands,Menno,Noord-Holland
@@ -3928,6 +3981,7 @@ DO7LD,Guxhagen,Germany,Tim,Hessen
 KF4JKY,Lexington,United States,Billy J,Kentucky
 DB9WY,Riede,Germany,Manfred,Niedersachsen
 DM1FD,Neuffen,Germany,Frank,Baden-Wrttemberg
+DK5TTB,Gladbeck,Germany,Thomas,Nordrhein-Westfalen
 DD7MK,Hamburg,Germany,DD7MK Max,Hamburg
 OH2DND,Vantaa,Finland,Jae,All Regions
 DH2WS,Eitorf,Germany,Wolfgang,Nordrhein-Westfalen
@@ -3988,8 +4042,8 @@ SP3VSS,Poznan,Poland,Artur,wielkopolskie
 LY4PR,Obeliai,Lithuania,Romualdas,All Regions
 S59VEG,Ljubljana,Slovenia,Radioklub,Osrednjeslovenska
 DO7HS,Essenbach,Germany,Helmut,Bayern
-SWLANTOINE,,,,
 DL6OW,Muelheim,Germany,Daniel,nan
+MW7GRY,Cardiff,United Kingdom,Mark,Wales
 KC1KKB,Boscawen,United States,Jonathan,New Hampshire
 KM6WXN,Panorama City,United States,Peter,California
 G7NIZ,Eastbourne,United Kingdom,Tony,England
@@ -4015,7 +4069,6 @@ DJ1NNI,,,,
 AD9BU,Mattoon,United States,James,Illinois
 DO7ATU,Burg,Germany,Marco,Sachsen-Anhalt  Mecklenburg-Vorpommen
 BH7KCJ,Futian Shenzhen,China,Eric,Hunan Guangdong Guangxi Hainan
-DE1CEW,,,,
 DD7KT,Dachau,Germany,Karl,Bayern
 DL2MRK,Giessen,Germany,Manfred,nan
 DO7KE,Porta Westfalica,Germany,Kevin,Nordrhein-Westfalen
@@ -4039,6 +4092,7 @@ DC4HP,,,,
 DL8OBH,Ilsede,Germany,Olaf,Niedersachsen  Bremen
 OZ7KBR,Bagsvrd,Denmark,Kaspar,nan
 PU2TNZ,Sao Paulo,Brazil,Jose,Sao Paulo
+M5LOW,Newcastle-Upon-Tyne,United Kingdom,Jason,England
 DB6TOM,Taura,Germany,Thomas,nan
 DC4HF,Helmstedt,Germany,Stefan,Niedersachsen  Bremen
 DO8MIM,Dren,Germany,Michael,Nordrhein-Westfalen
@@ -4051,7 +4105,7 @@ BH2TVR,DaLian,China,Li,Heilongjiang Jilin Liaoning
 DH0GDE,Muellheim,Germany,Stephan,nan
 DB9OW,Wunstorf,Germany,Lukas,Niedersachsen
 BG8KOC,Chongqing,China,Conrad,Heilongjiang Jilin Liaoning
-BG8KOE,Chongqing,China,Song,Guizhou Sichuan 
+BG8KOE,Chongqing,China,Song,Sichuan Guizhou Chongqing Yunnan
 W0KJM,Fort Collins,United States,Kyle,Colorado
 M0VSE,Leicester,United Kingdom,Phil,nan
 BG5BUP,Jiaxing Zhejiang,China,Lijian,Zhejiang Fujian Jiangxi
@@ -4085,12 +4139,14 @@ DM1AS,Berlin,Germany,Ansi,Berlin  Brandenburg
 DB1MUC,Markt Schwaben,Germany,Harald,Bayern
 M0VVA,,,,
 G1LPW,Stafford,United Kingdom,Ivan,England
+DA6NW,Badem,Germany,Nils,Rheinland-Pfalz  Saarland
 BH8VJH,Kunming,China,format,nan
 OE3ICU,nan,Austria,Christoph,nan
 KJ7COZ,North Las Vegas,United States,Prince,Nevada
 DL1SMA,Dornstetten,Germany,Martin,Baden-Wuerttemberg
 MI7DJT,Magherafelt,United Kingdom,Eamon,Northern Ireland
 PD8JO,Amsterdam,Netherlands,Joerg,Noord-Brabant
+LUALERT-RESCUE,,,,
 HA5OGR,Dunavarsany,Hungary,Lajos,Pest  Eger  Erd  Miskolc  Salgotarjan  Szolnok
 NC6K,Windsor,United States,Eric,Colorado
 DH2RL,Ergoldsbach,Germany,Hans-Juergen,Bayern
@@ -4100,7 +4156,6 @@ DL6NM,Wilhermsdorf,Germany,Michael,Bayern
 LU7DGG,Lanus Oeste,Argentina Republic,Gustavo Gabriel,Buenos Aires
 MM7SNM,Arbroath,United Kingdom,Stefan,Scotland
 DM9PT,,,,
-SWLJANHIJAZI,,,,
 DJ0GX,Friesenheim,Germany,Joerg,Baden-Wrttemberg
 KE8LEA,Springfield,United States,Alex,Ohio
 BH6PEI,Anyang,China,Kaimao,Henan Hubei Anhui
@@ -4126,6 +4181,7 @@ DO7AJ,Densborn,Germany,Armin,Rheinland-Pfalz  Saarland
 OH2DKY,Helsinki,Finland,Juhani,All Regions
 BG3HM,Hun Lun Bei Er,China,Sheng Li,nan
 G7EOG,Grimsby,United Kingdom,Carl,nan
+DG6OAG,Hameln,Germany,Klaus,Niedersachsen  Bremen
 DB0SEL,,,,
 DM9KT,Kindelbrck,Germany,Tino,Sachsen  Thueringen
 M0NGY,Godalming,United Kingdom,Jon,England
@@ -4144,12 +4200,11 @@ PD1DMR,Papendrecht,Netherlands,Rex,Zuid-Holland
 DG6OAY,Kiel,Germany,Frank,Hamburg  Schleswig-Holstein
 WB5LFS,Toano,United States,Marcus O,Virginia
 KC1KSC,Tiverton,United States,Hamshack,Rhode Island
-SWLMARKUS,,,,
 DK3DO,Buende,Germany,Do,nan
 W0BSM,Grand Forks,United States,Brian,North Dakota
 S56CT,Sevnica,Slovenia,Tilen,Posavska
 DB9JU,Berlin,Germany,Benjamin,Berlin
-9W4GPA,nan,Malaysia,Hafizi,West Malaysia
+9W4GPA,Bandar Puncak Alam,Malaysia,Hafizi,West Malaysia
 LX1US,Mertzig,Luxemburg,Claude,nan
 SQ9IUB,Krakow,Poland,Kamil,maopolskie
 G7VQV,Hampshire,United Kingdom,Allan,England
@@ -4173,7 +4228,7 @@ DH0GFW,,,,
 WU7ANG,Reno,United States,Jacob,Nevada
 BG8CDQ,chengdu,China,Wan,nan
 DL1SEM,Sachsenheim,Germany,Markus,Baden-Wrttemberg
-DG7ABL,Braunschweig,Germany,Jens,Niedersachsen
+DG7ABL,Braunschweig,Germany,Jens,Niedersachsen  Bremen
 PY2TWI,Sao Paulo,Brazil,Rogerio,Sao Paulo
 DK3DE,Sibbesse,Germany,Detlef,Niedersachsen
 OE5OMP,Rohrbach-Berg,Austria,Peter,nan
@@ -4185,10 +4240,12 @@ ON4XAV,Sprimont,Belgium,Xavier,nan
 DB9MW,Bad Honnef,Germany,Werner,Nordrhein-Westfalen
 OK2IT,nan,Czech Republic,Jiri,South Moravian Region
 YD1ION,Bandung,Indonesia,Kiki,Jawa Barat
+DA6KM,Winsen-Aller,Germany,Marcus,Niedersachsen  Bremen
 ZL1LAC,Orewa,New Zealand,Leith,North Island 1
 R1CBF,,,,
 BG8KUS,Chongqing,China,Dx,nan
 DJ8TK,,,,
+EA5HKR,Albacete,Spain,Nacho,Albacete
 DL6JJ,Karlsruhe,Germany,Jadyn,Baden-Wuerttemberg
 BG7QDA,Fang Cheng Gang,China,Xie,Hunan Guangdong Guangxi Hainan
 SP9WP,Ruda Slaska,Poland,Wojciech,lskie
@@ -4203,8 +4260,9 @@ KO6KQW,Chino Hills,United States,Wei,California
 DH2MD,Bretten,Germany,Michael,Baden-Wuerttemberg
 OE7DRT,Laengenfeld,Austria,Dominic,Tirol
 MM3XGP,,,,
+LUALERT-RED,,,,
 DL6IE,Worms,Germany,Stefan S,Rheinland-Pfalz
-LX1XC,Hagen  ,Luxemburg, Steve ,nan
+LX1XC,Hagen  ,Luxemburg,Steve,nan
 VK1AO,Corlette,Australia,Alan,New South Wales
 R1CCC,nan,Russia,Vitalii,nan
 ON3DB,Arendonk,Belgium,Jan,nan
@@ -4248,15 +4306,13 @@ LA2JUA,Ytre Enebakk,Norway,Hans Martin,Akershus
 YO8TEH,Bacau,Romania,Izzy,Bacau  Botosani  Iasi  Neamt  Suceava  Vaslui
 KO4LCO,,,,
 DK2AM,Bockhorn,Germany,Dieter,Niedersachsen
+HA2ECY,Tatabanya,Hungary,Timea,Gyr-Moson-Sopron
 DO5DTV,Odenthal,Germany,Dennis,Nordrhein-Westfalen
 OE7WKJ,Kitzbuehel,Austria,Walter,nan
 DL6ABE,Bhl,Germany,Andreas,Baden-Wuerttemberg
 PD0PVR,Tholen,Netherlands,John,Zeeland
 HB9TQL,Pratteln,Switzerland,Marco,nan
-SWLMTV1,,,,
-SWLMTV2,,,,
 F4IYY,NICE,France,Leopold,Provence-Alpes-Cote d Azur
-SWLMTV3,,,,
 KO6AGZ,Hayward,United States,Abby,California
 IW0FUT,nan,Italy,Stefanelli,Lazio  Umbria  Sardinia
 DL5CV,Reichelsheim,Germany,Christian,Hessen
@@ -4270,6 +4326,7 @@ SA7BSK,Malmo,Sweden,Kevin,Skane
 SP1RAC,Koszalin,Poland,Kazimierz,zachodniopomorskie
 VK2FLY,Kings Cross,Australia,Matthew,New South Wales
 KF0DYT,St  Paul,United States,Dan,Minnesota
+M8DCE,Portsmouth,United Kingdom,David,England
 DO4RTC,Kemnath-Stadt,Germany,Bruno,nan
 DL7LTM,Leipzig,Germany,Torsten,Sachsen
 DB0BIG,Ostfildern,Germany,Clubstation,Baden-Wrttemberg
@@ -4278,6 +4335,7 @@ HB9TPR,Berikon,Switzerland,Remo,nan
 DL1KDA,,,,
 DL5BW,Vellmar,Germany,Baldur,Hessen
 DG6TE,nan,Germany,Markus,Berlin  Brandenburg
+DL1STB,Dsseldorf,Germany,Steffen,Nordrhein-Westfalen
 DO2LMV,Oldenburg,Germany,Manuel,Hamburg  Schleswig-Holstein
 BD8CHI,Mian Yang City  Si Chuan Province ,China,Shao Lin,Guizhou Sichuan 
 EA5IJJ,Albacete,Spain,Thempra,nan
@@ -4288,12 +4346,12 @@ DM8AE,Burkhardtsdorf,Germany,Uwe,Sachsen
 PD7WL,Woudrichem,Netherlands,Willem-Jan,Noord-Brabant
 DB8AS,Kassel,Germany,Joachim,Hessen
 DM8AK,Munich,Germany,Antonijo,nan
+KJ5CWR,Fayetteville,United States,Bradley,Arkansas
 ON3NGL,Nivelles,Belgium,Alice,Wal. Brabant
 NH7AQ,Wewoka,United States,John,Oklahoma
 F4IRX,GENERAC,France,Stephane,Occitanie
 DK1YY,Kiel,Germany,Jan,Hamburg  Schleswig-Holstein
 F4ISE,Sassenage,France,Nicolas,nan
-DE2OMF,,,,
 HA2EBO,Tatabanya,Hungary,Laszlo,Gyr-Moson-Sopron
 DH1BC,Oldenburg,Germany,Michael,Niedersachsen
 KC0WUV,Columbus,United States,Philip P,Ohio
@@ -4354,7 +4412,7 @@ ZL1KFM,Te Kauwhata,New Zealand,Kevin,North Island 1
 JFW5,,,,
 PA8F,Bodegraven,Netherlands,Fred,Zuid-Holland
 DO5WE,Vellmar,Germany,Wolfhard,Hessen
-PU1XIF,Sao Paulo,Brazil,Lauro Henrique,Sao Paulo
+PU1XIF,Sao Paulo,Brazil,Lauro,Sao Paulo
 OK1AKT,,,,
 DB1EPO,Meerbusch,Germany,Olaf,Nordrhein-Westfalen
 SA7BNT,Bruzaholm,Sweden,Tim,nan
@@ -4370,6 +4428,7 @@ R4CHD,,,,
 DL9SBV,,,,
 DO1REV,Wilhelmsdorf,Germany,Volker,Baden-Wrttemberg
 ON2OB,Brussels,Belgium,Olivier,Brussels
+G3HUE,Sheffield,United Kingdom,Jake,England
 CN8VX,Mohammedia,Morocco,Youness,nan
 DO5RC,Villigendorf,Germany,Felix,nan
 DO7BTR,nan,Germany,Thomas,Niedersachsen  Bremen
@@ -4436,10 +4495,12 @@ DG3FBJ,,,,
 PD1TAK,Rijswijk,Netherlands,Merijntje,Gelderland
 DO8NGI,Ochsenfurt,Germany,Gisela,Bayern
 G7UAY,Chorley,United Kingdom,David Pickering,nan
+DL7DLC,Taunusstein,Germany,Felix,Hessen
 WA1OKB,Warwick,United States,John,Rhode Island
 DF3DD,Bergisch Gladbach,Germany,DF3DD-G19,Nordrhein-Westfalen
 SP9DS,Krakow,Poland,Dominik,maopolskie
 KW4KB,Goodview,United States,Brian,Virginia
+DL9JMH,Manubach,Germany,Michael,Rheinland-Pfalz  Saarland
 LX1FD,Esch-sur-Alzette,Luxemburg,Roland,nan
 PA0ROB,Emmen,Netherlands,Rob,Overijssel
 VE7NL,Prince George,Canada,Ion,British Columbia
@@ -4452,6 +4513,7 @@ PD0PXG,Herkenbosch,Netherlands,Wil,Limburg
 DO5MF,Helmstedt,Germany,Marcus,Niedersachsen  Bremen
 DO5MKK,Koesching,Germany,Markus,Bayern
 LX1FT,Schifflange,Luxemburg,Tom,nan
+LUALERT-SAFETY,,,,
 DD5MG,Braunschweig,Germany,Mario,Niedersachsen
 F4IJC,Ruy-montceau,France,Frederic,nan
 M6WYG,Durham,United Kingdom,Griff,nan
@@ -4561,7 +4623,6 @@ DK2PZ,Muenchen,Germany,Manfred,Bayern
 R2DWL,Stupino,Russia,Andrey,All Regions
 KC5EQX,,,,
 EA3CTN,Barcelona,Spain,Xavier,nan
-SWLMICHEL,,,,
 DH1WL,,,,
 DD6MS,Hainichen,Germany,Matthias,Sachsen
 N7KGB,Glendive,United States,Kevin,Montana
@@ -4571,7 +4632,7 @@ DO6LP,Hannover,Germany,Philipp,Niedersachsen  Bremen
 OE1DHK,Wien,Austria,Hannes,nan
 DO6LJ,Kappeln,Germany,Jens,Hamburg  Schleswig-Holstein
 PD7AC,Deurne,Netherlands,Theo,Noord-Brabant
-DO1RLF,SASA SAAR,Germany,Ralf,Rheinland-Pfalz  Saarland
+DO1RLF,Sasa Saar,Germany,Ralf,Rheinland-Pfalz  Saarland
 M6NLL,CHESTERFIELD,United Kingdom,Glynn,England
 DO5MTK,Kempten,Germany,Markus,Bayern
 VU3FBU,Kolkata,India,Krishnendu,West Bengal
@@ -4589,7 +4650,7 @@ KI5BHA,,,,
 W6KLS,Lawrence,United States,Erick,Massachusetts
 N1RIJ,Canterbury,United States,Jonathan,New Hampshire
 N3XOL,Sykesville,United States,Nyxolyno,Maryland
-LY3PH,Vilnius,Lithuania,Ernest,nan
+LY3PH,Vilnius,Lithuania,Ernest,All Regions
 DJ7XU,Muenchen,Germany,Hermann H,nan
 DK2KL,Bremen,Germany,Jens,Niedersachsen  Bremen
 G8PJC,WOKINGHAM,United Kingdom,John,nan
@@ -4638,7 +4699,7 @@ M0DMP,Newcastle Upon Tyne,United Kingdom,David Pye,England
 N8NOE,Waterford,United States,Jeffrey,Michigan
 F4JFO,Boutaresse,France,Yannick,Auvergne-Rhone-Alpes
 SA4BHE,Ludvika,Sweden,Johan,Dalarna
-ZL3JH,nan,New Zealand,James C,South Island
+ZL3JH,None,New Zealand,James,South Island
 DB8TS,Butzbach,Germany,Tobias,Hessen
 VE3UDP,Grand Valley,Canada,Justin,Ontario
 DO6IL,Kamp-Lintfort,Germany,Ingo,Nordrhein-Westfalen
@@ -4657,9 +4718,10 @@ VK2WAY,Sydney,Australia,Jared,New South Wales
 W1DNS,Brookfield,United States,Colin,Connecticut
 DF2REY,Dorsten,Germany,Freya,Nordrhein-Westfalen
 MM7CJS,Leven,United Kingdom,Craig,nan
-LZ2PCB,Varna,Bulgaria,Vladislav I,All Regions
+LZ2PCB,Varna,Bulgaria,Vladislav,nan
 KO6JGK,Venice,United States,Tristan,California
 DL7MAC,Geretsried,Germany,Sebastian,Bayern
+DB5ALX,Bielefeld,Germany,Alex,Nordrhein-Westfalen
 M0UPM,Romford,United Kingdom,Dave,England
 DG7AW,nan,Germany,Andreas,Baden-Wuerttemberg
 DG4RBS,Hohenfels,Germany,Stefan,Baden-Wrttemberg
@@ -4702,8 +4764,9 @@ OE9TEV,Gtzis,Austria,Tobias,Vorarlberg
 DL9KAR,,,,
 DO6BD,Bergheim,Germany,Daniel,Nordrhein-Westfalen
 DO4BMW,Neu-Anspach,Germany,Benny,Hessen
-DB8MG,Nuernberg,Germany,Daniel,nan
+DB8MG,Langenzenn,Germany,Daniel,Bayern
 DM8LE,Ravensburg,Germany,Leandro,Baden-Wuerttemberg
+WO0C,Eagan,United States,Benjamin,Minnesota
 LX9AK,Kayl,Luxemburg,ADRAD-Kyldall,nan
 DK2IP,Buxtehude,Germany,Luiz,Niedersachsen  Bremen
 R3NB,Kostroma,Russia,Mikhail,All Regions
@@ -4736,7 +4799,7 @@ DH1OK,Backnang,Germany,Olaf,Baden-Wrttemberg
 DL5KL,Bergisch Gladbach,Germany,Wolfgang,Nordrhein-Westfalen
 DJ7UP,,,,
 DO1JAW,,,,
-BG3LKI,Hulun Buir,China,Li,nan
+BG3LKI,Hulunbuir,China,Li,Inner Mongolia 
 WA2JNF,Brooklyn,United States,Stuart,New York
 BG3LKF,Manzhouli,China,chao,Heilongjiang Jilin Liaoning
 DK2CL,Mainz,Germany,Chris,Rheinland-Pfalz
@@ -4748,16 +4811,18 @@ IK1QAD,Loano,Italy,Valter,nan
 DK2CW,Wuerzburg,Germany,Chris,Bayern
 OE7ERJ,Zams,Austria,Erwin,nan
 KF4REN,,,,
+LUALERT-GEOPHY,,,,
 DL2FJK,Darmstadt,Germany,Jens,Hessen
 DH1JH,Heroldsberg,Germany,Joachim,Bayern
 OE5PME,Traun,Austria,Marvin,Oberoesterreich
 DL5FH,Friedberg,Germany,Olaf,Bayern
 PD0HXT,Breda,Netherlands,Jaap,Noord-Brabant
 DL5EK,nan,Germany,Eric,nan
-BG0CAB,Urumqi,China,Sun ,Xinjiang
+BG0CAB,Urumqi,China,Sun,Xinjiang
 DK2BN,Schoenberg,Germany,Bastian,nan
 DH1IS,Neustadt Weinstrae,Germany,Ingo,nan
 DC2ZP,Berlin,Germany,Daniel,Berlin
+DA6BOC,Weissenfels,Germany,Rudolf,Sachsen-Anhalt  Mecklenburg-Vorpommen
 K8HAX,Dayton,United States,Brian,Ohio
 DK2BT,Berne-Bardenfleth,Germany,Till,Niedersachsen  Bremen
 ON3MNT,Bruxelles,Belgium,Julien,Brussels
@@ -4782,7 +4847,6 @@ OE9TKH,Lustenau,Austria,Tom,nan
 F5MAP,Hirtzfelden,France,F5MAP,nan
 PB1S,Ter Apel,Netherlands,Bertwin,Groningen
 F4ALM,CHENOVE,France,Nicolas,nan
-SWLBORISOTT,,,,
 Z36IBR,Skopje,Macedonia,Ivan,All Regions
 G7DKY,Euxton,United Kingdom,Graham,nan
 DL5GU,Munich,Germany,Gunnar,nan
@@ -4794,4 +4858,4 @@ DH1KC,Leverkusen,Germany,Claus,Nordrhein-Westfalen
 DL4DAC,,,,
 KI6NAZ,Cerritos,United States,Josh,California
 KC1SEC,Madawaska,United States,Jason,Maine
-OE5YAP,Sauldorf,Austria,Andrea Patrizia,nan
+OE5YAP,Braunau,Austria,Andrea Patrizia,Oberoesterreich
