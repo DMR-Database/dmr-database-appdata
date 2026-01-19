@@ -1949,7 +1949,7 @@ GB3DF,Upper Denby,England,United Kingdom,Master,0,439.62500,234174,Fusion,234174
 GB7SX,Somerton Somerset,England,United Kingdom,Peer,10,430.90000,234175,BM,234175,0,,+7.6,M1AXM,TS1 TS2
 GB7YO,Milton Keynes,England,United Kingdom,Master,4,439.51250,234176,BM,234176,1,,-9.000,M0BOY,TS2
 GB7CT,Tring,England,United Kingdom,Peer,3,145.63750,234177,DMR-plus,234177,0,,-0.600,M0ZPU,TS1 TS2
-GB7TL,HORWICH,England,United Kingdom,Master,0,439.21875,234178,TetraPack,234178,0,Tetra TMO Repeater Connected to TetraPack,-9.000,G7TRL,Mixed Mode
+GB7TL,PRESTON,England,United Kingdom,Master,0,439.21875,234178,TetraPack,234178,0,Tetra TMO Repeater Connected to TetraPack,-9.000,G7TRL,Mixed Mode
 GB3LM,Lincoln,England,United Kingdom,Master,1,145.72500,234180,BM,234180,0,Details pending following testing phase,-0.600,M0TEF,TS1 TS2
 GB3XO,Redditch,England,United Kingdom,Master,1,433.02500,234181,BM,234181,0,Plan to use TG23585 BM as static TG most likely.,+5.000,M0PTN,TS1
 GB7KE,chatham kent,England,United Kingdom,Master,5,430.27500,234183,BM,234183,1,235,+9.000,M8SGG,TS1 TS2
@@ -2907,6 +2907,7 @@ SR6T,Stare Rochowice,dolnolskie,Poland,Master,1,438.55000,260063,"BM, DMR",26006
 SR8NA,Nienadowa,podkarpackie,Poland,Master,2,438.82500,260064,BM,260064,1,TS1 260,-7.60000,SP8BAR,TS1 TS2
 SR1K,Stargard,zachodniopomorskie,Poland,Master,1,145.70000,260065,BM,260065,0,"HYTERA RD-985<br>TS1: static tg2601, dynamic tg260<br>TS2: static TG26011",-0.600,SP1JT,TS1 TS2
 SR4BA,KIERTYNY,warmisko-mazurskie,Poland,Master,4,438.53750,260066,BM,260066,1,"260, 2604, 26041, 260414",-7.600,HF4OS,TS1 TS2
+SR5UZQ,Krze Duze,mazowieckie,Poland,Master,5,438.86250,260067,BM YSF,260067,1,None,-7.600,,TS1 TS2
 SR1KG,Kolobrzeg,zachodniopomorskie,Poland,Master,1,439.22500,260101,Brandmeister,260101,0,TG260 TG2601,-7.600,SQ1KW,TS1 TS2
 SR1UVX,Stargard,zachodniopomorskie,Poland,Master,1,439.38750,260102,Brandmeister,260102,0,,-7.600,SQ1GZG,TS1 TS2
 SR1UVH,Uznam Island,zachodniopomorskie,Poland,Master,1,439.02500,260103,Brandmeister,260103,0,,-7.600,SP1WSX,TS1 TS2
@@ -3929,7 +3930,7 @@ LZ0DMR,Sofia,,Bulgaria,Peer,1,439.10000,284000,IPSC2,284000,1,284<br>2840,-7.600
 LZ0ATV,Sofia Bulgaria,,Bulgaria,,1,439.42500,284001,BM,284001,0,,-7.600,LZ7DJ,TS1 TS2
 LZ0HAM,peak Botev,,Bulgaria,Peer,1,439.50000,284002,IPSC2,284002,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
 LZ0DDA,Peak Petrohan,,Bulgaria,Peer,1,438.45000,284003,IPSC2,284003,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
-LZ0DSD,Sliven,,Bulgaria,Peer,1,439.25000,284004,BrandMeister,284004,0,"The repeater operates in DMR mode in BrandMeister network, connected to XLX359B via BM2841.<br>Static talk groups: TS1 - TG284 and TS2 - TG284359. ",-7.600,LZ1KM,TS1 TS2
+LZ0DSD,Sliven,Sliven,Bulgaria,Peer,1,439.25000,284004,BrandMeister,284004,0,"The repeater operates in DMR mode in BrandMeister network, connected to XLX359B via BM2841.<br>Static talk groups: TS1 - TG284 and TS2 - TG284359. ",-7.600,LZ1KM,TS1 TS2
 LZ0DDF,Sofia Bulgaria,,Bulgaria,Peer,1,439.47500,284005,BM,284005,0,,-7.600,LZ7DJ,TS1 TS2
 LZ0WDX,Sofia,,Bulgaria,,1,439.25000,284006,DMR-plus,284006,0,,-7.600,LZ1WDX,TS1 TS2
 LZ0DAD,Neseber,,Bulgaria,Peer,1,438.50000,284008,IPSC2,284008,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
@@ -3959,7 +3960,7 @@ LZ0UNO,SOFIA-City,,Bulgaria,Master,1,438.25000,284031,"FreeDMR, ADN",284031,1,TS
 LZ0SAN,Sandanski,,Bulgaria,Peer,1,433.50000,284033,ADN,284033,1,TG284. Bulgaria ,-0.01,LZ1FA,TS2
 LZ0XLX,Sofia,,Bulgaria,Master,1,438.27500,284034,BM,284034,0,,-7.600,LZ3OM,TS1 TS2
 LZ0ADG,Gotse Delchev,,Bulgaria,Master,1,439.60000,284035,DMR-DSTAR-FUSION,284035,0,,-7.6,LZ1ADG,Mixed Mode
-LZ0DPM,Pomorie,,Bulgaria,Master,1,144.85000,284036,BM,284036,0,,+0.600,LZ1KM,Mixed Mode
+LZ0DPM,Pomorie,Burgas,Bulgaria,Master,1,144.85000,284036,BrandMeister,284036,0,,+0.600,LZ1KM,Mixed Mode
 LZ0ZLD,2080 zlatitca,Sofia,Bulgaria,Master,1,438.97500,284037,BM,284037,1,FCS28487,-7.600,LZ1PPD,TS2
 LZ0BLG,ZelenDol,,Bulgaria,Master,1,431.70000,284038,"BM,DMR+",284038,0,ADN SYSTEMS 284-TS2<br>DMR+ 284-TS1<br>BM 2841-TS1,+7.6,LZ3VEK,TS1 TS2
 LZ0DSH,Shumen,,Bulgaria,Peer,1,438.27500,284039,BM,284039,0,,-7.600,LZ4ZD,TS1 TS2
@@ -4043,7 +4044,7 @@ YM3KBU,Bursa,,Turkiye,,1,439.16250,286162,BM,286162,0,,-7.600,TA3ASN,TS1 TS2
 YM3KI,Inegol / Bursa,,Turkiye,,1,439.37500,286163,None,286163,0,,-7.600,TA3AHS,
 YM3KCN,Canakkale,,Turkiye,,1,439.15000,286170,BM,286170,0,,-7.600,TA3OER,TS1 TS2
 YM8KS,Gaziantep,Southeastern Anatolia Region,Turkiye,Master,1,439.40000,286270,BM,286270,1,,-7.600,TA8L,TS1 TS2
-YM5KY,Mersin,Mediterranean Region,Turkiye,Peer,1,439.17500,286330,BM,286330,1,28633<br>,-7.600,TA5O,Mixed Mode
+YM5KY,Mersin,Mediterranean Region,Turkiye,Peer,1,439.17500,286330,BM,286330,1,28633,-7.600,TA5O,Mixed Mode
 YM5KMS,Mersin,Aegean Region,Turkiye,Master,1,439.42500,286331,DMR,286331,1,,-7.600,TA5AHO,TS1
 YM5KSE,Erdemli Mersin,Aegean Region,Turkiye,Master,1,145.60000,286333,DMR,286333,1,,-0.600,TA5AHO,TS1
 YM1KE,Istanbul,,Turkiye,,1,439.17500,286340,BM,286340,0,,-7.600,TA1MD,TS1 TS2
@@ -4147,12 +4148,12 @@ Z35USR,Strumica,,Macedonia,Master,1,434.60000,294007,BrandMeister,294007,1,,-1.6
 Z35VSR,Strumica,,Macedonia,Master,1,145.60000,294008,BrandMeister,294008,1,"294, 2949",-0.600,Z33AI,TS1 TS2
 Z36AMB,Prilep Severna Makedonia,,Macedonia,Master,1,438.65000,294009,"BM,DMR-MARC",294009,1,"TG 1 294 TG 2 2948,220,2949",-7.600,Z36AMB,TS1 TS2
 Z35UGE,Gevgelija,,Macedonia,Master,1,434.60000,294010,BrandMeister,294010,1,,-1.600,Z33AI,TS1 TS2
-Z35UEA,Skopje,,Macedonia,Master,1,434.70000,294011,BrandMeister,294011,1,294<br>2941<br>29444,-1.600,Z37RAM,TS1 TS2
+Z35UEA,Skopje,All Regions,Macedonia,Master,1,434.70000,294011,BrandMeister,294011,1,294<br>2941<br>29444,-1.600,Z37RAM,TS1 TS2
 Z35VTK,Bitola,,Macedonia,Master,1,145.60000,294012,BrandMeister,294012,1,,-0.600,Z33AI,TS1 TS2
 Z35VKZ,Kozuf,,Macedonia,Master,1,145.65000,294013,BrandMeister,294013,1,,-0.600,Z33AI,TS1 TS2
-Z35UOH,Ohrid,,Macedonia,Master,1,434.65000,294014,BrandMeister,294014,1,294<br>2946<br>29444,-1.600,Z37RAM,TS1 TS2
+Z35UOH,Ohrid,All Regions,Macedonia,Master,1,434.65000,294014,BrandMeister,294014,1,294<br>2946<br>29444,-1.600,Z37RAM,TS1 TS2
 Z35UPP,Prilep Severna Makedonia,,Macedonia,Master,1,438.65000,294015,"BM,DMR",294015,1,294,-7.600,Z37S,TS1 TS2
-Z35USI,Veles,,Macedonia,Master,1,438.82500,294016,BrandMeister,294016,1,294<br>29413<br>29444<br>,-7.6000,Z37RAM,TS1 TS2
+Z35USI,Veles,All Regions,Macedonia,Master,1,438.82500,294016,BrandMeister,294016,1,294<br>29413<br>29444,-7.6000,Z37RAM,TS1 TS2
 Z35VPP,Prilep Severna Makedonia,All Regions,Macedonia,Peer,1,145.60000,294017,"BM,DMR-MARC",294017,1,"Slot1:294<br>Slot2:2948,29411",-0.600,Z31ABZ,TS1 TS2
 HB0FL,Gaflei,,Liechtenstein,,1,438.45000,295999,BrandMeister,295999,0,,-7.600,HB0TR,
 4O0LPG,Ljubovic Podgorica,,Montenegro,,1,145.60000,297001,DMR-plus,297001,0,,-0.600,4O3GB,TS1 TS2
@@ -6791,7 +6792,7 @@ K5GJ,Aldine,Texas,United States,Peer,9,440.47500,312431,Lone Star,312431,0,,+5.0
 WA7DMR,Ocean Shores,Washington,United States,Peer,1,146.41250,312432,PNWDigital,312432,0,PNWDigital.net<br>PNW-A c-Bridge<br>bridgewatch.pnwdigital.org,+1.000,NO7RF,TS1 TS2
 W4DMM,Murfreesboro,Tennessee,United States,Peer,1,444.30000,312433,Brandmeister,312433,1,,+5.000,W4DMM,TS1 TS2
 N7LF,Corbett,Oregon,United States,Peer,1,443.10000,312435,PNW Digital,312435,0,,+5.000,N7LF,TS1 TS2
-KC2REY,Dansville,New York,United States,Peer,1,441.96250,312436,BrandMeister,312436,0,,+5.000,KC2REY,TS2
+KC2REY,Dansville,New York,United States,Peer,1,441.96250,312436,BrandMeister,312436,0,,+5.000,KC2REY,TS1 TS2
 KD8REH,Kingsley,Michigan,United States,Master,1,443.35000,312437,"BM, TGIF",312437,1,TG 91 Worldwide<br>TG 93 North America <br>TG 2416<br>,+5.00,KD8REH,TS1
 K4IUG,CHARLESTON,South Carolina,United States,Master,1,443.45000,312438,NONE USE CONTACT99,312438,1,,+5.000,K4IUG,TS1 TS2
 KM7KK,Tucson,Arizona,United States,Peer,1,447.50000,312439,BM,312439,0,Europe 92<br>North America 93<br>Europe English 923<br>USA Bridge 3100<br>Southwest 3175<br>ECOMM US<br>AZ ECOMM 31040<br>USA EMCOMM 3100<br>English 913<br>AZ 10 Minute<br>USA Area 7<br>AZ Cactus TG 3185,-5.000,KM7KK,TS1 TS2
@@ -7486,7 +7487,7 @@ N8VPZ,Dowagiac,Michigan,United States,Peer,1,442.51250,313287,BM,313287,1,,+5.00
 WM8S,Friendswood area,Texas,United States,Peer,1,441.37500,313288,BM,313288,0,Motorola SLR5700. For incident and event use.,+5.000,WM8S,TS1 TS2
 KD2PWJ,New Brunswick,New Jersey,United States,Peer,1,440.45000,313289,dmr,313289,1,,+5.000,KD2PWJ,TS1
 W6THC,Palm Springs,California,United States,Peer,1,447.14000,313293,BM,313293,0,"This is a multimode D-STAR and P25 repeater located at Edom Hill near Palm Springs, CA. See PAPASYS.COM for more information.",-5.000,AA4CD,Mixed Mode
-W5XTR,Franklinton,Louisiana,United States,Master,5,443.35000,313294,Brandmeister,313294,0,,+5.000,W5XTR,TS1 TS2
+W5XTR,Franklinton,Louisiana,United States,Master,2,442.40000,313294,Brandmeister,313294,0,,+5.000,W5XTR,TS1 TS2
 KE2AEM,Bronx,New York,United States,Peer,7,445.47500,313295,BM,313295,0,,-5.000,KE2AEM,TS1 TS2
 KB1MMR,Middlefield,Connecticut,United States,Master,0,446.92500,313296,P25,313296,0,"P25 TGID 38105 for ""CT P25"" network, 1 (default) for local, 10200 North America, and 10201 North America TAC-1.",-5.000,KB1MMR,Mixed Mode
 WB9PHK,Sioux Falls,South Dakota,United States,Peer,0,443.06875,313299,ChicagoLand,313299,0,"Time Slot #1<br>3117 Illinois-1 (Illinois statewide)<br>3155 Wisconsin-1 (Wisconsin statewide)<br>31171 Illinois Fusion (Illinois sites)<br>31551 Wisconsif Fusion (Wisconsin sites)<br>TAC-312<br>TAC-317<br><br>Time Slot #2<br>3166 Local-2 (System wide)<br>3169 Midwest-2 (Midwest)<br>310 TAC-310<br>311 TAC-311<br><br> <br>Contact Name: Todd, WB9PHK<br>Website: https://wp.chicagoland-cc.org/",+5.000,WB9PHK,TS1 TS2
@@ -8219,7 +8220,7 @@ N1YKT,Hopkinsville,Kentucky,United States,Master,1,442.45000,314133,BM,314133,1,
 KH6BFD,Kailua Kona,Hawaii,United States,Peer,1,442.65000,314136,BM,314136,0,,+5.00,KH6BFD,TS1 TS2
 NC1D,New Ulm,Minnesota,United States,Master,1,420.55000,314137,BM,314137,1,The Dive 155 DMR<>YSF<>D*<br>,+5.000,NC1D,TS1 TS2
 K1LEO,Rockford,Minnesota,United States,Peer,1,443.70000,314139,K4USD,314139,0,"K4USD Network, bridged to many others",+5.000,K1LEO,TS1 TS2
-NG6K,Cedar Hills,Utah,United States,Peer,1,927.06250,314140,AmComm,314140,0,Motorola XPR8380,-25.000,NG6K,TS1 TS2
+NG6K,Provo,Utah,United States,Peer,1,927.06250,314140,AmComm,314140,0,Motorola XPR8380,-25.000,NG6K,TS1 TS2
 KE4GJG,London,Kentucky,United States,Master,1,444.50000,314141,BM,314141,0,TEST,+5.000,KE4GJG,Mixed Mode
 N9NOJ,Iola,Wisconsin,United States,Peer,1,145.11000,314142,bm,314142,0,,-0.600,N9NOJ,TS1 TS2
 K0RPT,Lincoln,Nebraska,United States,Peer,1,444.30000,314143,BM,314143,1,TS 1 for all non-local<br>TS 2 reserved for Local and Parrot,+5.000,K0RPT,TS1 TS2
@@ -8848,6 +8849,7 @@ KD4LXC,Gardendale,Texas,United States,Peer,14,444.83750,314841,Lonestar,314841,1
 N5LUY,Cypress,Texas,United States,Peer,7,444.47500,314842,Lone Star,314842,1,TS 1 TG 1 W. W.<br>TS 1 TG 13 W. E.<br>TS 1 TG 3 N.A.<br>TS 1 TG 310 TAC 310<br>TS 1 TG 3100 DCI<br>TS 2 TG 3148 TEXAS<br>TS 2 TG 3175 SOUTH<br>TS 2 TG 3185 CACTUS<br>TS 2 TG 2 2 LOCAL<br><br><br>Contact: <br>Email: tracyn5luy@gmail.com<br>Website: N/A,+5.000,N5LUY,TS1 TS2
 N5GMJ,Springtown,Texas,United States,Master,1,440.67500,314843,Dillo DMR,314843,0,None,+5.000,N5GMJ,TS1 TS2
 K5NOC,DUMAS,Texas,United States,Peer,14,443.01250,314844,Brandmister,314844,1,TS1: 3148 TEXAS <br>31480 TX CHAT<br>31481 NORTH TEXAS <br>31484 SOUTH EAST TEXAS<br>31488 CENTRAL TEXAS<br><br>TS2: 31483 West Texas<br>2 Local<br>31487 TEXAS ARES EMCOMM<br>3187707 Amarillo Allstar<br><br>Contact: Cory<br>Email: cory@KD5ROK.com,+5.000,K5NOC,TS1 TS2
+NG6K,Cedar Hills,Utah,United States,Peer,1,927.51250,314845,AmComm,314845,1,None,-25.000,,TS1 TS2
 W5PPC,Palo Pinto,Texas,United States,Master,1,145.19000,314846,Dillo DMR,314846,0,,-0.600,W5SUF,TS1 TS2
 W5PPC,Palo Pinto,Texas,United States,Master,1,442.87500,314847,Lone Star,314847,0,,+5.000,K5SXK,TS1 TS2
 KC5HWB,Corsicana,Texas,United States,Peer,9,442.92500,314849,CBridge 2.0,314849,1,www.DMRTexas.net,+5.000,KC5HWB,TS1 TS2
@@ -9462,7 +9464,7 @@ BR8SQJ,QuJing YunNan,Sichuan Guizhou Chongqing Yunnan,China,Master,1,439.87500,4
 BR2RSA,Shenyang,Heilongjiang Jilin Liaoning,China,Master,10,439.37500,460032,DMR-MARC,460032,1,Chinese Radio Sports Association,-7.600,BD2VAA,TS1 TS2
 BR6YH,hefei,Henan Hubei Anhui,China,Peer,11,439.27500,460033,BM,460033,0,TG1 460275,-8.00,BD6CA,TS1 TS2
 BR5AL,Hangzhou,Zhejiang Fujian Jiangxi,China,Master,1,439.87500,460034,"BM, HomeBrew Net",460034,0,"BR5AL is a home-brew mmdvm repeater made by BG5HHP(for the all software part) and BG5HXE(for the all radio hardware part)<br><br>It was known as repeater(460501)<br><br>And TG460501 is linked to YSF reflector ""CN CC#1"" (18829) , the dashboard address: https://mmdvm.cc/ysf/<br><br>Call= BR5AL<br><br>Power= 12 Watt<br><br>Height= 400m<br><br>Radio= GP88 for RX and UP450 for TX, A harden NTH-version-based modem board<br><br>Host Box= OpenWrt Linux Box (MT7620 chip with 128M/32M) + DRCC-DVM modem board<br><br>Slot2: Linked to local RF: 439875/CC1/TG460501<br><br>Slot1: Local-only RF : CC1/TG1",-9.000,BG5HHP,Mixed Mode
-BR8SCX,Chuxiong Yunnan,Sichuan Guizhou Chongqing Yunnan,China,Peer,15,439.73500,460038,China Mobile,460038,1,TG46001<br>TG460871,-9.610,BH8SEL,TS1
+BR8SCX,Chuxiong Yunnan,Sichuan Guizhou Chongqing Yunnan,China,Peer,15,439.73500,460038,China Mobile,460038,1,TG46001<br>TG460871,-10.000,BH8SEL,TS1
 BR6QAE,Anhui,Henan Hubei Anhui,China,Master,8,439.55000,460039,BM,460039,0,TG46001<br>TG460553,-8.000,BG6FEA,TS1 TS2
 BR9GB,Lanzhou,Shaanxi Ningxia Gansu Qinghai ,China,Peer,1,431.90000,460040,BM,460040,0,"TG46001,TG460931",+8.000,BG9GYH,TS1 TS2
 BR4SN,XuZhou,Shanghai Shandong Jiangsu,China,Master,1,438.55000,460041,BM,460041,1,,-4.975,BD4TWO,TS1 TS2
