@@ -3279,6 +3279,7 @@ DB0DND,Oberhausen,Bayern,Germany,Peer,1,438.86250,262241,BM,262241,1,,-7.6,DL2UK
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,430.38750,262242,BM,262242,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-0.00001,DJ3LE,TS2
 DB0PEG,Pegnitz,Bayern,Germany,Master,1,438.93750,262243,Brandmeister,262243,1,None,7.600,,TS1 TS2
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,439.92500,262244,BM,262244,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.400,DJ3LE,TS1 TS2
+DO0ELM,Hemkenrode ,Niedersachsen / Bremen,Germany,Master,1,439.17500,262245,DMR/FM,262245,1,None,-7.600,,Mixed Mode
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,262250,DMR-plus,262250,0,,-7.600,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,262251,DMR-plus,262251,0,,-0.600,DL5KUA,TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,262257,BM,262257,0,,-9.400,DF1RL,TS1 TS2
@@ -6039,7 +6040,6 @@ N6DOZ,Los Gatos,California,United States,Peer,7,443.30000,311600,TGIF.network,31
 WA7GSK,Boise,Idaho,United States,Master,1,444.07500,311601,Utah-DMR,311601,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = World Wide English<br>Time Slot #1 - Group Call 3 = U.S. / English Speaking Countries<br>Time Slot #1 - Group Call 311 = Tac 311<br>Time Slot #1 - Group Call 13149 = Utah State 2<br>Time Slot #1 - Group Call 1776 = USA<br>Time Slot #1 - Group Call 9998 = Echo Test<br>Time Slot #2 - Group Call 2 = Local Only<br>Time Slot #2 - Group Call 3177 = Mountain Regional<br>Time Slot #2 - Group Call 3149 = Utah State 1<br>Time Slot #2 - Group Call 310 = Tac 310<br>Time Slot #2 - Group Call 3100 = Bridge Group<br><br>Coverage Map <br><br>Contact Name: Allen, WA7GSK<br>Website: dmr-utah.net<br><br>Email:allen.duddles@gmail.com",+5.000,WA7GSK,TS1 TS2
 W7CIA,CASCADE,Idaho,United States,Peer,1,146.96000,311602,Brandmeister,311602,0,,-0.600,W7CIA,TS1 TS2
 N7IBC,Yellow Pine,Idaho,United States,Peer,1,444.12500,311603,Brandmeister,311603,0,,+5.000,N7IBC,TS1 TS2
-KC7MCC,NEW MEADOWS,Idaho,United States,Peer,1,442.50000,311604,Brandmeister,311604,0,,+5.000,N7IBC,TS1 TS2
 WA7DMR,Coeur dAlene,Idaho,United States,Peer,1,440.92500,311605,pnwdigital.net,311605,1,"Blossom Peak, Coeur d'Alene, ID",+5.000,N7MOT,TS1 TS2
 W7RAC,Driggs,Idaho,United States,Peer,1,449.80000,311606,Brandmiester,311606,0,,-5.000,AE7ID,TS1
 W7ELE,MCCALL,Idaho,United States,Peer,1,146.64000,311607,BRANDMEISTER,311607,0,,-0.600,W7ELE,TS1 TS2
@@ -7591,11 +7591,11 @@ N2IXU,Toms River,New Jersey,United States,Peer,1,441.90000,313420,Bronx-TRBO,313
 WA2JWR,Toms River,New Jersey,United States,Peer,3,445.77500,313421,Bronx-TRBO,313421,1,"Time Slot<br>#1 - Group Call TG 444 NY Metro System wide-FT<br>#1 - Group Call TG 1 = World Wide - PTT<br>#1 - Group Call TG 3 = North America - PTT<br>#1 - Group Call TG 13 = World Wide English-PTT<br>#1 - Group Call TG 3172 = NE / Regional-PTT<br>#1 - Group Call TG 310 = Tac 310 -PTT<br>#1 - Group Call TG 311 = Tac 311 -PTT<br>#1 - Group Call TG 312 = Tac 312 -PTT<br>#1 - Group Call TG 3100 = DCI Bridge -PTT<br>#1 - Group Call TG 9998 = Parrot , Audio Test Server-PTT<br>#2 - member only private Talk Groups<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Bernie, NY4Z<br>Email: ny4z@yahoo.com",-5.000,WA2JWR,TS1 TS2
 N2ICV,Cape May,New Jersey,United States,None,2,443.05000,313422,BrandMeister,313422,0,BrandMeister,+5.000,N2ICV,TS1 TS2
 KM4WUD,Paramus,New Jersey,United States,Master,0,444.15000,313423,MotoDMR,313423,1,"Callsign: KM4WUD<br>Frequency: 444.150<br>Offset: +5.000<br>Color Code: 0<br><br>Paramus, New Jersey<br><br>Time Slot: 1<br>Group Call: 1 = Worldwide (PTT)<br>Group Call: 3 = North America (PTT)<br>Group Call: 13 = Worldwide English (PTT)<br>Group Call: 91 = BM-Worldwide (PTT)<br>Group Call: 93 = BM-North America (PTT)<br>Group Call: 113 = UA English 1 (PTT)<br>Group Call: 123 = UA English 2 (PTT)<br>Group Call: 133 = DMR+ USA (PTT)<br>Group Call: 143 = DMR+ UK (PTT)<br>Group Call: 310 = TAC-310 (PTT)<br>Group Call: 311 = TAC-311 (PTT)<br>Group Call: 312 = TAC-312 (PTT)<br>Group Call: 313 = TAC-313 (PTT)<br>Group Call: 314 = TAC-314 (PTT)<br>Group Call: 315 = TAC-315 (PTT)<br>Group Call: 316 = TAC-316 (PTT)<br>Group Call: 317 = TAC-317 (PTT)<br>Group Call: 318 = TAC-318 (PTT)<br>Group Call: 319 = TAC-319 (PTT)<br>Group Call: 444 = NY-Metro (ON)<br>Group Call: 3100 = Bridge-3100 (PTT)<br>Group Call: 3172 = Northeast Region (PTT)<br>Group Call: 9998 = Parrot (PTT)<br>Group Call: 31089 = Hytera USA (PTT)<br>Group Call: 31360 = Tri-State (PTT)<br>Group Call: 347639 = ABC/Disney Network (PTT)<br><br><br><br>Time Slot: 2<br>Group Call: 9 = Local Repeater (ON)<br>Group Call: 3134 = New Jersey (PTT)<br>Group Call: 3136 = New York (PTT)<br>Group Call: 31342 = North Jersey (ON)",+5.000,KD2KWD,TS1 TS2
-KC2WBJ,Kendall Park,New Jersey,United States,Master,1,440.76250,313425,BrandMeister,313425,0,,+5.000,KB2EAR,TS1 TS2
+KC2WBJ,Kendall Park,New Jersey,United States,Master,1,440.76250,313425,BrandMeister,313425,0,None,+5.000,KB2EAR,TS1 TS2
 KD0TGF,Hartland,Minnesota,United States,Master,2,442.09375,313426,KD0TGF-Network,313426,0,TS1 TG 31272<br>TS1 TG 312734<br>TS2 TG 3127,+5.000,KD0TGF,TS1 TS2
 KD2DMU,Glen Gardner,New Jersey,United States,Peer,1,446.50000,313427,Brandmeister,313427,0,,+5.000,KC2IDB,Mixed Mode
 KC2NFB,West Orange,New Jersey,United States,Peer,1,446.22500,313428,Bronx Trbo,313428,1,,-5.000,KC2NFB,TS1 TS2
-KB2EAR,Kendall Park,New Jersey,United States,None,1,440.76250,313429,Brandmeister,313429,0,,+5.000,KB2EAR,Mixed Mode
+KB2EAR,Kendall Park,New Jersey,United States,Master,1,440.76250,313429,Brandmeister,313429,0,,+5.000,KB2EAR,Mixed Mode
 AA2QD,bayonne,New Jersey,United States,Master,1,446.62500,313430,none,313430,0,,-5.000,N2OVA,TS1 TS2
 WR3IRS,Corbin City,New Jersey,United States,Peer,1,440.40000,313431,Interstate,313431,1,TS2: Local 2 = TriState<br><br>On Interstate c-Bridge<br><br>Visit www.wr3irs.com for more information,+5.000,WN3A,TS1 TS2
 KB3MMJ,Cherry Hill,New Jersey,United States,Peer,1,432.10000,313433,BrandMeister,313433,0,,-0.000,KB3MMJ,TS1
@@ -8863,6 +8863,7 @@ K5TRA,Austin,Texas,United States,Peer,1,443.07500,314859,BM,314859,0,,+5.0000,K5
 N5GDL,Carrollton,Texas,United States,Peer,1,440.45000,314861,LonestarNet,314861,1,Time Slot #2 Group Call 9 = Local<br>Time Slot #1 Group Call 8205 = North Texas-Wide<br>Time Slot #2 Group Call 3148 = Texas Statewide<br>Time Slot #1 Group Call 3 = North America (PTT)<br>Time Slot #1 Group Call 1 = Worldwide (PTT)<br>Time Slot #1 Group Call 13 = Worldwide English (PTT)<br>Time Slot #1 Group Call 9000 = BrandMeister Texas (PTT)<br>contact: N5GDL<br>email:  dmr@kb5a.org,+5.000,N5GDL,TS1 TS2
 W5LND,Big Spring,Texas,United States,Peer,1,443.22500,314863,BrandMeister,314863,0,,+5.000,W5LND,TS1 TS2
 KB5ASY,Fort Worth,Texas,United States,Master,1,444.03750,314864,Dillo DMR,314864,1,,+5.000,KB5ASY,TS1 TS2
+KO6LNO,Inglewood,California,United States,Peer,7,463.58750,314865,ipsc,314865,1,None,5.000,,Mixed Mode
 W5DTW,Beeville,Texas,United States,Master,1,444.70000,314866,mixed mode,314866,0,,+5.000,W5DTW,Mixed Mode
 WM5L,Eldorado,Texas,United States,Peer,14,443.72500,314868,Dillo DMR,314868,1,,+5.000,WM5L,TS1 TS2
 KF5JJK,Abilene,Texas,United States,Peer,14,443.96250,314870,BrandMeister,314870,0,,+5.000,KD5EFB,TS1 TS2
@@ -10058,6 +10059,7 @@ HP1DBK,PO BOX 081605263,Panama,Panama,Master,10,145.39000,714007,BrandMeister,71
 HP1MRA,PO BOX 081605263,Panama,Panama,Master,10,439.80000,714008,BrandMeister,714008,0,,-5.000,HP1MRA,TS1 TS2
 HP3UPP,Chiriqui-Panama,Panama,Panama,Peer,10,439.67500,714009,BrandMeister,714009,1,TG7146,-5.000,HP1DBK,TS1 TS2
 HP3BSM,Chiriqui,Panama,Panama,Peer,1,434.50000,714010,ADN Systems / BM,714010,1,slot 1 ADN Systems / Slot2 BM,+5.000,HP3ICC,TS1 TS2
+HP1GRE,COLON,Colon,Panama,Peer,1,145.13000,714011,ADN Systems,714011,0,,-0.600,HP3ICC,TS1 TS2
 HP1JFG,Panama,Panama,Panama,Peer,8,439.05000,714012,BM,714012,0,,-5.000,HP1SEB,TS1 TS2
 HP1JEP,Panama,Panama,Panama,Peer,8,438.52500,714013,BM,714013,0,"Miramar, Panama City",-5.000,HP1SEB,TS1 TS2
 HP1JEP,Colon,Panama,Panama,Master,8,438.95000,714015,BM,714015,0,,-5.000,HP1SEB,TS1 TS2
