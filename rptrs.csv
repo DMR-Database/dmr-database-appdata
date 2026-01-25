@@ -5510,7 +5510,7 @@ K5NKK,Live Oak,Texas,United States,20,1,444.02500,311016,BrandMeister,311016,0,"
 N3QEM,Rehoboth Beach,Delaware,United States,Peer,1,927.70000,311017,Interstate,311017,1,NOVA DMR Portable Repeater 1,-25.000,N3QEM,TS1 TS2
 KF7LRD,Crown King,Arizona,United States,Peer,1,449.87500,311019,AZ-TRBONET-DMR-MARC,311019,1,Time Slot #1 - Group Call 1 = World Wide (PTT)<br>Time Slot #1 - Group Call 9 = Northern AZ Repeater Group only<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America (PTT)<br>Time Slot #1 - Group Call 310 = TAC 310 (PTT)<br>Time Slot #1 - Group Call 310 = TAC 311 (PTT)<br>Time Slot #2 - Group Call 2 = AZ/NM Local<br>Time Slot #2 - Group Call 3100 = DCI Bridge (PTT)<br>Time Slot #2 - Group Call 3104 = AZ Statewide<br>Time Slot #2 - Group Call 3135 = NM STATEWIDE<br>Time Slot #2 - Group Call 3176 = Regional SW (PTT)<br>Time Slot #2 - Group Call 3185 = Cactus Radio Club (open)<br>PTT= Disconnects after 10 mins. if there's no local key up<br><br>You Must Have [ARS] Disabled Within Your Radio<br>,-5.00,KF7LRD,TS1 TS2
 W5QLD,Corpus Christi,Texas,United States,Master,1,441.35000,311020,BrandMeister,311020,0,,5.000,W5QLD,TS1 TS2
-W4PCN,Mamie,North Carolina,United States,Peer,1,147.06000,311021,Brandmeister,311021,1,31377,+0.6000,AA3YQ,"TS1, TS2"
+W4PCN,Mamie,North Carolina,United States,Peer,1,147.06000,311021,Brandmeister,311021,1,31377,+0.6000,AA3YQ,TS1
 W7ACS,Seattle,Washington,United States,Peer,2,441.02500,311022,SeattleDMR.org,311022,0,"Located in Lake Forest Park, north of Seattle.<br>Part of SeattleDMR.org bridge and linked to PNW DMR Network.",+5.000,W7ACS,TS1 TS2
 KJ5UFO,Roswell,New Mexico,United States,Peer,1,444.30000,311023,AZ Turbo,311023,1,"TG1,2,3,13,310,311,3100,3176,3185,3186, Local 2, English 13",+5.000,KJ5UFO,1 and 2
 WD0HDR,Evans,Colorado,United States,Peer,2,445.57500,311024,BM,311024,0,,-5.000,WD0HDR,TS1 TS2
@@ -9559,6 +9559,7 @@ BR7YAK,Lingshui,Hunan Guangdong Guangxi Hainan,China,Master,8,439.37500,460709,C
 BR7YID,Sanya,Hunan Guangdong Guangxi Hainan,China,Master,8,439.37500,460710,China Mobile,460710,1,,-5.000,BG7YID,TS1 TS2
 S21ALT,Jashore,,Bangladesh,Master,1,437.50000,470001,"BM, brandmeister.network, DMR-MARC",470001,1,470<br>91,+0.25,S21ALT,Mixed Mode
 S21IT,Dhaka-1219,,Bangladesh,Master,1,439.10000,470003,"DMR, BM, Allstar link, EchoLink",470003,0,TG470,+5.000,S21IT,Mixed Mode
+S21ACP,Dhaka,All Regions,Bangladesh,Master,10,438.20000,470010,BM,470010,1,470,+100.000,,Mixed Mode
 9M4RXC,Bandar Baharu Kedah,West Malaysia,Malaysia,Master,1,439.47500,502002,BrandMeister,502002,1,,-5.000,9W2XIO,TS1 TS2
 9M4RBC,GENTING HIGHLAND,West Malaysia,Malaysia,Master,8,147.75000,502003,BrandMeister,502003,0,,-0.600,9M2EDK,TS1 TS2
 9M4RGH,GENTING HIGHLAND,West Malaysia,Malaysia,Master,8,145.67500,502004,BrandMeister,502004,0,,+0.550,9M2EDK,TS1 TS2
