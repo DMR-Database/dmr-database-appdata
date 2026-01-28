@@ -347,7 +347,7 @@ F1ZGI,RUEIL 92,Ile-de-France,France,Master,7,430.57500,208007,DMR-plus,208007,1,
 F1ZGO,Meudon,Centre-Val de Loire,France,,1,430.05000,208008,BM,208008,0,,9.400,F1TDI,TS1 TS2
 F1ZRD,,Ile-de-France,France,Peer,1,430.47500,208009,None,208009,0,,9.400,F1IUQ,
 F1ZWD,Paris,Centre-Val de Loire,France,,1,145.78750,208010,BM,208010,0,,-0.600,F1HBG,TS1 TS2
-F1ZLK,Rueil Malmaison,,France,,1,439.37500,208011,BM,208011,0,,-5.000,F1PTL,TS1 TS2
+F1ZLK,Rueil-Malmaison,Ile-de-France,France,Peer,1,439.37500,208011,IPSC2-France3,208011,0,,-5.000,F1PTL,TS1 TS2
 F5ZIC,Chartres,Hauts-de-France,France,Master,1,439.43750,208012,BM,208012,0,,-7.6,F4GZQ,TS1 TS2
 F5ZSO,CHARENTON-LE-PONT,,France,,1,430.53750,208013,None,208013,0,,9.400,F5LGW,
 F1ZUR,Rilhac Rancon,Nouvelle-Aquitaine,France,Master,0,430.41250,208014,TETRA,208014,0,,-7.600,F4BQN,Mixed Mode
@@ -945,7 +945,7 @@ IR9ZZQ,Catania,Sicily,Italy,Master,1,430.28750,222079,BM,222079,1,,+5.000,IW9GRL
 IR0UAQ,M.te Miranda,,Italy,,1,430.20000,222080,DMR-plus,222080,0,,1.600,IW0REF,TS1 TS2
 IR0UIN,Bruncu Simioni,,Italy,,1,430.72500,222081,None,222081,0,,5.000,IS0AYI,
 IR0ZZS,Roma,Lazio / Umbria / Sardinia,Italy,Master,1,430.23750,222082,BM,222082,0,,+5.000,IW0FXN,Mixed Mode
-IR0UIP,Monte Onofrio Itri,,Italy,,1,430.75000,222083,DMR-plus,222083,0,,5.000,IU0DLI,TS1 TS2
+IR0UIP,Itri,Lazio / Umbria / Sardinia,Italy,Peer,1,430.75000,222083,DMR-plus,222083,0,,5.000,IU0DLI,TS1 TS2
 IR9ZZC,Belpasso,Sicily,Italy,Master,1,430.72500,222085,BM,222085,1,,+5.000,IW9GRL,TS1 TS2
 IR2ZZZ,Milano,Lombardy,Italy,Peer,1,430.96250,222086,BM2222,222086,1,,+5.000,IK2LFH,TS1 TS2
 IR8ZZW,Serino,Molise / Campania / Calabria,Italy,Master,1,430.88750,222087,BM,222087,0,,+5.000,IZ8QAD,TS1
@@ -1284,6 +1284,7 @@ IR7ZYV,Bitonto,Apulia / Basilicata,Italy,Master,1,430.76250,222461,BM,222461,1,t
 IR3ZVR,Torreglia,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.03750,222462,DMR,222462,1,,+1.600,IZ3KJH,Mixed Mode
 IR9UAO,Santa Margherita Di Belice,Sicily,Italy,Master,1,430.07500,222463,BM,222463,1,,+1.600,IT9FBN,TS1 TS2
 IR5ZZK,Monte Serra Pisa,Tuscany,Italy,Master,1,431.28750,222464,Brandmeister,222464,1,None,1.600,,Mixed Mode
+IR0ZWG,Itri,Lazio / Umbria / Sardinia,Italy,Master,1,145.77500,222465,DMR-plus,222465,1,None,-600.000,,TS1 TS2
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,222500,DMR-plus,222500,0,,+5.000,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,222501,DMR-plus,222501,0,,5.000,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,222502,BM,222502,0,,5.000,IK5BNG,TS1 TS2
@@ -1357,14 +1358,14 @@ IR7UK,Rignano Garganico,,Italy,,1,430.27500,222709,None,222709,0,,5.000,IZ7SKY,
 IR7UBX,BARI,Apulia / Basilicata,Italy,Master,1,430.00000,222710,BM,222710,0,,+5.000,IZ7OIX,TS1 TS2
 IR7UBP,Neviano,Apulia / Basilicata,Italy,Peer,1,430.50000,222712,BM,222712,0,,+5.000,IK7YTQ,TS1 TS2
 IR7UBP,Neviano,Apulia / Basilicata,Italy,Peer,1,430.50000,222717,DMR-plus,222717,0,,+5.000,IK7YTQ,TS1 TS2
-IR7UBM,Altamura,,Italy,,1,430.37500,222720,DMR-plus,222720,0,,1.600,IU7BYP,TS1 TS2
+IR7UBM,MONTE CELANO,Apulia / Basilicata,Italy,Peer,1,430.37500,222720,Braindmeister,222720,0,,1.600,IU7BYP,TS1 TS2
 IR8UK,Monte Vulture,,Italy,,1,430.20000,222730,None,222730,0,,1.600,I8KQK,
 IR7UCC,Bari (BA),,Italy,,0,0.00000,222736,BM,222736,0,,0.000,IZ7GLL,TS1 TS2
 IR7UCF,Bitonto JN81IC,,Italy,,1,430.20000,222737,DMR-plus,222737,0,,5.000,IZ7GLL,TS1 TS2
 IR7UCK,BARI,,Italy,,1,430.40000,222753,None,222753,0,,5.000,IZ7JRR,
 IR7UBL,ALLISTE,,Italy,,1,430.01250,222765,None,222765,0,,1.600,IW7EHM,TS1 TS2
 IR7BJ,ALLISTE,,Italy,,1,144.75000,222766,DMR-plus,222766,0,,0.000,IW7EHM,TS1 TS2
-IR7UCB,Troia (FG),,Italy,,1,430.32500,222791,None,222791,0,,1.600,IU7BYP,
+IR7UCB,castelluccio valmaggiore,Apulia / Basilicata,Italy,Peer,1,430.32500,222791,Braindmeister,222791,0,,1.600,IU7BYP,TS1 TS2
 IZ0ZIP,Roccadarce,,Italy,Peer,1,430.86250,222800,DMR-plus,222800,0,,5.000,IZ0ZIP,TS1 TS2
 IT9LRZ,Vibo Valenzia,,Italy,Peer,1,430.96250,222801,DMR-Italia,222801,0,,5.000,IT9LRZ,TS1 TS2
 IR8UDM,Monte Epomeo Ischia,Molise / Campania / Calabria,Italy,Master,1,430.05000,222802,BM,222802,0,,+1.600,IC8EWW,TS1 TS2
@@ -3280,8 +3281,6 @@ DB0DND,Oberhausen,Bayern,Germany,Peer,1,438.86250,262241,BM,262241,1,,-7.6,DL2UK
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,430.38750,262242,BM,262242,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-0.00001,DJ3LE,TS2
 DB0PEG,Pegnitz,Bayern,Germany,Master,1,438.93750,262243,Brandmeister,262243,1,None,7.600,,TS1 TS2
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,439.92500,262244,BM,262244,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.400,DJ3LE,TS1 TS2
-DO0ELM,Hemkenrode ,Niedersachsen / Bremen,Germany,Master,1,439.15000,262245,DMR/FM,262245,1,2623 TS1<br>26538 (8) TS2,-7.600,,Mixed Mode
-DL6HAT,Groemitz,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.93750,262246,TS2,262246,1,None,-9.400,,TS2
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,262250,DMR-plus,262250,0,,-7.600,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,262251,DMR-plus,262251,0,,-0.600,DL5KUA,TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,262257,BM,262257,0,,-9.400,DF1RL,TS1 TS2
@@ -3671,7 +3670,7 @@ DM0DB,Dillberg,Bayern,Germany,,1,438.88750,262819,None,262819,0,,-7.600,DJ3NRA,
 DF0ANN,Nuernberg,,Germany,Peer,1,438.47500,262820,DMR-plus,262820,0,,-7.600,DL5NBZ,TS1 TS2
 DB0EEE,Erkheim,Bayern,Germany,,1,438.55000,262821,DMR-plus,262821,0,,-7.600,DL5EF,TS1 TS2
 DB0TMH,Trautmannshofen,Bayern,Germany,Master,1,438.58750,262822,MULTI DMR DSTAR YSF,262822,1,,-7.600,DF1AX,TS1 TS2
-DB0DLG,JN58FM,Bayern,Germany,,1,439.26250,262823,None,262823,0,,7.600,DG6MAY,
+DB0DLG,Gundremmingen,Bayern,Germany,Peer,1,439.26250,262823,Brandmeister,262823,0,,7.600,DG6MAY,TS1 TS2
 DB0RWH,Thalmaessing,Bayern,Germany,Peer,1,438.33750,262824,BM,262824,0,26385,-7.600,DL2NJM,TS1 TS2
 DB0WBZ,Burgsalach,Bayern,Germany,Peer,1,439.51250,262825,DMR-plus,262825,0,,-7.600,DG3NDL,TS1 TS2
 DM0QN,Munich East Vaterstetten,Bayern,Germany,Master,1,438.35000,262826,BM,262826,1,,-7.600,DK2PZ,TS1 TS2
@@ -3986,7 +3985,7 @@ YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.15000,286010,BM,286010,1,286
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.16250,286011,BM,286011,1,286011,-7.600,TA5FW,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.25000,286012,BM,286012,1,286012,-7.600,TA5FW,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,145.65000,286013,BM,286013,1,286013,-0.600,TA5FW,TS1 TS2
-YM3KBO,Uludag,,Turkiye,Master,1,145.73750,286014,BM,286014,1,2862012,-0.600,TA2ZE,TS1 TS2
+YM3KBO,Bursa,Marmara Region,Turkiye,Master,1,145.73750,286014,BM,286014,1,2862012,-0.600,TA2ZE,TS1 TS2
 YM2KKB,Karabuk,Black Sea Region,Turkiye,Master,1,439.17500,286015,BM,286015,1,286015 and 2862012 is static TG in our repeater,-7.600,TA2AFQ,TS1 TS2
 YM2KB,Bolu,Black Sea Region,Turkiye,Master,1,439.40000,286016,BM,286016,0,,-7.60,TA2AEC,Mixed Mode
 YM5KDA,Hatay,,Turkiye,Master,1,439.37500,286017,BM,286017,1,,-7.600,TA5LA,Mixed Mode
@@ -4027,7 +4026,7 @@ YM5KAA,Adana,Mediterranean Region,Turkiye,Peer,1,439.38750,286056,BM,286056,1,20
 YM6KTC,CANKIRI,Central Anatolia Region,Turkiye,Peer,1,439.17500,286057,BM,286057,0,AKRAD TG: 2862012<br>YM6KTC TG: 286057,-7.600,TA5HY,TS1 TS2
 YM3KO,Manisa,Aegean Region,Turkiye,Master,1,439.40000,286058,BM,286058,1,TG28645,-7.600,YM3KO,TS2
 YM2KA,Ankara Baglum,,Turkiye,,1,439.25000,286060,BM,286060,0,,-7.600,TA3AS,TS1 TS2
-YM2KRD,Dikmen,,Turkiye,Master,1,439.17500,286061,BM,286061,1,,-7.600,TA2ZE,TS1 TS2
+YM2KRD,Ankara,Central Anatolia Region,Turkiye,Master,1,439.17500,286061,BM,286061,1,2862012,-7.600,TA2ZE,TS1 TS2
 YM2KCL,KOCAELI,Marmara Region,Turkiye,Master,1,439.41250,286062,BM,286062,1,,-7.600,YM2KCL,TS1 TS2
 YM3KYM,Izmir,Aegean Region,Turkiye,Master,1,439.18750,286063,BM,286063,1,TG-28635,-7.600,YM3KYM,TS1 TS2
 YM8KSU,Sanliurfa,Southeastern Anatolia Region,Turkiye,Master,1,439.31250,286064,BM,286064,0,TRAC SANLIURFA SUBESI DMR ROLE,-7.600,YM8KSU,Mixed Mode
@@ -4541,7 +4540,7 @@ VE9DRS,Sussex Corner,New Brunswick,Canada,Peer,1,444.62500,302434,BM,302434,1,,+
 VE9RDR,Moncton,New Brunswick,Canada,Peer,1,927.15000,302435,BM,302435,0,,-25.0000,VE9SC,TS2
 VE3FKD,Rice Lake,Ontario,Canada,Peer,1,146.48000,302436,BM,302436,1,Currently Simplex test and Timeslot 2 can be assigned to any Talkgroup.<br>Contact Bob VE3IDZ via QRZ with any questions,-0.0000,VE3IDZ,TS2
 VE3YTA,Pembroke,Ontario,Canada,Master,1,145.35000,302437,BM,302437,0,,-0.600,VE3JLR,Mixed Mode
-VE7BUL,Prince George,British Columbia,Canada,Master,1,433.50000,302438,BM,302438,0,Parameters may change. Location will change once site is secured. ,+5.000,VE7BUL,TS2
+VE7BUL,Prince George,British Columbia,Canada,Master,1,433.50000,302438,BM,302438,0,Parameters may change. Location will change once site is secured.<br>It's a work in progress.,+5.000,VE7BUL,TS2
 VE3OSH,Oshawa,Ontario,Canada,Master,0,147.12000,302439,IAX2,302439,0,,+0.6,VA3NLM,Mixed Mode
 VE1DRR,Halifax,Nova Scotia,Canada,Master,1,443.75000,302441,BM,302441,1,Will be tied to BM TG 30205,+5.000,VE1JKB,TS1 TS2
 VA6SRG,Dunmore,Alberta,Canada,Master,4,444.80000,302442,dstar,302442,0,,+5.000,VA6CWK,Mixed Mode
@@ -5898,9 +5897,9 @@ KE0ABR,Oak grove,Minnesota,United States,Peer,11,444.72500,311444,Brandmeister,3
 N7DOD,Lawton,Oklahoma,United States,Master,1,443.70000,311445,BrandMeister,311445,0,TBD,+5.000,N7DOD,Mixed Mode
 KC5AFM,Cedar Park,Texas,United States,Master,1,441.35000,311446,DMR-MARC,311446,0,,+5.000,KC5AFM,Mixed Mode
 N3YMS,DAYTON TEST,Ohio,United States,Peer,1,442.18750,311447,INTERSTATE,311447,0,,+5.000,N3YMS,TS1 TS2
-KB2RF,Manalapan,New Jersey,United States,Peer,1,446.10000,311448,BrandMeister,311448,0,<br>TS #2 - TG 2 = Tri-State (ON)<br>TS #1 - TG 31660 = Ocean County (PTT),-5.000,KB2RF,TS1 TS2
+KB2RF,Manalapan,New Jersey,United States,Peer,1,446.10000,311448,BrandMeister,311448,0,TS #2 - TG 2 = Tri-State (ON)<br>TS #1 - TG 31660 = Ocean County (PTT),-5.000,KB2RF,TS1 TS2
 AE5BZ,Metairie,Louisiana,United States,Master,5,442.65000,311451,Brandmeister,311451,1,"This is the AE5BZ Multi-Mode Digital Voice Modem with DMR, NXDN, P25, and YSF activated.The repeater is located in Metairie, Louisiana, in the suburbs of New Orleans.",+5.000,AE5BZ,Mixed Mode
-KB2RF,Westampton,New Jersey,United States,Peer,1,448.32500,311452,NJ-TRBO,311452,1,448.3250  -5 MHz  Color Code 1 <br><br>TS #2 - TG 2 = Tri-State (ON)<br>TS #1 - TG 3   = N. America (PTT)<br>TS #1 - TG 9 = Local Repeater (PTT)<br>TS #1 - TG 1   = World Wide (PTT)<br>TS #1 - TG 13 = WW English (PTT)<br>TS #1 - TG 3172 = Northeast Reg. (PTT)<br>TS #1 - TG 310 = TAC 310 (PTT)<br>TS #1 - TG 311 = TAC 311 (PTT)<br>TS #1 - TG 8951 = TAC 1 (PTT)<br>TS #1 - TG 8952 = TAC 2 (PTT)<br>TS #1 - TG 8953 = TAC 3 (PTT)<br>TS #1 - TG 3134 = NJ State (PTT)<br>TS #1 - TG 3136 = NY State (PTT)<br>TS #1 - TG 3142 = PA State (PTT)<br>TS #1 - TG 3125 = MA State (PTT)<br>TS #1 - TG 31121 = First - Coast - FL (PTT)<br>TS #1 - TG 3100 = BM3100 (PTT)<br>TS #1 - TG 9998 = Parrot (PTT)<br>TS #1 - TG 31660 = Ocean County (PTT)<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Rick/KB2RF<br>Email: Airwolf@optonline.net,-5.000,KB2RF,TS1 TS2
+KB2RF,Westampton,New Jersey,United States,Peer,1,448.32500,311452,NJ-TRBO,311452,1,448.3250  -5 MHz  Color Code 1<br><br>TS #2 - TG 2 = Tri-State (ON)<br>TS #1 - TG 3   = N. America (PTT)<br>TS #1 - TG 9 = Local Repeater (PTT)<br>TS #1 - TG 1   = World Wide (PTT)<br>TS #1 - TG 13 = WW English (PTT)<br>TS #1 - TG 3172 = Northeast Reg. (PTT)<br>TS #1 - TG 310 = TAC 310 (PTT)<br>TS #1 - TG 311 = TAC 311 (PTT)<br>TS #1 - TG 8951 = TAC 1 (PTT)<br>TS #1 - TG 8952 = TAC 2 (PTT)<br>TS #1 - TG 8953 = TAC 3 (PTT)<br>TS #1 - TG 3134 = NJ State (PTT)<br>TS #1 - TG 3136 = NY State (PTT)<br>TS #1 - TG 3142 = PA State (PTT)<br>TS #1 - TG 3125 = MA State (PTT)<br>TS #1 - TG 31121 = First - Coast - FL (PTT)<br>TS #1 - TG 3100 = BM3100 (PTT)<br>TS #1 - TG 9998 = Parrot (PTT)<br>TS #1 - TG 31660 = Ocean County (PTT)<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Rick/KB2RF<br>Email: Airwolf@optonline.net,-5.000,KB2RF,TS1 TS2
 WY7BRK,Buffalo,Wyoming,United States,Peer,7,449.85000,311453,BrandMeister,311453,0,TS1 - TG 3156 Wyoming<br>TS2 - TG2,-5.000,WY7RG,TS1 TS2
 N7CCO,Prineville-DT,Oregon,United States,Peer,1,441.25000,311455,PNW Digital,311455,1,Prineville DT,+5.000,W7KFO,TS1 TS2
 N7CCO,Prineville,Oregon,United States,Peer,1,441.25000,311456,PNW Digital,311456,0,Prineville Test,+5.0000,W7KFO,TS1 TS2
@@ -8675,7 +8674,7 @@ W2CSW,BROOKLYN NY,New York,United States,Peer,1,145.48500,314635,BM,314635,1,,-6
 WA4FC,New Kent,Virginia,United States,Master,1,442.05000,314636,DMRVA,314636,0,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 K0NLF,Punta Gorda,Florida,United States,Master,1,443.00000,314637,BRANDMEISTER,314637,0,TS1     3112<br>TS1      313136<br>TS2      310847,+5.000,K0NLF,TS1 TS2
 NA9VY,Buddha,Indiana,United States,Peer,1,442.25000,314638,SIN,314638,0,This is a remote RX site for the Huron DMR repeater.,+5.000,NA9VY,TS1 TS2
-KC4IRA,Kings Mountain,North Carolina,United States,Peer,1,145.49000,314639,bm,314639,0,,-0.600,KC4IRA,TS1 TS2
+KC4IRA,Kings Mountain,North Carolina,United States,Peer,1,145.49000,314639,BM,314639,0,,-0.600,KC4IRA,TS1 TS2
 KC0HYI,Humboldt,Nebraska,United States,Peer,1,442.60000,314640,NebraskaTRBO/DMR-MARC/KS-DMR,314640,0,TS1<br>1 - DMR-MARC Worldwide<br>3 - DMR-MARC North America<br>13 - DMR-MART North American English<br>3120 - KSDMR Kansas Statewide<br>3169 - DMR-MARC Midwest<br>31691 - DMR-MARC Tri-State<br><br>TS2<br>2 - Nebraska TRBO Local<br>3131 - Nebraska TRBO Nebraska Statewide<br>9998 - Nebraska TRBO Parrot<br>,+5.000,KC0HYI,TS1 TS2
 KC4IRA,Kings Mountain,North Carolina,United States,Peer,1,443.65000,314641,BM,314641,0,,+5.00,KC4IRA,TS1 TS2
 W3AWG,Dysart,Pennsylvania,United States,Master,1,444.40000,314642,BM,314642,0,,+5.000,W3AWG,Mixed Mode
