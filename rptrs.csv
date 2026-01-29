@@ -614,7 +614,8 @@ ED1ZBK,Salas,Asturias,Spain,Master,1,438.37500,214019,BM,214019,0,,-7.600,EA1JAY
 ED3YBK,Esparreguera,Barcelona,Spain,Master,1,145.57500,214020,BM,214020,1,TG 8 CLUSTER EA3SPAIN EN SLOT 2 PERMANENTE,-0.600,EA3PJ,Mixed Mode
 ED3YBK,Esparreguera,Barcelona,Spain,Master,1,145.57500,214021,BM,214021,0,TG 214316 EA3SPAIN,-0.600,EA3PJ,TS1 TS2
 ED5ZAQ,Higueruela,Albacete,Spain,Master,1,438.40000,214022,BM,214022,0,,-7.600,EA5SW,TS1 TS2
-ED1YBL,Parada Sil - Ourense,Ourense,Spain,Master,1,145.63750,214025,BM,214025,1,None,-600.000,,Mixed Mode
+ED1YBL,Parada Sil - Ourense,Ourense,Spain,Master,1,145.63750,214025,BM,214025,1,None,-0.600,,Mixed Mode
+ED1YBK,Sabadelle - Ourense,Ourense,Spain,Master,1,438.25000,214026,BM,214026,1,None,-7.600,,Mixed Mode
 ED1ZAS,San Martin,,Spain,,1,438.22500,214102,BM,214102,0,,-7.600,EB1TK,TS1 TS2
 ED1YBQ,Bejar,,Spain,,1,438.65000,214103,DMR-plus,214103,0,,-7.600,EA1EZ,TS1 TS2
 ED1ZAU,Monte Naranco Oviedo,,Spain,,1,438.50000,214104,BM,214104,0,,-7.600,EB1TK,TS1 TS2
@@ -945,7 +946,6 @@ IR9ZZQ,Catania,Sicily,Italy,Master,1,430.28750,222079,BM,222079,1,,+5.000,IW9GRL
 IR0UAQ,M.te Miranda,,Italy,,1,430.20000,222080,DMR-plus,222080,0,,1.600,IW0REF,TS1 TS2
 IR0UIN,Bruncu Simioni,,Italy,,1,430.72500,222081,None,222081,0,,5.000,IS0AYI,
 IR0ZZS,Roma,Lazio / Umbria / Sardinia,Italy,Master,1,430.23750,222082,BM,222082,0,,+5.000,IW0FXN,Mixed Mode
-IR0UIP,Itri,Lazio / Umbria / Sardinia,Italy,Peer,1,430.75000,222083,DMR-plus,222083,0,,5.000,IU0DLI,TS1 TS2
 IR9ZZC,Belpasso,Sicily,Italy,Master,1,430.72500,222085,BM,222085,1,,+5.000,IW9GRL,TS1 TS2
 IR2ZZZ,Milano,Lombardy,Italy,Peer,1,430.96250,222086,BM2222,222086,1,,+5.000,IK2LFH,TS1 TS2
 IR8ZZW,Serino,Molise / Campania / Calabria,Italy,Master,1,430.88750,222087,BM,222087,0,,+5.000,IZ8QAD,TS1
@@ -1284,7 +1284,7 @@ IR7ZYV,Bitonto,Apulia / Basilicata,Italy,Master,1,430.76250,222461,BM,222461,1,t
 IR3ZVR,Torreglia,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.03750,222462,DMR,222462,1,,+1.600,IZ3KJH,Mixed Mode
 IR9UAO,Santa Margherita Di Belice,Sicily,Italy,Master,1,430.07500,222463,BM,222463,1,,+1.600,IT9FBN,TS1 TS2
 IR5ZZK,Monte Serra Pisa,Tuscany,Italy,Master,1,431.28750,222464,Brandmeister,222464,1,None,1.600,,Mixed Mode
-IR0ZWG,Itri,Lazio / Umbria / Sardinia,Italy,Master,1,145.77500,222465,DMR-plus,222465,1,None,-600.000,,TS1 TS2
+IR8ZXL,Montoro,Molise / Campania / Calabria,Italy,Master,1,144.93750,222466,BM,222466,1,None,0.000,,TS2
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,222500,DMR-plus,222500,0,,+5.000,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,222501,DMR-plus,222501,0,,5.000,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,222502,BM,222502,0,,5.000,IK5BNG,TS1 TS2
@@ -1511,7 +1511,7 @@ HB9PE,Pays-d Enhaut VD,,Switzerland,,1,439.66250,228113,DMR-plus,228113,0,,-7.60
 HB9RAR,Morlon,,Switzerland,,1,438.73750,228114,Motorola,228114,0,,-7.600,HB9HFF,TS1 TS2
 HB9PE,Pays-d Enhaut VD,,Switzerland,,4,438.23750,228115,Motorola,228115,0,,-7.600,HB9FMF,TS1 TS2
 HB9RD,Chatonnaye,,Switzerland,,1,438.66250,228116,DMR-plus,228116,0,,-7.600,HB9PCF,TS1 TS2
-HB9GE,Genve,Geneva,Switzerland,Peer,1,439.42500,228117,BM,228117,0,,-7.600,HB9IBG,TS1 TS2
+HB9GE,Geneva,Geneva,Switzerland,Peer,1,439.42500,228117,BM,228117,0,,-7.600,HB9IBG,TS1 TS2
 HB4FL,AIGUILLE,,Switzerland,,2,439.25000,228118,BM,228118,0,,-7.600,HB9ADJ,TS1 TS2
 HB9PE,Pays-d Enhaut VD,,Switzerland,,2,438.66250,228119,DMR-plus,228119,0,,-7.600,HB9FMF,TS1 TS2
 HB9PE,Pays-d Enhaut VD,,Switzerland,,2,438.66250,228120,Motorola,228120,0,,-7.600,HB9FMF,TS1 TS2
@@ -2547,8 +2547,8 @@ LA5WR,Ankenes,,Norway,,1,434.75000,242950,None,242950,0,,-2.000,LA9PSA,
 OH0RUB,Jomala,,Finland,Peer,1,434.55000,244002,BM,244002,0,,-2.000,OH0KCE,TS1 TS2
 OH1DMRA,Pori,,Finland,,1,424.56250,244101,None,244101,0,,-2.000,OH1E,
 OH6RUB,KP12LW,,Finland,Master,1,434.62500,244102,BM,244102,0,OH6AC club test repeater. mmvdm technology.,-1.600,OH6AC,TS1 TS2
-OH2DMRP,Lohja Pusula,,Finland,Peer,1,434.53750,244103,BM,244103,0,,-2.000,OH2LAK,TS1 TS2
-OH2DMRI,Inkoo Solberg,,Finland,Peer,1,434.50000,244104,BM,244104,0,,-2.000,OH2LAK,TS1 TS2
+OH2DMRP,Pusula,All Regions,Finland,Peer,1,434.53750,244103,BM,244103,0,,-2.000,OH2LAK,TS1 TS2
+OH2DMRI,Inkoo,All Regions,Finland,Peer,1,434.50000,244104,BM,244104,0,,-2.000,OH2LAK,TS1 TS2
 OH6RAH,Seinajoki,,Finland,Master,1,434.67500,244105,BM,244105,0,,-2.000,OH6AH,Mixed Mode
 OH7DMRL,Lieksa,,Finland,Master,1,438.13750,244106,BM,244106,1,,-5.000,OH7AB,TS1 TS2
 OI5RUC,Kouvola,,Finland,Peer,1,434.82500,244107,FREEDMR,244107,1,244,-2.000,OI5AZ,TS1 TS2
@@ -2558,17 +2558,17 @@ OH1DMRT,Turku,,Finland,Master,1,438.10000,244111,BM,244111,1,,+5.000,OH1AA,TS1 T
 OH8DMRI,Pudasjrvi,,Finland,Peer,1,145.57500,244112,BM,244112,1,"At the top of the Iso-Syte hill / ski resort. Static TGs TS1: 244 TS2: 2448, 2449",-0.600,OH6NVG,TS1 TS2
 OH8DMRK,Kajaani,,Finland,Peer,1,438.13750,244113,BM,244113,1,,-5.0,OH8G,TS1 TS2
 OH3DMRH,Tampere,,Finland,Peer,1,438.11250,244114,BM,244114,0,"TS1 static TG 244<br>TS2 static TG 2443, 24431",-5.000,OH3NE,TS1 TS2
-OH2DMRH,Helsinki Pasila,,Finland,Master,1,434.57500,244200,BM,244200,0,,-2.000,OH2LAK,TS1 TS2
-OH2DMRE,Espoo Juhanila,,Finland,Peer,1,438.08750,244201,BM,244201,1,,-5.000,OH2LAK,TS1 TS2
-OH2LAK,Espoo,,Finland,Master,1,434.56250,244202,BM,244202,0,,-2.000,OH2LAK,TS1 TS2
+OH2DMRH,Helsinki,All Regions,Finland,Master,1,434.57500,244200,BM,244200,0,,-2.000,OH2LAK,TS1 TS2
+OH2DMRE,Espoo,All Regions,Finland,Peer,1,438.08750,244201,BM,244201,1,,-5.000,OH2LAK,TS1 TS2
+OH2LAK,Vihti,All Regions,Finland,Master,1,434.56250,244202,BM,244202,0,,-2.000,OH2LAK,TS1 TS2
 OH2DMRA,Porvoo,,Finland,,1,434.53750,244204,BM,244204,0,,-2.000,OH2BIX,TS1 TS2
-OH2DMRR,Raasepori Harparskog,,Finland,Master,1,434.56250,244205,BM,244205,0,,-2.000,OH2LAK,TS1 TS2
+OH2DMRR,Raasepori,All Regions,Finland,Master,1,434.56250,244205,BM,244205,0,,-2.000,OH2LAK,TS1 TS2
 OH2DMRN,Rajamaeki Nurmijaervi,,Finland,Master,1,434.56250,244206,BM,244206,0,,-2.000,OH2NJR,TS1 TS2
 OH2RUP,Naavatie 6 Jaervenpae,,Finland,,1,434.65000,244207,None,244207,0,,-2.000,OH3ZQ,
-OH2DMRL,Lohja,,Finland,Master,1,438.10000,244208,BM,244208,0,,-5.000,OH2LAK,TS1 TS2
+OH2DMRL,Lohja,All Regions,Finland,Master,1,438.10000,244208,BM,244208,0,,-5.000,OH2LAK,TS1 TS2
 OH2RUF,Vantaa,,Finland,,1,434.52500,244244,BM,244244,0,,-2.000,OH2FTJ,TS1 TS2
-OH2CBR,Espoo,,Finland,,1,439.46250,244298,DMR-plus,244298,0,,-7.600,OH2LAK,TS1 TS2
-OH6RAF,Hankasalmi,,Finland,Peer,1,438.07500,244299,BM,244299,0,Event repeater for SRAL Aurora2025 annual meeting,-5.000,OH2LAK,TS1 TS2
+OH2LAK,Espoo,All Regions,Finland,Peer,1,438.15000,244298,BM,244298,0,,-5.000,OH2LAK,TS1 TS2
+OH2LAK,Vihti,All Regions,Finland,Peer,1,438.07500,244299,BM,244299,0,Event repeater for SRAL Aurora2025 annual meeting,-5.000,OH2LAK,TS1 TS2
 OH3RNE,Tampere,,Finland,Master,1,434.52500,244300,BM,244300,0,,-2.000,OH3KGR,TS1 TS2
 OH3DMRR,Riihimaki,,Finland,Master,1,438.13750,244301,BM,244301,0,Old callsign was OH3DMRB. New frequency and offset (5MHz) change done 26.3.2025. Will be soon back on the air. 73 de Keke OH3NDH,-5.000,OH3AD,TS1 TS2
 OH3RNE,Tampere,,Finland,,1,145.57500,244302,None,244302,0,,-0.600,OH3KGR,
@@ -2865,7 +2865,6 @@ SR2PA,Paslek,warmisko-mazurskie,Poland,Master,2,439.30000,260017,BM,260017,0,,-7
 SR4UG,Giby,podlaskie,Poland,Master,4,438.77500,260018,DMR-plus,260018,1,,-7.600,SP4XKB,TS1 TS2
 SR4OS,Ostrda,warmisko-mazurskie,Poland,Master,4,438.40000,260019,BM,260019,1,,-7.600,SP4I,TS1 TS2
 SR4DM,Podlena,warmisko-mazurskie,Poland,Master,4,438.30000,260020,BM,260020,1,,-7.600,SP4I,TS1 TS2
-SR9REY,Krzeszowice,maopolskie,Poland,Master,9,438.91250,260021,BM,260021,0,,-7.600,SP9ORD,TS1 TS2
 SR9GR,Gorlice,maopolskie,Poland,Master,1,438.53750,260022,Brandmeister,260022,1,TG260999,-7.600,SP9KGR,TS1 TS2
 SR7SAN,Koprzywnica,witokrzyskie,Poland,Master,7,439.06250,260023,BM,260023,1,,-7.600,SQ7PTE,TS1 TS2
 SR4DX,Paslek,warmisko-mazurskie,Poland,Master,1,439.50000,260024,Brandmeister,260024,1,,-7.600,SP4KDK,TS1 TS2
@@ -3147,7 +3146,7 @@ DB0DBT,Allstedt,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,1,432.80000,
 DB0HRO,Rostock,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Master,1,438.50000,262089,BM,262089,0,,-7.6000,DB3MAX,TS1 TS2
 DB0FHS,Stralsund,,Germany,,1,438.77500,262090,DMR-plus,262090,0,,-7.600,DL6KWA,TS1 TS2
 DB0TMH,Lauterhofen,Bayern,Germany,Master,1,438.38750,262091,DMR Brandmeister,262091,1,,-7.60000,DF1AX,TS1 TS2
-DB0TMH,Trautmannshofen,Bayern,Germany,Master,1,438.58750,262092,DMR,262092,0,Testmode,-7.6000,DF1AX,TS1 TS2
+DB0TMH,Trautmannshofen,Bayern,Germany,Master,1,438.58750,262092,DMR,262092,0,This is a low power repeater with only 1 Watt on 600 meters asl,-7.6000,DF1AX,TS1 TS2
 DB0RKD,Dormagen,Nordrhein-Westfalen,Germany,Master,0,438.31250,262093,P25,262093,0,,-7.6000,DD3JI,Mixed Mode
 DB0BT,Bayreuth,Bayern,Germany,Master,1,439.90000,262094,BM,262094,0,,-9.4,DL4NAC,TS1 TS2
 DB0LIN,Lindenfels,Hessen,Germany,Peer,1,145.61250,262095,BM,262095,1,,-0.600,DL1MG,TS1 TS2
@@ -3281,6 +3280,7 @@ DB0DND,Oberhausen,Bayern,Germany,Peer,1,438.86250,262241,BM,262241,1,,-7.6,DL2UK
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,430.38750,262242,BM,262242,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-0.00001,DJ3LE,TS2
 DB0PEG,Pegnitz,Bayern,Germany,Master,1,438.93750,262243,Brandmeister,262243,1,None,7.600,,TS1 TS2
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,439.92500,262244,BM,262244,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.400,DJ3LE,TS1 TS2
+DL6HAT,Groemitz,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.93750,262246,TS2,262246,1,None,-9.400,,TS2
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,262250,DMR-plus,262250,0,,-7.600,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,262251,DMR-plus,262251,0,,-0.600,DL5KUA,TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,262257,BM,262257,0,,-9.400,DF1RL,TS1 TS2
@@ -3669,7 +3669,7 @@ DB0SOB,Schrobenhausen,Bayern,Germany,,1,438.55000,262818,None,262818,0,,-7.600,D
 DM0DB,Dillberg,Bayern,Germany,,1,438.88750,262819,None,262819,0,,-7.600,DJ3NRA,
 DF0ANN,Nuernberg,,Germany,Peer,1,438.47500,262820,DMR-plus,262820,0,,-7.600,DL5NBZ,TS1 TS2
 DB0EEE,Erkheim,Bayern,Germany,,1,438.55000,262821,DMR-plus,262821,0,,-7.600,DL5EF,TS1 TS2
-DB0TMH,Trautmannshofen,Bayern,Germany,Master,1,438.58750,262822,MULTI DMR DSTAR YSF,262822,1,,-7.600,DF1AX,TS1 TS2
+DB0TMH,Neumarkt,Bayern,Germany,Master,1,438.58750,262822,MULTI DMR DSTAR YSF,262822,1,"Also a multi mode repeater for DMR + , C4FM, DSTAR. And the TG Neumarkt ist cross connected to YSF, DSTAR and DMR. Surch for Neumarkt and you will get it. DF1AX",-7.600,DF1AX,TS1 TS2
 DB0DLG,Gundremmingen,Bayern,Germany,Peer,1,439.26250,262823,Brandmeister,262823,0,,7.600,DG6MAY,TS1 TS2
 DB0RWH,Thalmaessing,Bayern,Germany,Peer,1,438.33750,262824,BM,262824,0,26385,-7.600,DL2NJM,TS1 TS2
 DB0WBZ,Burgsalach,Bayern,Germany,Peer,1,439.51250,262825,DMR-plus,262825,0,,-7.600,DG3NDL,TS1 TS2
@@ -3684,7 +3684,7 @@ DM0WW,Bad Kohlgrub,Bayern,Germany,,1,438.96250,262833,BM,262833,0,,-7.600,DG1MIA
 DB0LBB,Murnau Staffelsee,Bayern,Germany,,1,438.60000,262834,None,262834,0,,-7.600,DG1MIA,
 DM0GER,Germering,Bayern,Germany,Peer,1,439.53750,262835,BM,262835,1,,-7.600,DL3MX,TS1 TS2
 DB0MIR,Martinsberg Ammersee,Bayern,Germany,,1,438.73750,262836,BM,262836,0,,-7.600,DL1ZAP,TS1 TS2
-DM0TMH,Trautmannshofen,Bayern,Germany,Master,1,438.22500,262837,YSF C4FM,262837,0,,-7.600,DF1AX,TS1
+DM0TMH,Neumarkt,Bayern,Germany,Master,1,438.22500,262837,YSF C4FM,262837,0,,-7.600,DF1AX,TS1
 DB0YQ,Fernmeldeturm Weiden,Bayern,Germany,,1,438.56250,262838,None,262838,0,,7.600,DG9RAK,
 DB0SMU,Langerringen,Bayern,Germany,Master,1,438.20000,262839,BM,262839,1,,-7.600,DH9FG,TS1 TS2
 DB0ADB,Bamberg,Bayern,Germany,,1,439.30000,262840,BM,262840,0,,-7.600,DK2ET,TS1 TS2
@@ -3940,7 +3940,7 @@ LZ0DAV,Varna,,Bulgaria,Peer,1,438.55000,284009,IPSC2,284009,1,284<br>2840,-7.600
 LZ0RVA,Pazardgik,,Bulgaria,,1,438.95000,284010,DMR-plus,284010,0,,-7.600,LZ1RVD,TS1 TS2
 LZ0RVB,Sofia,,Bulgaria,,1,439.45000,284011,DMR-plus,284011,0,,-7.600,LZ1RVD,TS1 TS2
 LZ0DAR,Ruse,,Bulgaria,Peer,1,438.25000,284012,IPSC2,284012,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
-LZ0DDK,Shumen,,Bulgaria,,1,439.57500,284013,DMR-plus,284013,0,,-7.600,LZ4ZD,TS1 TS2
+LZ0DDK,Shumen,Shumen,Bulgaria,Peer,1,439.57500,284013,DMR-plus,284013,0,,-7.600,LZ4ZD,TS1 TS2
 LZ0DDS,Sliven,,Bulgaria,,1,439.52500,284014,DMR-plus,284014,0,,-7.600,LZ1TUK,TS1 TS2
 LZ0DDB,Breznik,,Bulgaria,Peer,1,438.45000,284015,DMR-plus,284015,1,,-7.600,LZ1WDX,TS1 TS2
 LZ0GYD,KN32ER,,Bulgaria,,1,145.42500,284016,DMR-plus,284016,0,,0.600,LZ5GY,TS1 TS2
@@ -3965,7 +3965,7 @@ LZ0ADG,Gotse Delchev,,Bulgaria,Master,1,439.60000,284035,DMR-DSTAR-FUSION,284035
 LZ0DPM,Pomorie,Burgas,Bulgaria,Master,1,144.85000,284036,BrandMeister,284036,0,,+0.600,LZ1KM,Mixed Mode
 LZ0ZLD,2080 zlatitca,Sofia,Bulgaria,Master,1,438.97500,284037,BM,284037,1,FCS28487,-7.600,LZ1PPD,TS2
 LZ0BLG,ZelenDol,,Bulgaria,Master,1,431.70000,284038,"BM,DMR+",284038,0,ADN SYSTEMS 284-TS2<br>DMR+ 284-TS1<br>BM 2841-TS1,+7.6,LZ3VEK,TS1 TS2
-LZ0DSH,Shumen,,Bulgaria,Peer,1,438.27500,284039,BM,284039,0,,-7.600,LZ4ZD,TS1 TS2
+LZ0DSH,Shumen,Shumen,Bulgaria,Peer,1,438.27500,284039,BM,284039,0,,-7.600,LZ4ZD,TS1 TS2
 LZ0ADN,Sofia,,Bulgaria,Master,1,438.40000,284040,ADN,284040,1,,-7.600,LZ1DH,TS1 TS2
 LZ0LZO,ZelenDol,,Bulgaria,Master,1,431.60000,284041,DMR,284041,0,,+7.6,LZ3VEK,TS1 TS2
 LZ0DLC,Plovdiv,,Bulgaria,,1,439.22500,284066,DMR-plus,284066,0,,-7.600,LZ1PLC,TS1 TS2
@@ -3981,6 +3981,7 @@ LZ0RDZ,Varna,,Bulgaria,,1,439.40000,284888,None,284888,0,,-7.600,LZ4DZ,
 LZ0DAF,Achtopol,,Bulgaria,Master,1,438.45000,284997,DMR-plus,284997,1,,-7.600,LZ1ZAF,TS1 TS2
 LZ0PLD,Plovdiv,,Bulgaria,Peer,1,438.80000,284998,BrandMeister,284998,0,,-7.600,LZ1CWT,TS1 TS2
 LZ0ZAF,Plovdiv,,Bulgaria,Master,1,438.70000,284999,DMR-plus,284999,1,,-7.600,LZ1ZAF,TS1 TS2
+YM5KKE,AKSARAY,Central Anatolia Region,Turkiye,Peer,1,439.16250,286001,2841,286001,1,2862012,-7.600,,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.15000,286010,BM,286010,1,286010,-7.600,TA5FW,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.16250,286011,BM,286011,1,286011,-7.600,TA5FW,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.25000,286012,BM,286012,1,286012,-7.600,TA5FW,TS1 TS2
@@ -4079,7 +4080,7 @@ YM2KS,Sakarya,,Turkiye,,1,439.22500,286544,None,286544,0,,7.600,TA2W,
 YM7KSV,Sivas Merakum T.,,Turkiye,Master,1,439.17500,286581,BM,286581,1,,-7.600,TA7KY,Mixed Mode
 YM1KRM,Tekirdag Merkez,,Turkiye,,1,439.16250,286591,BM,286591,0,,-7.600,TA1UHX,TS1 TS2
 YM5KKE,AKSARAY,Central Anatolia Region,Turkiye,Master,1,439.16250,286681,BM,286681,1,286681<br>2862012<br>9286<br>Time Slot # 1 - Group Call 286681 = Aksaray<br>Time Slot # 1 - Group Call 2862012 = AKRAD<br>Time Slot # 1 - Group Call 9286 = TIF,-7.600,TA5HY,TS1 TS2
-YM2KBD,Yalova,Black Sea Region,Turkiye,Peer,1,439.37500,286771,BM,286771,0,ANARAD YALOVA TG28677,-7.600,TA2JW,Mixed Mode
+YM2KBD,YALOVA,Marmara Region,Turkiye,Peer,1,439.37500,286771,BM,286771,0,ANARAD YALOVA TG28677,-7.600,TA2JW,Mixed Mode
 T79DMR,Republica di San Mar,,San Marino,,1,430.17500,292001,BM,292001,0,,1.600,T77NM,TS1 TS2
 T79TG,San Marino,,San Marino,,1,430.48750,292002,None,292002,0,,5.000,T77GR,
 S55DMR,Lisca,,Slovenia,,1,439.07500,293001,BM,293001,0,,-7.600,S56CT,TS1 TS2
@@ -5001,7 +5002,7 @@ KD2EHW,Rochester,New York,United States,master,1,443.05000,310459,Brandmaster,31
 N4DEA,Kinston,North Carolina,United States,Peer,1,440.51250,310461,Brandmeister,310461,0,,+5.000,N4DEA,TS1 TS2
 KI5CMA,Saltillo,Mississippi,United States,Master,1,444.42500,310462,BrandMeister,310462,1,TS 1 31471<br>TS 2 3128<br>TS 2 31285,+5.000,K5CSA,TS1 TS2
 K3ZED,Jennersville,Pennsylvania,United States,peer,1,447.87500,310463,Brandmeister,310463,1,"Testing MTR2000 with Scott Zimmerman RB_STM32_DVM Testing the repeater will at the N3SLC site in Jennersville, PA<br><br>All network and Talkgroup activity on Timeslot 1 ( TG 3110 and TG3142 Static) with <br>Timeslot 2 reserved for Cluster (2) and Local (9) <br><br>Trustees K3ZED / N3GWC /  K3CWI<br><br>Contact:: K3ZED  Copper29p07@hotmail.com",-5.000,K3ZED,1 and 2
-KE6GVK,Saint Johns,Arizona,United States,Peer,1,446.82500,310464,BrandMeister,310464,0,<br><br>,-5.000,KE6GVK,TS1 TS2
+KE6GVK,Saint Johns,Arizona,United States,Peer,1,446.82500,310464,BrandMeister / TGIF / XLX NETWORK / CROSS MODE NXDN,310464,0,"Refer to website: https://wmrasystem.com/ST-RPT.html<br>REPEATER HAS ANALOG, DMR AND D-STAR",-5.000,KE6GVK,TS1 TS2
 KK4ECR,Orange Park,Florida,United States,Peer,1,443.08750,310465,C-Bridge,310465,0,Multiple TG as setup on repeater,+5,KK4ECR,1 & 2
 K4VYX,Savannah,Georgia,United States,Master,3,442.81250,310466,DMR-MARC,310466,1,TWIN-TWR-DMR,+5.000,K4VYX,TS1 TS2
 N1DAS,Nashua,New Hampshire,United States,Peer,5,446.42500,310467,BrandMeister,310467,0,TS2:<br>9  Local repeater<br>313323  GMARS 1 Club talkgroup - all GMARS repeaters<br><br>TS1:<br>313324  GMARS 2 - Secondary club talkgroup<br>3133  NH Statewide (PTT)<br>,-5.000,N1DAS,1 & 2
@@ -8100,7 +8101,7 @@ AE5DN,Calumet,Oklahoma,United States,Peer,1,444.32500,314000,Brandmeister,314000
 W5RAB,Bartlesville,Oklahoma,United States,Peer,1,442.18750,314001,BM,314001,1,"<br>Contact: Bob, W5RAB<br>Email: rbuford@bartnet.net",+5.000,W5RAB,TS1 TS2
 W5IAS,Tulsa South,Oklahoma,United States,Peer,2,442.16250,314002,Brandmeister,314002,1,"Time Slot #2 - Group Call 3140 = OK State Wide<br>Time Slot #2 - Group Call 314002 = OK East<br>Time Slot #2 - Group Call 2 = Local<br>Contact: Rick, WD5ETD<br>Email: wd5etd@gmail.com",+5.000,WD5ETD,TS1 TS2
 AE5DN,Oklahoma City NW,Oklahoma,United States,Peer,1,442.62500,314003,Brandmeister,314003,0,"Northwest OKC<br>Time Slot #1 - use for dynamic linking<br>Time Slot #2 - use for Oklahoma/local<br><br>Contact: AE5DN, Mark<br>Email: mark.matalik@gmail.com",+5.000,AE5DN,TS1 TS2
-N5QP,Fort Gibson,Oklahoma,United States,Peer,1,442.12500,314004,BM,314004,1,"<br>Contact: Nathan, N5QP<br>Email: nathanbroderick@me.com",+5.000,N5QP,TS1 TS2
+N5QP,Fort Gibson,Oklahoma,United States,Peer,1,442.12500,314004,BM,314004,1,"Contact: Nathan, N5QP<br>Email: nathanbroderick@me.com",+5.000,N5QP,TS1 TS2
 W5IAS,Bartlesville,Oklahoma,United States,Peer,2,442.47500,314005,BM,314005,1,"<br>Contact Name: Bob, W5RAB<br>Email: rbuford@bartnet.net",+5.000,W5RAB,TS1 TS2
 W5RAB,Bartlesville,Oklahoma,United States,Peer,1,442.35000,314006,BM,314006,1,"Contact: Bob, W5RAB<br>Email: rbuford@bartnet.net",+5.000,W5RAB,TS1 TS2
 AE5DN,Stillwater,Oklahoma,United States,Peer,1,444.47500,314007,Brandmeister,314007,0,"Time Slot #1 for dynamic linking<br>Time Slot #2 for Oklahoma/local usage<br><br>Contact: AE5DN, Mark<br>Email: mark.matalik@gmail.com",+5.000,AE5DN,TS1 TS2
@@ -8463,6 +8464,7 @@ KM4CJ,Huntsville,Alabama,United States,Master,1,444.97500,314409,AmComm,314409,0
 KF6FM,Moreno Valley,California,United States,Master,1,445.38000,314410,Western States DMR,314410,0,,-5.0000,KF6FM,TS1 TS2
 AG5AA,Houston,Texas,United States,Peer,1,440.10000,314411,BM,314411,0,313146 XLX034,+5.000,AG5AA,Mixed Mode
 WD5IYF,Duncan,Oklahoma,United States,Master,2,444.82500,314412,BM,314412,0,,+5.0000,WD5IYF,TS1 TS2
+KC3ART,Dawsonville,Georgia,United States,Master,1,443.50000,314413,DMR,314413,1,"Repeater build in process, not ""on the air"" yet. Will update once all our ducks are in a row.",+5.00,KC3ART,TS1
 K7AZ,Lompoc,California,United States,Peer,3,443.35000,314414,BrandMeister,314414,0,Bench Testing/Repairing MTR-2000 With Pi-Star MMDVM Pi-Star Modem,+5.000,K7AZ,TS1 TS2
 N0SZ,Karval,Colorado,United States,Peer,7,445.12500,314415,RMHAM,314415,0,"TS1 Talkgroup 700, RM Wide<br>TS2 Talkgroup 719, South",-5.00,W0VG,TS1 TS2
 KF6FM,Prescott,Arizona,United States,Master,5,447.72500,314416,Western States DMR,314416,0,,-5.0000,KF6FM,TS1 TS2
@@ -9324,6 +9326,7 @@ UN7UGA,Almaty,Almaty,Kazakhstan,Peer,1,436.17500,401016,BM,401016,1,Time Slot #1
 UN7UOB,Atyrau,Atyrau,Kazakhstan,Master,1,439.43750,401017,BM,401017,1,Atyrau DMR Repeater<br>TG401<br>TG401006,-7.600,UN7OBL,TS1 TS2
 UN7PME,Temirtau,Karaganda,Kazakhstan,Master,1,439.43750,401018,BM,401018,1,401,-7.6,UN7PME,TS1 TS2
 UN7PME,Karaganda,Karaganda,Kazakhstan,Master,1,439.43750,401019,BM,401019,1,"401,91.93.",-7.6,UN7PME,TS1 TS2
+UN7PME,Karagandy,Karaganda,Kazakhstan,Master,1,144.96250,401020,BM,401020,1,"401, 2501",0.000,,TS2
 VU2BCM,Palakkad,Kerala,India,Master,1,145.65000,404001,DMR-MARC,404001,0,,-0.600,VU2PJP,Mixed Mode
 VU2FUN,New Delhi,Delhi,India,Peer,7,145.67000,404002,BrandMeister,404002,0,,-0.600,VU2IB,Mixed Mode
 VU2HUB,New Delhi,Delhi,India,Peer,7,435.67000,404003,BrandMeister,404003,0,,-1.600,VU2IB,Mixed Mode
@@ -9549,6 +9552,8 @@ BR7IAB,Foshan City,Hunan Guangdong Guangxi Hainan,China,Peer,1,439.47500,460141,
 BR3LKI,Hulunbuir,Inner Mongolia,China,Master,9,439.90000,460142,DMR,460142,0,,-8.000,BG3LKI,TS1 TS2
 BR3QF,Tangshan City,Shanxi Hebei Tianjin,China,Master,5,439.42500,460143,BM,460143,0,460315<br>46001,-5.0,BI3PIE,Mixed Mode
 BR6AE,Su Zhou,Henan Hubei Anhui,China,Master,7,439.90000,460144,"BM,DMR-MARC",460144,1,,-0.600,BH6ABT,TS1 TS2
+BR2JBC,baicheng,Heilongjiang Jilin Liaoning,China,Peer,0,439.85000,460145,192.168.0.1,460145,1,4603149,-5,,TS1
+BR4NJ,NanJing,Shanghai Shandong Jiangsu,China,Master,1,430.61000,460146,BrandMeister,460146,1,TG46025,+9.000,,TS1 TS2
 BR2AG,Harbin,Heilongjiang Jilin Liaoning,China,Master,1,145.77500,460206,china telcom,460206,0,,-0.600,BR2AG,TS2
 BR3GG,xilinhaote,Inner Mongolia,China,Peer,2,439.60000,460301,BM,460301,1,460479,-5.000,BG3IZM,TS1 TS2
 BR3HM,HuLunBeiEr,,China,Master,1,439.75000,460309,telecom,460309,1,,-5.000,BG3HM,TS2
