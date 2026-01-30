@@ -2798,7 +2798,7 @@ UR0DMM,Mobile,,Ukraine,Peer,1,438.87500,255011,BM,255011,0,Mobile Repeater UR7D 
 UR0FUN,Odessa,,Ukraine,Peer,1,438.80000,255012,BM,255012,0,,-7.600,UZ5DU,TS1 TS2
 UR0FYG,Odessa,,Ukraine,Master,1,439.07500,255013,BM,255013,1,"TS1 - TG25578 (QRZ Odesa, Club TG)<br>TS2 - TG25516 (Odessa), TG2555 (Ukraine)",-7.600,UR5FYG,TS1 TS2
 UR0UUP,Kyiv,,Ukraine,Peer,1,439.10000,255014,BM,255014,0,,-7.600,UZ5DU,TS1 TS2
-UR0TTX,Netishyn,,Ukraine,Master,1,438.20000,255015,"BM, TGIF Network",255015,0,PSC Network: BM - Color Code:1 - Assigned: - TS Linked:TS1 TS2 - Operator: UR5TNF                     <br>Time Slot #1Group Call 9 = Local<br>Time Slot #2 Group Call =  2555,-7.6,UR5TNF,TS1 TS2
+UR0TTX,Netishyn,All Regions,Ukraine,Master,1,438.20000,255015,"BM, TGIF Network",255015,0,PSC Network: BM - Color Code:1 - Assigned: - TS Linked:TS1 TS2 - Operator: UR5TNF<br>Time Slot #1Group Call 9 = Local<br>Time Slot #2 Group Call =  2555,-7.6,UR5TNF,TS1 TS2
 UR0UUJ,Kyiv,,Ukraine,Master,1,439.02500,255016,BM,255016,1,"R-85 Kyiv<br>25501, 255, TG 9",-7.6,UT3USZ,Mixed Mode
 UR0VAB,Kn68dm,,Ukraine,,1,438.97500,255255,None,255255,0,,-7.600,UT0VA,
 UR0UUT,KO50ID,,Ukraine,,1,438.97500,255264,None,255264,0,,-7.600,UR4UPB,
@@ -3280,7 +3280,7 @@ DB0DND,Oberhausen,Bayern,Germany,Peer,1,438.86250,262241,BM,262241,1,,-7.6,DL2UK
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,430.38750,262242,BM,262242,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-0.00001,DJ3LE,TS2
 DB0PEG,Pegnitz,Bayern,Germany,Master,1,438.93750,262243,Brandmeister,262243,1,None,7.600,,TS1 TS2
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,439.92500,262244,BM,262244,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.400,DJ3LE,TS1 TS2
-DL6HAT,Groemitz,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.93750,262246,TS2,262246,1,None,-9.400,,TS2
+DO0ELM,Hemkenrode,Niedersachsen / Bremen,Germany,Master,1,439.17500,262245,DMR/FM,262245,1,2623 TS1<br>26538 (8) TS2,-7.600,,Mixed Mode
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,262250,DMR-plus,262250,0,,-7.600,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,262251,DMR-plus,262251,0,,-0.600,DL5KUA,TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,262257,BM,262257,0,,-9.400,DF1RL,TS1 TS2
@@ -4073,9 +4073,9 @@ YM3KMA,Manisa,Aegean Region,Turkiye,Peer,1,439.22500,286453,BM,286453,1,,-7.600,
 YM8KRD,Kahramanmara Andrn,Southeastern Anatolia Region,Turkiye,Master,1,439.40000,286461,BM,286461,1,,-7.600,TA8L,TS1 TS2
 YM9KA,Rize,,Turkiye,,1,145.72500,286531,None,286531,0,,0.600,TA9Q,
 YM9KA,Rize,Black Sea Region,Turkiye,Master,1,439.27500,286532,BM 2841,286532,1,,-7.600,TA9EA,TS1
-YM2KC,Sakarya,,Turkiye,,1,439.37500,286541,BM,286541,0,,-7.600,TA2VR,TS1 TS2
+YM2KC,SAKARYA,Marmara Region,Turkiye,Peer,1,439.37500,286541,BM,286541,0,,-7.600,TA2VR,TS1 TS2
 YM2KS,Sakarya,,Turkiye,,1,439.22500,286542,BM,286542,0,,-7.600,TA2W,TS1 TS2
-YM2KC,Sakarya,,Turkiye,,1,145.70000,286543,BM,286543,0,,-0.600,TA2VR,TS1 TS2
+YM2KC,SAKARYA,Marmara Region,Turkiye,Peer,1,145.70000,286543,BM,286543,0,,-0.600,TA2VR,TS1 TS2
 YM2KS,Sakarya,,Turkiye,,1,439.22500,286544,None,286544,0,,7.600,TA2W,
 YM7KSV,Sivas Merakum T.,,Turkiye,Master,1,439.17500,286581,BM,286581,1,,-7.600,TA7KY,Mixed Mode
 YM1KRM,Tekirdag Merkez,,Turkiye,,1,439.16250,286591,BM,286591,0,,-7.600,TA1UHX,TS1 TS2
@@ -4541,7 +4541,7 @@ VE9DRS,Sussex Corner,New Brunswick,Canada,Peer,1,444.62500,302434,BM,302434,1,,+
 VE9RDR,Moncton,New Brunswick,Canada,Peer,1,927.15000,302435,BM,302435,0,,-25.0000,VE9SC,TS2
 VE3FKD,Rice Lake,Ontario,Canada,Peer,1,146.48000,302436,BM,302436,1,Currently Simplex test and Timeslot 2 can be assigned to any Talkgroup.<br>Contact Bob VE3IDZ via QRZ with any questions,-0.0000,VE3IDZ,TS2
 VE3YTA,Pembroke,Ontario,Canada,Master,1,145.35000,302437,BM,302437,0,,-0.600,VE3JLR,Mixed Mode
-VE7BUL,Prince George,British Columbia,Canada,Master,1,433.50000,302438,BM,302438,0,Parameters may change. Location will change once site is secured.<br>It's a work in progress.,+5.000,VE7BUL,TS2
+VE7BUL,Prince George,British Columbia,Canada,Peer,1,433.50000,302438,BM,302438,0,Parameters may change. Location will change once site is secured.<br>It's a work in progress.,+5.000,VE7BUL,TS2
 VE3OSH,Oshawa,Ontario,Canada,Master,0,147.12000,302439,IAX2,302439,0,,+0.6,VA3NLM,Mixed Mode
 VE1DRR,Halifax,Nova Scotia,Canada,Master,1,443.75000,302441,BM,302441,1,Will be tied to BM TG 30205,+5.000,VE1JKB,TS1 TS2
 VA6SRG,Dunmore,Alberta,Canada,Master,4,444.80000,302442,dstar,302442,0,,+5.000,VA6CWK,Mixed Mode
@@ -4557,6 +4557,7 @@ VE3TNK,Mississauga,Ontario,Canada,Master,1,145.17000,302453,BM,302453,0,,-0.6,VA
 VE1MCM,Currys Corner,Nova Scotia,Canada,Peer,1,442.12500,302454,BM,302454,1,Coverage approximately 25 Km radius<br>Windsor and surrounding area<br>Yaesu DR-1X<br>Commercial folded dipole 30 feet AGL<br>TG3021,+5.000,VE1LJ,TS1 TS2
 VE3MBR,OWEN SOUND,Ontario,Canada,Peer,1,444.42500,302455,BM,302455,1,,+5.000,VE3RNK,TS1 TS2
 VA3PWR,Newmarket,Ontario,Canada,Peer,1,442.00000,302456,MMDVM,302456,1,None,+5.000,,TS1 TS2
+VE7RKO,Prince George,British Columbia,Canada,Peer,1,433.50000,302457,BM,302457,1,None,+5.000,,TS2
 VE5DMR,Swift Current,Saskatchewan,Canada,None,1,443.00000,302501,DMR-MARC Canada,302501,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada<br>Time Slot #1 - Group Call 310 = TAC310<br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba<br>Time Slot #2 - Group Call 3026 = Alberta<br>Time Slot #2 - Group Call 3029 = New Brunswick<br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE5EN<br>Contact email: ve5en@shaw.com,+5.000,VE5EN,TS1 TS2
 VE6VPR,Edmonton,Alberta,Canada,Peer,1,440.80000,302600,DMR-MARC Canada,302600,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE6AEW<br>Contact email:,+5.000,VE6AEW,TS1 TS2
 VE6RYC,Calgary,Alberta,Canada,Master,1,444.00000,302601,DMR-MARC Canada,302601,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: Doug Howard, VE6CID<br>Contact email:ve6cid@me.com",+5.000,VE6CID,TS1 TS2
@@ -7913,7 +7914,7 @@ AB8E,Elkins,West Virginia,United States,Master,1,146.86500,313783,BM,313783,1,,-
 N2FUR,Belleville,New Jersey,United States,Peer,1,443.09000,313784,BM,313784,1,,+5.000,N2FUR,TS1 TS2
 N6CID,Alamogordo,New Mexico,United States,Master,1,444.97500,313786,BM,313786,0,,+5.000,N6CID,TS1 TS2
 KC7Z,Bremerton,Washington,United States,Peer,1,441.17500,313787,BrandMeister,313787,0,,+5.000,KC7Z,Mixed Mode
-KG5A,Williston,Tennessee,United States,Master,4,442.23750,313788,Brandmeister,313788,0,"IPSC Network:BM - Color Code:4 - Assigned:Master - TS Linked:TS1 TS2 - Operator:KX4MQ<br>Time Slot # 1 - Group Call 31471 = NWS Memphis<br>Time Slot # 2 - Group Call 2 = West TN Cluster, """,+5.00,NJ8X,TS1 TS2
+KG5A,Williston,Tennessee,United States,Peer,4,442.23750,313788,Brandmeister,313788,0,"IPSC Network:BM - Color Code:4 - Assigned:Master - TS Linked:TS1 TS2 - Operator:KX4MQ<br>Time Slot # 1 - Group Call 31471 = NWS Memphis<br>Time Slot # 2 - Group Call 2 = West TN Cluster, """,+5.00,NJ8X,TS1 TS2
 WH7PW,Honolulu,Hawaii,United States,Master,1,434.97500,313789,BM,313789,1,,+5.00,WH7PW,TS1 TS2
 W4NAS,Callahan,Florida,United States,Master,5,145.31000,313791,BM,313791,0,DMR<br>YSF<br>D-STAR<br>TG 9/1 Local (Nassau Chat)<br>TG 2/2 First Coast DMR,-0.600,N9HEL,Mixed Mode
 W5VOM,Richmond,Texas,United States,Peer,1,443.75000,313792,TMARC KI5MRF,313792,0,Timeslot 1	                                                      Timeslot 2<br>Talkgroup Name	Talkgroup ID		         Talkgroup Name	    Talkgroup ID<br>Local Repeater	   2		                          Texas Statewide	        3148	<br>HTX2	                   8204		                   Worldwide	                 1	<br>BM South Texas	   31482		                   North America	         3	<br>BM SouthEast Texas  31484	                           TAC310	                         310	<br>AMSAT	                    98006	<br>SETECG	                    8686	<br>SkyHub Link	           310847	<br>NARS	                   3146211	<br>HOU Metro	           8207,+5.000,W5VOM,TS1 TS2
@@ -8838,7 +8839,7 @@ N5GMJ,Weatherford,Texas,United States,Master,1,441.97500,314827,Dillo DMR,314827
 KE5ZW,Cedar Park,Texas,United States,Master,1,442.65000,314828,Armadillo Net,314828,1,Slot 1<br>TG2  Local Repeater<br>TG10  Austin Metro<br>TG3148  TX Statewide (Lonestar Network)<br><br>Slot 2<br>TG3185  Cactus<br>TG3175  Southern Plains PTT Only  5 minute timeout <br><br>Contact: N5GMJ<br>Email: n5gmj@arrl.org,+5.000,KE5ZW,TS1 TS2
 N5EOC,Grapevine,Texas,United States,Peer,1,440.50000,314829,DMR-MARC-Lonestar,314829,1,"C-bridge partner of DMR-MARC)<br><br>Time Slot #1 - Group Call 1 = Worldwide All Languages (15)<br>Time Slot #1 - Group Call 3 = North America (15)<br>Time Slot #1 - Group Call 13= Worldwide English (15)<br>Time Slot #1- Group Call 8205 = North Texas Wide<br>Time Slot #1- Group Call 2 = Dallas Metro (15)<br>Time Slot #1- Group Call 310 = TAC 310 (15)<br>Time Slot #1- Group Call 9 = Local Repeater<br>Time Slot #2 - group Call 3148 = TX Statewide<br>Time Slot #2 - group Call 10 = Tarrant Metro<br>Time Slot #2 - group Call 311 = TAC 311 (15)<br>Time Slot #2 - group Call 3175 = Southern Plains (15)<br>Time Slot #2- Group Call 3100 = DCI Bridge (15)<br><br>Contact: Roger Jones, KD5UJL<br>Email: kd5ujl@gmail.com",+5.000,KD5UJL,TS1 TS2
 W5DMR,Hurst,Texas,United States,Peer,1,443.26250,314830,ChicagoLand,314830,1,,+5.000,W5HK,TS1 TS2
-W7DRF,Reno,Nevada,United States,Peer,5,145.23000,314831,Brandmeister,314831,1,None,-600.000,,TS1 TS2
+W7DRF,Reno,Nevada,United States,Peer,5,145.23000,314831,Brandmeister,314831,1,None,-0.600,,TS1 TS2
 N5ITU,Fairview,Texas,United States,Peer,1,441.33750,314832,K4USD Net,314832,1,Time Slot #1 - Group Call 1 = WW All Languages<br>(PTT activated with 5 min inactivity timeout)<br><br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 13= WW English<br><br>Time Slot #2 - Group Call 3148= TX Statewide<br><br>Time Slot #2 - Group Call 3100 = DCI Cbridge<br>(Can be timed out w/TG2 or 3148 PTT)<br><br>Time Slot #2 - Group Call 310 = TAC310<br>Time Slot #2 - Group Call 2 = Local 2<br>Time Slot #2 - Group Call 9 = Local 9<br>Time Slot #2 - Group Call 9998 = Parrot<br>Time Slot #2 - Group Call 9999 = Audio Test<br><br>Contact: N5ITU<br>Email: jwallach@drig.com,+5.000,N5ITU,TS1 TS2
 K5MSO,Notrees,Texas,United States,Peer,14,443.88750,314833,Armadillo Net,314833,1,Slot 1<br>TG2  Local Repeater<br>TG10  Midland Metro<br>TG3148  TX Statewide (Lonestar Network)<br><br>Slot 2<br>TG3185  Cactus<br>TG3175  Southern Plains PTT Only  5 minute timeout <br><br>Contact: N5GMJ<br>Email: n5gmj@arrl.org,+5.000,K5MSO,TS1 TS2
 KD5DFB,Houston,Texas,United States,Peer,7,441.77500,314834,Lonestar Network,314834,1,"TS1 TG1 Worldwide(PTT w/10 min timeout)<br>TS1 TG3 North America<br>TS1 TG310 TAC310(PTT w/10 min timeout)<br>TS1 TG311 TAC311(PTT w/10 min timeout)<br>TS1 TG312 TAC312(PTT w/10 min timeout)<br>TS1 TG3100 DCI Bridge<br><br>TS2 TG2 Local<br>TS2 TG3148 TX Statewide <br>TS2 TG3175 Southern Plains(PTT w/10 min timeout)<br>TS2 TG8207 Houston(Houston Area Repeaters)<br>TS2 TG8686 SETECG""SE TX Emergency Comm Group""(PTT w/10 min timeout)<br><br>Contact: Michael, KD5DFB<br>Email: info@setecg.org<br>Website: www.setecg.org",+5.000,KD5DFB,TS1 TS2
@@ -9554,6 +9555,9 @@ BR3QF,Tangshan City,Shanxi Hebei Tianjin,China,Master,5,439.42500,460143,BM,4601
 BR6AE,Su Zhou,Henan Hubei Anhui,China,Master,7,439.90000,460144,"BM,DMR-MARC",460144,1,,-0.600,BH6ABT,TS1 TS2
 BR2JBC,baicheng,Heilongjiang Jilin Liaoning,China,Peer,0,439.85000,460145,192.168.0.1,460145,1,4603149,-5,,TS1
 BR4NJ,NanJing,Shanghai Shandong Jiangsu,China,Master,1,430.61000,460146,BrandMeister,460146,1,TG46025,+9.000,,TS1 TS2
+BR7JBQ,FoShan,Hunan Guangdong Guangxi Hainan,China,Peer,1,439.15000,460147,APN,460147,1,46020S1/46001S2,-0.500,,TS1 TS2
+BR3GI,Ordos,Inner Mongolia,China,Master,1,439.75000,460148,43.129.83.124,460148,1,None,-5.000,,TS2
+BH3HAO,Ordos,Inner Mongolia,China,Master,1,439.55000,460149,43.129.83.124,460149,1,None,-8.000,,TS1 TS2
 BR2AG,Harbin,Heilongjiang Jilin Liaoning,China,Master,1,145.77500,460206,china telcom,460206,0,,-0.600,BR2AG,TS2
 BR3GG,xilinhaote,Inner Mongolia,China,Peer,2,439.60000,460301,BM,460301,1,460479,-5.000,BG3IZM,TS1 TS2
 BR3HM,HuLunBeiEr,,China,Master,1,439.75000,460309,telecom,460309,1,,-5.000,BG3HM,TS2
@@ -9563,7 +9567,7 @@ BR7YAK,Lingshui,Hunan Guangdong Guangxi Hainan,China,Master,8,439.37500,460709,C
 BR7YID,Sanya,Hunan Guangdong Guangxi Hainan,China,Master,8,439.37500,460710,China Mobile,460710,1,,-5.000,BG7YID,TS1 TS2
 S21ALT,Jashore,,Bangladesh,Master,1,437.50000,470001,"BM, brandmeister.network, DMR-MARC",470001,1,470<br>91,+0.25,S21ALT,Mixed Mode
 S21IT,Dhaka-1219,,Bangladesh,Master,1,439.10000,470003,"DMR, BM, Allstar link, EchoLink",470003,0,TG470,+5.000,S21IT,Mixed Mode
-S21ACP,Dhaka,All Regions,Bangladesh,Master,10,438.20000,470010,BM,470010,1,470,+100.000,,Mixed Mode
+S21ACP,Dhaka,All Regions,Bangladesh,Master,10,438.20000,470010,BM,470010,1,470,+1.000,,Mixed Mode
 9M4RXC,Bandar Baharu Kedah,West Malaysia,Malaysia,Master,1,439.47500,502002,BrandMeister,502002,1,,-5.000,9W2XIO,TS1 TS2
 9M4RBC,GENTING HIGHLAND,West Malaysia,Malaysia,Master,8,147.75000,502003,BrandMeister,502003,0,,-0.600,9M2EDK,TS1 TS2
 9M4RGH,GENTING HIGHLAND,West Malaysia,Malaysia,Master,8,145.67500,502004,BrandMeister,502004,0,,+0.550,9M2EDK,TS1 TS2
