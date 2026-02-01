@@ -222,6 +222,7 @@ PI1BLA,Bladel,Noord-Brabant,Netherlands,Master,1,438.30000,BM,51.372089,5.219171
 PI2ASD,Amsterdam,Noord-Holland,Netherlands,Master,1,438.50000,dmr,52.37308,4.892543,204003,test modus in region Amsterdam,-7.6,ACTIVE,PD7SM,TS1 TS2
 PI1SNK,Sneek,Friesland,Netherlands,Master,2,438.43750,BM,53.0264118,5.6474685,204004,,-7.600,ACTIVE,PA2SNK,TS1
 PI2DFT,Delft,Zuid-Holland,Netherlands,Peer,1,438.37500,bm,52028034,4354832,204006,,-7.6,ACTIVE,PD4TH,TS1 TS2
+PD0JCH,Ouddorp,Zuid-Holland,Netherlands,Peer,1,438.20000,TS1 TS2,51.4800000,4.378517,204007,None,-7.600,ACTIVE,,TS1 TS2
 PI1DHG,Den Haag,Zuid-Holland,Netherlands,,1,438.20000,BM,52.080780,4.335861,204201,,-7.600,ACTIVE,PA3FRH,TS1 TS2
 PI1HGD,Den Haag,Zuid-Holland,Netherlands,,1,438.25000,DMR-plus,52.090561,4.353970,204202,,-7.600,ACTIVE,PA3FRH,TS1 TS2
 PI1DEC,Dordrecht,Zuid-Holland,Netherlands,,1,438.02500,BrandMeister,51.7958812,4.6779351,204220,,-7.600,ACTIVE,PA3L,TS1 TS2
@@ -288,7 +289,6 @@ ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,439.30000,BM,50.976576,3.996268,206
 ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,438.67500,BM,50.976576,3.996268,206024,Sloten TG1 TG2,-7.600,ACTIVE,ON7ASZ,TS1 TS2
 ON0MSF,Ixelles,Brussels,Belgium,Master,2,439.27500,BM,50.8337,4.3604,206025,,-7.6000,ACTIVE,ON6RF,TS1 TS2
 ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,439.30000,BM,50.9765760,3.995851,206026,1en2,-7.600,ACTIVE,ON7ASZ,TS1 TS2
-ON0VA,Zulzeke,Oost-Vlaanderen,Belgium,Peer,1,438.22500,HYTERA,50.7912081,3.569982,206100,,-7.600,ACTIVE,ON4PN,TS1 TS2
 ON0GRC,Gent,Oost-Vlaanderen,Belgium,Peer,1,439.08750,BM,51.044800,3.701583,206101,,-7.600,ACTIVE,ON4AKH,TS1 TS2
 ON0DEN,Dendermonde,Oost-Vlaanderen,Belgium,Peer,1,439.03750,BM,51.0312293,4.098112,206102,,-7.600,ACTIVE,ON1DGR,TS1 TS2
 ON0SNW,Sint-Niklaas,Oost-Vlaanderen,Belgium,,1,439.40000,DMR-plus,51.193100,4.154900,206103,,-7.600,ACTIVE,ON1GPS,TS1 TS2
@@ -946,6 +946,7 @@ IR9ZZQ,Catania,Sicily,Italy,Master,1,430.28750,BM,37.509488,15.084188,222079,,+5
 IR0UAQ,M.te Miranda,,Italy,,1,430.20000,DMR-plus,42.5337996,12.6865893,222080,,1.600,ACTIVE,IW0REF,TS1 TS2
 IR0UIN,Bruncu Simioni,,Italy,,1,430.72500,None,,,222081,,5.000,ACTIVE,IS0AYI,
 IR0ZZS,Roma,Lazio / Umbria / Sardinia,Italy,Master,1,430.23750,BM,41.545956,12.261225,222082,,+5.000,ACTIVE,IW0FXN,Mixed Mode
+IR0UIP,Itri,Lazio / Umbria / Sardinia,Italy,Peer,1,430.75000,DMR-plus,41.283932,13.517421,222083,,5.000,ACTIVE,IU0DLI,TS1 TS2
 IR9ZZC,Belpasso,Sicily,Italy,Master,1,430.72500,BM,37.59780000,14.98270000,222085,,+5.000,ACTIVE,IW9GRL,TS1 TS2
 IR2ZZZ,Milano,Lombardy,Italy,Peer,1,430.96250,BM2222,45.4641943,9.1896346,222086,,+5.000,ACTIVE,IK2LFH,TS1 TS2
 IR8ZZW,Serino,Molise / Campania / Calabria,Italy,Master,1,430.88750,BM,40.853837,14.851233,222087,,+5.000,ACTIVE,IZ8QAD,TS1
@@ -1354,7 +1355,7 @@ IR7UCI,Bitonto,,Italy,,1,430.41250,DMR-plus,,,222703,,5.000,ACTIVE,IZ7GLL,TS1 TS
 IR7UCH,TRICARICO,,Italy,,1,430.12500,BrandMeister,40.620076,16.1436174,222704,,-1.600,ACTIVE,IK7SHC,
 IR7BY,Brindisi,,Italy,,1,145.57500,None,40.627300,17.955700,222706,,-6.000,ACTIVE,IZ7DZO,
 IR7UE,PARABITA (LE),,Italy,,1,430.05000,BrandMeister,40.051921,18.129526,222707,,1.600,ACTIVE,IK7YTQ,
-IR7UBV,BRINDISI,,Italy,,1,431.65000,DMR-plus,,,222708,,1.600,ACTIVE,IW7CRP,TS1 TS2
+IR7UBV,Brindisi,Apulia / Basilicata,Italy,Peer,7,431.65000,DMR,,,222708,,5.000,ACTIVE,IW7CRP,TS1 TS2
 IR7UK,Rignano Garganico,,Italy,,1,430.27500,None,41.678322,15.589720,222709,,5.000,ACTIVE,IZ7SKY,
 IR7UBX,BARI,Apulia / Basilicata,Italy,Master,1,430.00000,BM,41.1257843,16.8620293,222710,,+5.000,ACTIVE,IZ7OIX,TS1 TS2
 IR7UBP,Neviano,Apulia / Basilicata,Italy,Peer,1,430.50000,BM,40.107722,18.114025,222712,,+5.000,ACTIVE,IK7YTQ,TS1 TS2
@@ -2270,7 +2271,7 @@ OZ8HYT,Humlebaek,Hovedstaden,Denmark,,14,434.68750,DMR-plus,55.9618789,12.530546
 OZ20REQ,Roedovre,Hovedstaden,Denmark,Peer,4,434.71250,DMR-plus,55.6812495,12.4547294,238466,"238, 2, 113, 123",-2.000,ACTIVE,OZ1AFR,TS1 TS2
 OZ21REQ,CITY,Hovedstaden,Denmark,,4,434.78750,DMR-plus,55.6867243,12.5700724,238468,,-2.000,ACTIVE,OZ1DOX,TS1 TS2
 OZ0ABB,Avedre Test,Hovedstaden,Denmark,,1,434.78750,Motorola,,,238477,,-2.000,ACTIVE,OZ8ABB,
-OZ0KEC,Gilleleje,Hovedstaden,Denmark,,14,434.85000,DMR-plus,56.101311,12.322400,238490,,-2.000,ACTIVE,OZ2KEC,TS1 TS2
+OZ0KEC,Gilleleje,Hovedstaden,Denmark,Peer,14,434.85000,DMR-plus,56.0725950,12.2867930,238490,,-2.000,ACTIVE,OZ2KEC,TS1 TS2
 OZ19DMR,Virum Test,Hovedstaden,Denmark,,1,434.88750,Motorola,55.7939593,12.4694709,238499,,-2.000,ACTIVE,OZ8ABB,
 OZ2DMR,Egebjerg Sj.,Sjaelland,Denmark,Peer,5,434.72500,MOT,,,238500,,-2.000,ACTIVE,OZ5X,
 OZ6REC,Regstrup,,Denmark,Peer,5,434.65000,DMR-plus,,,238501,,-2.000,ACTIVE,OZ1BCG,TS1 TS2
@@ -3160,7 +3161,7 @@ DO0RAM,Ramelsloh,Niedersachsen / Bremen,Germany,Master,1,438.40000,"BM, D-STAR, 
 DB0TGO,Berlin-Tegelort,,Germany,,1,434.78750,None,52.569592,13.232200,262103,,0.000,ACTIVE,DL7ATA,
 DB0SP,Berlin - Wannsee,,Germany,,6,145.62500,None,52.421199,13.1800603,262104,,-0.600,ACTIVE,DL7HD,
 DB0BES,Bestensee,,Germany,,1,438.52500,None,52.242895,13.6279176,262106,,-7.600,ACTIVE,DL4KA,
-DB0XO,Bergheim,Nordrhein-Westfalen,Germany,Master,1,438.05000,BM,50.9540457,6.6410004,262107,Long Range Hotspot,+0.00,ACTIVE,DL5KCD,TS1
+DB0XO,Bergheim,Nordrhein-Westfalen,Germany,Master,1,438.05000,BM,50.3424200,6.2500000,262107,Long Range Hotspot,+0.00,ACTIVE,DL5KCD,TS1
 DB0AVH,Flankenschanze 43,,Germany,,1,439.82500,BM,52.540203,13.198562,262108,,-9.400,ACTIVE,DH7AHK,TS1 TS2
 DB0BBW,Hannover,Niedersachsen / Bremen,Germany,Peer,1,438.28750,NXDN2DMR-Bridge for TG26231,52.339702,9.815093,262109,,-7.600,ACTIVE,DL9CMA,TS1
 DM0RD,Berlin/Tempelhof,,Germany,Peer,1,439.58750,BM,,,262110,,-7.600,ACTIVE,DG1TAL,TS1 TS2
@@ -3281,8 +3282,6 @@ DB0DND,Oberhausen,Bayern,Germany,Peer,1,438.86250,BM,48.726137,11.148252,262241,
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,430.38750,BM,54.562000,9.375000,262242,TG8 - Cluster AFu-Nord <br>External TG 26225,-0.00001,ACTIVE,DJ3LE,TS2
 DB0PEG,Pegnitz,Bayern,Germany,Master,1,438.93750,Brandmeister,49.7580310,11.5327670,262243,None,7.600,ACTIVE,,TS1 TS2
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,439.92500,BM,54.562000,9.375000,262244,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.400,ACTIVE,DJ3LE,TS1 TS2
-DO0ELM,Hemkenrode,Niedersachsen / Bremen,Germany,Master,1,439.15000,DMR/FM,52.2300527,10.7017152,262245,2623 TS1<br>26538 (8) TS2,-7.600,UNKNOWN,,Mixed Mode
-DL6HAT,Groemitz,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.93750,TS2,0.0,0.0,262246,None,-9.400,UNKNOWN,,TS2
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,DMR-plus,53.648010,10.275660,262250,,-7.600,ACTIVE,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,DMR-plus,53.6635561,10.2835977,262251,,-0.600,ACTIVE,DL5KUA,TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,BM,53.970840,8.949069,262257,,-9.400,ACTIVE,DF1RL,TS1 TS2
@@ -7490,7 +7489,7 @@ WM8S,Friendswood area,Texas,United States,Peer,1,441.37500,BM,29.5293998,-95.201
 KD2PWJ,New Brunswick,New Jersey,United States,Peer,1,440.45000,dmr,40.4862174,-74.4518173,313289,,+5.000,ACTIVE,KD2PWJ,TS1
 W6THC,Palm Springs,California,United States,Peer,1,447.14000,BM,33.1580933,-117.3505966,313293,"This is a multimode D-STAR and P25 repeater located at Edom Hill near Palm Springs, CA. See PAPASYS.COM for more information.",-5.000,ACTIVE,AA4CD,Mixed Mode
 W5XTR,Franklinton,Louisiana,United States,Master,2,442.40000,Brandmeister,30.8696500,-89.9902800,313294,,+5.000,ACTIVE,W5XTR,TS1 TS2
-KE2AEM,Bronx,New York,United States,Peer,7,445.47500,BM,40.860222,-73.86657,313295,,-5.000,ACTIVE,KE2AEM,TS1 TS2
+KE2AEM,Bronx,New York,United States,Peer,7,445.47500,BrandMeister,40.860222,-73.86657,313295,,-5.000,ACTIVE,KE2AEM,TS1 TS2
 KB1MMR,Middlefield,Connecticut,United States,Master,0,446.92500,P25,41.513763,-72.746216,313296,"P25 TGID 38105 for ""CT P25"" network, 1 (default) for local, 10200 North America, and 10201 North America TAC-1.",-5.000,ACTIVE,KB1MMR,Mixed Mode
 WB9PHK,Sioux Falls,South Dakota,United States,Peer,0,443.06875,ChicagoLand,43.55,-96.73,313299,"Time Slot #1<br>3117 Illinois-1 (Illinois statewide)<br>3155 Wisconsin-1 (Wisconsin statewide)<br>31171 Illinois Fusion (Illinois sites)<br>31551 Wisconsif Fusion (Wisconsin sites)<br>TAC-312<br>TAC-317<br><br>Time Slot #2<br>3166 Local-2 (System wide)<br>3169 Midwest-2 (Midwest)<br>310 TAC-310<br>311 TAC-311<br><br> <br>Contact Name: Todd, WB9PHK<br>Website: https://wp.chicagoland-cc.org/",+5.000,ACTIVE,WB9PHK,TS1 TS2
 K1MOT,Hudson,New Hampshire,United States,Master,1,447.72500,NEDECN,42.806436,-71.3822511,313300,"Time Slot #1 - Group Call 759 = SKYWARN/911<br>Time Slot #1 - Group Call 9998 = Parrot*<br>Time Slot #1 - Group Call 1 = World Wide*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 3150 = VT Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide <br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3133 = NH Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activated<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area (http://www.dmr-marc.net/images/k1mot-coverage.jpg)<br> <br>Contact Name: Bill, NE1B<br>Email: ne1b@arrl.net<br>Website: http://nedecn.org",-5.000,ACTIVE,NE1B,TS1 TS2
@@ -8091,7 +8090,7 @@ N8FIS,Fremont,Ohio,United States,Peer,7,443.00000,Brandmeister,41.3503303,-83.12
 W8NP,Canton,Ohio,United States,Peer,7,444.78750,Brandmeister,40.900482,-81.105576,313991,,+5.000,ACTIVE,W8NP,TS1 TS2
 W2NAV,East Amherst,New York,United States,Master,1,441.37500,DMR,43.0208186,-78.6745614,313992,,+5.000,ACTIVE,W2NAV,TS1 TS2
 W4FAN,Wingate,North Carolina,United States,Master,1,444.86250,BM,34.9797,-80.4711,313993,Multimode Repeater,+5.000,ACTIVE,K4FAN,TS1 TS2
-KD0JJG,Davenport,Iowa,United States,Master,1,146.95500,bm,41.3235,-90.590836,313994,"DMR C4FM, And D-star",-0.600,ACTIVE,KD0JJG,Mixed Mode
+KD0JJG,Davenport,Iowa,United States,Master,1,146.64000,bm,41.3235,-90.590836,313994,"DMR C4FM, And D-star",-0.600,ACTIVE,KD0JJG,Mixed Mode
 KJ7ZPM,Hoquiam,Washington,United States,Master,1,224.10000,PNW Digital,47.046,-124.08,313995,,-1.6,ACTIVE,KJ7ZPM,TS1 TS2
 N1DTA,Stanford,Kentucky,United States,Peer,1,444.91250,kentuckydmr c bidge,37.486913,84.696977,313996,,+5.000,ACTIVE,N1DTA,TS1 TS2
 KF0CVE,Excelsior Springs,Missouri,United States,Peer,1,444.10000,BM,39.3869,-94.5811,313997,,+5.000,ACTIVE,KF0CVE,TS1 TS2
