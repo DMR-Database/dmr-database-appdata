@@ -77,6 +77,6 @@ Download the DMR User Database app today and keep the global DMR community acces
 
 ---
 <div align="center" style="font-size: 0.9em; color: #888;">
-&copy; 2025, DMR User Database Team. All rights reserved.
+&copy; 2026, DMR User Database Team. All rights reserved.
 </div>
 
