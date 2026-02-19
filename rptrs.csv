@@ -1330,7 +1330,7 @@ IR6UDC,Monte Alto,,Italy,,1,430.22500,222609,DMR-plus,222609,0,,5.000,IZ6UDS,TS1
 IR6UDH,Monte Majella CH,Marche / Abruzzo,Italy,Peer,1,430.03750,222610,ADN-2224,222610,1,"SL1 = TG222, TG222995<br>SL2 = TG22261, TG22266",+1.600,IU6SSZ,TS1 TS2
 IR6UDB,Monte Pallano CH,Marche / Abruzzo,Italy,Peer,1,430.36250,222611,ADN-2224,222611,1,SL1 = TG222<br>SL1 = TG222995<br>SL2 = TG22261,+1.600,IU6SSZ,TS1 TS2
 IR6UDE,Pietracorniale PE,Marche / Abruzzo,Italy,Peer,1,430.35000,222612,ADN-2224,222612,1,SL1 = TG222<br>SL1 = TG222995<br>SL2 = TG22261<br>SL2 = TG22266,+1.600,IU6SSZ,TS1 TS2
-IR6UBA,L Aquila,,Italy,Peer,1,430.06250,222613,DMR-plus,222613,0,,5.000,IU6RCX,TS1 TS2
+IR6UBA,L'Aquila,Marche / Abruzzo,Italy,Peer,1,430.06250,222613,DMR-plus,222613,0,,5.000,IU6RCX,TS1 TS2
 IR6UDF,Monte Cimarani AQ,Marche / Abruzzo,Italy,Peer,1,430.27500,222614,ADN-2224,222614,1,SL1 = TG222<br>SL1 = TG222995<br>SL2 = TG22261,+1.600,IU6SSZ,TS1 TS2
 IR6UDL,VASTO NORD,,Italy,Peer,1,430.06250,222615,IT-DMR,222615,1,,+5.000,IK6TTE,TS1 TS2
 IR6UDF,Avezzano,,Italy,,1,430.27500,222616,BM,222616,0,,1.600,IZ6UDS,TS1 TS2
@@ -2048,7 +2048,6 @@ GB7CF,Folkestone,England,United Kingdom,,3,439.51250,235162,DMR-plus,235162,0,,-
 GB7WD,Sedgley,England,United Kingdom,Peer,11,439.71250,235163,BM,235163,0,,-9.000,G4VZO,TS1 TS2
 GB7DY,Dudley,England,United Kingdom,Peer,11,439.57500,235164,BM,235164,0,,-9.000,G4VZO,TS1 TS2
 GB7DS,Norwich,,United Kingdom,,1,439.42500,235165,DMR-plus,235165,0,,-9.000,M0ZAH,TS1 TS2
-GB7MN,Stockport Cheshire,England,United Kingdom,,2,439.41250,235167,DMR-plus,235167,0,,-9.000,G8NSS,TS1 TS2
 GB7XYZ,Demo Repeater,England,United Kingdom,Peer,3,439.16250,235168,DMR-plus,235168,0,,-9.000,G0OLX,TS1 TS2
 GB7WL,Amersham,England,United Kingdom,Peer,3,439.70000,235169,DMR-plus,235169,0,,-9.000,M0ZPU,TS1 TS2
 GB7HR,Heathrow Airport,England,United Kingdom,Master,3,439.45000,235170,DMR-plus,235170,1,"Always connected: TS1: 1, 2, 13, 235.  TS2: 801<br><br>User Activated (UA) TG's also supported",-9.000,G0OXZ,TS1 TS2
@@ -3938,11 +3937,11 @@ TF3DMR,Reykjavik,,Iceland,Peer,1,439.85000,274002,BM,274002,1,,-5.000,TF3EY,TS1 
 4L7NIK,Kurdghelauri St.,,Georgia,,1,439.51250,282002,None,282002,0,,7.600,4L4GB,
 4L0G,Tbilisi,,Georgia,Master,1,145.67500,282003,BM,282003,1,"Repeater installed at Contest Station of National Association of Radio amateurs of Georgia [NARG].<br>Call Sign of The station: 4L0G (ID: 2820023);<br>--- Repeater Frequency :<br>RX: 145.075MHz; TX: 145.675 MHz;<br>Time Slote 1 & 2, Color Code:1; <br>IPSC Network: BM;<br>Repeater ID: 282003;<br>Group Call 282 = Georgia;<br><br>Repeater provided by 4L2IK (Irakli) and 4L0ML (Marco).<br><br>Contact: irak.kordzakhia@gmail.com",-0.600,4L0G,TS1
 LZ0DMR,Sofia,,Bulgaria,Peer,1,439.10000,284000,IPSC2,284000,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
-LZ0ATV,Sofia Bulgaria,,Bulgaria,,1,439.42500,284001,BM,284001,0,,-7.600,LZ7DJ,TS1 TS2
+LZ0ATV,Sofia,Sofia City,Bulgaria,Peer,1,439.42500,284001,BM,284001,0,,-7.600,LZ7DJ,TS1 TS2
 LZ0HAM,peak Botev,,Bulgaria,Peer,1,439.50000,284002,IPSC2,284002,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
 LZ0DDA,Peak Petrohan,,Bulgaria,Peer,1,438.45000,284003,IPSC2,284003,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
 LZ0DSD,Sliven,Sliven,Bulgaria,Peer,1,439.25000,284004,BrandMeister,284004,0,"The repeater operates in DMR mode in BrandMeister network, connected to XLX359B via BM2841.<br>Static talk groups: TS1 - TG284 and TS2 - TG284359.",-7.600,LZ1KM,TS1 TS2
-LZ0DDF,Sofia Bulgaria,,Bulgaria,Peer,1,439.47500,284005,BM,284005,0,,-7.600,LZ7DJ,TS1 TS2
+LZ0DDF,Sofia,Sofia City,Bulgaria,Peer,1,439.47500,284005,BM,284005,0,,-7.600,LZ7DJ,TS1 TS2
 LZ0WDX,Sofia,,Bulgaria,,1,439.25000,284006,DMR-plus,284006,0,,-7.600,LZ1WDX,TS1 TS2
 LZ0DAD,Neseber,,Bulgaria,Peer,1,438.50000,284008,IPSC2,284008,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
 LZ0DAV,Varna,,Bulgaria,Peer,1,438.55000,284009,IPSC2,284009,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
@@ -8488,7 +8487,7 @@ N4TDX,Titusville,Florida,United States,Peer,13,442.85000,314436,BM,314436,0,,+5.
 AI5VQ,Leslie,Arkansas,United States,Peer,1,444.60000,314437,BM,314437,1,,+5.000,AI5VQ,TS1 TS2
 NF2F,Mt  Dora,Florida,United States,Peer,1,442.80000,314438,BM,314438,0,,+5.000,NF2F,TS1 TS2
 WR3IRS,Eagles Peak,Pennsylvania,United States,Peer,1,441.45000,314439,Interstate,314439,1,TS2: TG2 = South-Central PA (31423) full-time<br><br>On Interstate c-Bridge #2<br><br>Visit www.wr3irs.com for more information,+5.0000,WN3A,TS1 TS2
-WB4EOT,ROCKY MOUNT,Virginia,United States,Peer,1,145.08000,314440,DMRVA,314440,1,"DMRVA Talk Group Line as follows.<br>TG 3151 VA Statewide TS 2<br>TG 43277 TS 2  HEARS - TG linked to N4HRS HEARS network.  www.n4hrs.org<br>TG 27500 Local TS 1<br>TG 27501 TAC A TS 1<br>TG 27502 TAC B TS 1<br><br>Repeater is now active at Thornton Mountain site  located in Franklin County as of August 26, 2025.  <br> Local TG 27500 is  linked to DMR repeaters on Poor Mtn 444.775 and Fort Lewis Mtn 147.165, Tinker Mtn, 444.475, and Mountain Lake 444.250.<br>Refer to Talk Group  matrix on www.dmrva.org for latest TG information.",+1.400,WB4EOT,TS1 TS2
+WB4EOT,Rock Mount,Virginia,United States,Peer,1,145.08000,314440,DMRVA,314440,1,"DMRVA Talk Group Line as follows.<br>TG 3151 VA Statewide TS 2<br>TG 43277 TS 2 HEARS - TG linked to N4HRS HEARS network.  www.n4hrs.org<br>TG 27500 Local TS 1<br>TG 27501 TAC A TS 1<br>TG 27502 TAC B TS 1<br><br>Repeater is on air and active at Thornton Mountain site located in Franklin County as of January 2026.<br>Local TG 27500 is linked to DMR repeaters on Poor Mtn 444.775 and Fort Lewis Mtn 147.165, Tinker Mtn, 444.475, and Mountain Lake 444.250.<br>Refer to Talk Group matrix on www.dmrva.org for latest TG information.",+1.400,WB4EOT,TS1 TS2
 W8MAL,Oak Harbor,Ohio,United States,Peer,1,442.77500,314441,Brandmeister,314441,0,Please use TS 1 for all dynamic talk groups and disconnect when finished. Emergency Communications and ARES preempt all non-emergent communications on the system. <br><br><br>TS 1 Static<br>3188917 - Lucas County ARES CH 2<br>31395 -  Ohio ARES<br><br>TS 2 Static <br>31392 - Cleveland NWS<br>3115753 - Lucas County ARES CH 1,+5.00,W8MAL,Mixed Mode
 W4END,Harvest,Alabama,United States,Master,1,440.77500,314442,AmComm,314442,1,Mixed mode DMR/Analog,+5.00,W4END,TS1
 KD2LNB,Glassboro,New Jersey,United States,Master,1,440.10625,314443,BM,314443,0,,+5.000,K2ZA,TS1
@@ -8951,7 +8950,7 @@ W2CID,Norfolk,Virginia,United States,Peer,7,445.51250,315110,BrandMeister,315110
 W4WFF,Wallops Island,Virginia,United States,Peer,1,444.88000,315111,DMRVA,315111,1,Time Slot #2  Group Call 3151 = Virginia Statewide<br>Time Slot #2 Group Call 27501 = DelMarVa<br>Time Slot #1  Group Call 27500 = Local<br>Time Slot #1  Group Call 310 = TAC 310<br>Time Slot #1  Group Call 8951 = TAC 1<br>Time Slot #1  Group Call 3100 = DCI Bridge<br>Time Slot #1  Group Call 3174 = DMR-MARC Southeast<br>Time Slot #1  Group Call 3173 = DMR-MARC Mid-Atlantic<br>Time Slot #1  Group Call 27501 = VA TAC A<br>Time Slot #1  Group Call 27502 = VA TAC B<br>Time Slot #2  Group Call 2= PRN<br><br>NASA Wallops Amateur Radio Club<br>http://www.dmrva.org/<br><br>You Must Have [ARS] Disabled Within Your Radio<br>,+5.000,K4APR,TS1 TS2
 KE4NYV,Chesapeake,Virginia,United States,Peer,1,444.27500,315112,Brandmeister,315112,1,,+5.000,K4APR,TS1 TS2
 WR3D,Leesburg,Virginia,United States,Master,1,443.90000,315113,OpenDMR,315113,0,,+5.000,WR3D,TS1 TS2
-W5CUI,Roanoke,Virginia,United States,Master,1,444.77500,315114,DMRVA,315114,1,Time Slot #2  Group Call 3151 = VA Statewide<br>Time Slot #1  Group Call 27500 = Local<br>Time Slot #1  Group Call 27501 = VA TAC A<br>Time Slot #1  Group Call 27502 = VA TAC B<br>Time Slot #1  Group Call 3154 = WVA Statewide<br>Time Slot #2 Group Call 43277 = HEARS<br><br>Goat Mountain Radio Association<br>http://www.dmrva.org/<br><br>You Must Have [ARS] Disabled Within Your Radio<br>,+5.000,WB4EOT,TS1 TS2
+W5CUI,Roanoke,Virginia,United States,Master,1,444.77500,315114,DMRVA,315114,1,Time Slot #2  Group Call 3151 = VA Statewide<br>Time Slot #1  Group Call 27500 = Local<br>Time Slot #1  Group Call 27501 = VA TAC A<br>Time Slot #1  Group Call 27502 = VA TAC B<br>Time Slot #1  Group Call 3154 = WVA Statewide<br>Time Slot #2 Group Call 43277 = HEARS<br><br>Goat Mountain Radio Association<br>http://www.dmrva.org/<br><br>You Must Have [ARS] Disabled Within Your Radio,+5.000,WB4EOT,TS1 TS2
 WA4FC,Goochland,Virginia,United States,Peer,1,443.43750,315115,DMRVA,315115,1,See www.dmrva.org for details,+5.00,KD4BPZ,TS1 TS2
 K4ITL,Roanoke,Virginia,United States,Peer,1,441.88750,315116,NC PRN,315116,0,,+5.000,K4ITL,TS1 TS2
 K4LCT,Norfolk,Virginia,United States,None,7,440.51250,315117,BRANDMEISTER,315117,0,,+5.000,K4LCT,TS1 TS2
