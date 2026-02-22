@@ -670,7 +670,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 676,HB9TSU,Marco,Bellinzona,Ticino,Switzerland
 677,W9KHZ,David,Lexington,Kentucky,United States
 678,IR6UDP,Federico,Pescara,,Italy
-679,LZ4NY,Miro,Vratsa,,Bulgaria
+679,LZ4NY,Miro,Vratsa,Vratsa,Bulgaria
 680,EB5DQ,Ferdy,Puzol,Valencia,Spain
 681,W1SBW,Scott A,Florence,Vermont,United States
 682,DG6HD,Dennis,Walkendorf,Sachsen-Anhalt  Mecklenburg-Vorpommen,Germany
@@ -5157,7 +5157,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 5224,W5DBH,Dan,Haines City,Florida,United States
 5225,WW4MSK,Wallace,Monroe,Georgia,United States
 5226,KC2GUA,Robert G,Waldorf,Maryland,United States
-5227,TA1DTA,Ali,Istanbul,Marmara Region,Turkiye
+5227,TA1DTA,DOGAN,Istanbul,Marmara Region,Turkiye
 5228,DL1RI,Werner,Romrod,Hessen,Germany
 5229,DK7ZM,Heinz,Schwalmtal,Hessen,Germany
 5230,KG7HQ,Michael A,Sedro Woolley,Washington,United States
@@ -6577,7 +6577,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 6665,TA1SFK,Sefik,ISTANBUL,Marmara Region,Turkiye
 6666,VA3TYT,Adam,Ajax,Ontario,Canada
 6667,VE3DDR,David,Dunnville,Ontario,Canada
-6668,YB7RV,M,Kotabaru Laut Island,Kalimantan Selatan,Indonesia
+6668,YB7RV,Ravie,Kotabaru Laut Island,Kalimantan Selatan,Indonesia
 6669,W4BKT,Bradley,Owens Cross Roads,Alabama,United States
 6670,KC9ASD,Traci,Shoals,Indiana,United States
 6671,VA7SSM,Steven,Vancouver,British Columbia,Canada
@@ -7142,7 +7142,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7237,JM3AAN,Koji,Hyogo  Kawanishi,Kinki,Japan
 7238,JI2HPJ,Toshikazu,Nagoya,Tokai,Japan
 7239,KC5YSR,Karen,Port Bolivar,Texas,United States
-7240,IZ7DOW,Rossano,,,Italy
+7240,IZ7DOW,Rossano,Sava,Apulia  Basilicata,Italy
 7241,IZ7ECV,Arianna,Sava Taranto,Apulia  Basilicata,Italy
 7242,KC1UAX,Ling,Duxbury,Massachusetts,United States
 7243,N1JEM,Jeffrey,East Hartford,Connecticut,United States
@@ -9546,7 +9546,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 9671,TB7MIK,Mehmet,Kayseri,Central Anatolia Region,Turkiye
 9672,KI4MTG,Jerry,Christiansburg,Virginia,United States
 9673,TA2GLY,Huseyin,Ankara,Central Anatolia Region,Turkiye
-9674,KO6HPL,Robin,Encinitas,California,United States
+9674,KO6AM,Robin,Encinitas,California,United States
 9675,N7OB,Randolph,Smithfield,Utah,United States
 9676,KC1OAB,Bob,Auburn,Massachusetts,United States
 9677,TB1ZMR,Ufuk,,Marmara Region,Turkiye
@@ -9715,7 +9715,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 9840,W2SLK,Nathaniel,Saranac Lake,New York,United States
 9841,PU2UBK,Danilo,Serrana,Sao Paulo,Brazil
 9842,VK6DC,Doug,Baldivis,Western Australia,Australia
-9843,K4TOG,Bryan D,Pembroke Pines,Florida,United States
+9843,K4TOG,Bryan,Pembroke Pines,Florida,United States
 9844,W2ZXR,Steven E,Skillman,New Jersey,United States
 9845,BG8IXZ,Ke,Chong Qing,,China
 9846,BH8GG,Aline,Chong Qing,,China
@@ -12910,6 +12910,26 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 13064,DB9JU,Benjamin,Berlin,Berlin  Brandenburg,Germany
 13065,WP4TUQ,Carmelo,Aguirre,All Regions,Puerto Rico
 13066,XE2MEM,Mauricio,Reynosa,Tamaulipas,Mexico
+13067,CR7BYN,Jorge,Alcobaca,Regiao Centro,Portugal
+13068,KJ7INA,Peter,Portland,Oregon,United States
+13069,SP9XU,Jacek,Krakow,małopolskie,Poland
+13070,NP2Y,Enrique,Orlando,All Regions,U.S. Virgin Islands
+13071,VK3EAN,Erwin,Melbourne,Victoria,Australia
+13072,M6DJK,Leslie,Gateshead,England,United Kingdom
+13073,IU5OYO,Pasquale,Empoli,Tuscany,Italy
+13074,TB3RRR,Suleyman,Izmir,Aegean Region,Turkiye
+13075,TA8MOZ,Mustafa,Sanliurfa,Southeastern Anatolia Region,Turkiye
+13076,N7LGN,Richard,Meridian,Idaho,United States
+13078,ON6UHF,Philip,Oostduinkerke,West-Vlaanderen,Belgium
+13079,W5NM,Carmine,Las Cruces,New Mexico,United States
+13080,TA2BLC,Hamdi,YALOVA,Marmara Region,Turkiye
+13081,VE5JLR,James,Saskatoon,Saskatchewan,Canada
+13082,KO6BAF,David,San Diego,California,United States
+13083,KL5PF,Andreas,Fairbanks,Alaska,United States
+13084,M0DQO,Chris,Fareham,England,United Kingdom
+13085,KD7DMR,Eugene,Spokane,Washington,United States
+13086,N1LLW,Victor,Swansea,Massachusetts,United States
+13087,JO2CIA,Kondo,AMA-CITY,Tokai,Japan
 13089,K8WF,Bill,Lithia Springs,Georgia,United States
 13090,KF2PL,Thaddeus S,Littleton,Colorado,United States
 13091,W8ADA,Douglas,Ada,Ohio,United States
@@ -13046,7 +13066,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 16038,VA2DCY,Chartrand,St-Colomban,Quebec,Canada
 16039,KC3JKG,Leo,Scranton,Pennsylvania,United States
 16040,KL4EDC,Ecos Del Coqui,Anchorage,Alaska,United States
-16041,KC5RBG,Shannon K,Tulsa,Oklahoma,United States
+16041,KC5RBG,Shannon,Tulsa,Oklahoma,United States
 16042,AE4BT,Curtis,Johnson City,Tennessee,United States
 16043,VE7OHM,Wilfried,Vernon,British Columbia,Canada
 16045,K3YT,James M,Tacoma,Washington,United States
