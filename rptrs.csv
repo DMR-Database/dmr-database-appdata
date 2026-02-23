@@ -264,7 +264,7 @@ PI1FRL,Burgwerd,,Netherlands,,1,438.36250,204844,BM,204844,0,,-7.600,PA3GFY,TS1 
 ON0CK,Kortrijk,West-Vlaanderen,Belgium,,1,439.16250,206001,BM,206001,0,,-7.600,ON4TOP,TS1 TS2
 ON0SEA,Knokke-Heist,West-Vlaanderen,Belgium,Master,1,438.93750,206002,BM,206002,0,,-7.600,ON4UK,TS1 TS2
 ON0VRN,Veurne,West-Vlaanderen,Belgium,,1,439.21250,206003,BM,206003,0,,-7.600,ON8SD,TS1 TS2
-ON0MSD,Moorslede,West-Vlaanderen,Belgium,,1,439.18750,206004,BM,206004,0,,-7.600,ON4AIM,TS1 TS2
+ON0MSD,Moorslede,West-Vlaanderen,Belgium,Peer,1,439.18750,206004,BM,206004,0,,-7.600,ON4AIM,TS1 TS2
 ON0MSF,Brussels,Brussels,Belgium,Master,1,438.07500,206005,"BM, Tetrapack",206005,0,"TETRA Repeater, see map.tetrapack.online",-7.6,ON6RF,Mixed Mode
 ON4TOP,Bavikhove,West-Vlaanderen,Belgium,,1,438.07500,206006,Hytera,206006,0,,-7.600,ON4TOP,
 ON0DXK,Kortrijk,West-Vlaanderen,Belgium,,1,439.00000,206007,Hytera,206007,0,,-7.600,ON4TOP,
@@ -1697,7 +1697,7 @@ OE0XMP,Wien,,Austria,,1,438.50000,232069,DMR-plus,232069,0,,-7.600,OE1KBC,TS1 TS
 OE1XHP,Wien/Donaustadt,Wien,Austria,Master,1,438.92500,232070,"DMR-plus, BM",232070,0,,-7.600,OE1LHP,TS1 TS2
 OE3XVA,St. Valentin,Niederoesterreich,Austria,Master,1,438.62500,232071,"BM, DMR-MARC",232071,0,,-7.6,OE3OCC,TS1 TS2
 OE8XGK,dmraustria-at,Kaernten,Austria,Master,1,0.00000,232072,BM,232072,0,,-7.6,OE8VIK,TS1 TS2
-OE9TEV,Gtzis,Vorarlberg,Austria,Master,1,438.82500,232073,P25 MMDVM,232073,0,,-7.600,OE9TEV,Mixed Mode
+OE9TEV,Klaus,Vorarlberg,Austria,Master,1,438.82500,232073,P25 MMDVM,232073,0,,-7.600,OE9TEV,Mixed Mode
 OE3XFP,Heidenreichstein,Niederoesterreich,Austria,Master,1,438.32500,232074,IPSC2,232074,0,,-7.6,OE3DZW,TS1 TS2
 OE3XSR,Haugschlag,Niederoesterreich,Austria,Master,1,438.61250,232075,IPSC2,232075,0,,-7.6,OE3DZW,TS1 TS2
 OE7XOT,Tarrenz,Tirol,Austria,Master,1,439.10000,232076,BM / D-Star,232076,1,"TS1 / 232, 2329, 23298, 232112, TG8 OE-West Cluster<br>TS2 / 2327, 23277, 23279",-7.600,OE7RMT,TS1 TS2
@@ -1995,6 +1995,8 @@ GB7RO,Haslingden,England,United Kingdom,Peer,3,430.26240,234218,BM_2341_United_K
 GB3RV,Haslingden,England,United Kingdom,Master,1,145.73750,234219,BM_2341_United_Kingdom,234219,1,None,-0.600,,TS2
 GB7YM,Birmingham,England,United Kingdom,Peer,8,433.30000,234220,BM,234220,1,TG75,5.000,,TS1 TS2
 GB7XN,Worksop,England,United Kingdom,Master,2,439.56250,234222,Freestar network,234222,1,None,-9.000,,TS1 TS2
+MB7ISA,Salisbury,England,United Kingdom,Peer,3,430.06250,234223,Breindmaster,234223,1,91,0.000,,TS2
+GB3LS,Lincoln,England,United Kingdom,Peer,1,433.05000,234224,Brandmeister,234224,1,None,1.600,,TS1 TS2
 GB7AU,Amersham,England,United Kingdom,Peer,1,430.86250,234236,DMR-plus,234236,0,,7.600,M0ZPU,TS1 TS2
 GB3OM,Omagh,Northern Ireland,United Kingdom,Peer,1,430.95000,234501,DMR-MARC,234501,1,DMR Talk Groups<br>SLOT	TALKGROUP	DESCRIPTION<br>1	                1               World-Wide Calling<br>1	                2	         Europe Calling<br>1	                3	         North America<br>1	                5	         Australia<br>1	               13	         English World-Wide Calling<br>1	               80	         UK Chat 1<br>1	               81	         UK Chat 2<br>1	               82	         UK Chat 3<br>1	               83	         UK Chat 4<br>1	               84	         UK Chat 5<br>1	               113	         World-Wide Chat 1 English<br>1	               119	         World-Wide Chat 1 (All Languages)<br>1	               123	         World-Wide Chat 2 English<br>1	               129	         World-Wide Chat 2 (All Languages)<br>1	               235	         UK Calling<br>1	               733	         MilNet<br>1	              2345	         CQ North<br>1	              2347	         GB-SOTA<br>1	              2350	         Brandmeister UK Calling<br>1	              2351	         BM UK Chat 1<br>1	              2352	         BM UK Chat 2<br>1	              2353	         BM UK Chat 3<br>1	              2355	         Brandmeister Scotland Wide<br>1	              2721	         Irish Chat 1<br>1	              2722	         Irish Chat 2<br>1	              2723	         Irish Chat 3<br>1	            23450	         Yorkshire Net<br>1	            23525	         Extended Freedom Network<br>1	            23526	         Hubnet<br>1	            23531	         Raynet UK<br>1	            23532	         Essex Raynet<br>1	            23550	         Scotland Chat<br>1	            23565	         Northumberland Scouts<br>2	                    8	         Northern Ireland Cluster (Only available on GB3OM and GB7UL)<br>2	                    9	         Local (Repeater Only)<br>2	                801	         South East England<br>2	                810	         South West England<br>2	                820	         North West England<br>2	                830	         Midlands England<br>2	                840	         East of England<br>2	                 842	         EA Special Link (GB7AV GB7EX GB7HH)<br>2	                 844	         East Anglia East Coast (GB7DS GB7EB GB7TX GB7YL)<br>2	                  851	         Special Link (GB7AI GB7BL GB7EY GB7GM)<br>2	                  852         Special Link (GB7DM GB7KY GB7SM GB7XG GB7GX)<br>2	                  860         Northeast England<br>2	                  870         Wales and Marches Regional<br>2	                  880         Northern Ireland Regional<br>2	                 2724        Irish Calling<br>2	                 9990        Echo Test<br>2	                23555       Scotland Calling<br>2	                23556       UK Wide Multimode<br>2	                23557       Scotland East<br>2	                23558       Scotland North<br>2	                23559       Scotland West,+7.600,GI4SXV,TS1 TS2
 GB7AI,Hawick,Scotland,United Kingdom,Peer,3,439.33750,234900,DMR-plus,234900,0,,-9.0,G0RDI,TS1 TS2
@@ -2668,6 +2670,7 @@ RR3UD,Ivanovo,,Russia,Peer,1,145.75000,250031,BM,250031,0,TG 250600 local group 
 RA0LML,Ussuriisk,,Russia,Master,1,439.00000,250032,BM,250032,1,High 95 m<br><br>TX 439.000 MHz<br>RX 431.400 MHz,-7.6,RA0LML,TS1 TS2
 RR0AF,Krasnoyarsk,,Russia,Peer,1,145.75000,250033,BM,250033,0,,-0.600,R0AU,TS1 TS2
 R3ECO,Orel,,Russia,Peer,1,436.33750,250034,BM,250034,0,250629<br>250648<br>2501<br>25701<br>9<br>8,+2.8,R3ECO,TS1 TS2
+R8JF,Megion,All Regions,Russia,Master,1,431.80000,250035,192.168.199.192,250035,1,,-0.600,R9JAX,Mixed Mode
 R2DYR,Orekhovo Zuevo,,Russia,Master,1,434.97500,250036,brandmeister,250036,1,,+5.000,R2DYR,TS1 TS2
 R9FEL,Chaikovsky,All Regions,Russia,Master,1,439.10000,250037,BM,250037,1,"(TG 250037)      , .       ,  ,    .",-0.76,R9FEL,TS1 TS2
 UB3ZKR,Belgorod,All Regions,Russia,Master,1,439.37500,250038,BM,250038,1,"TG9,TG8 ,TG31-TS1  ,TG2501,TG250648-TS2",-7.6,UB3ZKR,TS1 TS2
@@ -4001,7 +4004,7 @@ YM3KC,Izmir,Aegean Region,Turkiye,Peer,1,439.22500,286021,BM,286021,1,TG 28635 I
 YM3KC,Izmir,Aegean Region,Turkiye,Peer,1,439.37500,286022,BM,286022,1,TG 28635 IZMIR,-7.600,TA3TX,TS1 TS2
 YM2KK,Istanbul,,Turkiye,Master,1,439.26250,286024,BM,286024,0,,-7.600,TA2RA,TS2
 YM2KA,Cankaya Ankara,Central Anatolia Region,Turkiye,Master,1,439.42500,286025,BM,286025,1,"TS1 26606, Others TS2",-7.600,TA2EE,TS1 TS2
-YM4KU,Efeler,Aegean Region,Turkiye,Peer,1,439.37500,286027,BM,286027,1,TRAC AYDIN DMR REPEATER<br><br>FOR INFORMATION:  https://brandmeister.network/?page=repeater&id=286027 <br><br>aydintracsubesi@gmail.com<br><br>YM4KU,-7.600,TA4TAA,TS1 TS2
+YM4KU,Efeler,Aegean Region,Turkiye,Peer,1,439.37500,286027,BM,286027,1,TRAC AYDIN DMR REPEATER<br><br>FOR INFORMATION:  https://brandmeister.network/?page=repeater&id=286027<br><br>aydintracsubesi@gmail.com<br><br>YM4KU,-7.600,TA4TAA,TS1 TS2
 YM4KB,Denizli,Aegean Region,Turkiye,Master,1,439.16250,286028,BM2622,286028,1,"TRAC Denizli ubesi<br>Rx: 439.162,5<br>Tx: 431.562,5",-7.600,TA4AQG,TS1 TS2
 YM2KBL,Bolu,,Turkiye,Master,1,439.16250,286029,BM,286029,1,,-7.600,TA2CA,TS1 TS2
 YM2KBS,Bartin,,Turkiye,Peer,1,439.20000,286030,BM,286030,1,TG91 grubu (Dunya) TS: 2 de altrlmaktadr.,-7.600,TA2KP,Mixed Mode
@@ -5991,7 +5994,7 @@ KH6FV,Honolulu,Hawaii,United States,Peer,1,443.82500,311538,Hawaii-TRBO,311538,1
 KH6C,West Maui,Hawaii,United States,Peer,0,444.82500,311539,Hawaii Trbo DMR-MARC,311539,1,,+5.000,KH6C,TS1 TS2
 AH6GR,Lanai,Hawaii,United States,Peer,1,442.07500,311540,Brandmeister,311540,0,"TS1: 3115<br>TS1: 31089<br>TS2: 31151<br>TS2: 2<br><br>Contact Information:<br><br>Randy, AH6GR<br>ah6gr@arrl.net",+5.000,AH6GR,TS1 TS2
 KH6C,Kapalua,Hawaii,United States,Peer,0,444.92500,311541,Hawaii Trbo DMR-MARC,311541,1,,+5.000,KH6C,TS1 TS2
-WH6AV,Wailuku,Hawaii,United States,None,1,444.10000,311542,Brandmeister,311542,0,None,+5.000,WH6AV,TS1 TS2
+WH6AV,Wailuku,Hawaii,United States,Master,1,444.10000,311542,Brandmeister,311542,0,None,+5.000,WH6AV,TS1 TS2
 WH6AV,Wailuku,Hawaii,United States,Peer,1,442.72500,311543,Brandmeister,311543,0,None,+5.000,WH6AV,TS1 TS2
 AH6GR,Kaanapali,Hawaii,United States,Master,1,442.50000,311544,Brandmeister,311544,0,"TS1: 3115<br>TS1: 31089<br>TS2: 31151<br>TS2: 2<br><br>Contact Information:<br><br>Randy, AH6GR<br>ah6gr@arrl.net",+5.000,AH6GR,TS1 TS2
 KH6FV,Kona,Hawaii,United States,Peer,4,444.55000,311545,Hawaii Trbo,311545,0,,+5.000,KH6FV,TS1 TS2
@@ -7015,7 +7018,7 @@ KB7DZR,Joseph,Oregon,United States,Master,1,444.78750,312685,BM,312685,1,Time Sl
 K9DKC,Monrovia,Indiana,United States,Peer,1,442.75000,312686,DMR-CrossRoads,312686,0,TS1 - LID 33<br>  Local-1 FT (#3181)<br>  Parrot PTT (#9998)<br><br><br>TS2 - LID 34<br>  Local-2 FT (#3166)<br>  Crossroads FT (#8710)<br>  IN Statewide FT (#3118)<br><br>-- <br>,+5.000,K9DKC,TS1
 KB4IBW,Dresden,Tennessee,United States,Master,1,145.15000,312687,BM,312687,1,TS-2 3147          TN State Wide<br>31471       Memphis NWS<br>43389       SE Lnk LMARC<br>31477       Knoxville Metro<br>31477       Gatlinburg<br><br>TS-1  9               Local<br>2               Cluster,-0.600,KB4IBW,Mixed Mode
 KN6QGV,Lake Balboa,California,United States,Master,13,0.00000,312688,Nexus-DMR,312688,0,,+5.000,KN6QGV,TS1 TS2
-N5EKR,Ellisville,Mississippi,United States,Master,1,443.87500,312690,BM,312690,1,3128<br>31285<br>,+5.00,N5EKR,TS1 TS2
+N5EKR,Ellisville,Mississippi,United States,Master,1,443.87500,312690,BM,312690,1,3128<br>31285,+5.00,N5EKR,TS1 TS2
 W6THC,Palm Springs,California,United States,Peer,1,446.58000,312691,BM,312691,0,PAPAS System TG standard configuration<br>www.papasys.com,-5.000,AA4CD,TS1 TS2
 WB6YES,Palomar Mtn,California,United States,Peer,1,445.86000,312693,BM,312693,0,Recommended Talkgroups<br><br>Timeslot 1<br>California - 3106 (static); California 1 - 31061; North America - 93; Worldwide - 91; Nationwide - 3100; EMCOM - 9911<br><br>Timeslot 2<br>PAPA - 31077(static) ; SoCal - 31066; SoCal 1 - 31067; Local - 2 (static)<br><br>When adding your own talkgroups please use timeslot 1<br><br>Join us for The PAPA System DMR Roundtable on Monday nights at 20:00 (California Time) on the PAPA Chat talkgroup (31077). More information available at http://www.papasys.com,-5.000,AF6FB,TS1 TS2
 WX9DX,Cantrall,Illinois,United States,Master,1,444.50000,312696,BM,312696,0,Send emails about supported Talk groups <br>to wx9dx1951@gmail.com or Facebook me.,+5.000,WX9DX,TS1
@@ -7884,6 +7887,7 @@ WO3F,Newport,North Carolina,United States,Master,1,444.82500,313752,North Caroli
 WA4TOG,Asheville,North Carolina,United States,Peer,1,442.55000,313753,WNC-Net,313753,1,Timeslot 1<br>Local (full time)<br>NET411 (scheduled) [future implementation planned]<br>North America (on demand)<br>TAC310 (on demand)<br>TAC311 (on demand)<br>TAC312 (on demand)<br>WW English (on demand)<br>Data (full time) [future implementation planned]<br>Echo Test (on demand)<br>Clear Timeslot 2<br><br>Timeslot 2<br>WNC (full time)<br>PRN (on demand)<br>Southeast (on demand)<br>Clear Timeslot 1<br><br>Contact: WA4TOG<br>Email: wa4tog@bellsouth.net<br>Website: http://www.wncdmr.net/,+5.000,WA4TOG,TS1 TS2
 WR4AGC,Hillsborough,North Carolina,United States,Master,1,443.13750,313754,NC PRN,313754,0,None,+5.000,NC4CD,TS1 TS2
 W4YMI,Morehead City,North Carolina,United States,Master,1,444.97500,313755,NC-PRN Morehead City,313755,1,,+5.000,WO3F,TS1 TS2
+K4MJO,Lawrenceville,Virginia,United States,Peer,6,444.72500,313756,BM,313756,1,Updated: 8/2/25<br>Contact: K4MJO Matt,+5.000,K4MJO,TS1 TS2
 W4FAR,Wilkesboro,North Carolina,United States,Peer,1,440.53750,313757,NCPRN,313757,0,,+5.000,W4HF,TS1 TS2
 N2DMR,High Point,North Carolina,United States,Peer,1,443.72500,313758,PRN,313758,1,,+5.000,N2DMR,TS1 TS2
 N4GAS,GASTONIA,North Carolina,United States,Master,1,445.72500,313759,BRANDMEISTER,313759,0,,-5.000,NC0G,TS1 TS2
@@ -10496,6 +10500,7 @@ CE4UJP,CURICO,Maule,Chile,Master,1,147.39000,730065,BM - ADN,730065,1,None,+0.60
 CA7MZD,CALBUCO,Los Lagos,Chile,Peer,1,433.08000,730066,DMR,730066,1,None,+0.000,,TS1
 CA7MZD,CALBUCO,Los Lagos,Chile,Peer,1,147.75000,730067,DMR,730067,1,None,+0.000,,TS2
 CE2VOL,Curico,Maule,Chile,Peer,1,147.27000,730068,7301,730068,1,7301541,+0.600,,TS2
+CE4CU,CURICO,Maule,Chile,Master,1,147.39000,730069,BM - ADN,730069,1,None,+0.600,,TS1 TS2
 CE1RRA,Arica,,Chile,Peer,1,146.97000,730101,DMR-MARC,730101,1,Time Slot #1 - Group Call 1 = World Wide English<br>Time Slot #1 - Group Call 14 = Spanish Worldwide<br>Time Slot #2 - Group Call 730 = Chile<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Contact Name: CE1PDL<br>Email: ca2@cag.cl,-0.600,CE1PDL,TS1 TS2
 CE2LS,El Salvador,Antofagasta,Chile,Peer,1,147.27000,730102,DMR-MARC,730102,1,Time Slot #1 - Group Call 1 = World Wide English<br>Time Slot #1 - Group Call 14 = Spanish Worldwide<br>Time Slot #2 - Group Call 730 = Chile<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Contact Name: CE2LS<br>Email: ca2@cag.cl,+0.600,CE2LS,TS1 TS2
 CE1RLP,Calama,Antofagasta,Chile,Master,1,433.10000,730103,Brandmeister,730103,0,,+5.000,CE1RLP,TS1 TS2
