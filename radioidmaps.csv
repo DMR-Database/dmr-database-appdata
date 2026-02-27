@@ -286,6 +286,7 @@ ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,439.30000,BM,50.976576,3.996268,206
 ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,438.67500,BM,50.976576,3.996268,206024,Sloten TG1 TG2,-7.600,ACTIVE,ON7ASZ,TS1 TS2
 ON0MSF,Ixelles,Brussels,Belgium,Master,2,439.27500,BM,50.8337,4.3604,206025,,-7.6000,ACTIVE,ON6RF,TS1 TS2
 ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,439.30000,BM,50.9765760,3.995851,206026,TG1 en TG2,-7.600,ACTIVE,ON7ASZ,TS1 TS2
+ON0DV,Eupen,Liege,Belgium,Peer,1,439.30000,Brandmeister,50.6330880,6.0089580,206027,None,-7.600,ACTIVE,,TS1 TS2
 ON0GRC,Gent,Oost-Vlaanderen,Belgium,Peer,1,439.08750,BM,51.044800,3.701583,206101,,-7.600,ACTIVE,ON4AKH,TS1 TS2
 ON0DEN,Dendermonde,Oost-Vlaanderen,Belgium,Peer,1,439.03750,BM,51.0312293,4.098112,206102,,-7.600,ACTIVE,ON1DGR,TS1 TS2
 ON0SNW,Sint-Niklaas,Oost-Vlaanderen,Belgium,,1,439.40000,DMR-plus,51.193100,4.154900,206103,,-7.600,ACTIVE,ON1GPS,TS1 TS2
@@ -1614,7 +1615,7 @@ HB9DC,Maennedorf ZH,Zurich,Switzerland,Peer,5,438.21250,BM,47.25618,8.69013,2288
 HB9TG,Sulgen,Thurgau,Switzerland,Master,1,439.57500,BM,47.533463,9.189757,228816,,-7.600,ACTIVE,HB9EIY,TS1 TS2
 HB9AK,Kloten Kaserne,Zurich,Switzerland,Master,1,0.00000,IPSC2+BM,0,0,228819,,-7.6,ACTIVE,HB9HRQ,TS1 TS2
 HB9SDB,Portable-Hotspot,,Switzerland,,1,433.72500,DMR-plus,,,228822,,0.000,ACTIVE,HB9DR,TS1 TS2
-HB9DR,Waedenswil / ZH,,Switzerland,Peer,1,438.50000,DMR-plus,,,228891,,-7.600,ACTIVE,HB9SDB,TS1 TS2
+HB9DR,Waedenswil,Zurich,Switzerland,Peer,1,438.50000,DMR+,47.2911000,9.4135190,228891,,-7.600,ACTIVE,HB9SDB,TS1 TS2
 HB9DR,St.Gallen-West / SG,,Switzerland,,2,438.22500,DMR-plus,,,228901,,-7.600,ACTIVE,HB9SDB,TS1 TS2
 HB9JEZ,SG,St. Gallen,Switzerland,Peer,1,434.72500,DMR-plus,47.433941,9.394900,228902,,0.000,ACTIVE,HB9SDB,TS1 TS2
 HB9DR,St.Gallen-Ost/SG,,Switzerland,,1,438.21250,DMR-plus,47.433941,9.394900,228903,,-7.600,ACTIVE,HB9SDB,TS1 TS2
@@ -1694,7 +1695,7 @@ OM0OUL,Lucenec JN98TI,,Slovakia,,1,438.97500,DMR-plus,48.328442,19.690701,231330
 OM0ODM,Kosice,Kosicky / Presovsky,Slovakia,Peer,1,438.22500,BM,48.71372,21.23346,231401,,-7.600,ACTIVE,OM8KT,TS1 TS2
 OM0ODP,Strbske Pleso,,Slovakia,,1,438.27500,BM,49.127991,20.054876,231404,,-7.600,ACTIVE,OM3WIM,TS1 TS2
 OM0ODK,Kojsovska hola,Kosicky / Presovsky,Slovakia,Master,1,438.25000,BM,48.782131,20.987949,231405,,-7.600,ACTIVE,OM8KT,TS1 TS2
-OE9XXH,Hard,Vorarlberg,Austria,Peer,2,438.46250,IPSC2,47.2911000,9.4135190,232001,None,-7.600,ACTIVE,,TS1 TS2
+OE9XXH,Hard,Vorarlberg,Austria,Peer,2,438.46250,DMR+,47.2911000,9.4135190,232001,None,-7.600,ACTIVE,,TS1 TS2
 OE0XMP,Wien,,Austria,,1,438.50000,DMR-plus,,,232069,,-7.600,ACTIVE,OE1KBC,TS1 TS2
 OE1XHP,Wien/Donaustadt,Wien,Austria,Master,1,438.92500,"DMR-plus, BM",48.22388,16.45611,232070,,-7.600,ACTIVE,OE1LHP,TS1 TS2
 OE3XVA,St. Valentin,Niederoesterreich,Austria,Master,1,438.62500,"BM, DMR-MARC",48.190022,14.520928,232071,,-7.6,ACTIVE,OE3OCC,TS1 TS2
@@ -2180,7 +2181,7 @@ GB7SQ,Gorebridge,Scotland,United Kingdom,,1,439.67500,BM,55.843548,-3.0478409,23
 GB3ED,Edinburgh,Scotland,United Kingdom,Peer,1,430.88750,DMR-plus,55.933521,-3.213420,235446,,7.600,ACTIVE,GM4GZW,TS1 TS2
 GB7EU,Edinburgh  City Centre,Scotland,United Kingdom,Peer,11,430.83750,Brandmeister,55.933521,-3.212829,235447,,+7.600,ACTIVE,GM7RYR,Mixed Mode
 GB7EA,Erskine,Scotland,United Kingdom,Peer,1,439.53750,DMR-plus,55.899132,-4.480139,235450,,-9.000,ACTIVE,MM0PAZ,TS1 TS2
-GB7BB,Banff,Scotland,United Kingdom,,1,439.71250,DMR-plus,57.660000,-2.600000,235454,,-9.000,ACTIVE,MM0BUH,TS1 TS2
+GB7BB,Banff,Scotland,United Kingdom,Master,1,439.71250,DMR-plus,57.660000,-2.600000,235454,,-9.000,ACTIVE,MM0BUH,TS1 TS2
 GB3EI,Clachan North Uist,Scotland,United Kingdom,Peer,1,145.61250,BM,57.541981,-7.339366,235460,,-0.600,ACTIVE,GM8SAU,Mixed Mode
 GB7EI,Clachan North Uist,Scotland,United Kingdom,Peer,6,430.85000,BM,57.541981,-7.339366,235461,,+7.600,ACTIVE,GM8SAU,TS1 TS2
 GB7GD,Aberdeen,Scotland,United Kingdom,,1,145.68750,DMR-plus,57.1482429,-2.0928095,235467,,-0.600,ACTIVE,MM0RDM,TS1 TS2
@@ -3292,9 +3293,6 @@ DB0PEG,Pegnitz,Bayern,Germany,Master,1,438.93750,Brandmeister,49.7580310,11.5327
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,439.92500,BM,54.562000,9.375000,262244,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.400,ACTIVE,DJ3LE,TS1 TS2
 DO0ELM,Hemkenrode,Niedersachsen / Bremen,Germany,Master,1,439.15000,DMR/FM,52.2300527,10.7017152,262245,2623 TS1<br>26538 (8) TS2,-7.600,UNKNOWN,,Mixed Mode
 DL6HAT,Groemitz,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.93750,TS2,0.0,0.0,262246,None,-9.400,UNKNOWN,,TS2
-DB0RDG,Ribnitz-Damgarten,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,1,145.23750,BM,54.2391040,12.4107440,262247,None,0.000,UNKNOWN,,TS1 TS2
-DB0RVH,Rostock,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,BM,54.1739500,12.2444200,262248,None,0.000,UNKNOWN,,TS1 TS2
-DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,BM,53.7477100,13.0784000,262249,None,0.000,UNKNOWN,,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,DMR-plus,53.648010,10.275660,262250,,-7.600,ACTIVE,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,DMR-plus,53.6635561,10.2835977,262251,,-0.600,ACTIVE,DL5KUA,TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,BM,53.970840,8.949069,262257,,-9.400,ACTIVE,DF1RL,TS1 TS2
@@ -4556,6 +4554,7 @@ VA6SRG,Dunmore,Alberta,Canada,Master,4,444.80000,dstar,49.963192,-110.5877,30244
 VE2RGM,Grandes-Piles,Quebec,Canada,Master,1,444.67500,BM,464211,724347,302443,,+5.000,ACTIVE,VA2PPP,TS1 TS2
 VE3FDW,Dresden,Ontario,Canada,Master,7,444.90000,BM,42.578754685123826,-82.1806130735914,302444,"3023,3021610 linked <br>91 Saturday net activated at 10 - 16:00 Slot 2 Can key up any talkgroup on BM anytime<br>FM Mode 88.5",+5.000,ACTIVE,VE3FDW,Mixed Mode
 VA7DXH,Ladysmith,British Columbia,Canada,Peer,1,440.82500,BCTRBO,49.039416,-123.833267,302445,Will follow ASAP.,+5.00,ACTIVE,VA7DXX,TS1 TS2
+VA3TCO,Grassie,Ontario,Canada,Peer,1,147.16500,3026288,43.1426400,-79.5780000,302446,None,+0.600,ACTIVE,,TS1 TS2
 VE1EAN,Windsor,Nova Scotia,Canada,Peer,1,443.65000,BM,44.9878,-63.569,302447,,+5.000,ACTIVE,VE1JKB,TS2
 VE3FDW,WALLACEBURG,Ontario,Canada,Master,7,146.30000,BM,42.5788698,-82.1802792,302448,"tg slot 2= 3023,3021610 and 91 on saturdays between 10:00am 4:00pm<br><br>Simplex ONLY",-0.6,ACTIVE,VE3FDW,TS2
 VA7KEL,Kelowna,British Columbia,Canada,Peer,1,444.82500,BM,49.96705452,-119.53045019,302449,"Talk groups: 302020,  30271, 302,  3027,  30272, 3025",+5.000,ACTIVE,VE7BST,TS1 TS2
@@ -7889,7 +7888,7 @@ WO3F,Newport,North Carolina,United States,Master,1,444.82500,North Carolina PRN 
 WA4TOG,Asheville,North Carolina,United States,Peer,1,442.55000,WNC-Net,35.6000898,-82.524147,313753,Timeslot 1<br>Local (full time)<br>NET411 (scheduled) [future implementation planned]<br>North America (on demand)<br>TAC310 (on demand)<br>TAC311 (on demand)<br>TAC312 (on demand)<br>WW English (on demand)<br>Data (full time) [future implementation planned]<br>Echo Test (on demand)<br>Clear Timeslot 2<br><br>Timeslot 2<br>WNC (full time)<br>PRN (on demand)<br>Southeast (on demand)<br>Clear Timeslot 1<br><br>Contact: WA4TOG<br>Email: wa4tog@bellsouth.net<br>Website: http://www.wncdmr.net/,+5.000,ACTIVE,WA4TOG,TS1 TS2
 WR4AGC,Hillsborough,North Carolina,United States,Master,1,443.13750,NC PRN,36.0452850,-79.1170880,313754,None,+5.000,ACTIVE,NC4CD,TS1 TS2
 W4YMI,Morehead City,North Carolina,United States,Master,1,444.97500,NC-PRN Morehead City,34.7229391,-76.7260436,313755,,+5.000,ACTIVE,WO3F,TS1 TS2
-K4MJO,Lawrenceville,Virginia,United States,Peer,6,444.72500,BM,36.57222393546289,-77.81927202008839,313756,Updated: 8/2/25<br>Contact: K4MJO Matt,+5.000,ACTIVE,K4MJO,TS1 TS2
+K4MJO,Lacrosse,Virginia,United States,Peer,6,443.12500,BM,36.7006715,-78.0930276,313756,Updated: 2/26/26<br>Contact: K4MJO Matt,+5.000,ACTIVE,K4MJO,TS1 TS2
 W4FAR,Wilkesboro,North Carolina,United States,Peer,1,440.53750,NCPRN,36.145965,-81.1606401,313757,,+5.000,ACTIVE,W4HF,TS1 TS2
 N2DMR,High Point,North Carolina,United States,Peer,1,443.72500,PRN,35.962791,-80.013161,313758,,+5.000,ACTIVE,N2DMR,TS1 TS2
 N4GAS,GASTONIA,North Carolina,United States,Master,1,445.72500,BRANDMEISTER,35.297024,-81.115486,313759,,-5.000,ACTIVE,NC0G,TS1 TS2
@@ -8931,6 +8930,8 @@ KX3B,New London,Pennsylvania,United States,Peer,1,146.92500,Brandmeister,39.8785
 KX3B,Kelton,Pennsylvania,United States,Peer,1,146.92500,Brandmeister,39.8785710,-76.270943,314932,None,0.600,ACTIVE,,TS1 TS2
 W2JJT,Plainview,New York,United States,Peer,1,445.23125,BrandMeister,40.7725520,-73.4758380,314934,None,-5.000,ACTIVE,,TS1 TS2
 N3YMS,Bethany Beach,Delaware,United States,Peer,1,441.31250,Interstate,38.5400000,-75.0700000,314935,Delmarvadmr.com,+5.000,ACTIVE,,TS1 TS2
+W7DXJ,Lake Havasu City,Arizona,United States,Master,1,448.45000,Western States DMR,34.5036110,-114.2836110,314936,None,-5.000,ACTIVE,,TS1 TS2
+WA6PYJ,La Canada,California,United States,Master,1,448.36000,Western States DMR,34.2708330,-118.2375000,314937,None,-5.000,ACTIVE,,TS1 TS2
 WR1VT,Brattleboro,Vermont,United States,Peer,1,444.40000,NEDECN,42.8958537,-72.6633378,315001,"Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activation<br>Contact: Ira, W1IRA<br>Email: w1ira@vermontel.net<br><br>Website: http://nedecn.org",+5.000,ACTIVE,W1IRA,TS1 TS2
 W1IMD,Pico Peak,Vermont,United States,Peer,1,444.50000,NEDECN,43.6395654,-72.8362226,315002,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>* = PTT Activation<br><br>Contact: Paul, W1IMD<br>Email: w1imd@arrl.net<br><br>Website: http://nedecn.org",+5.000,ACTIVE,W1IMD,TS1 TS2
 W1UWS,Mt. Ascutney,Vermont,United States,Master,5,448.47500,NEDECN,43.4397861,-72.4456072,315003,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 3125 = MA Statewide* <br><br>* = PTT Activation<br>Contact: Jeff, WB2NWR<br>Email: katchenj@hotmail.com<br><br>Website: http://nedecn.org",-5.000,ACTIVE,WB2NWR,TS1 TS2
@@ -10415,6 +10416,7 @@ PY1MRM,PARATY,Rio de Janeiro,Brazil,Master,1,439.55000,Brandmeister,23.140238,-4
 PY1LDU,Marica,Rio de Janeiro,Brazil,Master,1,439.75000,BM,-22.9137389,-42.81281111111111,724275,724,-5.000,ACTIVE,PY1EF,TS1 TS2
 PY3KCA,Canoas,Rio Grande do Sul,Brazil,Master,1,439.25000,BM,,,724276,,-5.000,ACTIVE,PY3AQ,TS1 TS2
 PS7BBC,Mossoró,Rio Grande do Norte,Brazil,Master,1,439.20000,BM,-5.201638,-37.301579,724277,,-5.000,ACTIVE,PS7BB,TS1 TS2
+PU2SSH,Sao Paulo,Sao Paulo,Brazil,Peer,1,439.65000,Dmr,46.7405260,23.6377920,724278,None<br>tg 724,5.000,UNKNOWN,,TS1
 PY3HA,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,146.77000,Brandmeister,-30.100000,-51.180000,724301,,-0.600,ACTIVE,PY3NZ,TS1 TS2
 PY3RPT,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,145.35000,Mixed Mode,-15.393200,-56.078800,724302,,-0.600,ACTIVE,PY3NZ,TS1 TS2
 PY3SMS,Guaiba,Rio Grande do Sul,Brazil,Master,1,439.55000,DMR+ MASTER SUL,-26.801901,-48.933102,724303,,-5.000,ACTIVE,PY5JP,TS1 TS2
