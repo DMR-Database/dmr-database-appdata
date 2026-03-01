@@ -220,6 +220,8 @@ PI1BLA,Bladel,Noord-Brabant,Netherlands,Master,1,438.30000,204002,BM,204002,0,,-
 PI2ASD,Amsterdam,Noord-Holland,Netherlands,Master,1,438.50000,204003,dmr,204003,0,test modus in region Amsterdam,-7.6,PD7SM,TS1 TS2
 PI1SNK,Sneek,Friesland,Netherlands,Master,2,438.43750,204004,BM,204004,0,,-7.600,PA2SNK,TS1
 PI2DFT,Delft,Zuid-Holland,Netherlands,Peer,1,438.37500,204006,bm,204006,0,,-7.6,PD4TH,TS1 TS2
+PD0JCH,Ouddorp,Zuid-Holland,Netherlands,Peer,1,438.37500,204007,Brandmeister,204007,1,None,-7.600,,TS1 TS2
+PD0JCH,Ouddorp,Zuid-Holland,Netherlands,Peer,1,438.20000,204008,Brandmeister,204008,1,None,-7.600,,TS1 TS2
 PI1DHG,Den Haag,Zuid-Holland,Netherlands,,1,438.20000,204201,BM,204201,0,,-7.600,PA3FRH,TS1 TS2
 PI1HGD,Den Haag,Zuid-Holland,Netherlands,,1,438.25000,204202,DMR-plus,204202,0,,-7.600,PA3FRH,TS1 TS2
 PI1DEC,Dordrecht,Zuid-Holland,Netherlands,,1,438.02500,204220,BrandMeister,204220,0,,-7.600,PA3L,TS1 TS2
@@ -1070,7 +1072,7 @@ IR9ZZG,Messina,Sicily,Italy,Peer,1,430.15000,222213,BM,222213,0,,+5.000,IT9FTD,T
 IR2AY,Lodi,Lombardy,Italy,,1,435.85000,222214,DMR-plus,222214,0,,0.000,IW2GOB,TS1 TS2
 IR2UGV,Gravedona ed Uniti CO,Lombardy,Italy,Peer,1,430.06250,222217,BM,222217,0,,+1.600,IK2ZLJ,TS1 TS2
 IR8ZYK,Motta RC,Molise / Campania / Calabria,Italy,Peer,1,430.13750,222218,BM,222218,1,,+1.600,IT9IJI,TS1 TS2
-IR3EM,Latisana,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,145.61250,222219,BM,222219,1,,-0.600,IV3FHS,TS1 TS2
+IR3EM,Latisana,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,145.61250,222219,BM,222219,1,222,-0.600,IV3FHS,TS1 TS2
 IR2UDK,Monte Sant Onofrio BS,Lombardy,Italy,Peer,1,430.33750,222220,BM,222220,0,,+1.600,IZ2FTR,TS1 TS2
 IR2UGO,Gallarate,Lombardy,Italy,,1,430.56250,222221,BM,222221,0,,5.000,IW2KVT,
 IR2UBA,Pizzo Tre Termini,Lombardy,Italy,,1,430.71250,222222,DMR-plus,222222,0,,5.000,IK2QCA,TS1 TS2
@@ -1482,12 +1484,12 @@ YO6C,Targu Mures,,Romania,,1,439.80000,226612,DMR-plus,226612,0,,-7.600,YO6OSC,T
 YO6KEK,REGHIN,,Romania,,1,439.95000,226699,None,226699,0,,-9.400,YO6ORO,
 YO8KIS,Str. Voinesti nr. 38,,Romania,,1,439.85000,226801,DMR-plus,226801,0,,-9.400,YO8OY,TS1 TS2
 YO9D,Ploiesti,,Romania,Master,1,438.77500,226901,BM,226901,0,,-7.600,YO3HJV,TS1 TS2
-HB9DR,ZH,Zurich,Switzerland,Peer,1,430.00000,228001,DMR-plus,228001,0,,0.000,HB9SDB,TS1 TS2
-HB9DR,XLX,,Switzerland,,1,430.00000,228002,DMR-plus,228002,0,,0.000,HB9SDB,TS1 TS2
-HB9DR,YSF228,,Switzerland,,1,430.00000,228003,DMR-plus,228003,0,,0.000,HB9SDB,TS1 TS2
-HB9DR,Waedenswil,Zurich,Switzerland,Peer,1,438.50000,228004,IPSC2,228004,0,Test,-7.6,HB9SDB,TS1 TS2
-HB9DR,Waedenswil,Zurich,Switzerland,Master,1,438.50000,228005,IPSC2,228005,0,For Test Only / Local,-7.6,HB9SDB,TS1 TS2
-HB9DR,Waedenswil,Zurich,Switzerland,Master,1,438.50000,228006,IPSC2,228006,0,Test System,-7.6,HB9SDB,TS1 TS2
+HB9DR,ZH,Zurich,Switzerland,Peer,1,430.00000,228001,DMR+,228001,0,,0.000,HB9SDB,TS1 TS2
+HB9DR,zurich,Zurich,Switzerland,Peer,1,430.00000,228002,DMR+,228002,0,,0.000,HB9SDB,TS1 TS2
+HB9DR,zurich,Zurich,Switzerland,Peer,1,430.00000,228003,DMR+,228003,0,,0.000,HB9SDB,TS1 TS2
+HB9DR,Waedenswil,Zurich,Switzerland,Peer,1,438.50000,228004,DMR+,228004,0,Test,-7.6,HB9SDB,TS1 TS2
+HB9DR,Waedenswil,Zurich,Switzerland,Master,1,438.50000,228005,DMR+,228005,0,For Test Only / Local,-7.6,HB9SDB,TS1 TS2
+HB9DR,Waedenswil,Zurich,Switzerland,Master,1,438.50000,228006,DMR+,228006,0,Test System,-7.6,HB9SDB,TS1 TS2
 HB9GE,Geneva,Geneva,Switzerland,Peer,1,145.62500,228007,BM,228007,0,,-0.600,HB9IBG,TS1 TS2
 HB9OK,Poschiavo,Grigioni Grisons,Switzerland,Peer,1,439.05000,228008,Bm,228008,1,,-7.6,HB9FPO,TS1 TS2
 HB9OK,Caslano,Ticino,Switzerland,Peer,1,439.88750,228009,Bm,228009,0,,-7.6,HB9FPO,TS1 TS2
@@ -1553,20 +1555,20 @@ HB9BO,Niesen,,Switzerland,Peer,1,438.58750,228391,BM,228391,0,,-7.600,HB9DUU,TS1
 HB9EAS,Bruderholz,Basel-Country,Switzerland,Master,1,438.57500,228401,BM,228401,0,,-7.600,HB9TQJ,TS1 TS2
 HB9BA,Weissenstein,Solothurn,Switzerland,Peer,1,438.22500,228402,BM,228402,0,"Permanent talk groups:<br><br>Time Slot 1:<br>TG 228 Schweiz national<br><br>Time Slot 2:<br>TG 2280 Deutschschweiz<br>TG 2283 Bern / Solothurn, verlinkt mit Niesen, Brienzer Rothorn und Bern-City",-7.600,HB9FGU,TS1 TS2
 HB9FX,Oftringen,,Switzerland,,2,438.45000,228403,BM,228403,0,,-7.600,HB9BHU,TS1 TS2
-HB9DM,Liestal,,Switzerland,Master,1,438.43750,228404,BM,228404,0,,-7.600,HB9FEF,TS1 TS2
+HB9DM,Liestal,Basel-Country,Switzerland,Master,1,438.43750,228404,BM,228404,0,,-7.600,HB9FEF,TS1 TS2
 HB9CSR,Basel / BS,,Switzerland,,1,438.55000,228405,DMR-plus,228405,0,,-7.600,HB9TVW,TS1 TS2
 HB9EAS,Nenzlingen,Basel-Country,Switzerland,Master,1,438.35000,228406,BM,228406,0,,-7.600,HB9TQJ,TS1 TS2
-HB9DR,Testsystem,,Switzerland,,2,438.22500,228407,DMR-plus,228407,0,,-7.600,HB9SDB,TS1 TS2
+HB9DR,Zurich,Zurich,Switzerland,Peer,2,438.22500,228407,DMR+,228407,0,,-7.600,HB9SDB,TS1 TS2
 HB9NFB,Reinach (BL),,Switzerland,,1,438.37500,228408,None,228408,0,,-7.600,HB9FWC,
-HB9DM,Langenbruck,,Switzerland,Master,1,438.38750,228409,BM,228409,0,,-7.600,HB9FEF,TS1 TS2
+HB9DM,Langenbruck,Basel-Country,Switzerland,Master,1,438.38750,228409,BM,228409,0,,-7.600,HB9FEF,TS1 TS2
 HB9CSR,Laufen / BL,,Switzerland,,1,438.31250,228410,BM,228410,0,,-7.600,HB9TVW,TS1 TS2
 HB9EAS,Sunneberg,Basel-Country,Switzerland,Master,1,438.41250,228411,BM,228411,0,,-7.600,HB9TQJ,TS1 TS2
 HB9DM,Eptingen TEST,,Switzerland,Master,2,438.38750,228412,BM,228412,0,,-7.600,HB9FEF,TS1 TS2
 HB9EAS,Binningen-Bruderholz,Basel-Country,Switzerland,Master,2,439.53750,228413,BM,228413,0,,-7.600,HB9TQJ,TS1 TS2
 HB9DM,Eptingen,,Switzerland,Master,2,438.32500,228414,BM,228414,0,,-7.600,HB9FEF,TS1 TS2
 HB9BC,Laeufelfingen,,Switzerland,,1,145.75000,228417,None,228417,0,,-0.600,HB9GHC,
-HB9DR,Wohlen / AG,Aargau,Switzerland,,1,438.20000,228501,DMR-plus,228501,0,,-7.600,HB9SDB,TS1 TS2
-HB9DR,PEGASUS,Aargau,Switzerland,,2,438.22500,228502,DMR-plus,228502,0,,-7.600,HB9SDB,TS1 TS2
+HB9DR,Wohlen,Aargau,Switzerland,Peer,1,438.20000,228501,DMR+,228501,0,,-7.600,HB9SDB,TS1 TS2
+HB9DR,PEGASUS,Aargau,Switzerland,Peer,2,438.22500,228502,DMR+,228502,0,,-7.600,HB9SDB,TS1 TS2
 HB9DD,Mt. Generoso,,Switzerland,Peer,1,438.48750,228601,BM,228601,0,,-7.600,HB9ODP,TS1 TS2
 HB9DD,Mt. Tamaro,,Switzerland,Peer,1,438.46250,228602,BM,228602,0,,-7.600,HB9ODP,TS1 TS2
 HB9DD,Airolo,,Switzerland,Peer,1,438.48750,228603,BM,228603,0,,-7.600,HB9ODP,TS1 TS2
@@ -1592,11 +1594,11 @@ HB9H,Ticino,,Switzerland,,1,438.97500,228623,None,228623,0,,-7.600,HB9TUO,
 HB9DS,Grosswangen / LU,,Switzerland,Peer,1,439.51250,228693,DMR-plus,228693,0,,-7.600,HB9TRT,TS1 TS2
 HB9DD,Poschiavo,Grigioni Grisons,Switzerland,Peer,1,438.48750,228701,BM,228701,0,,-7.600,HB9FPO,TS1 TS2
 HB9HAI,Weissfluh GR,Grigioni Grisons,Switzerland,Peer,7,439.47500,228702,DMR-plus,228702,1,,-7.600,HB9DRX,TS1 TS2
-HB9DR,Chur,Grigioni Grisons,Switzerland,Peer,1,438.26250,228703,DMR-plus,228703,0,,-7.600,HB9SDB,TS1 TS2
+HB9DR,Chur,Grigioni Grisons,Switzerland,Peer,1,438.26250,228703,DMR+,228703,0,,-7.600,HB9SDB,TS1 TS2
 HB9OK,Piz Nair,Grigioni Grisons,Switzerland,Peer,1,439.56250,228704,BM,228704,0,,-7.600,HB9FPO,TS1 TS2
 HB9GR,Valens,,Switzerland,,1,439.42500,228705,BrandMeister,228705,0,,-7.600,HB9EZW,TS1 TS2
 HB9DR,Spluegen / GR,,Switzerland,,2,439.56250,228706,BM,228706,0,,-7.600,HB3YNL,TS1 TS2
-HB9OK,Poschiavo/GR,,Switzerland,,1,438.45000,228707,DMR-plus,228707,0,,-7.600,HB9SDB,TS1 TS2
+HB9OK,Poschiavo,Grigioni Grisons,Switzerland,Peer,1,438.45000,228707,DMR+,228707,0,,-7.600,HB9SDB,TS1 TS2
 HB9OK,Poschiavo,Grigioni Grisons,Switzerland,Peer,1,439.45000,228708,BM,228708,1,,-7.600,HB9FPO,TS1 TS2
 HB9OK,Poschiavo,Grigioni Grisons,Switzerland,Peer,1,145.62500,228709,BM,228709,0,,-0.600,HB9FPO,TS1 TS2
 HB9DC,Hoch-Etzel,Schwyz,Switzerland,Peer,5,438.31250,228801,DMR-plus,228801,1,,-7.600,HB9DRX,TS1 TS2
@@ -1616,11 +1618,11 @@ HB9TG,Sulgen,Thurgau,Switzerland,Master,1,439.57500,228816,BM,228816,1,,-7.600,H
 HB9AK,Kloten Kaserne,Zurich,Switzerland,Master,1,0.00000,228819,IPSC2+BM,228819,0,,-7.6,HB9HRQ,TS1 TS2
 HB9SDB,Portable-Hotspot,,Switzerland,,1,433.72500,228822,DMR-plus,228822,0,,0.000,HB9DR,TS1 TS2
 HB9DR,Waedenswil,Zurich,Switzerland,Peer,1,438.50000,228891,DMR+,228891,0,,-7.600,HB9SDB,TS1 TS2
-HB9DR,St.Gallen-West / SG,,Switzerland,,2,438.22500,228901,DMR-plus,228901,0,,-7.600,HB9SDB,TS1 TS2
-HB9JEZ,SG,St. Gallen,Switzerland,Peer,1,434.72500,228902,DMR-plus,228902,0,,0.000,HB9SDB,TS1 TS2
-HB9DR,St.Gallen-Ost/SG,,Switzerland,,1,438.21250,228903,DMR-plus,228903,0,,-7.600,HB9SDB,TS1 TS2
+HB9DR,West,St. Gallen,Switzerland,Peer,2,438.22500,228901,DMR+,228901,0,,-7.600,HB9SDB,TS1 TS2
+HB9JEZ,SG,St. Gallen,Switzerland,Peer,1,434.72500,228902,DMR+,228902,0,,0.000,HB9SDB,TS1 TS2
+HB9DR,Gallen,St. Gallen,Switzerland,Peer,1,438.21250,228903,DMR+,228903,0,,-7.600,HB9SDB,TS1 TS2
 HB9SG,Hoher Kasten,St. Gallen,Switzerland,Peer,1,438.36250,228904,BM,228904,1,,-7.600,HB9KOM,TS2
-HB9DR,Rheineck,,Switzerland,,1,438.67500,228905,DMR-plus,228905,0,,-7.600,HB9SDB,TS1 TS2
+HB9DR,Rheineck,St. Gallen,Switzerland,Peer,1,438.67500,228905,DMR+,228905,0,,-7.600,HB9SDB,TS1 TS2
 OK0G,Libin,South Bohemian Region,Czech Republic,Master,1,145.58750,230001,BM,230001,1,A new repeater on Libin (ASL 1096).,-0.600,OK1ZJV,Mixed Mode
 OK0DAN,Zatec - Ceradice,Usti nad Labem Region,Czech Republic,Master,1,438.91250,230002,BM,230002,0,"Silo Ceradice, VO OK4DAN, technik OK1ZJV, www.ok1ocb.cz",-7.600,OK1ZJV,Mixed Mode
 OK0DNS,Cerny Vrch,Liberec Region,Czech Republic,Master,2,438.37500,230003,"BM, OKDMR",230003,1,,-7.600,OK4MD,TS1 TS2
@@ -3094,7 +3096,7 @@ DB0OFL,Rhauderfehn,Niedersachsen / Bremen,Germany,Master,1,144.83750,262013,"DMR
 DL0LGT,Wilhelmshaven,Niedersachsen / Bremen,Germany,Master,1,439.97500,262016,BM,262016,0,portabel Repeater for events and tests,-9.4,DL6BAJ,TS1 TS2
 DG3SBI,Alfdorf,Baden-Wuerttemberg,Germany,Master,1,439.31250,262018,BM,262018,0,TG1: 2620<br>TG2: 26273<br>,-7.6,DG3SBI,Mixed Mode
 DB0SKF,Freudenstadt,Baden-Wuerttemberg,Germany,Peer,1,438.27500,262019,bm,262019,0,no static TG's,-7.600,DJ2GZ,TS1 TS2
-DO0LP,Remscheid,Nordrhein-Westfalen,Germany,Master,1,438.33750,262020,Bm,262020,0,"TS1 - TG 2624 (NRW),     TS2 - TG 8 Bergisch Land (20313),     TS2 - TG 262020 (DOK R13)",-7.6000,DO8LP,TS1 TS2
+DO0LP,Remscheid,Nordrhein-Westfalen,Germany,Master,1,438.33750,262020,Bm,262020,0,"TS1 - TG 265112,     TS2 - TG 8 Bergisch Land (26313),     TS2 - TG 262020 (DOK R13)",-7.6000,DO8LP,TS1 TS2
 DM0NBG,Nuernberg,Bayern,Germany,Peer,1,438.52500,262021,BM,262021,1,,-7.600,DL6WZ,TS1 TS2
 DM0NOR,Norderney,Hessen,Germany,Master,1,430.37500,262022,BM,262022,1,,+0.000,DL1BBR,Mixed Mode
 DO0SOC,Oldenburg,Hamburg / Schleswig-Holstein,Germany,Peer,1,438.67500,262023,BM,262023,0,,-7.600,DO2LMV,TS1 TS2
@@ -3293,9 +3295,6 @@ DB0PEG,Pegnitz,Bayern,Germany,Master,1,438.93750,262243,Brandmeister,262243,1,No
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,439.92500,262244,BM,262244,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.400,DJ3LE,TS1 TS2
 DO0ELM,Hemkenrode,Niedersachsen / Bremen,Germany,Master,1,439.15000,262245,DMR/FM,262245,1,2623 TS1<br>26538 (8) TS2,-7.600,,Mixed Mode
 DL6HAT,Groemitz,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.93750,262246,TS2,262246,1,None,-9.400,,TS2
-DB0RDG,Ribnitz-Damgarten,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,1,145.23750,262247,BM,262247,1,None,0.000,,TS1 TS2
-DB0RVH,Rostock,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,262248,BM,262248,1,None,0.000,,TS1 TS2
-DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,262249,BM,262249,1,None,0.000,,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,262250,DMR-plus,262250,0,,-7.600,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,262251,DMR-plus,262251,0,,-0.600,DL5KUA,TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,262257,BM,262257,0,,-9.400,DF1RL,TS1 TS2
@@ -5014,6 +5013,7 @@ KD2EHW,Rochester,New York,United States,master,1,443.05000,310459,Brandmaster,31
 N4DEA,Kinston,North Carolina,United States,Peer,1,440.51250,310461,Brandmeister,310461,0,,+5.000,N4DEA,TS1 TS2
 KI5CMA,Saltillo,Mississippi,United States,Master,1,444.42500,310462,BrandMeister,310462,1,TS 1 31471<br>TS 2 3128<br>TS 2 31285,+5.000,K5CSA,TS1 TS2
 K3ZED,Jennersville,Pennsylvania,United States,peer,1,447.87500,310463,Brandmeister,310463,1,"Testing MTR2000 with Scott Zimmerman RB_STM32_DVM Testing the repeater will at the N3SLC site in Jennersville, PA<br><br>All network and Talkgroup activity on Timeslot 1 ( TG 3110 and TG3142 Static) with <br>Timeslot 2 reserved for Cluster (2) and Local (9) <br><br>Trustees K3ZED / N3GWC /  K3CWI<br><br>Contact:: K3ZED  Copper29p07@hotmail.com",-5.000,K3ZED,1 and 2
+KE6GVK,Saint Johns,Arizona,United States,Peer,1,446.82500,310464,BrandMeister,310464,0,"Refer to website: https://wmrasystem.com/ST-RPT.html<br>REPEATER HAS ANALOG, DMR AND D-STAR",-5.000,KE6GVK,TS1 TS2
 KK4ECR,Orange Park,Florida,United States,Peer,1,443.08750,310465,C-Bridge,310465,0,Multiple TG as setup on repeater,+5,KK4ECR,1 & 2
 K4VYX,Savannah,Georgia,United States,Master,3,442.81250,310466,DMR-MARC,310466,1,TWIN-TWR-DMR,+5.000,K4VYX,TS1 TS2
 N1DAS,Nashua,New Hampshire,United States,Peer,5,446.42500,310467,BrandMeister,310467,0,TS2:<br>9  Local repeater<br>313323  GMARS 1 Club talkgroup - all GMARS repeaters<br><br>TS1:<br>313324  GMARS 2 - Secondary club talkgroup<br>3133  NH Statewide (PTT)<br>,-5.000,N1DAS,1 & 2
@@ -6678,7 +6678,7 @@ W5ROS,Adkins,Texas,United States,Master,1,442.00000,312287,DMR,312287,1,TS1 = Lo
 AF1G,Kathleen,Georgia,United States,Master,3,443.51250,312288,Brandmeister,312288,1,Under construction,+5.000,AF1G,TS2
 KH7MS,Hilo,Hawaii,United States,Peer,1,444.95000,312289,BrandMeister,312289,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1<br>P25 Hawaii TG 3115 <br>P25 TG 1 Local,+5.000,KH7MS,Mixed Mode
 KD7YUW,Toponas,Colorado,United States,Peer,11,449.47500,312290,bm,312290,0,,-5.0,KD7YUW,TS1 TS2
-N4MPC,Decatur,Georgia,United States,Master,1,440.77500,312292,BrandMeister,312292,0,Portable Repeater,+5.000,N4MPC,TS1 TS2
+N4MPC,Marietta,Georgia,United States,Master,1,440.77500,312292,BrandMeister,312292,0,Portable Repeater,+5.000,N4MPC,TS1 TS2
 KB0CGJ,Wabasso,Minnesota,United States,Peer,10,444.52500,312293,BM,312293,1,KB0CGJ Repeater 444.525/449.525 Kenwood TKR-850 using STM32-DVM Pi_Star,+5.000,KB0CGJ,TS1 TS2
 KE8ANE,STOCKPORT,Ohio,United States,Peer,2,443.23900,312296,BM,312296,0,,-0.600,KE8ANE,Mixed Mode
 KM4HDM,Richlands,Virginia,United States,Peer,1,442.10000,312297,BM,312297,1,"TG 312297 TS1 CC1, Big-A-Mountain, VA",+5.000,KM4HDM,Mixed Mode
@@ -7572,7 +7572,7 @@ K6ER,Sausalito,California,United States,Master,2,442.52500,313383,DMR,313383,1,,
 KB8UB,Munith,Michigan,United States,Peer,1,442.32500,313384,dmr-marc,313384,0,,+5.0000,KB8UB,TS1 TS2
 KB8POO,Jackson,Michigan,United States,Peer,1,145.12000,313385,BrandMeister,313385,0,,-0.600,KB8POO,TS1 TS2
 NU3T,Williamsburg,Pennsylvania,United States,Peer,1,443.87500,313386,BM,313386,0,3142,+5.0000,NU3T,TS1 TS2
-N0LAK,Blanca,Colorado,United States,Master,5,449.25000,313387,BM,313387,1,open,-5.000,N0LAK,TS1 TS2
+N0LAK,Blanca,Colorado,United States,Master,5,449.20000,313387,BM,313387,1,open,-5.000,N0LAK,TS1 TS2
 KE8BG,Denton,North Carolina,United States,Master,1,441.81250,313388,"BM,TGIF",313388,0,,+5.000,KE8BG,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Master,1,443.26250,313390,PRN,313390,1,,+5.00,K4EZ,TS1 TS2
 K6DSA,Marana,Arizona,United States,Peer,1,445.15000,313391,TGIF,313391,0,TS1: TG527 - Southwest Community Radio System<br>TS2: All other TGIF TG's as keyed; do not use 777 (Scan),-5.00,K6DSA,TS1 TS2
@@ -10155,7 +10155,6 @@ LU5FB,Rosario,Santa Fe,Argentina Republic,Master,1,434.75000,722033,BrandMeister
 LU5FB,Rosario,Santa Fe,Argentina Republic,Master,1,434.95000,722034,BrandMeister,722034,1,"TS1=7222 (LOCAL ROSARIO), TS2=7229 (ARG ROOM)",+5.000,LU5FB,TS1 TS2
 LW6DMG,La Plata,Buenos Aires,Argentina Republic,Master,1,145.30000,722035,BM,722035,0,,-0.600,LW6DMG,TS1 TS2
 LW2DDS,Bahia Blanca,Buenos Aires,Argentina Republic,Master,1,434.45000,722036,BM,722036,0,7229,+5.000,LW2DDS,TS1 TS2
-LU5AM,Zona Delta - Tigre,Buenos Aires,Argentina Republic,Master,7,147.19500,722037,BM,722037,1,722 / 722911 / 7223 / 72290,+0.600,LU5AM,TS1 TS2
 LU2CSG,Capital Federal,Ciudad de Buenos Aires,Argentina Republic,Master,1,434.65000,722038,BM,722038,1,,-5.000,LU2CSG,TS2
 LU1EQV,Salto,Buenos Aires,Argentina Republic,Master,1,147.90000,722039,"BM, DMR",722039,0,"722, 7229",+0.600,LU1EQV,TS1 TS2
 LU8DRH,Bahia Blanca,Buenos Aires,Argentina Republic,Master,1,434.55000,722040,bm,722040,0,Repetidor Digital Bahia Blanca,+5.000,LU8DRH,TS1 TS2
@@ -10163,10 +10162,7 @@ LU2BFM,Cordoba,Cordoba,Argentina Republic,Master,1,434.85000,722041,BM,722041,0,
 LU2BFM,Buenos Aires,Caba,Argentina Republic,Master,1,147.36000,722042,BM,722042,0,,+0.600,LU2BFM,TS1 TS2
 LU2CSG,Capital Federal,Corrientes,Argentina Republic,Master,1,434.65000,722045,BM,722045,0,,+5.000,LU2CSG,TS1 TS2
 LU1VDF,BARILOCHE,Rio Negro,Argentina Republic,Master,1,145.24000,722046,BM,722046,0,7224 7229,-0.600,LU1VDF,TS1 TS2
-LU5AM,Olivos,Buenos Aires,Argentina Republic,Master,7,434.97500,722048,BM,722048,1,722 / 722911,+5.000,LU5AM,TS1 TS2
-LU5AM,Martinez,Buenos Aires,Argentina Republic,Master,7,145.25000,722049,BM,722049,1,722 / 722911,-0.600,LU5AM,TS1 TS2
-LU5AM,Munro,Buenos Aires,Argentina Republic,Master,7,224.75000,722050,BM,722050,1,722<br>7221,-1.6,LU5AM,TS1 TS2
-LU5AM,Talar de Pacheco,Buenos Aires,Argentina Republic,Master,7,434.35000,722051,BM,722051,1,722 / 722911,+5.000,LU5AM,TS1 TS2
+LU5AM,Munro,Buenos Aires,Argentina Republic,Master,7,433.02500,722050,BM,722050,1,722<br>7221,+5.000,LU5AM,TS1 TS2
 LU4HH,Bosque Alegre Cordoba Argentina,Cordoba,Argentina Republic,Master,1,434.60000,722052,BM,722052,1,LU4HH Radio Club Cordoba. open DMR Repeater located at Estacion Astrofisica de Bosque Alegre. 1256 metros sobre nivel del mar. Linked to Argentina Link.,+5.000,LU4HH,TS2
 PY2LY,Indaiatuba,Sao Paulo,Brazil,Master,1,439.62500,724002,Brandmeister,724002,1,,-5.000,PY2LY,TS1 TS2
 PY1NDN,Friburgo,Rio de Janeiro,Brazil,Master,1,147.27000,724003,DMR-plus,724003,1,TG-724 slot1,+0.600,PU1LOY,TS1 TS2
