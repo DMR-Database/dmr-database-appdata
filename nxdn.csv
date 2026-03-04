@@ -1609,7 +1609,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 1622,BG3LKR,Bao,Baotou,,China
 1623,K2NDY,Lianghua,New York,New York,United States
 1624,W5GNB,Gary N,Hagerman,New Mexico,United States
-1625,HJ4JAB,Javier,Medellin,Antioquia,Colombia
+1625,HK4JAB,Javier,Medellin,Antioquia,Colombia
 1626,HL2TLS,Kim,Bucheon-si,KyungKi-Do,Korea Republic of
 1627,WR5X,Jonathan,Muskogee,Oklahoma,United States
 1628,K3HAX,Jason,Birdsboro,Pennsylvania,United States
@@ -1634,7 +1634,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 1647,IW6NFT,Cristian,Avezzano,Marche  Abruzzo,Italy
 1648,KC9BUL,James E,Xenia,Illinois,United States
 1649,KD9QHQ,Mike,Appleton,Wisconsin,United States
-1650,S21AF,Abdullah Fahad,Dhaka,,Bangladesh
+1650,S21AF,Fahad,Dhaka,All Regions,Bangladesh
 1651,W7MVG,Michael,Newberg,Oregon,United States
 1652,N8KOM,Steven E,Royal Oak,Michigan,United States
 1653,LU9DOI,Luis Marcelo,SAN ANDRES,Buenos Aires,Argentina Republic
@@ -3795,7 +3795,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3841,KI5US,Keith,Sun City Center,Florida,United States
 3842,KE0ORO,Leslie,Wichita,Kansas,United States
 3843,KE5JS,James,Cypress,Texas,United States
-3844,KE5MS,Matt,Spring,Texas,United States
+3844,KE5MS,Matt,Tomball,Texas,United States
 3845,BA7MUX,Jingtong,深圳市,Hunan Guangdong Guangxi Hainan,China
 3846,BG3OOS,郭学阳,sjz,Shanxi Hebei Tianjin,China
 3847,BG6VGT,Shen,Wuhan,Beijing,China
@@ -7248,7 +7248,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7348,PD0LEX,Alex,Tilburg,,Netherlands
 7349,KJ5EBU,Justin,Lago Vista,Texas,United States
 7350,ON5ZU,Francis,Court-Saint-Etienne,,Belgium
-7351,EA3IVD,Javi,La Roca del Vallès,Barcelona,Spain
+7351,EA3IVD,Javi,La Roca Del Valles,Barcelona,Spain
 7352,KD4FUU,James G,Bartlett,Tennessee,United States
 7353,K5TCP,Thorsten,Carrollton,Texas,United States
 7354,KM7WDT,Wayne,Riverview,Florida,United States
@@ -9132,7 +9132,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 9256,SQ9IWS,Mateusz,Imielin,śląskie,Poland
 9257,PU5MEI,Marcos,Curitiba,Parana,Brazil
 9258,KD8UCA,Christopher,Manchester,Ohio,United States
-9259,YC0AXC,Hanafi,Jakarta Timur,DKI Jakarta,Indonesia
+9259,YC0AXC,Fiko,Jakarta Timur,DKI Jakarta,Indonesia
 9260,YS1GRE,Gremsal,El Salvador,All Regions,El Salvador
 9261,W8QJF,Thomas,Venice,Florida,United States
 9262,W2MB,Mark,Washington,New Jersey,United States
@@ -11030,7 +11030,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 11174,BG2WKX,Guangwei,Shenyang,Heilongjiang Jilin Liaoning,China
 11175,IZ2CDP,Gianpiero,,Lombardy,Italy
 11176,KJ5NAQ,John,Sugar Land,Texas,United States
-11177,TA1DEV,Turabi̇,İstanbul,Marmara Region,Turkiye
+11177,TA1DEV,Turdev,Istanbul,Marmara Region,Turkiye
 11178,N4VDE,Ricky,Abbeville,South Carolina,United States
 11179,IT9KHU,Carmelo,Modica,Sicily,Italy
 11180,KK7PXZ,Clif,Okanogan,Washington,United States
@@ -11480,7 +11480,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 11629,KB0BBQ,William,Raymore,Missouri,United States
 11630,KD8VJD,Allan G,Onondaga,Michigan,United States
 11631,OK3MC,Martin,Beroun,Pilsen Region,Czech Republic
-11632,PU5RZS,Rizandro,Saint Anthony Of Platinum,Parana,Brazil
+11632,PU5RZS,Cesar,Santo Antonio Da Platina,Parana,Brazil
 11633,VE7CQT,Doug,Burnaby,British Columbia,Canada
 11634,KM7AQN,Javier,Auburn,Washington,United States
 11635,DO2DC,Stefan,Haltern am See,Nordrhein-Westfalen,Germany
@@ -13115,6 +13115,24 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 13275,KC6YYM,David,Riverside,California,United States
 13276,KF0CFD,David,Longmont,Colorado,United States
 13277,K3GON,Charles,Sewell,New Jersey,United States
+13278,KJ5EQQ,Jason,Cypress,Texas,United States
+13279,N5NZZ,Dave,Austin,Texas,United States
+13280,IZ2WZM,Ettore,Cologno Monzese,Lombardy,Italy
+13281,KC8NVG,Scott,Boyne City,Michigan,United States
+13282,M7GSN,Gordon,Stockport,England,United Kingdom
+13283,KQ4FNV,David,Marietta,Georgia,United States
+13284,DL2ARS,Lars,Elmshorn,Hamburg  Schleswig-Holstein,Germany
+13285,KC4NPD,John,Richmond,Virginia,United States
+13286,IV3JPV,Fabio,Trieste,Veneto  Trentino-AA  Friuli-VG,Italy
+13287,PD0EZL,Egbert,Katwijk Aan Zee,Zuid-Holland,Netherlands
+13288,K5EVA,David,Tupelo,Mississippi,United States
+13289,KF6FP,Harry,Santa Monica,California,United States
+13290,VE3FDV,John,Strathroy,Ontario,Canada
+13291,K5WLC,William,Greenwood,Arkansas,United States
+13292,TA1GRH,Gurhan,Istanbul,Marmara Region,Turkiye
+13293,YO8EMG,George,Barlad,Bacau  Botosani  Iasi  Neamt  Suceava  Vaslui,Romania
+13294,KF0WFJ,Chris,Rochester,Minnesota,United States
+13295,KA8PCP,Harold,Newark,Ohio,United States
 13400,AB4MM,Marvin A,Tunnel Hill,Georgia,United States
 13401,SP5NAF,Grzegorz,Kurpie,mazowieckie,Poland
 13550,NA4ME,Charles E,Ringgold,Georgia,United States

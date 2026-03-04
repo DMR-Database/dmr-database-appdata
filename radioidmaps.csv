@@ -1189,7 +1189,7 @@ IQ3VO,Verona,,Italy,,1,430.90000,BM,45.579369,11.115808,222337,,5.000,ACTIVE,IZ3
 IR3DV,Kronplatz - Plan de Corones,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.52500,BM,46.740021,11.959840,222338,,+1.600,ACTIVE,IW3AMQ,Mixed Mode
 IR3EB,Piz Chavalatsch - Cavallaccio,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.52500,BM,46.614792,10.492063,222339,,+1.600,ACTIVE,IW3AMQ,Mixed Mode
 IR3ZYG,CIMA EKAR,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.48750,BM,45.5054,11.3408,222340,,+1.6000,ACTIVE,I3WTT,TS1 TS2
-IR8ZYX,Reggio Calabria,Molise / Campania / Calabria,Italy,Master,1,145.58750,BM,38.07008866251085,15.730295262576321,222341,,-0.600,ACTIVE,IU8EQC,TS1 TS2
+IR8ZYX,Reggio Calabria,Molise / Campania / Calabria,Italy,Master,1,145.58750,BrandMeister,38.07008866251085,15.730295262576321,222341,,-0.600,ACTIVE,IU8EQC,TS1 TS2
 IR3UIC,Trieste,,Italy,Master,1,433.15000,BM,45.65074,013.76797,222342,,-1.600,ACTIVE,IW3QOJ,TS1 TS2
 IR3DN,Colli Euganei,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,145.66250,BM,45.30235545,11.805076047734627,222343,For problem call me telephone number +393286100168 Telegram X @iz3clg_mobile,-0.600,ACTIVE,IZ3CLG,TS1 TS2
 IR2ZYO,Valcava,Lombardy,Italy,Peer,2,432.66250,DMR-plus,45.781170,9.511470,222344,Erdm Duplex Repeater (Sfr),+0.000,ACTIVE,IK2QCA,TS1 TS2
@@ -1271,6 +1271,7 @@ IR4ZZU,BRISIGHELLA,Emilia-Romagna,Italy,Master,1,431.45000,BM,44.135934,11.63212
 IR4J,Riolo Terme,Emilia-Romagna,Italy,Master,10,430.01000,BM,44.285335,11.745051,222438,,+3.9775,ACTIVE,IK4FMY,TS1 TS2
 IR3ZWE,Paluzza,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.22500,BM,46.562322,12.970277,222439,,+1.600,ACTIVE,IV3CUJ,TS1 TS2
 IR3ZVM,Colle Santa Lucia,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.36250,BM,46.4879410,12.0513350,222440,None,+1.600,ACTIVE,IU3GQH,TS1 TS2
+IR9ZWO,Messina,Sicily,Italy,Peer,1,145.67500,BrandMeister,38.2479550,15.5468500,222441,None,-0.600,ACTIVE,IU8EQC,TS1 TS2
 IR1UDX,ALBISSOLA,Piedmont / Liguria / Aosta,Italy,Master,1,430.20000,BM,44.33544,8.52153,222442,,+5.000,ACTIVE,IZ1MLF,TS1 TS2
 IR4S,Monte Canate,Emilia-Romagna,Italy,,1,430.62500,BM,44.755985,9.930411,222444,,4.413,ACTIVE,IW4DAT,TS1 TS2
 IR3ZWD,Belluno,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,431.48750,BM,46.0953810,12.3039260,222446,,+1.600,ACTIVE,IU3GQH,TS1 TS2
@@ -3301,7 +3302,6 @@ DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.287
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,DMR-plus,53.648010,10.275660,262250,,-7.600,ACTIVE,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,DMR-plus,53.6635561,10.2835977,262251,,-0.600,ACTIVE,DL5KUA,TS1 TS2
 DB0GMN,Grimmen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.50000,BM,56.0000000,12.0000000,262252,None,-7.600,ACTIVE,DB3MAX,TS1 TS2
-DB0UEM,Leopoldshagen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.32500,Tetra,56.0000000,12.0000000,262253,None,-7.600,ACTIVE,DB3MAX,Mixed Mode
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,BM,53.970840,8.949069,262257,,-9.400,ACTIVE,DF1RL,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,DMR-plus,53.635181,10.386677,262260,,-7.600,ACTIVE,DL5KUA,TS1 TS2
 DO0OHO,Heiligenhafen,,Germany,,1,438.87500,BM,54.364536,10.978031,262263,,-7.600,ACTIVE,DO3LMR,TS1 TS2
@@ -5390,7 +5390,7 @@ W0BX,Grand Junction,Colorado,United States,Peer,1,446.91250,Brandmeister,39.0888
 W1VAN,Red Feather Lakes,Colorado,United States,Peer,2,447.60000,brandmeister,40.809254,-105.617477,310869,,-5.000,ACTIVE,W1VAN,TS1 TS2
 K0GUR,Denver,Colorado,United States,Peer,1,449.27500,Brandmeister,39.7392364,-104.9848623,310870,,-5.000,ACTIVE,K0GUR,TS1 TS2
 N2KNK,Grand Junction,Colorado,United States,Peer,1,445.72500,BM,39.059605,-108.482025,310871,testing repeater,-5.000,ACTIVE,N2KNK,TS1 TS2
-KF4TNP,DENVER,Colorado,United States,None,7,445.23750,BM,39.7392364,-104.9848623,310872,,-5.000,ACTIVE,KF4TNP,TS1 TS2
+KF4TNP,DENVER,Colorado,United States,Master,7,445.23750,BM,39.7392364,-104.9848623,310872,,-5.000,ACTIVE,KF4TNP,TS1 TS2
 KG5YJT,Odessa,Texas,United States,peer?,14,440.72500,BrandMeister,31.8457149,-102.367687,310873,Timeslot 1<br>Talkgroup Name<br>Texas Statwide 3148<br>Texas Chat 31480<br>Lubbock Area 310282<br>North Texas 31481<br>South Texas 31482<br>West Texas 31483<br>Southeast Texas 31484<br>DMR Information Network 31648<br><br>Timeslot 2<br>Local 2 2<br>West Texas Local,+5.00,ACTIVE,WA5VYK,1
 KM4NNO,Flower Mound,Texas,United States,Master,0,448.05000,P25Link,33.0078,-97.0477,310874,<br><br>,-5.000,ACTIVE,KM4NNO,Mixed Mode
 AE7OD,Stevensville,Montana,United States,Peer,1,449.42500,Brandmeister,39.604000,-104.708000,310875,Bitterroot Valley Montana,-5.00,ACTIVE,AE7OD,both
@@ -7561,7 +7561,7 @@ N6UCI,Irvine,California,United States,Peer,1,443.60000,DMR,25.0504,121.5324,3133
 K5WTC,Weatherford,Texas,United States,Peer,1,440.35000,Brandmister,32.7589648,-97.7970748,313366,,+5.000,ACTIVE,K5WTC,TS1 TS2
 N1DTA,Gravel Switch,Kentucky,United States,Peer,1,927.55000,kentuckydmr c bidge,37.0000,85.0644,313367,,+20.0,ACTIVE,N1DTA,TS1 TS2
 AB8E,Elkins,West Virginia,United States,Peer,1,444.98750,BM,38.925927,-79.8466552,313368,,+5.000,ACTIVE,AB8E,TS1
-K4QHR,Kingsland,Georgia,United States,Master,7,442.11250,DMR-SE,30.7912671,-81.6723102,313369,Hytera RD-622 Portable/Demo Repeater<br>,+5.000,ACTIVE,K4QHR,TS1 TS2
+K4QHR,Kingsland,Georgia,United States,Master,7,442.11250,DMR-SE,30.7912671,-81.6723102,313369,Hytera RD-622 Portable/Demo Repeater,+5.000,ACTIVE,K4QHR,TS1 TS2
 N1DTA,Somerset,Kentucky,United States,Peer,1,444.41250,kentuckydmr c bidge,37.1684,84.8247,313370,,+5.000,ACTIVE,N1DTA,TS1 TS2
 WA1OKB,Warwick,Rhode Island,United States,Peer,1,442.55000,Brandmeister/Allstar/Echolink bridge,41.7002024,-71.39959,313371,Allstar/Echolink to Brandmeister DMR bridge,+5.000,ACTIVE,WA1OKB,TS1 TS2
 K8MD,Medina,Ohio,United States,Master,1,443.50000,BM,41.14226811536134,-81.86422202798082,313372,These TG's static on Timeslot 2.  No static TG's on Timeslot 1.<br>3139<br>31395<br>31673<br>313372<br>313923<br>313932<br>3139283,+5.000,ACTIVE,K8MD,Mixed Mode
@@ -8750,10 +8750,10 @@ WA4BGK,Nashville,Tennessee,United States,Peer,1,444.58750,ChicagoLand,36.182225,
 K4OZE,Gallatin,Tennessee,United States,Master,1,442.91250,VolNet,36.483681,-86.311378,314709,,+5.000,ACTIVE,WD4BKY,TS1 TS2
 K1LNX,Knoxville,Tennessee,United States,None,1,443.66250,VolNET,35.9603948,-83.9210261,314713,,+5.000,ACTIVE,K1LNX,TS1 TS2
 KK4WTI,Jonesborough,Tennessee,United States,Peer,1,442.58750,Private Radio Net,36.7740925,-76.2780762,314714,"KK4WTI 442.5875 +5 MHz, Color Code 1",+5.000,ACTIVE,KK4WTI,TS1 TS2
-KF4TNP,Manchester,Tennessee,United States,Master,1,442.86250,VolNET,35.4817432,-86.0885993,314715,,+5.000,ACTIVE,KF4TNP,TS1 TS2
+KF4TNP,Manchester,Tennessee,United States,Peer,1,442.86250,VolNET,35.4817432,-86.0885993,314715,,+5.000,ACTIVE,KF4TNP,TS1 TS2
 W4PL,CHATTANOOGA,Tennessee,United States,None,1,444.15000,BrandMeister,35.208481,-85.280930,314716,,+5.000,ACTIVE,K4VCM,TS1 TS2
 AJ4YS,Estill Springs,Tennessee,United States,Master,1,442.96250,VolNET,35.2706372,-86.1280417,314717,,+5.000,ACTIVE,AJ4YS,TS1 TS2
-KF4TNP,Winchester,Tennessee,United States,Master,1,444.95000,STN,35.1859163,-86.1122071,314718,,+5.000,ACTIVE,KF4TNP,TS1 TS2
+KF4TNP,Winchester,Tennessee,United States,Master,7,444.07500,STN,35.1859163,-86.1122071,314718,,+5.000,ACTIVE,KF4TNP,TS1
 KF4TNP,manchester,Tennessee,United States,Master,1,441.88750,VolNET,35.4817431,-86.0885993,314719,,+5.000,ACTIVE,KF4TNP,TS1 TS2
 KK4BWF,Memphis,Tennessee,United States,Peer,1,441.88750,Brandmeister,35.1495343,-90.0489801,314720,,+5.000,ACTIVE,NS4B,Mixed Mode
 W4DER,Nashville,Tennessee,United States,Peer,1,440.52500,Chicagoland,36.1626638,-86.7816016,314721,,+5.000,ACTIVE,W4DER,TS1 TS2
@@ -8942,7 +8942,9 @@ WA6PYJ,La Canada,California,United States,Master,1,448.36000,Western States DMR,
 KG9OV,Maryville,Illinois,United States,Peer,7,927.03750,KG9OV,38.7332380,-89.9608100,314938,None,-25.000,ACTIVE,KG9OV,TS1 TS2
 KF4CWI,Hollister,Florida,United States,Master,1,147.06000,Brandmeister,29.6187780,-81.8078500,314939,TS1 314939 Local Repeater<br>TS1 3124802 Palatka ARC<br>TS1 311099 FDARN<br>TS1 31128 NE FL ARES<br>TS2 3112 FL Statewide<br>TS2 31121 First Coast DMR<br>TS2 31127 FL Statewide ARES,+0.600,ACTIVE,"KF4CWI, KD4BEE, WO5CID",TS1 TS2
 N3EMC,Middle River,Maryland,United States,Peer,2,927.70000,TGIF,39.3207299,-76.4356520,314940,,-25.000,ACTIVE,N3EMC,Mixed Mode
-N4FOX,Cumberland Furnace,Tennessee,United States,Master,1,145.33000,IP Site Connect,36.2728430,-87.4277220,314941,None<br>N4FOX,-0.600,ACTIVE,N4FOX,TS1
+N4FOX,Cumberland Furnace,Tennessee,United States,Master,7,145.33000,IP Site Connect,36.2728430,-87.4277220,314941,None<br>N4FOX,-0.600,ACTIVE,N4FOX,TS1
+KK6USZ,Saratoga,California,United States,Master,1,441.95000,Brandmeister,37.239674,-122.043350,314942,,+5.000,ACTIVE,WA6AXX,TS1 TS2
+W5HZZ,Ponca City,Oklahoma,United States,Peer,0,444.75000,Brandmeister,36.6893900,-97.1685300,314943,None,+5.000,ACTIVE,"W5HZZ, N9JYJ, W5BE",TS1 TS2
 WR1VT,Brattleboro,Vermont,United States,Peer,1,444.40000,NEDECN,42.8958537,-72.6633378,315001,"Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activation<br>Contact: Ira, W1IRA<br>Email: w1ira@vermontel.net<br><br>Website: http://nedecn.org",+5.000,ACTIVE,W1IRA,TS1 TS2
 W1IMD,Pico Peak,Vermont,United States,Peer,1,444.50000,NEDECN,43.6395654,-72.8362226,315002,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>* = PTT Activation<br><br>Contact: Paul, W1IMD<br>Email: w1imd@arrl.net<br><br>Website: http://nedecn.org",+5.000,ACTIVE,W1IMD,TS1 TS2
 W1UWS,Mt. Ascutney,Vermont,United States,Master,5,448.47500,NEDECN,43.4397861,-72.4456072,315003,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 3125 = MA Statewide* <br><br>* = PTT Activation<br>Contact: Jeff, WB2NWR<br>Email: katchenj@hotmail.com<br><br>Website: http://nedecn.org",-5.000,ACTIVE,WB2NWR,TS1 TS2
