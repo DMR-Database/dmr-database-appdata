@@ -48,7 +48,7 @@ K6IRF,Santiago Peak,California,United States,Peer,1,448.26000,110658,Brandmeiste
 KQ6RC,Santa Clara,California,United States,Master,2,444.87500,110659,Brandmeister/Dmr-marc,110659,0,,+5.000,KQ6RC,Mixed Mode
 K6HN,Pacifica,California,United States,Master,1,440.67500,110660,VIRN,110660,0,,+5.000,K6HN,TS1 TS2
 AI6BX,Pine Cove,California,United States,Peer,3,447.06000,110661,Brandmeister,110661,1,,-5.000,AI6BX,TS1 TS2
-KJ6WZS,Gilroy,California,United States,Master,0,443.52500,110662,DMR-MARC,110662,0,,+5.000,K6ATV,TS2
+KJ6WZS,Gilroy,California,United States,Master,0,443.52500,110662,DMR-MARC,110662,0,,+5.000,K6ATV,Mixed Mode
 K6LO,Angwin,California,United States,Peer,1,440.07500,110666,brandmeister,110666,0,,+5.000,K6LO,TS1 TS2
 K7FED,Tracy,California,United States,Peer,3,442.20000,110667,brandmiester,110667,0,,+5.000,K7FED,TS1 TS2
 K6DAN,Torrance,California,United States,Master,1,448.26000,110668,Brandmeister,110668,0,,-5.000,K6DAN,TS1 TS2
@@ -3302,7 +3302,6 @@ DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.287
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,262250,DMR-plus,262250,0,,-7.600,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,262251,DMR-plus,262251,0,,-0.600,DL5KUA,TS1 TS2
 DB0GMN,Grimmen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.50000,262252,BM,262252,1,None,-7.600,DB3MAX,TS1 TS2
-DB0UEM,Leopoldshagen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.32500,262253,Tetra,262253,1,None,-7.600,DB3MAX,Mixed Mode
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,262257,BM,262257,0,,-9.400,DF1RL,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,262260,DMR-plus,262260,0,,-7.600,DL5KUA,TS1 TS2
 DO0OHO,Heiligenhafen,,Germany,,1,438.87500,262263,BM,262263,0,,-7.600,DO3LMR,TS1 TS2
@@ -4164,7 +4163,7 @@ Z35VGV,Gostivar,,Macedonia,Master,1,145.60000,294004,"BM, DMR+, TGIF",294004,1,,
 Z35UKU,Kumanovo,,Macedonia,Master,1,434.61250,294005,BrandMeister,294005,0,,-1.600,Z37CXY,TS1 TS2
 Z35USR,Strumica,,Macedonia,Master,1,434.60000,294007,BrandMeister,294007,1,,-1.600,Z33AI,TS1 TS2
 Z35VSR,Strumica,,Macedonia,Master,1,145.60000,294008,BrandMeister,294008,1,"294, 2949",-0.600,Z33AI,TS1 TS2
-Z36AMB,Prilep Severna Makedonia,,Macedonia,Master,1,438.65000,294009,"BM,DMR-MARC",294009,1,"TG 1 294 TG 2 2948,220,2949",-7.600,Z36AMB,TS1 TS2
+Z36AMB,Prilep Severna Makedonia,All Regions,Macedonia,Master,1,438.65000,294009,"BM,DMR-MARC",294009,1,"TG 1 294 TG 2 2948,220,2949",-7.600,Z36AMB,TS1 TS2
 Z35UGE,Gevgelija,,Macedonia,Master,1,434.60000,294010,BrandMeister,294010,1,,-1.600,Z33AI,TS1 TS2
 Z35UEA,Skopje,All Regions,Macedonia,Master,1,434.70000,294011,BrandMeister,294011,1,294<br>2941<br>29444,-1.600,Z37RAM,TS1 TS2
 Z35VTK,Bitola,,Macedonia,Master,1,145.60000,294012,BrandMeister,294012,1,,-0.600,Z33AI,TS1 TS2
@@ -7486,6 +7485,7 @@ KB3TWW,Michaux Forest Gardners,Pennsylvania,United States,Peer,1,440.24375,31326
 KA4OBT,Erlanger,Kentucky,United States,Peer,1,442.76250,313265,BM,313265,1,,+5.000,KA4OBT,TS1 TS2
 N5SPJ,Canton,Mississippi,United States,Peer,1,444.41250,313268,BrandMeister,313268,1,DMR ID 313268,+5.000,N5SPJ,TS1 TS2
 AI1U,Snellville,Georgia,United States,Peer,3,442.60000,313269,HAM Digital,313269,1,Timeslot 1			<br>			<br>Talkgroup Name	Talkgroup ID	Static	PTT (in mins)<br>Atlanta Metro	31131	TRUE	static<br>BM North America	93	FALSE	15<br>BM Worldwide	91	FALSE	15<br>DMRplus USA	133	FALSE	15<br>Disconnect	4000	FALSE	15<br>Georgia	3113	FALSE	15<br>JOTA	907	FALSE	15<br>North America	3	FALSE	15<br>Worldwide	1	FALSE	15<br>Worldwide English	113	FALSE	15<br>Worldwide Spanish	114	FALSE	15<br><br>Timeslot 2			<br>		<br>Talkgroup Name	Talkgroup ID	Static	PTT (in mins)<br>Alabama	3101	FALSE	15<br>Atlanta Metro	31131	FALSE	15<br>BM Northeast	31720	FALSE	15<br>BM USA Bridge	3100	FALSE	15<br>Disconnect	4000	FALSE	15<br>First Coast DMR	31121	FALSE	15<br>Florida	3112	FALSE	15<br>Georgia	3113	TRUE	static<br>Georgia ARES	31130	FALSE	15<br>Georgia Skywarn	31139	FALSE	15<br>Gulf Coast DMR	31011	FALSE	15<br>JOTA TAC1	9071	FALSE	15<br>JOTA TAC2	9072	FALSE	15<br>Local 2 AI1U	2	FALSE	15<br>Local 9 AI1U	9	FALSE	15<br>Mid Atlantic	3173	FALSE	15<br>Midwest	3169	FALSE	15<br>Mountain	3177	FALSE	15<br>NY-Metro	31362	FALSE	15<br>NY-NJ-PA TriState	31360	FALSE	15<br>New York Link	212	FALSE	1<br>North Georgia	31134	FALSE	15<br>Northeast	3172	FALSE	15<br>Parrot	9998	FALSE	15<br>Quadnet	31012	FALSE	15<br>South Carolina	3145	FALSE	15<br>South Georgia	31132	FALSE	15<br>Southeast	3174	FALSE	15<br>Southern Plains	3175	FALSE	15<br>Southwest	3176	FALSE	15<br>Southwest GA	31136	FALSE	15<br>TAC 310	310	FALSE	15<br>TAC 311	311	FALSE	15<br>TAC 312	312	FALSE	15<br>TAC 313	313	FALSE	15<br>TAC 314	314	FALSE	15<br>TAC 315	315	FALSE	15<br>TAC 316	316	FALSE	15<br>TAC 317	317	FALSE	15<br>USA 1776	1776	FALSE	15<br>,+5.000,AI1U,TS1 TS2
+KI5YIJ,Lake Charles,Louisiana,United States,Master,10,444.92500,313271,BM,313271,0,TS1 - 3122<br>TS2 - 311995,+5.000,KI5YIJ,TS1 TS2
 W3ZC,Bedford,Pennsylvania,United States,Master,0,444.20000,313273,BM,313273,0,https://www.bcars.org/  Using 3192899 (Bedford TAC) as TG,+5.000,W3ZC,Mixed Mode
 K7RPT,Grizzly Mountain,Oregon,United States,Peer,1,440.57500,313275,PNW Digital,313275,0,,+5.000,N7LF,TS1 TS2
 N2SIT,Colden,New York,United States,Peer,1,444.37500,313276,BM,313276,0,444.375 Western NY covering buffalo ny,+5.000,N2SIT,TS1 TS2
@@ -8186,7 +8186,7 @@ KB3UNV,Corry,Pennsylvania,United States,Master,1,443.50000,314086,BM,314086,1,,+
 K6RBJ,Auberry,California,United States,Master,1,443.37500,314088,BM,314088,0,,+5.000,K6RBJ,TS1 TS2
 W1WU,Ossipee,New Hampshire,United States,Master,1,927.90000,314089,w1wu,314089,0,,-5.000,W1WU,TS1
 K3CR,University Park,Pennsylvania,United States,Master,3,442.65000,314091,BM,314091,0,,+5.000,N6AAB,TS1
-KI5YIJ,Lake Charles,Louisiana,United States,Master,10,444.67500,314092,BM,314092,0,TS1 - 3122 Louisiana Statewide<br>TS2 - 311995 SWLA-LINK,+5.000,KI5YIJ,TS1 TS2
+KI5YIJ,Lake Charles,Louisiana,United States,Master,10,444.67500,314092,YSF,314092,0,TS1 - 3122 Louisiana Statewide<br>TS2 - 311995 SWLA-LINK,+5.000,KI5YIJ,TS1 TS2
 WR0MG,Bartlett,Kansas,United States,Master,5,444.12500,314093,BM,314093,0,TS1 is for used for static talkgroup 314093 (CARC TG)<br>TS2 is used for all other dynamic talkgroups,+5.00,WR0MG,Mixed Mode
 W4NAS,Fernandina Beach,Florida,United States,Master,1,147.03000,314094,BM,314094,0,Full Brandmeister repeater,-0.600,W4NAS,TS1 TS2
 KD5UEW,Waco,Texas,United States,Master,6,441.37500,314095,BM,314095,0,General discussion. Tech. experiments.,+5.000,KD5UEW,TS1 TS2
@@ -8419,6 +8419,7 @@ WA4FC,South Hill,Virginia,United States,Peer,1,444.12500,314354,DMRVA,314354,0,P
 W4NAS,Callahan,Florida,United States,Master,1,147.03000,314355,BM,314355,0,Open Brandmeister<br>TG 9/1 Local (Nassau ARES Chat)<br>TG 2/2 First Coast DMR<br>,+0.600,N9HEL,TS1 TS2
 WV8CH,Beaver,West Virginia,United States,Peer,1,444.15000,314356,BM,314356,0,RPT testing,+5.000,WV8CH,TS1 TS2
 W9XAM,SBR,West Virginia,United States,Peer,1,441.87500,314357,BM,314357,0,,+5.000,WV8CH,TS1 TS2
+WV7HS,Youngtown,Arizona,United States,Master,1,441.77500,314358,BM,314358,1,"The West Valley Ham Shack is a complete amateur radio facility with a fully equipped station, conference/class room, work shop, museum, and parts galore for member use. We offer free classes, repairs, equipment testing, VE sessions, a repeater (soon adding DMR), and 9 experienced directors to help you with your projects and experiments. Our website is https://www.westvalleyhamshack.com. We accept donations. Membership is a 1-time fee of $10 for a key fob for access to the facility when we are open.",+5.000,"WV7HS, W9WRP",TS1 TS2
 KG5JPJ,Rogers,Arkansas,United States,Master,1,442.52500,314359,BM,314359,1,,+5.000,N5KWL,TS1 TS2
 W4EM,Bartlett,Tennessee,United States,Master,4,448.25000,314360,bm,314360,1,,+5.000,N0KYN,TS1 TS2
 N0FON,HOLYOKE,Colorado,United States,Peer,9,146.95500,314361,BM,314361,1,,-0.600,N0FON,TS1 TS2
@@ -8944,6 +8945,7 @@ N3EMC,Middle River,Maryland,United States,Peer,2,927.70000,314940,TGIF,314940,1,
 N4FOX,Cumberland Furnace,Tennessee,United States,Master,7,145.33000,314941,IP Site Connect,314941,1,None<br>N4FOX,-0.600,N4FOX,TS1
 KK6USZ,Saratoga,California,United States,Master,1,441.95000,314942,Brandmeister,314942,0,None,+5.000,WA6AXX,TS1 TS2
 W5HZZ,Ponca City,Oklahoma,United States,Peer,0,444.75000,314943,Brandmeister,314943,1,None,+5.000,"W5HZZ, N9JYJ, W5BE",TS1 TS2
+K2ERC,Plainview,New York,United States,Peer,6,448.23250,314944,BrandMeister,314944,1,None,-5.000,W2JJT,TS1 TS2
 WR1VT,Brattleboro,Vermont,United States,Peer,1,444.40000,315001,NEDECN,315001,1,"Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activation<br>Contact: Ira, W1IRA<br>Email: w1ira@vermontel.net<br><br>Website: http://nedecn.org",+5.000,W1IRA,TS1 TS2
 W1IMD,Pico Peak,Vermont,United States,Peer,1,444.50000,315002,NEDECN,315002,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>* = PTT Activation<br><br>Contact: Paul, W1IMD<br>Email: w1imd@arrl.net<br><br>Website: http://nedecn.org",+5.000,W1IMD,TS1 TS2
 W1UWS,Mt. Ascutney,Vermont,United States,Master,5,448.47500,315003,NEDECN,315003,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 3125 = MA Statewide* <br><br>* = PTT Activation<br>Contact: Jeff, WB2NWR<br>Email: katchenj@hotmail.com<br><br>Website: http://nedecn.org",-5.000,WB2NWR,TS1 TS2
@@ -10424,7 +10426,6 @@ PY1MRM,PARATY,Rio de Janeiro,Brazil,Master,1,439.55000,724274,Brandmeister,72427
 PY1LDU,Marica,Rio de Janeiro,Brazil,Master,1,439.75000,724275,BM,724275,1,724,-5.000,PY1EF,TS1 TS2
 PY3KCA,Canoas,Rio Grande do Sul,Brazil,Master,1,439.25000,724276,BM,724276,0,,-5.000,PY3AQ,TS1 TS2
 PS7BBC,Mossor,Rio Grande do Norte,Brazil,Master,1,439.20000,724277,BM,724277,1,,-5.000,PS7BB,TS1 TS2
-PU2SSH,Sao Paulo,Sao Paulo,Brazil,Peer,1,439.65000,724278,Dmr,724278,1,None<br>tg 724,5.000,PU2SSH,TS1
 PY3HA,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,146.77000,724301,Brandmeister,724301,0,,-0.600,PY3NZ,TS1 TS2
 PY3RPT,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,145.35000,724302,Mixed Mode,724302,0,,-0.600,PY3NZ,TS1 TS2
 PY3SMS,Guaiba,Rio Grande do Sul,Brazil,Master,1,439.55000,724303,DMR+ MASTER SUL,724303,1,,-5.000,PY5JP,TS1 TS2
