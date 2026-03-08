@@ -48,7 +48,6 @@ K6IRF,Santiago Peak,California,United States,Peer,1,448.26000,Brandmeister,34.12
 KQ6RC,Santa Clara,California,United States,Master,2,444.87500,Brandmeister/Dmr-marc,37.2333253,-121.6846349,110659,,+5.000,ACTIVE,KQ6RC,Mixed Mode
 K6HN,Pacifica,California,United States,Master,1,440.67500,VIRN,37.6138253,-122.4869194,110660,,+5.000,ACTIVE,K6HN,TS1 TS2
 AI6BX,Pine Cove,California,United States,Peer,3,447.06000,Brandmeister,33.076370,-117.267998,110661,,-5.000,ACTIVE,AI6BX,TS1 TS2
-KJ6WZS,Gilroy,California,United States,Master,0,443.52500,DMR-MARC,37.0065078,-121.5631723,110662,,+5.000,ACTIVE,K6ATV,Mixed Mode
 K6LO,Angwin,California,United States,Peer,1,440.07500,brandmeister,38.547218,-122.455002,110666,,+5.000,ACTIVE,K6LO,TS1 TS2
 K7FED,Tracy,California,United States,Peer,3,442.20000,brandmiester,37.7396513,-121.4252227,110667,,+5.000,ACTIVE,K7FED,TS1 TS2
 K6DAN,Torrance,California,United States,Master,1,448.26000,Brandmeister,33.8358492,-118.3406288,110668,,-5.000,ACTIVE,K6DAN,TS1 TS2
@@ -1713,7 +1712,7 @@ OE3XQQ,Hollabrunn,Niederoesterreich,Austria,Master,1,438.07500,BM,48.48447491394
 OE3XVR,Krems an der Donau,Niederoesterreich,Austria,Master,1,438.35000,BM,48.409809300000006,15.60631866409324,232082,,-7.600,ACTIVE,OE3MUC,TS1 TS2
 OE2XSE,Mittersill,Salzburg,Austria,Peer,1,439.00000,BM,47.2878333,12.477277777777777,232083,,-7.600,ACTIVE,OE2MNM,TS1 TS2
 OE3XKU,Sieghartskirchen,Niederoesterreich,Austria,Master,1,431.70000,"BM, DMR-AMRC, M17",48.2582979,16.019551,232084,"TG 232, 2321, 2323, 2329",-0.600,ACTIVE,OE3BIA,TS2
-OE3XVJ,Johannes Gutenberg Straße 3  Wiener Neustadt,Niederoesterreich,Austria,Master,1,438.22500,IPSC2,47.839001,16.248146,232085,,-7.6,ACTIVE,OE3XFH,TS1 TS2
+OE3XVJ,Wiener Neustadt,Niederoesterreich,Austria,Master,1,438.22500,IPSC2,47.839001,16.248146,232085,,-7.600,ACTIVE,OE3XFH,TS1 TS2
 OE9PKV,Bludesch,Vorarlberg,Austria,Peer,1,438.82500,BM,47.1154,09.4435,232086,2329,-7.600,ACTIVE,OE9PKV,TS1 TS2
 OE3XRB,Sonntagberg,Niederoesterreich,Austria,Peer,1,438.55000,IPSC2,47.9969444,14.764722222222222,232087,,-7.6,ACTIVE,OE3OCC,TS1 TS2
 OE9XXD,Dornbirn,Vorarlberg,Austria,Peer,1,438.58750,BM,47.40140,9.72269,232088,232 TS1 2329 TS2,-7.60,ACTIVE,OE9KHJ,TS1 TS2
@@ -1744,8 +1743,8 @@ OE3XHB,Jauerling,Niederoesterreich,Austria,Master,1,438.42500,DMR-plus,48.339768
 OE3XKC,Kirchberg/Pielach,Niederoesterreich,Austria,Master,1,438.50000,BM,48.036400,15.432388,232304,,-7.600,ACTIVE,OE3KSS,TS1 TS2
 OE3XNR,Nebelstein,Niederoesterreich,Austria,,1,438.61250,DMR-plus,,,232305,,-7.600,ACTIVE,OE3GWU,TS1 TS2
 OE3XNK,Hohe Wand,Niederoesterreich,Austria,,1,438.22500,DMR-plus,,,232306,,-7.600,ACTIVE,OE3RPU,TS1 TS2
-OE3XWW,Moenichkirchen MMDVM,Niederoesterreich,Austria,,1,438.57500,DMR-plus,,,232307,,-7.600,ACTIVE,OE3RPU,TS1 TS2
-OE3XWW,Moenichkirchen MMDVM,Niederoesterreich,Austria,,1,145.76250,DMR-plus,,,232308,,-0.600,ACTIVE,OE3RPU,TS1 TS2
+OE3XWW,Moenichkirchen MMDVM,Niederoesterreich,Austria,Master,1,438.57500,DMR-plus,47.5157452,16.0010107,232307,,-7.600,ACTIVE,OE3RPU,TS1 TS2
+OE3XWW,Moenichkirchen MMDVM,Niederoesterreich,Austria,Master,1,145.76250,DMR-plus,47.5157452,16.0010107,232308,,-0.600,ACTIVE,OE3RPU,TS1 TS2
 OE3XDA,Hochkogelberg,Niederoesterreich,Austria,,1,145.57500,None,,,232309,,-0.600,ACTIVE,OE3JWC,
 OE3XCR,Hutwisch,Niederoesterreich,Austria,,1,438.85000,DMR-plus,,,232310,,-7.600,ACTIVE,OE1KBC,TS1 TS2
 OE3XMC,Schwechat,Niederoesterreich,Austria,,1,145.78750,DMR-plus,48.1421651,16.4746735,232320,,-0.600,ACTIVE,OE3KLU,TS1 TS2
@@ -2001,7 +2000,6 @@ GB7RO,Haslingden,England,United Kingdom,Peer,3,430.26240,BM_2341_United_Kingdom,
 GB3RV,Haslingden,England,United Kingdom,Master,1,145.73750,BM_2341_United_Kingdom,53.7053270,-2.3119420,234219,None,-0.600,ACTIVE,M0LMN,TS2
 GB7YM,Birmingham,England,United Kingdom,Peer,8,439.40000,BM,52.5824280,-1.8759400,234220,TG75,-9.000,ACTIVE,G8NDT,TS1 TS2
 GB7XN,Worksop,England,United Kingdom,Master,2,439.56250,Freestar network,53.307533,-1.1156740,234222,None,-9.000,ACTIVE,M8KBZ,TS1 TS2
-MB7ISA,Salisbury,England,United Kingdom,Peer,3,430.06250,Breindmaster,51.0810320,-1.8239021,234223,91,0.000,ACTIVE,M6OER,TS2
 GB3LS,Lincoln,England,United Kingdom,Peer,1,433.05000,Brandmeister,53.2342940,-0.5361520,234224,None,1.600,ACTIVE,M0TEF,TS1 TS2
 M1RXO,Lincoln,England,United Kingdom,Peer,3,439.60000,Brandmeister,53.2198000,-0.5427300,234225,None,9.000,ACTIVE,"M1RXO, M0IYE",TS1 TS2
 GB7AU,Amersham,England,United Kingdom,Peer,1,430.86250,DMR-plus,51.6740875,-0.6073643,234236,,7.600,ACTIVE,M0ZPU,TS1 TS2
@@ -2064,7 +2062,7 @@ GB7WL,Amersham,England,United Kingdom,Peer,3,439.70000,DMR-plus,51.6740875,-0.60
 GB7HR,Heathrow Airport,England,United Kingdom,Master,3,439.45000,DMR-plus,51.46773895,-0.4587800741571181,235170,"Always connected: TS1: 1, 2, 13, 235.  TS2: 801<br><br>User Activated (UA) TG's also supported",-9.000,ACTIVE,G0OXZ,TS1 TS2
 GB7IK,Rochester Kent,England,United Kingdom,Peer,3,439.43750,DMR-plus,51.389062,0.5049347,235171,,-9.000,ACTIVE,G6CKK,TS1 TS2
 GB3BX,Brown Clee,England,United Kingdom,Peer,13,145.67500,BM,52.5957012,-2.5582016,235172,,-0.600,ACTIVE,G4VZO,TS1 TS2
-GB7BM,BIRMINGHAM,England,United Kingdom,Peer,9,439.40000,BM,52.4800000,-1.9220000,235173,Slot 1:-<br>Only TG75 the Salop Custer should be used on Slot 1.<br><br>Slot 2:-<br>TG23580 for the West Midlands Sites.<br>TG235173 for Local so other Sites can connect into GB7BM IF they used this TG.<br>TG23590 will join the East Midlands Sites.<br>TG9 is just a local TG please try and use TG235173 instead.<br>So standard BrandMeister protocols are used on Slot 2.,-9.000,ACTIVE,G8NDT,TS1 TS2
+GB7BM,BIRMINGHAM,England,United Kingdom,Peer,9,439.75000,BM,52.4800000,-1.9220000,235173,Slot 1:-<br>Only TG75 the Salop Custer should be used on Slot 1.<br><br>Slot 2:-<br>TG23580 for the West Midlands Sites.<br>TG235173 for Local so other Sites can connect into GB7BM IF they used this TG.<br>TG23590 will join the East Midlands Sites.<br>TG9 is just a local TG please try and use TG235173 instead.<br>So standard BrandMeister protocols are used on Slot 2.,-9.000,UNKNOWN,G8NDT,TS1 TS2
 GB7YJ,Nr Warwick,England,United Kingdom,Peer,3,439.58750,BM,52.200352,-1.487140,235174,,-9.000,ACTIVE,G4USP,TS1 TS2
 GB3RF,Accrington,England,United Kingdom,,2,145.77500,DMR-plus,53.7527983,-2.3701201,235175,,-0.600,ACTIVE,M0NFI,TS1 TS2
 GB7CT,Tring,England,United Kingdom,Peer,3,145.63750,DMR-plus,52.392426,0,235177,,-0.600,ACTIVE,M0ZPU,TS1 TS2
@@ -2126,7 +2124,7 @@ GB7PP,Mendlesham,England,United Kingdom,,1,439.43750,DMR-plus,52.2510164,1.07951
 GB7RT,Sunningdale,England,United Kingdom,Master,3,439.41250,BM,51.389992,-0.630000,235257,,-9.000,ACTIVE,M0HBK,TS1 TS2
 GB7ZE,St Leonards,England,United Kingdom,Peer,3,433.05000,DMR-plus,50.8557256,0.5480144,235259,,+1.6,ACTIVE,M0JBR,TS1 TS2
 GB7MH,Turners Hill,England,United Kingdom,Master,2,439.63750,FreeDMR,51.102211,-0.091027,235260,,-9.000,ACTIVE,G7KBR,TS1 TS2
-GB7YB,Sutton Coldfield,England,United Kingdom,Peer,8,433.25000,BM,52.532552,-1.831129,235261,Slot 1:-<br>Only TG75 the Salop Custer should be used on Slot 1.<br><br>Slot 2:-<br>TG23580 for the West Midlands Sites.<br>TG235261 for Local so other Sites can connect into GB7GB IF they used this TG.<br>TG23590 will join the East Midlands Sites.<br>TG9 is just a local TG please try and use TG235261 instead.<br>So standard Brand Meister protocols are used on Slot 2.,5.000,ACTIVE,G8NDT,TS1 TS2
+GB7YB,Sutton Coldfield,England,United Kingdom,Peer,8,433.21250,BM,52.532552,-1.831129,235261,Slot 1:-<br>Only TG75 the Salop Custer should be used on Slot 1.<br><br>Slot 2:-<br>TG23580 for the West Midlands Sites.<br>TG235261 for Local so other Sites can connect into GB7GB IF they used this TG.<br>TG23590 will join the East Midlands Sites.<br>TG9 is just a local TG please try and use TG235261 instead.<br>So standard Brand Meister protocols are used on Slot 2.,5.000,ACTIVE,G8NDT,TS1 TS2
 GB7JC,LIVERPOOL MERSEYSIDE,England,United Kingdom,,3,430.46250,DMR-plus,,,235263,,9.000,ACTIVE,G7KDZ,TS1 TS2
 GB7NE,Newbiggin by the Sea,England,United Kingdom,,3,439.45000,,55.179321,-1.522843,235266,,-9.000,ACTIVE,G0UDZ,
 GB3DY,Wirksworth,England,United Kingdom,,1,433.25000,BM,53.0821999,-1.5732089,235267,,1.600,ACTIVE,G3ZYC,TS1 TS2
@@ -3246,7 +3244,6 @@ DO0SOB,Erwitte,Nordrhein-Westfalen,Germany,Master,1,439.36250,BM,51.51055,8.3385
 DB0FSG,Langenbach,Bayern,Germany,Peer,1,439.93750,BM,48.434244,11.819593,262186,"262,2628,9",-9.4,ACTIVE,DL3NCU,TS1 TS2
 DB0IDS,Idstein,Hessen,Germany,Peer,1,438.41250,BM,50.22028,8.24806,262187,,-7.600,ACTIVE,DD2ZN,TS1 TS2
 DB0LOL,Loeningen,Niedersachsen / Bremen,Germany,Master,1,439.50000,DMR,52.717752,7.693074,262188,,-7.600,ACTIVE,DL1LOL,Mixed Mode
-DL3OCK,Berlin,Berlin / Brandenburg,Germany,Peer,1,438.62500,BM,52.50222,13.33306,262189,Mobile Repeater for testing issues,-7.600,ACTIVE,DL3OCK,TS1 TS2
 DK5RAS,Fuerth,Bayern,Germany,Peer,1,439.70000,BM,49.4727100,10.9825900,262191,,-9.4,ACTIVE,DK5RAS,TS1 TS2
 DB0TEN,Bomlitz,Niedersachsen / Bremen,Germany,Master,1,439.21250,BM,52.902111,9.667600,262192,,-7.600,ACTIVE,DK1OM,TS1 TS2
 DB0WAC,Markleeberg,Sachsen / Thueringen,Germany,Master,1,438.20000,BM,,12.4282998,262193,,-7.600,ACTIVE,DL1FLW,TS1 TS2
@@ -3302,7 +3299,6 @@ DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.287
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,DMR-plus,53.648010,10.275660,262250,,-7.600,ACTIVE,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,DMR-plus,53.6635561,10.2835977,262251,,-0.600,ACTIVE,DL5KUA,TS1 TS2
 DB0GMN,Grimmen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.50000,BM,56.0000000,12.0000000,262252,None,-7.600,ACTIVE,DB3MAX,TS1 TS2
-DB0UEM,Leopoldshagen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.32500,Tetra,56.0000000,12.0000000,262253,None,-7.600,UNKNOWN,DB3MAX,Mixed Mode
 DB0AIS,Moerfelden-Walldorf,Hessen,Germany,Peer,1,438.30000,BM,49.9874400,8.5922100,262254,TG 26269 TS2,-7.600,ACTIVE,"DG3FBL, DL1XM",TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,BM,53.970840,8.949069,262257,,-9.400,ACTIVE,DF1RL,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,DMR-plus,53.635181,10.386677,262260,,-7.600,ACTIVE,DL5KUA,TS1 TS2
@@ -4693,9 +4689,10 @@ N2CID,MOBILE,New York,United States,Peer,1,442.18750,WNY-DIGITAL.network,42.7158
 N5LLH,Octavia,Oklahoma,United States,Master,1,443.07500,mixed mode,34.5267696,-94.7030008,310097,,+5.000,ACTIVE,N5LLH,Mixed Mode
 KE5WUZ,McKinney,Texas,United States,Peer,1,145.35000,BrandMeister,33.156662,-96.713379,310098,145.350 -.6 PL 100.0 ANALOG NBFM / DMR 800’ AGL<br>,-0.600,ACTIVE,N5GI,Mixed Mode
 KF6FM,Johnson Valley,California,United States,Master,2,448.13750,Western States DMR,34.4355955,-116.6515869,310099,,-5.000,ACTIVE,KF6FM,TS1 TS2
-N4FIV,Mobile,Alabama,United States,Peer,1,444.75000,Brandmeister,33.2443,-86.8164,310101,,+5.000,ACTIVE,N4FIV,TS1 TS2
+N4FIV,Mobile,Alabama,United States,Peer,1,444.75000,Brandmeister,30.6933880,-88.228941,310101,Home Repeater,+5.000,ACTIVE,N4FIV,TS1 TS2
 KD9Q,Tuscaloosa,Alabama,United States,Peer,1,444.90000,AL-DMR,33.20937320000001,-87.5049087,310102,"World Wide 1 = TS1 PTT for 10 min<br>World Wide English 13 = TS1 PTT for 10 min<br>North America 3 = TS1 always on<br>South East 3174 = TS2 PTT 10 min<br>Alabama 3101 = TS2 always on<br>Georgia 3113 = TS2 PTT 10 min<br>TAC310 = TS2 PTT 10 min<br>TAC311 = TS2 PTT 10 min<br>UA Eng 113 = TS2 PTT 10 min<br>UA Eng 123 = TS2 PTT 10 min<br>Parrot 9998 = TS2 PTT 5 min<br>NoCal Audio 9999 = TS2 PTT 5 min<br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area: http://www.aldmr.org <br> <br>Contact Name: Rich Ranson, KD9Q<br>Email: kd9q@arrl.net",+5.000,ACTIVE,KD9Q,TS1
 KD9Q,Northport,Alabama,United States,Peer,1,444.17500,DMR-MARC-KD9Q,33.229007,-87.5772293,310103,,+5.000,ACTIVE,KD9Q,TS1 TS2
+N4FIV,Mobile,Alabama,United States,Peer,1,444.98750,Brandmeister,30.7020230,-88.143593,310104,Gulf Coast DMR 31011 Time Shot Two,+5.000,ACTIVE,N4FIV,TS1 TS2
 W4RKZ,Birmingham,Alabama,United States,Peer,1,443.67500,AL-DMR,33.5659067,-86.6981583,310106,"World Wide 1 = TS1 PTT for 10 min<br>World Wide English 13 = TS1 PTT for 10 min<br>North America 3 = TS1 always on<br>South East 3174 = TS2 PTT 10 min<br>Alabama 3101 = TS2 always on<br>Georgia 3113 = TS2 PTT 10 min<br>TAC310 = TS2 PTT 10 min<br>TAC311 = TS2 PTT 10 min<br>UA Eng 113 = TS2 PTT 10 min<br>UA Eng 123 = TS2 PTT 10 min<br>Parrot 9998 = TS2 PTT 5 min<br>NoCal Audio 9999 = TS2 PTT 5 min<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area: http://www.aldmr.org<br>Contact Name: Lee, W4RKZ<br>Email: lrosser2103@gmail.com",+5.000,ACTIVE,W4RKZ,TS1 TS2
 W4RKZ,Hoover,Alabama,United States,Peer,1,444.80000,AL-DMR,33.417978,-86.8331907,310107,"World Wide 1 = TS1 PTT for 10 min<br>World Wide English 13 = TS1 PTT for 10 min<br>North America 3 = TS1 always on<br>South East 3174 = TS2 PTT 10 min<br>Alabama 3101 = TS2 always on<br>Georgia 3113 = TS2 PTT 10 min<br>TAC310 = TS2 PTT 10 min<br>TAC311 = TS2 PTT 10 min<br>UA Eng 113 = TS2 PTT 10 min<br>UA Eng 123 = TS2 PTT 10 min<br>Parrot 9998 = TS2 PTT 5 min<br>NoCal Audio 9999 = TS2 PTT 5 min<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area: http://www.aldmr.org<br><br>Contact Name: Lee, W4RKZ<br>Email: lrosser2103@gmail.com",+5.000,ACTIVE,W4RKZ,TS1 TS2
 W4NQ,Troy,Alabama,United States,None,1,147.07500,Hytera,31.8087678,-85.969951,310108,,+0.600,ACTIVE,W4DBG,None
@@ -4794,6 +4791,7 @@ K6ERS,Murphysboro,Illinois,United States,Peer,0,444.77500,BrandMeister,37.727272
 K6YO,Gardena,California,United States,Peer,10,451.81250,DMR,33.8883487,-118.3089624,310207,,+5.000,ACTIVE,K6YO,TS2
 K3UCB,Olney,Maryland,United States,Peer,1,442.90000,Interstate Network,39.1531627,-77.066923,310208,This is a Mobile repeater,+5.000,ACTIVE,K3UCB,TS1 TS2
 KE5NL,Hebbronville,Texas,United States,Master,1,443.00000,BrandMeister,9.000000,-3.000000,310209,,+5 MHZ,ACTIVE,KE5NL,TS1 TS2
+KB0VGD,Greeley,Colorado,United States,Peer,2,445.13750,BM,40.407497,-104.733002,310210,,-5.000,ACTIVE,"WD0HDR, KB0VGD",TS1 TS2
 W2HVL,usa-link,New York,United States,Peer,1,446.18750,NJ-TRBO,41.4300937,-73.6801297,310213,,-0.500,ACTIVE,KC2CWT,TS1 TS2
 N0VPR,Baxter,Iowa,United States,Master,1,444.60000,Brandmeister,41.6709834,-93.7130493,310214,,+5.000,ACTIVE,N0VPR,TS1 TS2
 NG8M,Mocksville,North Carolina,United States,Master,8,449.80000,Brandmeister,35.894001,-80.561401,310215,,-5.000,ACTIVE,NG8M,TS1 TS2
@@ -10428,7 +10426,6 @@ PY1MRM,PARATY,Rio de Janeiro,Brazil,Master,1,439.55000,Brandmeister,23.140238,-4
 PY1LDU,Marica,Rio de Janeiro,Brazil,Master,1,439.75000,BM,-22.9137389,-42.81281111111111,724275,724,-5.000,ACTIVE,PY1EF,TS1 TS2
 PY3KCA,Canoas,Rio Grande do Sul,Brazil,Master,1,439.25000,BM,,,724276,,-5.000,ACTIVE,PY3AQ,TS1 TS2
 PS7BBC,Mossoró,Rio Grande do Norte,Brazil,Master,1,439.20000,BM,-5.201638,-37.301579,724277,,-5.000,ACTIVE,PS7BB,TS1 TS2
-PU2SSH,Sao Paulo,Sao Paulo,Brazil,Peer,1,439.65000,Dmr,46.7405260,23.6377920,724278,None<br>tg 724,5.000,UNKNOWN,PU2SSH,TS1
 PY6JL,Vitoria Da Conquista,Bahia,Brazil,Peer,1,439.55000,BM,-14.8550293,-40.8591050,724279,None,-5.000,ACTIVE,PY6NJ,TS2
 PY3HA,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,146.77000,Brandmeister,-30.100000,-51.180000,724301,,-0.600,ACTIVE,PY3NZ,TS1 TS2
 PY3RPT,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,145.35000,Mixed Mode,-15.393200,-56.078800,724302,,-0.600,ACTIVE,PY3NZ,TS1 TS2
