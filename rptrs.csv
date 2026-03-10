@@ -2003,6 +2003,7 @@ GB7XN,Worksop,England,United Kingdom,Master,2,439.56250,234222,Freestar network,
 MB0SWC,Yelverton,England,United Kingdom,Peer,3,144.91250,234223,South West Cluster,234223,1,Experimental simplex repeater DMR slot 2 TG950 RF linked to GB7RD connected to the South West Cluster,0.000,G3XOU,TS2
 GB3LS,Lincoln,England,United Kingdom,Peer,1,433.05000,234224,Brandmeister,234224,1,None,1.600,M0TEF,TS1 TS2
 M1RXO,Lincoln,England,United Kingdom,Peer,3,439.60000,234225,Brandmeister,234225,1,None,9.000,"M1RXO, M0IYE",TS1 TS2
+GB7PP,Hailsham,England,United Kingdom,Peer,3,145.77500,234226,BM DMR+ TGIF freeDMR,234226,1,None,-0.600,M0LIP,TS1 TS2
 GB7AU,Amersham,England,United Kingdom,Peer,1,430.86250,234236,DMR-plus,234236,0,,7.600,M0ZPU,TS1 TS2
 GB3OM,Omagh,Northern Ireland,United Kingdom,Peer,1,430.95000,234501,DMR-MARC,234501,1,DMR Talk Groups<br>SLOT	TALKGROUP	DESCRIPTION<br>1	                1               World-Wide Calling<br>1	                2	         Europe Calling<br>1	                3	         North America<br>1	                5	         Australia<br>1	               13	         English World-Wide Calling<br>1	               80	         UK Chat 1<br>1	               81	         UK Chat 2<br>1	               82	         UK Chat 3<br>1	               83	         UK Chat 4<br>1	               84	         UK Chat 5<br>1	               113	         World-Wide Chat 1 English<br>1	               119	         World-Wide Chat 1 (All Languages)<br>1	               123	         World-Wide Chat 2 English<br>1	               129	         World-Wide Chat 2 (All Languages)<br>1	               235	         UK Calling<br>1	               733	         MilNet<br>1	              2345	         CQ North<br>1	              2347	         GB-SOTA<br>1	              2350	         Brandmeister UK Calling<br>1	              2351	         BM UK Chat 1<br>1	              2352	         BM UK Chat 2<br>1	              2353	         BM UK Chat 3<br>1	              2355	         Brandmeister Scotland Wide<br>1	              2721	         Irish Chat 1<br>1	              2722	         Irish Chat 2<br>1	              2723	         Irish Chat 3<br>1	            23450	         Yorkshire Net<br>1	            23525	         Extended Freedom Network<br>1	            23526	         Hubnet<br>1	            23531	         Raynet UK<br>1	            23532	         Essex Raynet<br>1	            23550	         Scotland Chat<br>1	            23565	         Northumberland Scouts<br>2	                    8	         Northern Ireland Cluster (Only available on GB3OM and GB7UL)<br>2	                    9	         Local (Repeater Only)<br>2	                801	         South East England<br>2	                810	         South West England<br>2	                820	         North West England<br>2	                830	         Midlands England<br>2	                840	         East of England<br>2	                 842	         EA Special Link (GB7AV GB7EX GB7HH)<br>2	                 844	         East Anglia East Coast (GB7DS GB7EB GB7TX GB7YL)<br>2	                  851	         Special Link (GB7AI GB7BL GB7EY GB7GM)<br>2	                  852         Special Link (GB7DM GB7KY GB7SM GB7XG GB7GX)<br>2	                  860         Northeast England<br>2	                  870         Wales and Marches Regional<br>2	                  880         Northern Ireland Regional<br>2	                 2724        Irish Calling<br>2	                 9990        Echo Test<br>2	                23555       Scotland Calling<br>2	                23556       UK Wide Multimode<br>2	                23557       Scotland East<br>2	                23558       Scotland North<br>2	                23559       Scotland West,+7.600,GI4SXV,TS1 TS2
 GB7AI,Hawick,Scotland,United Kingdom,Peer,3,439.33750,234900,DMR-plus,234900,0,,-9.0,G0RDI,TS1 TS2
@@ -2776,11 +2777,11 @@ RR7RAD,,,Russia,,15,434.97500,250706,BM,250706,0,,+4.900,R7RBB,TS1 TS2
 R7RBB,,,Russia,,1,444.00000,250708,BM,250708,0,,+5.000,R7RBB,TS1 TS2
 RK7K,,,Russia,,1,0.00000,250711,BM,250711,0,,,RK7K,TS1 TS2
 RR7KAC,,,Russia,,5,438.70000,250712,BM,250712,0,,-7.600,RK7K,TS1 TS2
-RR9ACD,Ekaterinburg,,Russia,Peer,1,438.70000,250801,BM,250801,0,None,-7.600,R8CFY,TS1 TS2
+RR9ACD,Yekaterinburg,All Regions,Russia,Peer,1,438.70000,250801,BM,250801,0,None,-7.600,R8CFY,TS1 TS2
 R8DDD,,,Russia,,1,0.00000,250802,BM,250802,0,,,R8DDD,TS1 TS2
 R8CBM,,,Russia,,1,0.00000,250803,BM,250803,0,,,R8CBM,TS1 TS2
 R8ABX,,,Russia,,1,0.00000,250805,BM,250805,0,,,R8ABX,TS1 TS2
-R8CFY,Ekaterindurg,,Russia,Peer,1,434.90000,250806,BM,250806,0,None,+5.000,R8CFY,TS1 TS2
+R8CFY,Yekaterinburg,All Regions,Russia,Peer,1,434.90000,250806,BM,250806,0,None,+5.000,R8CFY,TS1 TS2
 R8AAY,,,Russia,,1,0.00000,250807,BM,250807,0,,,R8AAY,TS1 TS2
 RR9KAB,,,Russia,,1,434.95000,250901,BM,250901,0,,-1.600,UA9KDF,TS1 TS2
 R9CIR,,,Russia,,1,431.82500,250905,BM,250905,0,,+7.100,R9CIR,TS1 TS2
@@ -3299,7 +3300,6 @@ DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.287
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,262250,DMR-plus,262250,0,,-7.600,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,262251,DMR-plus,262251,0,,-0.600,DL5KUA,TS1 TS2
 DB0GMN,Grimmen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.50000,262252,BM,262252,1,None,-7.600,DB3MAX,TS1 TS2
-DB0UEM,Leopoldshagen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.32500,262253,Tetra,262253,1,None,-7.600,DB3MAX,Mixed Mode
 DB0AIS,Moerfelden-Walldorf,Hessen,Germany,Peer,1,438.30000,262254,BM,262254,1,TG 26269 TS2,-7.600,"DG3FBL, DL1XM",TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,262257,BM,262257,0,,-9.400,DF1RL,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,262260,DMR-plus,262260,0,,-7.600,DL5KUA,TS1 TS2
@@ -5481,7 +5481,7 @@ W4KST,Atlanta,Georgia,United States,Peer,7,443.27500,310969,K4USD,310969,0,,+5,K
 K3JMC,Fresno,Texas,United States,Master,3,440.68750,310970,TXGULFCOAST,310970,1,TIME SLOT 1<br>8288  Brazoria County<br>3100  DCI Bridge (PTT 15)<br>3        North America (PTT 15)<br>310    TAC 310 (PTT 15)<br>311    TAC 311 (PTT 15)<br>312    TAC 312 (PTT 15)<br><br>TIME SLOT 2<br>8207  Houston<br>8686  SETECG<br>3175  South (PTT 15)<br>3148  Texas<br>,+5.00,K3JMC,TS1 and TS2
 WW9RS,Eau Galle,Wisconsin,United States,Master,13,442.62500,310971,BrandMeister,310971,1,We are the Western Wisconsin Repeater System (WW9RS).,+5.00,WW9RS,1
 N4ADI,Aiken,South Carolina,United States,Peer,1,444.03750,310972,BM,310972,1,,+5.000,N4ADI,TS1 TS2
-KP4DJT,Edmond,Oklahoma,United States,PEER,7,443.02500,310973,BrandMeister,310973,0,TG 31401 OK Central TS 2<br>TG 712      Costa Rica   TS1,+5.000,KP4DJT,TS1 TS2
+KP4DJT,Edmond,Oklahoma,United States,Peer,7,443.02500,310973,BrandMeister,310973,0,TG 31401 OK Central TS 2<br>TG 712      Costa Rica   TS1,+5.000,KP4DJT,TS1 TS2
 N5VGK,Tupelo,Mississippi,United States,Peer,1,444.95000,310974,BrandMeister,310974,1,,+5,N5VGK,2
 KD2FRD,Rochester,New York,United States,Master,1,443.60000,310975,BM,310975,0,,+5,KD2FRD,1
 KD2FRD,Maryland,New York,United States,Master,1,443.60000,310976,BM,310976,0,,+5,KD2FRD,1
@@ -7382,7 +7382,7 @@ KF0CQX,Little Falls,Minnesota,United States,Peer,1,444.23125,313141,BM,313141,1,
 W4BOC,Stone Mountain,Georgia,United States,Peer,1,441.81250,313142,BM,313142,1,Static TG-TS1 GA Statewide TS2 Atlanta Metro,+5.000,WC4Y,TS1 TS2
 KE7HHR,Boise,Idaho,United States,Master,2,444.57500,313144,BM,313144,0,,+5.000,KD7WKF,TS1 TS2
 N3YFO,Johnstown,Pennsylvania,United States,Peer,1,145.21000,313145,Brandmeister,313145,0,,-0.600,N3YFO,TS1 TS2
-AG5AA,Houston,Texas,United States,Master,1,440.10000,313146,BM,313146,1,D-STAR Reflector # XLX-034                                                                                                                               <br>BM TG 313146 - DMR TG 32384  TGFI <br>Fusion Reflectors # YSF-32384 & YSF-32385          <br>WIRES-X DTMF Node ID : 71949<br>WIRES-X DTMF Room ID : 81949<br>XLXD: http://ag5aa.com  (http://ag5aa2ysf.com/  Coming soon)<br>https://www.qrz.com/db/ag5aa,+5.000,AG5AA,Mixed Mode
+AG5AA,Houston,Texas,United States,Master,1,440.10000,313146,BM,313146,1,D-STAR Reflector # XLX-034<br>BM TG 313146 - DMR TG 32384  TGFI<br>Fusion Reflectors # YSF-32384 & YSF-32385<br>WIRES-X DTMF Node ID : 71949<br>WIRES-X DTMF Room ID : 81949<br>XLXD: http://ag5aa.com  (http://ag5aa2ysf.com/  Coming soon)<br>https://www.qrz.com/db/ag5aa,+5.000,AG5AA,Mixed Mode
 N0VZC,Saint Bonifacius,Minnesota,United States,Peer,2,443.97500,313147,MNTRBO,313147,0,Portable Test repeater,+5.000,N0VZC,TS1 TS2
 KK4GXP,Millwood,Georgia,United States,Peer,1,440.80000,313148,Brandmeister,313148,0,TS1 311370 Kingsland Local Static<br>TS2 310592 Vidalia Net Static,+5.000,KK4GXP,Mixed Mode
 K5FER,Rowlett,Texas,United States,Peer,1,147.39000,313149,BM,313149,0,75088,+0.600,K5FER,TS2
@@ -8467,7 +8467,7 @@ KH7MS,Naalehu,Hawaii,United States,Peer,1,444.95000,314407,BrandMeister,314407,1
 K4BLA,Laurinburg,North Carolina,United States,Peer,1,444.73750,314408,BM,314408,1,"Please use TS1 for all Brandmeister dynamic talk groups and TS2 for local/regional (31373 NC East Coast and NE4SC Cluster ""Myrtle Link 8"" is locked on TS2).  For more information, visit https://www.qrz.com/db/k4bla",+5.00,N4DBM,TS1 TS2
 KM4CJ,Huntsville,Alabama,United States,Master,1,444.97500,314409,AmComm,314409,0,,+5.000,KM4CJ,TS1 TS2
 KF6FM,Moreno Valley,California,United States,Master,1,445.38000,314410,Western States DMR,314410,0,,-5.0000,KF6FM,TS1 TS2
-AG5AA,Houston,Texas,United States,Peer,1,440.10000,314411,BM,314411,0,313146 XLX034,+5.000,AG5AA,Mixed Mode
+AG5AA,Houston,Texas,United States,Peer,1,440.10000,314411,BM,314411,0,313146 XLX034     TG-6>TG-323246<br>YSF32385 - US-XLX034 -  REFLECTOR,+5.000,AG5AA,Mixed Mode
 WD5IYF,Duncan,Oklahoma,United States,Master,2,444.82500,314412,BM,314412,0,,+5.0000,WD5IYF,TS1 TS2
 KC3ART,Dawsonville,Georgia,United States,Master,1,443.50000,314413,DMR,314413,1,"Repeater build in process, not ""on the air"" yet. Will update once all our ducks are in a row.",+5.00,KC3ART,TS1
 K7AZ,Lompoc,California,United States,Peer,3,443.35000,314414,BrandMeister,314414,0,Bench Testing/Repairing MTR-2000 With Pi-Star MMDVM Pi-Star Modem,+5.000,K7AZ,TS1 TS2
