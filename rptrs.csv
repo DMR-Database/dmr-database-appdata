@@ -1996,7 +1996,7 @@ GB7VM,Aylesbury,England,United Kingdom,Peer,3,439.75000,234214,BM,234214,1,TS 1 
 MB5YN,Wakefield,England,United Kingdom,Master,4,433.12500,234215,YNDMR,234215,0,,+5.000,M0YDG,Mixed Mode
 MB7IBK,Bracknell,England,United Kingdom,Peer,3,430.10000,234216,"BM, DMR-MARC",234216,0,"FM link to MB6BK and BM Talkgroup 23529, DMR-MARC TG 801, 810.",-0.00,G0NEF,Mixed Mode
 GB7LJ,Manchester,England,United Kingdom,Master,1,439.67500,234217,TGIF,234217,1,Repeater under construction<br>Talkgroups TBA,-9.000,G4FZP,TS1 TS2
-GB7RO,Haslingden,England,United Kingdom,Peer,3,430.26240,234218,BM_2341_United_Kingdom,234218,1,"Situated at 1000 ft above Haslingden. Overlooking the Rossendale Valley, Bury, Manchester and beyond.<br>Hoping to improve DMR coverage south of Rossendale, particularly for the North West of England users.",+9.000,M0LMN,TS1 TS2
+GB7RO,Haslingden,England,United Kingdom,Peer,3,430.26250,234218,BM_2341_United_Kingdom,234218,1,"Situated at 1000 ft above Haslingden. Overlooking the Rossendale Valley, Bury, Manchester and beyond.<br>Hoping to improve DMR coverage south of Rossendale, particularly for the North West of England users.",+9.000,M0LMN,TS1 TS2
 GB3RV,Haslingden,England,United Kingdom,Master,1,145.73750,234219,BM_2341_United_Kingdom,234219,1,None,-0.600,M0LMN,TS2
 GB7YM,Birmingham,England,United Kingdom,Peer,8,439.40000,234220,BM,234220,1,TG75,-9.000,G8NDT,TS1 TS2
 GB7XN,Worksop,England,United Kingdom,Master,2,439.56250,234222,Freestar network,234222,1,None,-9.000,M8KBZ,TS1 TS2
@@ -3300,6 +3300,7 @@ DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.287
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,262250,DMR-plus,262250,0,,-7.600,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,262251,DMR-plus,262251,0,,-0.600,DL5KUA,TS1 TS2
 DB0GMN,Grimmen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.50000,262252,BM,262252,1,None,-7.600,DB3MAX,TS1 TS2
+DB0UEM,Leopoldshagen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.32500,262253,Tetra,262253,1,None,-7.600,DB3MAX,Mixed Mode
 DB0AIS,Moerfelden-Walldorf,Hessen,Germany,Peer,1,438.30000,262254,BM,262254,1,TG 26269 TS2,-7.600,"DG3FBL, DL1XM",TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,262257,BM,262257,0,,-9.400,DF1RL,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,262260,DMR-plus,262260,0,,-7.600,DL5KUA,TS1 TS2
@@ -4096,61 +4097,61 @@ YM5KKE,AKSARAY,Central Anatolia Region,Turkiye,Master,1,439.16250,286681,BM,2866
 YM2KBD,YALOVA,Marmara Region,Turkiye,Peer,1,439.37500,286771,BM,286771,0,ANARAD YALOVA TG28677,-7.600,TA2JW,Mixed Mode
 T79DMR,Republica di San Mar,,San Marino,,1,430.17500,292001,BM,292001,0,,1.600,T77NM,TS1 TS2
 T79TG,San Marino,,San Marino,,1,430.48750,292002,None,292002,0,,5.000,T77GR,
-S55DMR,Sevnica,Posavska,Slovenia,Peer,1,439.07500,293001,BM,293001,0,,-7.600,S56CT,TS1 TS2
-S55DTR,Trbovlje,Zasavska,Slovenia,Peer,1,439.17500,293002,BM,293002,0,,-7.600,S56CT,TS1 TS2
+S55DMR,Lisca,Posavska,Slovenia,Peer,1,439.07500,293001,BM,293001,0,,-7.600,S56CT,TS1 TS2
+S55DTR,Sv Planina,Zasavska,Slovenia,Peer,1,439.17500,293002,BM,293002,0,,-7.600,S56CT,TS1 TS2
 S55DZV,Zagarski vrh,,Slovenia,,1,438.55000,293003,BM,293003,0,,-7.600,S57NIX,TS1 TS2
-S55DZA,Trbovlje,Zasavska,Slovenia,Peer,1,438.30000,293004,BM,293004,0,,-7.600,S56CT,TS1 TS2
+S55DZA,Mrzlica,Zasavska,Slovenia,Peer,1,438.30000,293004,BM,293004,0,,-7.600,S56CT,TS1 TS2
 S55UGO,Trstelj,Gorika,Slovenia,Peer,1,438.75000,293005,BM,293005,1,"TS1: 293, 293112<br>TS2: 2935, 29351",-7.600,S52X,TS1 TS2
 S55DSC,Celje - Sentjungert,Savinjska,Slovenia,Master,1,438.22500,293006,BM,293006,0,,-7.600,S57RD,TS1 TS2
 S55DMX,Pohorje-Maribor,,Slovenia,,1,438.35000,293007,BrandMeister,293007,0,,-7.600,S56WAN,
 S55DKN,Kanin,,Slovenia,,1,439.30000,293008,BrandMeister,293008,0,,-7.600,S57LR,
 S55DKP,Nanos,,Slovenia,,1,438.70000,293009,DMR-plus,293009,0,,-7.600,S57NK,TS1 TS2
 S55DGO,Nova Gorica,Gorika,Slovenia,Peer,1,438.90000,293010,BM,293010,0,"TS1: 293, 293112<br>TS2: 2935, 29351<br>",-7.600,S52X,TS1 TS2
-S55DKV,Cerklje na Gorenjskem,Gorenjska,Slovenia,Peer,1,438.47500,293011,BM,293011,0,,-7.600,S56CT,TS1 TS2
-S55DHF,Trbovlje,Zasavska,Slovenia,Peer,1,438.27500,293012,BM,293012,0,,-7.600,S56CT,TS1 TS2
+S55DKV,Krvavec,Gorenjska,Slovenia,Peer,1,438.47500,293011,BM,293011,0,,-7.600,S56CT,TS1 TS2
+S55DHF,Kum,Zasavska,Slovenia,Peer,1,438.27500,293012,BM,293012,0,,-7.600,S56CT,TS1 TS2
 S55DLJ,Krim,,Slovenia,,1,438.20000,293013,None,293013,0,,-7.600,S51ZK,
-S55DSE,Sevnica,Posavska,Slovenia,Peer,1,438.40000,293014,BM,293014,0,,-7.600,S56CT,TS1 TS2
+S55DSE,Laze,Posavska,Slovenia,Peer,1,438.40000,293014,BM,293014,0,,-7.600,S56CT,TS1 TS2
 S55URK,Urslja gora,,Slovenia,,1,439.37500,293015,BM,293015,0,,-7.600,S52EI,TS1 TS2
 S55DCE,Celje,,Slovenia,,1,438.50000,293016,None,293016,0,,-7.600,S56KZ,
 S55UTB,Zg.Kocjan-Radenci,,Slovenia,,1,438.72500,293017,DMR-plus,293017,0,,-7.600,S55WT,TS1 TS2
 S55DIB,Karlovica,,Slovenia,,1,439.37500,293018,None,293018,0,,-7.600,S57DV,
 S55UBO,Kobla,,Slovenia,,1,439.02500,293019,BM,293019,0,,-7.600,S53GA,TS1 TS2
-S55DSX,Sevnica,Posavska,Slovenia,Peer,1,439.05000,293020,BM,293020,0,,-7.600,S56CT,TS1 TS2
-S55DID,Col,Gorika,Slovenia,Peer,2,438.32500,293021,BM,293021,0,,-7.600,S56CT,TS1 TS2
+S55DSX,Sv Rok,Posavska,Slovenia,Peer,1,439.05000,293020,BM,293020,0,,-7.600,S56CT,TS1 TS2
+S55DID,Javornik,Gorika,Slovenia,Peer,2,438.32500,293021,BM,293021,0,,-7.600,S56CT,TS1 TS2
 S55DSL,Lubnik,,Slovenia,,1,438.25000,293022,None,293022,0,,-7.600,S52O,
 S55DSK,Slavnik,,Slovenia,,1,439.22500,293023,BM,293023,0,,-7.600,S57DV,TS1 TS2
-S55DBK,Metlika,jugovzhodna Slovenija,Slovenia,Peer,3,438.32500,293024,IPSC BM,293024,0,,-7.600,S56CT,TS1 TS2
+S55DBK,Mirna gora,jugovzhodna Slovenija,Slovenia,Peer,3,438.32500,293024,IPSC BM,293024,0,,-7.600,S56CT,TS1 TS2
 S55DSN,Mt. Kokos,,Slovenia,,0,438.50000,293025,BM,293025,0,,-7.600,S53X,TS1 TS2
 S55DCS,Sentjur - City,Savinjska,Slovenia,Master,1,438.45000,293026,BM,293026,0,,-7.600,S57RD,TS1 TS2
 S55DKB,Kuk,,Slovenia,,2,439.35000,293027,BM,293027,0,,-7.600,S52AC,TS1 TS2
-S55UKA,Kamnik,Osrednjeslovenska,Slovenia,Peer,1,438.92500,293028,BM,293028,0,,-7.600,S56CT,TS1 TS2
-S55DNM,Novo mesto,jugovzhodna Slovenija,Slovenia,Peer,1,439.33750,293029,BM,293029,0,,-7.600,S56CT,TS1 TS2
+S55UKA,Velika planina,Osrednjeslovenska,Slovenia,Peer,1,438.92500,293028,BM,293028,0,,-7.600,S56CT,TS1 TS2
+S55DNM,Trdinov vrh,jugovzhodna Slovenija,Slovenia,Peer,1,439.33750,293029,BM,293029,0,,-7.600,S56CT,TS1 TS2
 S55DPI,Malija-Izola,,Slovenia,,1,438.22500,293030,DMR-plus,293030,0,,-7.600,S56RGA,TS1 TS2
 S55DST,Novo mesto,jugovzhodna Slovenija,Slovenia,Peer,1,438.52500,293031,BM,293031,0,,-7.600,S56CT,Mixed Mode
 S55DKE,Knezak,,Slovenia,,1,439.20000,293032,None,293032,0,,-7.600,S56KHL,
-S55DLM,Ljubljana,Osrednjeslovenska,Slovenia,Peer,1,438.50000,293033,BM,293033,0,,-7.600,S56CT,TS1 TS2
+S55DLM,Ljubljana center,Osrednjeslovenska,Slovenia,Peer,1,438.50000,293033,BM,293033,0,,-7.600,S56CT,TS1 TS2
 S55DPO,Pecna reber,,Slovenia,Master,1,145.71250,293034,BM,293034,1,,-0.600,S55ML,TS1 TS2
 S55USG,Korada,Gorika,Slovenia,Peer,1,439.07500,293035,BM,293035,1,"293, 293112, 2935, 2936. Repeater si oa na service desk.",-7.600,S52X,Mixed Mode
 S55DTO,Poljubinske ravne,,Slovenia,,1,439.27500,293036,BM,293036,0,,-7.600,S57ZL,TS1 TS2
 S55DRI,Travna gora,Osrednjeslovenska,Slovenia,Master,1,438.35000,293037,BM,293037,0,293,-7.600,S51SK,TS1 TS2
-S55UBC,Rogaska Slatina,Savinjska,Slovenia,Peer,1,438.82500,293038,BM,293038,0,,-7.600,S56CT,TS1 TS2
+S55UBC,Boc,Savinjska,Slovenia,Peer,1,438.82500,293038,BM,293038,0,,-7.600,S56CT,TS1 TS2
 S55DLG,Logatec,,Slovenia,Master,1,438.57500,293039,BM,293039,1,,-7.600,S53K,TS1 TS2
 S55UPI,Beli Kriz - Portoroz,,Slovenia,,1,438.80000,293040,None,293040,0,,-7.600,S56RGA,
 S55DCM,Malic - Lasko,Savinjska,Slovenia,Master,1,438.42500,293041,BM,293041,0,,-7.600,S57RD,TS1 TS2
 S55UJE,Struska,,Slovenia,,1,439.32500,293042,None,293042,0,,-7.600,OE8KKK,
 S55DKO,Mala Kopa,,Slovenia,,1,438.32500,293043,BM,293043,0,,-7.600,S57R,TS1 TS2
 S55DMO,Golte,,Slovenia,,2,438.52500,293044,BM,293044,0,,-7.600,S55L,TS1 TS2
-S55DSV,Jesenice,Gorenjska,Slovenia,Peer,3,438.22500,293045,BM,293045,1,"293, 293112, 2934",-7.600,S56CT,Mixed Mode
+S55DSV,Spanov vrh,Gorenjska,Slovenia,Peer,3,438.22500,293045,BM,293045,1,"293, 293112, 2934",-7.600,S56CT,Mixed Mode
 S55DTO,Tolmin,Primorsko - Notranjska,Slovenia,Peer,1,439.27500,293046,BM,293046,1,"TS1: 293, 293112<br>TS2: 2935, 29351",-7.600,S52X,TS1 TS2
 S55DBR,Pod Stolom,Primorsko - Notranjska,Slovenia,Peer,1,439.15000,293047,BM,293047,1,"TS1: 293, 293112<br>TS2: 2935, 29351",-7.6,S52X,TS1 TS2
-S55DAR,Lesce,Gorenjska,Slovenia,Peer,1,439.40000,293048,BM,293048,1,TG293 TS1<br>TG 2934 TS2<br>Solar powered Hytera RD985,-7.600,S56CT,Mixed Mode
-S55VCE,Trbovlje,Zasavska,Slovenia,Peer,1,145.70000,293049,BM,293049,1,,-0.600,S56CT,Mixed Mode
-S55DKK,Krsko,Posavska,Slovenia,Peer,1,438.37500,293050,BM,293050,1,,-7.600,S56CT,Mixed Mode
-S55VLI,Sevnica,Posavska,Slovenia,Peer,1,145.57500,293051,BM,293051,1,,-0.600,S56CT,Mixed Mode
+S55DAR,Stol,Gorenjska,Slovenia,Peer,1,439.40000,293048,BM,293048,1,TG293 TS1<br>TG 2934 TS2<br>Solar powered Hytera RD985,-7.600,S56CT,Mixed Mode
+S55VCE,Mrzlica,Zasavska,Slovenia,Peer,1,145.70000,293049,BM,293049,1,,-0.600,S56CT,Mixed Mode
+S55DKK,Cretez,Posavska,Slovenia,Peer,1,438.37500,293050,BM,293050,1,,-7.600,S56CT,Mixed Mode
+S55VLI,Lisca,Posavska,Slovenia,Peer,1,145.57500,293051,BM,293051,1,,-0.600,S56CT,Mixed Mode
 S55DIZ,Malija - Izola,,Slovenia,Master,1,438.22500,293052,BM,293052,1,,-7.600,S56RGA,Mixed Mode
-S55DPT,Ptuj,Podravska,Slovenia,Peer,2,438.20000,293053,BM,293053,0,"TS1 293, 293112 TS2 2932, 2939",-7.600,S56CT,Mixed Mode
-S55DKG,Kranjska Gora,Gorenjska,Slovenia,Peer,3,438.35000,293054,BM,293054,0,TG293 TS1,-7.600,S56CT,Mixed Mode
-S55DLE,Lendava,Pomurska,Slovenia,Peer,2,438.43750,293055,BM,293055,1,,-7.6,S56CT,Mixed Mode
+S55DPT,Gomila,Podravska,Slovenia,Peer,2,438.20000,293053,BM,293053,0,"TS1 293, 293112 TS2 2932, 2939",-7.600,S56CT,Mixed Mode
+S55DKG,Srednji vrh,Gorenjska,Slovenia,Peer,3,438.35000,293054,BM,293054,0,TG293 TS1,-7.600,S56CT,Mixed Mode
+S55DLE,Vinarium Lendava,Pomurska,Slovenia,Peer,2,438.43750,293055,BM,293055,1,,-7.6,S56CT,Mixed Mode
 S55VKO,Mala Kopa,Koroka,Slovenia,Peer,1,145.61250,293056,BM,293056,1,,-0.600,S56CT,Mixed Mode
 S55VKP,Nanos,Primorsko - Notranjska,Slovenia,Peer,1,145.62500,293057,BM,293057,1,,-0.600,S56CT,Mixed Mode
 S55ULX,Jance,Osrednjeslovenska,Slovenia,Peer,1,438.87500,293058,BM,293058,1,Repeater is located on Jane and covers Sava valley between capital city Ljubljana and Litija.,-7.600,S56CT,Mixed Mode
@@ -4705,7 +4706,6 @@ W4FMX,Huntsville,Alabama,United States,Master,1,442.27500,310112,Brandmeister,31
 KG4RCK,Montgomery,Alabama,United States,None,1,444.00000,310113,brandmeister,310113,0,,+5.000,KG4RCK,TS1 TS2
 N4UKE,Warrior,Alabama,United States,Peer,1,443.55000,310114,Alabama DMR,310114,0,,+5.000,N4MYI,TS1 TS2
 W4FMX,HUNTSVILLE,Alabama,United States,Peer,1,147.14000,310115,Brandmeister,310115,0,,+0.600,W4FMX,TS1 TS2
-N4TAE,Mobile,Alabama,United States,Peer,1,444.98750,310116,BrandMeister,310116,0,"The Motorola MTR 3000 repeater is located in Mobile, Alabama. The Gulf Coast DMR talk group (31011) is used on Time slot 2 for most local and regional contacts. Only use TS1 for dynamic/PTT linking and remember to clear your links by sending group call to TG 4000 when finished.",+5.000,N4TAE,TS1 TS2
 KC4SIG,Helena,Alabama,United States,None,1,444.92500,310117,Brandmeister,310117,1,TS1 - Central Alabama 31015<br>TS2 - Alabama 3010; ALERT 31013,+5.000,KC4SIG,TS1 TS2
 W4RKZ,McCalla,Alabama,United States,Peer,1,443.02500,310118,AL-DMR,310118,1,,+5.000,W4RKZ,TS1 TS2
 KE4CAA,Moody,Alabama,United States,Peer,1,440.56250,310119,AL-DMR,310119,1,,+5.000,KE4CAA,TS1 TS2
@@ -4880,7 +4880,7 @@ K0USY,Matfield Green,Kansas,United States,Peer,1,444.37500,310306,KS-DMR,310306,
 N3YFO,New Germany,Pennsylvania,United States,Peer,1,145.39000,310307,Brandmeister,310307,0,,-0.600,N3YFO,TS1 TS2
 WX1NH,Hartford,Vermont,United States,Peer,7,444.00000,310308,BrandMeister,310308,1,"TS 2, TG 9 - Local<br>TS 2, TG 313323 - GMARS<br><br>TS 1, TG 313324 - GMARS 2<br>TS 1, TG 3150 - VT Statewide<br><br>http://www.wx1nh.us",-5.000,WX1NH,TS1 TS2
 W0RMT,Louisville,Colorado,United States,local,7,445.70000,310309,BM,310309,0,,-5,W0RMT,"TS1, TS2"
-KD8AZC,Old Fields,West Virginia,United States,50 Miles,1,447.87500,310310,Brandmeister,310310,0,This is a MMDVM repeater located at home on a SNP temporary frequency until approved for a coordinated frequency. Open for all to use.,-,KD8AZC,1 & 2
+KD8AZC,Old Fields,West Virginia,United States,Peer,1,447.87500,310310,Brandmeister,310310,0,This is a MMDVM repeater located at home on a SNP temporary frequency until approved for a coordinated frequency. Open for all to use.,+5.000,KD8AZC,TS1
 N8EMA,Beverly Hills,Florida,United States,Master,1,442.20000,310311,Brandmeister,310311,1,Connected Full Time<br>Allstar Node 49050<br>Echolink Node 327778<br><br>Battery Backup<br>EAS Alert Receiver Connected,+5.000,N8EMA,TS1 TS2
 W5VOM,Victoria,Texas,United States,Peer,9,443.75000,310312,TMARC Victoria,310312,1,Timeslot 1	                                                      Timeslot 2<br>Talkgroup Name	Talkgroup ID		         Talkgroup Name	    Talkgroup ID<br>Local Repeater	   2		                          Texas Statewide	        3148	<br>HTX2	                   8204		                   Worldwide	                 1	<br>BM South Texas	   31482		                   North America	         3	<br>BM SouthEast Texas  31484	                           TAC310	                         310	<br>AMSAT	                    98006	<br>SETECG	                    8686	<br>SkyHub Link	           310847	<br>NARS	                   3146211	<br>HOU Metro	           8207,+5.00,W5VOM,TS1 TS2
 AC0HA,Hermitage,Missouri,United States,Normal,3,146.83500,310313,Brandmister,310313,1,,- 0.600,AC0HA,Ts1 ts2
@@ -7764,14 +7764,14 @@ KC2CWT,Carmel,New York,United States,Peer,1,446.18750,313610,NJ-TRBO,313610,0,"T
 NY4Z,Jeffereson Valley,New York,United States,Peer,1,448.91875,313611,Bronx-TRBO,313611,1,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,-5.000,NY4Z,TS1 TS2
 WA2VNV,Selden,New York,United States,Peer,1,448.82500,313612,NEDECN,313612,1,"Time Slot #1 - Group Call 1 = World Wide (Sat. Net)<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #2 - Group Call 3181 = New England Wide<br>Time Slot #2 - Group Call 3109 = CT SW <br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #1 - Group Call 310 = TAC310<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: George, WA2VNV<br>Email: wa2vnv@optonline.net<br>Website: http://nedecn.org",-5.000,WA2VNV,TS1 TS2
 K3ARL,Bellefonte,Pennsylvania,United States,Peer,1,147.10500,313613,DMR-MARC,313613,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 3 = U.S. / English Speaking Countries<br>Time Slot #2 - Group Call 2 = Local Only<br><br>You Must Have [ARS] Disabled Within Your Radio,+0.600,K2ZZ,TS1
-N2LBT,Inlet,New York,United States,Peer,1,449.52500,313614,Upstate NY,313614,1,Upstate DMR	31361	1	Static <br>VT Statewide	3150	1	PTT<br>USA			3100	1	PTT		 <br>TAC 310		310		1	PTT <br>World Wide	1		1	PTT   <br>North America	3		1	PTT <br>Upstate TAC 	2		2	Static (Public Service/Special Events)		 <br>NY Statewide	3136	2	Static <br>Adirondacks	31363	2	Static<br>Tristate 	  	31360	2	PTT 		 <br>Bronx Trbo 	31362	2	PTT<br>Disney		31125	2	PTT		 		 <br>Parrot	  	9998	2	PTT,-5.000,N2LBT,TS1 TS2
+N2LBT,Inlet,New York,United States,Peer,1,449.52500,313614,Upstate NY,313614,1,Upstate DMR	31361	1	Static<br>VT Statewide	3150	1	PTT<br>USA			3100	1	PTT<br>TAC 310		310		1	PTT<br>World Wide	1		1	PTT<br>North America	3		1	PTT<br>Upstate TAC 	2		2	Static (Public Service/Special Events)<br>NY Statewide	3136	2	Static<br>Adirondacks	31363	2	Static<br>Tristate 	  	31360	2	PTT<br>Bronx Trbo 	31362	2	PTT<br>Disney		31125	2	PTT<br>Parrot	  	9998	2	PTT,-5.000,N2LBT,TS1 TS2
 NY4Z,White Plains,New York,United States,Peer,3,442.10625,313616,Bronx-TRBO,313616,1,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,+5.000,NY4Z,TS1 TS2
 NY4Z,Mahopac,New York,United States,Peer,1,145.39000,313617,NY-DMR,313617,0,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,-0.600,NY4Z,TS1 TS2
 NY4Z,Putnam CTY,New York,United States,Peer,2,446.27500,313618,NY-DMR,313618,0,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,+5.000,NY4Z,TS1 TS2
 NY4Z,New Rochelle,New York,United States,Peer,1,446.28125,313619,Bronx-TRBO,313619,1,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,-5.000,NY4Z,TS1 TS2
-NF2F,Mount Dora,Florida,United States,Peer,0,442.80000,313620,Upstate NY,313620,1,Upstate DMR 		31361	1	Static <br>USA Nationwide	3100	1	PTT		 <br>TAC 310			 310		1	PTT <br>FL Statewide 		3112 	2	Static <br>Adirondacks		31363	2	PTT<br>,+5.000,N2LBT,TS1 TS2
+NF2F,Mount Dora,Florida,United States,Peer,0,442.80000,313620,Upstate NY,313620,1,Upstate DMR 		31361	1	Static<br>USA Nationwide	3100	1	PTT<br>TAC 310			 310		1	PTT<br>FL Statewide 		3112 	2	Static<br>Adirondacks		31363	2	PTT,+5.000,N2LBT,TS1 TS2
 K1JCL,Coventry,Connecticut,United States,Peer,1,449.87500,313621,NEDECN,313621,1,"Time Slot #1 - Group Call 1 = World Wide (Sat. Net)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3125 = MA SW*<br>Time Slot #1 - Group Call 8801 = NETAC1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #2 - Group Call 3181 = New England<br>Time Slot #2 - Group Call 3109 = CT SW<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 8802 = NETAC2*<br><br>* = PTT Activated<br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Steve, K1IIG<br>Email: stephen.tripp@snet.net<br>Website: http://nedecn.org",-5.000,K1IMD,TS1 TS2
-N2LBT,Inlet,New York,United States,Peer,1,147.43750,313622,Upstate NY,313622,1,Upstate DMR 		31361	1	Static <br>VT Statewide 		3150	1	Static (On VT Border) <br>USA Nationwide	3100	1	PTT		 <br>TAC 310			 310		1	PTT <br>World Wide		1		1	PTT   <br>North America 	3		1	PTT <br>Upstate TAC 		2		2	Static (Public Service/Special Events)		  <br>NY Statewide 		3136	2	Static <br>Adirondacks		31363	2	Static (in ADK) <br>NJTrbo Tristate	31360	2	PTT 		 <br>Bronx Trbo		31362	2	PTT (Static in Albany) <br>Disney			31125	2	PTT		 		 <br>Parrot			9998	2	PTT(Group Call),-2.500,N2LBT,TS1 TS2
+N2LBT,Inlet,New York,United States,Peer,1,147.43750,313622,Upstate NY,313622,1,Upstate DMR 		31361	1	Static<br>VT Statewide 		3150	1	Static (On VT Border)<br>USA Nationwide	3100	1	PTT<br>TAC 310			 310		1	PTT<br>World Wide		1		1	PTT<br>North America 	3		1	PTT<br>Upstate TAC 		2		2	Static (Public Service/Special Events)<br>NY Statewide 		3136	2	Static<br>Adirondacks		31363	2	Static (in ADK)<br>NJTrbo Tristate	31360	2	PTT<br>Bronx Trbo		31362	2	PTT (Static in Albany)<br>Disney			31125	2	PTT<br>Parrot			9998	2	PTT(Group Call),-2.500,N2LBT,TS1 TS2
 KB2RNI,Brooklyn,New York,United States,Peer,1,441.15000,313623,BrandMeister,313623,0,,+5.000,KB2RNI,TS1 TS2
 KB2RNI,Brooklyn,New York,United States,Peer,1,146.61000,313624,BrandMeister,313624,0,,-0.600,KB2RNI,Mixed Mode
 N2NSA,New York City,New York,United States,Peer,1,443.88750,313625,Bronx-TRBO,313625,1,"TS1-Group call TG 444= NY Metro Bronx TRBO System wide talk group-FT<br><br>TS2-Private<br>Contact Name: John Romano, N2NSA<br>Email: n2nsa1@verizon.net",+5.000,N2NSA,TS1 TS2
@@ -7783,7 +7783,7 @@ NY4Z,Brooklyn,New York,United States,Peer,1,442.09375,313630,Bronx-TRBO,313630,1
 NY4Z,Manhattan,New York,United States,Peer,10,440.60625,313631,Bronx TRBO,313631,0,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,-5.000,NY4Z,TS1 TS2
 N2ION,Oceanside,New York,United States,Master,7,447.92500,313632,DMR- NYNJ,313632,0,,-0.500,N2ION,TS1 TS2
 WA2LRE,Rand Hill,New York,United States,Peer,1,145.07000,313633,CAN-TRBO,313633,1,Time Slot #1 - Group Call 1 = World Wide*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 11 = WW French*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 9999 = Audio Test*<br>Time Slot #2 - Group Call 3023 = Ontario*<br>Time Slot #2 - Group Call 3022 = Quebec*<br>Time Slot #2 - Group Call 3029 = New Brunswick*<br>Time Slot #2 - Group Call 3150 = Vermont<br>Time Slot #2 - Group Call 8 = Northern New Eng*<br>Time Slot #2 - Group Call 3181 = New England*<br>Time Slot #2 - Group Call 2 = Local<br><br>* Indicates PTT Activation required<br>You Must Have [ARS] Disabled in Your Radio,+2.375,WA2LRE,TS1 TS2
-KA2FWN,Utica,New York,United States,Peer,1,449.32500,313634,Upstate NY,313634,0,Upstate DMR 		31361	1	Static <br>VT Statewide 		3150	1	Static (On VT Border) <br>USA Nationwide	3100	1	PTT		 <br>TAC 310			 310		1	PTT <br>World Wide		1		1	PTT   <br>North America 	3		1	PTT <br>Upstate TAC 		2		2	Static (Public Service/Special Events)		  <br>NY Statewide 		3136	2	Static <br>Adirondacks		31363	2	Static (in ADK) <br>NJTrbo Tristate	31360	2	PTT 		 <br>Bronx Trbo		31362	2	PTT (Static in Albany) <br>Disney			31125	2	PTT		 		 <br>Parrot			9998	2	PTT(Group Call),-5.000,N2LBT,TS1 TS2
+KA2FWN,Utica,New York,United States,Peer,1,449.32500,313634,Upstate NY,313634,0,Upstate DMR 		31361	1	Static<br>VT Statewide 		3150	1	Static (On VT Border)<br>USA Nationwide	3100	1	PTT<br>TAC 310			 310		1	PTT<br>World Wide		1		1	PTT<br>North America 	3		1	PTT<br>Upstate TAC 		2		2	Static (Public Service/Special Events)<br>NY Statewide 		3136	2	Static<br>Adirondacks		31363	2	Static (in ADK)<br>NJTrbo Tristate	31360	2	PTT<br>Bronx Trbo		31362	2	PTT (Static in Albany)<br>Disney			31125	2	PTT<br>Parrot			9998	2	PTT(Group Call),-5.000,N2LBT,TS1 TS2
 N2ION,Oceanside,New York,United States,Master,7,449.07500,313635,Bronx-TRBO,313635,1,TS1-<br><br>NA                        TG3<br>WW                        TG1<br>WWE                       TG13<br>NE REG                    TG3172<br>BRIDGE                    TG3100<br>NY STATE                  TG3136<br>TAC310                    TG310<br>TAC311                    TG311<br>TAC312                    TG312<br>PARROT                    TG9888<br>UA2                       TG123<br>BX TRBO                   TG444<br><br>TS2-<br><br>LOCAL                     TG9<br>PRIVATE<br><br>N2ION@AOL.COM,-5.000,N2ION,TS1 TS2
 KC2TOM,New Rochelle,New York,United States,Peer,1,147.04000,313636,Bronx TRBO,313636,0,,+0.600,KC2IVF,TS1 TS2
 KC2WCB,Shirley,New York,United States,Peer,1,443.52500,313637,BrandMeister,313637,0,,+5.000,KC2WCB,TS1 TS2
@@ -8705,7 +8705,7 @@ W1RH,Placerville,California,United States,Master,1,441.72500,314660,DMR,314660,0
 KG4GOQ,Lake Worth,Florida,United States,Peer,10,444.12500,314661,TGIF,314661,0,,+5.000,KG4GOQ,TS1 TS2
 KG4GOQ,Lake Worth,Florida,United States,Peer,10,442.60000,314662,TGIF,314662,0,,+5.000,KG4GOQ,TS1 TS2
 W2WDW,Orlando,Florida,United States,Peer,15,442.70000,314663,Brandmeister,314663,0,Private,+5.000,W2WDW,TS1 TS2
-KD8AZC,Moorefield,West Virginia,United States,Master,1,444.63750,314664,Brandmeister,314664,1,TS 1 LOCAL<br>TS 2 Brandmeister TG's,+5.000,KD8AZC,TS1 TS2
+KD8AZC,Moorefield,West Virginia,United States,Peer,1,444.63750,314664,Brandmeister,314664,1,TS 1 LOCAL<br>TS 2 Brandmeister TG's,+5.000,KD8AZC,TS2
 KG6QBW,Moreno Valley,California,United States,Peer,1,146.35500,314666,BM,314666,1,Will conecterd with TG33451,+0.600,KG6QBW,TS1
 K7LL,Palouse,Washington,United States,Master,1,146.41250,314667,PNW-Digital,314667,0,see pnwdigital.net,+1.00,K7LL,TS1 TS2
 W4LX,Fort Myers,Florida,United States,Master,1,442.17500,314668,BM,314668,1,,+5.000,W4LX,TS1 TS2
@@ -8951,6 +8951,7 @@ K6ATV,Gilroy,California,United States,Peer,1,443.52500,314945,Brandmeister,31494
 KN4YDL,Cape Coral,Florida,United States,Peer,12,444.15750,314946,Brandmeister,314946,1,314946 Local TG TS 1<br>9998 Parrot TS 2,5.000,KN4YDL,TS1 TS2
 N6IJ,Marina,California,United States,Peer,1,441.55000,314947,BrandMeister,314947,1,None,+5.000,K6GRL,TS1 TS2
 KN4DND,Robertsdale,Alabama,United States,Peer,1,443.32500,314948,Brandmeister,314948,1,"TS1 on Demand, TS2 Gulf Coast DMR (31011)",+5.000,"KN4DND, N4FIV",TS1 TS2
+KC5CZC,Fort Worth,Texas,United States,Peer,1,441.37500,314949,Brandmeister,314949,1,TS1 / 9<br>TS2 / 31817,+5.000,KC5CZC,TS1 TS2
 WR1VT,Brattleboro,Vermont,United States,Peer,1,444.40000,315001,NEDECN,315001,1,"Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activation<br>Contact: Ira, W1IRA<br>Email: w1ira@vermontel.net<br><br>Website: http://nedecn.org",+5.000,W1IRA,TS1 TS2
 W1IMD,Pico Peak,Vermont,United States,Peer,1,444.50000,315002,NEDECN,315002,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>* = PTT Activation<br><br>Contact: Paul, W1IMD<br>Email: w1imd@arrl.net<br><br>Website: http://nedecn.org",+5.000,W1IMD,TS1 TS2
 W1UWS,Mt. Ascutney,Vermont,United States,Master,5,448.47500,315003,NEDECN,315003,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 3125 = MA Statewide* <br><br>* = PTT Activation<br>Contact: Jeff, WB2NWR<br>Email: katchenj@hotmail.com<br><br>Website: http://nedecn.org",-5.000,WB2NWR,TS1 TS2
