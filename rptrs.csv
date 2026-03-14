@@ -1999,6 +1999,7 @@ GB7LJ,Manchester,England,United Kingdom,Master,1,439.67500,234217,TGIF,234217,1,
 GB7RO,Haslingden,England,United Kingdom,Peer,3,430.26250,234218,BM_2341_United_Kingdom,234218,1,"Situated at 1000 ft above Haslingden. Overlooking the Rossendale Valley, Bury, Manchester and beyond.<br>Hoping to improve DMR coverage south of Rossendale, particularly for the North West of England users.",+9.000,M0LMN,TS1 TS2
 GB3RV,Haslingden,England,United Kingdom,Master,1,145.73750,234219,BM_2341_United_Kingdom,234219,1,None,-0.600,M0LMN,TS2
 GB7YM,Birmingham,England,United Kingdom,Peer,8,439.40000,234220,BM,234220,1,TG75,-9.000,G8NDT,TS1 TS2
+GB3XR,Stockport,England,United Kingdom,Master,1,430.98750,234221,Brandmeister,234221,1,None,+7.600,G0DMX,TS1 TS2
 GB7XN,Worksop,England,United Kingdom,Master,2,439.56250,234222,Freestar network,234222,1,None,-9.000,M8KBZ,TS1 TS2
 MB0SWC,Yelverton,England,United Kingdom,Peer,3,144.91250,234223,South West Cluster,234223,1,Experimental simplex repeater DMR slot 2 TG950 RF linked to GB7RD connected to the South West Cluster,0.000,G3XOU,TS2
 GB3LS,Lincoln,England,United Kingdom,Peer,1,433.05000,234224,Brandmeister,234224,1,None,1.600,M0TEF,TS1 TS2
@@ -3292,15 +3293,12 @@ DB0DND,Oberhausen,Bayern,Germany,Peer,1,438.86250,262241,BM,262241,1,,-7.6,DL2UK
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,430.38750,262242,BM,262242,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-0.00001,DJ3LE,TS2
 DB0PEG,Pegnitz,Bayern,Germany,Master,1,438.93750,262243,Brandmeister,262243,1,None,7.600,"DK7AM, DO2SK, DB9CR",TS1 TS2
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,439.92500,262244,BM,262244,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.400,DJ3LE,TS1 TS2
-DO0ELM,Hemkenrode,Niedersachsen / Bremen,Germany,Master,1,439.15000,262245,DMR/FM,262245,1,2623 TS1<br>26538 (8) TS2,-7.600,DO2ARD,Mixed Mode
 DL6HAT,Groemitz,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.93750,262246,TS2,262246,1,None,-9.400,DL6HAT,TS2
 DB0RDG,Ribnitz-Damgarten,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,1,145.23750,262247,BM,262247,1,None,0.000,DB3MAX,TS1 TS2
 DB0RVH,Rostock,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,262248,BM,262248,1,None,0.000,DB3MAX,TS1 TS2
 DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,262249,BM,262249,1,None,0.000,DB3MAX,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,262250,DMR-plus,262250,0,,-7.600,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,262251,DMR-plus,262251,0,,-0.600,DL5KUA,TS1 TS2
-DB0GMN,Grimmen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.50000,262252,BM,262252,1,None,-7.600,DB3MAX,TS1 TS2
-DB0UEM,Leopoldshagen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.32500,262253,Tetra,262253,1,None,-7.600,DB3MAX,Mixed Mode
 DB0AIS,Moerfelden-Walldorf,Hessen,Germany,Peer,1,438.30000,262254,BM,262254,1,TG 26269 TS2,-7.600,"DG3FBL, DL1XM",TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,262257,BM,262257,0,,-9.400,DF1RL,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,262260,DMR-plus,262260,0,,-7.600,DL5KUA,TS1 TS2
@@ -4044,7 +4042,7 @@ YM3KO,Manisa,Aegean Region,Turkiye,Master,1,439.40000,286058,BM,286058,1,TG28645
 YM2KA,Ankara Baglum,,Turkiye,,1,439.25000,286060,BM,286060,0,,-7.600,TA3AS,TS1 TS2
 YM2KRD,Ankara,Central Anatolia Region,Turkiye,Master,1,439.17500,286061,BM,286061,1,2862012,-7.600,"TA2ZE, TA5HY",TS1 TS2
 YM2KCL,KOCAELI,Marmara Region,Turkiye,Master,1,439.41250,286062,BM,286062,1,,-7.600,YM2KCL,TS1 TS2
-YM3KYM,Izmir,Aegean Region,Turkiye,Master,1,439.18750,286063,BM,286063,1,TG-28635,-7.600,YM3KYM,TS1 TS2
+YM3KYM,Izmir,Aegean Region,Turkiye,Master,1,439.16250,286063,BM,286063,1,TG-28635,-7.600,YM3KYM,TS1 TS2
 YM8KSU,Sanliurfa,Southeastern Anatolia Region,Turkiye,Master,1,439.31250,286064,BM,286064,0,TRAC SANLIURFA SUBESI DMR ROLE,-7.600,YM8KSU,Mixed Mode
 YM5KIS,Hatay,Mediterranean Region,Turkiye,Peer,1,439.26250,286065,BM,286065,1,,-7.600,YM5KIS,TS1 TS2
 YM5KIS,Hatay,Mediterranean Region,Turkiye,Peer,1,439.37500,286066,BM,286066,1,,-7.600,YM5KIS,TS1 TS2
@@ -6831,7 +6829,7 @@ KB9ZB,Pewaukee,Wisconsin,United States,Master,9,442.38125,312455,chicagoloand,31
 N5JLP,Belton,Texas,United States,Master,10,442.67500,312456,Brandmeister,312456,1,TS1 - 31665 TGIF - TS2 Dynamic,+5.000,NU5D,TS1 TS2
 N3QEM,Rehoboth Beach,Delaware,United States,Peer,2,443.06250,312457,Interstate,312457,1,,+5.000,N3QEM,TS1 TS2
 KH6BFD,Kailua Kona,Hawaii,United States,Peer,15,927.11250,312458,BM,312458,0,,-25.00,KH6BFD,TS1 TS2
-WX8NWS,Ironwood,Michigan,United States,Master,1,146.58000,312459,BrandMeister/DMR-MARC/TGIF,312459,0,,+0.600,WX8NWS,TS1 TS2
+WX8NWS,Ironwood,Michigan,United States,Master,1,446.50000,312459,BrandMeister/DMR-MARC/TGIF,312459,0,,-0.600,WX8NWS,TS1 TS2
 KC8NWS,Ironwood,Michigan,United States,Peer,1,442.55000,312460,BrandMeister/DMR-MARC/TGIF,312460,0,,+5.000,KC8NWS,TS1 TS2
 W2FCC,Arlington,Vermont,United States,Peer,1,145.60000,312461,BM,312461,1,,+2.000,W2FCC,TS1
 NG6K,Cedar Hills,Utah,United States,Peer,1,927.16250,312462,AmComm,312462,0,Motorola XPR8380,-25.000,NG6K,TS1 TS2
@@ -8952,6 +8950,7 @@ KN4YDL,Cape Coral,Florida,United States,Peer,12,444.15750,314946,Brandmeister,31
 N6IJ,Marina,California,United States,Peer,1,441.55000,314947,BrandMeister,314947,1,None,+5.000,K6GRL,TS1 TS2
 KN4DND,Robertsdale,Alabama,United States,Peer,1,443.32500,314948,Brandmeister,314948,1,"TS1 on Demand, TS2 Gulf Coast DMR (31011)",+5.000,"KN4DND, N4FIV",TS1 TS2
 KC5CZC,Fort Worth,Texas,United States,Peer,1,441.37500,314949,Brandmeister,314949,1,TS1 / 9<br>TS2 / 31817,+5.000,KC5CZC,TS1 TS2
+W5LLS,Watauga,Texas,United States,Peer,1,441.36250,314950,Brandmeister,314950,1,None,5.000,W5LLS,TS1 TS2
 WR1VT,Brattleboro,Vermont,United States,Peer,1,444.40000,315001,NEDECN,315001,1,"Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activation<br>Contact: Ira, W1IRA<br>Email: w1ira@vermontel.net<br><br>Website: http://nedecn.org",+5.000,W1IRA,TS1 TS2
 W1IMD,Pico Peak,Vermont,United States,Peer,1,444.50000,315002,NEDECN,315002,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>* = PTT Activation<br><br>Contact: Paul, W1IMD<br>Email: w1imd@arrl.net<br><br>Website: http://nedecn.org",+5.000,W1IMD,TS1 TS2
 W1UWS,Mt. Ascutney,Vermont,United States,Master,5,448.47500,315003,NEDECN,315003,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 3125 = MA Statewide* <br><br>* = PTT Activation<br>Contact: Jeff, WB2NWR<br>Email: katchenj@hotmail.com<br><br>Website: http://nedecn.org",-5.000,WB2NWR,TS1 TS2
@@ -10356,7 +10355,7 @@ PP2UHF,SENADOR CANEDO,Goias,Brazil,Master,1,439.50000,724189,Brandmeister,724189
 PY3MC,caxias do sul,Rio Grande do Sul,Brazil,Master,1,145.31000,724190,DMR,724190,1,,-0.600,PY3CWO,TS1 TS2
 PY4RHC,Nova Lima,Minas Gerais,Brazil,Peer,1,146.77000,724191,BM 7242 BRA,724191,1,,-0.600,PY4AC,TS1 TS2
 PY1DIG,Rio De Janeiro,Rio de Janeiro,Brazil,Master,1,439.40000,724192,BM,724192,1,,-5.000,PY1LG,TS1 TS2
-PY2APU,SAO PAULO,Sao Paulo,Brazil,Master,1,439.17500,724193,BRANDMEISTER,724193,1,,-5.000,PU2LOK,TS1 TS2
+PY2APU,Cordeiropolis,Sao Paulo,Brazil,Master,1,147.03000,724193,BRANDMEISTER,724193,1,,6.000,PU2LOK,TS1 TS2
 PS7BBB,Mossor,Rio Grande do Norte,Brazil,Master,1,439.40000,724194,BM,724194,1,,-5.0000,PS7BB,TS1 TS2
 PY4ALV,ESTIVA,Minas Gerais,Brazil,Master,1,439.75000,724196,BM,724196,1,,-5.000,PY4EI,TS1 TS2
 PY4KDA,Pouso Alegre,Minas Gerais,Brazil,Master,1,439.47500,724197,BM,724197,1,,-5.000,PY4EI,TS1 TS2
