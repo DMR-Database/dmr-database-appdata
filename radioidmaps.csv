@@ -174,6 +174,7 @@ SV9P,Agios Nikolaos,Kriti,Greece,Peer,1,438.88750,DMR+,35.2724302614736,25.61655
 SV3K,Kalamata,Peloponnisos,Greece,Peer,1,439.37500,BM,36.9310,21.8576,202018,"TG202, TG2023",-7.600,ACTIVE,SZ1SV,TS1 TS2
 SW8AA,Lemnos,N. Aegean,Greece,Peer,1,439.38750,BM,39.904307,25.077624,202021,,-7.600,ACTIVE,SZ8LES,TS1 TS2
 SZ4THE,LARISSA,Thessalia,Greece,Peer,3,438.73700,IPSC2-GR-RPT,39.6249157,22.4056045,202022,None,-7.600,ACTIVE,SZ4THE,TS1 TS2
+SV9M,Hrakleio City,Kriti,Greece,Peer,1,438.91250,DMR+,35.3809600,24.9848300,202023,TS1 / TG 202<br>TS2 / TG 8 + TG 9,-7.600,ACTIVE,"SV1EDZ, SZ1E",TS1 TS2
 SW1F,Imittos Athens,Attiki / Sterea Ellada / Dytiki Ellada,Greece,Peer,1,438.81250,DMR-plus,37.94949709617029,23.815315743725748,202101,,-7.600,ACTIVE,SV1EDZ,TS1 TS2
 SV1I,Penteli,,Greece,,1,439.32500,DMR-plus,,,202102,,-7.600,ACTIVE,SZ1GRC,TS1 TS2
 SV1M,KM17VW / Athen,,Greece,,1,439.17500,DMR-plus,,,202103,,-7.600,ACTIVE,SZ1GRC,TS1 TS2
@@ -3113,6 +3114,8 @@ DM0KIL,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,438.48750,BM,54
 DM0SMW,Leese,Niedersachsen / Bremen,Germany,Peer,1,438.31250,BM,52.49764770984864,9.120874608666924,262025,,-7.6,ACTIVE,DB8BT,TS1 TS2
 DB0SLK,Biere,,Germany,,1,438.77500,DMR-plus,51.978371,11.635786,262026,,-7.600,ACTIVE,DH1CAD,TS1 TS2
 DO0HWI,Wismar,,Germany,,1,438.56250,None,53.901360,11.413333,262027,,-7.600,ACTIVE,DO7AX,
+DO0RDG,Ribnitz-Damgarten,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Master,1,438.80000,BM,54.264969,12.568570,262028,,-7.600,ACTIVE,DB3MAX,TS1 TS2
+DB0RMV,Ribnitz-Damgarten,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Master,1,438.32500,BM,54.2433326,12.4319733,262029,,-7.600,ACTIVE,DB3MAX,TS1 TS2
 DB0WOF,Bitterfeld-Wolfen,,Germany,,0,439.10000,BM,51.6425032,12.3076334,262030,,-7.600,ACTIVE,DO2AS,TS1 TS2
 DB0RTN,Rotenburg,Niedersachsen / Bremen,Germany,Master,1,439.43750,DMR,53.109596,9.396467,262031,Multimode Relais Rotenburg OV I-19,-7.600,ACTIVE,DL2BDX,TS1 TS2
 DB0UPS,Plau am See,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Master,1,439.07500,BM,53.451,12.267,262032,,-7.6,ACTIVE,DC0XB,TS1 TS2
@@ -3163,6 +3166,7 @@ DB0ROD,Rodenberg Deister,Niedersachsen / Bremen,Germany,Master,1,438.68750,BM,52
 DB0DBR,Bad Doberan,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,1,439.37500,BM,54.094220501185795,11.902116907904032,262086,,-7.6,ACTIVE,DL9GRB,Mixed Mode
 DB0KLL,Kall; Eifel,Nordrhein-Westfalen,Germany,Master,7,438.25000,BM,50.54,6.58,262087,,-7.6000,ACTIVE,DK6MG,TS1 TS2
 DB0DBT,Allstedt,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,1,432.80000,freeDMR,51.383,11.461,262088,,+5.000,ACTIVE,DL1HRC,TS2
+DB0HRO,Altenwillershagen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Master,1,438.50000,BM,54.2649690,12.5685700,262089,,-7.6000,ACTIVE,DB3MAX,TS1 TS2
 DB0FHS,Stralsund,,Germany,,1,438.77500,DMR-plus,54.338150,13.076352,262090,,-7.600,ACTIVE,DL6KWA,TS1 TS2
 DB0TMH,Lauterhofen,Bayern,Germany,Master,1,438.38750,DMR Brandmeister,49.3447034246937,11.5650594044983,262091,,-7.60000,ACTIVE,DF1AX,TS1 TS2
 DB0TMH,Trautmannshofen,Bayern,Germany,Master,1,438.58750,DMR,49.368761,11.6039669,262092,This is a low power repeater with only 1 Watt on 600 meters asl,-7.6000,ACTIVE,DF1AX,TS1 TS2
@@ -3186,6 +3190,7 @@ DB0WOL,Bad Freienwalde,,Germany,,1,439.55000,BM,52.741226,13.961813,262111,,-7.6
 DB0FFS,Scharenstetten,Baden-Wuerttemberg,Germany,Peer,1,439.32500,BM,48.5156757,9.8488194,262112,,-7.6,ACTIVE,DL2CC,TS1 TS2
 DO0AKW,Waldthurn,Bayern,Germany,Master,1,439.82500,"BM, P25",49.67252212821314,12.33116847702302,262113,,-9.4,ACTIVE,DO1AKW,Mixed Mode
 DB0ETL,Karlsruhe,Baden-Wuerttemberg,Germany,Master,1,438.48750,BM,48.939470,8.421987,262115,,-7.6,ACTIVE,DF4IAO,TS1 TS2
+DB0XTK,Neuoetting,Bayern,Germany,Master,1,438.36250,BM,48.2367,12.68414,262117,,-7.600,ACTIVE,DD7MH,TS1 TS2
 DB0WTS,Bochum-Sundern,Nordrhein-Westfalen,Germany,Master,1,439.80000,BM,51.427778,7.1941667,262119,,-9.4000,ACTIVE,DL5DAA,Mixed Mode
 DB0OUD,Berlin/City-West,,Germany,Peer,1,438.62500,BM,52.502186,13.333024,262120,,-7.600,ACTIVE,DL3OCK,TS1 TS2
 DB0LOS,Rauen nr Fürstenwalde,Berlin / Brandenburg,Germany,Master,1,438.47500,BM,52.321362,14.037694,262121,,-7.600,ACTIVE,DG6IBT,TS1 TS2
@@ -3200,7 +3205,7 @@ DB0EH,Hersbruck,Bayern,Germany,Peer,1,439.21250,BM,49.525088,11.449953,262129,,-
 DB0SPN,Cottbus,Berlin / Brandenburg,Germany,Master,1,439.48750,DMR-plus,51.7567447,14.3357307,262130,,-7.600,ACTIVE,DM6MH,TS1 TS2
 DO0KL,Kamp-Lintfort,Nordrhein-Westfalen,Germany,Peer,1,439.13750,BM,51.494827,6.547016,262131,,-7.6,ACTIVE,DO6IL,TS1 TS2
 DB0FX,Birkenwerder,,Germany,Peer,1,439.45000,BM,52.690472,13.283350,262132,,-7.600,ACTIVE,DL8FX,TS1 TS2
-DB0NEY,Norderney,Niedersachsen / Bremen,Germany,Master,1,439.80000,DMR BM / D-Star / YSF / NXDN / P25,53.709862,7.143473,262133,MMDVM Relais Norderney<br>D-Star / DMR BM / YSF / NXDN / P25<br>DMR TS1: TG  263 / 920 / 9112<br>DMR TS2: TG  8 (GW to TG9 DMR+ Ref:4003) / 2623 / 26237<br>D-Star DCS001 D (Elbe-Weser)<br>YSF DE Deutschland 26200<br>NXDN Germany 26200<br>P25  Inselfreunde 26444<br><br>,-9.4,ACTIVE,DJ5JD,Mixed Mode
+DB0NEY,Norderney,Niedersachsen / Bremen,Germany,Master,1,439.80000,DMR BM / D-Star / YSF / NXDN / P25,53.709862,7.143473,262133,MMDVM Relais Norderney<br>D-Star / DMR BM / YSF / NXDN / P25<br>DMR TS1: TG  263 / 920 / 9112<br>DMR TS2: TG  8 (GW to TG9 DMR+ Ref:4003) / 2623 / 26237<br>D-Star DCS001 D (Elbe-Weser)<br>YSF DE Deutschland 26200<br>NXDN Germany 26200<br>P25  Inselfreunde 26444,-9.4,ACTIVE,DJ5JD,Mixed Mode
 DO0KM,Königsmoos,Bayern,Germany,Master,1,439.00000,Brandmeister,48.686197402526524,11.2105756683345,262136,,-7.6,ACTIVE,DO8DJK,TS1 TS2
 DB0BQ,Herten,Nordrhein-Westfalen,Germany,Master,1,438.26250,XLX,51.5964394,7.148689,262137,,-7.600,ACTIVE,DL5BQ,TS1 TS2
 DB0BQ,Herten,Nordrhein-Westfalen,Germany,Master,1,144.82500,XLX,51.5964394,7.148689,262138,,-0.600,ACTIVE,DL5BQ,Mixed Mode
@@ -3257,6 +3262,7 @@ DB0DEI,Deiderode,Niedersachsen / Bremen,Germany,Master,1,439.25000,BM,51.4351,9.
 DP8DSF,Bubenreuth,Bayern,Germany,Peer,1,439.82500,BM,49.61510727765523,11.003140388294925,262196,,-9.4,ACTIVE,DN9DSF,TS1 TS2
 DB0UHF,Kaisersbach,Baden-Wuerttemberg,Germany,Master,1,438.60000,BM,48.931462,9.636371,262197,!!! Testbetrieb !!! Inselbetrieb ohne Netzanbindung !!!,-7.600,ACTIVE,DO1SAR,TS1 TS2
 DB0RHE,Rheine,Nordrhein-Westfalen,Germany,Peer,1,439.46875,BM,52.262870,7.428910,262198,,-7.6,ACTIVE,DG1YIQ,TS1 TS2
+DB0MVP,Schwerin,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Master,1,438.70000,BM,53.634620,11.392760,262199,,-7.6,ACTIVE,DB3MAX,TS1 TS2
 DM0HMB,Hamburg,,Germany,Master,1,438.45000,DMR-plus,53.550341,10.000654,262200,,-7.600,ACTIVE,DG1HT,TS1 TS2
 DB0PC,NDR Mast Bungsberg,Hamburg / Schleswig-Holstein,Germany,Master,1,438.38750,BM,54.217300,10.718821,262201,,-7.600,ACTIVE,DJ3LE,TS1 TS2
 DB0FS,Hamburg,Hamburg / Schleswig-Holstein,Germany,Peer,1,145.67500,BM,53.5976600,9.9465800,262203,,-0.600,ACTIVE,DL9DAK,TS1 TS2
@@ -3266,6 +3272,7 @@ DO0KD,Denkendorf,Bayern,Germany,Peer,1,439.97500,BM,48.94106382960124,11.4710525
 DB0TVI,Inselsberg Thueringen,Sachsen / Thueringen,Germany,Master,1,439.51250,BM,50.851091,10.466297,262208,Derzeit in Vorbereitung / im Aufbau. Noch kein produktiver Betrieb.,-7.600,ACTIVE,DL8HC,Mixed Mode
 DM0RZ,Ratzeburg,,Germany,,1,439.88750,None,53.7011061,10.774288,262209,,-9.400,ACTIVE,DB5LC,
 DB0GZ,Alfeld,Niedersachsen / Bremen,Germany,Master,1,439.35000,BM,51.975578,9.8172528,262210,26332,-7.600,ACTIVE,DL8KM,Mixed Mode
+DB0AT,Ribnitz-Damgarten,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Master,1,438.80000,BM,54.0000000,12.0000000,262212,,-7.6,ACTIVE,DB3MAX,TS1 TS2
 DB0KPI,Elmshorn,Hamburg / Schleswig-Holstein,Germany,Master,1,439.42500,BM,53.75073,9.65481,262213,Relais in Testphase<br>TS1: TG262 Deutschland | <br>TS2: TG9 Local | TG8 Regio --> TG26221 Region Hamburg-City | TG262213 (extern --> local TG9),-7.600,ACTIVE,DL8AAJ,TS1 TS2
 DB0GE,Erkelenz,Nordrhein-Westfalen,Germany,Master,1,439.56250,BM,51.718,6.124,262214,,-7.600,ACTIVE,DG2KCB,TS1 TS2
 DB0GE,Erkelenz,Nordrhein-Westfalen,Germany,Master,1,438.20000,"BM,IPSC2,C4FM, FM  Multimode.718",51.718,6.124,262215,"Multimode , BM,IPSC2, DMR, C4FM,FM",-7.600,ACTIVE,DG2KCB,Mixed Mode
@@ -3297,8 +3304,13 @@ DB0PEG,Pegnitz,Bayern,Germany,Master,1,438.93750,Brandmeister,49.7580310,11.5327
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,439.92500,BM,54.562000,9.375000,262244,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.400,ACTIVE,DJ3LE,TS1 TS2
 DO0ELM,Hemkenrode,Niedersachsen / Bremen,Germany,Master,1,439.15000,DMR/FM,52.2300527,10.7017152,262245,2623 TS1<br>26538 (8) TS2,-7.600,ACTIVE,DO2ARD,TS1 TS2
 DL6HAT,Groemitz,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.93750,TS2,0.0,0.0,262246,None,-9.400,ACTIVE,DL6HAT,TS2
+DB0RDG,Ribnitz-Damgarten,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,1,145.23750,BM,54.2391040,12.4107440,262247,None,0.000,ACTIVE,DB3MAX,TS1 TS2
+DB0RVH,Rostock,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,BM,54.1739500,12.2444200,262248,None,0.000,ACTIVE,DB3MAX,TS1 TS2
+DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,BM,53.7477100,13.0784000,262249,None,0.000,ACTIVE,DB3MAX,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,DMR-plus,53.648010,10.275660,262250,,-7.600,ACTIVE,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,DMR-plus,53.6635561,10.2835977,262251,,-0.600,ACTIVE,DL5KUA,TS1 TS2
+DB0GMN,Grimmen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.50000,BM,56.0000000,12.0000000,262252,None,-7.600,ACTIVE,DB3MAX,TS1 TS2
+DB0UEM,Leopoldshagen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.32500,Tetra,56.0000000,12.0000000,262253,None,-7.600,ACTIVE,DB3MAX,Mixed Mode
 DB0AIS,Moerfelden-Walldorf,Hessen,Germany,Peer,1,438.30000,BM,49.9874400,8.5922100,262254,TG 26269 TS2,-7.600,ACTIVE,"DG3FBL, DL1XM",TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,BM,53.970840,8.949069,262257,,-9.400,ACTIVE,DF1RL,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,DMR-plus,53.635181,10.386677,262260,,-7.600,ACTIVE,DL5KUA,TS1 TS2
@@ -3627,7 +3639,6 @@ DB0FMS,Reutlingen,Baden-Wuerttemberg,Germany,,1,439.33750,BrandMeister,48.505791
 DB0LBG,Esslingen,Baden-Wuerttemberg,Germany,Master,1,438.33750,BM DMR-plus,48.770500,9.296200,262755,,-7.600,ACTIVE,DG2SDW,TS1 TS2
 DB0TTM,Herbsthausen,Baden-Wuerttemberg,Germany,,5,438.55000,BM,49.4044371,9.8311704,262756,,-7.600,ACTIVE,DL2SEK,
 DB0OFI,Ostfildern,Baden-Wuerttemberg,Germany,,1,439.93750,None,48.7178603,9.2630693,262757,,9.400,ACTIVE,DG2SDK,
-DO0LH,Lauchheim,Baden-Wuerttemberg,Germany,Peer,1,439.23750,Brandmeister,48.8736283,10.2487381,262758,,7.600,ACTIVE,DO1SN,Mixed Mode
 DB0TIT,Titisee-Neustadt,Baden-Wuerttemberg,Germany,,1,439.48750,None,47.947441,8.233260,262759,,-7.600,ACTIVE,DG2GG,
 DB0ULM,Ulm,Baden-Wuerttemberg,Germany,,1,439.58750,None,48.419941,9.946230,262761,,-7.600,ACTIVE,DF2DR,
 DB0REU,Reutlingen,Baden-Wuerttemberg,Germany,,1,439.57500,BrandMeister,48.4919508,9.2114144,262762,,-7.600,ACTIVE,DK6TE,
@@ -4754,7 +4765,7 @@ W1REI,EL MONTE,California,United States,None,1,443.72500,BM,34.0686206,-118.0275
 KI7MAT,Lehi,Utah,United States,None,2,446.50000,BrandMeister,40.3916172,-111.8507662,310168,,-0.000,ACTIVE,KI7MAT,Mixed Mode
 W0SOE,Wichita,Kansas,United States,None,3,145.17000,Brandmeister,37.693539,-97.293533,310169,Wichita Amateur Radio club (WARC),-0.600,ACTIVE,K5TBO,TS1 TS2
 WD5TAR,Farmingville,New York,United States,Peer,1,443.90000,Brandmeister,40.8664873,-73.0356625,310170,,+5.000,ACTIVE,W2PW,Mixed Mode
-KK2NY,Patchogue,New York,United States,Peer,1,444.73750,Brandmeister,40.842430,-73.025932,310171,,+5.000,ACTIVE,W2PW,Mixed Mode
+KK2NY,Farmingville,New York,United States,Peer,1,147.03000,Brandmeister,40.8419995,-73.0265382,310171,,+0.600,ACTIVE,W2PW,Mixed Mode
 WA0SLL,Leavenworth,Kansas,United States,Master,2,442.57500,BM,39.3033,-94.9378,310172,,+5.000,ACTIVE,WA0SLL,TS1 TS2
 W9YT,Madison,Wisconsin,United States,Peer,9,443.60000,Brandmeister,43.072510,-89.411430,310173,,+5.000,ACTIVE,WO9U,TS1 TS2
 N3JLT,Alexandria,Virginia,United States,Peer,1,443.10000,Interstate,38.8048355,-77.0469214,310174,,+5.000,ACTIVE,N3JLT,TS1 TS2
@@ -8776,7 +8787,7 @@ K4LAK,The Villages,Florida,United States,Peer,1,444.50000,dmr-se.org,28.92120,-8
 N4FIV,Mobile,Alabama,United States,Peer,1,147.23750,Brandmeister,30.693247581777747,-88.22894441467768,314750,93 North America<br><br>31011 Gulf Coast,+0.600,ACTIVE,N4FIV,TS1 TS2
 WB5OCK,Ada,Oklahoma,United States,Master,1,444.40000,DMR,34.77,-96.633,314751,,+5.000,ACTIVE,WB5OCK,TS1
 WA2JNF,New York,New York,United States,Master,3,446.67500,BM,40.7061,-73.9969,314752,,-5.000,ACTIVE,WA2JNF,TS1 TS2
-K4JTM,Union City,Tennessee,United States,Peer,1,146.30000,BM,36.4179668,-88.9194123,314753,,-0.600,ACTIVE,K4JTM,TS1 TS2
+K4JTM,South Fulton,Tennessee,United States,Peer,1,444.11250,BM,36.4769000,-88.8735000,314753,,+5.000,ACTIVE,K4JTM,TS1 TS2
 W5EFP,Jackson,Louisiana,United States,Peer,1,442.20000,BM,30.83731,-91.21695,314754,31225,+5.00,ACTIVE,W5EFP,TS1 TS2
 N9HQC,Ravenel,South Carolina,United States,Master,1,443.90000,BM,32.7647232,-80.2848768,314755,,+5.000,ACTIVE,N9HQC,TS1
 N9YAY,Northport,Alabama,United States,Peer,1,444.12500,Ammcomm,33.2919878,-87.5466622,314756,"TS 1 Ww, WW13, NA, TAC310,TAC311<br><br>TS2 Alabama, Southeast, Local",+5.000,ACTIVE,N9YAY,TS1 TS2
@@ -9147,7 +9158,6 @@ N5JLP,Belton,Texas,United States,Master,10,442.67500,Brandmiester,31.024090,-97.
 KC5HWB,Howe,Texas,United States,Master,9,440.20000,CBridge 2.0,33.5073346,-96.6126637,315833,www.DMRTexas.net,+5.000,ACTIVE,KC5HWB,TS1 TS2
 W5BYT,Haslet,Texas,United States,Peer,1,444.32500,DILLO DMR,32.973179,-97.351219,315835,Time Slot # 1 - Group Call 10 = Tarrant Metro<br>Time Slot # 1 - Group Call 3148 = Texas Statewide<br><br>Time Slot # 2 - Group Call 3185 = Cactus<br>Time Slot # 2 - Group Call 8205 = North Texas<br>Time Slot # 2 - Group Call 9 = Local Repeater<br><br><br><br><br>Time Slot # 1 - Group Call 10 = Tarrant Metro<br><br>,+5.000,ACTIVE,KG5KUF,TS1 TS2
 KG5YMG,Brady,Texas,United States,Master,1,443.57500,"IRCDDB, DMR BrandMeister",31.1317825,-99.334939,315837,,+5.000,ACTIVE,WO5OD,Mixed Mode
-AA7TT,Blaine,Washington,United States,Peer,1,441.72500,BM,48.97861,-122.66912,320000,,+5.000,ACTIVE,"AA7TT, VE7SHJ",TS1 TS2
 W4LDG,Morristown TN,Tennessee,United States,Master,1,442.38750,BM,36.2139814,-83.2948923,329082,,+5.000,ACTIVE,AB4DK,TS1 TS2
 WP3JM,Suffolk,,Puerto Rico,Peer,1,448.75000,FreeDMR,36.7557,-76.5825,330001,,-5.000,ACTIVE,WP3JM,TS1 TS2
 WP4JSJ,TOA ALTA,,Puerto Rico,Peer,1,927.97500,BrandMeister TG330013,18.245253941061687,-66.3161207912995,330002,TG 330013,-25.000,ACTIVE,WP4JSJ,TS1 TS2
@@ -10435,7 +10445,6 @@ PY1LDU,Marica,Rio de Janeiro,Brazil,Master,1,439.75000,BM,-22.9137389,-42.812811
 PY3KCA,Canoas,Rio Grande do Sul,Brazil,Master,1,439.25000,BM,,,724276,,-5.000,ACTIVE,PY3AQ,TS1 TS2
 PS7BBC,Mossoró,Rio Grande do Norte,Brazil,Master,1,439.20000,BM,-5.201638,-37.301579,724277,,-5.000,ACTIVE,PS7BB,TS1 TS2
 PY6JL,Vitoria Da Conquista,Bahia,Brazil,Peer,1,439.55000,BM,-14.8550293,-40.8591050,724279,None,-5.000,ACTIVE,PY6NJ,TS2
-PY1KYZ,Macae,Rio de Janeiro,Brazil,Master,1,147.10000,DMR/Brandmeister,-22.3760300,-41.7912100,724280,Repeater Macae/RJ-Brasil<br>TG724 SLOT 1<br>TG199 SLOT 1,+0.600,ACTIVE,"PU1YGC, PY1ML",TS1 TS2
 PY3HA,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,146.77000,Brandmeister,-30.100000,-51.180000,724301,,-0.600,ACTIVE,PY3NZ,TS1 TS2
 PY3RPT,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,145.35000,Mixed Mode,-15.393200,-56.078800,724302,,-0.600,ACTIVE,PY3NZ,TS1 TS2
 PY3SMS,Guaiba,Rio Grande do Sul,Brazil,Master,1,439.55000,DMR+ MASTER SUL,-26.801901,-48.933102,724303,,-5.000,ACTIVE,PY5JP,TS1 TS2
