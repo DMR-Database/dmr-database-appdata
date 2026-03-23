@@ -3309,8 +3309,6 @@ DB0RVH,Rostock,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,2
 DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,262249,BM,262249,1,None,0.000,DB3MAX,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,262250,DMR-plus,262250,0,,-7.600,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,262251,DMR-plus,262251,0,,-0.600,DL5KUA,TS1 TS2
-DB0GMN,Grimmen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.50000,262252,BM,262252,1,None,-7.600,DB3MAX,TS1 TS2
-DB0UEM,Leopoldshagen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.32500,262253,Tetra,262253,1,None,-7.600,DB3MAX,Mixed Mode
 DB0AIS,Moerfelden-Walldorf,Hessen,Germany,Peer,1,438.30000,262254,BM,262254,1,TG 26269 TS2,-7.600,"DG3FBL, DL1XM",TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,262257,BM,262257,0,,-9.400,DF1RL,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,262260,DMR-plus,262260,0,,-7.600,DL5KUA,TS1 TS2
@@ -3639,6 +3637,7 @@ DB0FMS,Reutlingen,Baden-Wuerttemberg,Germany,,1,439.33750,262754,BrandMeister,26
 DB0LBG,Esslingen,Baden-Wuerttemberg,Germany,Master,1,438.33750,262755,BM DMR-plus,262755,0,,-7.600,DG2SDW,TS1 TS2
 DB0TTM,Herbsthausen,Baden-Wuerttemberg,Germany,,5,438.55000,262756,BM,262756,0,,-7.600,DL2SEK,
 DB0OFI,Ostfildern,Baden-Wuerttemberg,Germany,,1,439.93750,262757,None,262757,0,,9.400,DG2SDK,
+DO0LH,Lauchheim,Baden-Wuerttemberg,Germany,Peer,1,439.23750,262758,Brandmeister,262758,0,,7.600,DO1SN,Mixed Mode
 DB0TIT,Titisee-Neustadt,Baden-Wuerttemberg,Germany,,1,439.48750,262759,None,262759,0,,-7.600,DG2GG,
 DB0ULM,Ulm,Baden-Wuerttemberg,Germany,,1,439.58750,262761,None,262761,0,,-7.600,DF2DR,
 DB0REU,Reutlingen,Baden-Wuerttemberg,Germany,,1,439.57500,262762,BrandMeister,262762,0,,-7.600,DK6TE,
@@ -3837,7 +3836,7 @@ CQ0DSB,Serra Bornes,Regiao Norte,Portugal,Peer,1,438.37500,268009,BM,268009,0,"S
 CQ0EAML,Pontinha,Regiao de Lisboa,Portugal,Master,1,438.17500,268010,TetraPack,268010,0,,-7.6,CS7ATL,Mixed Mode
 CQ0DMT,Lisboa,Regiao de Lisboa,Portugal,Peer,1,438.38750,268011,BM,268011,0,,-7.600,CT7AFY,TS1 TS2
 CQ0DARS,Aveiro,Regiao Norte,Portugal,Peer,1,438.57500,268012,BM,268012,1,,-7.6,CT2GNH,TS1 TS2
-CQ0DAM,Amarante,,Portugal,,1,438.22500,268101,DMR-plus,268101,0,,-7.600,CT2HMR,TS1 TS2
+CQ0DAM,Amarante,Regiao Norte,Portugal,Peer,1,438.22500,268101,DMR-plus,268101,0,,-7.600,CT2HMR,TS1 TS2
 CQ0DBO,Chaves,Regiao Norte,Portugal,Peer,1,438.40000,268102,BM,268102,1,"Slot2 TG 2, TG 8 (clusters)",-7.600,CT1DQV,TS1 TS2
 CQ0DBA,Serra do Cruzeiro,,Portugal,,1,438.32500,268103,BM,268103,0,,-7.600,CT2IXP,TS1 TS2
 CQ0DGM,Gondomar,,Portugal,,1,438.25000,268104,BrandMeister,268104,0,,-7.600,CT2GNC,
@@ -10190,6 +10189,8 @@ LU1EQV,Salto,Buenos Aires,Argentina Republic,Master,1,147.90000,722039,"BM, DMR"
 LU8DRH,Bahia Blanca,Buenos Aires,Argentina Republic,Master,1,434.55000,722040,bm,722040,0,Repetidor Digital Bahia Blanca,+5.000,LU8DRH,TS1 TS2
 LU2BFM,Cordoba,Cordoba,Argentina Republic,Master,1,434.85000,722041,BM,722041,0,,+5.000,LU2BFM,TS1 TS2
 LU2BFM,Buenos Aires,Caba,Argentina Republic,Master,1,147.36000,722042,BM,722042,0,,+0.600,LU2BFM,TS1 TS2
+LU2CSG,Capital Federal,Buenos Aires,Argentina Republic,Peer,1,434.65000,722043,BM,722043,0,,-5.000,LU2CSG,TS1 TS2
+LU2CSG,Capital Federal,Ciudad de Buenos Aires,Argentina Republic,Master,1,434.70000,722044,BM,722044,0,,+5.000,LU2CSG,TS1 TS2
 LU2CSG,Capital Federal,Corrientes,Argentina Republic,Master,1,434.65000,722045,BM,722045,0,,+5.000,LU2CSG,TS1 TS2
 LU1VDF,BARILOCHE,Rio Negro,Argentina Republic,Master,1,145.24000,722046,BM,722046,0,7224 7229,-0.600,LU1VDF,TS1 TS2
 LU4HH,Bosque Alegre Cordoba Argentina,Cordoba,Argentina Republic,Master,1,434.60000,722052,BM,722052,1,LU4HH Radio Club Cordoba. open DMR Repeater located at Estacion Astrofisica de Bosque Alegre. 1256 metros sobre nivel del mar. Linked to Argentina Link.,+5.000,LU4HH,TS2
@@ -10383,8 +10384,8 @@ PY2KSM,Sao Paulo,Sao Paulo,Brazil,Peer,1,439.52500,724205,DMR+ Brazil,724205,0,,
 PY2KVL,VALINHOS,Sao Paulo,Brazil,Master,1,439.72500,724206,BM,724206,1,,-5.000,PY4EI,TS1 TS2
 PY2KIG,Sao Jose Do Rio Preto,Sao Paulo,Brazil,Peer,1,439.65000,724207,BM,724207,1,,-5.000,PY2IV,TS1 TS2
 PY2KIM,Votuporanga,Sao Paulo,Brazil,Master,1,147.12000,724208,BM,724208,1,,+0.600,PY2IV,TS1 TS2
-PY2KMA,Sao Paulo,Sao Paulo,Brazil,None,1,439.47500,724209,bm,724209,0,,-5.000,PY2VE,TS1 TS2
-PY2KCA,Artur Nogueira,Sao Paulo,Brazil,None,1,145.23000,724210,bm,724210,0,,-0.600,PY2VE,TS1 TS2
+PY2KMA,Sao Paulo,Sao Paulo,Brazil,Master,1,439.47500,724209,bm,724209,0,,-5.000,PY2VE,TS1 TS2
+PY2KCA,Artur Nogueira,Sao Paulo,Brazil,Peer,1,145.23000,724210,bm,724210,0,,-0.600,PY2VE,TS1 TS2
 PY2ZYV,ITU,Sao Paulo,Brazil,Master,1,439.99000,724212,DMR-MARC,724212,1,,-5.000,PY2ZYV,TS1 TS2
 PY2KSA,Sao Paulo,Sao Paulo,Brazil,None,1,439.60000,724213,DRM+ BRAZIL,724213,0,,-5.000,PY2PE,TS1 TS2
 PY2KMA,Sao Paulo,Sao Paulo,Brazil,Master,1,145.33000,724214,DMR MARC,724214,0,,-0.600,PY2XH,TS1 TS2
