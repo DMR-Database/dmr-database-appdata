@@ -2229,7 +2229,7 @@ OZ3REY,Knivsbjerg,Syddanmark,Denmark,Master,13,434.72500,238003,DMR+,238003,1,,-
 OZ4RED,Esbjerg 2,Syddanmark,Denmark,Peer,13,434.68750,238004,DMR-plus,238004,0,Time Slot # 1 - Group Call 238 = DK 238<br>Time Slot # 2 - Group Call 2386 = QSY 1<br>Time Slot # 2 - Group Call 2387 = QSY 2<br>Time Slot # 2 - Group Call 4703 = Syddanmark<br>,-2.000,OZ1LNI,TS1 TS2
 OZ7RPT,Lunderskov,Syddanmark,Denmark,Peer,8,434.73750,238006,DMR,238006,1,,-2.000,OZ7MK,TS1 TS2
 OZ3RTD,Tonder,Syddanmark,Denmark,Master,13,434.70000,238007,DMR-plus,238007,1,,-2.000,OZ5TD,TS1 TS2
-5P0NALS,Nordborg,Syddanmark,Denmark,Master,13,434.57500,238008,BM,238008,1,"30W repeater, JO45VB, TS2, X300 antenna 10m above ground, covering Nordals and surrounding areas",-2.000,OZ1CE,TS1 TS2
+5P0NALS,Nordborg,Syddanmark,Denmark,Master,13,434.57500,238008,BM,238008,1,"30W repeater, JO45VB, TS2, X300 antenna 10m above ground, covering Nordals and surrounding areas",-2.000,"5P1CE, OZ1CE",TS1 TS2
 5P1NALS,Nordborg,Syddanmark,Denmark,Master,13,434.82500,238009,DMR-MARC,238009,0,,-2.000,OZ1CE,Mixed Mode
 OZ4REN,Stoevring,Nordjylland,Denmark,,11,434.68750,238101,DMR-plus,238101,0,,-2.000,OZ1JEE,TS1 TS2
 OZ2DSD,BROENDERSLEV,Nordjylland,Denmark,,11,461.17500,238102,DMR-plus,238102,0,,-10.000,OZ2NML,TS1 TS2
@@ -2640,6 +2640,7 @@ YL3RKT,Valmiera,All Regions,Latvia,Master,1,438.30000,247008,YL-DMR,247008,1,"TS
 YL3RMS,Daugavpils  Latvia,,Latvia,Master,1,438.30000,247009,BM,247009,1,,-7.6,YL3MS,TS1 TS2
 YL3RIM,Lielvarde,All Regions,Latvia,Master,1,438.55000,247010,BM,247010,0,"Public DMR repeater in Lielvrde.<br><br>TG 24706 is interconnected with XLX636 multi-modal reflector.<br><br>Dear visitors, if you're about to stay in the city for a while and would like to have your favorite TGs as static, please contact YL3IM.",-7.6,YL3IM,TS1 TS2
 YL3RIM,Malpils,All Regions,Latvia,Peer,1,438.42500,247011,BM,247011,0,"Public DMR repeater in Mlpils.<br><br>TG 24706 is interconnected with XLX636 multi-modal reflector.<br><br>Dear visitors, if you're about to stay in the city for a while and would like to have your favorite TGs as static, please contact YL3IM.",-7.6,YL3IM,TS1 TS2
+YL3RIM,Riga,All Regions,Latvia,Peer,1,438.57500,247012,BM,247012,0,,-7.6,YL3IM,TS1 TS2
 YL3RKT,Cesis,All Regions,Latvia,Master,1,438.35000,247013,YL-DMR,247013,1,"TS-1, TG:247",-7.6,YL3KT,TS1
 YL3RMO,Jelgava,,Latvia,Master,1,438.30000,247014,BM,247014,1,,-7.6,YL3MO,TS1
 YL3RMZ,Lapsas,All Regions,Latvia,Master,1,438.47500,247015,BM,247015,0,"247,2470, 24701,24706",-7.600,YL3MZ,TS1
@@ -3309,6 +3310,8 @@ DB0RVH,Rostock,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,2
 DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,262249,BM,262249,1,None,0.000,DB3MAX,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,262250,DMR-plus,262250,0,,-7.600,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,262251,DMR-plus,262251,0,,-0.600,DL5KUA,TS1 TS2
+DB0GMN,Grimmen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.50000,262252,BM,262252,1,None,-7.600,DB3MAX,TS1 TS2
+DB0UEM,Leopoldshagen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.32500,262253,Tetra,262253,1,None,-7.600,DB3MAX,Mixed Mode
 DB0AIS,Moerfelden-Walldorf,Hessen,Germany,Peer,1,438.30000,262254,BM,262254,1,TG 26269 TS2,-7.600,"DG3FBL, DL1XM",TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,262257,BM,262257,0,,-9.400,DF1RL,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,262260,DMR-plus,262260,0,,-7.600,DL5KUA,TS1 TS2
@@ -5323,7 +5326,7 @@ K6LNK,Vacaville,California,United States,Peer,7,144.95000,310785,Brandmeister,31
 KC9HYC,Chilton,Wisconsin,United States,Peer,6,442.77500,310787,BrandMeister,310787,0,TG 310787 shall be used on TS1 and ALL other TG's shall be used on TS2. Thank you.,+5.000,KC9HYC,TS1 TS2
 NA7Q,Megler,Oregon,United States,Master,1,147.43750,310788,PNW Digital,310788,0,,-1.100,NA7Q,TS1 TS2
 KD4YAL,Clearwater,Florida,United States,2,1,441.95000,310789,BrandMeister,310789,0,,+5,KD4YAL,1
-W4WSM,Bowling Green,Kentucky,United States,3102,11,146.62500,310790,BrandMeister,310790,0,,-0.600,W4WSM,1 & 2
+W4WSM,Bowling Green,Kentucky,United States,Peer,11,146.62500,310790,BrandMeister,310790,0,,-0.600,W4WSM,TS1
 KE3UC,Johnstown,Pennsylvania,United States,Master,1,444.80000,310791,Brandmeister,310791,1,Time Slot 1<br><br>314270   Cambria TAC<br>313037    Indiana TAC<br><br>Time Slot 2<br><br>3142   PA StateWide<br>31422 Western PA<br>31420 PEMA (ACS),+5.000,KE3UC,TS1 TS2
 WR7HLN,Albuquerque - West Mesa,New Mexico,United States,Peer,1,443.55000,310792,BrandMeister,310792,1,"Sandia Crest<br><br>Time Slot 1<br>31302 MPRG 2<br>3135 New Mexico Statewide<br>8 Cluster<br><br>Time Slot 2<br>31301 MPRG<br><br>All other Talk Groups should be on Time Slot 1, Dynamic<br><br>wr7hln.org",+5.000,WR7AGT,TS1 TS2
 WR7HLN,Grants - La Mosca Peak,New Mexico,United States,Peer,1,443.35000,310793,BrandMeister,310793,1,"La Mosca Peak<br><br>Talk Groups Static<br><br>Time Slot 1<br>31302 MPRG 2<br>3135 New Mexico Statewide<br>8 Cluster<br><br>Time Slot 2<br>31301 MPRG 1<br><br>All other Talk Groups should be on Time Slot 1, Dynamic<br><br>wr7hln.org",+5.000,WR7AGT,TS1 TS2
@@ -6429,7 +6432,7 @@ KG5IRU,Coldwater,Mississippi,United States,Master,1,443.92500,311998,DixieDMR,31
 K2ESF,KUNKLETOWN,Pennsylvania,United States,Master,1,443.52500,311999,BM,311999,0,P-25,+5.000,K2ESF,Mixed Mode
 K0USY,Basehor,Kansas,United States,Master,1,444.75000,312000,KS DMR,312000,0,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Cort Buffington <br>Email: n0mjs@me.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
 K0USY,Hays,Kansas,United States,Master,1,444.75000,312001,KS-DMR,312001,0,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Gavin Buffington <br>Email: gbuffing@gmail.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
-N7KLR,Minneapolis,Kansas,United States,Peer,1,444.75000,312002,KS-DMR,312002,1,http://ks-dmr.net/minneapolis-3-444-750/,+5.000,NV8Q,TS1 TS2
+N7KLR,Minneapolis,Kansas,United States,Peer,1,444.75000,312002,KS-DMR,312002,1,S1|G2: System local<br>S1|G8: Repeater local<br>S2|G3120: Kansas Statewide,+5.000,NV8Q,TS1 TS2
 K0USY,Topeka,Kansas,United States,Master,1,444.98750,312003,KS-DMR,312003,0,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Cort Buffington <br>Email: n0mjs@me.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
 K0USY,Manhattan,Kansas,United States,Master,1,444.37500,312005,KS-DMR,312005,0,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Eric Sivertsen<br>Email: kd0wwx@gmail.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
 K0JWH,El Dorado,Kansas,United States,Peer,1,441.97500,312006,KS DMR,312006,1,Time Slot #1 - Group Call 1 = DMR-MARC World Wide<br>Time Slot #1 - Group Call 13 = DMR-MARC WW English<br><br>Time Slot #1 - Group Call 3 = DMR-MARC N. America<br>Time Slot #2- Group Call 3120 = Statewide KS<br><br>Time Slot #2- Group Call 3169 = <br>Midwest Regional (20 min inactivity time out)<br><br><br> <br>Coverage Map (http://dmr-marc.net/images/k0usy-lec-coverage.jpg)<br><br>You Must Have [ARS] Disabled Within Your Radio<br> Contact Name: Cort Buffington <br>Email: n0mjs@me.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,K0JWH,TS1 TS2
@@ -8948,7 +8951,7 @@ WA6PYJ,La Canada,California,United States,Master,1,448.36000,314937,Western Stat
 KG9OV,Maryville,Illinois,United States,Peer,7,927.03750,314938,KG9OV,314938,1,None,-25.000,KG9OV,TS1 TS2
 KF4CWI,Hollister,Florida,United States,Master,1,147.06000,314939,Brandmeister,314939,1,TS1 314939 Local Repeater<br>TS1 3124802 Palatka ARC<br>TS1 311099 FDARN<br>TS1 31128 NE FL ARES<br>TS2 3112 FL Statewide<br>TS2 31121 First Coast DMR<br>TS2 31127 FL Statewide ARES,+0.600,"KF4CWI, KD4BEE, WO5CID",TS1 TS2
 N3EMC,Middle River,Maryland,United States,Peer,2,927.70000,314940,TGIF,314940,1,,-25.000,N3EMC,Mixed Mode
-N4FOX,Cumberland Furnace,Tennessee,United States,Master,7,145.33000,314941,IP Site Connect,314941,1,None<br>N4FOX,-0.600,N4FOX,TS1
+N4FOX,Cumberland Furnace,Tennessee,United States,Peer,7,145.33000,314941,AmComm,314941,1,https://4fox.org<br>https://TNRS.net<br>N4FOX,-0.600,N4FOX,TS1 TS2
 KK6USZ,Saratoga,California,United States,Master,1,441.95000,314942,Brandmeister,314942,0,None,+5.000,WA6AXX,TS1 TS2
 W5HZZ,Ponca City,Oklahoma,United States,Peer,0,444.75000,314943,Brandmeister,314943,1,None,+5.000,"N9JYJ, W5BE, W5HZZ",TS1 TS2
 K2ERC,Plainview,New York,United States,Peer,6,448.23250,314944,BrandMeister,314944,1,None,-5.000,W2JJT,TS1 TS2
@@ -9674,7 +9677,7 @@ VK5RKW,Adelaide,South Australia,Australia,Master,1,438.87500,505032,VK-DMR Netwo
 VK3RTA,Beulah,Victoria,Australia,Peer,1,147.07500,505033,DMR-MARC,505033,1,,+0.600,VK3SNR,TS1 TS2
 VK2RAY,ALBURY NSW 2640,New South Wales,Australia,Peer,1,438.57500,505034,DMR,505034,0,"Placeholder for now, still under construction.",-5.000,VK2EWC,TS1 TS2
 VK2RUM,Lower_Hunter,New South Wales,Australia,Peer,1,438.62500,505035,DMR-MARC,505035,1,,-7.000,VK2FC,TS1 TS2
-VK3RAH,Knoxfield,Victoria,Australia,Peer,1,438.85000,505036,Brandmeister,505036,1,Recently switched over to Brandmeister 24/07/22.<br>Static TG's:<br>TS1 - TG 505<br>TS2 - TG 5053<br><br>All other TG's are user activated.<br>,-7.0,VK3SMC,TS1 TS2
+VK3RAH,Knoxfield,Victoria,Australia,Peer,1,438.85000,505036,Brandmeister,505036,1,Switched over to Brandmeister 24/07/22.<br>Static TG's:<br>TS1 - TG 505<br>TS2 - TG 5053<br><br>All other TG's are user activated.,-7.0,"VK3AH, VK3SMC",TS1 TS2
 VK2RBA,Bombala,New South Wales,Australia,Master,1,438.83750,505037,VK-DMR,505037,0,,-7.000,VK2ARN,TS1 TS2
 VK3RAJ,Upwey,Victoria,Australia,Peer,1,438.77500,505038,VK-DMR,505038,1,,-7.000,VK3AJ,TS1 TS2
 VK3RSA,Emerald,Victoria,Australia,Peer,1,438.80000,505039,VK-DMR,505039,1,,-7.000,VK3AJ,TS1 TS2
@@ -10030,7 +10033,6 @@ ZL4AA,Dunedin,South Island,New Zealand,Peer,1,439.70000,530302,ZL-TRBO,530302,1,
 ZL2GK,Tasman,South Island,New Zealand,Peer,1,439.68750,530303,ZL-TRBO,530303,1,Time Slot#1 - Group Call 1 = Worldwide Calling (2 min max)<br>Time Slot #1- Group Call 13 = Worldwide English<br>Time Slot #2- Group Call 5 = VK/ZL Regional<br>Time Slot #2- Group Call 530= New Zealand<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeaters Coverage Area (http://www.dmr-marc.net/images/zl2r-coverage.jpg)<br><br>Contact: ZL2ASF<br>Email: tennatron@xtra.co.nz,-5.000,ZL2ASF,TS1 TS2
 ZL3DMH,Christchurch,South Island,New Zealand,Master,1,439.10000,530304,Brandmeister,530304,0,TG 5303 Static TS1<br>International Traffic TS2,-5.000,ZL3DMH,Mixed Mode
 ZL3DVR,Christchurch,South Island,New Zealand,Master,1,439.57500,530305,Brandmeister + DMR Gateway,530305,1,Time Slot # 1 - Group Call 6 = XLX530 Reflector Module D<br>Time Slot # 1 - Group Call 9 = Local Talk<br>Time Slot # 1 - Group Call 530 = ZL National<br>Time Slot # 1 - Group Call 5303 = ZL3 Regional<br>Time Slot # 1 - Group Call 5304 = ZL4 Regional<br>Time Slot # 1 - Group Call 5305 = Bridge to YSF59115 + Wires X<br><br>Time Slot # 2 - Group Call 8 = IPSC NZ - DMR Marc  ZK National (TG 8)<br>Time Slot # 2 - Group Call 9 = IPSC NZ - DMR Marc  ZL National (TG 530)<br><br>Please Use Time Slot # 2 for any other Dynamic TG's on BM Network,-5.000,ZL3DMH,Mixed Mode
-ZL4IND,Queenstown,South Island,New Zealand,Master,1,439.65000,530306,Brandmeister + DMR Gateway,530306,1,,-5.000,ZL4DE,Mixed Mode
 ZL4OU,Oamaru,South Island,New Zealand,Peer,1,439.23750,530307,ZL-TRBO,530307,0,,-5.000,ZL4SN,TS1 TS2
 AB2JF,Yigo,All Regions,Guam,Peer,1,447.80000,535001,BM,535001,1,9,-5.0000,AB2JF,TS1 TS2
 AB2JF,Yigo,All Regions,Guam,Master,1,445.10000,535002,BM,535002,1,9,-5.0000,AB2JF,TS1 TS2
@@ -10169,7 +10171,7 @@ LU8EUT,San Isidro,Buenos Aires,Argentina Republic,Peer,1,433.25000,722018,BrandM
 LU8EUT,San Isidro,Buenos Aires,Argentina Republic,Peer,1,146.60000,722019,BrandMeister/DMR+,722019,1,,-0.600,LU8EUT,TS1 TS2
 LU8EB,Lanus,Buenos Aires,Argentina Republic,Peer,1,145.23000,722020,BRANDMEISTER,722020,0,,-0.600,LU8EB,TS1 TS2
 LU1COP,Capital Federal,Buenos Aires,Argentina Republic,Master,1,434.50000,722021,"BM, DMR-MARC",722021,1,,+0.600,LU1COP,TS1 TS2
-LU2BFM,Cordoba,Cordoba,Argentina Republic,Master,1,433.60000,722022,BM,722022,0,,+5.000,LU2BFM,Mixed Mode
+LU2BFM,Cordoba,Cordoba,Argentina Republic,Master,1,433.60000,722022,TGif network,722022,0,,+5.000,LU2BFM,Mixed Mode
 LU1COP,Capital Federal,Buenos Aires,Argentina Republic,Master,1,434.90000,722023,"BM, DMR-MARC",722023,1,,+0.600,LU1COP,TS1 TS2
 LU4AE,Villa Lugano,Caba,Argentina Republic,Master,1,434.00000,722024,BRANDMEISTER,722024,0,,+5.000,LU4AE,TS1 TS2
 LU8AQL,Buenos Aires,Buenos Aires,Argentina Republic,Peer,1,434.50000,722025,Brandmeister,722025,0,,+5.000,LU8AQL,TS1 TS2
@@ -10184,15 +10186,17 @@ LU5FB,Rosario,Santa Fe,Argentina Republic,Master,1,434.75000,722033,BrandMeister
 LU5FB,Rosario,Santa Fe,Argentina Republic,Master,1,434.95000,722034,BrandMeister,722034,1,"TS1=7222 (LOCAL ROSARIO), TS2=7229 (ARG ROOM)",+5.000,LU5FB,TS1 TS2
 LW6DMG,La Plata,Buenos Aires,Argentina Republic,Master,1,145.30000,722035,BM,722035,0,,-0.600,LW6DMG,TS1 TS2
 LW2DDS,Bahia Blanca,Buenos Aires,Argentina Republic,Master,1,434.45000,722036,BM,722036,0,7229,+5.000,LW2DDS,TS1 TS2
+LU5AM,Zona Delta - Tigre,Buenos Aires,Argentina Republic,Master,7,147.19500,722037,BM,722037,1,722 / 722911 / 7223 / 72290,+0.600,LU5AM,TS1 TS2
 LU2CSG,Capital Federal,Ciudad de Buenos Aires,Argentina Republic,Master,1,434.65000,722038,BM,722038,1,,-5.000,LU2CSG,TS2
 LU1EQV,Salto,Buenos Aires,Argentina Republic,Master,1,147.90000,722039,"BM, DMR",722039,0,"722, 7229",+0.600,LU1EQV,TS1 TS2
 LU8DRH,Bahia Blanca,Buenos Aires,Argentina Republic,Master,1,434.55000,722040,bm,722040,0,Repetidor Digital Bahia Blanca,+5.000,LU8DRH,TS1 TS2
-LU2BFM,Cordoba,Cordoba,Argentina Republic,Master,1,434.85000,722041,BM,722041,0,,+5.000,LU2BFM,TS1 TS2
+LU2BFM,Cordoba,Cordoba,Argentina Republic,Master,1,147.12500,722041,Tg if,722041,0,,+0.600,LU2BFM,TS1 TS2
 LU2BFM,Buenos Aires,Caba,Argentina Republic,Master,1,147.36000,722042,BM,722042,0,,+0.600,LU2BFM,TS1 TS2
 LU2CSG,Capital Federal,Buenos Aires,Argentina Republic,Peer,1,434.65000,722043,BM,722043,0,,-5.000,LU2CSG,TS1 TS2
 LU2CSG,Capital Federal,Ciudad de Buenos Aires,Argentina Republic,Master,1,434.70000,722044,BM,722044,0,,+5.000,LU2CSG,TS1 TS2
 LU2CSG,Capital Federal,Corrientes,Argentina Republic,Master,1,434.65000,722045,BM,722045,0,,+5.000,LU2CSG,TS1 TS2
 LU1VDF,BARILOCHE,Rio Negro,Argentina Republic,Master,1,145.24000,722046,BM,722046,0,7224 7229,-0.600,LU1VDF,TS1 TS2
+LU5AM,Munro,Buenos Aires,Argentina Republic,Master,7,433.02500,722050,BM,722050,1,722<br>7221,+5.000,LU5AM,TS1 TS2
 LU4HH,Bosque Alegre Cordoba Argentina,Cordoba,Argentina Republic,Master,1,434.60000,722052,BM,722052,1,LU4HH Radio Club Cordoba. open DMR Repeater located at Estacion Astrofisica de Bosque Alegre. 1256 metros sobre nivel del mar. Linked to Argentina Link.,+5.000,LU4HH,TS2
 PY2LY,Indaiatuba,Sao Paulo,Brazil,Master,1,439.62500,724002,Brandmeister,724002,1,,-5.000,PY2LY,TS1 TS2
 PY1NDN,Friburgo,Rio de Janeiro,Brazil,Master,1,147.27000,724003,DMR-plus,724003,1,TG-724 slot1,+0.600,PU1LOY,TS1 TS2
