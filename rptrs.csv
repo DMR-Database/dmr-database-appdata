@@ -66,7 +66,7 @@ KQ6RC,HAYWARD,California,United States,Master,5,145.25000,110685,DMR-MARK/BM,110
 KB6PLH,San Diego / San Miguel,California,United States,Peer,1,449.84000,110687,BrandMeister,110687,0,,-5.00,KB6PLH,TS1 TS2
 AF6FB,Perris,California,United States,Peer,11,446.86000,110689,BrandMeister,110689,0,This ID is for repeater setup and testing. There is not a repeater here full time.,-5.000,AF6FB,TS1 TS2
 N6MIK,Placentia,California,United States,Peer,10,446.54000,110691,Brandmeister,110691,0,,-5.000,N6MIK,Mixed Mode
-WA6TIP,Sebastopol,California,United States,None,1,444.82500,110693,Brandmeister,110693,0,,+5.000,WA6TIP,TS1 TS2
+WA6TIP,Sebastopol,California,United States,Master,1,444.82500,110693,Brandmeister,110693,0,,+5.000,WA6TIP,TS1 TS2
 KB6LED,Hayward,California,United States,Peer,1,444.85000,110694,BrandMeister,110694,0,,+5.000,KB6LED,TS1 TS2
 WX6D,Place holder,California,United States,Master,1,446.00000,110695,Mountain West DMR,110695,0,,+5.000,KE6YJC,TS1 TS2
 KK6KD,SAN DIEGO,California,United States,Peer,1,448.46000,110696,Brandmeister,110696,0,,-5.000,KK6KD,TS1 TS2
@@ -192,7 +192,7 @@ SW2C,Katerini,Dytiki Makedonia / Kentriki Makedonia,Greece,Master,1,439.35000,20
 SW2I,Aristotelis,Dytiki Makedonia / Kentriki Makedonia,Greece,Master,1,439.15000,202209,BM,202209,0,,-7.600,SV2BNL,TS1 TS2
 SW2G,Metaxas,Dytiki Makedonia / Kentriki Makedonia,Greece,Peer,1,438.93750,202210,DMR-plus,202210,1,,-7.600,SZ2RCK,TS1 TS2
 SV2U,Kastoria city,Dytiki Makedonia / Kentriki Makedonia,Greece,Peer,1,438.83750,202211,DMR-plus,202211,1,,-7.600,SZ2RCK,TS1 TS2
-SW2J,3-5 Pigadia,Dytiki Makedonia / Kentriki Makedonia,Greece,Peer,1,439.30000,202212,DMR-plus,202212,1,,-7.600,SV1EDZ,TS1 TS2
+SW2J,VEROIA,Dytiki Makedonia / Kentriki Makedonia,Greece,Peer,1,439.30000,202212,DMR-plus,202212,1,,-7.600,SV1EDZ,TS1 TS2
 SW2B,Polygyros,Dytiki Makedonia / Kentriki Makedonia,Greece,Master,1,145.58750,202220,BM,202220,0,,-0.600,SV2BNL,TS1 TS2
 SV3O,Doliana Mt,Peloponnisos,Greece,Peer,1,439.23750,202301,DMR-plus,202301,1,,-7.600,SV1EDZ,TS1 TS2
 SV3P,Pyrgos City,Peloponnisos,Greece,Peer,1,438.83750,202302,DMR-plus,202302,1,,-7.600,SV1EDZ,TS1 TS2
@@ -206,7 +206,7 @@ SV6J,Ioannina,Ipeiros,Greece,Master,1,438.70000,202604,BM(TS1)-IPSC2(TS2),202604
 SV7L,KOMOTINI,Anatoliki Makedonia kai Thraki,Greece,,1,438.60000,202701,None,202701,0,,-7.600,SV7JWS,
 SV7O,Kavala City,Anatoliki Makedonia kai Thraki,Greece,Peer,1,438.15000,202702,DMR-plus,202702,1,,-7.600,SV1EDZ,TS1 TS2
 SV7N,Xanthi,Anatoliki Makedonia kai Thraki,Greece,,1,439.07500,202704,BM,202704,0,,-7.600,SV2BNL,TS1 TS2
-SW8N,Naxos Island,Dodecanese,Greece,Peer,1,439.25000,202801,DMR-plus,202801,1,,-7.600,SV1EDZ,TS1 TS2
+SW8N,NAXOS,N. Aegean,Greece,Peer,1,439.25000,202801,DMR-plus,202801,1,,-7.600,SV1EDZ,TS1 TS2
 SW8R,CORFU,Ionian Islands,Greece,Peer,1,438.67500,202802,BM,202802,1,,-7.600,SY8PEK,TS1 TS2
 SW8S,Kefalonia Island,Attiki / Sterea Ellada / Dytiki Ellada,Greece,Peer,1,438.76250,202803,DMR-plus,202803,1,,-7.600,SV1EDZ,TS1 TS2
 SW8T,Evoia Island,Attiki / Sterea Ellada / Dytiki Ellada,Greece,Peer,1,438.76250,202804,DMR-plus,202804,1,,-7.600,SV1EDZ,TS1 TS2
@@ -1280,7 +1280,9 @@ IR9ZWO,Messina,Sicily,Italy,Peer,1,145.67500,222441,BrandMeister,222441,1,None,-
 IR1UDX,ALBISSOLA,Piedmont / Liguria / Aosta,Italy,Master,1,430.20000,222442,BM,222442,0,,+5.000,IZ1MLF,TS1 TS2
 IR5TSE,Siena,Tuscany,Italy,Peer,1,430.11250,222443,BM,222443,1,None,1.600,"IU5FFN, IZ5IGB, IZ5VSL",TS1 TS2
 IR4S,Monte Canate,Emilia-Romagna,Italy,,1,430.62500,222444,BM,222444,0,,4.413,IW4DAT,TS1 TS2
+IR3YZB,Adria,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,3,430.27500,222445,WindTre,222445,1,None,+1.600,IW3IFD,TS1 TS2
 IR3ZWD,Belluno,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,431.48750,222446,BM,222446,0,,+1.600,IU3GQH,TS1 TS2
+IR4ZZA,Borghi,Emilia-Romagna,Italy,Peer,1,144.63750,222447,Brandmeister,222447,1,None,0.000,IW4EHJ,TS2
 IR1UFY,Giarolo,Piedmont / Liguria / Aosta,Italy,Master,1,430.28750,222449,BM,222449,0,,+1.600,IZ1MLF,TS1 TS2
 IR2UDZ,Monte Santa Franca,Emilia-Romagna,Italy,Peer,1,430.82500,222450,BM,222450,1,,+5.000,IZ4AKM,TS1 TS2
 IR9ZVU,Palermo,Sicily,Italy,Master,1,430.17500,222451,DMR,222451,1,,+1.600,IW9CHH,TS1 TS2
@@ -1927,7 +1929,7 @@ GB7TG,Wembworthy,England,United Kingdom,Peer,7,430.97500,234132,dmr,234132,1,TG9
 MB0ZZ,Roxboroughshire,Scotland,United Kingdom,Peer,1,430.00000,234133,Phoenix,234133,0,,+9.000,G0RDI,Mixed Mode
 GB7NX,Holsworthy Beacon,England,United Kingdom,Master,5,438.38750,234135,DMR,234135,0,,-7.6,G1BHM,TS1 TS2
 GB7PA,Paisley,Scotland,United Kingdom,Peer,1,439.52500,234136,BM,234136,1,,-9.0000,MM0PAZ,TS1 TS2
-GB7RH,Eastbourne,England,United Kingdom,Master,10,430.30000,234137,Raynet UK,234137,0,Linked to Raynet UK National server.<br>Primary use for Eastbourne & Wealden Raynet.,+9.000,G6JME,Mixed Mode
+GB7RH,Heathfield,England,United Kingdom,Master,10,430.30000,234137,Raynet UK,234137,0,Linked to Raynet UK National server.<br>Primary use for Eastbourne & Wealden Raynet.,+9.000,G6JME,Mixed Mode
 GB7HF,Newton Abbot,England,United Kingdom,Peer,5,439.50000,234138,Free DMR,234138,0,TS1/TG9 Site only repeater<br>TS2/TG950 South West Cluster repeater and access to Free DMR network.,-9.0000,G4CPO,TS1 TS2
 GB7FF,Prestonpans,Scotland,United Kingdom,Peer,1,145.73750,234139,DV Scotland Phoenix,234139,1,,-6.0,GM3AND,Mixed Mode
 GB7RG,Stranraer,Scotland,United Kingdom,Peer,5,430.98750,234140,Brandmeister,234140,1,,+7.6,GM7RYR,TS1 TS2
@@ -2650,8 +2652,8 @@ YL3RPD,Sigulda,All Regions,Latvia,Master,1,438.65000,247019,"BM, YL-DMR",247019,
 YL3RIY,Riga,All Regions,Latvia,Master,1,438.20000,247020,YL-DMR,247020,1,"TS-1, TG:247",-7.600,"YL3IY, YL3KT",TS1
 ES1DMR,Tallinn,,Estonia,Master,1,434.58750,248001,BM,248001,0,"FM CTCSS 82,5<br>TS1 TG24804<br>TS2 TG248",-2.000,ES2AST,Mixed Mode
 ES2DMR,Harjumaa,,Estonia,Master,1,434.58750,248002,BM,248002,0,"FM CTCSS 82,5<br>TS1 TG24804<br>TS2 TG248",-2.000,ES2AST,Mixed Mode
-ES4RVN,Narva,,Estonia,Master,1,145.67500,248003,BM,248003,1,24804,-0.600,ES4RM,TS1 TS2
-ES4RUN,Narva,,Estonia,Master,1,434.70000,248004,BM,248004,0,24814,-1.600,ES4RM,TS1 TS2
+ES4RVN,Narva,All Regions,Estonia,Master,1,145.67500,248003,BM,248003,1,24804,-0.600,ES4RM,TS1 TS2
+ES4RUN,Narva,All Regions,Estonia,Master,1,438.72500,248004,BM,248004,0,24814,-7.600,ES4RM,TS1 TS2
 ES5DMR,Tartu,,Estonia,Peer,1,438.97500,248005,BM,248005,0,TG248,-7.6,ES5TO,TS1 TS2
 ES1RVA,Tallinn,,Estonia,Master,1,145.77500,248006,BM,248006,0,"FM CTCSS 82,5<br>TS1 TG24804<br>TS2 TG248",-0.600,ES2AST,Mixed Mode
 ES4RVK,Kohtla-Jrve,,Estonia,Master,1,145.72500,248007,BM,248007,1,"248, 24804, 24814, 248112",-0.600,ES4RM,TS1 TS2
@@ -3310,8 +3312,6 @@ DB0RVH,Rostock,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,2
 DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,262249,BM,262249,1,None,0.000,DB3MAX,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,262250,DMR-plus,262250,0,,-7.600,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,262251,DMR-plus,262251,0,,-0.600,DL5KUA,TS1 TS2
-DB0GMN,Grimmen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.50000,262252,BM,262252,1,None,-7.600,DB3MAX,TS1 TS2
-DB0UEM,Leopoldshagen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.32500,262253,Tetra,262253,1,None,-7.600,DB3MAX,Mixed Mode
 DB0AIS,Moerfelden-Walldorf,Hessen,Germany,Peer,1,438.30000,262254,BM,262254,1,TG 26269 TS2,-7.600,"DG3FBL, DL1XM",TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,262257,BM,262257,0,,-9.400,DF1RL,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,262260,DMR-plus,262260,0,,-7.600,DL5KUA,TS1 TS2
@@ -3357,7 +3357,7 @@ DL9BDK,Bremerhaven,,Germany,Peer,1,438.32500,262322,DMR-plus,262322,0,,-7.600,DL
 DB0DAM,Dammer Berge,Niedersachsen / Bremen,Germany,Peer,1,439.86250,262323,DMR-plus,262323,1,,-9.400,DJ2QW,TS1 TS2
 DL9OBD,Eilvese,,Germany,,1,439.93750,262324,BM,262324,0,,-9.400,DL9OBD,
 DB0TVH,Hannover/Stadt,,Germany,Peer,1,439.90000,262325,DMR-plus,262325,0,,-9.400,DL9OBD,TS1 TS2
-DO1KBL,Osterholz-Scharmbeck,,Germany,Peer,1,439.27500,262326,BM,262326,0,,-7.600,DO1KBL,TS1 TS2
+DO1KBL,Osterholz-Scharmbeck,Niedersachsen / Bremen,Germany,Peer,1,439.27500,262326,BM,262326,0,,-7.600,DO1KBL,TS1 TS2
 DB0KRE,Kreiensen,,Germany,,1,438.38750,262327,DMR-plus,262327,0,,-7.600,DJ3OW,TS1 TS2
 DB0OX,Norden JO33oo,,Germany,,1,439.30000,262328,DMR-plus,262328,0,,-7.600,DG1BGS,TS1 TS2
 DB0HHG,Goettingen,,Germany,,1,439.25000,262329,DMR-plus,262329,0,,-7.600,DG3ABY,TS1 TS2
@@ -7957,7 +7957,7 @@ KB9CRA,Kokomo,Indiana,United States,Peer,1,442.40000,313810,BM,313810,1,For Talk
 W4USF,Tampa,Florida,United States,Master,2,443.11250,313811,BM,313811,0,TG ID will be updated later,+5.000,W4USF,TS1 TS2
 WB4EOT,Roanoke,Virginia,United States,Peer,1,147.16500,313812,DMRVA,313812,1,"A new repeater for the DMRVA network is located on Fort Lewis Mountain near Salem, Virginia. The repeater is on the air and operational.<br>TG / TS details:<br>TG 3151 TS 2  VA Statewide<br>TG 43277 TS 2  HEARS - TG linked to N4HRS HEARS network.  www.n4hrs.org<br>TG 27500 TS 1  Local<br>TG 27501  TS 1  TAC A<br>TG 27502  TS 1  TAC B",+0.600,WB4EOT,TS1 TS2
 WH7PW,Honolulu,Hawaii,United States,Master,1,434.97500,313813,BM,313813,0,,+5.00,WH7PW,TS1 TS2
-N1OQU,Blackstone,Massachusetts,United States,Peer,1,448.62500,313814,BM,313814,0,"TS1 Local, TS2 TG91 Worldwide",-5.000,N1OQU,Mixed Mode
+K1QL,Blackstone,Massachusetts,United States,Peer,1,448.62500,313814,BM,313814,0,"TS1 Local, TS2 TG91 Worldwide",-5.000,K1QL,Mixed Mode
 K1JST,Exeter,Rhode Island,United States,Peer,2,145.31000,313815,BM,313815,0,"Unpadded TGs - BM<br>8 Padded TGs - NEDECN via CanTrbo<br>M17-M17 C CAN 0<br>Time Slot #1 - Group Call 8000759 - SKYWARN Gray, Norton, Burlington, Albany NWS<br>Time Slot #1 - Group Call 8008801 - NEDECN NE TAC 1<br>Time Slot #2 - Group Call 310381 - Local<br>Time Slot #2 - Group Call 3105992 - NB1RI Repeater Network<br>Time Slot #2 - Group Call 8003181 - NEDECN New England Wide<br>Time Slot #2 - Group Call 8003144 - NEDECN RI Statewide<br>",-0.6,K1JST,TS1 TS2
 KF7MAN,Tavares,Florida,United States,Peer,1,440.17500,313816,BM,313816,1,226,+5.000,KF7MAN,TS1 TS2
 K4CBA,Gastonia,North Carolina,United States,Peer,1,442.05000,313817,BM,313817,0,,+5.000,K4CBA,TS1 TS2
@@ -8964,6 +8964,7 @@ W5LLS,Watauga,Texas,United States,Peer,1,441.36250,314950,Brandmeister,314950,1,
 N4CWJ,Verona,Virginia,United States,Peer,1,444.96250,314951,BM,314951,1,None,+5.000,"N4CWJ, N3XA",TS1 TS2
 WB8CQV,South Charleston,West Virginia,United States,Peer,1,147.21000,314952,Master,314952,1,None,+0.600,WB8CQV,Mixed Mode
 W4LDG,Morristown,Tennessee,United States,Peer,1,442.38750,314953,BRANDMEISTER,314953,1,None,+5.000,AB4DK,TS1 TS2
+KN6ORM,Pacifica,California,United States,Peer,2,443.17500,314958,107.3.152.45,314958,1,TS1 31068 TS2 1,+5.000,KN6ORM,TS1
 WR1VT,Brattleboro,Vermont,United States,Peer,1,444.40000,315001,NEDECN,315001,1,"Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activation<br>Contact: Ira, W1IRA<br>Email: w1ira@vermontel.net<br><br>Website: http://nedecn.org",+5.000,W1IRA,TS1 TS2
 W1IMD,Pico Peak,Vermont,United States,Peer,1,444.50000,315002,NEDECN,315002,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>* = PTT Activation<br><br>Contact: Paul, W1IMD<br>Email: w1imd@arrl.net<br><br>Website: http://nedecn.org",+5.000,W1IMD,TS1 TS2
 W1UWS,Mt. Ascutney,Vermont,United States,Master,5,448.47500,315003,NEDECN,315003,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 3125 = MA Statewide* <br><br>* = PTT Activation<br>Contact: Jeff, WB2NWR<br>Email: katchenj@hotmail.com<br><br>Website: http://nedecn.org",-5.000,WB2NWR,TS1 TS2
@@ -10450,6 +10451,7 @@ PY1LDU,Marica,Rio de Janeiro,Brazil,Master,1,439.75000,724275,BM,724275,1,724,-5
 PY3KCA,Canoas,Rio Grande do Sul,Brazil,Master,1,439.25000,724276,BM,724276,0,,-5.000,PY3AQ,TS1 TS2
 PS7BBC,Mossor,Rio Grande do Norte,Brazil,Master,1,439.20000,724277,BM,724277,1,,-5.000,PS7BB,TS1 TS2
 PY6JL,Vitoria Da Conquista,Bahia,Brazil,Peer,1,439.55000,724279,BM,724279,1,None,-5.000,PY6NJ,TS2
+PY1KYZ,Macae,Rio de Janeiro,Brazil,Master,1,147.10000,724280,DMR/Brandmeister,724280,1,Repeater Macae/RJ-Brasil<br>TG724 SLOT 1<br>TG199 SLOT 1,+0.600,"PU1YGC, PY1ML",TS1 TS2
 PY3HA,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,146.77000,724301,Brandmeister,724301,0,,-0.600,PY3NZ,TS1 TS2
 PY3RPT,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,145.35000,724302,Mixed Mode,724302,0,,-0.600,PY3NZ,TS1 TS2
 PY3SMS,Guaiba,Rio Grande do Sul,Brazil,Master,1,439.55000,724303,DMR+ MASTER SUL,724303,1,,-5.000,PY5JP,TS1 TS2
