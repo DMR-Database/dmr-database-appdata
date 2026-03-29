@@ -3273,7 +3273,7 @@ DO0SH,Binsfeld,Rheinland-Pfalz / Saarland,Germany,Peer,1,439.82500,BM,0.0,0.0,26
 DO0KD,Denkendorf,Bayern,Germany,Peer,1,439.97500,BM,48.94106382960124,11.471052557212232,262207,Cluster TG26285 TS2<br>TG 26444 TS1,-9.4,ACTIVE,DO1KD,TS1 TS2
 DB0TVI,Inselsberg Thueringen,Sachsen / Thueringen,Germany,Master,1,439.51250,BM,0.0,0.0,262208,Derzeit in Vorbereitung / im Aufbau. Noch kein produktiver Betrieb.,-7.600,ACTIVE,DL8HC,Mixed Mode
 DM0RZ,Ratzeburg,,Germany,,1,439.88750,None,53.7011061,10.774288,262209,,-9.400,ACTIVE,DB5LC,
-DB0GZ,Alfeld,Niedersachsen / Bremen,Germany,Master,1,439.35000,BM,0.0,0.0,262210,26332,-7.600,ACTIVE,DL8KM,Mixed Mode
+DB0GZ,Alfeld,Niedersachsen / Bremen,Germany,Master,1,439.35000,BM,51.0000000,9.8174600,262210,26332,-7.600,ACTIVE,DL8KM,Mixed Mode
 DB0AT,Ribnitz-Damgarten,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Master,1,438.80000,BM,54.0000000,12.0000000,262212,,-7.6,ACTIVE,DB3MAX,TS1 TS2
 DB0KPI,Elmshorn,Hamburg / Schleswig-Holstein,Germany,Master,1,439.42500,BM,53.75073,9.65481,262213,Relais in Testphase<br>TS1: TG262 Deutschland | <br>TS2: TG9 Local | TG8 Regio --> TG26221 Region Hamburg-City | TG262213 (extern --> local TG9),-7.600,ACTIVE,DL8AAJ,TS1 TS2
 DB0GE,Erkelenz,Nordrhein-Westfalen,Germany,Master,1,439.56250,BM,51.718,6.124,262214,,-7.600,ACTIVE,DG2KCB,TS1 TS2
@@ -3311,8 +3311,6 @@ DB0RVH,Rostock,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,B
 DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,BM,53.7477100,13.0784000,262249,None,0.000,ACTIVE,DB3MAX,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,DMR-plus,53.648010,10.275660,262250,,-7.600,ACTIVE,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,DMR-plus,53.6635561,10.2835977,262251,,-0.600,ACTIVE,DL5KUA,TS1 TS2
-DB0GMN,Grimmen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.50000,BM,56.0000000,12.0000000,262252,None,-7.600,ACTIVE,DB3MAX,TS1 TS2
-DB0UEM,Leopoldshagen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.32500,Tetra,56.0000000,12.0000000,262253,None,-7.600,ACTIVE,DB3MAX,Mixed Mode
 DB0AIS,Moerfelden-Walldorf,Hessen,Germany,Peer,1,438.30000,BM,49.9874400,8.5922100,262254,TG 26269 TS2,-7.600,ACTIVE,"DG3FBL, DL1XM",TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,BM,53.970840,8.949069,262257,,-9.400,ACTIVE,DF1RL,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,DMR-plus,53.635181,10.386677,262260,,-7.600,ACTIVE,DL5KUA,TS1 TS2
@@ -4157,7 +4155,7 @@ S55DSV,Spanov vrh,Gorenjska,Slovenia,Peer,3,438.22500,BM,46.459621,14.069625,293
 S55DTO,Tolmin,Primorsko - Notranjska,Slovenia,Peer,1,439.27500,BM,46.176109,13.763016,293046,"TS1: 293, 293112<br>TS2: 2935, 29351",-7.600,ACTIVE,S52X,TS1 TS2
 S55DBR,Pod Stolom,Primorsko - Notranjska,Slovenia,Peer,1,439.15000,BM,46.26751,13.45306,293047,"TS1: 293, 293112<br>TS2: 2935, 29351",-7.6,ACTIVE,S52X,TS1 TS2
 S55DAR,Stol,Gorenjska,Slovenia,Peer,1,439.40000,BM,46.433889,14.173889,293048,TG293 TS1<br>TG 2934 TS2<br>Solar powered Hytera RD985,-7.600,ACTIVE,S56CT,Mixed Mode
-S55VCE,Mrzlica,Zasavska,Slovenia,Peer,1,145.70000,BM,0.0,0.0,293049,,-0.600,ACTIVE,S56CT,Mixed Mode
+S55VCE,Mrzlica,Zasavska,Slovenia,Peer,1,145.70000,BM,46.1874900,15.1074600,293049,,-0.600,ACTIVE,S56CT,Mixed Mode
 S55DKK,Cretez,Posavska,Slovenia,Peer,1,438.37500,BM,45.9673493,15.4608106,293050,,-7.600,ACTIVE,S56CT,Mixed Mode
 S55VLI,Lisca,Posavska,Slovenia,Peer,1,145.57500,BM,46.067967,15.284804,293051,,-0.600,ACTIVE,S56CT,Mixed Mode
 S55DIZ,Malija - Izola,,Slovenia,Master,1,438.22500,BM,45.503455,13.643639,293052,,-7.600,ACTIVE,S56RGA,Mixed Mode
@@ -4173,8 +4171,8 @@ Z36AEC,Gostivar City,,Macedonia,,1,434.60000,None,,,294002,,-1.600,ACTIVE,Z31AEC
 Z35UGV,Gostivar,,Macedonia,Master,1,434.60000,"BM, DMR+, TGIF",0.0,0.0,294003,,-1.600,ACTIVE,Z36AEC,TS1 TS2
 Z35VGV,Gostivar,,Macedonia,Master,1,145.60000,"BM, DMR+, TGIF",0.0,0.0,294004,,-1.600,ACTIVE,Z36AEC,TS1 TS2
 Z35UKU,Kumanovo,,Macedonia,Master,1,434.61250,BrandMeister,0.0,0.0,294005,,-1.600,ACTIVE,Z37CXY,TS1 TS2
-Z35USR,Strumica,All Regions,Macedonia,Master,1,438.65000,BrandMeister,41.4351000,0.0,294007,"294, 2949",-7.600,ACTIVE,Z33AI,TS1 TS2
-Z35VSR,Strumica,All Regions,Macedonia,Master,1,145.60000,BrandMeister,41.4350846,0.0,294008,"294, 2949",-0.600,ACTIVE,Z33AI,TS1 TS2
+Z35USR,Strumica,All Regions,Macedonia,Master,1,438.65000,BrandMeister,41.4351000,22.6325258,294007,"294, 2949",-7.600,ACTIVE,Z33AI,TS1 TS2
+Z35VSR,Strumica,All Regions,Macedonia,Master,1,145.60000,BrandMeister,41.4350846,22.6325258,294008,"294, 2949",-0.600,ACTIVE,Z33AI,TS1 TS2
 Z36AMB,Prilep Severna Makedonia,All Regions,Macedonia,Master,1,438.65000,"BM,DMR-MARC",0.0,0.0,294009,"TG 1 294 TG 2 2948,220,2949",-7.600,ACTIVE,Z36AMB,TS1 TS2
 Z35UGE,Gevgelija,All Regions,Macedonia,Master,1,434.60000,BrandMeister,0.0,0.0,294010,,-1.600,ACTIVE,Z33AI,TS1 TS2
 Z35UEA,Skopje,All Regions,Macedonia,Master,1,434.70000,BrandMeister,0.0,0.0,294011,294<br>2941<br>29444,-1.600,ACTIVE,Z37RAM,TS1 TS2
@@ -4182,7 +4180,7 @@ Z35UOH,Ohrid,All Regions,Macedonia,Master,1,434.65000,BrandMeister,0.0,0.0,29401
 Z35UPP,Prilep Severna Makedonia,All Regions,Macedonia,Master,1,438.65000,"BM,DMR",0.0,0.0,294015,294,-7.600,ACTIVE,Z37S,TS1 TS2
 Z35USI,Veles,All Regions,Macedonia,Master,1,438.82500,BrandMeister,0.0,0.0,294016,294<br>29413<br>29444,-7.6000,ACTIVE,Z37RAM,TS1 TS2
 Z35VPP,Prilep Severna Makedonia,All Regions,Macedonia,Peer,1,145.60000,"BM,DMR-MARC",0.0,0.0,294017,"Slot1:294<br>Slot2:2948,29411",-0.600,ACTIVE,Z31ABZ,TS1 TS2
-Z35UKI,Kichevo,All Regions,Macedonia,Peer,0,438.65000,BrandMeister,0.0,0.0,294018,"294, 2944",-7.600,ACTIVE,"Z33AI, Z34M",TS1 TS2
+Z35UKI,Kichevo,All Regions,Macedonia,Peer,0,438.65000,BrandMeister,41.5050000,20.9530560,294018,"294, 2944",-7.600,ACTIVE,"Z33AI, Z34M",TS1 TS2
 HB0FL,Gaflei,,Liechtenstein,,1,438.45000,BrandMeister,,,295999,,-7.600,ACTIVE,HB0TR,
 4O0LPG,Ljubovic Podgorica,,Montenegro,,1,145.60000,DMR-plus,42.463531,19.323534,297001,,-0.600,ACTIVE,4O3S,TS1 TS2
 4O0UKO,Lovcen Cetinje,,Montenegro,,1,438.67500,None,42.399239,18.818554,297002,,-7.600,ACTIVE,4O6ZD,
@@ -10071,7 +10069,7 @@ FR1ZCC,Le Port,,Reunion,,1,430.57500,None,,,647011,,9.400,ACTIVE,FR4NP,
 FR1ZBO,Le Port,,Reunion,,1,430.26250,DMR-plus,0.0,0.0,647012,,9.400,ACTIVE,FR4NP,TS1 TS2
 FR1ZBS,Cilaos,,Reunion,,1,430.42500,None,0.0,0.0,647013,,9.400,ACTIVE,FR4NP,
 FR1ZAW,Le Tampon,,Reunion,Master,1,439.40000,BM,0.0,0.0,647014,,-9.00,ACTIVE,FR4FE,TS2
-FR1ZCK,LA POSSESSION,,Reunion,Master,1,144.53500,BM,0.0,0.0,647015,,+0.000,ACTIVE,FR1LC,Mixed Mode
+FR1ZCK,la possession,All Regions,Reunion,Master,1,144.53500,BM,-20.9848000,55.3772000,647015,,+0.000,ACTIVE,FR1LC,Mixed Mode
 FR5ZAE,St gilles,,Reunion,Peer,1,443.50000,BM,0.0,0.0,647016,,-0.600,ACTIVE,FR5FC,TS1 TS2
 FR1ZCM,ST-PIERRE,,Reunion,Master,1,432.37500,WIRES-X,0.0,0.0,647017,Relais c4fm wires-x de saint-Pierre ile de la Reunion connecté par defaut à la room wires-x-reunion dtmf:  87779.,+6.000,ACTIVE,FR4IG,Mixed Mode
 FR1ZAX,Le Tampon,,Reunion,Peer,1,438.17500,BM,0.0,0.0,647018,,-0.600,ACTIVE,FR4FE,TS2
@@ -10459,7 +10457,6 @@ PY1LDU,Marica,Rio de Janeiro,Brazil,Master,1,439.75000,BM,-22.9137389,-42.812811
 PY3KCA,Canoas,Rio Grande do Sul,Brazil,Master,1,439.25000,BM,,,724276,,-5.000,ACTIVE,PY3AQ,TS1 TS2
 PS7BBC,Mossoró,Rio Grande do Norte,Brazil,Master,1,439.20000,BM,-5.201638,-37.301579,724277,,-5.000,ACTIVE,PS7BB,TS1 TS2
 PY6JL,Vitoria Da Conquista,Bahia,Brazil,Peer,1,439.55000,BM,-14.8550293,-40.8591050,724279,None,-5.000,ACTIVE,PY6NJ,TS2
-PY1KYZ,Macae,Rio de Janeiro,Brazil,Master,1,147.10000,DMR/Brandmeister,-22.9518922,-43.2104568,724280,Repeater Macae/RJ-Brasil<br><br>TG 724 - SLOT 1<br>TG 199 - SLOT 1<br>TG 724280 - SLOT 2 (REPEATER)<br>TG 2 - SLOT 2 (LOCAL REPEATER),+0.600,ACTIVE,"PU1YGC, PY1ML",TS1 TS2
 PY3HA,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,146.77000,Brandmeister,-30.100000,-51.180000,724301,,-0.600,ACTIVE,PY3NZ,TS1 TS2
 PY3RPT,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,145.35000,Mixed Mode,0.0,0.0,724302,,-0.600,ACTIVE,PY3NZ,TS1 TS2
 PY3SMS,Guaiba,Rio Grande do Sul,Brazil,Master,1,439.55000,DMR+ MASTER SUL,-26.801901,-48.933102,724303,,-5.000,ACTIVE,PY5JP,TS1 TS2
