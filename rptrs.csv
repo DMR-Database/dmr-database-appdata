@@ -729,7 +729,7 @@ ED5ZAM,ALICANTE,,Spain,,1,438.35000,214519,BM,214519,1,,-7.600,EA5ABE,TS1 TS2
 ED5ZAN,MURCIA,,Spain,,1,438.25000,214520,BM,214520,1,,-7.600,EA5ABE,TS1 TS2
 ED5YAT,Aguilas,,Spain,,1,145.62500,214525,DMR-plus,214525,1,,0.600,EA5RCU,TS1 TS2
 ED5ZAD,Cid Petrer Alicante,,Spain,,1,439.17500,214555,BM,214555,1,,-7.600,EC5W,TS1 TS2
-ED5ZAI,Denia,,Spain,,1,438.40000,214566,DMR-plus,214566,1,,-7.600,EA5III,TS1 TS2
+ED5ZAI,Denia,,Spain,,1,438.40000,214566,DMR-plus,214566,1,,-7.600,"EA5III, EB5FOL",TS1 TS2
 ED6ZAA,FELANITX - MALLORCA,,Spain,,1,430.65000,214601,DMR-plus,214601,1,,7.600,EA6QJ,TS1 TS2
 ED6ZAB,Randa - Mallorca,,Spain,,1,438.45000,214602,DMR-plus,214602,1,,-7.600,EA6QJ,TS1 TS2
 ED7ZAJ,CCMD/Gibalbin-Cadiz,,Spain,,1,438.60000,214701,DMR-plus,214701,1,,-7.600,EA7DYY,TS1 TS2
@@ -3311,8 +3311,6 @@ DB0RVH,Rostock,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,2
 DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,262249,BM,262249,1,None,0.000,DB3MAX,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,262250,DMR-plus,262250,1,,-7.600,DL5KUA,TS1 TS2
 DB0HHO,Grosshansdorf,,Germany,,1,145.61250,262251,DMR-plus,262251,1,,-0.600,DL5KUA,TS1 TS2
-DB0GMN,Grimmen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.50000,262252,BM,262252,1,None,-7.600,DB3MAX,TS1 TS2
-DB0UEM,Leopoldshagen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.32500,262253,Tetra,262253,1,None,-7.600,DB3MAX,Mixed Mode
 DB0AIS,Moerfelden-Walldorf,Hessen,Germany,Peer,1,438.30000,262254,BM,262254,1,TG 26269 TS2,-7.600,"DG3FBL, DL1XM",TS1 TS2
 DB0ALF,Alfeld,Niedersachsen / Bremen,Germany,Master,1,439.50000,262255,Brandmeister,262255,1,26332<br>26337,-7.600,"DL8KM, DL1OFD",Mixed Mode
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,262257,BM,262257,1,,-9.400,DF1RL,TS1 TS2
@@ -4010,6 +4008,7 @@ LZ0DAF,Achtopol,,Bulgaria,Master,1,438.45000,284997,DMR-plus,284997,1,,-7.600,LZ
 LZ0PLD,Plovdiv,,Bulgaria,Peer,1,438.80000,284998,BrandMeister,284998,0,,-7.600,LZ1CWT,TS1 TS2
 LZ0ZAF,Plovdiv,,Bulgaria,Master,1,438.70000,284999,DMR-plus,284999,1,,-7.600,LZ1ZAF,TS1 TS2
 YM5KKE,AKSARAY,Central Anatolia Region,Turkiye,Peer,1,439.16250,286001,2841,286001,1,2862012,-7.600,"TA2ZE, TA5HY",TS1 TS2
+YM1KK,Istanbul,Marmara Region,Turkiye,Peer,1,439.22500,286002,BM,286002,1,9286,-7.600,TA1EAT,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.15000,286010,BM,286010,1,286010,-7.600,TA5FW,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.16250,286011,BM,286011,1,286011,-7.600,TA5FW,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.25000,286012,BM,286012,1,286012,-7.600,TA5FW,TS1 TS2
@@ -4081,7 +4080,7 @@ YM1KE,Istanbul,,Turkiye,,1,439.17500,286340,BM,286340,0,,-7.600,TA1MD,TS1 TS2
 YM1KWB,Istanbul,,Turkiye,,1,439.38750,286341,BM,286341,0,,-7.600,TA1TW,TS1 TS2
 YM1KAT,Istanbul,,Turkiye,,1,439.27500,286342,None,286342,0,,-7.600,TA1IJK,
 YM1KYA,Avcilar,,Turkiye,Master,1,145.73750,286343,BM,286343,1,,-0.600,TA2MEK,TS1 TS2
-YM1KK,Istanbul,Marmara Region,Turkiye,Peer,1,439.22500,286344,BM,286344,1,,-7.600,"TA1EAT, TA2SK",TS1 TS2
+YM1KK,Istanbul,Marmara Region,Turkiye,Peer,1,439.22500,286344,BM,286344,1,,-7.600,TA1EAT,TS1 TS2
 YM2KRA,Camlica Kule,,Turkiye,Master,1,439.16250,286345,BM,286345,1,,-7.600,TA2MEK,TS1 TS2
 YM3KM,Izmir Konak,,Turkiye,,1,439.15000,286350,BM,286350,0,,-7.600,TA3CP,TS1 TS2
 YM3KC,Izmir,Aegean Region,Turkiye,Peer,1,439.17500,286351,BM,286351,1,28635,-7.600,TA3TX,TS1 TS2
@@ -5101,7 +5100,7 @@ W7AW,Seattle,Washington,United States,Master,2,440.97500,310534,SeattleDMR.org,3
 KM6IRY,Manteca,California,United States,master,14,439.12500,310535,Brandmeister,310535,1,310658 - TS2,+5.000,KM6IRY,1 and 2
 KA5AHS,Atlanta,Texas,United States,Peer,9,440.52500,310536,CBridge 2.0,310536,1,,+5.000,KA5AHS,1 and 2
 W0OES,Riverside,Missouri,United States,Stand-alone,5,448.45000,310537,DMR,310537,1,,-5,W0OES,2
-KH7MS,Kailua Kona,Hawaii,United States,Peer,2,444.95000,310538,BrandMeister,310538,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1<br>,+5.000,KH7MS,TS1 TS2
+KH7MS,Kailua Kona,Hawaii,United States,Peer,2,444.95000,310538,BrandMeister,310538,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1,+5.000,KH7MS,TS1 TS2
 AB6BP,Merced,California,United States,Peer,1,145.37000,310539,BrandMeister,310539,1,,-0.600,AB6BP,1/2
 W1VAN,Fort Collins,Colorado,United States,master,2,147.16500,310540,Brandmeister,310540,1,3171,+600,W1VAN,TS 1/TS2
 W1VAN,Fort Collins,Colorado,United States,master,2,446.90000,310541,Brandmeister,310541,1,,-5.000,W1VAN,TS1 TS2
@@ -5287,7 +5286,7 @@ WX6D,Place Holder,California,United States,Peer,1,438.00000,310741,Mountain West
 WX6D,Mariposa,California,United States,Master,1,442.28750,310742,Mountain West DMR,310742,1,,+5.000,KE6YJC,TS1 TS2
 W4VCO,Clermont,Florida,United States,Peer,1,442.45000,310743,Interstate-2 Network,310743,1,"TS, TG, Talkgroup Name, Full-Time/PTT<br>================================<br>1, 1, World Wide Calling, PTT<br>1, 3, North America Calling, PTT<br>1, 13, WW English Calling, PTT<br>1, 3172, Northeast Regional, FT<br>1, 3112, Florida Statewide, FT<br>2, 2, Local 2, FT<br>2, 3173, MidAtlantic Regional, PTT<br>2, 3174, Southeast Regional, PTT<br>2, 3175, Southern Plains Regional, PTT<br>2, 31121, First Coast (NE FL), PTT<br>2, 310, TAC310, PTT<br>2, 311, TAC311, PTT<br>2, 312, TAC312, PTT<br>2, 313, TAC313, PTT<br>2, 314, TAC314, PTT<br>2, 315, TAC315, PTT<br>2, 316, TAC316, PTT<br>2, 317, TAC317, PTT<br>2, 318, TAC318, PTT<br>2, 319, TAC319, PTT<br>2, 9998, DMRX Parrot, PTT<br>2, 9999, NorCal Audio Test, PTT",+5.000,W4VCO,TS1 TS2
 W4VCO,Welcome,Florida,United States,Peer,1,443.81250,310744,Interstate-2 Network,310744,1,"TS, TG, Talkgroup Name, Full-Time/PTT<br>================================<br>1, 1, World Wide Calling, PTT<br>1, 3, North America Calling, PTT<br>1, 13, WW English Calling, PTT<br>1, 3172, Northeast Regional, FT<br>1, 3112, Florida Statewide, FT<br>2, 2, Local 2, FT<br>2, 3173, MidAtlantic Regional, PTT<br>2, 3174, Southeast Regional, PTT<br>2, 3175, Southern Plains Regional, PTT<br>2, 31121, First Coast (NE FL), PTT<br>2, 310, TAC310, PTT<br>2, 311, TAC311, PTT<br>2, 312, TAC312, PTT<br>2, 313, TAC313, PTT<br>2, 314, TAC314, PTT<br>2, 315, TAC315, PTT<br>2, 316, TAC316, PTT<br>2, 317, TAC317, PTT<br>2, 318, TAC318, PTT<br>2, 319, TAC319, PTT<br>2, 9998, DMRX Parrot, PTT<br>2, 9999, NorCal Audio Test, PTT",+5.000,W4VCO,TS1 TS2
-KH7MS,Ocean View,Hawaii,United States,Peer,1,444.95000,310745,BrandMeister,310745,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1<br>,+5.000,KH7MS,TS1 TS2
+KH7MS,Ocean View,Hawaii,United States,Peer,1,444.95000,310745,BrandMeister,310745,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1,+5.000,KH7MS,TS1 TS2
 W8FLH,Greenville,Ohio,United States,Master,1,443.68750,310746,Brandmeister/TGIF/P25,310746,1,"MMDVM based repeater, connected to Brandmeister and TGIF Networks. Also supports P25.",+5.000,W8FLH,Mixed Mode
 AE4ML,Spotsylvania,Virginia,United States,Master,1,442.40000,310747,BM,310747,1,DMR Repeater,+5.00,AE4ML,TS1 TS2
 KB5DMT,Love Station,Mississippi,United States,Peer,1,431.92500,310748,DixieDMR.radio,310748,1,Dixie  DMR   <br><br>   dixiedmr.com<br><br>TS1              TS2<br>317               31292<br>312808        310501   <br>310272        310514   <br>                          <br><br>,+15.00,KB5DMT,TS1 TS2
@@ -5396,7 +5395,7 @@ KG6TN,San Mateo,California,United States,Master,1,443.92500,310859,None,310859,1
 WD5EFY,Lufkin,Texas,United States,Peer,9,440.00000,310860,CBridge 2.0,310860,1,,+5.000,WD5EFY,TS1 & TS2
 W9YZI,Princeton,Minnesota,United States,master,3,442.50000,310861,brandmister,310861,1,WELCOME TO MY DMR REPEATER  PLEASE ENJOY IT  73 FROM W9YZI <br>,+5000,W9YZI,1&2
 KD7HP,Stevensville,Montana,United States,peer,1,449.42500,310862,Brandmeister,310862,1,dynamic,-5,KD7HP,TS1 TS2
-KH7MS,Ocean View,Hawaii,United States,Peer,1,145.41000,310863,BrandMeister,310863,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net<br><br><br><br>,-0.600,KH7MS,TS1 TS2
+KH7MS,Lani Kona,Hawaii,United States,Peer,1,145.41000,310863,BrandMeister,310863,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net,-0.600,KH7MS,TS1 TS2
 W2WAY,Kenosha,Wisconsin,United States,Peer,9,927.88750,310864,ChicagoLand,310864,1,Time Slot 1 WI State TG 3155 Full time<br>Time Slot 2 SE WI Region TG 440 Full time ARES<br>See ChicagoLand Website for complete Time Slot TG Matrix<br>http://chicagoland-cc.org/index.html,-25.000,W2WAY,TS1 TS2
 NH6HI,Kalaheo,Hawaii,United States,Peer,1,442.22500,310866,BrandMeister/DMR,310866,0,,+5.000,NH6HI,1&2
 WA0DE,Highlands Ranch,Colorado,United States,Peer,1,445.08750,310867,BM,310867,1,,-5.000,WA0DE,TS1 TS2
@@ -6637,7 +6636,7 @@ AA6RH,Santa Rosa,California,United States,Peer,1,443.38750,312225,BM,312225,1,,+
 K6JR,Reno,Nevada,United States,Master,1,444.05000,312226,Western States DMR,312226,1,,+5.000,K6JR,TS1 TS2
 N5FRT,La Grange,Texas,United States,Master,9,441.55000,312227,"BM, DMR-MARC",312227,1,,+5.000,NA5RC,TS1 TS2
 N3JHS,Levittown,Pennsylvania,United States,Master,1,430.20000,312228,BM,312228,1,Link to Allstar,+5.000,N3JHS,TS1
-KH7MS,Naalehu,Hawaii,United States,Peer,1,444.95000,312229,BrandMeister,312229,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1<br>YSF 31150 Hawaii<br>P25 Hawaii TG 3115 <br>P25 TG 1 Local,+5.000,KH7MS,Mixed Mode
+KH7MS,Naalehu,Hawaii,United States,Peer,1,444.95000,312229,BrandMeister,312229,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1<br>YSF 31150 Hawaii<br>P25 Hawaii TG 3115<br>P25 TG 1 Local,+5.000,KH7MS,Mixed Mode
 KC5JMJ,Lake Charles,Louisiana,United States,Master,10,224.20000,312231,Ham United,312231,1,,+5.000,KC5JMJ,TS1 TS2
 KD6MTU,Redding,California,United States,Master,1,440.05000,312232,bm,312232,1,,+5.000,KD6MTU,Mixed Mode
 KB7APU,Ripplebrook Mt Hood National Forest,Oregon,United States,Peer,3,440.63750,312233,OR SAR,312233,1,"OREGON SAR REPEATER--SEE USER GUIDE--WWW.SARDMR.COM<br>TALK GROUPS--TS1  3187 PNW 1, NO QSO, CALLING ONLY<br>3141 OREGON 1, ACTIVATED BY SCHEDULE AND PTT ONLY<br>3153 WASHINGTON 1, PTT SPECIAL USE ONLY<br>3181 LOCAL 1--PRIMARY USE- ALL STATIONS ON THE NETWORK MONITOR LOCAL 1, LINKED WITH ALL REPEATERS<br>9998 PARROT AUDIO READBACK<br>TIME SLOT 2--3166 LOCAL 2, LOCAL REPEATER CHAT, DOES NOT TIE UP ENTIRE NETWORK<br>31771 PNW REGIONAL, ACTIVED BY SCHEDULE ONLY FOR NET<br>3 SEARCH AND RESCUE TALK GROUPS ARE NOT PUBLISHED BUT FOLKS ARE WELCOME TO LISTEN IN.<br>NOTE--NOT A BRANDMEISTER REPEATER.  ONLY USE SUPPORTED TALK GROUPS LISTED HERE.  SYSTEM SUPPORTS MOTOROLA ROAMING ONLY, NO OTHER ROAMING OR APRS SUPPORTED.",+5.00,KB7APU,TS1 TS2
@@ -6646,7 +6645,7 @@ KC0FTV,Pinewood,Minnesota,United States,Master,6,443.50000,312236,BM,312236,1,,+
 KG5RWA,Shreveport,Louisiana,United States,Master,10,444.65000,312237,BM,312237,1,Dynamic Use,+5.000,KG5RWA,Mixed Mode
 AC5FD,HOUSTON,Texas,United States,Peer,7,441.35000,312238,LONESTAR,312238,1,LOCAL Group 2 - Backyard Test Repeater. 40ft DB408 with Motorola XPR8400 at 45W,+5.000,AC5FD,TS1 TS2
 K7JEO,Whitepine,Colorado,United States,Master,1,438.50000,312239,BM,312239,1,"Internet tied DMR repeater servicing both time slots.  Solar powered, so may not always be available.  Right now input is on 145.5 and output is on 438.5 until I get a duplexer.  Radioid will not let me put that in",-293.0,K7JEO,TS1 TS2
-KH7MS,Kealakekua,Hawaii,United States,Peer,1,443.40000,312240,BrandMeister,312240,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1<br>,+5.000,KH7MS,TS1 TS2
+KH7MS,Kealakekua,Hawaii,United States,Peer,1,443.40000,312240,BrandMeister,312240,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1,+5.000,KH7MS,TS1 TS2
 KD8OXV,Traverse City,Michigan,United States,Peer,1,443.31250,312241,BM,312241,1,Northern Michigan District 7 Aux Comm,+5.000,KD8OXV,TS2
 N4RMG,Rome,Georgia,United States,Master,1,442.23750,312243,BM,312243,1,,+5.0,N4RMG,TS1 TS2
 AI6BX,Redlands,California,United States,Peer,3,446.62000,312244,Brandmeister,312244,1,Part of the PAPA System,-5.000,AI6BX,TS1 TS2
@@ -6694,7 +6693,7 @@ NE1DS,Concord,New Hampshire,United States,Master,1,145.48000,312285,"cnharcNET, 
 W5ROS,Elmendorf,Texas,United States,Master,1,147.34000,312286,DMR,312286,1,,+0.600,NS5A,TS1 TS2
 W5ROS,Adkins,Texas,United States,Master,1,442.00000,312287,DMR,312287,1,TS1 = Local   Static TG15 or TG2<br>TS2 = Static TG 3148   Texas<br>                     TG 31482 South Texas<br>,+5.000,NS5A,TS1 TS2
 AF1G,Kathleen,Georgia,United States,Master,3,443.51250,312288,Brandmeister,312288,1,Under construction,+5.000,AF1G,TS2
-KH7MS,Hilo,Hawaii,United States,Peer,1,444.95000,312289,BrandMeister,312289,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1<br>P25 Hawaii TG 3115 <br>P25 TG 1 Local,+5.000,KH7MS,Mixed Mode
+KH7MS,Hilo,Hawaii,United States,Peer,1,444.95000,312289,BrandMeister,312289,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1<br>P25 Hawaii TG 3115<br>P25 TG 1 Local,+5.000,KH7MS,Mixed Mode
 KD7YUW,Toponas,Colorado,United States,Peer,11,449.47500,312290,bm,312290,1,,-5.0,KD7YUW,TS1 TS2
 N4MPC,Marietta,Georgia,United States,Master,1,440.77500,312292,BrandMeister,312292,1,Portable Repeater,+5.000,N4MPC,TS1 TS2
 KB0CGJ,Wabasso,Minnesota,United States,Peer,10,444.52500,312293,BM,312293,1,KB0CGJ Repeater 444.525/449.525 Kenwood TKR-850 using STM32-DVM Pi_Star,+5.000,KB0CGJ,TS1 TS2
@@ -7585,7 +7584,7 @@ W3WDD,Dillsboro,North Carolina,United States,Peer,4,902.70000,313378,Sandbox,313
 W3WDD,Franklin TEMP,North Carolina,United States,Peer,1,444.20000,313379,NC-PRN,313379,1,See NCPRN.net,+5.00,W3WDD,TS1 TS2
 W3WDD,Raleigh,North Carolina,United States,Peer,1,443.33750,313380,NC-PRN,313380,1,,+5.00,W3WDD,TS1 TS2
 W3WDD,Raleigh,North Carolina,United States,Peer,1,442.21250,313381,NC-PRN,313381,1,,+5.000,W3WDD,TS1 TS2
-KD9QDL,AUBURN,Indiana,United States,Master,1,441.96250,313382,DMR,313382,1,,+5.000,KD9QDL,TS1 TS2
+KD9QDL,AUBURN,Indiana,United States,Master,1,441.96250,313382,DMR,313382,1,,+5.000,"KD9QDL, KB9QG",TS1 TS2
 K6ER,Sausalito,California,United States,Master,2,442.52500,313383,DMR,313383,1,,+5.00,K6ER,TS1 TS2
 KB8UB,Munith,Michigan,United States,Peer,1,442.32500,313384,dmr-marc,313384,1,,+5.0000,KB8UB,TS1 TS2
 KB8POO,Jackson,Michigan,United States,Peer,1,145.12000,313385,BrandMeister,313385,1,,-0.600,KB8POO,TS1 TS2
@@ -7970,7 +7969,7 @@ KB8VLL,BAXTER SPRINGS,Kansas,United States,Peer,5,443.88750,313818,DMR,313818,1,
 K6BJ,Santa Cruz,California,United States,Master,1,440.92500,313819,BM,313819,1,,+5.000,K6BJ,Mixed Mode
 AC3DB,Evans City,Pennsylvania,United States,Master,8,443.70000,313820,BM,313820,1,,+5.000,AC3DB,TS1 TS2
 N1DTA,Springfield,Kentucky,United States,Peer,1,443.12500,313821,kentuckydmr c bidge,313821,1,,+5.000,N1DTA,TS1 TS2
-N1DTA,BROOKSVILLE 2,Kentucky,United States,Peer,1,444.98750,313822,kentuckydmr c bidge,313822,1,,+5.000,N1DTA,TS1 TS2
+N1DTA,BROOKSVILLE ky,Kentucky,United States,Peer,1,444.98750,313822,kentuckydmr c bidge,313822,1,,+5.000,N1DTA,TS1 TS2
 W4VCO,Indian Lake Estates,Florida,United States,Peer,1,444.68750,313826,Interstate,313826,1,LCL 2<br>RIDGE 8<br>LCL 9<br>FL3112<br>TAC 310<br>,+5.000,W4VCO,TS1 TS2
 N8ESG,Cleveland,Ohio,United States,Master,1,442.81250,313827,N8NOD,313827,1,Temporarily off air for maintenance as of 6/15/24. Hope to have it back up soon!,+5.000,N8ESG,TS1 TS2
 W4TFW,Decatur,Alabama,United States,Master,1,442.07500,313828,BM,313828,1,,+5.000,W4TFW,Mixed Mode
@@ -8456,7 +8455,7 @@ N9ATO,Lisle,Illinois,United States,Peer,8,442.12500,314375,CCC,314375,1,"This is
 W9GIL,Arlington Heights,Illinois,United States,Master,1,440.02500,314376,BM,314376,1,310 311 312 313 314 315,+5.000,W9GIL,TS1 TS2
 KC8SFR,Jackson,Michigan,United States,Peer,1,439.55000,314377,BM,314377,1,,+5.000,KC8SFR,TS1 TS2
 KA0WUX,Haigler,Nebraska,United States,Master,1,444.67500,314378,bm,314378,0,,+5.000,KA0WUX,TS1 TS2
-WB9CSP,Paris,Texas,United States,Peer,2,441.55000,314379,DMR-MARC,314379,1,,+5.000,WB9CSP,Mixed Mode
+WB9CSP,Paris,Texas,United States,Peer,7,441.55000,314379,DMR-MARC,314379,1,,+5.000,WB9CSP,Mixed Mode
 K4BLA,Bladenboro,North Carolina,United States,Peer,1,440.61250,314380,BM,314380,1,"TS2 Static TG's -  Local, Link to Whiteville, NC and Myrtle Beach repeaters, and 31373 (NC Eastern)<br>TS1 BM Dynamic TG's",+5.000,K4BLA,TS1 TS2
 AB7CQ,Tombstone,Arizona,United States,Master,0,444.60000,314383,IMRS,314383,1,,+5.000,AB7CQ,Mixed Mode
 W5AWP,Corinth,Mississippi,United States,Master,1,441.80000,314384,BM,314384,1,,+5.00,W5AWP,Mixed Mode
@@ -8973,6 +8972,7 @@ KN6ORM,Pacifica,California,United States,Peer,2,443.17500,314958,107.3.152.45,31
 KF4HJW,NEWPORT NEWS,Virginia,United States,Peer,1,440.51250,314959,Brandmister,314959,1,None,5.000,KF4HJW,TS1 TS2
 W2WWW,Keller,Texas,United States,Peer,1,441.28500,314960,Brandmeister,314960,1,TS1/9 local<br>TS2/31817,+5.000,W2WWW,TS1 TS2
 NG6K,Saratoga Springs,Utah,United States,Peer,1,447.42500,314961,AmComm,314961,1,"AmComm DMR is the primary network, and no special user configuration is necessary. BrandMeister accessible through DMRGateway and appending 8 (eight) in front of a talkgroup ID and then zero padding the talkgroup ID out to seven digits if necessary. For example BM Utah Statewide 3149 becomes 8003149",-5.000,NG6K,Mixed Mode
+N3BBF,Potomac,Maryland,United States,Peer,1,442.90000,314963,Brandmeister (planned),314963,1,None,+5.000,N3BBF,Mixed Mode
 WR1VT,Brattleboro,Vermont,United States,Peer,1,444.40000,315001,NEDECN,315001,1,"Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activation<br>Contact: Ira, W1IRA<br>Email: w1ira@vermontel.net<br><br>Website: http://nedecn.org",+5.000,W1IRA,TS1 TS2
 W1IMD,Pico Peak,Vermont,United States,Peer,1,444.50000,315002,NEDECN,315002,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>* = PTT Activation<br><br>Contact: Paul, W1IMD<br>Email: w1imd@arrl.net<br><br>Website: http://nedecn.org",+5.000,W1IMD,TS1 TS2
 W1UWS,Mt. Ascutney,Vermont,United States,Master,5,448.47500,315003,NEDECN,315003,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 3125 = MA Statewide* <br><br>* = PTT Activation<br>Contact: Jeff, WB2NWR<br>Email: katchenj@hotmail.com<br><br>Website: http://nedecn.org",-5.000,WB2NWR,TS1 TS2
@@ -10578,7 +10578,6 @@ CE2DJA,Vina del Mar,Valparaiso,Chile,Peer,1,438.15000,730215,BrandMeister,730215
 CE2UGO,VALPARAISO,Valparaiso,Chile,None,1,433.50000,730216,Master Chile,730216,1,,+5.000,CE2UGO,TS1
 CE2KVL,valparaiso,Coquimbo,Chile,None,1,434.95000,730217,DMR BM,730217,1,,+5.000,CE2KVL,TS1 TS2
 CE2AND,Los Andes,Valparaiso,Chile,Peer,1,147.21000,730218,BM-Chile 7301,730218,1,,+0.600,CE2PZJ,TS1 TS2
-CE3DY,pte alto,Reg.Metr. de Santiago,Chile,Peer,1,145.44000,730302,BM,730302,1,"730 ,7303 ,730911 ,7304 ,7305",-0.600,CE3DY,TS1 TS2
 CE3AA,SANTIAGO,Reg.Metr. de Santiago,Chile,None,1,146.64000,730307,DMR-MARC,730307,1,,-0.600,CE3AA,None
 CD3FTS,Maipu,Reg.Metr. de Santiago,Chile,Master,1,147.00000,730308,192.168.11.1,730308,1,,-0.600,CD3FTS,TS1
 CE3HIR,santiago,Reg.Metr. de Santiago,Chile,None,1,145.40000,730309,192.168.11.1,730309,1,,+0.600,XQ2HIR,TS1 TS2

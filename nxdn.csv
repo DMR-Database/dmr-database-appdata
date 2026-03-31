@@ -431,7 +431,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 434,KG5RDF,David,Coppell,Texas,United States
 435,W9NNH,Melanie,Columbia City,Indiana,United States
 436,KN4TYX,Daniel,Valdosta,Georgia,United States
-437,AI7PM,Phillip S,Cheyenne,Wyoming,United States
+437,AI7PM,Phillip,Cheyenne,Wyoming,United States
 438,KE6YJC,Ted,Bakersfield,California,United States
 439,KA6VHA,Rubens,West Covina,California,United States
 440,WZ5TX,Tyler,Fort Worth,Texas,United States
@@ -1671,7 +1671,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 1685,KM3DIC,Dodge,Idaho Falls,Idaho,United States
 1686,KB4JFB,John,Sebring,Florida,United States
 1687,HS7OIR,Sumatee,Danchang,Suphan Buri,Thailand
-1688,WB2UZR,Scott E,Melbourne,Florida,United States
+1688,WB2UZR,Scott,Melbourne,Florida,United States
 1689,KI5LWT,Bjorn,The Woodlands,Texas,United States
 1690,WA6DC,David,Santa Barbara,California,United States
 1691,KC3CDU,Timothy A,New Florence,Pennsylvania,United States
@@ -2363,7 +2363,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2390,KH6ML,Michael C,Kaneohe,Hawaii,United States
 2391,IK7WUP,Marino,Marina di Ginosa,Apulia  Basilicata,Italy
 2392,9W2OZE,Mohd,kota bharu,East Malaysia,Malaysia
-2393,K4DFD,Christopher,Dublin,Virginia,United States
+2393,K4DFD,Christophe,Dublin,Virginia,United States
 2394,K4HPY,Robert L,Church Hill,Tennessee,United States
 2395,KF7MLE,David S,Portland,Oregon,United States
 2396,YO2PCC,Cristian,Rudna,Hunedoara  Timis,Romania
@@ -4273,7 +4273,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4327,G8PYT,Steve,Stourbridge,England,United Kingdom
 4328,VK2FKWA,John,koorawatha,New South Wales,Australia
 4329,R6FIQ,Nikolay,Невинномысск,All Regions,Russia
-4330,PY1PC,Anderson,,Rio de Janeiro,Brazil
+4330,PY1PC,Anderson,Rio De Janeiro,Rio de Janeiro,Brazil
 4331,K7MHI,Kelly,Oak Harbor,Washington,United States
 4332,KF0FPS,Kristopher,Omaha,Nebraska,United States
 4333,VK6CIA,Saul,Perth,Western Australia,Australia
@@ -10067,7 +10067,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 10200,KA1EFE,Vaughn,Granby,Connecticut,United States
 10201,RC7KL,Dmitry,Simferopol,All Regions,Russia
 10203,KO4RXE,Wendell,Crittenden,Kentucky,United States
-10204,YG3BRB,Hafid,Surabaya,Jawa Timur,Indonesia
+10204,TA2CNK,Cenk,Samsun,Black Sea Region,Turkiye
 10205,N7WSS,William,Tucson,Arizona,United States
 10206,AE6CH,Steven,San Jose,California,United States
 10207,VE1CSE,Robert,New Minas,Nova Scotia,Canada
@@ -10154,7 +10154,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 10288,K3DZM,Dylan,Oxford,Pennsylvania,United States
 10289,KI7BXQ,Terry,Corvalls,Oregon,United States
 10290,N3YD,Russel,Youngsville,Pennsylvania,United States
-10291,KJ5JOM,Robert,Terrell,Texas,United States
+10291,KJ5JOM,Bob,Terrell,Texas,United States
 10292,SP9GKW,Kinga,Czestochowa,śląskie,Poland
 10293,N4JHR,John,Longwood,Florida,United States
 10294,YG1ARH,Abu,Bandung,Jawa Barat,Indonesia
@@ -10705,7 +10705,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 10842,VA3GOV,Daniel,Toronto,Ontario,Canada
 10843,M7WKY,David,Watford,England,United Kingdom
 10845,KF8EBV,Michael,Farmington Hills,Michigan,United States
-10846,YC3BRB,Hafid,Surabaya,Jawa Timur,Indonesia
+10846,YB3BRB,Hafid,Surabaya,Jawa Timur,Indonesia
 10847,M0WGD,Derek,North Hykeham,England,United Kingdom
 10848,F4FVV,Pierre,Rive-De-Gier,Auvergne-Rhone-Alpes,France
 10849,KB6MAT,Matt,Apple Valley,California,United States
@@ -13638,8 +13638,26 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 13811,TA2RE,TRAC KOCAELI,Kocaeli,Marmara Region,Turkiye
 13812,K9VAD,Gregory,Oak Lawn,Illinois,United States
 13813,YY4CAD,Paveldiaz,Maracay,Aragua,Venezuela
+13814,TA3EXA,Emre,Bursa,Marmara Region,Turkiye
 13815,KG4BKO,Bill,Vidalia,Georgia,United States
 13816,SP4DLD,Andrzej,Bialystok,podlaskie,Poland
+13817,R3ZBS,Dmitriy,Novy Oskol,All Regions,Russia
+13818,RA3KLY,Mihail,Voronej,All Regions,Russia
+13819,HB9LGL,Martin,Bern,Bern,Switzerland
+13820,N4JKO,Morgan,Vine Grove,Kentucky,United States
+13821,IZ8SUO,Alessio,Caserta,Molise  Campania  Calabria,Italy
+13822,DL0DE,Club Station,Castrop Rauxel,Nordrhein-Westfalen,Germany
+13823,OK1BF,Roman,Pardubice,Pardubice Region,Czech Republic
+13824,KJ5PCI,Don,White Hall,Arkansas,United States
+13825,KO4VTH,Michael,Orlando,Florida,United States
+13826,KR4KXS,Jesus,Orlando,Florida,United States
+13827,KR4KOJ,Joe,Paris,Kentucky,United States
+13828,VE3TJH,Todd,Toronto,Ontario,Canada
+13829,VE2HXK,Henry,Montreal,Quebec,Canada
+13830,LU5UL,Jorge,General Pico,La Pampa,Argentina Republic
+13831,K4RVC,Raymond,Arlington,Texas,United States
+13832,KD5KDI,Mark,Lamont,Oklahoma,United States
+13833,YV5CBO,Carlos,La Guaira,Distrito Capital,Venezuela
 13903,W8KHW,Kevin,Columbus,Ohio,United States
 13904,W8KHW,Kevin,Columbus,Ohio,United States
 13905,AK9AK,Jim,Placitas,New Mexico,United States
