@@ -284,10 +284,10 @@ ON0VBT,Asse,Vlaams Brabant,Belgium,Peer,1,430.37500,206019,BM,206019,1,,+1.600,O
 ON0HAS,Hasselt,Limburg,Belgium,Master,1,439.41250,206020,BM,206020,1,,-7.600,ON4ABR,TS1 TS2
 ON0VTI,Tielt,West-Vlaanderen,Belgium,Peer,1,439.47500,206021,BM,206021,1,,-7.6,ON4AAK,TS1 TS2
 ON0BTS,Wavre,Wal. Brabant,Belgium,Peer,2,438.75000,206022,BM,206022,1,,-7.600,ON4LBO,TS1 TS2
-ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,439.30000,206023,BM,206023,1,206 2066,-7.600,ON7ASZ,TS1 TS2
+ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,438.67500,206023,BM,206023,1,206 2066,-7.600,ON7ASZ,TS1 TS2
 ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,438.67500,206024,BM,206024,1,Sloten TG1 TG2,-7.600,ON7ASZ,TS1 TS2
 ON0MSF,Ixelles,Brussels,Belgium,Master,2,439.27500,206025,BM,206025,1,,-7.6000,ON6RF,TS1 TS2
-ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,439.30000,206026,BM,206026,1,TG1 en TG2,-7.600,ON7ASZ,TS1 TS2
+ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,438.67500,206026,BM,206026,1,TG1 en TG2,-7.600,ON7ASZ,TS1 TS2
 ON0DV,Eupen,Liege,Belgium,Peer,1,439.30000,206027,Brandmeister,206027,1,None,-7.600,ON4LFE,TS1 TS2
 ON0UHF,Oostduinkerke,West-Vlaanderen,Belgium,Master,1,145.63750,206028,Brandmeister,206028,1,None,-0.600,ON6UHF,TS1 TS2
 ON0GRC,Gent,Oost-Vlaanderen,Belgium,Peer,1,439.08750,206101,BM,206101,1,,-7.600,ON4AKH,TS1 TS2
@@ -1108,7 +1108,7 @@ IR3ZXU,Castello Tesino,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.95000
 IR0ZYH,Rocca Priora RM,Lazio / Umbria / Sardinia,Italy,Peer,1,430.27500,222249,ADN-2224,222249,1,SL1 = TG222<br>SL1 = TG222995<br>SL2 = TG22201,+1.600,IU6SSZ,TS1 TS2
 IR1ZYN,Santo Stefano d Aveto,Piedmont / Liguria / Aosta,Italy,Master,1,430.52500,222250,BM,222250,1,,+5.000,IW4ELZ,TS1 TS2
 IR3ZXH,Domegge di Cadore,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.81250,222251,BM,222251,1,,-285.425,IW3GXX,TS1 TS2
-IR3ZXX,Villorba,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,144.10000,222252,BM,222252,1,222345 RETE DOLOMITI,+0.00000,IZ3HPC,TS2
+IR3ZXX,Villorba,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.00000,222252,BM,222252,1,222345 RETE DOLOMITI,+0.00000,IZ3HPC,TS2
 IR1ZZN,Perosa Argentina,Piedmont / Liguria / Aosta,Italy,Master,1,430.16250,222253,BM,222253,1,,+5.000,IW1ELM,TS1 TS2
 IW3BUA,Bolzano,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.38750,222255,BM,222255,1,Hytera RD985.,+1.600,IW3BTS,TS1 TS2
 IR0ZYD,Punta Tricoli  lanusei,Lazio / Umbria / Sardinia,Italy,Master,1,430.78750,222256,BM,222256,1,TG 22202  SLOT2<br>TG 222        SLOT1,+5.000,IW0UQF,TS1 TS2
@@ -1282,6 +1282,7 @@ IR4S,Monte Canate,Emilia-Romagna,Italy,,1,430.62500,222444,BM,222444,1,,4.413,IW
 IR3YZB,Adria,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,3,430.27500,222445,WindTre,222445,1,None,+1.600,IW3IFD,TS1 TS2
 IR3ZWD,Belluno,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,431.48750,222446,BM,222446,1,,+1.600,IU3GQH,TS1 TS2
 IR4ZZA,Borghi,Emilia-Romagna,Italy,Peer,1,144.63750,222447,Brandmeister,222447,1,None,0.000,IW4EHJ,TS2
+IR1ZVJ,Giarolo,Piedmont / Liguria / Aosta,Italy,Peer,0,431.35000,222448,BM,222448,1,None,+1.600,IZ1MLF,TS1 TS2
 IR1UFY,Giarolo,Piedmont / Liguria / Aosta,Italy,Master,1,430.28750,222449,BM,222449,1,,+1.600,IZ1MLF,TS1 TS2
 IR2UDZ,Monte Santa Franca,Emilia-Romagna,Italy,Peer,1,430.82500,222450,BM,222450,1,,+5.000,IZ4AKM,TS1 TS2
 IR9ZVU,Palermo,Sicily,Italy,Master,1,430.17500,222451,DMR,222451,1,,+1.600,IW9CHH,TS1 TS2
@@ -1936,7 +1937,6 @@ GB7RG,Stranraer,Scotland,United Kingdom,Peer,5,430.98750,234140,Brandmeister,234
 GB7IX,Westcliff-On-Sea,England,United Kingdom,Master,0,430.93750,234141,FreeSTAR Network,234141,1,,+7.6,2E1HWE,TS1
 MB5KT,KEIGHLEY,England,United Kingdom,Master,5,430.30000,234142,"DVS Phoenix, FreeDMR, BM",234142,1,Part of the Yorkshire Net (TG23450 TS1). Follows the DVS Phoenix Talkgroup scheme at https://dvsph.net/talk-groups<br>Also allows Brandmeister TG91-TG95 and HubNet UK TG23526 on time slot 2 with no prefix required.,+9.000,M0DIT,TS1 TS2
 GB3HL,Insch,Scotland,United Kingdom,Master,1,430.88750,234143,BM,234143,1,TS1 is static on 23558 Highlands and Islands<br>TS2 is available for all other TG's,+7.600,GM5DMR,TS1 TS2
-GB7DO,DONCASTER,England,United Kingdom,Peer,2,439.70000,234144,Brandmeister,234144,1,,-9.0000,G1ILF,TS1 TS2
 GB3BU,Bude,England,United Kingdom,Peer,1,430.96250,234145,SW Cluster,234145,1,TS1 - 9 Local<br>TS2 - 950 South West Cluster,+7.6,G1BHM,TS1 TS2
 GB3BG,near Winkleigh,England,United Kingdom,Peer,1,145.75000,234146,dmr,234146,1,TG950<br>TG9,-0.600,G7SOJ,TS1 TS2
 GB7YS,Southport,England,United Kingdom,Master,1,430.98750,234147,cumbriaCQ.com,234147,1,https://cumbriaCQ.com,+7.6,M5LEE,Mixed Mode
@@ -9380,7 +9380,6 @@ UN0UFA,Pavlodar,Pavlodar,Kazakhstan,Master,1,438.90000,401001,internet,401001,1,
 UN7UPA,Karamgandy,,Kazakhstan,Master,1,145.65000,401002,BrandMeister,401002,1,MM DVM repeater,-0.600,UN7PDP,24/7
 UN7UZA,Astana,Akmola,Kazakhstan,Peer,1,439.43750,401003,BrandMeister,401003,1,MMDVM repeater Working at Digital Mode only in Astana city. Callsign: UN7UZA Any questions - to Anatoly UN7BBJ or Dmitriy UN7ZAF,-7.600,UN7UZA,TS1 TS2
 UN7BWW,Shuchinsk,Akmola,Kazakhstan,Peer,1,145.62500,401004,DMR-MARC,401004,0,,-0.600,UN7ECY,TS1 TS2
-UN0UIA,Aktobe,Aktobe,Kazakhstan,Master,1,145.72500,401005,BM,401005,1,Tested,-0.600,UN7IY,TS1 TS2
 UN6UGA,Almaty,Almaty,Kazakhstan,Peer,1,145.65000,401006,BrandMeister,401006,1,,-0.600,UN6GDM,TS1 TS2
 UN7UIY,Aktobe,Aktobe,Kazakhstan,Master,1,439.43750,401007,BM,401007,1,TS1 / Any Dynamic TG's<br>TS2 / TG 9 (Local),-7.60000,UN7IY,TS1 TS2
 UN7UBZ,Kokshetau,Akmola,Kazakhstan,Master,1,145.65000,401008,BrandMeister,401008,0,,-0.600,UN1EAU,TS1 TS2
@@ -9583,7 +9582,7 @@ BH2TJT,Dalian,Heilongjiang Jilin Liaoning,China,Peer,7,423.35000,460101,BM,46010
 BR2AF,Harbin,Heilongjiang Jilin Liaoning,China,Master,7,438.90000,460102,BM,460102,1,TS1:46005/TS2:46001,-10.000,BG2GA,TS1 TS2
 BR3OO,Tangshan,Shanxi Hebei Tianjin,China,Master,8,438.91250,460103,BM,460103,1,460315<br>46001,-6.6,BH3RVR,TS1 TS2
 BR5IE,Nanchang,Zhejiang Fujian Jiangxi,China,Master,1,439.80000,460104,BM,460104,1,,-4.00,BG5IPL,TS1
-BR4TYJ,WU XI,Shanghai Shandong Jiangsu,China,Master,9,431.95000,460105,PM01CN,460105,0,,-8.000,BH4THI,TS1
+BR4TYJ,WU XI,Shanghai Shandong Jiangsu,China,Master,9,439.95000,460105,PM01,460105,0,,-8.000,BH4THI,TS1
 BR4IN,Jinan,Shanghai Shandong Jiangsu,China,Master,5,439.15000,460106,BM,460106,0,Time Slot 1# - Group Call 46001 = China National group<br>Time Slot 2# - Group Call 460531 = Jinan Local Organizations,-5.000,BI4KIA,TS1 TS2
 BH2UJC,ShenYang,Heilongjiang Jilin Liaoning,China,Master,10,439.85000,460108,BMDMR-MARC,460108,1,,-5.000,BH2UJC,TS1 TS2
 BR2RD,Shenyang,Heilongjiang Jilin Liaoning,China,Master,10,439.12500,460109,DMR-MARC,460109,1,,-7.600,BD2XYZ,TS1 TS2
