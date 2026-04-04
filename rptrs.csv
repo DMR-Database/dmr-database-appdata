@@ -1188,7 +1188,7 @@ IR3UII,Comune di Tarcento,,Italy,,1,431.12500,222333,DMR-plus,222333,1,,1.600,IV
 IR3UGD,Jaufen - Giovo,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.53750,222334,BM,222334,1,,+1.600,IW3AMQ,Mixed Mode
 IR3EF,Monte Bernadia(UD),,Italy,Master,1,145.58750,222335,BM,222335,1,,-1.600,IW3QOJ,TS1 TS2
 IR3UFM,Schoeneben - Belpiano,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.58750,222336,BM,222336,1,,+5.000,IW3AMQ,Mixed Mode
-IQ3VO,Verona,,Italy,,1,430.90000,222337,BM,222337,1,,5.000,IZ3ATU,TS1 TS2
+IQ3VO,Verona,,Italy,,1,430.90000,222337,BM,222337,1,,5.000,IZ4ATU,TS1 TS2
 IR3DV,Kronplatz - Plan de Corones,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.52500,222338,BM,222338,1,,+1.600,IW3AMQ,Mixed Mode
 IR3EB,Piz Chavalatsch - Cavallaccio,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.52500,222339,BM,222339,1,,+1.600,IW3AMQ,Mixed Mode
 IR3ZYG,CIMA EKAR,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.48750,222340,BM,222340,1,,+1.6000,I3WTT,TS1 TS2
@@ -1772,7 +1772,7 @@ OE4XSB,Sonnenberg,Burgenland,Austria,,1,438.72500,232402,DMR-plus,232402,1,,-7.6
 OE4XBJ,Markt Allhau,Burgenland,Austria,,1,438.32500,232403,DMR-plus,232403,1,,-7.600,OE4KMU,TS1 TS2
 OE5XLL,Lichtenberg,,Austria,Master,1,438.47500,232501,DMR-plus,232501,0,,-7.600,OE5RNL,TS1 TS2
 OE5XGL,Gmunden,Oberoesterreich,Austria,Master,1,438.80000,232502,DMR-plus,232502,1,,-7.600,OE5PON,TS1 TS2
-OE5XKL,Krippenstein,Oberoesterreich,Austria,,1,438.50000,232504,DMR-plus,232504,1,,-7.600,OE5VFM,TS1 TS2
+OE5XKL,Krippenstein,Oberoesterreich,Austria,Peer,1,438.50000,232504,DMR-plus,232504,1,,-7.600,OE5VFM,TS1 TS2
 OE5XIM,Sternstein,Oberoesterreich,Austria,,1,438.25000,232518,DMR-plus,232518,1,,-7.600,OE5KPN,TS1 TS2
 OE5XDN,Senftenbach Wolfau,Oberoesterreich,Austria,,1,438.42500,232555,None,232555,0,,7.600,OE5RLN,
 OE6XAG,Schoeckl,Steiermark,Austria,Master,1,438.60000,232601,DMR-plus,232601,1,,-7.600,OE6DJG,TS1 TS2
@@ -2109,7 +2109,7 @@ GB7LD,Leyland Lancashire,England,United Kingdom,,15,439.43750,235213,,235213,1,,
 GB7BA,Bradford,England,United Kingdom,Peer,13,439.76250,235214,DMR-plus,235214,1,,-9.000,G1XCC,TS1 TS2
 GB7HN,Leigh Lancashire,England,United Kingdom,,1,430.87500,235216,None,235216,1,,7.600,M0HOY,
 GB7JC,Liverpool,England,United Kingdom,,3,439.46250,235217,BM,235217,1,,-9.000,G7KDZ,TS1 TS2
-GB7KU,Kirkby Underwood,England,United Kingdom,Peer,5,439.52500,235218,DMR-plus,235218,1,,-9.000,G6SSN,TS1 TS2
+GB7KU,Kirkby Underwood,England,United Kingdom,Peer,5,430.96250,235218,Freestar,235218,1,,7.600,G6SSN,TS1 TS2
 GB7TQ,Great hill Torquay,England,United Kingdom,,4,430.88750,235219,None,235219,1,,7.600,G8XST,
 GB7XX,Felling,England,United Kingdom,Peer,10,439.46250,235220,BM,235220,1,,-9.000,G4MSF,TS1 TS2
 GB7SI,Stoke-on-Trent,England,United Kingdom,,10,439.46250,235221,DMR-plus,235221,1,,-9.000,G8NSS,TS1 TS2
@@ -2412,7 +2412,7 @@ SG4AVE,Bodetta,,Sweden,,4,434.92500,240403,BrandMeister,240403,0,,-2.000,SA4AVE,
 SM4YXI,JO79OG,,Sweden,,4,434.53750,240406,None,240406,0,,-2.000,SM4YXI,
 SK4TL,KUMLA,,Sweden,,4,434.72500,240407,None,240407,1,,-2.000,SM4HNG,TS1 TS2
 SK4KO,Mora,,Sweden,,4,434.72500,240408,None,240408,1,,-1.600,SM4JLX,
-SG4JK,TrNngstad Kil,,Sweden,,4,433.67500,240409,None,240409,1,,0.000,SA4JPK,
+SG4JK,Kil,Varmland,Sweden,Peer,4,145.62500,240409,Narrow city link,240409,1,,0.600,SA4JPK,Mixed Mode
 SK4RGL,Falun,,Sweden,,1,434.62500,240410,DMR-plus,240410,1,,-2.000,SM4KUH,TS1 TS2
 SM4WIU,Leksand,Dalarna,Sweden,Peer,4,434.61250,240411,BM,240411,1,,-2.000,SM0WIU,TS1 TS2
 SK4WV,Aeppelbo,,Sweden,,4,434.66250,240420,BM,240420,1,,-2.000,SA4BHE,TS1 TS2
@@ -2574,9 +2574,9 @@ OH6RUB,KP12LW,,Finland,Master,1,434.62500,244102,BM,244102,1,OH6AC club test rep
 OH2DMRP,Pusula,All Regions,Finland,Peer,1,434.53750,244103,BM,244103,1,,-2.000,OH2LAK,TS1 TS2
 OH2DMRI,Inkoo,All Regions,Finland,Peer,1,434.50000,244104,BM,244104,1,,-2.000,OH2LAK,TS1 TS2
 OH6RAH,Seinajoki,,Finland,Master,1,434.67500,244105,BM,244105,1,,-2.000,OH6AH,Mixed Mode
-OH7DMRL,Lieksa,,Finland,Master,1,438.13750,244106,BM,244106,1,,-5.000,OH7AB,TS1 TS2
+OH7DMRL,Lieksa,All Regions,Finland,Master,1,438.13750,244106,BM,244106,1,,-5.000,OH7AB,TS1 TS2
 OI5RUC,Kouvola,,Finland,Peer,1,434.82500,244107,FREEDMR,244107,1,244,-2.000,OI5AZ,TS1 TS2
-OH7RUB,Fin 80101 Joensuu Finland,,Finland,Peer,1,434.65000,244108,FreeDMR,244108,1,,-2.000,OH7AB,TS1 TS2
+OH7RUB,Joensuu,All Regions,Finland,Peer,1,434.65000,244108,FreeDMR,244108,1,,-2.000,OH7AB,TS1 TS2
 OH7DMRO,Outokumpu,All Regions,Finland,Master,1,438.07500,244109,BM,244109,1,"244, 2447, 24472",-5.000,"OH7AB, OH7JANI",TS1 TS2
 OH8DMRO,Oulu,,Finland,Master,1,438.07500,244110,BM,244110,1,,-5.000,OH8T,TS1 TS2
 OH1DMRT,Turku,,Finland,Master,1,438.10000,244111,BM,244111,1,,+5.000,OH1AA,TS1 TS2
@@ -2618,7 +2618,7 @@ OH6RUL,laukaa,All Regions,Finland,Master,1,434.57500,244661,BM,244661,1,,-2.0,"O
 OH6RAG,Jakobstad FI,,Finland,,1,145.78750,244666,None,244666,0,,-0.600,OH6XI,
 OH6RAQ,Jamsa OH6D,,Finland,Peer,1,434.51250,244699,BM,244699,1,,-2.000,OH6JAT,TS1 TS2
 OH7RAA,Kuopio,,Finland,,1,434.58750,244701,BM,244701,1,,-2.000,OH7VM,TS1 TS2
-OH7DMRJ,Joensuu,,Finland,Master,1,438.08750,244702,BM,244702,1,,-5.000,OH7AB,TS1 TS2
+OH7DMRJ,Joensuu,All Regions,Finland,Master,1,438.08750,244702,BM,244702,1,,-5.000,OH7AB,TS1 TS2
 OH8RMD,Kempele Finland,,Finland,Peer,1,434.57500,244801,BM,244801,1,,-2.000,OH6NVG,TS1 TS2
 OH8RMD,Radiotie Kiiminki,,Finland,,1,145.63750,244802,BM,244802,1,,-0.600,OH6NVG,TS1 TS2
 OH8RAC,Kuusamo,,Finland,Peer,1,145.72500,244803,BM,244803,1,,-0.600,OH6NVG,TS1 TS2
@@ -3969,7 +3969,7 @@ LZ0RVA,Pazardgik,,Bulgaria,,1,438.95000,284010,DMR-plus,284010,0,,-7.600,LZ1RVD,
 LZ0RVB,Sofia,,Bulgaria,,1,439.45000,284011,DMR-plus,284011,0,,-7.600,LZ1RVD,TS1 TS2
 LZ0DAR,Ruse,,Bulgaria,Peer,1,438.25000,284012,IPSC2,284012,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
 LZ0DDK,Shumen,Shumen,Bulgaria,Peer,1,439.57500,284013,DMR-plus,284013,1,,-7.600,LZ4ZD,TS1 TS2
-LZ0DDS,Sliven,,Bulgaria,,1,439.52500,284014,DMR-plus,284014,0,,-7.600,LZ1TUK,TS1 TS2
+LZ0DDS,Sliven,Sliven,Bulgaria,Peer,1,439.52500,284014,DMR-plus,284014,0,,-7.600,"LZ1TUK, LZ1AA, LZ1ZAF",TS1 TS2
 LZ0DDB,Breznik,,Bulgaria,Peer,1,438.45000,284015,DMR-plus,284015,1,,-7.600,LZ1WDX,TS1 TS2
 LZ0GYD,KN32ER,,Bulgaria,,1,145.42500,284016,DMR-plus,284016,0,,0.600,LZ5GY,TS1 TS2
 LZ0DOE,Peak. Black peak,,Bulgaria,,1,145.62500,284017,DMR-plus,284017,0,,-0.600,LZ1CLD,TS1 TS2
@@ -4435,6 +4435,7 @@ VE4CTY,Brandon,Manitoba,Canada,Peer,4,443.70000,302270,BM,302270,1,,+5.000,VE4CT
 VA3OHR,Ingersoll,Ontario,Canada,Peer,1,443.45000,302271,BM,302271,1,,+5.000,VA3EZT,Mixed Mode
 VE3RTY,Madoc,Ontario,Canada,Peer,1,146.86500,302272,BM,302272,1,Testing from Home location on Dummy load,-0.600,VA3JWO,TS1 TS2
 VE2REM,Greenfield Park,Quebec,Canada,Peer,1,448.50000,302273,BM,302273,1,,-5.000,VE2UMS,TS1 TS2
+VE3IMR,Courtice,Ontario,Canada,Master,2,442.56250,302274,BM,302274,1,,+5.000,VA3AG,TS2
 VE2RFJ,Trois Pistoles,Quebec,Canada,Master,7,444.00000,302275,DMR,302275,1,,+5.000,VE2EIM,TS1
 VE2TWX,Sherbrooke,Quebec,Canada,Master,1,444.95000,302276,BM,302276,1,,+5.000,VA2BEO,TS1
 VE3STR,St Thomas,Ontario,Canada,Master,1,443.82500,302277,BM,302277,1,"Main repeater ID, TG 302277.",+5.000,"VE3NEM, VE3NRJ",TS1 TS2
@@ -4559,7 +4560,7 @@ VE3UKC,Ballantrae,Ontario,Canada,Master,1,444.30000,302426,BM,302426,1,,+5.000,V
 VE3ZRB,Milton,Ontario,Canada,Master,1,443.95000,302427,BM,302427,1,,+5.000,VE3BNI,Mixed Mode
 VE3YXU,Ingersoll,Ontario,Canada,Master,1,444.80000,302428,BM,302428,1,"local  TG2 andTG9<br>will connect with VE3STR 302277 DMR TG2,<br>110 feet omni antenna  6.5 dbi gain <br>35 watts output",+5.0000,VE3NRJ,TS1 TS2
 VE3SKY,Etobicoke,Ontario,Canada,Peer,1,443.10000,302429,BM,302429,1,,+5.000,VE3GFX,Mixed Mode
-VE3EUC,Elmira,Ontario,Canada,Peer,1,444.53750,302430,BM,302430,1,TG for Elmira Radio Club TBD,+5.000,VE3ERC,TS1 TS2
+VE3EUC,Alma,Ontario,Canada,Peer,1,444.53750,302430,BM,302430,1,TG for Elmira Radio Club TBD,+5.000,VE3ERC,TS1 TS2
 VE9ARC,Moncton,New Brunswick,Canada,Peer,1,147.19500,302431,RXP25,302431,1,,+0.600,VE9HV,TS1
 VE7USA,Victoria,British Columbia,Canada,Peer,1,444.25000,302432,dmr-marc,302432,1,,+5.00,VE7BEU,TS1 TS2
 VE9DRS,Sussex Corner,New Brunswick,Canada,Peer,1,444.62500,302434,BM,302434,1,,+5.000,VE9SDH,TS1 TS2
@@ -8977,6 +8978,7 @@ N3BBF,Potomac,Maryland,United States,Peer,1,442.90000,314963,Brandmeister (plann
 N3DN,Camden,Delaware,United States,Peer,1,447.87500,314964,Brandmeister,314964,1,Local Repeater on Shared non protected frequency,-5.000,N3DN,TS1 TS2
 KC3VAU,Lewisburg,Pennsylvania,United States,Peer,1,147.27000,314965,1029797,314965,1,None,+0.600,"KC3VAU, KB3KUM",Mixed Mode
 KC3VAU,Lewisburg,Pennsylvania,United States,Peer,1,444.60000,314966,1029797,314966,1,None,-5.000,KC3VAU,TS1
+K5TKR,Longview,Texas,United States,Peer,1,440.60000,314967,BM,314967,1,None,+5.000,K5TKR,TS1 TS2
 WR1VT,Brattleboro,Vermont,United States,Peer,1,444.40000,315001,NEDECN,315001,1,"Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activation<br>Contact: Ira, W1IRA<br>Email: w1ira@vermontel.net<br><br>Website: http://nedecn.org",+5.000,W1IRA,TS1 TS2
 W1IMD,Pico Peak,Vermont,United States,Peer,1,444.50000,315002,NEDECN,315002,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>* = PTT Activation<br><br>Contact: Paul, W1IMD<br>Email: w1imd@arrl.net<br><br>Website: http://nedecn.org",+5.000,W1IMD,TS1 TS2
 W1UWS,Mt. Ascutney,Vermont,United States,Master,5,448.47500,315003,NEDECN,315003,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 3125 = MA Statewide* <br><br>* = PTT Activation<br>Contact: Jeff, WB2NWR<br>Email: katchenj@hotmail.com<br><br>Website: http://nedecn.org",-5.000,WB2NWR,TS1 TS2
@@ -9692,7 +9694,6 @@ VK3RTA,Beulah,Victoria,Australia,Peer,1,147.07500,505033,DMR-MARC,505033,1,,+0.6
 VK2RAY,ALBURY NSW 2640,New South Wales,Australia,Peer,1,438.57500,505034,DMR,505034,1,"Placeholder for now, still under construction.",-5.000,VK2EWC,TS1 TS2
 VK2RUM,Lower_Hunter,New South Wales,Australia,Peer,1,438.62500,505035,DMR-MARC,505035,1,,-7.000,VK2FC,TS1 TS2
 VK3RAH,Knoxfield,Victoria,Australia,Peer,1,438.85000,505036,Brandmeister,505036,1,Switched over to Brandmeister 24/07/22.<br>Static TG's:<br>TS1 - TG 505<br>TS2 - TG 5053<br><br>All other TG's are user activated.,-7.0,"VK3AH, VK3SMC",TS1 TS2
-VK2RBA,Bombala,New South Wales,Australia,Master,1,438.83750,505037,VK-DMR,505037,1,,-7.000,VK2ARN,TS1 TS2
 VK3RAJ,Upwey,Victoria,Australia,Peer,1,438.77500,505038,VK-DMR,505038,1,,-7.000,VK3AJ,TS1 TS2
 VK3RSA,Emerald,Victoria,Australia,Peer,1,438.80000,505039,VK-DMR,505039,1,,-7.000,VK3AJ,TS1 TS2
 VK3RYN,Yallourn North,Victoria,Australia,Peer,1,438.72500,505041,VK-DMR,505041,1,,-7.000,VK3AJ,TS1 TS2
@@ -9711,8 +9712,8 @@ VK4RBA,ROCHEDALE,Queensland,Australia,Peer,1,438.72500,505057,VKDMR,505057,1,,-7
 VK2ZTV,Cardiff Heights,New South Wales,Australia,Master,1,438.90000,505058,vkdmr,505058,1,,-7.000,VK2ZTV,TS1 TS2
 VK2RCN,Port Macquarie,New South Wales,Australia,Peer,1,438.42500,505059,VK-DMR,505059,1,,-5.000,VK2BOR,TS1 TS2
 VK4RJW,Rockhampton,Queensland,Australia,Master,1,438.81250,505060,DMR,505060,1,TG5 TG505 TG3804,-7.000,VK4RJW,TS1 TS2
-VK3RCQ,Bendigo 2M,Victoria,Australia,Peer,1,147.32500,505061,VK-DMR,505061,1,505<br>5<br>3800<br>3801<br>3802<br>3803<br>3804<br>,+0.600,VK3DMR,TS1 TS2
-VK3RCQ,Bendigo 70cm,Victoria,Australia,Peer,1,438.85000,505062,"VK-DMR, BM",505062,1,505<br>5<br>3800<br>3801<br>3802<br>3803<br>3804,-7.0000,VK3DMR,Mixed Mode
+VK3RCQ,Bendigo,Victoria,Australia,Peer,1,147.32500,505061,VK-DMR,505061,1,505<br>5<br>3800<br>3801<br>3802<br>3803<br>3804,+0.600,VK3DMR,TS1 TS2
+VK3RCQ,Bendigo,Victoria,Australia,Peer,1,438.85000,505062,"VK-DMR,",505062,1,505<br>5<br>3800<br>3801<br>3802<br>3803<br>3804,-7.0000,VK3DMR,Mixed Mode
 VK2RNW,NARRABRI,New South Wales,Australia,Master,1,438.57500,505064,DMR-MARC,505064,1,,-7.000,VK2AJ,TS1 TS2
 VK3RSU,Mt Waverley,Victoria,Australia,Peer,1,438.82500,505065,VK-DMR,505065,1,,-7.000,VK3AJ,TS1 TS2
 VK4ZTG,Mt ISA NW QUEENSLAND,Queensland,Australia,Peer,1,146.62500,505066,VKDMR,505066,1,,-0.600,VK4ZTG,TS1 TS2
@@ -9726,7 +9727,7 @@ VK2ROJ,Corlette,New South Wales,Australia,Peer,1,439.70000,505074,BM,505074,1,,-
 VK2RDO,Coffs Harbour,New South Wales,Australia,Peer,1,439.87500,505075,DMR,505075,1,,-5.000,VK2VK,TS2
 VK2RMP,Wollongong  Nsw 2500,New South Wales,Australia,Master,1,438.72500,505076,VKDMR,505076,1,,-5.000,VK2AMW,TS1 TS2
 VK2RAY,ALBURY,New South Wales,Australia,Peer,1,438.57500,505077,BrandMeister,505077,1,,-7.000,VK3ERW,TS1 TS2
-VK3RCQ,Bendigo 70cm,Victoria,Australia,Peer,1,438.85000,505078,VKDMR,505078,1,505<br>5<br>3800<br>3801<br>3802<br>3803<br>3804<br>,-7.0000,VK3DMR,TS1 TS2
+VK3RCQ,Bendigo,Victoria,Australia,Peer,1,438.85000,505078,VKDMR,505078,1,505<br>5<br>3800<br>3801<br>3802<br>3803<br>3804,-7.0000,VK3DMR,TS1 TS2
 VK2RCM,Cooma,New South Wales,Australia,Peer,1,439.92500,505079,BM,505079,1,,-5.000,VK2CBD,TS1 TS2
 VK2RCM,Jindabyne,New South Wales,Australia,Peer,1,439.92500,505080,BM,505080,1,,-5.000,VK2CBD,TS1 TS2
 VK2YHX,Newcastle,New South Wales,Australia,Master,1,438.75000,505082,BM,505082,1,"505, 50525",-7.000,VK2YHX,TS1 TS2
@@ -9809,7 +9810,7 @@ VK3AS,Horsham,Victoria,Australia,Peer,1,438.32500,505307,BM,505307,1,,-7.000,VK3
 VK3RMM,Mt Macedon,Victoria,Australia,Peer,1,439.27500,505308,BM-DMR Network,505308,1,TS1 - For State and local Talkgroups<br>TS2- 505 Australia Talkgroup,-5.000,VK3BWI,TS1 TS2
 VK3RPS,Mt Cottrell,Victoria,Australia,Peer,1,439.72500,505309,VK-DMR Network,505309,1,TS 1 - TG 1 = Worldwide Calling (2 min max)<br>TS 1 - TG 5 = VK-DMR Club & Amateur Broadcasts<br>TS 1 - TG 9 = Local Repeater only<br>TS 1 - TG 13 = Worldwide English<br>TS 1 - TG 30 = Jota for VK<br>TS 1 - TG 53 = User Activated for chatting<br>TS 1 - TG 113= User Activated English 1<br>TS 1 - TG 123= User Activated English 2<br>TS 1 - TG 133 = DMR+ USA<br>TS 1 - TG 143 = DMR+ UK<br>TS 1 - TG 153 = DMR+ South Pacific<br>TS 2 - TG 505 = VK DMR Linked repeaters<br>TS 1 - TG 3801 ~ 3808 General Chat<br>TS 1 - TG 3809 = Second TS for chatting<br>TS 1 - TG 3810 = WICEN<br><br>You Must Have [ARS] Disabled Within Your Radio.<br>You Must Have [GPS] Disabled Within Your Radio.<br><br>Contact: Peter Brennan VK3TE<br>Email: VK3TE@bigpond.com,-5.000,VK3TE,TS1 TS2
 VK3RBQ,Dimboola,Victoria,Australia,Peer,1,147.20000,505311,dmr,505311,1,,0.6,VK3KAY,Mixed Mode
-VK3JMA,Hampton Park,Victoria,Australia,None,1,438.77500,505312,BM,505312,1,,-5.000,VK3JMA,Mixed Mode
+VK3JMA,Hampton Park,Victoria,Australia,Master,1,438.77500,505312,BM,505312,1,,-5.000,VK3JMA,Mixed Mode
 VK3RBA,Mt Buninyong,Victoria,Australia,Peer,1,439.98750,505317,Brandmeister Network,505317,1,TS1 - For State and local Talkgroups<br>TS2- 505 Australia Talkgroup,-5.000,VK3TIM,TS1 TS2
 VK3RGV,Mt Wombat,Victoria,Australia,Peer,1,438.90000,505318,VK-DMR Network,505318,1,TS 1 - TG 1 = Worldwide Calling (2 min max)<br>TS 1 - TG 5 = VK-DMR Club & Amateur Broadcasts<br>TS 1 - TG 9 = Local Repeater only<br>TS 1 - TG 13 = Worldwide English<br>TS 1 - TG 30 = Jota for VK<br>TS 1 - TG 53 = User Activated for chatting<br>TS 1 - TG 113= User Activated English 1<br>TS 1 - TG 123= User Activated English 2<br>TS 1 - TG 133 = DMR+ USA<br>TS 1 - TG 143 = DMR+ UK<br>TS 1 - TG 153 = DMR+ South Pacific<br>TS 2 - TG 505 = VK DMR Linked repeaters<br>TS 1 - TG 3801 ~ 3808 General Chat<br>TS 1 - TG 3809 = Second TS for chatting<br>TS 1 - TG 3810 = WICEN<br><br>You Must Have [ARS] Disabled Within Your Radio.<br>You Must Have [GPS] Disabled Within Your Radio.<br><br>Contact: Peter Brennan VK3TE<br>Email: VK3TE@bigpond.com,-7.000,VK3TE,TS1 TS2
 VK3RWO,Wodonga,Victoria,Australia,Peer,1,146.97500,505319,BM,505319,1,,-0.600,VK3VS,Mixed Mode
@@ -10201,7 +10202,7 @@ LU5FB,Rosario,Santa Fe,Argentina Republic,Master,1,434.75000,722033,BrandMeister
 LU5FB,Rosario,Santa Fe,Argentina Republic,Master,1,434.95000,722034,BrandMeister,722034,1,"TS1=7222 (LOCAL ROSARIO), TS2=7229 (ARG ROOM)",+5.000,LU5FB,TS1 TS2
 LW6DMG,La Plata,Buenos Aires,Argentina Republic,Master,1,145.30000,722035,BM,722035,1,,-0.600,LW6DMG,TS1 TS2
 LW2DDS,Bahia Blanca,Buenos Aires,Argentina Republic,Master,1,434.45000,722036,BM,722036,1,7229,+5.000,LW2DDS,TS1 TS2
-LU5AM,Zona Delta - Tigre,Buenos Aires,Argentina Republic,Master,7,147.19500,722037,BM,722037,1,722 / 722911 / 7223 / 72290,+0.600,LU5AM,TS1 TS2
+LU5AM,Zona Norte,Buenos Aires,Argentina Republic,Master,7,147.19500,722037,BM,722037,1,TS1 722 ; TS2 7229,+0.600,LU5AM,TS1 TS2
 LU2CSG,Capital Federal,Ciudad de Buenos Aires,Argentina Republic,Master,1,434.65000,722038,BM,722038,1,,-5.000,LU2CSG,TS2
 LU1EQV,Salto,Buenos Aires,Argentina Republic,Master,1,147.90000,722039,"BM, DMR",722039,1,"722, 7229",+0.600,LU1EQV,TS1 TS2
 LU8DRH,Bahia Blanca,Buenos Aires,Argentina Republic,Master,1,434.55000,722040,bm,722040,1,Repetidor Digital Bahia Blanca,+5.000,LU8DRH,TS1 TS2
@@ -10211,7 +10212,7 @@ LU2CSG,Capital Federal,Buenos Aires,Argentina Republic,Peer,1,434.65000,722043,B
 LU2CSG,Capital Federal,Ciudad de Buenos Aires,Argentina Republic,Master,1,434.70000,722044,BM,722044,1,,+5.000,LU2CSG,TS1 TS2
 LU2CSG,Capital Federal,Corrientes,Argentina Republic,Master,1,434.65000,722045,BM,722045,1,,+5.000,LU2CSG,TS1 TS2
 LU1VDF,BARILOCHE,Rio Negro,Argentina Republic,Master,1,145.24000,722046,BM,722046,1,7224 7229,-0.600,LU1VDF,TS1 TS2
-LU5AM,Munro,Buenos Aires,Argentina Republic,Master,7,433.02500,722050,BM,722050,1,722<br>7221,+5.000,LU5AM,TS1 TS2
+LU5AM,Munro,Buenos Aires,Argentina Republic,Master,7,433.02500,722050,BM,722050,1,"TS1 and TS2, free on demand.",+5.000,LU5AM,TS1 TS2
 LU4HH,Bosque Alegre Cordoba Argentina,Cordoba,Argentina Republic,Master,1,434.60000,722052,BM,722052,1,LU4HH Radio Club Cordoba. open DMR Repeater located at Estacion Astrofisica de Bosque Alegre. 1256 metros sobre nivel del mar. Linked to Argentina Link.,+5.000,LU4HH,TS2
 PY2LY,Indaiatuba,Sao Paulo,Brazil,Master,1,439.62500,724002,Brandmeister,724002,1,,-5.000,PY2LY,TS1 TS2
 PY1NDN,Friburgo,Rio de Janeiro,Brazil,Master,1,147.27000,724003,DMR-plus,724003,0,TG-724 slot1,+0.600,PU1LOY,TS1 TS2
@@ -10583,7 +10584,6 @@ CE2DJA,Vina del Mar,Valparaiso,Chile,Peer,1,438.15000,730215,BrandMeister,730215
 CE2UGO,VALPARAISO,Valparaiso,Chile,None,1,433.50000,730216,Master Chile,730216,1,,+5.000,CE2UGO,TS1
 CE2KVL,valparaiso,Coquimbo,Chile,None,1,434.95000,730217,DMR BM,730217,1,,+5.000,CE2KVL,TS1 TS2
 CE2AND,Los Andes,Valparaiso,Chile,Peer,1,147.21000,730218,BM-Chile 7301,730218,1,,+0.600,CE2PZJ,TS1 TS2
-CE3DY,pte alto,Reg.Metr. de Santiago,Chile,Peer,1,145.44000,730302,BM,730302,1,"730 ,7303 ,730911 ,7304 ,7305",-0.600,CE3DY,TS1 TS2
 CE3AA,SANTIAGO,Reg.Metr. de Santiago,Chile,None,1,146.64000,730307,DMR-MARC,730307,1,,-0.600,CE3AA,None
 CD3FTS,Maipu,Reg.Metr. de Santiago,Chile,Master,1,147.00000,730308,192.168.11.1,730308,1,,-0.600,CD3FTS,TS1
 CE3HIR,santiago,Reg.Metr. de Santiago,Chile,None,1,145.40000,730309,192.168.11.1,730309,1,,+0.600,XQ2HIR,TS1 TS2
@@ -10620,7 +10620,7 @@ YV5VE,altagracia de orituco,Guarico,Venezuela,Peer,1,439.95000,734012,BM,734012,
 YV4EGG,Valencia,Carabobo,Venezuela,Peer,1,439.70000,734013,BrandMeister,734013,0,,-5.000,YV4EGG,TS1 TS2
 YV5VE,Caracas,Distrito Capital,Venezuela,Peer,1,439.60000,734014,BM,734014,1,734 73452,-5.000,YV5VE,TS1 TS2
 YV1GDQ,Ciudad Ojeda,Zulia,Venezuela,Peer,1,439.60000,734015,BM,734015,1,TS1734/TS273452,-5.000,YV1GDQ,TS1 TS2
-YV5AAG,La Guaira,Distrito Capital,Venezuela,Master,1,147.15000,734016,BM,734016,1,None,0.600,YV5CBO,Mixed Mode
+YV5CBO,La Guaira,Distrito Capital,Venezuela,Master,1,147.15000,734016,BM,734016,1,None,+0.600,YV5CBO,Mixed Mode
 YV1GAG,MARACAIBO,Zulia,Venezuela,Master,1,439.87500,734101,ADN SYSTEM,734101,0,TG 734 Principal<br>TG 7341 Zona YV1<br>TG 73440 NET DIGITAL VENEZUELA,-5.000,YV1GAG,TS1 TS2
 YV1GAG,maracaibo,Zulia,Venezuela,Master,1,439.57500,734102,BM,734102,1,REPETIDOR DMR MMDVM UHF PARA LA RED BM<br>734 slot 1<br>7341 slot 2,-5.000,YV1GAG,TS1 TS2
 YV4KW,Valencia Carabobo,Aragua,Venezuela,Master,1,146.88000,734401,DMR-Marc,734401,1,,-0.600,YV4KW,TS1
