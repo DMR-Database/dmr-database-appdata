@@ -125,7 +125,7 @@ KM4WUD,Athens,New York,United States,Master,0,442.57500,113635,MotoDMR,113635,0,
 WZ2Y,Montauk,New York,United States,Master,1,443.20000,113636,NEDECN,113636,0,300' AGL<br><br>Time Slot #1 - Group Call 1 = World Wide (Sat. Net)<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 8801 = NETAC1<br>Time Slot #1 - Group Call 310 = TAC310<br>Time Slot #1 - Group Call 311 = TAC311<br>Time Slot #1 - Group Call 3136 = NY<br>Time Slot #2 - Group Call 3181 = New England<br>Time Slot #2 - Group Call 3109 = CT (SNE)<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 8802 = NETAC2,+5.000,WZ2Y,TS1 TS2
 NY4Z,Mahopac,New York,United States,Peer,10,446.27500,113637,NY-DMR,113637,1,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,-5.000,NY4Z,TS1 TS2
 N2NUO,Waverly,New York,United States,Master,1,444.50000,113638,BrandMeister,113638,0,,+5.000,N2NUO,TS1 TS2
-K1IMD,Lyndeborough,New Hampshire,United States,Peer,1,448.72500,113639,Mixed Mode,113639,1,"Test & Dev mmdvm machine (Extremely Local Coverage)<br><br>447.62500 -5.00 CC1<br>Time Slot #1 - Group Call 3148 = Texas Statewide (Lonestar)<br>------------------------------------<br>Time Slot #2 - Group Call 31482 = So Texas (Brandmeister)<br>Time Slot #2 - Group Call 2 = Local<br>* c-Bridge 2.0 Static TGs Only!<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Jon, K1IMD<br>Email: k1imd@arrl.net",-5.000,K1IMD,TS1 TS2
+K1IMD,Lyndeborough,New Hampshire,United States,Peer,1,448.72500,113639,Multi Mode - Various Networks,113639,1,"Test & Dev mmdvm machine (Extremely Local Coverage)<br><br>447.62500 -5.00 CC1<br>Time Slot #1 - Group Call 3148 = Texas Statewide (Lonestar)<br>------------------------------------<br>Time Slot #2 - Group Call 31482 = So Texas (Brandmeister)<br>Time Slot #2 - Group Call 2 = Local<br>* c-Bridge 2.0 Static TGs Only!<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Jon, K1IMD<br>Email: k1imd@arrl.net",-5.000,K1IMD,TS1 TS2
 N2CHP,rush,New York,United States,Master,1,444.22500,113641,brandmeister,113641,0,,+5.000,N2CHP,TS1
 W2SLV,Ogdensburg,New York,United States,Peer,1,442.85000,113645,CAN_TRBO,113645,0,,+5.000,KE2EMS,TS1 TS2
 KD2EHW,Gates,New York,United States,Master,1,443.05000,113648,DMR,113648,0,,+5.000,KD2EHW,TS1
@@ -644,7 +644,7 @@ ED1YCB,Monte Caderamo,,Spain,,1,438.27500,214140,BrandMeister,214140,1,,-7.600,E
 ED1ZBA,Monte Caderamo,,Spain,,1,438.27500,214141,BrandMeister,214141,1,,-7.600,EA1XU,
 ED1ZBA,Monte Caderamo,,Spain,,1,145.58750,214142,DMR-plus,214142,1,,-0.600,EA1XU,TS1 TS2
 ED1YBA,Avila,Avila,Spain,Peer,1,438.20000,214144,BM,214144,1,,-7.600,EA1AB,TS1 TS2
-ED1YAL,Zamora,,Spain,,1,430.75000,214150,DMR-plus,214150,1,,7.600,EA1HL,TS1 TS2
+ED1YAL,ZAMORA,Zamora,Spain,Peer,1,430.75000,214150,DMR-plus,214150,1,,7.600,EA1HL,TS1 TS2
 ED1YBW,IN52PH,,Spain,,2,145.72500,214159,DMR-plus,214159,0,,-7.600,EA1HTW,TS1 TS2
 EA1RKE,IN52TQ,,Spain,,2,438.32500,214169,DMR-plus,214169,0,,-7.600,EA1HTW,
 ED2ZAD,Sollube - Arrieta,Vizcaya,Spain,Master,1,438.22500,214201,BM,214201,1,,-7.600,EA2IP,TS1 TS2
@@ -789,7 +789,7 @@ HG8RUW,Bekescsaba Puskin 1.,,Hungary,,8,438.40000,216820,DMR-plus,216820,1,,-7.6
 HG8RUH,KN06BR,,Hungary,,9,438.25000,216888,None,216888,1,,-7.600,HG8LXL,
 E79DMR,Ljubuski,,Bosnia and Hercegovina,,1,438.65000,218001,BM,218001,1,,-7.600,E77XX,TS1 TS2
 E79DCV,Plocno Cvrsnica,,Bosnia and Hercegovina,,1,438.52500,218002,BM,218002,1,,-7.600,E77XX,TS1 TS2
-E79USA,Sarajevo,,Bosnia and Hercegovina,Master,1,438.60000,218003,BM,218003,1,TS1 - TG218 Bosnia and Herzegovina<br>TS2 - For dynamic TGs,-7.600,E70MI,TS1 TS2
+E79USA,Sarajevo,All Regions,Bosnia and Hercegovina,Master,1,438.60000,218003,BM,218003,1,TS1 - TG218 Bosnia and Herzegovina<br>TS2 - For dynamic TGs,-7.600,E70MI,TS1 TS2
 E79DZA,Zepce,All Regions,Bosnia and Hercegovina,Peer,1,438.90000,218004,BM,218004,1,,-7.600,E75NT,TS1 TS2
 E79ULI,Livno Tusnica,,Bosnia and Hercegovina,,1,438.47500,218005,BM,218005,1,,-7.600,E77XX,TS1 TS2
 E79USB,Siroki Brijeg,,Bosnia and Hercegovina,,1,438.45000,218006,BM,218006,1,,-7.600,E77XX,TS1 TS2
@@ -2854,7 +2854,7 @@ UR0EUA,Dnipropetrovsk,,Ukraine,,1,438.75000,255993,BM,255993,1,,-7.600,UZ5DX,TS1
 UR0WUA,Trostyan Slavske,,Ukraine,,1,438.75000,255994,BM,255994,1,,-7.600,UZ5DX,TS1 TS2
 UR0UUT,KO50ID,,Ukraine,,1,438.72500,255995,BM,255995,1,,-7.600,UR4UPB,TS1 TS2
 EV7BB,Bobruisk Belarus,,Belarus,,5,438.20000,257001,None,257001,0,,-7.600,EW7BU,
-EU1A04R,,,Belarus,Peer,1,438.77500,257002,BM,257002,1,,-7.600,EU2AU,TS1 TS2
+EU1A04R,Solihorsk,All Regions,Belarus,Peer,1,438.77500,257002,BM,257002,1,,-7.600,EU2AU,TS1 TS2
 EU7A02R,Mogilev,All Regions,Belarus,Master,1,438.57500,257004,BM,257004,1,TS 1/TG25701<br>TS 2/TG8_Cluster_BY/Mogilev,-7.600,EW7RR,TS1 TS2
 EU7AB,Mogilev,,Belarus,Master,1,438.66250,257005,BM,257005,1,"TS 1/TG25701<br>TS 2/TG8,Local.",-7.600,EU7AB,TS1 TS2
 EU8A03R,Homyel,,Belarus,Master,1,438.85000,257006,BM,257006,1,,-7.600,EW8BAK,TS1 TS2
@@ -3954,18 +3954,18 @@ TF3DMR,Reykjavik,,Iceland,Peer,1,439.85000,274002,BM,274002,1,,-5.000,TF3EY,TS1 
 4L7NIKO,Kurdghelauri St.,,Georgia,,1,439.51250,282001,None,282001,0,,7.600,4L4GB,
 4L7NIK,Kurdghelauri St.,,Georgia,,1,439.51250,282002,None,282002,0,,7.600,4L4GB,
 4L0G,Tbilisi,,Georgia,Master,1,145.67500,282003,BM,282003,0,"Repeater installed at Contest Station of National Association of Radio amateurs of Georgia [NARG].<br>Call Sign of The station: 4L0G (ID: 2820023);<br>--- Repeater Frequency :<br>RX: 145.075MHz; TX: 145.675 MHz;<br>Time Slote 1 & 2, Color Code:1; <br>IPSC Network: BM;<br>Repeater ID: 282003;<br>Group Call 282 = Georgia;<br><br>Repeater provided by 4L2IK (Irakli) and 4L0ML (Marco).<br><br>Contact: irak.kordzakhia@gmail.com",-0.600,4L0G,TS1
-LZ0DMR,Sofia,,Bulgaria,Peer,1,439.10000,284000,IPSC2,284000,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
+LZ0DMR,Sofia,Sofia City,Bulgaria,Peer,1,439.10000,284000,IPSC2,284000,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
 LZ0ATV,Sofia,Sofia City,Bulgaria,Peer,1,439.42500,284001,BM,284001,1,,-7.600,LZ7DJ,TS1 TS2
-LZ0HAM,peak Botev,,Bulgaria,Peer,1,439.50000,284002,IPSC2,284002,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
-LZ0DDA,Peak Petrohan,,Bulgaria,Peer,1,438.45000,284003,IPSC2,284003,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
+LZ0HAM,peak Botev,Plovdiv,Bulgaria,Peer,1,439.50000,284002,IPSC2,284002,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
+LZ0DDA,peak Petrohan,Sofia,Bulgaria,Peer,1,438.45000,284003,IPSC2,284003,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
 LZ0DSD,Sliven,Sliven,Bulgaria,Peer,1,439.25000,284004,BrandMeister,284004,1,"The repeater operates in DMR mode in BrandMeister network, connected to XLX359B via BM2841.<br>Static talk groups: TS1 - TG284 and TS2 - TG284359.",-7.600,LZ1KM,TS1 TS2
 LZ0DDF,Sofia,Sofia City,Bulgaria,Peer,1,439.47500,284005,BM,284005,1,,-7.600,"LZ7DJ, LZ1NSV",TS1 TS2
 LZ0WDX,Sofia,,Bulgaria,,1,439.25000,284006,DMR-plus,284006,0,,-7.600,LZ1WDX,TS1 TS2
-LZ0DAD,Neseber,,Bulgaria,Peer,1,438.50000,284008,IPSC2,284008,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
-LZ0DAV,Varna,,Bulgaria,Peer,1,438.55000,284009,IPSC2,284009,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
+LZ0DAD,Sunny Beach,Burgas,Bulgaria,Peer,1,438.50000,284008,IPSC2,284008,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
+LZ0DAV,Varna,Varna,Bulgaria,Peer,1,438.55000,284009,IPSC2,284009,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
 LZ0RVA,Pazardgik,,Bulgaria,,1,438.95000,284010,DMR-plus,284010,0,,-7.600,LZ1RVD,TS1 TS2
 LZ0RVB,Sofia,,Bulgaria,,1,439.45000,284011,DMR-plus,284011,0,,-7.600,LZ1RVD,TS1 TS2
-LZ0DAR,Ruse,,Bulgaria,Peer,1,438.25000,284012,IPSC2,284012,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
+LZ0DAR,Ruse,Ruse,Bulgaria,Peer,1,438.25000,284012,IPSC2,284012,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
 LZ0DDK,Shumen,Shumen,Bulgaria,Peer,1,439.57500,284013,DMR-plus,284013,1,,-7.600,LZ4ZD,TS1 TS2
 LZ0DDS,Sliven,Sliven,Bulgaria,Peer,1,439.52500,284014,DMR-plus,284014,0,,-7.600,"LZ1TUK, LZ1AA, LZ1ZAF",TS1 TS2
 LZ0DDB,Breznik,,Bulgaria,Peer,1,438.45000,284015,DMR-plus,284015,1,,-7.600,LZ1WDX,TS1 TS2
@@ -4448,6 +4448,7 @@ VE2RTO,MT-ORFORD,Quebec,Canada,Peer,1,927.32500,302290,BM,302290,1,,-25.0,VE2NBZ
 VE2KMR,Saint-Damien,Quebec,Canada,Peer,1,443.42500,302291,DMRQ,302291,1,,+5.000,VE2JKA,TS1 TS2
 VA2RIH,Anse-au-Griffon,Quebec,Canada,Peer,1,144.51000,302292,BM,302292,0,,+0.600,VE2VMT,Mixed Mode
 VA6ACW,Calgary,Alberta,Canada,Master,1,146.80500,302293,XLXMaster,302293,1,,-0.6,VE6FSN,Mixed Mode
+VE3TUH,Markdale,Ontario,Canada,Master,1,146.71500,302294,DMR,302294,1,,-0.6,VE3TUH,Mixed Mode
 VE2TOJ,900mhz-StUrsule Louiseville,Quebec,Canada,Master,1,927.73750,302296,Multi-Mode DMR=BM / NXDN / P25,302296,1,,-9.950,VE2TOJ,TS1 TS2
 VE7RIN,Fairmont,British Columbia,Canada,Peer,1,443.85000,302297,BM,302297,1,,+5.000,VE7RIN,TS1 TS2
 VE7CAP,Cranbrook,British Columbia,Canada,Peer,1,443.55000,302298,BM,302298,1,TS2 static on BC1 (30271),+5.000,VE7RIN,TS1 TS2
@@ -5967,7 +5968,7 @@ KC5MN,White Hall,Arkansas,United States,Master,1,442.17500,311489,Brandmeister,3
 N5QI,Searcy,Arkansas,United States,Peer,1,444.00000,311490,BrandMeister,311490,1,,+5.000,N5QI,TS1 TS2
 KC2VAC,Northfield,New Jersey,United States,Master,1,445.16875,311491,Brandmeister,311491,0,,-5.000,KD2KVZ,Mixed Mode
 KA2OON,South River,New Jersey,United States,Peer,1,449.42500,311492,BrandMeister,311492,1,,-5.000,KA2OON,TS1 TS2
-K7AZ,Lompoc,California,United States,Peer,3,443.27500,311493,BrandMeister,311493,1,Dual Mode MTR2000 with KC Card & RTCM On AllStar<br>AARG & CDM Static On TS-2.     SARC Static On TS-1<br>Analog AllStar Node 29835<br><br>,+5.000,K7AZ,TS1 TS2
+K7AZ,Lompoc,California,United States,Peer,3,443.27500,311493,BrandMeister,311493,1,Dual Mode MTR2000 with KC Card & RTCM On AllStar<br>AARG & CDM Static On TS-2.     SARC Static On TS-1<br>Analog AllStar Node 29835,+5.000,K7AZ,TS1 TS2
 K0LVB,Marion,Iowa,United States,Master,1,146.68500,311494,BrandMeister,311494,1,,-0.600,N0ERH,Mixed Mode
 KE8JOT,Clyde,Michigan,United States,Master,2,146.92000,311495,BrandMeister,311495,1,KE8JOT Repeater System<br><br>The DMR Repeater servicing St Clair County,-0.600,KE8JOT,TS1
 N4DTR,Franklin,North Carolina,United States,Peer,1,927.76250,311496,900-NET,311496,1,,-25.000,N4DTR,TS1 TS2
@@ -7766,7 +7767,7 @@ K2QQJ,Brooklyn,New York,United States,Peer,1,440.50000,313601,DMR-MARC-W0PM,3136
 W2KTU,Fresh Meadows,New York,United States,Peer,1,449.72500,313602,NY-DMR,313602,1,,-5.000,W2KTU,TS1 TS2
 N2JTI,Orangeburg,New York,United States,Master,1,444.00000,313603,NJ-TRBO-,313603,1,"Time Slot #1 - Group Call 1 = World Wide PTT <br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #2 - Group Call 2 = NY-NJ Metro<br>Time Slot #1 - Group Call 310 = TAC310<br>Time Slot #1 - Group Call 311 = TAC311<br>Time Slot #1 - Group Call 113 = UA113<br>Time Slot #1 - Group Call 123 = UA123<br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area (http://www.dmr-marc.net/images/n2jti-coverage.jpg)<br>Contact Name: Nick, N2JTI<br>Email: nick.deroda@gmail.com",+5.000,N2JTI,TS1 TS2
 N2NSA,Bronx,New York,United States,Master,1,443.35000,313604,Bronx-TRBO,313604,1,"Time Slot<br>#1 - Group Call TG 1 = World Wide -PTT<br>#1 - Group Call TG 3 = North America- FT<br>#1 - Group Call TG 13 = World Wide English-PTT<br>#1 - Group Call TG 3172 = NE / Regional-PTT<br>#1 - Group Call TG 3100 = DCI Bridge -PTT<br>#1 - Group Call TG 914 = Latin America Region-FT<br>#1 - Group Call TG 310 = Tac 310 Talk Group-PTT<br>#1 - Group Call TG 311 = Tac 311 Talk Group-PTT<br>#1 - Group Call TG 9998 = Parrot , Audio Test Server-PTT<br>#2 - member only private Talk Groups<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: John Romano, N2NSA<br>Email: n2nsa1@verizon.net",+5.000,N2NSA,TS1 TS2
-K1IMD,Lyndeborough,New Hampshire,United States,Peer,1,433.93750,313605,NEDECN,313605,1,"433.9375 +5.00 CC1<br>Time Slot #1  Group Call 759 = SKYWARN<br>Time Slot #1  Group Call 9998 = Parrot*<br>Time Slot #1  Group Call 9999 = Audio Watch*<br>Time Slot #1  Group Call 1 = World Wide (PTT)*<br>Time Slot #1  Group Call 3 = North America*<br>Time Slot #1  Group Call 3172 = Northeast<br>Time Slot #1  Group Call 310 = TAC310*<br>Time Slot #1  Group Call 311 = TAC311*<br>Time Slot #1  Group Call 8801 = NETAC 1*<br>Time Slot #1  Group Call 3109 = CT SW*<br>Time Slot #1  Group Call 3125 = MA SW*<br>Time Slot #1  Group Call 3123 = ME Statewide*<br>Time Slot #1  Group Call 3144 = RI SW*<br>Time Slot #1  Group Call 3150 = VT SW*<br><br>Time Slot #2  Group Call 8802 = NETAC 2*<br>Time Slot #2  Group Call 3181 = New England Wide (Mon. 8 PM Net)<br>Time Slot #2  Group Call 3133 = NH Statewide<br>Time Slot #2  Group Call 9 = Local Site<br>* = PTT Activated<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Jon, K1IMD<br>Email: k1imd@arrl.net",+5.000,K1IMD,TS1 TS2
+K1IMD,Lyndeborough,New Hampshire,United States,Peer,1,433.93750,313605,NEDECN,313605,1,"433.9375 +5.00 CC1<br>Time Slot #1 - Group Call 1 = World Wide (Sat. Net)*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 759 = SKYWARN<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3125 = MA SW*<br>Time Slot #1 - Group Call 3109 = CT SW*<br>Time Slot #1 - Group Call 3123 = ME SW*<br>Time Slot #1 - Group Call 3121 = RI SW*<br>Time Slot #1 - Group Call 3150 = VT SW*<br>Time Slot #1 - Group Call 8801 = NETAC1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1  Group Call 9998 = Parrot*<br>Time Slot #1  Group Call 9999 = Audio Watch*<br>======================================<br>Time Slot #2 - Group Call 3181 = New England<br>Time Slot #2 - Group Call 3133 = NH SW<br>Time Slot #2 - Group Call 9 = Local<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 8802 = NETAC2*<br><br>* = PTT Activated<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Jon, K1IMD<br>Email: k1imd@arrl.net",+5.000,K1IMD,TS1 TS2
 N2JTI,Austerlitz,New York,United States,Peer,1,445.18750,313606,NJ-TRBO,313606,0,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #2 - Group Call 2 = NY-NJ Metro<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area<br> <br>Contact Name: Nick DeRoda<br>Email: nick.deroda@gmail.com,-5.000,N2JTI,TS1 TS2
 N2JTI,Harriman,New York,United States,Peer,1,443.80000,313607,NJ-TRBO-,313607,1,"Time Slot #1 - Group Call 1 = World Wide PTT <br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #2 - Group Call 2 = NY-NJ Metro<br>Time Slot #1 - Group Call 310 = TAC310<br>Time Slot #1 - Group Call 311 = TAC311<br>Time Slot #1 - Group Call 113 = UA113<br>Time Slot #1 - Group Call 123 = UA123<br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area (http://www.dmr-marc.net/images/n2jti-coverage.jpg)<br> Contact Name: Nick, N2JTI<br>Email: nick.deroda@gmail.com",+5.000,N2JTI,TS1 TS2
 KC2RQR,Staten Island,New York,United States,Master,3,442.30000,313608,Fios,313608,1,,+5.000,KC2RQR,Mixed Mode
@@ -7781,7 +7782,7 @@ NY4Z,Mahopac,New York,United States,Peer,1,145.39000,313617,NY-DMR,313617,1,For 
 NY4Z,Putnam CTY,New York,United States,Peer,2,446.27500,313618,NY-DMR,313618,1,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,+5.000,NY4Z,TS1 TS2
 NY4Z,New Rochelle,New York,United States,Peer,1,446.28125,313619,Bronx-TRBO,313619,1,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,-5.000,NY4Z,TS1 TS2
 NF2F,Mount Dora,Florida,United States,Peer,0,442.80000,313620,Upstate NY,313620,1,Upstate DMR 		31361	1	Static<br>USA Nationwide	3100	1	PTT<br>TAC 310			 310		1	PTT<br>FL Statewide 		3112 	2	Static<br>Adirondacks		31363	2	PTT,+5.000,N2LBT,TS1 TS2
-K1IMD,Coventry,Connecticut,United States,Peer,1,449.87500,313621,NEDECN,313621,1,"Time Slot #1 - Group Call 1 = World Wide (Sat. Net)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3125 = MA SW*<br>Time Slot #1 - Group Call 8801 = NETAC1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #2 - Group Call 3181 = New England<br>Time Slot #2 - Group Call 3109 = CT SW<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 8802 = NETAC2*<br><br>* = PTT Activated<br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Steve, K1IIG<br>Email: stephen.tripp@snet.net<br>Website: http://nedecn.org",-5.000,K1IMD,TS1 TS2
+K1IMD,Portable - Test,New Hampshire,United States,Peer,1,433.98750,313621,Multi Mode - Various Networks - Test,313621,1,"Time Slot #1 - Group Call 1 = World Wide (Sat. Net)*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 759 = SKYWARN<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3125 = MA SW*<br>Time Slot #1 - Group Call 3109 = CT SW*<br>Time Slot #1 - Group Call 3123 = ME SW*<br>Time Slot #1 - Group Call 3121 = RI SW*<br>Time Slot #1 - Group Call 3150 = VT SW*<br>Time Slot #1 - Group Call 8801 = NETAC1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #2 - Group Call 3181 = New England<br>Time Slot #2 - Group Call 3133 = NH SW<br>Time Slot #2 - Group Call 9 = Local<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 8802 = NETAC2*<br><br>* = PTT Activated<br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Jon, K1IMD<br>Email: k1imd@arrl.net<br>Website: http://nedecn.org",5.000,K1IMD,Mixed Mode
 N2LBT,Inlet,New York,United States,Peer,1,147.43750,313622,Upstate NY,313622,0,Upstate DMR 		31361	1	Static<br>VT Statewide 		3150	1	Static (On VT Border)<br>USA Nationwide	3100	1	PTT<br>TAC 310			 310		1	PTT<br>World Wide		1		1	PTT<br>North America 	3		1	PTT<br>Upstate TAC 		2		2	Static (Public Service/Special Events)<br>NY Statewide 		3136	2	Static<br>Adirondacks		31363	2	Static (in ADK)<br>NJTrbo Tristate	31360	2	PTT<br>Bronx Trbo		31362	2	PTT (Static in Albany)<br>Disney			31125	2	PTT<br>Parrot			9998	2	PTT(Group Call),-2.500,N2LBT,TS1 TS2
 KB2RNI,Brooklyn,New York,United States,Peer,1,441.15000,313623,BrandMeister,313623,1,,+5.000,KB2RNI,TS1 TS2
 KB2RNI,Brooklyn,New York,United States,Peer,1,146.61000,313624,BrandMeister,313624,1,,-0.600,KB2RNI,Mixed Mode
@@ -7815,7 +7816,7 @@ KC2EQ,Elmira,New York,United States,None,3,443.00000,313651,DMR+,313651,0,"KC2EQ
 N2NGK,Lake Placid,New York,United States,None,1,449.67500,313652,DMR-MARC-Canada,313652,0,Time Slot #1 - Group Call 1 = World Wide*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 11 = WW French*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 9999 = Audio Test*<br>Time Slot #2 - Group Call 3023 = Ontario*<br>Time Slot #2 - Group Call 3022 = Quebec*<br>Time Slot #2 - Group Call 3029 = New Brunswick*<br>Time Slot #2 - Group Call 3150 = Vermont<br>Time Slot #2 - Group Call 8 = Northern New Eng*<br>Time Slot #2 - Group Call 3181 = New England*<br>Time Slot #2 - Group Call 2 = Local<br><br>* Indicates PTT Activation required<br>You Must Have [ARS] Disabled in Your Radio,-5.000,N2NGK,TS1 TS2
 N2NUO,Waverly,New York,United States,Master,1,443.50000,313653,3100,313653,0,,+5.000,N2NUO,Mixed Mode
 W2TUP,Tupper Lake,New York,United States,Master,1,446.02500,313655,DMR-MARC-Canada,313655,0,"Time Slot #1 - Group Call 1 = World Wide*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 11 = WW French*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 9999 = Audio Test*<br>Time Slot #2 - Group Call 3023 = Ontario*<br>Time Slot #2 - Group Call 3022 = Quebec*<br>Time Slot #2 - Group Call 3029 = New Brunswick*<br>Time Slot #2 - Group Call 3150 = Vermont<br>Time Slot #2 - Group Call 8 = Northern New Eng*<br>Time Slot #2 - Group Call 3181 = New England*<br>Time Slot #2 - Group Call 2 = Local<br><br>* Indicates PTT Activation required<br>You Must Have [ARS] Disabled in Your Radio<br>Contact: Dean, K2WW<br>Email: dean.k2ww@gmail.com",-5.000,K2WW,TS1 TS2
-K1IMD,Portable II,New Hampshire,United States,Peer,1,433.65000,313656,Various,313656,1,"Intermittently not on the air - Desktop Test System<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Jon, K1IMD<br>Email: k1imd@arrl.net",+5.000,K1IMD,TS1 TS2
+K1IMD,Portable II,New Hampshire,United States,Peer,1,433.65000,313656,Network Agile,313656,1,"Intermittently not on the air - Desktop Test System<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Jon, K1IMD<br>Email: k1imd@arrl.net",+5.000,K1IMD,Mixed Mode
 WA2CW,Cohoes,New York,United States,Peer,1,442.40000,313657,Brandmeister,313657,0,,+5.000,WA2CW,TS1
 KD2EQY,Thiells,New York,United States,Peer,1,449.18750,313658,KD2EQY,313658,1,,-5.000,W2LGB,Mixed Mode
 W2KPQ,Selden,New York,United States,Peer,1,449.36250,313659,BRONXTRBO,313659,1,"Time Slot<br>#1 - Group Call TG 444 NY Metro System wide-FT<br>#1 - Group Call TG 1 = World Wide -PTT<br>#1 - Group Call TG 3 = North America-PTT<br>#1 - Group Call TG 13 = World Wide English-PTT<br>#1 - Group Call TG 3172 = NE / Regional-PTT<br>#1 - Group Call TG 310 = Tac 310 -PTT<br>#1 - Group Call TG 311 = Tac 311 -PTT<br>#1 - Group Call TG 312 = Tac 312 -PTT<br>#1 - Group Call TG 3100 = DCI Bridge -PTT<br>#1 - Group Call TG 9998 = Parrot , Audio Test Server-PTT<br>#2 - member only private Talk Groups<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Bernie, NY4Z<br>Email: ny4z@yahoo.com",-5.000,WB2WAK,TS1 TS2
@@ -8483,7 +8484,7 @@ WW1WX,Putnam,Connecticut,United States,Master,9,438.60000,314406,BM,314406,1,Tal
 KH7MS,Naalehu,Hawaii,United States,Peer,1,444.95000,314407,BrandMeister,314407,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1,+5.000,KH7MS,TS1 TS2
 K4BLA,Laurinburg,North Carolina,United States,Peer,1,444.73750,314408,BM,314408,1,"Please use TS1 for all Brandmeister dynamic talk groups and TS2 for local/regional (31373 NC East Coast and NE4SC Cluster ""Myrtle Link 8"" is locked on TS2).  For more information, visit https://www.qrz.com/db/k4bla",+5.00,N4DBM,TS1 TS2
 KM4CJ,Huntsville,Alabama,United States,Master,1,444.97500,314409,AmComm,314409,1,,+5.000,KM4CJ,TS1 TS2
-KF6FM,Moreno Valley,California,United States,Master,1,445.38000,314410,Western States DMR,314410,1,,-5.0000,KF6FM,TS1 TS2
+KF6FM,San Luis Obispo,California,United States,Master,10,443.15000,314410,Western States DMR,314410,1,,+5.000,KF6FM,TS1 TS2
 AG5AA,Houston,Texas,United States,Peer,1,440.10000,314411,BM,314411,1,313146 XLX034     TG-6>TG-323246<br>YSF32385 - US-XLX034 -  REFLECTOR,+5.000,AG5AA,Mixed Mode
 WD5IYF,Duncan,Oklahoma,United States,Master,2,444.82500,314412,BM,314412,1,,+5.0000,WD5IYF,TS1 TS2
 KC3ART,Dawsonville,Georgia,United States,Master,1,443.50000,314413,DMR,314413,1,"Repeater build in process, not ""on the air"" yet. Will update once all our ducks are in a row.",+5.00,KC3ART,TS1
@@ -9335,7 +9336,7 @@ XE2EOS,Tuxtla,Chiapas,Mexico,None,1,438.30000,334308,BrandMeister,334308,1,,-5.0
 XE1GXW,Guadalajara,Jalisco,Mexico,Peer,1,146.76000,334401,BrandMeister,334401,1,,-0.600,XE1GXW,TS1 TS2
 6Y5NZ,Boscobel,St Ann,Jamaica,Peer,1,439.47500,338001,BM,338001,1,TG 338  CC1,-9.000,6Y5NZ,TS1 TS2
 8P6AA,Bridgetown,,Barbados,Master,1,439.50000,342001,mixed mode,342001,0,,-5.000,8P6PE,TS1 TS2
-J62DX,Plateau,Saint Lucia,Saint Lucia,Peer,1,442.53000,358001,BrandMeister,358001,0,Dual BrandMeister and TGIF<br><br>TG 969 BM daily from 23 UTC to 01 UTC (7Pm to 9 PM local Time)<br>TG 91 BM Saturday for the World Wide Net<br><br>,+5.000,J69DS,TS1 TS2
+J62DX,Plateau,Saint Lucia,Saint Lucia,Peer,1,442.53000,358001,BrandMeister,358001,0,Dual BrandMeister and TGIF<br><br>TG 969 BM daily from 23 UTC to 01 UTC (7Pm to 9 PM local Time)<br>TG 91 BM Saturday for the World Wide Net,+5.000,J69DS,TS1 TS2
 PJ2R,Willemstad,,Netherlands,Master,1,146.76000,362001,DMR-MARC,362001,0,,-0.600,PJ2BR,TS1 TS2
 PJ4ABC,Belnem,,Bonaire,Peer,1,438.85000,362002,BM,362002,0,,-7.6000,PJ4BZL,TS1 TS2
 P43ARC,Oranjestad,,Aruba,Peer,1,439.40000,363001,BM,363001,0,Home brew MMDVM repeater @ Jamanota Hill. Elevation: +180 m. Local TG 363001 TS2,-7.600,P43ARC,TS1 TS2
@@ -9634,7 +9635,6 @@ BR2JBC,baicheng,Heilongjiang Jilin Liaoning,China,Peer,0,439.85000,460145,192.16
 BR4NJ,NanJing,Shanghai Shandong Jiangsu,China,Peer,1,430.61000,460146,BrandMeister,460146,0,TG46025,+9.000,BH4VAP,TS1 TS2
 BR7JBQ,FoShan,Hunan Guangdong Guangxi Hainan,China,Peer,1,439.15000,460147,APN,460147,1,46020S1/46001S2,-0.500,BG7LCN,TS1 TS2
 BR3GI,Ordos,Inner Mongolia,China,Master,1,439.75000,460148,43.129.83.124,460148,1,460477,-5.000,"BH3HAO, BH3GGN",TS2
-BH3HAO,Ordos,Inner Mongolia,China,Master,1,439.55000,460149,43.129.83.124,460149,1,None,-8.000,BH3HAO,TS1 TS2
 BH8QFX,bijieshi,Sichuan Guizhou Chongqing Yunnan,China,Master,1,439.11000,460150,27,460150,1,460857,-5.000,BH8QFX,Mixed Mode
 BH8QFX,bijieshi,Sichuan Guizhou Chongqing Yunnan,China,Master,1,439.28500,460151,27,460151,1,460857,-5.000,"BH8QFX, BH8PPE",Mixed Mode
 BR2AG,Harbin,Heilongjiang Jilin Liaoning,China,Master,1,145.77500,460206,china telcom,460206,1,,-0.600,BR2AG,TS2
@@ -10555,6 +10555,7 @@ CE1DDA,Copiapo,Atacama,Chile,Master,1,145.56600,730052,BM,730052,0,,-0.6000,CE1D
 CA3LOP,santiago,Reg.Metr. de Santiago,Chile,Master,3,163.07500,730053,DMR,730053,0,,-0.600,CA3LOP,TS2
 CE4RAY,Curico,Maule,Chile,Master,1,146.43000,730054,Adn systems chile,730054,1,,+5.000,CE4RAY,TS2
 CE4RAY,Chanco 2,Maule,Chile,Peer,1,432.85000,730055,Adn systems chile,730055,1,,+5.000,CE4RAY,TS1 TS2
+CE3SOC,Santiago,Reg.Metr. de Santiago,Chile,Peer,1,433.60000,730059,BM,730059,1,,+5.000,CE3SOC,TS1 TS2
 CD3VGO,santiago,O'Higgins,Chile,Master,1,145.50000,730060,DMR,730060,0,,-0.600,CD3VGO,TS1
 CE6RB,Valdivia,Los Rios,Chile,Master,75,147.03000,730061,DMR,730061,0,,+0.600,CA6SBX,Mixed Mode
 CA5EHC,Coronel,Bio Bio,Chile,Master,1,146.19000,730062,DMR,730062,0,TG LOCAL 9 TG 73049,+0.600,CA5EHC,TS2
