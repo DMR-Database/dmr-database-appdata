@@ -321,10 +321,10 @@ ON0HOP,Vloesberg-Flobecq,Wal. Brabant,Belgium,,1,438.91250,206501,BM,206501,1,,-
 ON0CVH,Waterloo,Wal. Brabant,Belgium,,2,438.48750,206502,None,206502,1,,-7.600,ON5SYZ,TS1 TS2
 ON0FR,Court-Saint-Etienne,Wal. Brabant,Belgium,,2,439.42500,206504,BM,206504,1,,-7.600,ON5ZU,TS1 TS2
 ON0MNS,Rouveroy,Hainaut,Belgium,Master,1,145.71250,206601,None,206601,1,206<br>2062,-0.6,ON8CB,TS2
-ON0LLV,La Hestre,Hainaut,Belgium,,2,438.87500,206602,None,206602,1,,-7.600,ON7FI,
+ON0LLV,La Hestre,Hainaut,Belgium,Master,2,438.87500,206602,ircddb,206602,1,,-7.600,ON7FI,TS1 TS2
 ON0RAM,Dottignies,Hainaut,Belgium,,2,438.78750,206603,None,206603,1,,-7.600,ON5VLG,
-ON0CPS,CHARLEROI,Hainaut,Belgium,,2,439.11250,206604,None,206604,1,,-7.600,ON7FI,
-ON0PLL,Le Roeulx,Hainaut,Belgium,,2,439.43750,206606,None,206606,1,,-7.600,ON7FI,
+ON0CPS,CHARLEROI,Hainaut,Belgium,Master,2,439.11250,206604,ircddb,206604,1,,-7.600,ON7FI,TS1 TS2
+ON0PLL,La Hestre,Hainaut,Belgium,Master,2,439.43750,206606,ircddb,206606,1,Ce relais  n'est pas DMR mais D-Star,-7.600,ON7FI,TS1 TS2
 ON0THN,Thuin,Hainaut,Belgium,,2,439.48750,206607,None,206607,1,,-7.600,ON4YI,TS1 TS2
 ON0NR,Wepion,Namur,Belgium,Peer,2,439.53750,206700,BM,206700,1,,-7.600,ON4PB,TS1 TS2
 ON0HSB,Gembloux,Namur,Belgium,Peer,2,438.21250,206702,"BrandMeister, IPSC2",206702,1,Please have a look here : https://www.qrz.com/db/ON0HSB/,-7.600,ON7HH,Mixed Mode
@@ -2695,6 +2695,7 @@ RR9CL,Yekaterinburg,,Russia,Master,1,145.72500,250040,BM,250040,1,DMR Repeater R
 RA7XY,Nalchik,,Russia,Master,1,438.40000,250041,BM,250041,1,TG-250668,-7.600,RA7XY,TS1 TS2
 RR9HAA,Seversk,All Regions,Russia,Master,1,439.40000,250042,DMR,250042,1,,-7.600,R9HCV,Mixed Mode
 RR9JK,Megion,All Regions,Russia,Peer,1,145.60000,250043,BM,250043,1,25021<br>250086,-0.600,R9JK,TS1 TS2
+UB6OARD,Donetsk,All Regions,Russia,Peer,1,438.87500,250044,2502.master.brandmeister.network,250044,1,None,-7.600,UB6OAR,TS1 TS2
 UB1AAM,,,Russia,,1,438.75000,250102,BM,250102,0,,-7.600,UB1AAM,TS1 TS2
 RD1AS,,,Russia,,1,145.73750,250104,BM,250104,0,,-0.600,RD1AS,TS1 TS2
 UA1CDG,,,Russia,,1,0.00000,250105,BM,250105,0,,,UA1CDG,TS1 TS2
@@ -4254,7 +4255,6 @@ VE3STP,Renfrew,Ontario,Canada,Peer,1,443.60000,302064,BrandMeister,302064,1,,+5.
 VA3ODG,Ottawa,Ontario,Canada,Peer,1,444.85000,302065,BrandMeister,302065,1,,+5.0000,VE3EFF,TS1 TS2
 VE3TTT,London,Ontario,Canada,Master,1,434.45000,302066,BrandMeister,302066,1,Yes,+5.000,VE3CTS,Mixed Mode
 VA3JCD,Lynedoch,Ontario,Canada,Master,1,442.91250,302067,BrandMeister,302067,1,,+5.000,VA3JCD,TS1 TS2
-VA7FIZ,Port Moody,British Columbia,Canada,Peer,1,440.13125,302068,BrandMeister,302068,1,,+5.00,VE7LLW,TS1 TS2
 VE2ZDF,Westmount,Quebec,Canada,Peer,1,927.15000,302069,BrandMeister,302069,1,,-25,VE2DF,TS1 TS2
 VA3AAR,Almonte,Ontario,Canada,Peer,1,145.55000,302070,BrandMeister,302070,1,,-0.600,VE3EFF,TS1 TS2
 VA3ROG,Collingwood,Ontario,Canada,Master,293,146.79000,302071,BM,302071,1,,-0.600,VE3XF,Mixed Mode
@@ -4287,7 +4287,6 @@ VE6AFP,Edmonton,Alberta,Canada,Peer,1,444.37500,302099,DMR-MARC/CAN_TRBO,302099,
 VE1XPR,Springhill,Nova Scotia,Canada,Peer,1,145.29000,302101,CAN-TRBO,302101,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #2 - Group Call 11 = WW French<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 3181 = New England<br>Time Slot #2 - Group Call 3123 = Maine Statewide<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: Tobie Boutot, VE9XAB<br>Email: mib@rogers.com <br>Website: http://www.nbdmr.com",-0.600,VE1BXK,TS1 TS2
 VE1JSR,Antigonish,Nova Scotia,Canada,Peer,1,441.80000,302102,BM,302102,1,,+5.000,VE1JCS,TS1 TS2
 VA1DIG,Truro,Nova Scotia,Canada,None,1,442.65000,302103,DMR+,302103,1,,+5.000,VE1AOE,TS2
-VA7HIZ,Port Moody,British Columbia,Canada,Peer,1,145.01000,302104,Brandmeister,302104,1,,+0.600,VE7LLW,TS1 TS2
 VE6AFP,Edmonton,Alberta,Canada,Master,1,147.21000,302105,DMR-MARC/CAN_TRBO,302105,1,,+0.600,VE6AFP,TS1 TS2
 VE2RXX,Victoriaville,Quebec,Canada,Peer,1,444.65000,302106,BrandMeister,302106,1,,+5.000,VE2TRF,TS1 TS2
 VE2NT,Trois-Rivieres,Quebec,Canada,Peer,1,444.40000,302107,BrandMeister,302107,1,,+5.000,VA2SIM,TS1 TS2
@@ -4334,7 +4333,7 @@ VE7ZIT,Vancouver,British Columbia,Canada,Master,1,447.57500,302150,"BM, DMR",302
 VY2CFB,Kensington,Prince Edward Island,Canada,Master,1,147.31500,302151,BM,302151,1,,+0.600,VY2CGA,TS1 TS2
 VA7DIZ,Burnaby,British Columbia,Canada,Master,1,145.02250,302152,BM,302152,1,"Static TS 1: BC 1=3027, (formerly 30271)<br>Static TS 2:  Please use TS 2 for PTT / Dynamic.<br><br>25 Watts, omni antenna.<br>HASL = 90M.<br>HAGL = 10M.",+0.600,VE7CQT,TS1 TS2
 VE3OBI,Oshawa,Ontario,Canada,Master,1,442.13750,302153,BM,302153,1,This is a replacement ID to de-listed 302319,+5.0,VE3PK,TS1 TS2
-VA7DIZ,Port Moody,British Columbia,Canada,Master,1,145.62250,302154,BM,302154,1,,-0.600,VE7LLW,TS1 TS2
+VA7DIZ,Burnaby,British Columbia,Canada,Master,1,145.62250,302154,BM,302154,1,,-0.600,VE7LLW,TS1 TS2
 VE4DMS,Selkirk,Manitoba,Canada,Peer,4,443.72500,302155,BrandMeister,302155,1,Time Slot 1 - Group Call 3024 = Manitoba<br>Time Slot 2 - Group Call 9 = Local<br>Time Slot 2 - Group Call 30241 = True North<br>Time Slot 2 - Group Call 31273 = NorthStar,+5.000,VE4CA,TS1 TS2
 VA5DMR,Saskatoon,Saskatchewan,Canada,Master,1,449.75000,302156,BM,302156,1,,-5.000,VE5EA,TS1 TS2
 VE1JSR,Antigonish,Nova Scotia,Canada,Peer,1,442.72500,302157,BM,302157,1,,+5.000,VE1JCS,TS1 TS2
@@ -9634,7 +9633,8 @@ BR6AE,Su Zhou,Henan Hubei Anhui,China,Master,7,439.90000,460144,"BM,DMR-MARC",46
 BR2JBC,baicheng,Heilongjiang Jilin Liaoning,China,Peer,0,439.85000,460145,192.168.0.1,460145,1,4603149,-5,"BG2NBG, BG3ILS, BG1DZQ",TS1
 BR4NJ,NanJing,Shanghai Shandong Jiangsu,China,Peer,1,430.61000,460146,BrandMeister,460146,0,TG46025,+9.000,BH4VAP,TS1 TS2
 BR7JBQ,FoShan,Hunan Guangdong Guangxi Hainan,China,Peer,1,439.15000,460147,APN,460147,1,46020S1/46001S2,-0.500,BG7LCN,TS1 TS2
-BR3GI,Ordos,Inner Mongolia,China,Master,1,439.75000,460148,43.129.83.124,460148,1,460477,-5.000,"BH3HAO, BH3GGN",TS2
+BR3GI,Ordos,Inner Mongolia,China,Master,1,439.75000,460148,43.129.83.124,460148,1,460477,-5.000,"BH3HAO, BH3GGN",Mixed Mode
+BH3HAO,Ordos,Inner Mongolia,China,Master,1,439.95000,460149,43.129.83.124,460149,1,None,-9.900,BH3HAO,TS1 TS2
 BH8QFX,bijieshi,Sichuan Guizhou Chongqing Yunnan,China,Master,1,439.11000,460150,27,460150,1,460857,-5.000,BH8QFX,Mixed Mode
 BH8QFX,bijieshi,Sichuan Guizhou Chongqing Yunnan,China,Master,1,439.28500,460151,27,460151,1,460857,-5.000,"BH8QFX, BH8PPE",Mixed Mode
 BR2AG,Harbin,Heilongjiang Jilin Liaoning,China,Master,1,145.77500,460206,china telcom,460206,1,,-0.600,BR2AG,TS2
@@ -10591,7 +10591,7 @@ CE2DJA,Vina del Mar,Valparaiso,Chile,Peer,1,438.15000,730215,BrandMeister,730215
 CE2UGO,VALPARAISO,Valparaiso,Chile,None,1,433.50000,730216,Master Chile,730216,1,,+5.000,CE2UGO,TS1
 CE2KVL,valparaiso,Coquimbo,Chile,None,1,434.95000,730217,DMR BM,730217,1,,+5.000,CE2KVL,TS1 TS2
 CE2AND,Los Andes,Valparaiso,Chile,Peer,1,147.21000,730218,BM-Chile 7301,730218,1,,+0.600,CE2PZJ,TS1 TS2
-CE3DY,pte alto,Reg.Metr. de Santiago,Chile,Peer,1,145.44000,730302,BM,730302,1,"730 ,7303 ,730911 ,7304 ,7305",-0.600,CE3DY,TS1 TS2
+CE3DY,pte alto,Reg.Metr. de Santiago,Chile,Peer,1,147.39000,730302,BM,730302,1,"730 ,7303 ,730911 ,7304 ,7305",+0.600,CE3DY,TS1 TS2
 CE3AA,SANTIAGO,Reg.Metr. de Santiago,Chile,None,1,146.64000,730307,DMR-MARC,730307,1,,-0.600,CE3AA,None
 CD3FTS,Maipu,Reg.Metr. de Santiago,Chile,Master,1,147.00000,730308,192.168.11.1,730308,1,,-0.600,CD3FTS,TS1
 CE3HIR,santiago,Reg.Metr. de Santiago,Chile,None,1,145.40000,730309,192.168.11.1,730309,1,,+0.600,XQ2HIR,TS1 TS2
@@ -10629,6 +10629,7 @@ YV4EGG,Valencia,Carabobo,Venezuela,Peer,1,439.70000,734013,BrandMeister,734013,0
 YV5VE,Caracas,Distrito Capital,Venezuela,Peer,1,439.60000,734014,BM,734014,1,734 73452,-5.000,YV5VE,TS1 TS2
 YV1GDQ,Ciudad Ojeda,Zulia,Venezuela,Peer,1,439.60000,734015,BM,734015,1,TS1734/TS273452,-5.000,YV1GDQ,TS1 TS2
 YV5CBO,La Guaira,Distrito Capital,Venezuela,Master,1,147.15000,734016,BM,734016,1,None,+0.600,YV5CBO,Mixed Mode
+YV4VEC,VALENCIA,Carabobo,Venezuela,Peer,1,146.64000,734017,ADN Systems,734017,1,REPETIDOR AL SERVICIO DE TODOS LOS RADIOAFICIONADOS DE LA CIUDAD DE VALENCIA Y SUS ALREDEDORES.,-0.600,YV4VEC,TS1 TS2
 YV1GAG,MARACAIBO,Zulia,Venezuela,Master,1,439.87500,734101,ADN SYSTEM,734101,0,TG 734 Principal<br>TG 7341 Zona YV1<br>TG 73440 NET DIGITAL VENEZUELA,-5.000,YV1GAG,TS1 TS2
 YV1GAG,maracaibo,Zulia,Venezuela,Master,1,439.57500,734102,BM,734102,1,REPETIDOR DMR MMDVM UHF PARA LA RED BM<br>734 slot 1<br>7341 slot 2,-5.000,YV1GAG,TS1 TS2
 YV4KW,Valencia Carabobo,Aragua,Venezuela,Master,1,146.88000,734401,DMR-Marc,734401,1,,-0.600,YV4KW,TS1
