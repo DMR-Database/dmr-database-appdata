@@ -1296,6 +1296,8 @@ IR9UAO,Santa Margherita Di Belice,Sicily,Italy,Master,1,430.07500,BM,37.69139,13
 IR5ZZK,Monte Serra Pisa,Tuscany,Italy,Master,1,431.28750,Brandmeister,43.7482350,10.5559840,222464,None,1.600,ACTIVE,IZ5IIN,Mixed Mode
 IR0ZWG,Itri,Lazio / Umbria / Sardinia,Italy,Master,1,145.77500,DMR-plus,41.26801,13.52501,222465,None,-0.600,ACTIVE,IU0DLI,TS1 TS2
 IR8ZXL,Montoro,Molise / Campania / Calabria,Italy,Master,1,144.93750,BM,40.8221700,14.7563100,222466,None,0.000,ACTIVE,IZ0THD,TS2
+IR8ZXJ,REGGIO CALABRIA,Molise / Campania / Calabria,Italy,Master,1,430.15000,192.168.1.2,38.0719280,15.6747910,222467,None,16,ACTIVE,IT9HJH,TS1
+IR9ZVV,ITALA,Sicily,Italy,Peer,1,430.07500,192.168.1.3,38.0638200,15.4030380,222468,None,16.000,ACTIVE,IT9HJH,TS1
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,DMR-plus,43.851292,10.667000,222500,,+5.000,ACTIVE,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,DMR-plus,43.831721,11.1992239,222501,,5.000,ACTIVE,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,BM,44.0094968,10.1019306,222502,,5.000,ACTIVE,IK5BNG,TS1 TS2
@@ -4041,7 +4043,7 @@ YM1VKR,Kirklareli,Aegean Region,Turkiye,Master,1,439.37500,DMR,0.0,0.0,286040,28
 YM3VFD,izmir,Aegean Region,Turkiye,Master,1,439.21250,DMR,38.4224548,27.1310699,286042,TOPLUM VE AFET EKİPLERİ HABERLEŞME DERNEĞİ,-7.600,ACTIVE,YM3VFD,TS1 TS2
 YM4KFE,Mugla,Mediterranean Region,Turkiye,Master,1,439.37500,BM,36.8689,29.0300,286043,FARAD<br>Fethiye Telsiz ve Radyo Amatörleri Derneği<br><br>RX: 431.775<br>TX: 439.375<br>DMR CC 1<br>YSF / D-star / Nxdn<br>,-7.600,ACTIVE,TA4ALA,Mixed Mode
 YM3KBL,Balikesir,Aegean Region,Turkiye,Master,1,439.31250,BM,39.275800,27.023600,286045,,-7.600,ACTIVE,YM3KBL,TS1 TS2
-YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,145.72500,BM,36.9863599,35.3252861,286046,286046,-0.600,ACTIVE,TA5FW,TS1 TS2
+YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,145.72500,BM,36.5910900,35.1931000,286046,286046,-0.600,ACTIVE,TA5FW,TS1 TS2
 YM3KD,Balikesir,Marmara Region,Turkiye,Peer,1,439.37500,BM,39.63126648518424,27.870454716033713,286047,PSC Network:BM - Color Code:1 Mixed Mode - Operator:TB5FDX & TA3DZ<br>Time Slot # 1 - Group Call 28610 = Balikesir<br>Time Slot # 1 - Group Call 286 = TR,-7.600,ACTIVE,TA3RDX,TS1 TS2
 YM2KZ,Zonguldak,Black Sea Region,Turkiye,Master,1,447.60000,DMR,41.438001,31.782440,286048,,-7.600,ACTIVE,TA2CGC,TS1 TS2
 YM3VFD,Izmir,Aegean Region,Turkiye,Master,1,439.41250,DMR,38.4224548,27.1310699,286049,TOPLUM VE AFET EKİPLERİ HABERLEŞME ARAMA KURTARMA DERNEĞİ,-7.600,ACTIVE,YM3VFD,TS1 TS2
@@ -8763,7 +8765,7 @@ W4LET,Memphis,Tennessee,United States,Master,1,443.01250,DMR-MARC,35.145317,-89.
 WB4JGI,Cleveland,Tennessee,United States,Master,1,440.80000,VolNet,35.1595182,-84.8766115,314707,,+5.000,ACTIVE,WB4JGI,TS1 TS2
 WA4BGK,Nashville,Tennessee,United States,Peer,1,444.58750,ChicagoLand,36.182225,-86.7919922,314708,"Time Slot #1 - Group Call 1 = Worldwide (PTT)<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 13= Worldwide English<br>Time Slot #2 - group Call 3147= TN Statewide<br>Time Slot #2- Group Call 2 = Local<br><br>Contact: Bob, WA4BGK<br>Email: bobstewart@email.com",+5.000,ACTIVE,WA4BGK,TS1 TS2
 K4OZE,Gallatin,Tennessee,United States,Master,1,442.91250,VolNet,36.483681,-86.311378,314709,,+5.000,ACTIVE,WD4BKY,TS1 TS2
-K1LNX,Knoxville,Tennessee,United States,None,1,443.66250,VolNET,35.9603948,-83.9210261,314713,,+5.000,ACTIVE,K1LNX,TS1 TS2
+K1LNX,Knoxville,Tennessee,United States,Peer,1,443.66250,VolNET,35.9603948,-83.9210261,314713,,+5.000,ACTIVE,K1LNX,TS1 TS2
 KK4WTI,Jonesborough,Tennessee,United States,Peer,1,442.58750,Private Radio Net,36.2965,-82.4735,314714,"KK4WTI 442.5875 +5 MHz, Color Code 1",+5.000,ACTIVE,KK4WTI,TS1 TS2
 KF4TNP,Manchester,Tennessee,United States,Peer,1,442.86250,VolNET,35.4817432,-86.0885993,314715,,+5.000,ACTIVE,KF4TNP,TS1 TS2
 W4PL,CHATTANOOGA,Tennessee,United States,None,1,444.15000,BrandMeister,35.208481,-85.280930,314716,,+5.000,ACTIVE,K4VCM,TS1 TS2
@@ -8829,7 +8831,7 @@ W9LY,Michigan City,Indiana,United States,Master,1,146.97000,BM,41.656479,-86.766
 WR3IRS,Bucktown,Pennsylvania,United States,Peer,1,445.08125,Interstate,40.175,-75.662,314792,Currently operating standalone - connection to Interstate system forthcoming.,-5.000,ACTIVE,WN3A,TS1 TS2
 N3MRG,Salisbury,Maryland,United States,Master,6,442.65000,Interstate,38.24,-75.34,314793,Delmarvadmr.com,+5.000,ACTIVE,N3HSK,TS1 TS2
 NH7TR,San Antonio,Texas,United States,Master,1,446.30000,BM,29.577997,-98.237889,314794,,-5.000,ACTIVE,NH7TR,TS2
-KD2UQK,Deer Park,New York,United States,Peer,1,444.57500,BM,40.8648380,-73.0433860,314795,,+5.000,ACTIVE,KD2UQK,Mixed Mode
+KD2UQK,Deer Park,New York,United States,Peer,1,440.25000,BM,40.7056920,-73.3743140,314795,,+5.000,ACTIVE,KD2UQK,TS1
 WD4EMA,Chatsworth,Georgia,United States,Peer,1,440.65000,BM,34.7702157,-84.7032018,314796,Timeslot 1 used for BM Talk groups.<br>Timeslot 2 used for local communications.,+5.0,ACTIVE,WD4EMA,TS1 TS2
 K6ACR,Arroyo Grande,California,United States,Peer,8,147.18000,Brandmeister,35.1070850,-120.5170430,314797,None,+600.000,ACTIVE,K6ACR,TS1 TS2
 KM4BLG,Mars Hill,North Carolina,United States,Master,1,442.10000,Brandmeister,35.8872842,-82.5569468,314798,None,+5.000,ACTIVE,KM4BLG,TS1 TS2
@@ -9248,6 +9250,7 @@ NP4PC,San Sebastian  Puerto Rico,,Puerto Rico,Master,1,448.65000,BM,18.284902,-6
 KP3JE,Aguada,,Puerto Rico,Master,1,449.62500,BM,18.1859,-67.1049,330115,,-5.000,ACTIVE,KP3JE,TS1
 WP4SBC,Maunabo,All Regions,Puerto Rico,Master,1,438.80000,FreeDMR,17.996719,-65.884503,330116,Bienvenidos a RadioAficionado Digital P.R. Jueyero Isla<br>BM DMR: 330116 en Maunabo P.R. Cuidad Jueyera..Grupo con temas de la radio y otros de interés para los RadioAficionados..Ven y Comparte con Nosotros...,+5.000,ACTIVE,WP4SBC,TS2
 KP4LAC,Lajas,,Puerto Rico,Master,1,447.97500,BM,17.99828,-67.09462,330117,"TS1 330050, TS2 33027",-5.000,ACTIVE,WP3B,TS1 TS2
+KP4IGI,bayamon,All Regions,Puerto Rico,Peer,1,440.80000,330010127,18.2885400,-66.1628100,330118,None,+5.000,ACTIVE,KP4IGI,TS1
 KP4NU,Caguas,,Puerto Rico,Peer,1,447.50000,BrandMeister (U.S.A.),18.2387995,-66.035249,330201,,-5.000,ACTIVE,KP4NU,TS1 TS2
 WP4MXB,Cayey,,Puerto Rico,Master,1,447.20000,Brandmeister,18.112520,-66.154251,330202,,-5.000,ACTIVE,WP4MXB,TS1 TS2
 KP4AG,Guaynabo,,Puerto Rico,Master,1,447.75000,brandmeister,18.3574502,-66.1109998,330304,,-5.000,ACTIVE,KP4GA,TS1 TS2
@@ -9369,11 +9372,11 @@ HI8RCD,Santo Domingo,Distrito Nacional,Dominican Republic,Master,2,447.00000,Bra
 HI8K,Samana,Samana,Dominican Republic,Peer,1,447.70000,Brandmeister,19.2080704,-69.3324518,370902,,-5.000,ACTIVE,HI8K,TS1 TS2
 HH2MJF,Port-au-Prince,Ouest,Haiti,Nationwide,1,0.00000,BrandMeister,18.511264,-72.287153,372001,"HH2MJF Repeater, Worldwide coverage via Brandmeister network TalkGroup/372 (TG372) ""Haiti Creole"".",-600,ACTIVE,HH2MJF,1
 HH8M,Jacmel,Sud-Est,Haiti,Peer,1,0.00000,BrandMeister,18.2352587,-72.5375127,372002,,+5.000,ACTIVE,HH8M,TS1
-9Y4DG,San Fernando,,Trinidad and Tobago,Master,1,443.50000,TGIF,10.246065,-61.46585,374001,,+5.000,ACTIVE,9Y4DG,2
-9Y4DG,San Fernando,,Trinidad and Tobago,Master,1,448.27500,Brandmeister,10.246065,-61.46585,374002,,-5.000,ACTIVE,9Y4DG,2
-9Y4DG,San Fernando,,Trinidad and Tobago,Master,1,447.50000,Brandmeister,10.2752,-61.4691,374003,,-5.000,ACTIVE,9Y4DG,2
-9Y4DG,San Fernando,,Trinidad and Tobago,Master,1,443.62500,Brandmeister,10.3423,-61.4691,374004,,+5.000,ACTIVE,9Y4DG,2
-9Y4DG,San Fernando,,Trinidad and Tobago,Master,1,443.90000,Brandmeister,10.6542,-61.3810,374005,,+5.000,ACTIVE,9Y4DG,2
+9Y4DG,San Fernando,All Regions,Trinidad and Tobago,Master,1,443.50000,TGIF,10.246065,-61.46585,374001,,+5.000,ACTIVE,9Y4DG,TS1
+9Y4DG,San Fernando,All Regions,Trinidad and Tobago,Master,1,448.27500,Brandmeister,10.246065,-61.46585,374002,,-5.000,ACTIVE,9Y4DG,TS1
+9Y4DG,San Fernando,All Regions,Trinidad and Tobago,Master,1,447.50000,Brandmeister,10.2752,-61.4691,374003,,-5.000,ACTIVE,9Y4DG,TS1
+9Y4DG,San Fernando,All Regions,Trinidad and Tobago,Master,1,443.62500,Brandmeister,10.3423,-61.4691,374004,,+5.000,ACTIVE,9Y4DG,TS1
+9Y4DG,San Fernando,All Regions,Trinidad and Tobago,Master,1,443.90000,Brandmeister,10.6542,-61.3810,374005,,+5.000,ACTIVE,9Y4DG,TS1
 9Z4RG,Port-Of-Spain,,Trinidad and Tobago,Peer,1,147.85000,BrandMeister,10.663056,-61.523335,374006,"BrandMeister TG374 - Trinidad and Tobago - TS1, CC1.  For info contact 9Z4RG via robby@9Z4RG.com.",-0.600,ACTIVE,9Y4R,1
 9Z4RG,Port-Of-Spain,,Trinidad and Tobago,Peer,1,147.60000,K4USD,10.663056,-61.523333,374007,"K4USD C-Bridge TS1 BrandMeister TG4740,  TS2 TGIF TGF969 DV Caribbean, CC1.  For info contact 9Z4RG via robby@9Z4RG.com",-0.600,ACTIVE,9Y4R,1
 9Z4RG,Port-Of-Spain,,Trinidad and Tobago,Peer,1,145.33000,TGIF,10.663056,-61.523333,374008,"TGIF TG969 - DMR Caribbean - TS1, CC1.  For info contact 9Z4RG at robby@9Z4RG.com",-0.600,ACTIVE,9Y4R,1
