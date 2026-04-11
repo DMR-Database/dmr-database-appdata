@@ -115,6 +115,7 @@ NY4Z,Portable Repeat,New York,United States,Peer,3,440.60000,113623,NY-DMR,11362
 W2SLV,Parishville,New York,United States,Master,1,442.30000,113624,CAN_TRBO,113624,0,DMR to Analog bridge <br>GARA NETWORK<br><br>Trustee-KE2EMS<br>Contact Email- KE2EMS@TWC.COM,+5.000,KE2EMS,TS1
 W2RGM,Huntington,New York,United States,Peer,1,448.47500,113625,cantrbo,113625,1,,-5.000,W2RGM,TS1 TS2
 W2OM,Lockport,New York,United States,None,1,444.62500,113626,None,113626,0,,+5.000,W2OM,Mixed Mode
+N2YQT,Lake Luzerne,New York,United States,Peer,1,445.00000,113627,C-Bridge,113627,0,,-5.000,N2YQT,TS1 TS2
 KC2WBX,Royalton,New York,United States,Peer,1,443.58750,113628,BM,113628,0,,+5.000,KC2WBX,TS1 TS2
 NY4Z,Mahopac,New York,United States,Peer,3,440.61875,113629,NY-DMR,113629,1,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,+5.000,NY4Z,TS1 TS2
 NY1FD,New Rochelle,New York,United States,Peer,1,145.49500,113630,Bronx TRBO,113630,1,,-0.600,W2MAC,TS1 TS2
@@ -335,7 +336,7 @@ ON0CEE,Warerloo,Wal. Brabant,Belgium,Master,0,438.43750,206903,FM/C4FM,206903,1,
 ON0LUS,ATHUS,,Belgium,,2,439.23750,206908,DMR-plus,206908,1,,-7.600,ON4LDM,TS1 TS2
 F1ZEI,Les Lilas,,France,Master,1,430.17500,208000,DMR-plus,208000,1,,9.400,F1TDI,TS1 TS2
 F1ZFI,Vaux Le Penil,,France,,1,430.35000,208001,BM,208001,1,,9.400,F4GQK,TS1 TS2
-F6ZAN,MONTIGNY LE BRETONNEUX,Ile-de-France,France,Master,1,430.03750,208002,FREEDMR,208002,1,,+9.4,F1SCA,TS1 TS2
+F6ZAN,MONTIGNY LE BRETONNEUX,Ile-de-France,France,Master,1,430.03750,208002,ADN,208002,1,,+9.4,F1SCA,TS1 TS2
 F5ZDO,Fontenay-Tresigny,Centre-Val de Loire,France,,1,430.35000,208003,BM,208003,1,,9.400,F4GQK,TS1 TS2
 F1ZDW,Fontenay-Tresigny,Centre-Val de Loire,France,,1,431.00000,208004,BM,208004,1,,7.600,F4GQK,TS1 TS2
 F5ZJV,Valreas,Centre-Val de Loire,France,,3,430.40000,208005,DMR-plus,208005,0,,9.400,F8FJH,TS1 TS2
@@ -1260,7 +1261,7 @@ IR0UJA,Citta Di Castello,Lazio / Umbria / Sardinia,Italy,Master,1,430.36250,2224
 IR3ZWF,Forcella di Giais PN,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.02500,222427,BM,222427,1,,+1.600,IW3QOJ,TS1 TS2
 IR2ZYG,Monte Boletto,Lombardy,Italy,Peer,1,430.35000,222428,BM,222428,1,,+1.600,IZ2QCP,TS1 TS2
 IR7ZYW,Bari,Apulia / Basilicata,Italy,Peer,1,430.08750,222429,BM,222429,0,,+1.600,IZ7ECT,TS1 TS2
-IR2ZYE,Magenta,Lombardy,Italy,Peer,1,430.38750,222430,BM,222430,1,Hytera RD625 5w - 4 dipole RAC <br><br>SLOT 1: 22288 IT A.R.I.<br>SLOT 2: 22221 Lombardia,+1.600,IQ2MG,TS1 TS2
+IR2ZYE,Magenta,Lombardy,Italy,Peer,1,430.38750,222430,BM,222430,1,Hytera RD625 5w - 4 dipole RAC<br><br>SLOT 1: 22288 IT A.R.I.<br>SLOT 2: 22221 Lombardia,+1.600,IQ2MG,TS1 TS2
 IR2ZYF,Como,Lombardy,Italy,Peer,1,430.15000,222431,BM,222431,0,TG Lombardia,+1.600,IZ2QCP,TS1 TS2
 IR4UN,Terenzo - PR,Emilia-Romagna,Italy,Master,1,430.12500,222432,BM,222432,1,Slot01 = Dinamico<br>Slot02= Statico 22241,+1.600,IQ4AD,TS1 TS2
 IR2ZYJ,Laveno,Lombardy,Italy,Master,1,431.55000,222433,BM,222433,1,ARI VARESE<br>SASSO DEL FERRO,+1.600,IZ2QCP,TS1 TS2
@@ -1821,7 +1822,6 @@ GB7KS,Stroud,England,United Kingdom,Peer,2,430.25000,234002,BM,234002,1,Part of 
 GB7GP,High Wycombe,England,United Kingdom,Master,5,439.65000,234003,"BM, Pheonix, RAYNET",234003,1,,-9.000,M0GUY,TS1 TS2
 GB7SB,Birmingham,England,United Kingdom,Peer,5,439.66250,234004,BM,234004,1,TG75 slot 1<br>All other TGs dynamic access slot 2,-9.000,M0UEM,TS1 TS2
 GB7MS,Newcastle Upon Tyne,England,United Kingdom,Master,10,145.77500,234005,BM,234005,1,,-0.6,M0DMP,TS1 TS2
-GB7GR,Grantham,England,United Kingdom,Peer,5,439.45000,234007,DMR-plus,234007,1,,-9.000,G6SSN,TS1 TS2
 GB7WT,Omagh,Northern Ireland,United Kingdom,Peer,1,439.60000,234008,BM,234008,1,,-9.0000,GI3NVW,TS1 TS2
 GB7GW,Washington,England,United Kingdom,Master,10,430.81250,234009,SystemX,234009,1,"Multimode Repeater covering Washington & Sunderland areas of NE England. Analogue (CTCSS=103.5), DMR, DSTAR & FUSION.",+7.600,G1LBU,TS1 TS2
 GB3BW,Wakefield,England,United Kingdom,Master,4,430.81250,234010,YN-DMR,234010,1,,+7.600,M0YDG,TS1 TS2
@@ -9250,7 +9250,7 @@ NP4PC,San Sebastian  Puerto Rico,,Puerto Rico,Master,1,448.65000,330114,BM,33011
 KP3JE,Aguada,,Puerto Rico,Master,1,449.62500,330115,BM,330115,1,,-5.000,KP3JE,TS1
 WP4SBC,Maunabo,All Regions,Puerto Rico,Master,1,438.80000,330116,FreeDMR,330116,1,Bienvenidos a RadioAficionado Digital P.R. Jueyero Isla<br>BM DMR: 330116 en Maunabo P.R. Cuidad Jueyera..Grupo con temas de la radio y otros de inters para los RadioAficionados..Ven y Comparte con Nosotros...,+5.000,WP4SBC,TS2
 KP4LAC,Lajas,,Puerto Rico,Master,1,447.97500,330117,BM,330117,1,"TS1 330050, TS2 33027",-5.000,WP3B,TS1 TS2
-KP4IGI,bayamon,All Regions,Puerto Rico,Peer,1,440.80000,330118,330010127,330118,1,None,+5.000,KP4IGI,TS1
+KP4IGI,Bayamon,All Regions,Puerto Rico,Master,1,440.80000,330118,330010127,330118,1,None,+5.000,KP4IGI,TS1
 KP4NU,Caguas,,Puerto Rico,Peer,1,447.50000,330201,BrandMeister (U.S.A.),330201,1,,-5.000,KP4NU,TS1 TS2
 WP4MXB,Cayey,,Puerto Rico,Master,1,447.20000,330202,Brandmeister,330202,1,,-5.000,WP4MXB,TS1 TS2
 KP4AG,Guaynabo,,Puerto Rico,Master,1,447.75000,330304,brandmeister,330304,1,,-5.000,KP4GA,TS1 TS2
@@ -10520,9 +10520,9 @@ CE3RSC,Santiago,Reg.Metr. de Santiago,Chile,Metropolitana-Valparaiso,1,145.47000
 CE3RSC,Santiago,Reg.Metr. de Santiago,Chile,Valparaiso,1,147.00000,730007,Brandmeister/DMR-MARC,730007,1,TS1 TG: 730<br>TS2 TG: 7302-7303-7304-730911,+0.600,CE3RSC,TS1 TS2
 CE3RSC,Santiago,Reg.Metr. de Santiago,Chile,Metropolitana,1,438.20000,730008,Brandmeister/DMR-MARC,730008,1,TS1 TG:730<br>TS2 TG: 7302-7303-7304-730911,-5.000,CE3RSC,TS1 TS2
 CE2PZJ,Los Andes,Valparaiso,Chile,Peer,1,439.10000,730009,BM-Chile 7301,730009,1,,-5.000,CE2PZJ,TS1 TS2
-CE3LWU,Santiago De Chile,Reg.Metr. de Santiago,Chile,Master,1,434.56000,730010,DMR,730010,1,,+5.000,CE3LWU,Mixed
-CE3LWU,Santiago De Chile,Reg.Metr. de Santiago,Chile,Master,1,145.40000,730011,DMR,730011,1,,-0.600,CE3LWU,Mixed
-CE3LWU,Santiago De Chile,Reg.Metr. de Santiago,Chile,Master,1,431.00000,730012,DMR,730012,1,,+7.6000,CE3LWU,Mixed
+CE3LWU,Santiago De Chile,Reg.Metr. de Santiago,Chile,Master,1,434.56000,730010,DMR,730010,1,,+5.000,CE3LWU,TS1 TS2
+CE3LWU,Santiago De Chile,Reg.Metr. de Santiago,Chile,Master,1,145.40000,730011,DMR,730011,1,,-0.600,CE3LWU,TS1
+CE3LWU,Santiago De Chile,Reg.Metr. de Santiago,Chile,Master,1,431.00000,730012,DMR,730012,1,,+7.6000,CE3LWU,TS1 TS2
 CE6TC,Temuco,La Araucania,Chile,Temuco,1,147.27000,730013,Brandmeister,730013,0,,+0.600,CE6TC,TS1 TS2
 CE4PKZ,Lolol,Reg.Metr. de Santiago,Chile,Master,1,434.10000,730014,BrandMeister,730014,1,TG-LOLOL,+5.000,CE4PKZ,Mixed Mode
 CE6TC,Temuco,La Araucania,Chile,Temuco,1,146.61000,730016,Brandmeister,730016,0,,-0.600,CE6TC,TS1 TS2

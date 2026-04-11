@@ -115,6 +115,7 @@ NY4Z,Portable Repeat,New York,United States,Peer,3,440.60000,NY-DMR,41.1402322,-
 W2SLV,Parishville,New York,United States,Master,1,442.30000,CAN_TRBO,0.0,0.0,113624,DMR to Analog bridge <br>GARA NETWORK<br><br>Trustee-KE2EMS<br>Contact Email- KE2EMS@TWC.COM,+5.000,ACTIVE,KE2EMS,TS1
 W2RGM,Huntington,New York,United States,Peer,1,448.47500,cantrbo,40.8681539,-73.425676,113625,,-5.000,ACTIVE,W2RGM,TS1 TS2
 W2OM,Lockport,New York,United States,None,1,444.62500,None,0.0,0.0,113626,,+5.000,ACTIVE,W2OM,Mixed Mode
+N2YQT,Lake Luzerne,New York,United States,Peer,1,445.00000,C-Bridge,43.29533,-73.63028,113627,,-5.000,ACTIVE,N2YQT,TS1 TS2
 KC2WBX,Royalton,New York,United States,Peer,1,443.58750,BM,0.0,0.0,113628,,+5.000,ACTIVE,KC2WBX,TS1 TS2
 NY4Z,Mahopac,New York,United States,Peer,3,440.61875,NY-DMR,41.4300937,-73.6801297,113629,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,+5.000,ACTIVE,NY4Z,TS1 TS2
 NY1FD,New Rochelle,New York,United States,Peer,1,145.49500,Bronx TRBO,40.9114882,-73.7823549,113630,,-0.600,ACTIVE,W2MAC,TS1 TS2
@@ -335,7 +336,7 @@ ON0CEE,Warerloo,Wal. Brabant,Belgium,Master,0,438.43750,FM/C4FM,50.89492405,4.34
 ON0LUS,ATHUS,,Belgium,,2,439.23750,DMR-plus,49.566601,5.843000,206908,,-7.600,ACTIVE,ON4LDM,TS1 TS2
 F1ZEI,Les Lilas,,France,Master,1,430.17500,DMR-plus,46.515999,3.387000,208000,,9.400,ACTIVE,F1TDI,TS1 TS2
 F1ZFI,Vaux Le Penil,,France,,1,430.35000,BM,48.5255542,2.6831642,208001,,9.400,ACTIVE,F4GQK,TS1 TS2
-F6ZAN,MONTIGNY LE BRETONNEUX,Ile-de-France,France,Master,1,430.03750,FREEDMR,48.77361,2.03416,208002,,+9.4,ACTIVE,F1SCA,TS1 TS2
+F6ZAN,MONTIGNY LE BRETONNEUX,Ile-de-France,France,Master,1,430.03750,ADN,48.77361,2.03416,208002,,+9.4,ACTIVE,F1SCA,TS1 TS2
 F5ZDO,Fontenay-Tresigny,Centre-Val de Loire,France,,1,430.35000,BM,48.7100369,2.8722456,208003,,9.400,ACTIVE,F4GQK,TS1 TS2
 F1ZDW,Fontenay-Tresigny,Centre-Val de Loire,France,,1,431.00000,BM,48.551880,3.015060,208004,,7.600,ACTIVE,F4GQK,TS1 TS2
 F5ZJV,Valreas,Centre-Val de Loire,France,,3,430.40000,DMR-plus,,,208005,,9.400,ACTIVE,F8FJH,TS1 TS2
@@ -1260,7 +1261,7 @@ IR0UJA,Citta Di Castello,Lazio / Umbria / Sardinia,Italy,Master,1,430.36250,"BM,
 IR3ZWF,Forcella di Giais PN,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.02500,BM,46.12449,12.55705,222427,,+1.600,ACTIVE,IW3QOJ,TS1 TS2
 IR2ZYG,Monte Boletto,Lombardy,Italy,Peer,1,430.35000,BM,45.83588,9.126665,222428,,+1.600,ACTIVE,IZ2QCP,TS1 TS2
 IR7ZYW,Bari,Apulia / Basilicata,Italy,Peer,1,430.08750,BM,41.10017,16.88653,222429,,+1.600,ACTIVE,IZ7ECT,TS1 TS2
-IR2ZYE,Magenta,Lombardy,Italy,Peer,1,430.38750,BM,45.470440,8.893110,222430,Hytera RD625 5w - 4 dipole RAC <br><br>SLOT 1: 22288 IT A.R.I.<br>SLOT 2: 22221 Lombardia,+1.600,ACTIVE,IQ2MG,TS1 TS2
+IR2ZYE,Magenta,Lombardy,Italy,Peer,1,430.38750,BM,45.470440,8.893110,222430,Hytera RD625 5w - 4 dipole RAC<br><br>SLOT 1: 22288 IT A.R.I.<br>SLOT 2: 22221 Lombardia,+1.600,ACTIVE,IQ2MG,TS1 TS2
 IR2ZYF,Como,Lombardy,Italy,Peer,1,430.15000,BM,45.80751,9.0813,222431,TG Lombardia,+1.600,ACTIVE,IZ2QCP,TS1 TS2
 IR4UN,Terenzo - PR,Emilia-Romagna,Italy,Master,1,430.12500,BM,44.3522,10.0301,222432,Slot01 = Dinamico<br>Slot02= Statico 22241,+1.600,ACTIVE,IQ4AD,TS1 TS2
 IR2ZYJ,Laveno,Lombardy,Italy,Master,1,431.55000,BM,45.911184,8.637161,222433,ARI VARESE<br>SASSO DEL FERRO,+1.600,ACTIVE,IZ2QCP,TS1 TS2
@@ -1821,7 +1822,6 @@ GB7KS,Stroud,England,United Kingdom,Peer,2,430.25000,BM,51.727,-2.246,234002,Par
 GB7GP,High Wycombe,England,United Kingdom,Master,5,439.65000,"BM, Pheonix, RAYNET",51.62000,-0.748000,234003,,-9.000,ACTIVE,M0GUY,TS1 TS2
 GB7SB,Birmingham,England,United Kingdom,Peer,5,439.66250,BM,52.410709,-1.932882,234004,TG75 slot 1<br>All other TG’s dynamic access slot 2,-9.000,ACTIVE,M0UEM,TS1 TS2
 GB7MS,Newcastle Upon Tyne,England,United Kingdom,Master,10,145.77500,BM,54.5842,-1.3666,234005,,-0.6,ACTIVE,M0DMP,TS1 TS2
-GB7GR,Grantham,England,United Kingdom,Peer,5,439.45000,DMR-plus,52.9065217,-0.6430066,234007,,-9.000,ACTIVE,G6SSN,TS1 TS2
 GB7WT,Omagh,Northern Ireland,United Kingdom,Peer,1,439.60000,BM,54.5992486,-7.394544,234008,,-9.0000,ACTIVE,GI3NVW,TS1 TS2
 GB7GW,Washington,England,United Kingdom,Master,10,430.81250,SystemX,54.915579,-1.50349,234009,"Multimode Repeater covering Washington & Sunderland areas of NE England. Analogue (CTCSS=103.5), DMR, DSTAR & FUSION.",+7.600,ACTIVE,G1LBU,TS1 TS2
 GB3BW,Wakefield,England,United Kingdom,Master,4,430.81250,YN-DMR,53.6829541,-1.4967286,234010,,+7.600,ACTIVE,M0YDG,TS1 TS2
@@ -5428,7 +5428,7 @@ N2GQ,Deer Park,New York,United States,Master,1,440.50000,BrandMeister,40.756799,
 KN4GVY,Portable 1,Florida,United States,Peer,2,444.10000,F-DARN,28.0306,-82.7090,310894,Florida Digital Amateur Radio Network<br>www.fdarn.com<br>info@fdarn.com<br><br>Time Slot: 1<br>Group Code: 1 = Worldwide (PTT 30)<br>Group Code: 3 = North America  (PTT 30)  <br>Group Code: 310 = TAC 310   (PTT 30)<br>Group Code: 311 = TAC 311   (PTT 30)<br>Group Code: 312 = TAC 312   (PTT 30)<br>Group Code: 313 = TAC 313   (PTT 30)<br>Group Code: 314 = TAC 314   (PTT 30)<br>Group Code: 315 = TAC 315   (PTT 30)<br>Group Code: 316 = TAC 316   (PTT 30)<br>Group Code: 317 = TAC 317   (PTT 30)<br>Group Code: 318 = TAC 318   (PTT 30)<br>Group Code: 319 = TAC 319   (PTT 30)<br>Group Code: 3112 =  Florida Statewide<br>Group Code: 3113 =  Georgia Statewide (PTT 30) <br>Group Code: 3174 = South East (PTT 30)<br>Group Code: 8710 =  Indiana Statewide (PTT 30)<br>Group Code: 31665 =  T.G.IF. (PTT 30)<br>Group Code: 31121 = First Coast (PTT 30)<br><br>Time Slot: 2<br>Group Code: 9 = Local Repeater Only<br>Group Code: 2 = F-Darn Repeater System,+5.000,ACTIVE,KJ4FEC,TS1 TS2
 KC8MSE,Fremont,Michigan,United States,Peer,1,442.01250,MI5,43.468313,-85.917967,310896,"New Repeater in Fremont, MI, still being constructed.",+5.000,ACTIVE,KC8MSE,TS1 TS2
 AA5RO,San Antonio,Texas,United States,30,1,443.87500,BrandMeister,29.5078264,-98.5780943,310897,,+5,ACTIVE,N5CDA,1 & 2
-KC2CWT,MMDVM Server,Florida,United States,Master,1,444.52500,DMR-SE,24.673413,-81.246607,310898,MMDVM Repeater Connect to DMR-SE MMDVM Server,+0.0000,ACTIVE,KC2CWT,TS1 TS2
+KC2CWT,MMDVM Server,Florida,United States,Master,1,444.52500,DMR-SE,26.1261880,-80.2265560,310898,MMDVM Repeater Connect to DMR-SE MMDVM Server,+0.0000,ACTIVE,KC2CWT,TS1 TS2
 KC2CWT,NewYork,New York,United States,Master,1,443.50000,DMR-SE,40.793655,-73.675923,310899,,+0.0000,ACTIVE,KC2CWT,Mixed Mode
 K1IIG,Wallingford,Connecticut,United States,Peer,1,447.92500,"K0USY Net Wallingford, CT",41.4570108,-72.8230736,310900,,-5.000,ACTIVE,K1IIG,TS1 TS2
 K1JCL,Coventry,Connecticut,United States,Peer,1,449.87500,NEDECN,41.784577,-72.2905967,310901,"Time Slot #1 - Group Call 1 = World Wide (Sat. Net)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3125 = MA SW*<br>Time Slot #1 - Group Call 8801 = NETAC1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #2 - Group Call 3181 = New England<br>Time Slot #2 - Group Call 3109 = CT SW<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 8802 = NETAC2*<br><br>* = PTT Activated<br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Steve, K1IIG<br>Email: stephen.tripp@snet.net<br>Website: http://nedecn.org",-5.000,ACTIVE,K1JCL,TS1 TS2
@@ -7791,7 +7791,7 @@ N2NSA,New York City,New York,United States,Peer,1,443.88750,Bronx-TRBO,40.848358
 NY4Z,Yorktown heights,New York,United States,Peer,1,443.15000,NY-DMR,41.2709274,-73.7776336,313626,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,+5.000,ACTIVE,NY4Z,TS1 TS2
 K2HR,Briarcliff Manor,New York,United States,Peer,1,443.60000,NY-DMR,41.1469917,-73.8400555,313627,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,+5.000,ACTIVE,NY4Z,TS1 TS2
 K2JRC,Manhattan West Side,New York,United States,Peer,3,443.70000,Bronx Trbo,40.8275793,-73.6897659,313628,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 3 = U.S. / English Speaking Countries<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #2 - Group Call 2 = NY-NJ Metro<br><br>You Must Have [ARS] Disabled Within Your Radi<br><br>Coverage Area: <br><br>Contact Name: Jerry, K2JRC<br>Email: jerrycudmore@pobox.com",+5.000,ACTIVE,K2JRC,TS1 TS2
-KC2CWT,RV Repeater,Florida,United States,Master,2,442.00000,DMR-SE MMDVM,0.0,0.0,313629,,-5.0,ACTIVE,KC2CWT,TS1 TS2
+KC2CWT,RV Repeater,Florida,United States,Master,2,442.00000,DMR-SE MMDVM,25.9975260,-80.4888250,313629,,-5.0,ACTIVE,KC2CWT,TS1 TS2
 NY4Z,Brooklyn,New York,United States,Peer,1,442.09375,Bronx-TRBO,40.693697500000006,-73.99086,313630,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,+5.000,ACTIVE,NY4Z,TS1 TS2
 NY4Z,Manhattan,New York,United States,Peer,10,440.60625,Bronx TRBO,40.7830603,-73.9712488,313631,For repeater information please go to:<br>www.nydmr.net<br>contact : Bernie NY4Z,-5.000,ACTIVE,NY4Z,TS1 TS2
 N2ION,Oceanside,New York,United States,Master,7,447.92500,DMR- NYNJ,40.6387141,-73.6401296,313632,,-0.500,ACTIVE,N2ION,TS1 TS2
@@ -9250,7 +9250,7 @@ NP4PC,San Sebastian  Puerto Rico,,Puerto Rico,Master,1,448.65000,BM,18.284902,-6
 KP3JE,Aguada,,Puerto Rico,Master,1,449.62500,BM,18.1859,-67.1049,330115,,-5.000,ACTIVE,KP3JE,TS1
 WP4SBC,Maunabo,All Regions,Puerto Rico,Master,1,438.80000,FreeDMR,17.996719,-65.884503,330116,Bienvenidos a RadioAficionado Digital P.R. Jueyero Isla<br>BM DMR: 330116 en Maunabo P.R. Cuidad Jueyera..Grupo con temas de la radio y otros de interés para los RadioAficionados..Ven y Comparte con Nosotros...,+5.000,ACTIVE,WP4SBC,TS2
 KP4LAC,Lajas,,Puerto Rico,Master,1,447.97500,BM,17.99828,-67.09462,330117,"TS1 330050, TS2 33027",-5.000,ACTIVE,WP3B,TS1 TS2
-KP4IGI,bayamon,All Regions,Puerto Rico,Peer,1,440.80000,330010127,18.2885400,-66.1628100,330118,None,+5.000,ACTIVE,KP4IGI,TS1
+KP4IGI,Bayamon,All Regions,Puerto Rico,Master,1,440.80000,330010127,18.2885400,-66.1628100,330118,None,+5.000,ACTIVE,KP4IGI,TS1
 KP4NU,Caguas,,Puerto Rico,Peer,1,447.50000,BrandMeister (U.S.A.),18.2387995,-66.035249,330201,,-5.000,ACTIVE,KP4NU,TS1 TS2
 WP4MXB,Cayey,,Puerto Rico,Master,1,447.20000,Brandmeister,18.112520,-66.154251,330202,,-5.000,ACTIVE,WP4MXB,TS1 TS2
 KP4AG,Guaynabo,,Puerto Rico,Master,1,447.75000,brandmeister,18.3574502,-66.1109998,330304,,-5.000,ACTIVE,KP4GA,TS1 TS2
@@ -10511,8 +10511,8 @@ PY6CQ,Salvador,Bahia,Brazil,Peer,1,146.95000,BrandMeister,-12.986000,-38.460831,
 PY7DV,Jaboatao dos Guara,Pernambuco,Brazil,Peer,1,146.73000,BrandMeister,-8.114170,-35.015671,724901,,-0.600,ACTIVE,PY7MS,TS1 TS2
 PY7UCA,Pernambuco,Pernambuco,Brazil,Peer,1,439.90000,DMR+,-8.173790,-35.923550,724903,,-5.000,ACTIVE,PY7MBL,TS1 TS2
 PY7NJ,caruaru,Pernambuco,Brazil,Peer,1,147.06000,dmr+,-8.279450,-35.929081,724904,,-0.600,ACTIVE,PY7LFB,TS1 TS2
-CE3LWU,Santiago,Reg.Metr. de Santiago,Chile,Master,1,145.40000,Mixed Mode,-33.031300,-71.580902,730001,,-0.600,ACTIVE,CE3LWU,Mixed Mode
-CE3LWU,Santiago,Reg.Metr. de Santiago,Chile,Master,1,438.20000,mixed mode,-33.031300,-71.580902,730002,,-5.000,ACTIVE,CE3LWU,Mixed Mode
+CE3LWU,Santiago,Reg.Metr. de Santiago,Chile,Master,1,145.40000,Mixed Mode,-36.5795726,-72.4239565,730001,,-0.600,ACTIVE,CE3LWU,Mixed Mode
+CE3LWU,Santiago,Reg.Metr. de Santiago,Chile,Master,1,438.20000,mixed mode,-36.7020580,-72.5212170,730002,,-5.000,ACTIVE,CE3LWU,Mixed Mode
 CE2KVL,Valparaiso,Valparaiso,Chile,Valparaiso,1,145.50000,DMR BM,-33.1248,-70.32445,730003,,-0.600,ACTIVE,CE2KVL,TS1 TS2
 CE3RSC,Santiago,Reg.Metr. de Santiago,Chile,Valparaiso-Reg Metropolitana,1,146.85000,Brandmeister,-36.256001,-72.510002,730004,TS1 TG: 730<br>TS2 TG: 7303-7302-7304,-0.600,ACTIVE,CE3RSC,TS1 TS2
 CE3RSC,Santiago,Reg.Metr. de Santiago,Chile,Metropolitana-Valparaiso,1,433.85000,Brandmeister,-33.0265,-71.08016,730005,TS1 TG: 730<br>TS2 TG: 7302-7303-7304-7305-730911,+5.000,ACTIVE,CE3RSC,TS1 TS2
@@ -10520,9 +10520,9 @@ CE3RSC,Santiago,Reg.Metr. de Santiago,Chile,Metropolitana-Valparaiso,1,145.47000
 CE3RSC,Santiago,Reg.Metr. de Santiago,Chile,Valparaiso,1,147.00000,Brandmeister/DMR-MARC,-33.0265,-71.08016,730007,TS1 TG: 730<br>TS2 TG: 7302-7303-7304-730911,+0.600,ACTIVE,CE3RSC,TS1 TS2
 CE3RSC,Santiago,Reg.Metr. de Santiago,Chile,Metropolitana,1,438.20000,Brandmeister/DMR-MARC,-33.35265,-70.353104,730008,TS1 TG:730<br>TS2 TG: 7302-7303-7304-730911,-5.000,ACTIVE,CE3RSC,TS1 TS2
 CE2PZJ,Los Andes,Valparaiso,Chile,Peer,1,439.10000,BM-Chile 7301,-32.8336867,-70.5981609,730009,,-5.000,ACTIVE,CE2PZJ,TS1 TS2
-CE3LWU,Santiago De Chile,Reg.Metr. de Santiago,Chile,Master,1,434.56000,DMR,-36.3,-71.2,730010,,+5.000,ACTIVE,CE3LWU,Mixed
-CE3LWU,Santiago De Chile,Reg.Metr. de Santiago,Chile,Master,1,145.40000,DMR,-36.5000,-72.5000,730011,,-0.600,ACTIVE,CE3LWU,Mixed
-CE3LWU,Santiago De Chile,Reg.Metr. de Santiago,Chile,Master,1,431.00000,DMR,-36.5,-72.5,730012,,+7.6000,ACTIVE,CE3LWU,Mixed
+CE3LWU,Santiago De Chile,Reg.Metr. de Santiago,Chile,Master,1,434.56000,DMR,-36.5216050,-72.0856060,730010,,+5.000,ACTIVE,CE3LWU,TS1 TS2
+CE3LWU,Santiago De Chile,Reg.Metr. de Santiago,Chile,Master,1,145.40000,DMR,-36.5000,-72.5000,730011,,-0.600,ACTIVE,CE3LWU,TS1
+CE3LWU,Santiago De Chile,Reg.Metr. de Santiago,Chile,Master,1,431.00000,DMR,-36.5325840,-72.9339630,730012,,+7.6000,ACTIVE,CE3LWU,TS1 TS2
 CE6TC,Temuco,La Araucania,Chile,Temuco,1,147.27000,Brandmeister,0.0,0.0,730013,,+0.600,ACTIVE,CE6TC,TS1 TS2
 CE4PKZ,Lolol,Reg.Metr. de Santiago,Chile,Master,1,434.10000,BrandMeister,-34.430000,-71.389992,730014,TG-LOLOL,+5.000,ACTIVE,CE4PKZ,Mixed Mode
 CE6TC,Temuco,La Araucania,Chile,Temuco,1,146.61000,Brandmeister,0.0,0.0,730016,,-0.600,ACTIVE,CE6TC,TS1 TS2
