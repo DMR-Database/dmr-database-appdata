@@ -285,7 +285,6 @@ ON0HAS,Hasselt,Limburg,Belgium,Master,1,439.41250,206020,BM,206020,1,,-7.600,ON4
 ON0VTI,Tielt,West-Vlaanderen,Belgium,Peer,1,439.47500,206021,BM,206021,1,,-7.6,ON4AAK,TS1 TS2
 ON0BTS,Wavre,Wal. Brabant,Belgium,Peer,2,438.75000,206022,BM,206022,1,,-7.600,ON4LBO,TS1 TS2
 ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,438.67500,206023,BM,206023,1,206 2066,-7.600,ON7ASZ,TS1 TS2
-ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,439.30000,206024,BM,206024,1,Sloten TG1 TG2,-7.600,ON7ASZ,TS1 TS2
 ON0MSF,Ixelles,Brussels,Belgium,Master,2,439.27500,206025,BM,206025,1,,-7.6000,ON6RF,TS1 TS2
 ON0DV,Eupen,Liege,Belgium,Peer,1,439.30000,206027,Brandmeister,206027,1,None,-7.600,ON4LFE,TS1 TS2
 ON0UHF,Oostduinkerke,West-Vlaanderen,Belgium,Master,1,145.63750,206028,Brandmeister,206028,1,None,-0.600,ON6UHF,TS1 TS2
@@ -2696,7 +2695,7 @@ R2DYR,Orekhovo-Zuevo,All Regions,Russia,Master,1,434.97500,250036,brandmeister,2
 R9FEL,Chaikovsky,All Regions,Russia,Master,1,439.10000,250037,BM,250037,1,"(TG 250037)      , .       ,  ,    .",-0.76,R9FEL,TS1 TS2
 UB3ZKR,Belgorod,All Regions,Russia,Master,1,439.37500,250038,BM,250038,1,"TG9,TG8 ,TG31-TS1  ,TG2501,TG250648-TS2",-7.6,UB3ZKR,TS1 TS2
 RR3DW,Chehov,All Regions,Russia,Peer,7,145.77500,250039,BM,250039,1,,-0.600,"RC3DE, RU3H",Mixed Mode
-RR9CL,Yekaterinburg,,Russia,Master,1,145.72500,250040,BM,250040,1,DMR Repeater Radio Club EKAT,-0.000,R8DD,TS1
+RR9CL,Yekaterunburg,All Regions,Russia,Master,1,145.72500,250040,BM,250040,1,DMR Repeater Radio Club EKAT,-0.000,R8DD,TS1
 RA7XY,Nalchik,,Russia,Master,1,438.40000,250041,BM,250041,1,TG-250668,-7.600,RA7XY,TS1 TS2
 RR9HAA,Seversk,All Regions,Russia,Master,1,439.40000,250042,DMR,250042,1,,-7.600,R9HCV,Mixed Mode
 RR9JK,Megion,All Regions,Russia,Peer,1,145.60000,250043,BM,250043,1,25021<br>250086,-0.600,R9JK,TS1 TS2
@@ -5321,7 +5320,7 @@ KD4RTH,Chantilly,Virginia,United States,peer,1,443.15000,310763,BrandMeister,310
 AE4ML,Spotsylvania,Virginia,United States,Master,1,442.85000,310764,DMRVA,310764,1,,+5.00,AE4ML,TS1 TS2
 KA5PLE,Houston,Texas,United States,peer,1,441.17500,310765,Brandmeister,310765,1,Static: <br><br>Slot1: 93 (North America)<br><br>Slot2: 8207 (Houston Metro)<br>          8686 (SE TX EmComm)<br>          89003 (Reddit)<br>,+5,KA5PLE,both
 AE4ML,Spotsylvania,Virginia,United States,Peer,1,446.10000,310766,BM,310766,1,LOCAL SIMPLEX DMR 2 P25,0,AE4ML,1
-WB4BSD,Cleveland,Tennessee,United States,.,1,431.61000,310767,Brandmeister,310767,1,,+5.000,WB4BSD,1 and 2
+WB4BSD,Cleveland,Tennessee,United States,Master,1,431.61000,310767,Brandmeister,310767,1,,+5.000,WB4BSD,TS1
 K0USY,Hays,Kansas,United States,Peer,1,444.82500,310768,KS-DMR,310768,1,,+5.000,N0MJS,TS1 TS2
 KI6ND,Chico,California,United States,master,1,440.40000,310769,brandmeister,310769,1,,+5.000,KI6ND,2
 K3LPV,Essex,Maryland,United States,Master,1,449.90000,310770,b,310770,0,,0,K3LPV,TS1
@@ -8631,7 +8630,7 @@ WD4WDW,Orlando,Florida,United States,Master,3,442.57500,314549,BM,314549,1,,+5.0
 KJ6QAJ,Glendale,California,United States,Peer,2,430.71250,314550,BrandMeister,314550,1,"Status: ACTIVE<br>Callsign: KJ6QAJ<br>Frequency: 30.7125<br>Offset: +9.000<br>ColorCode: 2<br><br>Betty Davis Park<br>Glendale, California<br><br>BrandMeister:<br><br>Local TG-358358 Slot 1 Always On<br>REACT TG-3740 Slot 2 Always On<br>NorCal TG-312470 Slot 2 Always On<br>Website:",+9.000,KJ6QAJ,TS1 TS2
 K6CLX,Calexico,California,United States,Master,1,449.70000,314552,BrandMeister,314552,1,,-5.000,KI6YAA,TS1 TS2
 W1MRA,Marlborough,Massachusetts,United States,Master,0,927.70000,314553,P25,314553,1,,-25.00,K1IW,Mixed Mode
-WN1R,Gilmanton Iron Works,New Hampshire,United States,Peer,5,443.50000,314554,BM,314554,1,"<br><br>*********  CURRENTLY TESTING MODE  ********<br><br>443.500 +5.0 - CC5 <br>This is Motorola XPR8400 DMR repeater<br><br>Being Test at this location,  Will be open to all Amateur's - Available over IP<br><br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>Cogswell Mtn. 500 DMR (TG 314554)<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>TIME SLOT #1 WEEKLY NETS<br><br>TG-312801 - Thursday 1930-2200  NET, DMR Round Table <br>and general discussions about radios and DMR <br>network operation  anyone is welcome to join in to the NET. <br>Check-ins typically start @ 1915 -  Net Control is KD4VVZ<br><br><br><br><br><br><br>",+5.0,WN1R,TS1 TS2
+WN1R,Gilmanton Iron Works,New Hampshire,United States,Peer,5,443.50000,314554,BM,314554,1,"*********  CURRENTLY TESTING MODE  ********<br><br>443.500 +5.0 - CC5<br>This is Motorola XPR8400 DMR repeater<br><br>Being Test at this location,  Will be open to all Amateur's - Available over IP<br><br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>Cogswell Mtn. 500 DMR (TG 314554)<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>TIME SLOT #1 WEEKLY NETS<br><br>TG-312801 - Thursday 1930-2200  NET, DMR Round Table<br>and general discussions about radios and DMR<br>network operation  anyone is welcome to join in to the NET.<br>Check-ins typically start @ 1915 -  Net Control is KD4VVZ",+5.0,WN1R,TS1 TS2
 N9INK,Summers,Arkansas,United States,Peer,1,145.25000,314555,AmCommDMR,314555,1,,-0.0600,N9INK,TS1 TS2
 WB6CWN,Inyokern,California,United States,Master,15,449.46250,314556,AZTRBONET,314556,1,"A member of the AZTRBONET DMR network serving CA, AZ, NV, NM and TX.",-5.000,WB6CWN,TS1 TS2
 NB2A,Lady Lake,Florida,United States,Master,1,444.40000,314558,Interstate 2 C Bridge,314558,1,,+5.000,NB2A,TS1 TS2
@@ -8689,7 +8688,7 @@ W5LOS,Seguin,Texas,United States,Peer,1,444.92500,314612,TGIF,314612,1,TS 2 1007
 KD5FRY,columbus,Mississippi,United States,Master,1,443.52500,314613,Brandmeister,314613,1,,+5.000,KD5FRY,TS1 TS2
 WA9JTG,Edwardsville,Illinois,United States,Master,7,444.02500,314614,BM,314614,1,,+5.000,WA9JTG,TS1 TS2
 N4HRS,Norton,Virginia,United States,Peer,9,443.73750,314615,HEARS / DMRVA,314615,1,,+5.000,KD4ADL,TS1 TS2
-WN1R,Orange Beach,Alabama,United States,Peer,5,443.40000,314616,BM,314616,1,"GULF COAST DMR<br><br>Gulf Coast / Orange Beach DMR CHAT ON TIME SLOT 2 - USE TG 31011 -<br>TG 31011 is also used by the Mobile 500 Multi-Mode Repeater for extended coverage<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>LOCAL CHAT<br>TIME SLOT #2   USE TALK GROUP - 31011  <br>TG 31011 is also used by the Mobile 500 Multi-Mode Repeater for extended coverage <br><br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>TIME SLOT #1 WEEKLY NETS<br><br>TG-312801 (LUCEDALE) - Thursday 1930-2200  NET, DMR Round Table<br> and General discussions about radios and DMR network<br> operation  anyone is welcome to join in to the NET. <br>Check-ins typically start @ 1915 -  Net Control is KD4VVZ<br><br>TG-31011 (Gulf Coast DMR) - Thursday 1930-2200  NET,   DMR Round Table, All operators welcome to join in.<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br><br><br><br><br>",+5.0,WN1R,TS1 TS2
+WN1R,Orange Beach,Alabama,United States,Peer,5,443.40000,314616,BM,314616,1,"GULF COAST DMR<br><br>Gulf Coast / Orange Beach DMR CHAT ON TIME SLOT 2 - USE TG 31011 -<br>TG 31011 is also used by the Mobile 500 Multi-Mode Repeater for extended coverage<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>LOCAL CHAT<br>TIME SLOT #2   USE TALK GROUP - 31011<br>TG 31011 is also used by the Mobile 500 Multi-Mode Repeater for extended coverage<br><br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>TIME SLOT #1 WEEKLY NETS<br><br>Orange Beach DMR - TG-314616<br><br>TG-312801 (LUCEDALE) - Thursday 1930-2200  NET, DMR Round Table<br>and General discussions about radios and DMR network<br>operation  anyone is welcome to join in to the NET.<br>Check-ins typically start @ 1915 -  Net Control is KD4VVZ<br><br>TG-31011 (Gulf Coast DMR) - Thursday 1930-2200  NET,   DMR Round Table, All operators welcome to join in.<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$",+5.0,WN1R,TS1 TS2
 N4HRS,Honaker,Virginia,United States,Peer,9,444.81250,314617,HEARS / DMRVA,314617,1,,+5.000,KD4ADL,TS1 TS2
 N4HRS,Roanoke,Virginia,United States,Peer,9,444.21250,314618,DMRVA / N4HRS,314618,1,see n4hrs.org or DMRVA.org for details,+5.000,KD4ADL,TS1 TS2
 N4HRS,Lynchburg,Virginia,United States,Peer,9,443.55000,314619,HEARS / DMRVA,314619,1,,+5.000,KD4ADL,TS1 TS2
@@ -8759,7 +8758,7 @@ W9MBD,Mattoon,Illinois,United States,Master,4,444.97500,314688,BM,314688,1,,+5.0
 AA4CD,Toro Peak,California,United States,Peer,5,447.26000,314689,BM,314689,1,See www.papasys.com,-5.000,AA4CD,TS1 TS2
 AA4CD,San Marcos,California,United States,Peer,0,447.30000,314690,P25,314690,1,This is a P25 repeater with NAC 4CD.<br>Use TG 31077<br>www.papasys.com,-5.000,AA4CD,Mixed Mode
 KE7UUJ,Rock Springs,Wyoming,United States,Peer,11,448.02500,314691,BM,314691,1,,-5.000,KE7UUJ,TS1 TS2
-WN1R,New Orleans,Louisiana,United States,Peer,5,443.60000,314692,BM,314692,0,"GULF COAST DMR NETWORK<br>TIME SLOT 2  TG-31011<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>This is a Multi Mode  DMR / D-Star / P25 / YSF/ NXDN / FM Repeater <br>Located on the West Bank in New Orleans<br>Servicing Algiers, Bell Chase, Gretna, Chalmette <br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>Time Slot # 2 - 31011 = Gulf Coast DMR<br>Time Slot # 2    3199  = Hurricane Net<br>Time Slot # 2 - 31225  = Southeast Louisiana<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>TIME SLOT #1 WEEKLY NETS<br><br>TG-312801 - Thursday 1930-2200  NET, DMR Round Table <br>and general discussions about radios and DMR <br>network operation  anyone is welcome to join in to the NET. <br>Check-ins typically start @ 1915 -  Net Control is KD4VVZ",+5.0,WN1R,TS1 TS2
+WN1R,New Orleans,Louisiana,United States,Peer,5,443.60000,314692,BM,314692,0,"GULF COAST DMR NETWORK<br>TIME SLOT 2  TG-31011<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>This is a Multi Mode  DMR / D-Star / P25 / YSF/ NXDN / FM Repeater<br>Located on the West Bank in New Orleans<br>Servicing Algiers, Bell Chase, Gretna, Chalmette<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>Time Slot # 2 - 31011 = Gulf Coast DMR<br>Time Slot # 2    3199  = Hurricane Net<br>Time Slot # 2 - 31225  = Southeast Louisiana<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>TIME SLOT #1 WEEKLY NETS<br><br>TG-312801 - Thursday 1930-2200  NET, DMR Round Table<br>and general discussions about radios and DMR<br>network operation  anyone is welcome to join in to the NET.<br>Check-ins typically start @ 1915 -  Net Control is KD4VVZ",+5.0,WN1R,TS1 TS2
 KD4DRP,Alachua,Florida,United States,Master,1,442.01250,314693,P25,314693,1,P25 NAC293,+5.00,KD4DRP,Mixed Mode
 K5DPS,Kingwood,Texas,United States,Master,1,142.82500,314694,BM,314694,1,TS 1 - 312681<br>TS 2 - Open for Use,+5.000,K5DPS,TS1 TS2
 N5BDJ,Houston,Texas,United States,Master,1,440.22500,314695,BM,314695,1,,+5.000,N5BDJ,TS1 TS2
@@ -8845,7 +8844,7 @@ N3MRG,Salisbury,Maryland,United States,Master,6,442.65000,314793,Interstate,3147
 NH7TR,San Antonio,Texas,United States,Master,1,446.30000,314794,BM,314794,1,,-5.000,NH7TR,TS2
 KD2UQK,Deer Park,New York,United States,Peer,1,440.25000,314795,BM,314795,0,,+5.000,KD2UQK,TS1
 WD4EMA,Chatsworth,Georgia,United States,Peer,1,440.65000,314796,BM,314796,1,Timeslot 1 used for BM Talk groups.<br>Timeslot 2 used for local communications.,+5.0,WD4EMA,TS1 TS2
-K6ACR,Arroyo Grande,California,United States,Peer,8,147.18000,314797,Brandmeister,314797,1,None,+600.000,K6ACR,TS1 TS2
+K6ACR,Arroyo Grande,California,United States,Peer,8,147.24000,314797,Brandmeister,314797,1,None,+0.600,K6ACR,TS1 TS2
 KM4BLG,Mars Hill,North Carolina,United States,Master,1,442.10000,314798,Brandmeister,314798,1,None,+5.000,KM4BLG,TS1 TS2
 W5EBQ,Dallas,Texas,United States,Peer,1,440.47500,314801,LonestarNet,314801,1,,+5.000,W5EBQ,TS1 TS2
 W5EBQ,Dallas,Texas,United States,Master,1,440.63750,314802,Lonestar,314802,1,"Time Slot #1 - Group Call 1 = Worldwide All Languages (PTT activated with 5 min inactivity timeout)<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 13= Worldwide English<br>Time Slot #2 - group Call 3148= TX Statewide<br>Time Slot #2- Group Call 2 = Dallas Metro<br>Time Slot #2- Group Call 3100 = DCI Bridge (can be timed out with TG2, or 3148 PTT)<br> <br>Contact: Jim Hopper, W5EBQ<br>Email: jimh@mhztech.com",+5.000,W5EBQ,TS1 TS2
@@ -10567,8 +10566,8 @@ CE3HIR,Santiago,Reg.Metr. de Santiago,Chile,Master,1,146.72500,730029,7303059,73
 CE5RMC,Chiguayante,Bio Bio,Chile,Master,1,147.41500,730030,BM,730030,1,Repetidor en modo pruebas del Radioclub Manquimvida de Chiguayante<br><br>Frecuencia: 146.415<br>Modo Siplex<br>TG Esttico: 7305<br>Color: 1<br>TS: 2<br>,-0.600,CE5RMC,TS2
 CA2LDW,CANELA,Coquimbo,Chile,Peer,1,439.10000,730031,bm,730031,1,,-5.000,CA2LDW,TS1 TS2
 CD1HDG,Copiapo,Atacama,Chile,Master,1,147.27000,730032,BM,730032,0,,-0.600,CE1HDG,TS1 TS2
-CE4PEC,Ruta L-354 Km 1 Casa No8 San Javier,Maule,Chile,Master,1,438.10000,730034,BM,730034,1,,-5.000,CE4PEC,Mixed Mode
-CE4PEC,Ruta L-354 Km 1 Casa No8 San Javier,Maule,Chile,Master,1,434.75500,730035,BM,730035,1,,+5.000,CE4PEC,Mixed Mode
+CE4PEC,San Javier,Maule,Chile,Master,1,438.10000,730034,BM,730034,1,,-5.000,CE4PEC,Mixed Mode
+CE4PEC,San Javier,Maule,Chile,Master,1,434.75500,730035,BM,730035,1,,+5.000,CE4PEC,Mixed Mode
 CD2HEY,Chile,Valparaiso,Chile,Master,1,146.54000,730036,BM,730036,1,,-5.000,CD2HEY,TS1
 CD2HEY,Chile,Valparaiso,Chile,Peer,1,439.75500,730037,BM,730037,1,,-0.600,CD2HEY,TS1
 CE2IEN,Vina Del Mar,Valparaiso,Chile,Master,1,144.35500,730038,DMR-MARC,730038,1,,-0.600,CE2IEN,TS1 TS2
