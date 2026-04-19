@@ -291,7 +291,7 @@ ON0UHF,Oostduinkerke,West-Vlaanderen,Belgium,Master,1,145.63750,206028,Brandmeis
 ON0GRC,Gent,Oost-Vlaanderen,Belgium,Peer,1,439.08750,206101,BM,206101,1,,-7.600,ON4AKH,TS1 TS2
 ON0DEN,Dendermonde,Oost-Vlaanderen,Belgium,Peer,1,439.03750,206102,BM,206102,1,,-7.600,ON1DGR,TS1 TS2
 ON0SNW,Sint-Niklaas,Oost-Vlaanderen,Belgium,,1,439.40000,206103,DMR-plus,206103,1,,-7.600,ON1GPS,TS1 TS2
-ON0APS,Appels,Oost-Vlaanderen,Belgium,,1,438.36250,206105,BM,206105,1,,-7.600,ON1DGR,TS1 TS2
+ON0APS,Appels,Oost-Vlaanderen,Belgium,Master,1,438.36250,206105,BM,206105,1,,-7.600,ON1DGR,TS1 TS2
 ON0ODR,Oudenaarde,Oost-Vlaanderen,Belgium,Master,1,439.06250,206107,BM,206107,1,,-7.600,ON5OB,Mixed Mode
 ON0VDS,Nevele,Oost-Vlaanderen,Belgium,Master,1,438.08750,206109,BM,206109,1,,-7.6,ON6VDS,TS1 TS2
 ON0DP,Boom,Antwerp,Belgium,Master,1,439.46250,206200,BM,206200,1,,-7.600,ON7DS,TS1 TS2
@@ -308,8 +308,6 @@ ON0NWR,Nieuwrode,Vlaams Brabant,Belgium,,0,438.88750,206302,BM,206302,1,,-7.600,
 ON0EPN,Lummen,Vlaams Brabant,Belgium,,1,439.38750,206303,BM,206303,1,,-7.600,ON4VRT,TS1 TS2
 ON0AAR,Aarschot,Vlaams Brabant,Belgium,,1,438.25000,206304,BM,206304,1,,-7.600,ON6OO,TS1 TS2
 ON0ZK,Averbode,Vlaams Brabant,Belgium,,1,439.20000,206305,None,206305,1,,-7.600,ON7WP,
-ON0GAL,Galmaarden,Vlaams Brabant,Belgium,Master,1,438.83750,206310,BM,206310,1,,-7.600,ON1DGR,TS1 TS2
-ON0TLW,Tielt-Winge,Vlaams Brabant,Belgium,,1,439.18750,206320,DMR-plus,206320,1,,-7.600,ON1DGR,TS1 TS2
 ON4BAF,Sint-Truiden,Limburg,Belgium,,1,439.00000,206401,BM,206401,1,,-7.600,ON4CMO,TS1 TS2
 ON0MLB,Genk,Limburg,Belgium,Master,1,438.98625,206402,BM,206402,1,,-7.6,ON6MID,TS1 TS2
 ON0BAF,Sint-Truiden,Limburg,Belgium,,1,145.58750,206404,BM,206404,1,,-0.600,ON4CMO,TS1 TS2
@@ -318,7 +316,6 @@ ON0DST,Meldert,Limburg,Belgium,,1,439.45000,206406,None,206406,1,,-7.700,ON8TOM,
 ON0DST,Meldert-Lummen,Limburg,Belgium,,1,439.45000,206407,None,206407,1,,-7.600,ON8TOM,
 ON0NOL,Sellekaertsstraat 40,Limburg,Belgium,,1,439.15000,206408,BM,206408,1,,-7.600,ON5JF,TS1 TS2
 ON0BAF,Sint-Truiden,Limburg,Belgium,,1,439.06250,206410,BM,206410,1,,-7.600,ON4CMO,TS1 TS2
-ON0HOP,Vloesberg-Flobecq,Wal. Brabant,Belgium,,1,438.91250,206501,BM,206501,1,,-7.600,ON1DGR,TS1 TS2
 ON0CVH,Waterloo,Wal. Brabant,Belgium,,2,438.48750,206502,None,206502,1,,-7.600,ON5SYZ,TS1 TS2
 ON0FR,Court-Saint-Etienne,Wal. Brabant,Belgium,,2,439.42500,206504,BM,206504,1,,-7.600,ON5ZU,TS1 TS2
 ON0MNS,Rouveroy,Hainaut,Belgium,Master,1,145.71250,206601,None,206601,1,206<br>2062,-0.6,ON8CB,TS2
@@ -334,7 +331,7 @@ ON0BE,Lierneux,Liege,Belgium,,2,439.31250,206803,DMR-plus,206803,1,,-7.600,ON7BE
 ON0LG,Seraing,Liege,Belgium,Master,2,439.47500,206804,DMR-plus,206804,1,,-7.600,ON6DP,TS1 TS2
 ON0CEE,Warerloo,Wal. Brabant,Belgium,Master,0,438.43750,206903,FM/C4FM,206903,1,,-7.600,ON5SYZ,Mixed Mode
 ON0LUS,ATHUS,,Belgium,,2,439.23750,206908,DMR-plus,206908,1,,-7.600,ON4LDM,TS1 TS2
-F1ZEI,Les Lilas,,France,Master,1,430.17500,208000,DMR-plus,208000,1,,9.400,F1TDI,TS1 TS2
+F1ZEI,Les Lilas,Ile-de-France,France,Master,1,430.17500,208000,DMR-plus,208000,1,,9.400,F1TDI,TS1 TS2
 F1ZFI,Vaux Le Penil,,France,,1,430.35000,208001,BM,208001,1,,9.400,F4GQK,TS1 TS2
 F6ZAN,MONTIGNY LE BRETONNEUX,Ile-de-France,France,Master,1,430.03750,208002,ADN,208002,1,,+9.4,F1SCA,TS1 TS2
 F5ZDO,Fontenay-Tresigny,Centre-Val de Loire,France,,1,430.35000,208003,BM,208003,1,,9.400,F4GQK,TS1 TS2
@@ -342,7 +339,6 @@ F1ZDW,Fontenay-Tresigny,Centre-Val de Loire,France,,1,431.00000,208004,BM,208004
 F5ZJV,Valreas,Centre-Val de Loire,France,,3,430.40000,208005,DMR-plus,208005,0,,9.400,F8FJH,TS1 TS2
 F5ZIW,BURES SUR YVETTE,,France,,1,430.20000,208006,None,208006,1,,9.400,F6CNB,
 F1ZGI,RUEIL 92,Ile-de-France,France,Master,7,430.57500,208007,DMR-plus,208007,1,,+9.400,F1TUV,TS1 TS2
-F1ZGO,Meudon,Centre-Val de Loire,France,,1,430.05000,208008,BM,208008,0,,9.400,F1TDI,TS1 TS2
 F1ZRD,,Ile-de-France,France,Peer,1,430.47500,208009,None,208009,1,,9.400,F1IUQ,
 F1ZWD,Paris,Centre-Val de Loire,France,,1,145.78750,208010,BM,208010,1,,-0.600,F1HBG,TS1 TS2
 F1ZLK,Rueil-Malmaison,Ile-de-France,France,Peer,1,439.37500,208011,IPSC2-France3,208011,1,,-5.000,F1PTL,TS1 TS2
@@ -416,7 +412,7 @@ F6ZDK,Bihorel,Normandie,France,Master,1,145.60000,208084,"BM, ADN",208084,1,,-0.
 F6ZAA,La Haye,Centre-Val de Loire,France,Master,1,145.78750,208085,BM,208085,1,20828 BM,-0.600,F4GPJ,Mixed Mode
 F4WFH,La Breille Les Pins,Pays de la Loire,France,Peer,1,430.38750,208086,BM,208086,1,311573,+9.000,F4WFH,TS1
 F1ZBU,Epinal,Grand Est,France,Master,1,433.02500,208087,DMR+,208087,1,,-1.600,F8DSN,TS1 TS2
-F1ZUS,Les Lilas,,France,,1,430.10000,208088,BM,208088,1,,9.400,F1TDI,TS1 TS2
+F1ZUS,Les Lilas,Ile-de-France,France,Peer,1,430.10000,208088,BM,208088,1,,9.400,F1TDI,TS1 TS2
 F6ZDY,Dreux,Centre-Val de Loire,France,Master,1,439.35000,208089,"BM, ADN, XLX",208089,1,,-7.6,F4BVC,TS1 TS2
 F1ZMV,Saint Jean De Nay,Auvergne-Rhone-Alpes,France,Master,1,439.68750,208090,"BM, ADN, XLX",208090,1,RELAIS REPETEUR UHF MMDVM/HYBRIDE  439.6875 -9.4<br>RETROUVER PLUS D'INFOS SUR WWW.QRZ.COM  EN  RECHERCHANT F1ZMV,-9.400,F4GVA,TS1 TS2
 F5ZIP,La Ville-du-bois,Centre-Val de Loire,France,,1,430.01250,208091,DMR-plus,208091,1,,9.400,F6MPN,TS1 TS2
@@ -424,6 +420,7 @@ F1ZVL,Chatenay-Malabry,Ile-de-France,France,Peer,1,145.63750,208092,Brandmeister
 F5ZIO,Montreuil,Centre-Val de Loire,France,,1,430.45000,208093,BM,208093,1,,9.400,F6MPN,TS1 TS2
 F6ZEM,Chateaubourg,Bretagne,France,Peer,1,430.16250,208094,brandmeiter,208094,1,None,+9.400,F1UOT,TS1 TS2
 F1ZLJ,GALGON,Nouvelle-Aquitaine,France,Master,1,430.21250,208095,DMR-plus,208095,1,,+9.400,F4GLJ,TS1 TS2
+F1ZOE,Paris,Ile-de-France,France,Peer,1,430.17500,208096,DMRF,208096,1,None,9.400,F1TDI,TS1 TS2
 F1ZHW,Montfermeil,,France,,7,430.53750,208099,BM,208099,1,,9.400,F1TUV,TS1 TS2
 F1ZLL,2205 route de BRAS,,France,,1,430.56250,208101,BM,208101,1,,9.400,F1SER,TS1 TS2
 F1ZYI,Serre-Chevalier,Provence-Alpes-Cote d Azur,France,Master,1,439.73750,208103,DMR-plus,208103,1,TS-2<br>ECRINS 20805 - ALPES 84<br>,-9.4,F4EGG,TS1 TS2
@@ -2228,7 +2225,7 @@ GB7DMR,TEST,England,United Kingdom,Peer,5,439.71250,235999,DMR-plus,235999,1,,-9
 OZ9KAR,LINK DMR,Syddanmark,Denmark,,1,434.00000,238001,DMR-plus,238001,1,,0.000,OZ5X,TS1 TS2
 OZ7LYN,Lyne,Midtjylland,Denmark,Peer,12,434.66250,238002,DMR+,238002,1,Time Slot # 1 - Group Call 238 = DK 238<br>Time Slot # 2 - Group Call 2386 = QSY 1<br>Time Slot # 2 - Group Call 2387 = QSY 2<br>Time Slot # 2 - Group Call 4702 = Midtjylland<br><br>- test phase ! -,-2.000,OZ1CX,TS1 TS2
 OZ3REY,Knivsbjerg,Syddanmark,Denmark,Master,13,434.72500,238003,DMR+,238003,1,,-2.0,OZ1HYG,TS1 TS2
-OZ4RED,Esbjerg 2,Syddanmark,Denmark,Peer,13,434.68750,238004,DMR-plus,238004,1,Time Slot # 1 - Group Call 238 = DK 238<br>Time Slot # 2 - Group Call 2386 = QSY 1<br>Time Slot # 2 - Group Call 2387 = QSY 2<br>Time Slot # 2 - Group Call 4703 = Syddanmark<br>,-2.000,OZ1LNI,TS1 TS2
+OZ4RED,Esbjerg,Syddanmark,Denmark,Peer,13,434.68750,238004,DMR-plus,238004,1,Time Slot # 1 - Group Call 238 = DK 238<br>Time Slot # 2 - Group Call 2386 = QSY 1<br>Time Slot # 2 - Group Call 2387 = QSY 2<br>Time Slot # 2 - Group Call 4703 = Syddanmark,-2.000,OZ1LNI,TS1 TS2
 OZ7RPT,Lunderskov,Syddanmark,Denmark,Peer,8,434.73750,238006,DMR,238006,1,,-2.000,OZ7MK,TS1 TS2
 OZ3RTD,Tonder,Syddanmark,Denmark,Master,13,434.70000,238007,DMR-plus,238007,1,,-2.000,OZ5TD,TS1 TS2
 5P0NALS,Nordborg,Syddanmark,Denmark,Master,13,434.57500,238008,BM,238008,1,"30W repeater, JO45VB, TS2, X300 antenna 10m above ground, covering Nordals and surrounding areas",-2.000,"5P1CE, OZ1CE",TS1 TS2
@@ -2263,7 +2260,7 @@ OZ5LLR,Herning,Midtjylland,Denmark,,12,434.71250,238250,BM,238250,1,,-2.000,OZ8L
 OZ2REL,Aarhus S,Midtjylland,Denmark,Master,12,434.57500,238260,DMR-plus,238260,1,238,-2.000,OZ1FAR,TS1 TS2
 OZ2REE,OdenseFraugde JO55,,Denmark,Peer,13,434.53750,238301,DMR-plus,238301,0,,-2.000,OZ1BM,TS1 TS2
 OZ9RAE,Skovbyballe,Syddanmark,Denmark,,13,434.63750,238302,DMR-plus,238302,1,,-2.000,OZ9HZ,TS1 TS2
-OZ6REY,Esbjerg,Syddanmark,Denmark,,13,434.65000,238303,DMR-plus,238303,1,,-2.000,OZ1LNI,TS1 TS2
+OZ6REY,Esbjerg,Syddanmark,Denmark,Peer,13,434.65000,238303,DMR-plus,238303,1,,-2.000,OZ1LNI,TS1 TS2
 OZ6REH,Svendborg,Syddanmark,Denmark,,3,434.77500,238304,DMR-plus,238304,0,,-2.000,OZ1JPG,TS1 TS2
 OZ8PRH,Odense,Syddanmark,Denmark,,13,434.66250,238305,None,238305,0,,-2.000,OZ8RF,TS1 TS2
 OZ0REV,Vissenbjerg,Syddanmark,Denmark,,13,434.61250,238310,DMR-plus,238310,0,,-2.000,OZ5WU,TS1 TS2
@@ -2272,7 +2269,7 @@ OZ26REQ,Kastrup,Syddanmark,Denmark,,12,434.75000,238321,None,238321,1,,-2.000,OZ
 OZ5RTD,Toender,Syddanmark,Denmark,,13,434.70000,238330,DMR-plus,238330,1,,2.000,OZ5TD,TS1 TS2
 OZ9CH,Christiansfeld,Syddanmark,Denmark,,13,434.66250,238331,BrandMeister,238331,1,,2.000,OZ4LMS,
 OZ9RTD,Aabenraa,Syddanmark,Denmark,,13,434.75000,238332,DMR-plus,238332,1,,2.000,OZ5TD,TS1 TS2
-OZ8REC,EsbjergTestC1,Syddanmark,Denmark,Peer,13,434.68750,238333,DMR-plus,238333,1,Time Slot # 1 - Group Call 238 = DK 238<br>Time Slot # 1 - Group Call 262 = DE 262<br>Time Slot # 2 - Group Call 2386 = QSY 1<br>Time Slot # 2 - Group Call 2387 = QSY 2<br>Time Slot # 2 - Group Call 2387 = DCS004B D-Star DK<br>Time Slot # 2 - Group Call 4703 = Syddanmark<br>,-2.000,OZ1LNI,TS1 TS2
+OZ8REC,Esbjerg,Syddanmark,Denmark,Peer,13,434.66250,238333,DMR-plus,238333,1,Time Slot # 1 - Group Call 238 = DK 238<br>Time Slot # 1 - Group Call 262 = DE 262<br>Time Slot # 2 - Group Call 2386 = QSY 1<br>Time Slot # 2 - Group Call 2387 = QSY 2<br>Time Slot # 2 - Group Call 2387 = DCS004B D-Star DK<br>Time Slot # 2 - Group Call 4703 = Syddanmark,-2.000,OZ1LNI,TS1 TS2
 OZ2RJG,Jegum Ferieland,Syddanmark,Denmark,,12,434.58750,238350,None,238350,1,,-2.000,OZ1LDO,TS1 TS2
 OZ3REP,Oedis Tower,Midtjylland,Denmark,,13,432.62500,238384,None,238384,0,,-2.000,OZ5WU,TS1 TS2
 OZ4DMR,Roedovre,,Denmark,Master,0,0.00000,238400,DMR-plus,238400,0,,0.000,OZ3MAJ,TS1 TS2
@@ -5046,6 +5043,7 @@ KD2EHW,Rochester,New York,United States,master,1,443.05000,310459,Brandmaster,31
 N4DEA,Kinston,North Carolina,United States,Peer,1,440.51250,310461,Brandmeister,310461,1,,+5.000,N4DEA,TS1 TS2
 KI5CMA,Saltillo,Mississippi,United States,Master,1,444.42500,310462,BrandMeister,310462,1,TS 1 31471<br>TS 2 3128<br>TS 2 31285,+5.000,K5CSA,TS1 TS2
 K3ZED,Jennersville,Pennsylvania,United States,peer,1,447.87500,310463,Brandmeister,310463,1,"Testing MTR2000 with Scott Zimmerman RB_STM32_DVM Testing the repeater will at the N3SLC site in Jennersville, PA<br><br>All network and Talkgroup activity on Timeslot 1 ( TG 3110 and TG3142 Static) with <br>Timeslot 2 reserved for Cluster (2) and Local (9) <br><br>Trustees K3ZED / N3GWC /  K3CWI<br><br>Contact:: K3ZED  Copper29p07@hotmail.com",-5.000,K3ZED,1 and 2
+KE6GVK,Saint Johns,Arizona,United States,Peer,1,446.82500,310464,BrandMeister,310464,1,"Refer to website: https://wmrasystem.com/RPT.html<br>DMR CC1, TS-1 & TS-2 BRANDMEISTER ALL TALK GROUPS ARE ACTIVE, USE TG-4000 TO DISCONNECT, XLX835 REFLECTOR PRIVATE TALK GROUP 64004 TO CONNECT AND PRIVATE TALK GROUP 64000 TO DISCONNECT, CROSSMODE DMR TO NXDN TG-7000000 FOR EXAMPLE TG-7007941 FOR WMRA AND TO DICONNECT TG-7009999 AND D-STAR KE6GVK (B)",-5.000,KE6GVK,TS1 TS2
 KK4ECR,Orange Park,Florida,United States,Peer,1,443.08750,310465,C-Bridge,310465,1,Multiple TG as setup on repeater,+5,KK4ECR,1 & 2
 K4VYX,Savannah,Georgia,United States,Master,3,442.81250,310466,DMR-MARC,310466,1,TWIN-TWR-DMR,+5.000,K4VYX,TS1 TS2
 N1DAS,Nashua,New Hampshire,United States,Peer,5,446.42500,310467,BrandMeister,310467,1,TS2:<br>9  Local repeater<br>313323  GMARS 1 Club talkgroup - all GMARS repeaters<br><br>TS1:<br>313324  GMARS 2 - Secondary club talkgroup<br>3133  NH Statewide (PTT)<br>,-5.000,N1DAS,1 & 2
@@ -6765,7 +6763,7 @@ K6DTV,Walnut Grove,California,United States,Master,1,147.39000,312358,BM,312358,
 KD4IEZ,Dublin,Georgia,United States,Master,1,147.33000,312359,BM,312359,1,TG 9-1 Dublin Local<br>TG 310592 (Vidalia Net)<br>TG 9-2 Dublin Local,-0.600,KD4IEZ,TS1 TS2
 KC0OQR,Bemidji,Minnesota,United States,Peer,13,145.39000,312360,BM,312360,1,,-0.600,KC0OQR,TS1 TS2
 N9ZD,OAK FOREST,Illinois,United States,Peer,1,443.27500,312361,BM,312361,1,2	9	        Local Repeater Only<br>2	9990	Parrott Mode<br>2	312361      Local Repeater<br>1	4000	Disconnect TG<br>1	91	        Brandmeister World Wide<br>1	93	        Brandmeister North America<br>1	3100	Bridge - to other DMR Networks<br>1	3112	Florida<br>1	3117	Illinois<br>1	3118	Indiana<br>1	3126	Michigan<br>1	3155	Wisconsin<br>1	3169	Midwest Region<br>1	31172	Brandmeister Chi-Net<br>1	31176	Brandmeister Chi-Metro<br>1	31171	Brandmeister IL Link / Fusion<br>,+5.000,N9ZD,TS1 TS2
-N0GIK,Adel,Iowa,United States,Master,1,444.52500,312362,BM,312362,1,31194 TS1<br>31199 TS1<br>312362 TS1<br>3119   TS2<br>,+5.000,N0GIK,TS1 TS2
+N0GIK,Adel,Iowa,United States,Master,1,444.52500,312362,BM,312362,1,31194 TS1<br>31199 TS1<br>312362 TS1<br>3119   TS2,+5.000,N0GIK,TS1 TS2
 KB3CVS,Alton,Virginia,United States,Master,1,147.36000,312363,BM,312363,1,TBD,+0.6000,KB3CVS,TS1
 WB6CDF,Yucca Valley,California,United States,Master,10,447.00000,312365,Western States DMR,312365,1,http://www.westernstatesdmr.com/YuccaVly.htm<br>,-5.000,WB6CDF,TS1 TS2
 KJ7ICL,Tulalip,Washington,United States,Peer,1,442.35000,312366,PNWDigital on top of the Tulalip Resort Casino. Network provided by TDS/Salish Networks and Tulalip Emergency Mgt.,312366,0,BC 1	    F/3m<br>Cascades 1	P15/3m<br>California     P15/3M<br>ID 1	   	P15/3m<br>Local 1		F/5<br>OR 1	   	P15/3m<br>Parrot 1  	P1/0<br>PNW 1		F/3m<br>PS 1	    F/30m<br>WA1			F/3m<br>================<br>Aud Test 2	P2/0<br>Local 2		F/5<br>Montana.     P15/3m<br>Net 2		spl/30m<br>PNW 2		F/3m<br>PNW Reg 2	F/3m<br>PS 2		  F/15m<br>TAC 1   	P15/3m<br>TAC 2   	P15/3m<br>TAC 3   	P15/3m<br>WA 2		        F/3m<br>TAC314      P15/3m<br>,+5.000,W7COM,TS1 TS2
@@ -10048,8 +10046,8 @@ ZL1OTD,Rodney District,North Island 1,New Zealand,Peer,1,438.25000,530026,FreeDM
 ZL3DVX,Christchurch,South Island,New Zealand,Master,1,439.40000,530027,"BM, IPSC2",530027,1,"TS1 for ZL tg's, TS2 for IPSC2.<br>All International Traffic on TS2 Please..<br><br>ColorCode = 1",-5.000,ZL1BW,Mixed Mode
 ZL3DMH,Christchurch,South Island,New Zealand,Master,1,439.67500,530028,BM,530028,1,TG 5303 Static TS1<br>TS2 for International Traffic,-5.000,ZL3DMH,TS1 TS2
 ZL2ABK,Gisborne,North Island 2,New Zealand,Master,1,439.20000,530029,BM,530029,0,,-5.000,ZL2ABK,TS1 TS2
-ZL2ROR,Hastings,North Island 2,New Zealand,Master,1,439.65000,530030,DVNZ /DVDU,530030,0,,-5.000,ZL2RO,Mixed Mode
-ZL1CNM,Hamilton,North Island 1,New Zealand,Peer,1,439.11250,530031,FREE-DMR,530031,1,FREE-DMR - Color Code:1 - Assigned:Peer - TS Linked:TS1 TS2 - Operator:ZL1CNM<br>Time Slot # 1 - Group Call 5301 = FreeDMR NZ Region 1<br>Time Slot # 2 - Group Call 530 = FreeDMR NZ Calling<br>,-5.000,ZL1CNM,TS1 TS2
+ZL2ROR,Hastings,North Island 2,New Zealand,Master,1,439.65000,530030,DVNZ /DVDU,530030,0,,-5.000,ZL2RO,TS1 TS2
+ZL1CNM,Hamilton,North Island 1,New Zealand,Peer,1,439.11250,530031,FREE-DMR,530031,1,FREE-DMR - Color Code:1 - Assigned:Peer - TS Linked:TS1 TS2 - Operator:ZL1CNM<br>Time Slot # 1 - Group Call 5301 = FreeDMR NZ Region 1<br>Time Slot # 2 - Group Call 530 = FreeDMR NZ Calling,-5.000,ZL1CNM,TS1 TS2
 ZL1LLY,Auckland,North Island 1,New Zealand,Master,1,433.57500,530032,"FreeDMR, Multi",530032,0,5301 Static on TS 1 <br>TS 2 is free to use,+5.000,ZL1LLY,Mixed Mode
 ZL2JA,Whanganui,North Island 2,New Zealand,Peer,1,439.23750,530033,ZL-TRBO,530033,0,"Time Slot#1 - Group Call 1 = Worldwide Calling (2 min max)<br>Time Slot #1- Group Call 13 = Worldwide English<br>Time Slot #2- Group Call 530 = ZL New Zealand<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Wanganui Amateur Radio Society, Branch 48 NZART<br><br>Contact: Terry (ZL2EI)<br>",-5.000,ZL2EI,TS1 TS2
 ZL2WL,Hastings Central,North Island 2,New Zealand,Master,1,438.62500,530034,"BM, IPSC2",530034,0,,-5.000,ZL2WL,TS1 TS2
@@ -10107,7 +10105,7 @@ FR1ZBD,Le Tampon,,Reunion,,1,430.50000,647006,DMR-plus,647006,0,,9.400,FR4NP,TS1
 FR4QK,Saint Paul,,Reunion,,1,430.23000,647007,DMR-plus,647007,0,,9.400,FR4QK,TS1 TS2
 FR4NP,Le Port,,Reunion,,1,430.26250,647008,DMR-plus,647008,0,,9.400,FR4NP,TS1 TS2
 FR1ZBE,Saint Joseph,,Reunion,,1,430.26250,647009,BM,647009,0,,9.400,FR4NP,TS1 TS2
-FR5GS,SAINT-BENOIT,,Reunion,,1,430.17500,647010,BM,647010,0,,9.400,FR5GS,TS1 TS2
+FR5GS,SAINT-BENOIT,All Regions,Reunion,Peer,1,430.17500,647010,BM,647010,0,,9.400,FR5GS,TS1 TS2
 FR1ZCC,Le Port,,Reunion,,1,430.57500,647011,None,647011,0,,9.400,FR4NP,
 FR1ZBO,Le Port,,Reunion,,1,430.26250,647012,DMR-plus,647012,0,,9.400,FR4NP,TS1 TS2
 FR1ZBS,Cilaos,,Reunion,,1,430.42500,647013,None,647013,0,,9.400,FR4NP,
@@ -10585,6 +10583,9 @@ CE1DDA,Copiapo,Atacama,Chile,Master,1,145.56600,730052,BM,730052,0,,-0.6000,CE1D
 CA3LOP,santiago,Reg.Metr. de Santiago,Chile,Master,3,163.07500,730053,DMR,730053,0,,-0.600,CA3LOP,TS2
 CE4RAY,Curico,Maule,Chile,Master,1,146.43000,730054,Adn systems chile,730054,1,,+5.000,CE4RAY,TS2
 CE4RAY,Chanco 2,Maule,Chile,Peer,1,432.85000,730055,Adn systems chile,730055,1,,+5.000,CE4RAY,TS1 TS2
+CE3PA,Santiago,Reg.Metr. de Santiago,Chile,Master,1,147.39000,730056,BM,730056,1,,+0.600,CE3PA,TS1 TS2
+CE3PA,Santiago,Reg.Metr. de Santiago,Chile,Peer,1,146.97000,730057,DMR-MARC,730057,1,"730, 914,334,7301,7302,7304,7305,7306,7307,7308,7309,730999,7303056",-0.600,CE3PA,TS1 TS2
+CE3PA,Santiago,Reg.Metr. de Santiago,Chile,Master,1,147.39000,730058,BM,730058,1,"730,7301,7302,7303,7304,7305,7306,7307,7308",+0.600,CE3PA,TS1 TS2
 CE3SOC,Santiago,Reg.Metr. de Santiago,Chile,Peer,1,433.60000,730059,BM,730059,1,,+5.000,CE3SOC,TS1 TS2
 CD3VGO,santiago,O'Higgins,Chile,Master,1,145.50000,730060,DMR,730060,0,,-0.600,CD3VGO,TS1
 CE6RB,Valdivia,Los Rios,Chile,Master,75,147.03000,730061,DMR,730061,0,,+0.600,CA6SBX,Mixed Mode
@@ -10621,6 +10622,7 @@ CE2DJA,Vina del Mar,Valparaiso,Chile,Peer,1,438.15000,730215,BrandMeister,730215
 CE2UGO,VALPARAISO,Valparaiso,Chile,None,1,433.50000,730216,Master Chile,730216,1,,+5.000,CE2UGO,TS1
 CE2KVL,valparaiso,Coquimbo,Chile,None,1,434.95000,730217,DMR BM,730217,1,,+5.000,CE2KVL,TS1 TS2
 CE2AND,Los Andes,Valparaiso,Chile,Peer,1,147.21000,730218,BM-Chile 7301,730218,1,,+0.600,CE2PZJ,TS1 TS2
+CE3PA,puente alto,Reg.Metr. de Santiago,Chile,Peer,1,433.45000,730301,BM,730301,1,"730, 914 334,7303,730056 730911",+5.000,CE3PA,TS1 TS2
 CE3DY,pte alto,Reg.Metr. de Santiago,Chile,Peer,1,147.39000,730302,BM,730302,1,"730 ,7303 ,730911 ,7304 ,7305",+0.600,CE3DY,TS1 TS2
 CE3AA,SANTIAGO,Reg.Metr. de Santiago,Chile,None,1,146.64000,730307,DMR-MARC,730307,1,,-0.600,CE3AA,None
 CD3FTS,Maipu,Reg.Metr. de Santiago,Chile,Master,1,147.00000,730308,192.168.11.1,730308,1,,-0.600,CD3FTS,TS1
