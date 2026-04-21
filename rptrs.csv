@@ -288,6 +288,7 @@ ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,438.67500,206023,BM,206023,1,206 20
 ON0MSF,Ixelles,Brussels,Belgium,Master,2,439.27500,206025,BM,206025,1,,-7.6000,ON6RF,TS1 TS2
 ON0DV,Eupen,Liege,Belgium,Peer,1,439.30000,206027,Brandmeister,206027,1,None,-7.600,ON4LFE,TS1 TS2
 ON0UHF,Oostduinkerke,West-Vlaanderen,Belgium,Master,1,145.63750,206028,Brandmeister,206028,1,None,-0.600,ON6UHF,TS1 TS2
+ON0AA,Oostkamp,West-Vlaanderen,Belgium,Master,1,439.00000,206029,Brandmeister,206029,1,None,-7.600,ON4AAK,TS1 TS2
 ON0GRC,Gent,Oost-Vlaanderen,Belgium,Peer,1,439.08750,206101,BM,206101,1,,-7.600,ON4AKH,TS1 TS2
 ON0DEN,Dendermonde,Oost-Vlaanderen,Belgium,Peer,1,439.03750,206102,BM,206102,1,,-7.600,ON1DGR,TS1 TS2
 ON0SNW,Sint-Niklaas,Oost-Vlaanderen,Belgium,,1,439.40000,206103,DMR-plus,206103,1,,-7.600,ON1GPS,TS1 TS2
@@ -4216,7 +4217,7 @@ VE3TYF,Moose Creek,Ontario,Canada,None,1,443.05000,302019,BrandMeister,302019,1,
 VE7ATT,Kelowna,British Columbia,Canada,Peer,1,442.60000,302020,BrandMeister,302020,1,"TG 302020 Okanagan, BC",+5.000,VA7MF,TS1 TS2
 VE3YCX,Toronto,Ontario,Canada,Peer,1,442.75000,302021,BrandMeister,302021,1,,+5.0000,VE3CSD,TS1 TS2
 VA2RUR,La Baie,Quebec,Canada,Master,7,442.60000,302022,DMR+,302022,1,TG pronvincial and local,+5.000,VA2RUR,1 and 2
-VA2DGR,Pointe-Aux-Trembles,Quebec,Canada,Peer,1,443.50000,302023,Brandmeister,302023,1,Repeater is temporary,+5.000,VA2DG,TS1 TS2
+VA2DGR,Pointe-Aux-Trembles,Quebec,Canada,Peer,1,443.50000,302023,Brandmeister,302023,1,Rpteur permanent proprit de Daniel VA2BBB<br>Mandataire (Trustee) Daniel VA2DG,+5.000,VA2DG,TS1 TS2
 VA1LUN,Western Shore,Nova Scotia,Canada,6535,1,430.42000,302024,BrandMeister/DMR,302024,1,"420 Network ,home of the ragchew 8:30pm AST",0,VE1KLR,1
 VE7XWX,Squamish,British Columbia,Canada,Peer,3,443.85000,302025,BCTRBO,302025,1,On BCTRBO and PNW TRBO networks.  Midway on BCHwy99 between West Vancouver and Whistler.,+5.000,"VA7BC, VE7SQR",TS1 TS2
 VE4FFR,Flin Flon,Manitoba,Canada,Peer,1,147.88500,302026,BrandMeister,302026,1,,-0.0600,VE4NW,TS1 TS2
@@ -8467,7 +8468,7 @@ N9ATO,Lisle,Illinois,United States,Peer,8,442.12500,314375,CCC,314375,1,"This is
 W9GIL,Arlington Heights,Illinois,United States,Master,1,440.02500,314376,BM,314376,1,310 311 312 313 314 315,+5.000,W9GIL,TS1 TS2
 KC8SFR,Jackson,Michigan,United States,Peer,1,439.55000,314377,BM,314377,1,,+5.000,KC8SFR,TS1 TS2
 KA0WUX,Haigler,Nebraska,United States,Master,1,444.67500,314378,bm,314378,0,,+5.000,KA0WUX,TS1 TS2
-WB9CSP,Paris,Texas,United States,Peer,7,441.55000,314379,DMR-MARC,314379,1,,+5.000,WB9CSP,Mixed Mode
+WB9CSP,Paris,Texas,United States,Master,7,441.55000,314379,DMR-MARC,314379,1,,+5.000,WB9CSP,Mixed Mode
 K4BLA,Bladenboro,North Carolina,United States,Peer,1,440.61250,314380,BM,314380,1,"TS2 Static TG's -  Local, Link to Whiteville, NC and Myrtle Beach repeaters, and 31373 (NC Eastern)<br>TS1 BM Dynamic TG's",+5.000,K4BLA,TS1 TS2
 AB7CQ,Tombstone,Arizona,United States,Master,0,444.60000,314383,IMRS,314383,1,,+5.000,AB7CQ,Mixed Mode
 W5AWP,Corinth,Mississippi,United States,Master,1,441.80000,314384,BM,314384,1,,+5.00,W5AWP,Mixed Mode
@@ -9009,6 +9010,7 @@ W6UPL,Meridian,Idaho,United States,Master,0,145.52000,314978,BM,314978,1,None,0.
 N5VGK,RIENZI,Mississippi,United States,Peer,1,444.82500,314979,BRANDMEISTER,314979,1,PHONE 662 523 9600  CHUCK@SELECTCONNECT.NET,5.000,"N5VGK, KG5JDS",TS1 TS2
 N5VGK,BLUE MOUNTAIN,Mississippi,United States,Master,1,444.02500,314980,BRANDMEISTER,314980,1,662052309600,5.000,"KG5JDS, N5VGK",TS1 TS2
 KC9TNU,Chciago,Illinois,United States,Peer,2,440.02500,314981,Brandmeister,314981,1,None,5.000,KC9TNU,Mixed Mode
+N3BBF,Potomac,Maryland,United States,Peer,1,447.87500,314982,Brandmeister,314982,1,None,-5.000,N3BBF,TS1 TS2
 WR1VT,Brattleboro,Vermont,United States,Peer,1,444.40000,315001,NEDECN,315001,1,"Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activation<br>Contact: Ira, W1IRA<br>Email: w1ira@vermontel.net<br><br>Website: http://nedecn.org",+5.000,W1IRA,TS1 TS2
 W1IMD,Pico Peak,Vermont,United States,Peer,1,444.50000,315002,NEDECN,315002,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>* = PTT Activation<br><br>Contact: Paul, W1IMD<br>Email: w1imd@arrl.net<br><br>Website: http://nedecn.org",+5.000,W1IMD,TS1 TS2
 W1UWS,Mt. Ascutney,Vermont,United States,Master,5,448.47500,315003,NEDECN,315003,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 3125 = MA Statewide* <br><br>* = PTT Activation<br>Contact: Jeff, WB2NWR<br>Email: katchenj@hotmail.com<br><br>Website: http://nedecn.org",-5.000,WB2NWR,TS1 TS2
@@ -9664,6 +9666,7 @@ BH8QFX,bijieshi,Sichuan Guizhou Chongqing Yunnan,China,Master,1,439.11000,460150
 BH8QFX,bijieshi,Sichuan Guizhou Chongqing Yunnan,China,Master,1,439.28500,460151,27,460151,1,460857,-5.000,"BH8QFX, BH8PPE",Mixed Mode
 BR7JAI,Huizhou,Hunan Guangdong Guangxi Hainan,China,Master,8,439.80000,460152,43.129.83.124,460152,1,None,-5.0,BA7ODN,TS1
 BR7JBH,foshan,Hunan Guangdong Guangxi Hainan,China,Peer,1,439.20000,460153,4G,460153,1,None,-0.500,BG7LRO,TS1 TS2
+BR7JBG,guangdongfoshan,Hunan Guangdong Guangxi Hainan,China,Master,1,439.45000,460154,,460154,1,,5.000,BA7OST,Mixed Mode
 BR2AG,Harbin,Heilongjiang Jilin Liaoning,China,Master,1,145.77500,460206,china telcom,460206,1,,-0.600,BR2AG,TS2
 BR3GG,xilinhaote,Inner Mongolia,China,Peer,2,439.60000,460301,BM,460301,1,460479,-5.000,BG3IZM,TS1 TS2
 BR3HM,HuLunBeiEr,,China,Master,1,439.75000,460309,telecom,460309,1,,-5.000,BG3HM,TS2
@@ -9677,6 +9680,7 @@ BR7YID,Sanya,Hunan Guangdong Guangxi Hainan,China,Master,8,439.37500,460710,Chin
 S21ALT,Jashore,All Regions,Bangladesh,Master,1,437.50000,470001,"BM, brandmeister.network, DMR-MARC",470001,1,470<br>91,+0.25,S21ALT,Mixed Mode
 S21IT,Dhaka-1219,,Bangladesh,Master,1,439.10000,470003,"DMR, BM, Allstar link, EchoLink",470003,0,TG470,+5.000,S21IT,Mixed Mode
 S21ACP,Dhaka,All Regions,Bangladesh,Master,10,438.20000,470010,BM,470010,1,470,+1.000,S21ACP,Mixed Mode
+S21AHQ,Dhaka,All Regions,Bangladesh,Peer,1,438.07500,470011,BM,470011,1,None,-0.395,S21AHQ,Mixed Mode
 9M4RXC,Bandar Baharu Kedah,West Malaysia,Malaysia,Master,1,439.47500,502002,BrandMeister,502002,1,,-5.000,9W2XIO,TS1 TS2
 9M4RBC,GENTING HIGHLAND,West Malaysia,Malaysia,Master,8,147.75000,502003,BrandMeister,502003,0,,-0.600,9M2EDK,TS1 TS2
 9M4RGH,GENTING HIGHLAND,West Malaysia,Malaysia,Master,8,145.67500,502004,BrandMeister,502004,0,,+0.550,9M2EDK,TS1 TS2
