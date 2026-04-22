@@ -287,8 +287,9 @@ ON0BTS,Wavre,Wal. Brabant,Belgium,Peer,2,438.75000,206022,BM,206022,1,,-7.600,ON
 ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,438.67500,206023,BM,206023,1,206 2066,-7.600,ON7ASZ,TS1 TS2
 ON0MSF,Ixelles,Brussels,Belgium,Master,2,439.27500,206025,BM,206025,1,,-7.6000,ON6RF,TS1 TS2
 ON0DV,Eupen,Liege,Belgium,Peer,1,439.30000,206027,Brandmeister,206027,1,None,-7.600,ON4LFE,TS1 TS2
-ON0UHF,Oostduinkerke,West-Vlaanderen,Belgium,Master,1,145.63750,206028,Brandmeister,206028,1,None,-0.600,ON6UHF,TS1 TS2
+ON0UHF,Oostduinkerke,West-Vlaanderen,Belgium,Master,1,145.63750,206028,Brandmeister,206028,1,None,-0.600,"ON4AIM, ON6UHF",TS1 TS2
 ON0AA,Oostkamp,West-Vlaanderen,Belgium,Master,1,439.00000,206029,Brandmeister,206029,1,None,-7.600,ON4AAK,TS1 TS2
+ON0VHF,Diksmuide,West-Vlaanderen,Belgium,Master,1,439.18750,206030,Brandmeister,206030,1,None,-7.600,"ON4AIM, ON6UHF",TS1 TS2
 ON0GRC,Gent,Oost-Vlaanderen,Belgium,Peer,1,439.08750,206101,BM,206101,1,,-7.600,ON4AKH,TS1 TS2
 ON0DEN,Dendermonde,Oost-Vlaanderen,Belgium,Peer,1,439.03750,206102,BM,206102,1,,-7.600,ON1DGR,TS1 TS2
 ON0SNW,Sint-Niklaas,Oost-Vlaanderen,Belgium,,1,439.40000,206103,DMR-plus,206103,1,,-7.600,ON1GPS,TS1 TS2
@@ -1356,7 +1357,6 @@ IR6UH,Torricella Sicura,,Italy,,1,430.15000,222621,None,222621,1,,-1.600,IK6ONA,
 IR6UCI,Monte  Majelletta,,Italy,,1,430.71250,222622,BrandMeister,222622,1,,5.000,IW6OCM,
 IR6UI,M La Croce,,Italy,,1,430.95000,222666,BrandMeister,222666,1,,5.000,IU6DGD,
 IR6UK,Camerano,,Italy,,1,430.37500,222667,BrandMeister,222667,0,,5.000,IK6FGX,
-IR6UDV,Fano,Marche / Abruzzo,Italy,Master,1,430.11250,222673,RedNet SVXLINK,222673,0,,+1.600,IW6BFE,Mixed Mode
 IR6BK,Manoppello (PE),,Italy,,1,144.00000,222690,None,222690,1,,0.000,IK6IOQ,
 IR6UCH,M.te Patalecchia,,Italy,,1,430.32500,222698,BM,222698,0,,5.000,IW6MKC,TS1 TS2
 IR6UCG,Castel di Sangro AQ,,Italy,,1,430.22500,222699,BM,222699,1,,5.000,IW6MKC,TS1 TS2
@@ -5044,7 +5044,7 @@ KD2EHW,Rochester,New York,United States,master,1,443.05000,310459,Brandmaster,31
 N4DEA,Kinston,North Carolina,United States,Peer,1,440.51250,310461,Brandmeister,310461,1,,+5.000,N4DEA,TS1 TS2
 KI5CMA,Saltillo,Mississippi,United States,Master,1,444.42500,310462,BrandMeister,310462,1,TS 1 31471<br>TS 2 3128<br>TS 2 31285,+5.000,K5CSA,TS1 TS2
 K3ZED,Jennersville,Pennsylvania,United States,peer,1,447.87500,310463,Brandmeister,310463,1,"Testing MTR2000 with Scott Zimmerman RB_STM32_DVM Testing the repeater will at the N3SLC site in Jennersville, PA<br><br>All network and Talkgroup activity on Timeslot 1 ( TG 3110 and TG3142 Static) with <br>Timeslot 2 reserved for Cluster (2) and Local (9) <br><br>Trustees K3ZED / N3GWC /  K3CWI<br><br>Contact:: K3ZED  Copper29p07@hotmail.com",-5.000,K3ZED,1 and 2
-KE6GVK,Saint Johns,Arizona,United States,Peer,1,446.82500,310464,BrandMeister,310464,1,"Refer to website: https://wmrasystem.com/RPT.html<br>DMR CC1, TS-1 & TS-2 BRANDMEISTER ALL TALK GROUPS ARE ACTIVE, USE TG-4000 TO DISCONNECT, XLX835 REFLECTOR PRIVATE TALK GROUP 64004 TO CONNECT AND PRIVATE TALK GROUP 64000 TO DISCONNECT, CROSSMODE DMR TO NXDN TG-7000000 FOR EXAMPLE TG-7007941 FOR WMRA AND TO DICONNECT TG-7009999 AND D-STAR KE6GVK (B)",-5.000,KE6GVK,TS1 TS2
+KE6GVK,Saint Johns,Arizona,United States,Peer,1,446.82500,310464,BrandMeister,310464,1,,-5.000,KE6GVK,TS1 TS2
 KK4ECR,Orange Park,Florida,United States,Peer,1,443.08750,310465,C-Bridge,310465,1,Multiple TG as setup on repeater,+5,KK4ECR,1 & 2
 K4VYX,Savannah,Georgia,United States,Master,3,442.81250,310466,DMR-MARC,310466,1,TWIN-TWR-DMR,+5.000,K4VYX,TS1 TS2
 N1DAS,Nashua,New Hampshire,United States,Peer,5,446.42500,310467,BrandMeister,310467,1,TS2:<br>9  Local repeater<br>313323  GMARS 1 Club talkgroup - all GMARS repeaters<br><br>TS1:<br>313324  GMARS 2 - Secondary club talkgroup<br>3133  NH Statewide (PTT)<br>,-5.000,N1DAS,1 & 2
@@ -9435,7 +9435,7 @@ UN7PME,Karaganda,Karaganda,Kazakhstan,Master,1,144.96250,401020,BM,401020,1,"401
 VU2BCM,Palakkad,Kerala,India,Master,1,145.65000,404001,DMR-MARC,404001,0,,-0.600,VU2PJP,Mixed Mode
 VU2FUN,New Delhi,Delhi,India,Peer,7,145.67000,404002,BrandMeister,404002,1,,-0.600,VU2IB,Mixed Mode
 VU2HUB,New Delhi,Delhi,India,Peer,7,435.67000,404003,BrandMeister,404003,1,,-1.600,VU2IB,Mixed Mode
-VU3TBR,Chennai,Tamil Nadu,India,Master,1,0.00000,404004,BrandMeister,404004,1,Talk Group for Chennai (Madras Old Name) for the entire Tamil Nadu and<br>other surrounding areas.<br>,-0.000,VU3TBR,TS2
+VU3TBR,Chennai,Tamil Nadu,India,Master,1,145.77500,404004,BrandMeister,404004,1,Talk Group for Chennai (Madras Old Name) for the entire Tamil Nadu and<br>other surrounding areas.,-0.000,VU3TBR,TS2
 VU3TBR,Chennai,Tamil Nadu,India,Master,1,443.50000,404005,BM,404005,1,,+0.600,VU3TBR,TS2
 VU2ZO,Bangalore,Karnataka,India,Master,1,145.27500,404006,BrandMeister,404006,1,TalkGroup = 40480<br>https://brandmeister.network/?page=lh&DestinationID=40480,-0.600,VU2IIH,TS1 TS2
 VU2MWG,Chennai,Tamil Nadu,India,Master,1,435.80000,404008,BM,404008,1,4040454,-1.7,VU2MWG,TS1 TS2
@@ -9680,7 +9680,7 @@ BR7YID,Sanya,Hunan Guangdong Guangxi Hainan,China,Master,8,439.37500,460710,Chin
 S21ALT,Jashore,All Regions,Bangladesh,Master,1,437.50000,470001,"BM, brandmeister.network, DMR-MARC",470001,1,470<br>91,+0.25,S21ALT,Mixed Mode
 S21IT,Dhaka-1219,,Bangladesh,Master,1,439.10000,470003,"DMR, BM, Allstar link, EchoLink",470003,0,TG470,+5.000,S21IT,Mixed Mode
 S21ACP,Dhaka,All Regions,Bangladesh,Master,10,438.20000,470010,BM,470010,1,470,+1.000,S21ACP,Mixed Mode
-S21AHQ,Dhaka,All Regions,Bangladesh,Peer,1,438.07500,470011,BM,470011,1,None,-0.395,S21AHQ,Mixed Mode
+S21AHQ,Dhaka,All Regions,Bangladesh,Master,1,438.07500,470011,BM,470011,1,None,-0.395,S21AHQ,Mixed Mode
 9M4RXC,Bandar Baharu Kedah,West Malaysia,Malaysia,Master,1,439.47500,502002,BrandMeister,502002,1,,-5.000,9W2XIO,TS1 TS2
 9M4RBC,GENTING HIGHLAND,West Malaysia,Malaysia,Master,8,147.75000,502003,BrandMeister,502003,0,,-0.600,9M2EDK,TS1 TS2
 9M4RGH,GENTING HIGHLAND,West Malaysia,Malaysia,Master,8,145.67500,502004,BrandMeister,502004,0,,+0.550,9M2EDK,TS1 TS2
