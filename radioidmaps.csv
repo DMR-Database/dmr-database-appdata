@@ -290,6 +290,7 @@ ON0DV,Eupen,Liege,Belgium,Peer,1,439.30000,Brandmeister,50.6330880,6.0089580,206
 ON0UHF,Oostduinkerke,West-Vlaanderen,Belgium,Master,1,145.63750,Brandmeister,51.1346090,2.6772840,206028,None,-0.600,ACTIVE,"ON4AIM, ON6UHF",TS1 TS2
 ON0AA,Oostkamp,West-Vlaanderen,Belgium,Master,1,439.00000,Brandmeister,51.140510000,3.23230000,206029,None,-7.600,ACTIVE,ON4AAK,TS1 TS2
 ON0VHF,Diksmuide,West-Vlaanderen,Belgium,Master,1,439.18750,Brandmeister,51.0314640,2.8521720,206030,None,-7.600,ACTIVE,"ON4AIM, ON6UHF",TS1 TS2
+ON0AIM,Oostende,West-Vlaanderen,Belgium,Peer,1,439.90000,BM,51.2227990,2.9175160,206031,None,6.000,ACTIVE,ON4AIM,TS1 TS2
 ON0GRC,Gent,Oost-Vlaanderen,Belgium,Peer,1,439.08750,BM,51.044800,3.701583,206101,,-7.600,ACTIVE,ON4AKH,TS1 TS2
 ON0DEN,Dendermonde,Oost-Vlaanderen,Belgium,Peer,1,439.03750,BM,51.0312293,4.098112,206102,,-7.600,ACTIVE,ON1DGR,TS1 TS2
 ON0SNW,Sint-Niklaas,Oost-Vlaanderen,Belgium,,1,439.40000,DMR-plus,51.193100,4.154900,206103,,-7.600,ACTIVE,ON1GPS,TS1 TS2
@@ -1455,7 +1456,7 @@ YO4CIL,Mangalia,Braila / Constanta / Galati / Tulcea / Vrancea,Romania,Master,1,
 YO2OCP,Dumbravita,Hunedoara / Timis,Romania,Peer,3,439.92500,DMR+,45.807431,21.229630,226027,,-8.000,ACTIVE,YO2OCP,TS1 TS2
 YO6RZV,Targu Mures,Brasov / Covasna / Harghita / Mures / Sibiu,Romania,Master,1,439.10000,TETRA TMO,46.54401,24.58520,226028,,-5.000,ACTIVE,YO6RZV,Mixed Mode
 YO6RZV,Targu Mures,Brasov / Covasna / Harghita / Mures / Sibiu,Romania,Master,1,439.90000,BrandMeister,46.544063,24.58533,226029,,-7.600,ACTIVE,YO6RZV,TS1 TS2
-YO2OCP,Dumbrăvița,Hunedoara / Timis,Romania,Peer,5,439.82500,BM,45.80751423279201,21.229658364435956,226030,TS1/ 226<br>TS2/ 2260; 2261; 2262; 2265; 9800; 22601; 22610; 22622; 22623; 226112,-8.000,ACTIVE,YO2OCP,TS1 TS2
+YO2OCP,Dumbravita,Hunedoara / Timis,Romania,Peer,5,439.82500,BM,45.80751423279201,21.229658364435956,226030,TS1/ 226<br>TS2/ 2260; 2261; 2262; 2265; 9800; 22601; 22610; 22622; 22623; 226112,-8.000,ACTIVE,YO2OCP,TS1 TS2
 YO2CK,Deva,Hunedoara / Timis,Romania,Peer,1,439.80000,BM,45.60889,22.9488,226031,,-8.0,ACTIVE,YO2CK,TS1 TS2
 YO8Q,Bacau,Bacau / Botosani / Iasi / Neamt / Suceava / Vaslui,Romania,Master,13,439.37500,HTR,46.4358772,26.8916190,226032,,-7.6,ACTIVE,YO8TEH,Mixed Mode
 YO8U,Bacau,Bacau / Botosani / Iasi / Neamt / Suceava / Vaslui,Romania,Master,13,431.37500,HTR,46.4425240,26.8911188,226033,,-7.6,ACTIVE,YO8TEH,Mixed Mode
@@ -1994,7 +1995,7 @@ MB6DL,Dalgety Bay,Scotland,United Kingdom,Master,1,431.06250,BM,,,234205,,+0.000
 GB7MI,Mirfield,England,United Kingdom,Peer,2,439.43750,"BM, YorkshireDMR",53.681141,-1.703800,234206,TS1 is normally conmnected to The Yorkshire Net TG23450 and TS2 is connected to the Brandmaister network. <br><br>,-9.000,ACTIVE,M0OGR,TS1 TS2
 MB5MT,Beaconsfield,England,United Kingdom,Master,3,439.47500,BM,50,-3,234207,,-9.000,ACTIVE,G7DPE,TS1 TS2
 GB7BV,Andover,England,United Kingdom,Peer,9,433.13750,BM,51.25,-1.4,234208,,+5.000,ACTIVE,2E0ISI,TS1 TS2
-GB7SY,Northampton,England,United Kingdom,Peer,6,145.58750,BM,52.226255,-0.924953,234209,TG9 TS1 - Local<br>TS2 - Free Choice,-0.600,ACTIVE,2E0HSV,TS1 TS2
+GB7SY,Northampton,England,United Kingdom,Peer,6,145.58750,BM,52.226255,-0.924953,234209,TG9 TS1 - Local<br>TS2 - Free Choice,-0.600,ACTIVE,M0LHI,TS1 TS2
 GB3KT,KEIGHLEY,England,United Kingdom,Master,5,430.85000,YorkshireDMR,53.87061,-1.92154,234210,,+7.6,ACTIVE,M0DIT,Mixed Mode
 G3UIS,Poulton Le Fylde,England,United Kingdom,Master,5,430.30000,BM,53.82528873229194,-3.0518919009607304,234211,,+9.00,ACTIVE,G3UIS,TS1 TS2
 GB7BG,BATHGATW,Scotland,United Kingdom,Peer,1,439.66250,BM,55.896844,-3.631808,234212,TG1 23551<br>TG2 2355,-9.000,ACTIVE,GM4UQD,TS1 TS2
@@ -2415,7 +2416,7 @@ SK4KO,Mora,,Sweden,,4,434.72500,None,60.953300,14.639300,240408,,-1.600,ACTIVE,S
 SG4JK,Kil,Varmland,Sweden,Peer,4,145.62500,Narrow city link,59.555511,13.2638330,240409,,0.600,ACTIVE,SA4JPK,Mixed Mode
 SK4RGL,Falun,,Sweden,,1,434.62500,DMR-plus,60.629360,15.677594,240410,,-2.000,ACTIVE,SM4KUH,TS1 TS2
 SM4WIU,Leksand,Dalarna,Sweden,Peer,4,434.61250,BM,60.748833,15.074527,240411,,-2.000,ACTIVE,SM0WIU,TS1 TS2
-SK4WV,Aeppelbo,,Sweden,,4,434.66250,BM,60.503765,14.031963,240420,,-2.000,ACTIVE,SA4BHE,TS1 TS2
+SK4WV,Vansbro,Dalarna,Sweden,Peer,4,434.66250,BM,60.503765,14.031963,240420,,-2.000,ACTIVE,SA4BHE,TS1 TS2
 SK4KR,Lunedet Karlskoga,,Sweden,,4,434.80000,BM,59.317577,14.481268,240430,,-2.000,ACTIVE,SM4TFE,TS1 TS2
 SK4KR,Lunedet Karlskoga,,Sweden,,4,432.80000,None,,,240431,,2.000,ACTIVE,SM4TFE,
 SK4RKD,Lunedet Karlskoga,,Sweden,,4,145.75000,BM,59.387791,14.417690,240440,,-0.600,ACTIVE,SM4TFE,TS1 TS2
@@ -2866,7 +2867,7 @@ ER1CHI,Chisinau,,Moldova,Master,1,439.05000,BM,47.04477,28.88275,259002,,-7.600,
 ER1EVO,Chisinau,,Moldova,Master,1,439.10000,DMR-plus,47.0447,28.88157,259003,,-7.600,ACTIVE,ER1MS,TS1 TS2
 ER1DMR,Chisinau,,Moldova,,1,439.80000,None,47.040611,28.764252,259004,,-7.600,ACTIVE,ER1CAQ,
 ER1OVR,Brandmeister,,Moldova,Master,1,438.90000,BM,46.990766211372595,28.820950374121878,259005,BM 2599 Bridge,-7.6,ACTIVE,ER1HAM,Mixed Mode
-ER1PWR,Chisinau,,Moldova,Master,1,439.10000,BM,47.0056043055556,28.8230420277778,259006,259<br>2599,-7.6,ACTIVE,ER1EP,TS1 TS2
+ER1PWR,Chisinau,All Regions,Moldova,Master,1,439.10000,BM,47.0056043055556,28.8230420277778,259006,259<br>2599,-7.6,ACTIVE,ER1EP,TS1 TS2
 ER1IL,Ialoveni,,Moldova,Peer,7,439.08750,BM,46.947399,28.766785,259259,,-7.600,ACTIVE,ER1VOX,TS1 TS2
 ER2DMR,Tiraspol,,Moldova,,1,439.00000,None,46.839260,29.619864,259996,,-7.600,ACTIVE,ER2SD,
 ER1CAT,KN47JB20EL,,Moldova,,1,438.65000,None,47.040668,28.764048,259997,,-7.600,ACTIVE,ER1MAX,
@@ -3195,7 +3196,7 @@ DO0AKW,Waldthurn,Bayern,Germany,Master,1,439.82500,"BM, P25",49.67252212821314,1
 DB0ETL,Karlsruhe,Baden-Wuerttemberg,Germany,Master,1,438.48750,BM,48.939470,8.421987,262115,,-7.6,ACTIVE,DF4IAO,TS1 TS2
 DB0XTK,Neuoetting,Bayern,Germany,Master,1,438.36250,BM,48.2367,12.68414,262117,,-7.600,ACTIVE,DD7MH,TS1 TS2
 DB0WTS,Bochum-Sundern,Nordrhein-Westfalen,Germany,Master,1,439.80000,BM,51.427778,7.1941667,262119,,-9.4000,ACTIVE,DL5DAA,Mixed Mode
-DB0OUD,Berlin/City-West,,Germany,Peer,1,438.62500,BM,52.502186,13.333024,262120,,-7.600,ACTIVE,DL3OCK,TS1 TS2
+DB0OUD,Berlin,Berlin / Brandenburg,Germany,Peer,1,438.62500,BM,52.502186,13.333024,262120,,-7.600,ACTIVE,DL3OCK,TS1 TS2
 DB0LOS,Rauen nr Fürstenwalde,Berlin / Brandenburg,Germany,Master,1,438.47500,BM,52.321362,14.037694,262121,,-7.600,ACTIVE,DG6IBT,TS1 TS2
 DB0RSR,Bueddenstedt,Niedersachsen / Bremen,Germany,Peer,1,438.40000,"DMR, D-Star, Fusion",52.1553,11.0427,262122,,-7.600,ACTIVE,DK4RSM,TS1 TS2
 DB0TU,Berlin-Charlottenburg,Berlin / Brandenburg,Germany,Peer,1,439.57500,BM,52.512112,13.326890,262123,,-7.600,ACTIVE,DG1TAL,TS2
@@ -3258,6 +3259,7 @@ DO0SOB,Erwitte,Nordrhein-Westfalen,Germany,Master,1,439.36250,BM,51.51055,8.3385
 DB0FSG,Langenbach,Bayern,Germany,Peer,1,439.93750,BM,48.434244,11.819593,262186,"262,2628,9",-9.4,ACTIVE,DL3NCU,TS1 TS2
 DB0IDS,Idstein,Hessen,Germany,Peer,1,438.41250,BM,50.22028,8.24806,262187,,-7.600,ACTIVE,DD2ZN,TS1 TS2
 DB0LOL,Loeningen,Niedersachsen / Bremen,Germany,Master,1,439.50000,DMR,0.0,0.0,262188,,-7.600,ACTIVE,DL1LOL,Mixed Mode
+DL3OCK,Berlin,Berlin / Brandenburg,Germany,Peer,1,438.62500,BM,52.50222,13.33306,262189,Mobile Repeater for testing issues,-7.600,ACTIVE,DL3OCK,TS1 TS2
 DK5RAS,Fuerth,Bayern,Germany,Peer,1,439.70000,BM,49.4727100,10.9825900,262191,,-9.4,ACTIVE,DK5RAS,TS1 TS2
 DB0TEN,Bomlitz,Niedersachsen / Bremen,Germany,Master,1,439.21250,BM,52.902111,9.667600,262192,,-7.600,ACTIVE,DK1OM,TS1 TS2
 DB0WAC,Markleeberg,Sachsen / Thueringen,Germany,Master,1,438.20000,BM,51.28154,12.4282998,262193,,-7.600,ACTIVE,DL1FLW,TS1 TS2
@@ -4589,6 +4591,7 @@ VA3TCO,Grassie,Ontario,Canada,Peer,1,147.16500,302446,43.1426400,-79.5780000,302
 VE1EAN,Windsor,Nova Scotia,Canada,Peer,1,443.65000,BM,44.9878,-63.569,302447,,+5.000,ACTIVE,VE1JKB,TS2
 VE3FDW,WALLACEBURG,Ontario,Canada,Master,7,146.30000,BM,42.5788698,-82.1802792,302448,"tg slot 2= 3023,3021610 and 91 on saturdays between 10:00am 4:00pm<br><br>Simplex ONLY",-0.6,ACTIVE,VE3FDW,TS2
 VA7KEL,Kelowna,British Columbia,Canada,Peer,1,444.82500,BM,49.96705452,-119.53045019,302449,"Talk groups: 302020,  30271, 302,  3027,  30272, 3025",+5.000,ACTIVE,VE7BST,TS1 TS2
+VA2TDF,Outremont,Quebec,Canada,Peer,1,443.50000,Brandmaster,45.5152925,-73.6015691,302450,Répeteur Hytera HR652 UHF utilisé en intérieur tant que DMR Hotspot.,-10.000,ACTIVE,VA2FR,TS1 TS2
 VA3ZZM,Sault Ste-Marie,Ontario,Canada,Peer,2,147.15000,BM,46.566222,-84.36125,302451,,+0.6,ACTIVE,VA3FYX,Mixed Mode
 VE1KFQ,Sandy  Cove,Nova Scotia,Canada,Peer,1,145.45000,BM,44.3991260,-66.1899440,302452,"TS 1 - local<br>TS 1 - 2 Atlantic Canada<br>TS 1 - 3020 Newfoundland and Labrador, PEI Wide<br>TS 1 - 3021  Nova Scotia<br>TS 1 - 3023 Ontario<br>TS 1 - 3029 New Brunswick<br>TS 2 - 3100 US Wide<br>TS 2 - 91 Worldwide<br>TS 2 - 93 North America<br>TS 2 - 302 Canada Wide",-0.600,ACTIVE,VE1KFQ,TS1 TS2
 VE3TNK,Mississauga,Ontario,Canada,Master,1,145.17000,BM,43.5930,-79.78917,302453,,-0.6,ACTIVE,VA3UV,TS1 TS2
@@ -7573,7 +7576,7 @@ KB6PLH,Palomar,California,United States,Master,5,446.06250,Western States DMR,33
 N1DTA,Horse Cave,Kentucky,United States,Master,1,440.71250,kentuckydmr c bidge,37.184499,-85.863081,313349,,+5.000,ACTIVE,N1DTA,TS1 TS2
 N1DTA,BONNIEVILLE,Kentucky,United States,Peer,1,444.02500,kentuckydmr c bidge,37.5697869,-85.2527381,313350,,+5.000,ACTIVE,N1DTA,TS1 TS2
 N1DTA,TOMPKINSVILLE,Kentucky,United States,Peer,1,440.67500,kentuckydmr c bidge,37.5697869,-85.2527381,313351,,+5.000,ACTIVE,N1DTA,TS1 TS2
-W3AXL,Valparaiso,Indiana,United States,Master,293,443.51250,P25Link,41.5096,-87.043305,313352,"Motorola Quantar linked to P25 networks including MMDVM, P25NX, and P25Link",+5.0,ACTIVE,W3AXL,Mixed Mode
+W3AXL,Valparaiso,Indiana,United States,Master,0,443.51250,P25Link,41.5096,-87.043305,313352,"Motorola Quantar linked to P25 networks including MMDVM, P25NX, and P25Link",+5.0,ACTIVE,W3AXL,Mixed Mode
 WM8S,Friendswood area,Texas,United States,Peer,0,441.32500,BM,29.5293998,-95.2010447,313353,Yaesu DR-2X Connected to BM via IMRS interface DG-77,+5.000,ACTIVE,WM8S,Mixed Mode
 N1DTA,NICHOLASVILLE,Kentucky,United States,Peer,1,444.03750,kentuckydmr c bidge,37.4800,-84.3000,313354,,+5.000,ACTIVE,N1DTA,TS1 TS2
 N0BVE,PORTABLE,Minnesota,United States,Peer,1,442.67500,BRANDMISTER,44.715625,-93.288447,313355,,+5.000,ACTIVE,N0BVE,TS1 TS2
@@ -8638,7 +8641,7 @@ KO4TDR,Ringgold,Virginia,United States,Peer,10,444.72500,BM,36.74160869245151,-7
 K9MLS,Denton,Texas,United States,Master,11,146.45000,TGIF,33.1480,-97.1200,314561,,+0.6,ACTIVE,K9MLS,TS1 TS2
 N3SBP,Parkville,Maryland,United States,Master,1,223.80000,BM,39.39262,-76.51010,314562,,-1.600,ACTIVE,N3SBP,TS1 TS2
 N4AR,Smithfield,Virginia,United States,Peer,7,440.55000,BM,37.103333,-76.710000,314563,BM TS1 Tidewater 31515 TS2 VA Peninsula 31516 (BM 15min Dynamic TG),+5.00,ACTIVE,N4AR,Mixed Mode
-N0SZ,La Junta,Colorado,United States,Peer,6,445.16250,RMHAM,0.0,0.0,314564,"Timeslot 1, TG 700 RM Wide<br>Timeslot 2, TG 718 Southeastern<br>Timeslot 2, TG 719 South<br>more info:  www.rmham.org",-5.00,ACTIVE,W0VG,TS1 TS2
+N0SZ,La Junta,Colorado,United States,Peer,6,445.16250,RMHAM,38.0412173,-103.5334456,314564,"Timeslot 1, TG 700 RM Wide<br>Timeslot 2, TG 718 Southeastern<br>Timeslot 2, TG 719 South<br>more info:  www.rmham.org",-5.00,ACTIVE,W0VG,TS1 TS2
 N9UMJ,Bedford,Indiana,United States,Peer,1,442.25000,XLXSIN,38.7455,-86.65433,314565,This is a Multi-Mode MMDVM Repeater with DMR as a Primary with 2 timeslots and M17 as a secondary enabled! The DMR will be linked to the Southern Indiana Netoork on BM TG 31188,+5.00,ACTIVE,N9UMJ,TS1 TS2
 WR0MG,Coffeyville,Kansas,United States,Master,5,444.55000,BM,37.015050,-95.6526,314566,TS:1 - TG 314093<br>TS:2 - All dynamic TG,+5.00,ACTIVE,WR0MG,TS1 TS2
 W5ALC,Pueblo,Colorado,United States,Peer,3,449.40000,BM,40.2201101,-103.6781698,314567,among others available,-5.000,ACTIVE,"W5ALC, WX0ABE",TS1 TS2
@@ -9012,6 +9015,8 @@ N5VGK,BLUE MOUNTAIN,Mississippi,United States,Master,1,444.02500,BRANDMEISTER,34
 KC9TNU,Chciago,Illinois,United States,Peer,2,440.02500,Brandmeister,41.9500000,-87.7600000,314981,None,5.000,ACTIVE,KC9TNU,Mixed Mode
 N3BBF,Potomac,Maryland,United States,Peer,1,447.87500,Brandmeister,39.0530000,-77.1570000,314982,None,-5.000,ACTIVE,N3BBF,TS1 TS2
 K8MOT,Portsmouth,New Hampshire,United States,Peer,5,444.55000,NEDECN,43.0725020,-70.8041510,314983,None,-5.000,ACTIVE,K8MOT,TS1 TS2
+N0SZ,Red Feathers,Colorado,United States,Peer,7,145.38500,RMHAM,40.8461979,-105.6104893,314984,None,-0.600,ACTIVE,W0VG,TS1 TS2
+N1KKM,Henniker,New Hampshire,United States,Peer,4,448.57500,dmr-marc,43.0396020,71.3600000,314985,None,-5.000,ACTIVE,N1KKM,Mixed Mode
 WR1VT,Brattleboro,Vermont,United States,Peer,1,444.40000,NEDECN,42.8958537,-72.6633378,315001,"Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activation<br>Contact: Ira, W1IRA<br>Email: w1ira@vermontel.net<br><br>Website: http://nedecn.org",+5.000,ACTIVE,W1IRA,TS1 TS2
 W1IMD,Pico Peak,Vermont,United States,Peer,1,444.50000,NEDECN,43.6395654,-72.8362226,315002,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>* = PTT Activation<br><br>Contact: Paul, W1IMD<br>Email: w1imd@arrl.net<br><br>Website: http://nedecn.org",+5.000,ACTIVE,W1IMD,TS1 TS2
 W1UWS,Mt. Ascutney,Vermont,United States,Master,5,448.47500,NEDECN,43.4397861,-72.4456072,315003,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 3125 = MA Statewide* <br><br>* = PTT Activation<br>Contact: Jeff, WB2NWR<br>Email: katchenj@hotmail.com<br><br>Website: http://nedecn.org",-5.000,ACTIVE,WB2NWR,TS1 TS2
@@ -10416,7 +10421,7 @@ PY2KGS,Santos,Sao Paulo,Brazil,Master,1,439.07500,Brandmeister,-23.514600,-46.27
 PP5CLA,Rio do Sul,Santa Catarina,Brazil,Master,1,146.87000,Brandmeister,-27.20566,-49.69325,724176,,+0.600,ACTIVE,PU5APL,TS1 TS2
 PY4KBH,Corrego do Bom Jesus,Minas Gerais,Brazil,Master,1,145.43000,BM,-22.6914445,-45.9596105,724177,,-0.600,ACTIVE,PY4EI,TS1 TS2
 PP7SMT,Maceio,Alagoas,Brazil,Master,1,439.00000,BM,-9.664677619934082,-35.73473358154297,724178,,-5.000,ACTIVE,PP7AA,TS1 TS2
-PY2RCA,SAO PAULO,Sao Paulo,Brazil,Master,1,145.23000,Brandmeister,-23.848568,-46.024520,724179,,-0.600,ACTIVE,PY2DSA,TS1 TS2
+PY2RCA,SAO VICENTE,Sao Paulo,Brazil,Master,1,145.23000,Brandmeister,-23.9616800,-46.3601800,724179,,-0.600,ACTIVE,PY2DSA,TS1 TS2
 PY2KGL,Braganca Paulista,Sao Paulo,Brazil,Master,1,439.97500,BM,-22.9286139,-46.4773194,724180,"Repeater installed in Bragança Paulista - Brazil.<br>Built by PU2LQS, PY4EI and PY2RMF and installed with local help. Will be maintained by the three<br>Special Thanks PU2MQG and PU2XCM<br>Time Slot #1 - Group Call 724 = Brazil<br>Time Slot #2 - Group Call 72415",-5.000,ACTIVE,PY4EI,TS1 TS2
 PY2KRS,SAO PAULO,Sao Paulo,Brazil,Master,1,146.71000,BM,-23.5969833,-46.73195833333334,724181,Repeater installed in Bragança Paulista - Brazil.<br>Built by PY4EI and PY2QB and installed with local help. Will be maintained by the two.<br>Time Slot #1 - Group Call 724 = Brazil<br>Time Slot #2 - Group Call 72444,-0.600,ACTIVE,PY4EI,TS1 TS2
 PY2TIA,CAMPINAS,Sao Paulo,Brazil,Master,1,439.60000,BM,-22.862793,-47.042857,724182,,-5.000,ACTIVE,PY4EI,TS1 TS2
