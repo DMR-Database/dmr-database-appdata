@@ -1032,7 +1032,7 @@ IR1ZZR,MURAZZANO,Piedmont / Liguria / Aosta,Italy,Peer,1,430.38750,BM,44.4731128
 IR9ZYG,Palermo,Sicily,Italy,Master,1,430.86250,BM,38.156244650000005,13.202435099999999,222170,222170,+5.000,ACTIVE,IT9HLC,TS1 TS2
 IR4UCA,Bologna,Emilia-Romagna,Italy,Master,1,430.65000,BM,44.4938285,11.2916533,222171,,+5.000,ACTIVE,IZ4SJB,TS2
 IR3ZZS,Monte Belvedere,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,145.71250,BM,45.671001,13.803000,222172,,-0.600,ACTIVE,IW3ROW,Mixed Mode
-IR8ZZF,Monte Epomeo NA,Molise / Campania / Calabria,Italy,Peer,1,431.35000,ADN-2224,0.0,0.0,222173,,+1.600,ACTIVE,IU6SSZ,TS1 TS2
+IR8ZZF,Monte Epomeo NA,Molise / Campania / Calabria,Italy,Peer,1,431.35000,ADN-2224,40.7263800,13.901110,222173,,+1.600,ACTIVE,IU6SSZ,TS1 TS2
 IR0ZZO,Rieti,Lazio / Umbria / Sardinia,Italy,Master,1,430.07500,BM,42.404427,12.856714,222174,TS1 TS2,+5.000,ACTIVE,IW0FZP,TS1 TS2
 IR4UQ,Modigliana,Emilia-Romagna,Italy,Master,1,430.07500,BM,44.137587,11.835307,222175,,+1.600,ACTIVE,IW4BEI,TS1 TS2
 IR8UCW,Napoli,Molise / Campania / Calabria,Italy,Master,1,430.02500,BM,40.84083,14.22917,222176,Ripetitore UR1 IR8UCW analogico(+1.600 tono 71.9)-C4FM-DMR-DSTAR Napoli.,+1.600,ACTIVE,IK8WEQ,TS1 TS2
@@ -1343,11 +1343,11 @@ IR6UDG,Monte Midia,,Italy,,1,431.57500,BM,42.0517978,13.1870212,222606,,1.600,AC
 IR6UDO,Sulmona (AQ),,Italy,,1,430.98750,BM,42.0474231,13.927011,222607,,5.000,ACTIVE,IK6IHL,TS1 TS2
 IR6UCZ,Monte Nerone (PU),,Italy,,0,430.96250,BM,43.557804,12.519635,222608,,5.000,ACTIVE,IZ4ISN,TS1 TS2
 IR6UDC,Monte Alto,,Italy,,1,430.22500,DMR-plus,45.3245474,11.7678026,222609,,5.000,ACTIVE,IZ6UDS,TS1 TS2
-IR6UDH,Monte Majella CH,Marche / Abruzzo,Italy,Peer,1,430.03750,ADN-2224,0.0,0.0,222610,"SL1 = TG222, TG222995<br>SL2 = TG22261, TG22266",+1.600,ACTIVE,IU6SSZ,TS1 TS2
-IR6UDB,Monte Pallano CH,Marche / Abruzzo,Italy,Peer,1,430.36250,ADN-2224,0.0,0.0,222611,SL1 = TG222<br>SL1 = TG222995<br>SL2 = TG22261,+1.600,ACTIVE,IU6SSZ,TS1 TS2
+IR6UDH,Monte Majella CH,Marche / Abruzzo,Italy,Peer,1,430.03750,ADN-2224,42.1580400,14.1276900,222610,"SL1 = TG222, TG222995<br>SL2 = TG22261, TG22266",+1.600,ACTIVE,IU6SSZ,TS1 TS2
+IR6UDB,Monte Pallano CH,Marche / Abruzzo,Italy,Peer,1,430.36250,ADN-2224,42.0393200,14.3879800,222611,SL1 = TG222<br>SL1 = TG222995<br>SL2 = TG22261,+1.600,ACTIVE,IU6SSZ,TS1 TS2
 IR6UDE,Pietracorniale PE,Marche / Abruzzo,Italy,Peer,1,430.35000,ADN-2224,42.225163,13.843879,222612,SL1 = TG222<br>SL1 = TG222995<br>SL2 = TG22261<br>SL2 = TG22266,+1.600,ACTIVE,IU6SSZ,TS1 TS2
 IR6UBA,L'Aquila,Marche / Abruzzo,Italy,Peer,1,430.06250,DMR-plus,42.3489203,13.3979672,222613,,5.000,ACTIVE,IU6RCX,TS1 TS2
-IR6UDF,Monte Cimarani AQ,Marche / Abruzzo,Italy,Peer,1,430.27500,ADN-2224,0.0,0.0,222614,SL1 = TG222<br>SL1 = TG222995<br>SL2 = TG22261,+1.600,ACTIVE,IU6SSZ,TS1 TS2
+IR6UDF,Monte Cimarani AQ,Marche / Abruzzo,Italy,Peer,1,430.27500,ADN-2224,42.0385500,13.3943600,222614,SL1 = TG222<br>SL1 = TG222995<br>SL2 = TG22261,+1.600,ACTIVE,IU6SSZ,TS1 TS2
 IR6UDL,VASTO NORD,,Italy,Peer,1,430.06250,IT-DMR,42.1597457,14.6387733,222615,,+5.000,ACTIVE,IK6TTE,TS1 TS2
 IR6UDF,Avezzano,,Italy,,1,430.27500,BM,42.0347963,13.4265048,222616,,1.600,ACTIVE,IZ6UDS,TS1 TS2
 IR6UBJ,Francavilla CH,Marche / Abruzzo,Italy,Peer,1,431.25000,ADN-2224,42.41724,14.282658,222617,SL1 = TG222: TG 222995<br>SL2 = TG22261,+1.600,ACTIVE,IU6SSZ,TS1 TS2
@@ -1359,8 +1359,8 @@ IR6UCI,Monte  Majelletta,,Italy,,1,430.71250,BrandMeister,42.1694252,14.1153627,
 IR6UI,M La Croce,,Italy,,1,430.95000,BrandMeister,43.419800,12.969500,222666,,5.000,ACTIVE,IU6DGD,
 IR6UK,Camerano,,Italy,,1,430.37500,BrandMeister,0.0,0.0,222667,,5.000,ACTIVE,IK6FGX,
 IR6BK,Manoppello (PE),,Italy,,1,144.00000,None,42.257638,14.060007,222690,,0.000,ACTIVE,IK6IOQ,
-IR6UCH,M.te Patalecchia,,Italy,,1,430.32500,BM,,,222698,,5.000,ACTIVE,IW6MKC,TS1 TS2
-IR6UCG,Castel di Sangro AQ,,Italy,,1,430.22500,BM,41.811123,14.088711,222699,,5.000,ACTIVE,IW6MKC,TS1 TS2
+IR6UCH,Isernia,Molise / Campania / Calabria,Italy,Peer,1,430.32500,BM,41.5370810,14.3144990,222698,,5.000,ACTIVE,IW6MKC,TS1 TS2
+IR6UCG,Roccaraso,Marche / Abruzzo,Italy,Peer,1,430.22500,ADN-2224,41.811123,14.088711,222699,,5.000,ACTIVE,IW6MKC,TS1 TS2
 IR7BH,Castelnuovo d Daunia,,Italy,Peer,1,431.40000,BM,41.5791799,15.127989435703304,222700,,1.600,ACTIVE,IW7DZR,TS1 TS2
 IR7BU,Bari,,Italy,Peer,1,145.58750,BM,,,222701,,-0.600,ACTIVE,IZ0QWM,TS1 TS2
 IR7AZ,Montenero Foggia,,Italy,,1,430.42500,BM,41.727048,15.6848185,222702,,5.000,ACTIVE,IW7DZR,TS1 TS2
@@ -2017,6 +2017,7 @@ GB7IR,Irvine,Scotland,United Kingdom,Peer,6,430.91250,Brandmeister,55.6138890,-4
 GB7DM,Dumbarton,Scotland,United Kingdom,Peer,1,434.05000,SVX Link,55.9458500,-4.5453700,234228,BM TG 23551,0.000,ACTIVE,GM7RYR,Mixed Mode
 MB5TN,Wallsend,England,United Kingdom,Peer,0,434.05000,SVXLINK,55.0016532,-1.4946461,234229,None,0.000,ACTIVE,M0KYC,Mixed Mode
 GB3GT,Grimsby,England,United Kingdom,Peer,5,430.85000,Brandmeister,53.5528000,-0.0940000,234231,Michael G8OOS,+7.600,ACTIVE,"G4IPE, G8OOS",TS2
+MB5LC,Lancaster,England,United Kingdom,Peer,0,145.65000,TGIF,54.0318441,-2.8017031,234232,None,0.600,ACTIVE,G6PHF,TS1 TS2
 GB7AU,Amersham,England,United Kingdom,Peer,1,430.86250,DMR-plus,51.6740875,-0.6073643,234236,,7.600,ACTIVE,M0ZPU,TS1 TS2
 GB3OM,Omagh,Northern Ireland,United Kingdom,Peer,1,430.95000,DMR-MARC,54.67395385543932,-7.211005439458262,234501,DMR Talk Groups<br>SLOT	TALKGROUP	DESCRIPTION<br>1	                1               World-Wide Calling<br>1	                2	         Europe Calling<br>1	                3	         North America<br>1	                5	         Australia<br>1	               13	         English World-Wide Calling<br>1	               80	         UK Chat 1<br>1	               81	         UK Chat 2<br>1	               82	         UK Chat 3<br>1	               83	         UK Chat 4<br>1	               84	         UK Chat 5<br>1	               113	         World-Wide Chat 1 English<br>1	               119	         World-Wide Chat 1 (All Languages)<br>1	               123	         World-Wide Chat 2 English<br>1	               129	         World-Wide Chat 2 (All Languages)<br>1	               235	         UK Calling<br>1	               733	         MilNet<br>1	              2345	         CQ North<br>1	              2347	         GB-SOTA<br>1	              2350	         Brandmeister UK Calling<br>1	              2351	         BM UK Chat 1<br>1	              2352	         BM UK Chat 2<br>1	              2353	         BM UK Chat 3<br>1	              2355	         Brandmeister Scotland Wide<br>1	              2721	         Irish Chat 1<br>1	              2722	         Irish Chat 2<br>1	              2723	         Irish Chat 3<br>1	            23450	         Yorkshire Net<br>1	            23525	         Extended Freedom Network<br>1	            23526	         Hubnet<br>1	            23531	         Raynet UK<br>1	            23532	         Essex Raynet<br>1	            23550	         Scotland Chat<br>1	            23565	         Northumberland Scouts<br>2	                    8	         Northern Ireland Cluster (Only available on GB3OM and GB7UL)<br>2	                    9	         Local (Repeater Only)<br>2	                801	         South East England<br>2	                810	         South West England<br>2	                820	         North West England<br>2	                830	         Midlands England<br>2	                840	         East of England<br>2	                 842	         EA Special Link (GB7AV GB7EX GB7HH)<br>2	                 844	         East Anglia East Coast (GB7DS GB7EB GB7TX GB7YL)<br>2	                  851	         Special Link (GB7AI GB7BL GB7EY GB7GM)<br>2	                  852         Special Link (GB7DM GB7KY GB7SM GB7XG GB7GX)<br>2	                  860         Northeast England<br>2	                  870         Wales and Marches Regional<br>2	                  880         Northern Ireland Regional<br>2	                 2724        Irish Calling<br>2	                 9990        Echo Test<br>2	                23555       Scotland Calling<br>2	                23556       UK Wide Multimode<br>2	                23557       Scotland East<br>2	                23558       Scotland North<br>2	                23559       Scotland West,+7.600,ACTIVE,GI4SXV,TS1 TS2
 GB7AI,Hawick,Scotland,United Kingdom,Peer,3,439.33750,DMR-plus,55.54381991043021,-2.8328631844350443,234900,,-9.0,ACTIVE,G0RDI,TS1 TS2
@@ -3319,6 +3320,7 @@ DB0GMN,Grimmen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.50000,B
 DB0UEM,Leopoldshagen,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,438.32500,Tetra,56.0000000,12.0000000,262253,None,-7.600,ACTIVE,DB3MAX,Mixed Mode
 DB0AIS,Moerfelden-Walldorf,Hessen,Germany,Peer,1,438.30000,BM,49.9874400,8.5922100,262254,TG 26269 TS2,-7.600,ACTIVE,"DG3FBL, DL1XM",TS1 TS2
 DB0ALF,Alfeld,Niedersachsen / Bremen,Germany,Master,1,439.50000,Brandmeister,51.9853800,9.8101220,262255,26332<br>26337,-7.600,ACTIVE,"DL8KM, DL1OFD",Mixed Mode
+DB0HHS,Karlsruhe,Baden-Wuerttemberg,Germany,Peer,1,439.88750,Brandmeister,48.9978400,8.3840600,262256,None,-9.400,ACTIVE,DL4FLY,TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,BM,53.970840,8.949069,262257,,-9.400,ACTIVE,DF1RL,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,DMR-plus,53.635181,10.386677,262260,,-7.600,ACTIVE,DL5KUA,TS1 TS2
 DO0OHO,Heiligenhafen,,Germany,,1,438.87500,BM,54.364536,10.978031,262263,,-7.600,ACTIVE,DO3LMR,TS1 TS2
@@ -6834,7 +6836,7 @@ K5GJ,Aldine,Texas,United States,Peer,9,440.47500,Lone Star,29.899877,-95.337368,
 WA7DMR,Ocean Shores,Washington,United States,Peer,1,146.41250,PNWDigital,0.0,0.0,312432,PNWDigital.net<br>PNW-A c-Bridge<br>bridgewatch.pnwdigital.org,+1.000,ACTIVE,NO7RF,TS1 TS2
 W4DMM,Murfreesboro,Tennessee,United States,Peer,1,444.30000,Brandmeister,35.7665,-86.3926,312433,,+5.000,ACTIVE,W4DMM,TS1 TS2
 N7LF,Corbett,Oregon,United States,Peer,1,443.10000,PNW Digital,45.530861,-122.089861,312435,,+5.000,ACTIVE,N7LF,TS1 TS2
-KC2REY,Dansville,New York,United States,Peer,1,441.96250,BrandMeister,42.6154630,-77.7277900,312436,,+5.000,ACTIVE,KC2REY,TS1 TS2
+KC2REY,Dansville,New York,United States,Peer,1,434.00000,BrandMeister,42.6154630,-77.7277900,312436,CC1-TS1-TS2,+5.000,ACTIVE,KC2REY,TS1 TS2
 KD8REH,Kingsley,Michigan,United States,Master,1,443.35000,"BM, TGIF",44.564780,-85.541825,312437,TG 91 Worldwide<br>TG 93 North America <br>TG 2416<br>,+5.00,ACTIVE,KD8REH,TS1
 K4IUG,CHARLESTON,South Carolina,United States,Master,1,443.45000,NONE USE CONTACT99,32.7876012,-79.9402728,312438,,+5.000,ACTIVE,K4IUG,TS1 TS2
 KM7KK,Tucson,Arizona,United States,Peer,1,447.50000,BM,32.3277581,-111.1072585,312439,Europe 92<br>North America 93<br>Europe English 923<br>USA Bridge 3100<br>Southwest 3175<br>ECOMM US<br>AZ ECOMM 31040<br>USA EMCOMM 3100<br>English 913<br>AZ 10 Minute<br>USA Area 7<br>AZ Cactus TG 3185,-5.000,ACTIVE,KM7KK,TS1 TS2
@@ -9688,13 +9690,13 @@ S21IT,Dhaka-1219,,Bangladesh,Master,1,439.10000,"DMR, BM, Allstar link, EchoLink
 S21ACP,Dhaka,All Regions,Bangladesh,Master,10,438.20000,BM,23.7185450,90.490495,470010,470,+1.000,ACTIVE,S21ACP,Mixed Mode
 S21AHQ,Dhaka,All Regions,Bangladesh,Master,1,438.07500,BM,23.7892240,90.4035100,470011,None,-0.395,ACTIVE,S21AHQ,Mixed Mode
 9M4RXC,Bandar Baharu Kedah,West Malaysia,Malaysia,Master,1,439.47500,BrandMeister,3.178360,101.612991,502002,,-5.000,ACTIVE,9W2XIO,TS1 TS2
-9M4RBC,GENTING HIGHLAND,West Malaysia,Malaysia,Master,8,147.75000,BrandMeister,,,502003,,-0.600,ACTIVE,9M2EDK,TS1 TS2
-9M4RGH,GENTING HIGHLAND,West Malaysia,Malaysia,Master,8,145.67500,BrandMeister,,,502004,,+0.550,ACTIVE,9M2EDK,TS1 TS2
+9M4RBC,GENTING HIGHLAND,West Malaysia,Malaysia,Master,8,147.75000,BrandMeister,3.4374670,101.7835610,502003,,-0.600,ACTIVE,9M2EDK,TS1 TS2
+9M4RGH,GENTING HIGHLAND,West Malaysia,Malaysia,Master,8,145.67500,BrandMeister,3.4377410,101.7838190,502004,,+0.550,ACTIVE,9M2EDK,TS1 TS2
 9M4RPJ,SHAH ALAM,West Malaysia,Malaysia,Master,8,439.75000,BrandMeister,3.08215855,101.54402604496669,502005,,-5.000,ACTIVE,9M2EDK,Mixed Mode
 9M2RKL,Shah Alam,West Malaysia,Malaysia,Master,7,439.15000,BrandMeister,3.178360,101.612991,502006,TS1 - TG1 (Local)<br>TS2 - Static TG50210 / The rest are dynamic (PTT),-5.000,ACTIVE,9M2TPT,TS1 TS2
 9W2NUF,KELANTAN,West Malaysia,Malaysia,Master,7,448.75000,"BM,DMR-MARS",5.9827,102.2433,502007,,-5.000,ACTIVE,9W2NUF,TS1 TS2
 9W2NUF,KELANTAN,West Malaysia,Malaysia,Master,7,438.75000,50210,-34.5966,-58.44241,502008,,-5.000,ACTIVE,9W2NUF,TS1 TS2
-9M4RSE,MARTS SEGAMAT,West Malaysia,Malaysia,Peer,7,439.72500,BM,,,502009,,-5.000,ACTIVE,9M2EDK,Mixed Mode
+9M4RSE,MARTS SEGAMAT,West Malaysia,Malaysia,Peer,7,439.72500,BM,2.5819980,102.6190850,502009,,-5.000,ACTIVE,9M2EDK,Mixed Mode
 9W2NUF,KELANTAN,West Malaysia,Malaysia,Peer,5,438.96250,5021,0.0,0.0,502010,,-5.000,ACTIVE,9W2NUF,TS1 TS2
 9M4GTD,Marang Terengganu,West Malaysia,Malaysia,Peer,1,146.75000,BM,0.0,0.0,502012,Terengganu Net - 5020550,-0.600,ACTIVE,9M4CTD,Mixed Mode
 9M4RMM,Penang,East Malaysia,Malaysia,Peer,1,146.70000,DMR-MARC,0.0,0.0,502200,Time Slot#1 - Group Call 1 = Worldwide Calling (2 min max)<br>Time Slot #1- Group Call 13 = Worldwide English<br>Time Slot #2- Group Call 5 = VK/ZL Regional<br><br>You Must Have [ARS] Disabled Within Your Radio.<br><br>Contact: 9M2AOC<br>Email:,-0.600,ACTIVE,9M2AOC,TS1 TS2
