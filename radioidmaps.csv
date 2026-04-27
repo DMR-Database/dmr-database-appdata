@@ -267,7 +267,6 @@ PI1FRL,Burgwerd,,Netherlands,,1,438.36250,BM,53.0870238,5.5469571,204844,,-7.600
 ON0CK,Kortrijk,West-Vlaanderen,Belgium,,1,439.16250,BM,51.100399,4.182400,206001,,-7.600,ACTIVE,ON4TOP,TS1 TS2
 ON0SEA,Knokke-Heist,West-Vlaanderen,Belgium,Master,1,438.93750,BM,51.341637,3.286677,206002,,-7.600,ACTIVE,ON4UK,TS1 TS2
 ON0VRN,Veurne,West-Vlaanderen,Belgium,,1,439.21250,BM,51.116009,2.682519,206003,,-7.600,ACTIVE,ON8SD,TS1 TS2
-ON0MSD,Moorslede,West-Vlaanderen,Belgium,Peer,1,439.18750,BM,50.891201,3.057935,206004,,-7.600,ACTIVE,ON4AIM,TS1 TS2
 ON0MSF,Brussels,Brussels,Belgium,Master,1,438.07500,"BM, Tetrapack",50.833,4.363,206005,"TETRA Repeater, see map.tetrapack.online",-7.6,ACTIVE,ON6RF,Mixed Mode
 ON4TOP,Bavikhove,West-Vlaanderen,Belgium,,1,438.07500,Hytera,50.8754034,3.3113418,206006,,-7.600,ACTIVE,ON4TOP,
 ON0DXK,Kortrijk,West-Vlaanderen,Belgium,,1,439.00000,Hytera,50.8276429,3.2659884,206007,,-7.600,ACTIVE,ON4TOP,
@@ -2938,6 +2937,8 @@ SR8NA,Nienadowa,podkarpackie,Poland,Master,2,438.82500,BM,49.84373,22.43339,2600
 SR1K,Stargard,zachodniopomorskie,Poland,Master,1,145.70000,BM,53.3393000,15.0091000,260065,"HYTERA RD-985<br>TS1: static tg2601, dynamic tg260<br>TS2: static TG26011",-0.600,ACTIVE,"SP1JT, SQ1GZG",TS1 TS2
 SR4BA,KIERTYNY,warmińsko-mazurskie,Poland,Master,4,438.53750,BM,54.30103038796983,20.752186589969135,260066,"260, 2604, 26041, 260414",-7.600,ACTIVE,HF4OS,TS1 TS2
 SR5UZQ,Krze Duze,mazowieckie,Poland,Master,5,438.86250,BM YSF,52.0074200,20.5894700,260067,None,-7.600,ACTIVE,SQ5FBI,TS1 TS2
+SR5MRK,RYBNIK,śląskie,Poland,Peer,5,431.61250,IPSC,50.0600000,18.5000000,260068,None,0.000,ACTIVE,SP5MRK,Mixed Mode
+SR5AWK,Warszawa,mazowieckie,Poland,Master,0,431.61250,Local site,52.1312540,21.0558740,260069,None,0.000,ACTIVE,SP5AWK,Mixed Mode
 SR1KG,Kolobrzeg,zachodniopomorskie,Poland,Master,1,439.22500,Brandmeister,54.176262,15.570980,260101,TG260 TG2601,-7.600,ACTIVE,SQ1KW,TS1 TS2
 SR1UVX,Stargard,zachodniopomorskie,Poland,Master,1,439.38750,Brandmeister,53.339500,15.021333,260102,,-7.600,ACTIVE,SQ1GZG,TS1 TS2
 SR1UVH,Uznam Island,zachodniopomorskie,Poland,Master,1,439.02500,Brandmeister,53.9084104,14.2307479,260103,,-7.600,ACTIVE,SP1WSX,TS1 TS2
@@ -3130,7 +3131,7 @@ DB0OFL,Rhauderfehn,Niedersachsen / Bremen,Germany,Master,1,144.83750,"DMR, D-Sta
 DB0LWL,Gusborn,,Germany,,1,439.47500,BM,53.088917,11.226200,262035,,-7.600,ACTIVE,DL4ZP,TS1 TS2
 DB0FWS,Schweinfurt,Bayern,Germany,Peer,1,439.53750,BM,50.05106,10.21579,262036,,-7.6,ACTIVE,DL3HM,Mixed Mode
 DB0MAK,Marktredwitz,Bayern,Germany,Master,1,438.32500,-,50.0002,12.1394,262037,Aktuell im Testbetrieb,-7.600,ACTIVE,DL2TOB,Mixed Mode
-DB0ANT,Wolfenbuettel,Niedersachsen / Bremen,Germany,Master,1,439.88750,BM,50,-3,262038,,-9.400,ACTIVE,DC2OS,Mixed Mode
+DB0ANT,Wolfenbuettel,Niedersachsen / Bremen,Germany,Master,1,439.88750,BM,52.1776400,10.5642000,262038,,-9.400,ACTIVE,DC2OS,Mixed Mode
 DB0HBO,Essen,Nordrhein-Westfalen,Germany,Master,1,438.63750,DMR+,51.43766784667969,7.00318956375,262039,,-7.600,ACTIVE,DL6EO,Mixed Mode
 DB0DES,Dessau-Rosslau,,Germany,,1,439.55000,None,,,262040,,-7.600,ACTIVE,DL3HQD,
 DO0BKS,Graach an der Mosel,Rheinland-Pfalz / Saarland,Germany,Master,1,439.90000,BM,49.9298,7.0864,262042,"Dieser Repeater ist mit BM DMR Netz verbunden, läuft im Slot 1 mit TG 262 TG 9112 TG 26259 TG 270100 im Slot 2 mit TG 2625 TG 8 TG 9 TG 26258",-9.4,ACTIVE,DO4DW,TS1 TS2
@@ -3323,6 +3324,7 @@ DB0AIS,Moerfelden-Walldorf,Hessen,Germany,Peer,1,438.30000,BM,49.9874400,8.59221
 DB0ALF,Alfeld,Niedersachsen / Bremen,Germany,Master,1,439.50000,Brandmeister,51.9853800,9.8101220,262255,26332<br>26337,-7.600,ACTIVE,"DL8KM, DL1OFD",Mixed Mode
 DB0HHS,Karlsruhe,Baden-Wuerttemberg,Germany,Peer,1,439.88750,Brandmeister,48.9978400,8.3840600,262256,None,-9.400,ACTIVE,DL4FLY,TS1 TS2
 DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,BM,53.970840,8.949069,262257,,-9.400,ACTIVE,DF1RL,TS1 TS2
+DB0ANT,Wolfenbuettel,Niedersachsen / Bremen,Germany,Master,1,145.68750,Brandmeister,52.1776400,10.5641200,262258,None,0.600,ACTIVE,DC2OS,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,DMR-plus,53.635181,10.386677,262260,,-7.600,ACTIVE,DL5KUA,TS1 TS2
 DO0OHO,Heiligenhafen,,Germany,,1,438.87500,BM,54.364536,10.978031,262263,,-7.600,ACTIVE,DO3LMR,TS1 TS2
 DB0MDW,Meddewade,,Germany,,1,439.53750,DMR-plus,53.8095542,10.4398849,262264,,7.600,ACTIVE,DG4HA,TS1 TS2
@@ -7448,7 +7450,7 @@ KG0RP,Lakewood,Colorado,United States,Master,7,445.26250,"BM,TGIF,DMR-Plus",39.7
 KE4PRF,Seffner,Florida,United States,Master,1,442.77500,"BM, TGIF",27.998541000000003,-82.27488400225634,313193,"TS1:  BrandMeister Network TG 31801 and TG 313193 are Static, others PTT (Dynamic, will time out in 10 minutes)  Please listen before PTT.<br>TS2: TGIF Network: Only 1 TG at a time with TGIF, 31665 is usually selected.  Others are allowed with PTT.",+5.000,ACTIVE,KE4PRF,TS1 TS2
 K7LYY,Columbia Falls,Montana,United States,Peer,1,146.76000,BM,48.21890261566171,-114.32986418890484,313195,,-0.600,ACTIVE,K7LYY,Mixed Mode
 W9BTM,Sheboygan,Wisconsin,United States,Peer,1,433.80000,BM,43.7128967,-87.9370433,313196,"Sheboygan, WI DMR Network",+5.000,ACTIVE,W9BTM,Mixed Mode
-N4JFD,Unicoi,Tennessee,United States,Peer,15,448.98750,BM,36.21719,-82.37078,313197,,-5.00,ACTIVE,N4JFD,TS1 TS2
+N4JFD,Unicoi,Tennessee,United States,Peer,15,443.98750,BM,36.21719,-82.37078,313197,,5.000,ACTIVE,N4JFD,TS1 TS2
 AA0RC,Vandalia,Missouri,United States,Peer,3,444.12500,BM,39.31191378591519,-91.47648781309248,313198,,+5.000,ACTIVE,AA0RC,TS1 TS2
 W5EPA,Tow,Texas,United States,Master,1,445.72500,BM,30.8518742,-98.4437032,313199,,-5.000,ACTIVE,W5EPA,TS1 TS2
 WB6TNP,Las Vegas,Nevada,United States,Peer,15,448.92500,SF-TRBO,36.3225941,-115.5713654,313200,"TG 76225 SoCal on TS1 (PTT to turn ON for 5 min, then turns OFF)<br>TG 3176 Southwest Region on TS1 (PTT to turn ON for 5 min, then turns OFF)<br>TG 3115 Hawaii State on TS1 (PTT to turn ON for 10 min, then turns OFF)<br>TG 5150 is NorCal 5150 on TS1 (PTT to turn ON for 10 min, then turns OFF)<br>TG 3100 Bridge on TS1 (PTT to turn ON for 10 min, then turns OFF)<br>TG 3777216 Comm 2 on TS2 (PTT to turn ON for 5 minutes, then turns OFF)<br>TG 3 DMR North America on TS2 (PTT for 10 minutes, Turns ON Wednesday 6pm for 1 hr for Tech Net)<br>TG 1 DMR WW on TS2 (Turns on Saturdays 9am for WW Net for 1 hr and 10 minutes)<br>TG 310 TAC310 on TS2 (PTT to turn ON for 10 minutes) (Turns on Sundays at 5pm for TAC 310 Net for 1 hr)<br>TG 8900 Las Vegas Local on TS2 (Always ON, Turns OFF DMR NA when LV Local in use)<br>TG 9999 Audio Test on TS2 (PTT to turn ON for 5 min, then turns OFF)( http://www.norcaldmr.org/listen-now/index.html)<br>TG 9998 Parrot on TS2 (PTT to turn ON for 5 min, then turns OFF)(Will playback your audio)       Contact Name: Dennis Lee<br>Email: katonk@comcast.net",-5.000,ACTIVE,WB6TNP,TS1 TS2
@@ -9005,7 +9007,7 @@ K5TKR,Longview,Texas,United States,Peer,1,440.60000,BM,32.5148850,-94.7372360,31
 N5VGK,houston,Mississippi,United States,Peer,1,444.17500,brandmeister,33.8700000,-88.98,314968,None,5.000,ACTIVE,"N5VGK, KG5JDS",TS1 TS2
 K8MOT,Bridgton,Maine,United States,Peer,12,145.16000,NEDECN,44.0468789,-70.8212629,314969,None,-0.060,ACTIVE,K8MOT,TS1 TS2
 W4KPR,Sun City Center,Florida,United States,Peer,0,442.50000,Noney=tbd,27.6914800,-82.3769800,314970,"Kings Point Amateur Radio Club<br>1900 Clubhouse Drive<br>Sun City Center, FL  33573",+5.000,ACTIVE,W4KPR,TS2
-N4JFD,Johnson City,Tennessee,United States,Peer,15,448.98750,BM,36.3186490,-82.4123170,314971,None,-5.000,ACTIVE,N4JFD,TS1 TS2
+N4JFD,Johnson City,Tennessee,United States,Peer,13,443.95000,BM,36.3139000,-82.3522000,314971,None,5.000,ACTIVE,"W4YSF, N4JFD",TS1 TS2
 K7NWS,Seattle,Washington,United States,Master,1,146.50000,PNWDigital,47.5087500,-121.9851901,314972,BEARS West Tiger Mountain 2 repeater<br>Consult http://pnwdigital.net/repeaters for talkgroup information,+1.000,ACTIVE,W7VXS,TS1 TS2
 KE6SFP,O'Brien,Oregon,United States,Peer,1,442.88750,IPSC,42.0000000,-123.0000000,314973,None,+5.000,ACTIVE,KE6SFP,TS1
 W0DJK,FARIBAULT,Minnesota,United States,Peer,1,442.17500,BRANDMEISTER,44.3310000,-93.160,314974,None,+5.000,ACTIVE,W0DJK,TS2
@@ -9019,7 +9021,8 @@ KC9TNU,Chciago,Illinois,United States,Peer,2,440.02500,Brandmeister,41.9500000,-
 N3BBF,Potomac,Maryland,United States,Peer,1,447.87500,Brandmeister,39.0530000,-77.1570000,314982,None,-5.000,ACTIVE,N3BBF,TS1 TS2
 K8MOT,Portsmouth,New Hampshire,United States,Peer,5,444.55000,NEDECN,43.0725020,-70.8041510,314983,None,-5.000,ACTIVE,K8MOT,TS1 TS2
 N0SZ,Red Feathers,Colorado,United States,Peer,7,145.38500,RMHAM,40.8461979,-105.6104893,314984,None,-0.600,ACTIVE,W0VG,TS1 TS2
-N1KKM,Henniker,New Hampshire,United States,Peer,4,448.57500,dmr-marc,43.0396020,71.3600000,314985,None,-5.000,ACTIVE,N1KKM,Mixed Mode
+N1KKM,Henniker,New Hampshire,United States,Peer,4,448.57500,dmr-marc,43.1506000,-71.7981000,314985,None,-5.000,ACTIVE,N1KKM,Mixed Mode
+KR4AOM,Odenville,Alabama,United States,Peer,1,442.20000,Brandmeister,33.6050000,-86.4190000,314986,None,+5.000,ACTIVE,KQ4ESQ,TS1 TS2
 WR1VT,Brattleboro,Vermont,United States,Peer,1,444.40000,NEDECN,42.8958537,-72.6633378,315001,"Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activation<br>Contact: Ira, W1IRA<br>Email: w1ira@vermontel.net<br><br>Website: http://nedecn.org",+5.000,ACTIVE,W1IRA,TS1 TS2
 W1IMD,Pico Peak,Vermont,United States,Peer,1,444.50000,NEDECN,43.6395654,-72.8362226,315002,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>* = PTT Activation<br><br>Contact: Paul, W1IMD<br>Email: w1imd@arrl.net<br><br>Website: http://nedecn.org",+5.000,ACTIVE,W1IMD,TS1 TS2
 W1UWS,Mt. Ascutney,Vermont,United States,Master,5,448.47500,NEDECN,43.4397861,-72.4456072,315003,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 3125 = MA Statewide* <br><br>* = PTT Activation<br>Contact: Jeff, WB2NWR<br>Email: katchenj@hotmail.com<br><br>Website: http://nedecn.org",-5.000,ACTIVE,WB2NWR,TS1 TS2
@@ -9633,7 +9636,7 @@ BR4IN,Jinan,Shanghai Shandong Jiangsu,China,Master,5,439.15000,BM,0.0,0.0,460106
 BH2UJC,ShenYang,Heilongjiang Jilin Liaoning,China,Master,10,439.85000,BM、DMR-MAR​​C,41.775211,123.44754,460108,,-5.000,ACTIVE,BH2UJC,TS1 TS2
 BR2RD,Shenyang,Heilongjiang Jilin Liaoning,China,Master,10,439.12500,DMR-MAR​​C,41.8190922,123.5012533,460109,,-7.600,ACTIVE,BD2XYZ,TS1 TS2
 BH2UJC,ShenYang,Heilongjiang Jilin Liaoning,China,Master,7,438.70000,BM、DMR-MAR​​C,41.820099,123.44520,460110,,-7.775,ACTIVE,BH2UJC,TS2
-BI3EF,beijing,Beijing,China,Master,1,438.01250,BM，DMR-MARC,39.1378888,117.2076111,460111,TG 46011 77777,-8.00000,ACTIVE,BI3EF,TS1 TS2
+BI3EF,Beijing,Beijing,China,Master,1,438.01250,BM，DMR-MARC,39.1378888,117.2076111,460111,TG 46011 77777,-8.00000,ACTIVE,BI3EF,TS1 TS2
 BR5IZ,NanChang,Zhejiang Fujian Jiangxi,China,Master,10,439.50000,BM,28.7463,115.9108,460112,Time Slot #1 - Group Call 46079 = JiangXi<br>Time Slot #1 - Group Call 460791 = NanChang<br>Time Slot #2 - Group Call 46001 = China,-9.000,ACTIVE,BG5IEV,TS1 TS2
 BR9BJ,Baoji,Shaanxi Ningxia Gansu Qinghai,China,Master,11,439.85000,BM,34.382553,107.148662,460113,,-6.2,ACTIVE,BG9ATK,TS1 TS2
 BR6IC,Zhengzhou,Henan Hubei Anhui,China,Peer,11,439.77500,HBLink,34.7400000,113.6400000,460114,None,-8.000,ACTIVE,BH6IDD,TS1
@@ -9655,7 +9658,6 @@ BR6LU,Henan Luoyang,Henan Hubei Anhui,China,Master,1,439.02500,BM.DMR-MARC,34.51
 BR6LR,Henan Luoyang,Henan Hubei Anhui,China,Master,1,439.85000,BM.DMR-MARC,34.031097,112.540747,460130,,-9.000,ACTIVE,BA6KA,TS1 TS2
 BR6LN,Henan Luoyang,Henan Hubei Anhui,China,Master,1,439.95000,BM.DMR-MARC,33.724337,111.656194,460131,,-9.000,ACTIVE,BA6KA,TS1 TS2
 BR6LO,Henan Luoyang,Henan Hubei Anhui,China,Master,1,439.92500,BM.DMR-MARC,34.237678,112.33658,460132,,-9.000,ACTIVE,BA6KA,TS1 TS2
-BI3EF,beijing,Beijing,China,Master,1,438.01250,BM，DMR-MARC,39.1378888,117.2076666,460133,TG 46011 77777,-8.00000,ACTIVE,BI3EF,TS1 TS2
 BR3MC,河北省衡水市,Shanxi Hebei Tianjin,China,Master,1,438.60000,BM,37.72738,115.66233,460134,"Hengshui Amateur Radio Relay Station, TS1 is TG460318,TS2 is TG46001。",-8.000,ACTIVE,BG3NCT,TS1 TS2
 BR6QZZ,Wuhan,Henan Hubei Anhui,China,Master,5,438.80000,https://brandmeister.network/,30.648421,114.281685,460135,438.800/-8 /88.5/BR6QZZ/BG6TPT,+5.000,ACTIVE,BR6QZZ,Mixed Mode
 BR5AK,Hangzhou,Zhejiang Fujian Jiangxi,China,Master,1,145.20000,"BM, Homebrew Net",30.21486,120.13400,460136,BR5AK is another home-brew mix-mode repeater linked together with BM/TG460501 and works in VHF band.,-0.600,ACTIVE,BG5HHP,Mixed Mode
@@ -9684,6 +9686,7 @@ BR4IF,Zibo Huantai,Shanghai Shandong Jiangsu,China,Master,12,439.27500,Local Are
 BI6AN,Hefei,Henan Hubei Anhui,China,Master,11,438.87500,BrandMeister,31.8621536,117.6666584,460551,TS1 46001<br>TS2 460551,-8.0000,ACTIVE,BA6HT,TS1 TS2
 BH6BCC,BENGBU,Henan Hubei Anhui,China,Peer,11,438.29500,BM,32.94439,117.23354,460552,TS1 TG:46001<br>TS2 TG:460552,-7.000,ACTIVE,BH6AGG,TS1 TS2
 BR6YH,hefei,Henan Hubei Anhui,China,Peer,11,439.27500,BM,31.8817261,117.26312362261532,460555,TG1 460275,-8.00,ACTIVE,BD6CA,TS1 TS2
+BI3EF,Beijing,Beijing,China,Master,1,438.01250,BM，DMR-MARC,39.1378888,117.2076666,460666,,-8.00000,ACTIVE,BI3EF,TS1 TS2
 BR7YAK,Lingshui,Hunan Guangdong Guangxi Hainan,China,Master,8,439.37500,China Union telecom,18.506048,110.037503,460709,,-5.000,ACTIVE,BG7YAK,TS1 TS2
 BR7YID,Sanya,Hunan Guangdong Guangxi Hainan,China,Master,8,439.37500,China Mobile,18.252847,109.511909,460710,,-5.000,ACTIVE,BG7YID,TS1 TS2
 S21ALT,Jashore,All Regions,Bangladesh,Master,1,437.50000,"BM, brandmeister.network, DMR-MARC",23.177854,89.199152,470001,470<br>91,+0.25,ACTIVE,S21ALT,Mixed Mode
