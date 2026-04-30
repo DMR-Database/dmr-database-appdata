@@ -4006,9 +4006,9 @@ LZ0ADN,Sofia,Sofia,Bulgaria,Master,1,438.40000,284040,ADN,284040,1,,-7.600,LZ1DH
 LZ0LZO,ZelenDol,,Bulgaria,Master,1,431.60000,284041,DMR,284041,0,,+7.6,LZ3VEK,TS1 TS2
 LZ0DLC,plovdiv,Plovdiv,Bulgaria,Peer,1,439.22500,284066,DMR-plus,284066,1,,-7.600,LZ1PLC,TS1 TS2
 LZ0PLC,plovdiv,Plovdiv,Bulgaria,Peer,1,438.30000,284067,DMR-plus,284067,1,,-7.600,LZ1PLC,TS1 TS2
-LZ0ELH,Elhovo,Yambol,Bulgaria,Peer,1,439.22500,284074,None,284074,1,,-7.600,LZ1STA,TS1 TS2
+LZ0ELH,Elhovo,Yambol,Bulgaria,Peer,1,439.22500,284074,284074,284074,1,,-7.600,LZ1STA,TS1 TS2
 LZ0IOS,Sofia,Sofia City,Bulgaria,Peer,0,439.07500,284075,ADN,284075,1,The repeater operates on C4FM System Fusion,-7.600,LZ3JY,Mixed Mode
-LZ0ATC,Sofia,Sofia City,Bulgaria,Peer,1,439.85000,284099,None,284099,1,,-7.600,LZ1STA,TS1 TS2
+LZ0ATC,Sofia,Sofia City,Bulgaria,Peer,1,439.85000,284099,284099,284099,1,,-7.600,LZ1STA,TS1 TS2
 LZ0SVV,Bulgaria Haskovo,,Bulgaria,,0,438.37500,284323,DMR-plus,284323,0,,-7.600,LZ3SV,TS1 TS2
 LZ0VDR,Varna Galata,,Bulgaria,,1,438.70000,284333,DMR-plus,284333,0,,-7.600,LZ2PMI,TS1 TS2
 LZ0VTR,Sofia,Sofia City,Bulgaria,Master,1,438.62500,284359,BM,284359,1,,-7.600,LZ3OM,TS1 TS2
@@ -5679,7 +5679,7 @@ WX4ARC,Florence,South Carolina,United States,Peer,1,442.28750,311150,TGIF,311150
 KA1MXL,Warwick,Rhode Island,United States,master,8,433.10000,311151,BrandMeister/DMR-MARC,311151,1,,-1.0,KA1MXL,TS1 TS2
 W4DHW,Lexington,Virginia,United States,Master,1,442.05000,311152,Brandmeister,311152,1,,+5,W4DHW,Mixed Mode
 W1PAA,North Las Vegas,Nevada,United States,Peer,1,449.77000,311153,BrandMeister/DMR-MARC/CAN_TRBO,311153,1,"DMR Repeater, Las Vegas, NV<br><br>Timeslot<br><br>TG 31010<br>TG 310<br>TG 31327<br>TG 31328<br>TG 3132 CC 1 TS  2<br><br><br>9<br>91<br>222<br>3100<br>3101<br>3132<br>10100<br>31010<br>31011<br>31090<br>31091<br>31092<br>31093<br>31094<br>31095<br>31096<br>31097<br>31098<br>31099<br>31327<br>Reflector	4639",-0.600,W1PAA,TS2
-KD4ADL,Mtn Lake,Virginia,United States,Peer,9,444.25000,311155,HEARS / DMRVA,311155,1,,+5.000,KD4ADL,TS1 TS2
+KD4ADL,Mtn Lake,Virginia,United States,Peer,9,444.25000,311155,DMRVA / N4HRS,311155,1,,+5.000,KD4ADL,TS1 TS2
 KD4CIF,Warrior,Alabama,United States,Peer,1,442.82500,311156,BM,311156,1,"Alabama DMR<br>Warrior, Alabama<br>Modes Enabled: <br>D-Star, Linked to REF001 C<br>DMR, ID 311156, DMR+ IPSC2-USA-MN2<br>YSF, YSF02034 - Alabama Link<br>P25, Linked to TG31010<br>NXDN, Linked to TG31010<br>*<br>Raspberry Pi3 / STM32_DVM_v3<br>MMDVM:20190130",+5.000,KD4CIF,TS1 TS2
 KD4CIF,Warrior,Alabama,United States,30+ mile,1,442.82500,311157,"D-Star, Linked to REF001 C",311157,1,"Alabama DMR<br>Warrior, Alabama<br>Modes Enabled: <br>D-Star, Linked to REF001 C<br>DMR, ID 311156, DMR+ IPSC2-USA-MN2<br>YSF, YSF02034 - Alabama Link<br>P25, Linked to TG31010<br>NXDN, Linked to TG31010<br>*<br>Raspberry Pi3 / STM32_DVM_v3<br>MMDVM:20190130",+5.000,KD4CIF,1
 KD4CIF,Warrior,Alabama,United States,30+ mile,1,442.82500,311158,"YSF, YSF02034 - Alabama Link",311158,1,"Alabama DMR<br>Warrior, Alabama<br>Modes Enabled: <br>D-Star, Linked to REF001 C	(ID 311157)<br>DMR, ID 311156, DMR+ IPSC2-USA-MN2	(ID 311156)<br>YSF, YSF02034 - Alabama Link	(ID <br>P25, Linked to TG31010<br>NXDN, Linked to TG31010<br>*<br>Raspberry Pi3 / STM32_DVM_v3<br>MMDVM:20190130",+5.000,KD4CIF,1
@@ -8022,7 +8022,7 @@ AB5JK,Uvalde,Texas,United States,Master,1,444.60000,313862,lonestarlinksystem.co
 AE0F,Farmington,Minnesota,United States,Master,14,446.33750,313863,NOYB,313863,1,,-5.000,AE0F,TS1 TS2
 AB5JK,Uvalde,Texas,United States,Master,1,146.62000,313864,lonestarlinksystem.com,313864,1,,-0.600,AB5JK,TS2
 KB4ECO,Myrtle Beach,South Carolina,United States,Peer,1,147.99500,313865,skynet-network,313865,1,,-3.000,KB4ECO,TS1 TS2
-N4HRS,Farmville,Virginia,United States,Peer,9,444.32500,313867,HEARS / DMRVA,313867,1,See n4hrs.org for talk group info,+5.000,KD4ADL,TS1 TS2
+N4HRS,Farmville,Virginia,United States,Peer,9,444.32500,313867,DMRVA / N4HRS,313867,1,See n4hrs.org for talk group info,+5.000,KD4ADL,TS1 TS2
 K9TON,Pequot Lakes,Minnesota,United States,Master,1,446.10000,313868,BM,313868,1,"New Repeater going up November 1, 2023!",-5.000,K9TON,Mixed Mode
 W0PIH,Broomfield,Colorado,United States,Peer,1,439.40000,313870,BM,313870,1,,-5.000,W0PIH,TS1 TS2
 K0NXA,Springfield,Missouri,United States,Peer,5,442.92500,313871,Brandmeister,313871,1,NO static talkgroups,+5.000,KB0NHX,TS1 TS2
@@ -8047,7 +8047,7 @@ KQ4LAD,Gray,Tennessee,United States,Master,1,433.90000,313892,C4FM,313892,1,TAC3
 KB0LSM,Sedalia,Missouri,United States,Master,7,444.15000,313893,BM,313893,1,TG 31294,+5.0,KB0LSM,Mixed Mode
 K0BOY,Columbus,Nebraska,United States,Peer,1,442.80000,313894,DMR-MARC,313894,1,TS1<br>1 - DMR-MARC Worldwide<br>3 - DMR-MARC North America<br>13 - DMR-MART North American English<br>3120 - KSDMR Kansas Statewide<br>3169 - DMR-MARC Midwest<br>31691 - DMR-MARC Tri-State<br><br>TS2<br>2 - Nebraska TRBO Local<br>3131 - Nebraska TRBO Nebraska Statewide<br>9998 - Nebraska TRBO Parrot,+5.000,KC0HYI,TS1 TS2
 K0DZ,Fruita,Colorado,United States,Peer,1,438.87500,313895,BM,313895,1,,-5.000,K0DZ,TS1 TS2
-N4HRS,Lexington,Virginia,United States,Peer,9,444.07500,313897,HEARS / DMRVA,313897,1,see n4hrs.org or DMRVA.org for details,+5.000,KD4ADL,TS1 TS2
+N4HRS,Lexington,Virginia,United States,Peer,9,444.07500,313897,DMRVA / N4HRS,313897,1,see n4hrs.org or DMRVA.org for details,+5.000,KD4ADL,TS1 TS2
 KO6CBW,Lancaster,California,United States,Master,1,434.00000,313898,Dmr,313898,1,,+5.000,KO6CBW,TS1 TS2
 DX1ARM,Union,New Jersey,United States,Master,1,431.60000,313899,FM/Fusion,313899,0,,+5.000,N2RAC,TS2
 W8AK,Kettering,Ohio,United States,Peer,1,443.75000,313900,DMR-MARC,313900,1,Time Slot #1 - Group Call 8 = Local Dayton/Cincinnati<br>Time Slot #1 - Group Call 3139 = OH Statewide<br>Time Slot #2 - Group Call 1 = Worldwide All Languages (PTT activated)<br>Time Slot #2 - Group Call 3 = North America (PTT activated)<br>Time Slot #2 - Group Call 13= Worldwide English<br>Time Slot #2 - Group Call 9 = DMRPlus Talk<br>Time Slot #2 - Group Call 4000 = DMRPlus Unlink<br>Time Slot #2 - Group Call 5000 = DMRPlus Status<br>Time Slot #2 - Group Call 4xxx = Switch to Reflector 4xxx<br><br>The 4xxx reflectors are listed here:<br>http://dmr-marc.net/FAQ/dmrplus-america.html<br><br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area (http://dmr-marc.net/images/w8ak-coverage.jpg)<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Glenn Hochwalt<br>Email: w8ak@arrl.net,+5.000,W8AK,TS1 TS2
@@ -8189,7 +8189,7 @@ W5SWL,Mulberry,Arkansas,United States,Master,1,927.72500,314043,BM,314043,1,,-25
 KD5PQJ,Houston,Texas,United States,Master,1,441.11000,314044,"BM,TGIF",314044,1,TS1 OPEN to all TGIF/BM TG<br>TS2 TGIF 31665 Fridays<br>TS2 TGIF 210 Thursdays<br>TS2 TGIF 3148 Wednesday<br>,+5.00,KD5PQJ,TS1 TS2
 KD5PQJ,Houston,Texas,United States,Peer,1,441.13000,314045,"BM,TGIF,FreeDMR,DMR-MARC",314045,1,TS2 Open to pick Defaults to BM 310999<br>TS1 Wednesday BM 3148<br>TS1 Thursday TGIF 210<br>TS1 Friday TGIF 31665<br>TS1 Tuesday/Saturday BM 98006<br>TS1 open on Sunday and Monday,+5.00,KD5PQJ,TS1 TS2
 WR7HLN,Truth of Consequences,New Mexico,United States,Peer,1,443.15000,314046,BrandMeister,314046,1,Static Time Slots:<br><br>Time Slot 1<br>3135 New Mexico Statewide<br>31302 MPRG 2<br>8 Cluster<br><br>Time Slot 2<br>31301 MPRG 1,+5.000,WR7AGT,TS1 TS2
-N4HRS,South Boston,Virginia,United States,Peer,9,443.57500,314047,HEARS / DMRVA,314047,1,see n4hrs.org or DMRVA.org for details,+5.000,KD4ADL,TS1 TS2
+N4HRS,South Boston,Virginia,United States,Peer,9,443.57500,314047,DMRVA / N4HRS,314047,1,see n4hrs.org or DMRVA.org for details,+5.000,KD4ADL,TS1 TS2
 N9BIG,Mount Vernon,Illinois,United States,Master,2,441.50000,314048,bm,314048,1,,+5.0,N9BIG,TS1
 AA4RV,Wake Forest,North Carolina,United States,Master,1,443.20000,314049,BM,314049,1,,+5.000,AA4RV,TS1 TS2
 N4HRS,Vesta,Virginia,United States,Peer,9,444.70000,314050,DMRVA / N4HRS,314050,1,see n4hrs.org or DMRVA.org for details,+5.000,KD4ADL,TS1 TS2
@@ -8694,11 +8694,11 @@ KC1ALA,Biddeford,Maine,United States,Peer,1,147.75000,314611,BM,314611,1,,-0.600
 W5LOS,Seguin,Texas,United States,Peer,1,444.92500,314612,TGIF,314612,1,TS 2 1007,+5.0,W5LOS,Mixed Mode
 KD5FRY,columbus,Mississippi,United States,Master,1,443.52500,314613,Brandmeister,314613,1,,+5.000,KD5FRY,TS1 TS2
 WA9JTG,Edwardsville,Illinois,United States,Master,7,444.02500,314614,BM,314614,1,,+5.000,WA9JTG,TS1 TS2
-N4HRS,Norton,Virginia,United States,Peer,9,443.73750,314615,HEARS / DMRVA,314615,1,,+5.000,KD4ADL,TS1 TS2
+N4HRS,Norton,Virginia,United States,Peer,9,443.73750,314615,DMRVA / N4HRS,314615,1,,+5.000,KD4ADL,TS1 TS2
 WN1R,Orange Beach,Alabama,United States,Peer,5,443.40000,314616,BM,314616,1,"GULF COAST DMR<br><br>Gulf Coast / Orange Beach DMR CHAT ON TIME SLOT 2 - USE TG 31011 -<br>TG 31011 is also used by the Mobile 500 Multi-Mode Repeater for extended coverage<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>LOCAL CHAT<br>TIME SLOT #2   USE TALK GROUP - 31011<br>TG 31011 is also used by the Mobile 500 Multi-Mode Repeater for extended coverage<br><br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>TIME SLOT #1 WEEKLY NETS<br><br>Orange Beach DMR - TG-314616<br><br>TG-312801 (LUCEDALE) - Thursday 1930-2200  NET, DMR Round Table<br>and General discussions about radios and DMR network<br>operation  anyone is welcome to join in to the NET.<br>Check-ins typically start @ 1915 -  Net Control is KD4VVZ<br><br>TG-31011 (Gulf Coast DMR) - Thursday 1930-2200  NET,   DMR Round Table, All operators welcome to join in.<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$",+5.0,WN1R,TS1 TS2
-N4HRS,Honaker,Virginia,United States,Peer,9,444.81250,314617,HEARS / DMRVA,314617,1,,+5.000,KD4ADL,TS1 TS2
+N4HRS,Honaker,Virginia,United States,Peer,9,444.81250,314617,DMRVA / N4HRS,314617,1,,+5.000,KD4ADL,TS1 TS2
 N4HRS,Roanoke,Virginia,United States,Peer,9,444.21250,314618,DMRVA / N4HRS,314618,1,see n4hrs.org or DMRVA.org for details,+5.000,KD4ADL,TS1 TS2
-N4HRS,Lynchburg,Virginia,United States,Peer,9,443.55000,314619,HEARS / DMRVA,314619,1,,+5.000,KD4ADL,TS1 TS2
+N4HRS,Lynchburg,Virginia,United States,Peer,9,443.55000,314619,DMRVA / N4HRS,314619,1,,+5.000,KD4ADL,TS1 TS2
 N5VGK,Belden,Mississippi,United States,Peer,1,442.07500,314620,BM,314620,1,time slot 1 for dynamic linking<br>time slot 2 will have 3128 static,+5.000,N5VGK,TS1 TS2
 N2FED,Lake Hopatcong,New Jersey,United States,Master,1,441.80000,314621,BrandMeister,314621,1,"Hytera RD-982 running mixed-mode analog/DMR<br><br>TS 1:  STATIC talkgroups / Full-time<br>314423 - N2FED NETWORK<br>314473 - N2PTA (NJ POTA) talkgroup - check them out on QRZ !<br>3134 - NJ STATE (10 minute limit)<br><br>**Note that any BrandMeister talkgroup is also available dynamically on TS 1 via PTT for a 15 minute interval***<br><br>TS 2:  STATIC talkgroups / Full-time<br>31360 - TRI-STATE<br><br>Repeater System Hub:<br><br>AllStarLink Node - 64332 (come out all repeaters on analog)<br>Echolink - 447875 (come out all repeaters on analog)<br>DMR TGIF - 314423 (come in DMR through TGIF, come out all repeaters on analog)<br>DMR BrandMeister - 314423 (come in DMR through BrandMeister, come out DMR all repeaters on TS 1)<br>YSF Reflector US-N2FED - 00654 (come in C4FM, come out DMR all repeaters on TS1 - 314423)<br><br>For more information, please visit https://www.qrz.com/db/N2FED",+5.000,N2FED,TS1 TS2
 KD4VVZ,Thomasville,Mississippi,United States,Peer,1,444.98750,314622,DMR-SE C-Bridge,314622,1,"Static (Full Time Talkgroups)<br>TS 1 - TG 314622 = Thomasville, MS (no Brandmeister) DMR-SE C-bridge network only<br>TS 2 - TG 312801 = Lucedale, MS<br><br>TS 1 Dynamic Talkgroups (PTT Activated - 10 Min Timer)<br>TG 3128 = MS Statewide<br>TG 3 = North America<br>TG 13 = Worldwide English (DMR-MARC)<br>TG 93 = North America BM<br>TG 310 = TAC-310 BM<br>TG 311 = TAC-311 BM<br>TG 312 = TAC-312 BM<br>TG 3100 = USA Calling BM<br>TG 3101 = AL Statewide<br>TG 3112 = FL Statewide<br>TG 3122 = LA Statewide<br>TG 3148 = TX Statewide<br>TG 3174 = SE Region<br>TG 9998 = Parrot (Audio Test)<br>TG 13174 = SE Region BM<br>TG 31010 = Alabama Link<br>TG 31225 = SE Louisiana<br>TG 311307 = Kingsland, GA<br><br>TS 2 Dynamic Talkgroups (PTT Activated - 10 Min Timer)<br>TG 9 = Local 9-2 (Local Only)<br>TG 3199 = US Hurricane Net BM<br>TG 31285 = NE Mississippi<br>TG 31280 = MS Tac<br>TG 314128 = McHenry, MS<br>TG 314309 = Biloxi, MS<br><br>Note: All TGs are BM linked and SE-DMR SE-Bridge<br>unless otherwise noted.<br>7-5-25",+5.00,KD4VVZ,TS1 TS2
@@ -8712,7 +8712,7 @@ N4HRS,Pearisburg,Virginia,United States,Peer,9,444.67500,314629,DMRVA / N4HRS,31
 N4HRS,Martinsville,Virginia,United States,Peer,9,444.87500,314630,DMRVA / N4HRS,314630,1,,+5.000,KD4ADL,TS1 TS2
 KO4TDR,Danville,Virginia,United States,Peer,9,444.66250,314631,DMRVA / N4HRS,314631,1,,+5.000,KD4ADL,TS1 TS2
 N4HRS,Saltville,Virginia,United States,Peer,9,444.71250,314632,DMRVA / N4HRS,314632,1,,+5.000,KD4ADL,TS1 TS2
-K4XE,Pulaski,Virginia,United States,Peer,9,442.07500,314633,DMRVA / N4HRS,314633,1,,+5.000,KD4ADL,TS1 TS2
+K4XE,Pulaski,Virginia,United States,Peer,9,444.71250,314633,DMRVA / N4HRS,314633,1,,+5.000,KD4ADL,TS1 TS2
 K6YO,Gardena,California,United States,Master,7,449.56000,314634,bm,314634,0,LACQ Club use.,-5.000,K6YO,TS1 TS2
 W2RCR,ELIZABETH,New Jersey,United States,Peer,1,145.48500,314635,BM,314635,1,,-6.000,W2CSW,TS1 TS2
 WA4FC,New Kent,Virginia,United States,Master,1,442.05000,314636,DMRVA,314636,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
@@ -9026,6 +9026,7 @@ KR4AOM,Odenville,Alabama,United States,Peer,1,442.20000,314986,Brandmeister,3149
 WD9EXZ,Winchester,Indiana,United States,Peer,1,441.17500,314987,Brandmeister,314987,1,None,+5.000,"WD9EXZ, KC9CWN",TS1 TS2
 N5VGK,booneville,Mississippi,United States,Peer,1,145.34000,314988,BrandMeister,314988,1,chuck moffatt 662 523 9600,-0.600,N5VGK,TS1 TS2
 KE2BNX,WANTAGE NJ,New Jersey,United States,Peer,0,442.50000,314989,Brandmeister,314989,1,None,5.000,KE2BNX,TS1 TS2
+W2YMM,Bethpage,New York,United States,Peer,2,438.41250,314990,W2YMM,314990,1,None,-5.000,W2YMM,TS1
 WR1VT,Brattleboro,Vermont,United States,Peer,1,444.40000,315001,NEDECN,315001,1,"Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activation<br>Contact: Ira, W1IRA<br>Email: w1ira@vermontel.net<br><br>Website: http://nedecn.org",+5.000,W1IRA,TS1 TS2
 W1IMD,Pico Peak,Vermont,United States,Peer,1,444.50000,315002,NEDECN,315002,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>* = PTT Activation<br><br>Contact: Paul, W1IMD<br>Email: w1imd@arrl.net<br><br>Website: http://nedecn.org",+5.000,W1IMD,TS1 TS2
 W1UWS,Mt. Ascutney,Vermont,United States,Master,5,448.47500,315003,NEDECN,315003,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 3125 = MA Statewide* <br><br>* = PTT Activation<br>Contact: Jeff, WB2NWR<br>Email: katchenj@hotmail.com<br><br>Website: http://nedecn.org",-5.000,WB2NWR,TS1 TS2
@@ -9262,20 +9263,20 @@ WP4GT,San Juan,,Puerto Rico,Master,1,448.75000,330041,BM,330041,1,,-5.000,WP4GT,
 KP4ASD,Ponce,,Puerto Rico,Master,1,449.15000,330043,TGIF,330043,1,DMR/ANALOG DYNAMIC MIXED MODE <br>ECHOLINK NODE 996973,-5.000,KP4ASD,Mixed Mode
 KP4AZH,Salinas Puerto Rico,,Puerto Rico,Peer,1,446.85000,330045,BM,330045,1,"TG-330045 Salinas, Puerto Rico",-5.000,KP4AZH,TS1 TS2
 KP4ECO,Mayaguez,,Puerto Rico,Master,1,440.02500,330047,DMRplus TG-33015,330047,1,,+5.000,KP4ECO,TS1 TS2
-KP4NET,Puerto Rico,,Puerto Rico,Master,1,448.60000,330050,BM 330050,330050,1,"TG 330050    CC 1    TS 1<br>WP4RWR Ponce, PR UHF 448.600 MHz<br>NP3EC Arecibo, PR VHF 146.850MHz<br>KP4ILO Lares, PR VHF 146.750 MHz<br>KP4NET Lares, PR  UHF 448.600 MHz<br>ALL REPEATER USE CC1 TS1 TG 330050<br><br><br><br>",-5.000,WP3B,TS1 TS2
-KP4NET,Puerto Rico,,Puerto Rico,Master,1,448.60000,330055,BM 330050,330055,1,TG 330050 KP4NET DMR REPEATER UHF 448.600 MHz_ TG 330050_ CC 1_ TS 1<br>100 % energa renovable VEN Y COMPARTE CON NOSOTROS TODOS LOS VIERNES DESDE LAS 10:PM HORA DE Puerto Rico EN LA RUEDA DIGITAL DE KP4NET/ HORARIO (UTC SABADOS 02:00),-5.000,KP4NET,TS1 TS2
+KP4NET,LARES,All Regions,Puerto Rico,Master,1,448.60000,330050,BM 330050,330050,1,"TG 330050    CC 1    TS 1<br>WP4RWR Ponce, PR UHF 448.600 MHz<br>NP3EC Arecibo, PR VHF 146.850MHz<br>KP4ILO Lares, PR VHF 146.750 MHz<br>KP4NET Lares, PR  UHF 448.600 MHz<br>ALL REPEATER USE CC1 TS1 TG 330050",-5.000,WP3B,TS1 TS2
+KP4NET,LARES,All Regions,Puerto Rico,Master,1,448.60000,330055,BM 330050,330055,1,TG 330050 KP4NET DMR REPEATER UHF 448.600 MHz_ TG 330050_ CC 1_ TS 1<br>100 % energa renovable VEN Y COMPARTE CON NOSOTROS TODOS LOS VIERNES DESDE LAS 10:PM HORA DE Puerto Rico EN LA RUEDA DIGITAL DE KP4NET/ HORARIO (UTC SABADOS 02:00),-5.000,KP4NET,TS1 TS2
 NP3EC,Arecibo,,Puerto Rico,Master,1,146.85000,330056,BM 330050,330056,1,TG 330050 Link whit KP4NET RPT<br>448.600 CC1 TS1 TG 330050<br>146.750 CC1 TS1 TG 330050<br>146.850 CC1 TS1 TG 330050,-0.600,NP3EC,TS1 TS2
 NP3KQ,Bayamon,,Puerto Rico,Master,1,449.82500,330057,DMR,330057,1,,-5.000,NP3KQ,TS1
 WP4VW,Corozal,,Puerto Rico,Master,1,442.42500,330058,BM,330058,1,,+5.000,WP4VW,TS1 TS2
 WP3JM,Salinas,,Puerto Rico,Peer,1,448.75000,330059,FreeDMR,330059,0,,-5.000,WP3JM,TS1 TS2
-KP4NET,Puerto Rico,,Puerto Rico,Master,1,448.60000,330060,BM 330050,330060,1,TG 330050 KP4NET DMR REPEATER UHF 448.600 MHz_ TG 330050_ CC 1_ TS 1<br>100 % energa renovable VEN Y COMPARTE CON NOSOTROS TODOS LOS VIERNES DESDE LAS 10:PM HORA DE Puerto Rico EN LA RUEDA DIGITAL DE KP4NET/ HORARIO (UTC SABADOS 02:00),-5.000,KP4NET,TS1 TS2
-WP3B,Puerto Rico,,Puerto Rico,Master,1,447.97500,330065,BM 330050,330065,1,TG 330050 KP4NET DMR REPEATER UHF 448.600 MHz_ TG 330050_ CC 1_ TS 1<br>100 % energa renovable VEN Y COMPARTE CON NOSOTROS TODOS LOS VIERNES DESDE LAS 10:PM HORA DE Puerto Rico EN LA RUEDA DIGITAL DE KP4NET/ HORARIO (UTC SABADOS 02:00),-5.000,WP3B,TS1 TS2
+KP4NET,LARES,All Regions,Puerto Rico,Master,1,448.60000,330060,BM 330050,330060,1,TG 330050 KP4NET DMR REPEATER UHF 448.600 MHz_ TG 330050_ CC 1_ TS 1<br>100 % energa renovable VEN Y COMPARTE CON NOSOTROS TODOS LOS VIERNES DESDE LAS 10:PM HORA DE Puerto Rico EN LA RUEDA DIGITAL DE KP4NET/ HORARIO (UTC SABADOS 02:00),-5.000,KP4NET,TS1 TS2
+WP3B,LARES,All Regions,Puerto Rico,Master,1,447.97500,330065,BM 330050,330065,1,TG 330050 KP4NET DMR REPEATER UHF 448.600 MHz_ TG 330050_ CC 1_ TS 1<br>100 % energa renovable VEN Y COMPARTE CON NOSOTROS TODOS LOS VIERNES DESDE LAS 10:PM HORA DE Puerto Rico EN LA RUEDA DIGITAL DE KP4NET/ HORARIO (UTC SABADOS 02:00),-5.000,WP3B,TS1 TS2
 KP3JAC,San Sebastian,,Puerto Rico,Master,1,448.60000,330066,BM 330050,330066,1,,-5.000,KP3JAC,TS1 TS2
 WP4RWR,Ponce,,Puerto Rico,Master,1,448.60000,330067,BM,330067,1,TG 330050,-5.000,WP4RWR,TS1 TS2
 WP4J,Ponce,,Puerto Rico,Master,2,446.45000,330068,BM,330068,1,,-5.000,WP4J,TS1 TS2
-KP4NET,Puerto Rico,,Puerto Rico,Master,1,447.97500,330070,BM 330050,330070,1,KP4NET/R TG 330050 / BrandMeister CC 1 / TS 1,-5.000,KP4NET,TS1 TS2
+KP4NET,LARES,All Regions,Puerto Rico,Master,1,447.97500,330070,BM 330050,330070,1,KP4NET/R TG 330050 / BrandMeister CC 1 / TS 1,-5.000,KP4NET,TS1 TS2
 KP4ILO,Aguadilla,,Puerto Rico,Master,1,146.75000,330072,BM,330072,1,"KP4ILO/R LINK WHIT KP4NET/R 448.600 CC1 TS1 TG 330050 FROM Puerto Rico Island.<br>WP4RWR Ponce, PR UHF 448.600 MHz<br>NP3EC Arecibo, PR VHF 146.850MHz<br>KP4ILO Lares, PR VHF 146.750 MHz<br>KP4NET Lares, PR  UHF 448.600 MHz<br>ALL REPEATER USE CC1 TS1 TG 330050",-0.600,KP4ILO,TS1 TS2
-WP3B,Puerto Rico,,Puerto Rico,Master,1,448.60000,330100,BM 330050,330100,1,TG 330050 KP4NET DMR REPEATER UHF 448.600 MHz_ TG 330050_ CC 1_ TS 1<br>100 % energa renovable VEN Y COMPARTE CON NOSOTROS TODOS LOS VIERNES DESDE LAS 10:PM HORA DE Puerto Rico EN LA RUEDA DIGITAL DE KP4NET/ HORARIO (UTC SABADOS 02:00),-5.000,KP4NET,TS1 TS2
+WP3B,LARES,All Regions,Puerto Rico,Master,1,448.60000,330100,BM 330050,330100,1,TG 330050 KP4NET DMR REPEATER UHF 448.600 MHz_ TG 330050_ CC 1_ TS 1<br>100 % energa renovable VEN Y COMPARTE CON NOSOTROS TODOS LOS VIERNES DESDE LAS 10:PM HORA DE Puerto Rico EN LA RUEDA DIGITAL DE KP4NET/ HORARIO (UTC SABADOS 02:00),-5.000,"KP4NET, WP3B",TS1 TS2
 KP4EOP,Aguas Buenas,,Puerto Rico,Master,1,447.42500,330101,Brandmeister,330101,1,"PRadise Repeater<br>KP4PRN<br>TG3300 is link to the repeater.<br>Please only DMR no other cross link aloud.<br>www.tg330pr.net<br>73'<br>Jay ""CHUO""<br>KP4EOP",-5.000,KP4EOP,TS1 TS2
 KP4IN,Aguas Buenas,,Puerto Rico,Peer,1,446.55000,330102,Brandmiester,330102,1,,-5.000,KP4IN,Mixed Mode
 KP4EOP,Fajardo,,Puerto Rico,Master,1,448.15000,330103,Brandmeister,330103,1,"Espero a todos los que estn visitando la parte Este de La Isla disfruten este repetidor.<br>www.pradiserepeaters.network KP4PRN<br>www.tg330pr.net<br>73'<br>Jay ""CHUO'<br>KP4EOP",-5.000,KP4EOP,TS1 TS2
@@ -9288,7 +9289,7 @@ WP4VW,Shenandoah,,Puerto Rico,Master,1,441.17500,330113,BM,330113,0,TS1: 3100<br
 NP4PC,San Sebastian  Puerto Rico,,Puerto Rico,Master,1,448.65000,330114,BM,330114,1,,-5.000,NP4PC,TS1
 KP3JE,Aguada,,Puerto Rico,Master,1,449.62500,330115,BM,330115,1,,-5.000,KP3JE,TS1
 WP4SBC,Maunabo,All Regions,Puerto Rico,Master,1,438.80000,330116,FreeDMR,330116,1,Bienvenidos a RadioAficionado Digital P.R. Jueyero Isla<br>BM DMR: 330116 en Maunabo P.R. Cuidad Jueyera..Grupo con temas de la radio y otros de inters para los RadioAficionados..Ven y Comparte con Nosotros...,+5.000,WP4SBC,TS2
-KP4LAC,Lajas,,Puerto Rico,Master,1,447.97500,330117,BM,330117,1,"TS1 330050, TS2 33027",-5.000,WP3B,TS1 TS2
+KP4LAC,LAJAS,All Regions,Puerto Rico,Master,1,447.97500,330117,BM,330117,1,"TS1 330050, TS2 33027",-5.000,WP3B,TS1 TS2
 KP4IGI,Bayamon,All Regions,Puerto Rico,Master,1,440.80000,330118,300101127,330118,1,None,+5.000,KP4IGI,Mixed Mode
 KP4NU,Caguas,,Puerto Rico,Peer,1,447.50000,330201,BrandMeister (U.S.A.),330201,1,,-5.000,KP4NU,TS1 TS2
 WP4MXB,Cayey,,Puerto Rico,Master,1,447.20000,330202,Brandmeister,330202,1,,-5.000,WP4MXB,TS1 TS2
@@ -9358,7 +9359,7 @@ XE2LRS,Durango,Durango,Mexico,Peer,1,147.36000,334204,DMR-MARC,334204,1,,+0.600,
 XE2NL,Monterrey,Nuevo Leon,Mexico,Peer,1,438.22500,334205,BrandMeister,334205,1,,-5.000,XE2N,TS1 TS2
 XE2MBE,Durango,Durango,Mexico,Master,1,438.10000,334206,"BrandMeister, YSF, FreeDMR",334206,1,"This repeater is allocated at 3100 msn, so it covers about 180 km arround Durango city.",-5.000,XE2MBE,TS1 TS2
 XE2MBE,Durango,Durango,Mexico,Master,1,147.00000,334207,FreeDMR,334207,1,,+0.6000,XE2MBE,TS1 TS2
-XE2DXA,Tijuana,Baja California Norte,Mexico,Peer,1,145.46000,334208,BrandMeister,334208,0,None,-0.600,KK6KD,TS1 TS2
+XE2DXA,Tijuana,Baja California Norte,Mexico,Peer,1,145.46000,334208,BrandMeister,334208,0,None,-0.600,XE2KKD,TS1 TS2
 XE2SI,Tijuana,Baja California Norte,Mexico,Master,1,438.30000,334209,IPSC-2 Mexico,334209,0,Two Kenwood radios and a MMDVM board,-5.000,XE2SI,"TS1, TS2"
 XE2SI,Tijuana,Baja California Norte,Mexico,Master,1,438.32500,334210,BrandMeister,334210,0,Kenwood TKR-850 with MMDVM Board,-5.000,XE2SI,"TS1, TS2"
 XE2RCG,Durango,Durango,Mexico,Peer,1,439.60000,334211,None,334211,1,,-5.000,XE2MBE,TS1 TS2
@@ -9591,7 +9592,7 @@ BR7WXD,Guilin,Hunan Guangdong Guangxi Hainan,China,Master,1,439.60000,460029,BM,
 BR8SQJ,QuJing YunNan,Sichuan Guizhou Chongqing Yunnan,China,Master,1,439.87500,460031,BM,460031,1,TG46001/TG460871,-5.000,BG8SRQ,TS2
 BR2RSA,Shenyang,Heilongjiang Jilin Liaoning,China,Master,10,439.37500,460032,DMR-MARC,460032,1,Chinese Radio Sports Association,-7.600,BD2VAA,TS1 TS2
 BR5AL,Hangzhou,Zhejiang Fujian Jiangxi,China,Master,1,439.87500,460034,"BM, HomeBrew Net",460034,1,"BR5AL is a home-brew mmdvm repeater made by BG5HHP(for the all software part) and BG5HXE(for the all radio hardware part)<br><br>It was known as repeater(460501)<br><br>And TG460501 is linked to YSF reflector ""CN CC#1"" (18829) , the dashboard address: https://mmdvm.cc/ysf/<br><br>Call= BR5AL<br><br>Power= 12 Watt<br><br>Height= 400m<br><br>Radio= GP88 for RX and UP450 for TX, A harden NTH-version-based modem board<br><br>Host Box= OpenWrt Linux Box (MT7620 chip with 128M/32M) + DRCC-DVM modem board<br><br>Slot2: Linked to local RF: 439875/CC1/TG460501<br><br>Slot1: Local-only RF : CC1/TG1",-9.000,BG5HHP,Mixed Mode
-BR8SCX,Chuxiong Yunnan,Sichuan Guizhou Chongqing Yunnan,China,Peer,15,439.73500,460038,China Mobile,460038,1,TG46001<br>TG460871,-10.000,BH8SEL,TS1
+BR8SCX,ChuxiongYunnan,Sichuan Guizhou Chongqing Yunnan,China,Master,15,439.73500,460038,China Mobile,460038,1,TG46001<br>TG460871,-10.000,"BH8SEL, BH8SEK",TS1
 BR6QAE,Anhui,Henan Hubei Anhui,China,Master,8,439.55000,460039,BM,460039,1,TG46001<br>TG460553,-8.000,BG6FEA,TS1 TS2
 BR9GB,Lanzhou,Shaanxi Ningxia Gansu Qinghai,China,Peer,1,431.90000,460040,BM,460040,1,"TG46001,TG460931",+8.000,BG9GYH,TS1 TS2
 BR4SN,XuZhou,Shanghai Shandong Jiangsu,China,Master,1,438.55000,460041,BM,460041,1,,-4.975,BD4TWO,TS1 TS2
@@ -10231,7 +10232,7 @@ LU8EUT,Olivos,Buenos Aires,Argentina Republic,Master,1,147.09000,722008,BrandMei
 LU7EO,Avellaneda,Buenos Aires,Argentina Republic,Master,1,434.80000,722009,Brandmeister,722009,0,,+5.000,LU7EO,TS1 TS2
 LU1COP,Capital Federal,Buenos Aires,Argentina Republic,Master,1,147.16500,722010,"BM, DMR-MARC",722010,1,,+0.600,LU1COP,TS1 TS2
 LU9DLO,Lanus,Buenos Aires,Argentina Republic,Master,1,434.90000,722011,Brandmeister,722011,1,,+5.000,LU9DLO,TS1 TS2
-LU5FB,Rosario,Santa Fe,Argentina Republic,Master,1,434.52500,722012,BrandMeister,722012,1,,+5.000,"LU2FM, LU4FJG",TS1 TS2
+LU5FB,Rosario,Santa Fe,Argentina Republic,Master,1,434.52500,722012,BrandMeister,722012,1,,+5.000,"LU2FM, LU5FB",TS1 TS2
 LU8ANB,San Bernardo,Buenos Aires,Argentina Republic,Master,1,433.52500,722013,BrandMeister,722013,1,,438.525,LU8ANB,TS1 TS2
 LU2AFE,Argentina,Buenos Aires,Argentina Republic,Master,1,434.99500,722014,brandmeister,722014,0,,-0.600,LU2AFE,TS2
 LU2CSG,Capital Federal,Ciudad de Buenos Aires,Argentina Republic,Master,1,434.65000,722015,BM,722015,1,,+5.000,LU2CSG,TS1 TS2
@@ -10251,8 +10252,8 @@ LU8DRH,Bahia Blanca,Buenos Aires,Argentina Republic,Master,1,434.50000,722029,BM
 LU4AE,Villa Del Parque,Caba,Argentina Republic,Master,1,434.67000,722030,BRANDMEISTER,722030,1,,+5.000,LU4AE,TS1 TS2
 LU2CSG,Capital Federal,Ciudad de Buenos Aires,Argentina Republic,Master,1,146.78000,722031,BM,722031,1,,-0.600,LU2CSG,TS1 TS2
 LU9XRL,Ushuaia,Tierra del Fuego,Argentina Republic,Peer,1,433.50000,722032,BM,722032,1,,+5.000,LU9XRL,TS1 TS2
-LU5FB,Alvarez,Santa Fe,Argentina Republic,Master,1,434.75000,722033,BrandMeister,722033,1,,+5.000,LU2FM,TS1 TS2
-LU5FB,Rosario,Santa Fe,Argentina Republic,Master,1,434.95000,722034,BrandMeister,722034,1,"TS1=7222 (LOCAL ROSARIO), TS2=7229 (ARG ROOM)",+5.000,LU5FB,TS1 TS2
+LU5FB,Alvarez,Santa Fe,Argentina Republic,Master,1,434.75000,722033,BrandMeister,722033,1,,+5.000,"LU2FM, LU5FB",TS1 TS2
+LU5FB,Rosario,Santa Fe,Argentina Republic,Master,1,434.97500,722034,BrandMeister,722034,1,"TS1=7222 (LOCAL ROSARIO), TS2=7229 (ARG ROOM)",+5.000,"LU2FM, LU5FB",TS1 TS2
 LW6DMG,La Plata,Buenos Aires,Argentina Republic,Master,1,145.30000,722035,BM,722035,1,,-0.600,LW6DMG,TS1 TS2
 LW2DDS,Bahia Blanca,Buenos Aires,Argentina Republic,Master,1,434.45000,722036,BM,722036,1,7229,+5.000,LW2DDS,TS1 TS2
 LU5AM,Zona Norte,Buenos Aires,Argentina Republic,Master,7,147.19500,722037,BM,722037,1,TS1 722 ; TS2 7229,+0.600,LU5AM,TS1 TS2
