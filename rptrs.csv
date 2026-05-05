@@ -872,7 +872,7 @@ YU1ADO,Krusevac Serbia,,Serbia,,1,145.70000,220037,None,220037,0,,-0.600,YT2DT,
 YU0UPP,Prijepolje,,Serbia,Master,1,434.90000,220077,BM,220077,1,,-1.600,YU1DZ,TS1 TS2
 YU0BGU,Belgrade,,Serbia,,1,434.97500,220112,None,220112,0,,-1.600,YU5JZI,
 IR0DU,Roma Centro,Lazio / Umbria / Sardinia,Italy,Peer,1,430.35000,222000,DMR-Marc,222000,1,,+1.600,IK0YYY,TS1 TS2
-IR0MA,Roma,Lazio / Umbria / Sardinia,Italy,Peer,1,430.40000,222001,DMR-plus,222001,1,,+1.600,IK0YYY,TS1 TS2
+IR0MA,Roma Monte Cavo,Lazio / Umbria / Sardinia,Italy,Peer,1,430.40000,222001,DMR-plus,222001,1,,+1.600,IK0YYY,TS1 TS2
 IR0UEJ,Mt. San Biagio,,Italy,Peer,15,430.42500,222002,BM,222002,1,,5.000,IZ0CZW,TS1 TS2
 IR0CAG,Formia,,Italy,Master,1,430.15000,222003,IT-DMR-Network,222003,1,,5.000,IW0EBM,TS1 TS2
 IW0DSR,Rome,,Italy,Peer,1,430.60000,222004,BM,222004,1,,5.000,IW0DSR,TS1 TS2
@@ -2702,6 +2702,8 @@ RA7XY,Nalchik,,Russia,Master,1,438.40000,250041,BM,250041,1,TG-250668,-7.600,RA7
 RR9HAA,Seversk,All Regions,Russia,Master,1,439.40000,250042,DMR,250042,1,,-7.600,R9HCV,Mixed Mode
 RR9JK,Megion,All Regions,Russia,Peer,1,145.60000,250043,BM,250043,1,25021<br>250086,-0.600,R9JK,TS1 TS2
 UB6OARD,Donetsk,All Regions,Russia,Peer,1,438.87500,250044,2502.master.brandmeister.network,250044,1,None,-7.600,UB6OAR,TS1 TS2
+RC3DI,Moscow,All Regions,Russia,Peer,1,439.40000,250045,Brandmeister,250045,1,None,-5.000,RC3DI,TS1 TS2
+R2DLA,Domodedovo,All Regions,Russia,Master,9,434.95000,250046,BM,250046,1,None,-2.600,R2DLA,TS1 TS2
 UB1AAM,,,Russia,,1,438.75000,250102,BM,250102,0,,-7.600,UB1AAM,TS1 TS2
 RD1AS,,,Russia,,1,145.73750,250104,BM,250104,0,,-0.600,RD1AS,TS1 TS2
 UA1CDG,,,Russia,,1,0.00000,250105,BM,250105,0,,,UA1CDG,TS1 TS2
@@ -2760,7 +2762,7 @@ RC3M,,,Russia,,1,433.68750,250344,BM,250344,0,,+5.000,RC3M,TS1 TS2
 R3XAR,,,Russia,,1,434.82500,250345,BM,250345,0,,+5.000,R3XAR,TS1 TS2
 RD3X,,,Russia,,1,439.10000,250346,BM,250346,0,,-9.000,RD3X,TS1 TS2
 R2DWL,Stupino,,Russia,Master,1,144.86250,250348,BM,250348,1,TG1-2501 (Russia)<br>TG2-250653 (Stupino),+0.600,R2DWL,TS1 TS2
-R2DLA,,,Russia,,12,439.25000,250349,BM,250349,0,,-7.600,R2DLA,TS1 TS2
+R2DLA,Domodedovo,All Regions,Russia,Master,9,439.25000,250349,BM,250349,0,None,-7.600,R2DLA,TS1 TS2
 RL3DW,,,Russia,,1,439.05000,250350,BM,250350,0,,-6.00,RL3DW,TS1 TS2
 R3IBI,,,Russia,,1,0.00000,250351,BM,250351,0,,,R3IBI,TS1 TS2
 RK3DIL,Shatura,,Russia,Master,1,434.52500,250352,BM,250352,0,None,+5.000,RK3DIL,TS1 TS2
@@ -2910,6 +2912,7 @@ SR6LDV,Legnica,dolnolskie,Poland,Master,1,438.25000,260033,"BM,TGIF,ADN",260033,
 SR5QDMR,Siedlce,mazowieckie,Poland,Master,5,438.52500,260034,Brandmeister,260034,1,Testy,-7.600,SQ5AXR,TS1 TS2
 SR8DU,Drochobyczka,podkarpackie,Poland,Master,1,439.00000,260035,BM,260035,1,Test CC1  TS1 260 / TS2 2608,-7.60000,SP8BAR,TS1 TS2
 SR5ID,Kuflew,mazowieckie,Poland,Peer,5,439.03750,260036,BM,260036,1,,-7.600,SQ5ID,TS1 TS2
+SR1WR,Ryman,zachodniopomorskie,Poland,Master,1,439.05000,260037,Brandmeister,260037,1,,-7.600,SP1WR,TS1 TS2
 SR3DAB,Zalesie,wielkopolskie,Poland,Master,1,438.57500,260038,BM,260038,1,,-7.600,SQ3DAB,TS1 TS2
 SR4ONX,Olsztyn,warmisko-mazurskie,Poland,Peer,1,438.95000,260039,BM,260039,1,,-7.6,SQ4LWO,TS1 TS2
 SR5ZQ,Krze Duze,mazowieckie,Poland,Master,0,439.25000,260040,BM YSF,260040,1,,-7.600,SQ5FBI,TS1 TS2
@@ -4569,7 +4572,7 @@ VA3PMO,Mississauga,Ontario,Canada,Master,1,147.03000,302412,BM,302412,1,,+0.6,VA
 VE6MC,Edmonton,Alberta,Canada,Master,0,441.52500,302413,P25 Standalone,302413,1,NAC $6F1,+5.000,VE6HM,TS1
 VE3KJN,Inverary,Ontario,Canada,Master,1,443.92500,302414,BM,302414,1,Talk Group Ontario East (3),+5.000,VE3KJN,TS1 TS2
 VE3UVD,Washago,Ontario,Canada,Peer,1,442.18750,302415,BM,302415,1,,+5.000,VE3GFX,TS1 TS2
-VE2RML,Sept-Iles,Quebec,Canada,Master,9,147.39000,302417,BM,302417,1,Sept-Iles Centre / Local,+0.600,VE2RML,TS1 TS2
+VE2RML,Sept-Iles,Quebec,Canada,Peer,9,147.39000,302417,BM,302417,1,Sept-Iles Centre / Local,+0.600,VE2RML,TS1 TS2
 VE2GYK,Saint Bonaventure,Quebec,Canada,Peer,2,442.05000,302418,Brandmeister,302418,1,,+5.000,VE2IV,TS1 TS2
 VE3TTT,London,Ontario,Canada,Master,1,434.45000,302419,BM,302419,1,,+5.000,VA3JCD,TS1 TS2
 VE6WRN,Calgary,Alberta,Canada,Master,1,444.92500,302420,Private HB link,302420,1,TS1 local use only TG 16777215 All Call. TS2 link pending TG,+5.0,VE6AMC,TS1 TS2
@@ -5275,7 +5278,7 @@ K6VCD,Santa Paula,California,United States,Master,1,447.36000,310701,PAPA,310701
 N6UTX,Winters,California,United States,Master,2,144.93750,310702,BrandMeister,310702,1,,+2.500,N6UTX,TS1 TS2
 K6LNK,Vacaville,California,United States,Master,3,927.17500,310703,BrandMeister,310703,1,"Please read CARLA Policy and Procedures for this repeater below and see web link.<br><br>http://carlaradio.net/thesystem/dmr/index.php<br><br>This is a closed repeater - If you are NOT able to observer the CARLA Policy and Procedures for this repeater - PLEASE Do Not Use It.<br><br>Please Do Not add ANY Dynamic T/G's to this repeater.<br><br>Welcome to CARLA / K6LNK VHF DMR - Vacaville, California. This repeater is located on Mt. Vaca between the cities of Vacaville and Napa California at 2,760 feet.<br><br>Welcome to the K6LNK / CARLA DMR Repeater Network.<br><br>The main goal and purpose of K6LNK / CARLA analog and DMR repeaters is to provide reliable communications resource during significant local, regional and wide area incidents. This K6LNK / CARLA DMR repeater is connected to BrandMeister Master Server 3103. The Talk Groups and Clusters that are currently static on Time Slots 1 & 2 have been placed there to best meet the goals of CARLA. These static Talk Groups may change at times to meet our goals. We realize and understand that DMR in the BrandMeister environment affords the end user (YOU) many opportunities to add whatever Talk Group to whichever Time Slot that you desire. In the best interest of meeting CARLA goals and being able to serve agencies and organizations communication needs during times of significant area incidents we would ask that you operate within the current static Talk Group matrix on the K6LNK repeaters. In many if not most of the locations where K6LNK / CARLA DMR repeaters are located other DMR repeaters exist to meet your dynamic Talk Group needs.<br><br>This means that we would strongly prefer that you NOT add ANY dynamic Talk Groups to either Time Slot. We are particularly NOT interested in having the following Talk Groups dynamically activated by YOU at any time 91, 93, 3100, TAC-3XX, any off US shore T/G, and any special interest T/G.<br><br>We strongly believe that all DMR repeaters are not personal hot spots and should not be treated as such. The Talk Groups and Clusters that are currently static on Time Slots 1 & 2 have been placed there to best meet the goals of CARLA.<br><br>Thank you for your help and support in assisting CARLA to meet our goals and in our endeavor to support local, regional and wide area agency communications needs in times of significant incidents. Questions, comments, and concerns may be addressed to n6joa@carlaradio.net.",-25.000,N6JOA,TS1 TS2
 WX6D,Tulare,California,United States,Master,2,442.47500,310704,Mountain West DMR,310704,1,,+5.000,KE6YJC,TS1 TS2
-N6GKJ,Lodi,California,United States,Master,1,444.22500,310705,BrandMeister,310705,1,,+5.000,N4RLS,TS1 TS2
+N4RLS,Lodi,California,United States,Master,1,444.22500,310705,BrandMeister,310705,1,,+5.000,N4RLS,TS1 TS2
 KG7NBL,Alameda,California,United States,Master,1,442.30000,310706,BrandMeister,310706,1,,+5.000,KA7QQV,TS1 TS2
 W6AJF,Sonoma,California,United States,Peer,1,440.01250,310707,BrandMeister,310707,1,,+5.000,N6KM,TS1 TS2
 WB6YES,San Marcos,California,United States,Master,3,445.88000,310708,BrandMeister,310708,1,,-5.000,AA4CD,TS1 TS2
@@ -9036,6 +9039,7 @@ AG2K,Multiple,Connecticut,United States,Master,1,444.45000,314993,CTDARN,314993,
 KF4HJW,Newport News,Virginia,United States,Peer,1,927.52500,314994,BrandMeister,314994,1,None<br>Testing,25.000,KF4HJW,TS1 TS2
 K9PAL,Grovetown,Georgia,United States,Master,1,441.10000,314995,TGIF,314995,1,None,0.000,K9PAL,TS2
 KI4DPR,Waynesboro,Georgia,United States,Peer,1,446.12500,314996,TGIF,314996,1,None,-5.000,KI4DPR,TS1 TS2
+WC8EMA,Lebanon,Ohio,United States,Peer,1,444.18750,314997,Brandmeister,314997,1,KD8BNR<br>jason.shatto@wcoh.net,5.000,"KD8BNR, AB8RG",TS1 TS2
 WR1VT,Brattleboro,Vermont,United States,Peer,1,444.40000,315001,NEDECN,315001,1,"Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activation<br>Contact: Ira, W1IRA<br>Email: w1ira@vermontel.net<br><br>Website: http://nedecn.org",+5.000,W1IRA,TS1 TS2
 W1IMD,Pico Peak,Vermont,United States,Peer,1,444.50000,315002,NEDECN,315002,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>* = PTT Activation<br><br>Contact: Paul, W1IMD<br>Email: w1imd@arrl.net<br><br>Website: http://nedecn.org",+5.000,W1IMD,TS1 TS2
 W1UWS,Mt. Ascutney,Vermont,United States,Master,5,448.47500,315003,NEDECN,315003,1,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 3125 = MA Statewide* <br><br>* = PTT Activation<br>Contact: Jeff, WB2NWR<br>Email: katchenj@hotmail.com<br><br>Website: http://nedecn.org",-5.000,WB2NWR,TS1 TS2
@@ -9259,14 +9263,14 @@ KP4CRN,Bayamon,,Puerto Rico,Peer,1,446.17500,330023,Brandmeister Network,330023,
 NP4UG,BARRANQUITAS,,Puerto Rico,Peer,1,449.42500,330024,BrandMeister TG330013,330024,1,TG 330013,-5.000,WP4JSJ,TS1 TS2
 KP4LP,BARRANQUITAS,,Puerto Rico,Peer,1,145.49000,330025,BrandMeister TG330013,330025,1,TG 330013,-0.600,WP4JSJ,TS1 TS2
 KP4EL,Aguada,,Puerto Rico,Peer,1,446.40000,330027,BrandMeister,330027,1,"Welcome to ""West Side PR DMR""<br><br>Slot1 CC1:<br>Static TG330027 - Local Repeater <br>Static TG330911 * * Emergency Use Only * * <br><br>Slot2 CC1:<br>Static TG330027 -  Local Repeater  | Open for BM Dynamic PTT enabled TG's<br>Static TG330911 * * Emergency Use Only * * <br><br>73's<br>Eliud Leclerc<br>KP4EL",-5.000,KP4EL,TS1 TS2
-NP4GT,Anasco,,Puerto Rico,Peer,1,449.97500,330028,BrandMeister Network,330028,1,Slot>1 CC>1:<br>Static TG330013  -  Repeater linked to BM - IslaComm DMR Rpts -<br>Static TG330911  -  * * Emergency Use Only * * <br><br>Slot>2 CC>1:<br>Static TG330028  -  Repeater BM or Local @ TG9 | Open for BM Dynamic PTT enabled TG's<br>Static TG330911  -  * * Emergency Use Only * * <br><br>73's<br>Glidden Torres > NP4GT<br>,-5.000,NP4GT,TS1 TS2
+NP4GT,Anasco,All Regions,Puerto Rico,Peer,1,449.97500,330028,BrandMeister Network,330028,1,Slot>1 CC>1:<br>Static TG330013  -  Repeater linked to BM - IslaComm DMR Rpts -<br>Static TG330911  -  * * Emergency Use Only * *<br><br>Slot>2 CC>1:<br>Static TG330028  -  Repeater BM or Local @ TG9 | Open for BM Dynamic PTT enabled TG's<br>Static TG330911  -  * * Emergency Use Only * *<br><br>73's<br>Glidden Torres > NP4GT,-5.000,NP4GT,TS1 TS2
 WP4VH,Mayaguez,,Puerto Rico,Peer,7,449.00000,330029,BM,330029,1,University of Puerto Rico at Mayaguez EMCOMM Analog/Digital DMR Repeater,-5.000,WP4QZH,Mixed Mode
-NP4GT,Mayaguez Puerto Rico,,Puerto Rico,Peer,0,440.90000,330030,BrandMeister Network,330030,1,Slot>1 CC>0:<br>Static TG330013  -  Repeater linked to BM - IslaComm DMR Rpts -<br>Static TG330911  -  * * Emergency Use Only * * <br><br>Slot>2 CC>0:<br>Static TG330030  -  Repeater BM or Local @ TG9 | Open for BM Dynamic PTT enabled TG's<br>Static TG330911  -  * * Emergency Use Only * * <br><br>73's<br>Glidden Torres > NP4GT<br>,+5.000,NP4GT,TS1 TS2
+NP4GT,Mayaguez,All Regions,Puerto Rico,Peer,0,440.90000,330030,BrandMeister Network,330030,1,Slot>1 CC>0:<br>Static TG330013  -  Repeater linked to BM - IslaComm DMR Rpts -<br>Static TG330911  -  * * Emergency Use Only * *<br><br>Slot>2 CC>0:<br>Static TG330030  -  Repeater BM or Local @ TG9 | Open for BM Dynamic PTT enabled TG's<br>Static TG330911  -  * * Emergency Use Only * *<br><br>73's<br>Glidden Torres > NP4GT,+5.000,NP4GT,TS1 TS2
 KP4ECO,AguadaAtalaya,,Puerto Rico,Master,1,440.75000,330031,DMRplus TG-33015,330031,1,https://www.facebook.com/groups/1042190819503941/,+5.000,KP4ECO,TS1 TS2
 KP3AV,Toa Alta,,Puerto Rico,Master,1,448.90000,330032,BM,330032,0,,-5.000,KP3AV,TS1 TS2
 KP3AV,Toa Alta,,Puerto Rico,Master,1,448.90000,330033,BM,330033,0,,-5.000,KP3AV,TS1 TS2
 KP3AV,Toa Alta,,Puerto Rico,Master,1,449.20000,330034,BM,330034,0,,-5.000,KP3AV,TS1 TS2
-NP4GT,Yauco Puerto Rico,,Puerto Rico,Peer,2,449.90000,330035,BrandMeister Network,330035,1,Slot>1 CC>2:<br>Static TG330013  -  Repeater linked to BM - IslaComm DMR Rpts -<br>Static TG330911  -  * * Emergency Use Only * * <br><br>Slot>2 CC>2:<br>Static TG330035  -  Repeater BM or Local @ TG9 | Open for BM Dynamic PTT enabled TG's<br>Static TG330911  -  * * Emergency Use Only * * <br><br>73's<br>Glidden Torres > NP4GT,-5.000,NP4GT,TS1 TS2
+NP4GT,Yauco,All Regions,Puerto Rico,Peer,2,449.90000,330035,BrandMeister Network,330035,1,Slot>1 CC>2:<br>Static TG330013  -  Repeater linked to BM - IslaComm DMR Rpts -<br>Static TG330911  -  * * Emergency Use Only * *<br><br>Slot>2 CC>2:<br>Static TG330035  -  Repeater BM or Local @ TG9 | Open for BM Dynamic PTT enabled TG's<br>Static TG330911  -  * * Emergency Use Only * *<br><br>73's<br>Glidden Torres > NP4GT,-5.000,NP4GT,TS1 TS2
 KP4RX,Las Piedras,,Puerto Rico,Master,1,224.30000,330036,"BM, TGIF",330036,1,"Repeater for PR Ham Community, TG330 on TGIF Prime. BM TGs accessible",-1.600,KP4RX,Mixed Mode
 NP4UG,Bayamon,,Puerto Rico,Master,1,449.47500,330037,BM,330037,1,,-5.000,NP4UG,TS1
 KP4BW,Naguabo,,Puerto Rico,Master,1,440.92500,330039,BM,330039,1,,+5.000,KP4BW,TS1
@@ -10372,7 +10376,6 @@ PP5CPI,Pomerode,Santa Catarina,Brazil,Master,1,146.77000,724087,DMR+ MASTER SUL,
 PY2KMK,Itu,Sao Paulo,Brazil,Master,1,146.97000,724088,BRANDMEISTER,724088,1,,-0.600,PU2KWX,TS1 TS2
 PY5PGR,Ponta Grossa,Parana,Brazil,Master,1,146.86000,724089,DMR+ MASTER SUL,724089,1,TG 72441 Paran.<br>,-0.600,PY5JP,TS1 TS2
 PY2KFD,Jaboticabal,Sao Paulo,Brazil,Master,1,439.05000,724090,Brandmeister,724090,0,,-5.000,PY2LRB,Mixed Mode
-PP5URP,Florianopolis,Santa Catarina,Brazil,Master,1,439.10000,724091,Brandmeister,724091,1,,-5.000,PP5BM,TS1 TS2
 PY4RPK,GUAPE,Minas Gerais,Brazil,Master,1,145.43000,724092,BM,724092,1,Repetidora de Guap DMR,-0.600,PY4RPK,TS1 TS2
 PY2SRP,Neves Paulista,Sao Paulo,Brazil,Master,1,147.21000,724093,BM,724093,0,,+0.600,PY2IV,TS1 TS2
 PP2CA,Goiania,Goias,Brazil,Master,1,439.60000,724094,BRANDMEISTER,724094,1,,-5.000,PP2CA,TS1 TS2
