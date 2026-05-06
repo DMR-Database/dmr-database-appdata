@@ -875,7 +875,7 @@ IR0DU,Roma Centro,Lazio / Umbria / Sardinia,Italy,Peer,1,430.35000,222000,DMR-Ma
 IR0MA,Roma Monte Cavo,Lazio / Umbria / Sardinia,Italy,Peer,1,430.40000,222001,DMR-plus,222001,1,,+1.600,IK0YYY,TS1 TS2
 IR0UEJ,Mt. San Biagio,,Italy,Peer,15,430.42500,222002,BM,222002,1,,5.000,IZ0CZW,TS1 TS2
 IR0CAG,Formia,,Italy,Master,1,430.15000,222003,IT-DMR-Network,222003,1,,5.000,IW0EBM,TS1 TS2
-IW0DSR,Rome,,Italy,Peer,1,430.60000,222004,BM,222004,1,,5.000,IW0DSR,TS1 TS2
+IW0DSR,Rome,Lazio / Umbria / Sardinia,Italy,Peer,1,431.52500,222004,BM,222004,1,,1.600,IZ0GHZ,TS1 TS2
 IR0UGN,Sutri (vt),,Italy,,1,430.07500,222005,DMR-plus,222005,1,,5.000,IZ0QWM,TS1 TS2
 IR0UCA,Scandriglia(RI),,Italy,,1,430.40000,222006,Hytera,222006,1,,5.000,IZ0QWM,
 IR0CO,Monteporzio Catone,Lazio / Umbria / Sardinia,Italy,Peer,1,430.88750,222007,DMR-plus,222007,1,,+5.000,IK0YYY,TS1 TS2
@@ -2702,8 +2702,8 @@ RA7XY,Nalchik,,Russia,Master,1,438.40000,250041,BM,250041,1,TG-250668,-7.600,RA7
 RR9HAA,Seversk,All Regions,Russia,Master,1,439.40000,250042,DMR,250042,1,,-7.600,R9HCV,Mixed Mode
 RR9JK,Megion,All Regions,Russia,Peer,1,145.60000,250043,BM,250043,1,25021<br>250086,-0.600,R9JK,TS1 TS2
 UB6OARD,Donetsk,All Regions,Russia,Peer,1,438.87500,250044,2502.master.brandmeister.network,250044,1,None,-7.600,UB6OAR,TS1 TS2
-RC3DI,Moscow,All Regions,Russia,Peer,1,439.40000,250045,Brandmeister,250045,1,None,-5.000,RC3DI,TS1 TS2
-R2DLA,Domodedovo,All Regions,Russia,Master,9,434.95000,250046,BM,250046,1,None,-2.600,R2DLA,TS1 TS2
+RC3DI,Moscow,All Regions,Russia,Peer,1,439.40000,250045,BM,250045,1,None,-7.600,RC3DI,TS1 TS2
+R2DLA,Domodedovo,All Regions,Russia,Master,7,434.95000,250046,BM,250046,1,None,-2.600,R2DLA,TS1 TS2
 UB1AAM,,,Russia,,1,438.75000,250102,BM,250102,0,,-7.600,UB1AAM,TS1 TS2
 RD1AS,,,Russia,,1,145.73750,250104,BM,250104,0,,-0.600,RD1AS,TS1 TS2
 UA1CDG,,,Russia,,1,0.00000,250105,BM,250105,0,,,UA1CDG,TS1 TS2
@@ -2929,6 +2929,7 @@ SR9PSD,Pszw,lskie,Poland,Master,9,439.31250,260050,BM,260050,1,,-7.600,SQ9DIQ,TS
 SR2GG,Szubin,kujawsko-pomorskie,Poland,Master,12,439.90000,260051,BM,260051,1,,-9.400,SP2GG,TS1 TS2
 SR3OW,Ostrow Wlkp,wielkopolskie,Poland,Peer,1,439.05000,260053,Bramdmeister,260053,1,,-7.600,SP3OW,TS1 TS2
 SR8LBT,Lublin,lubelskie,Poland,Master,1,430.10000,260054,"TetraPack, BM",260054,1,,+1.6,SQ8MXP,Mixed Mode
+SR1WR,Ryman,zachodniopomorskie,Poland,Master,1,438.68750,260055,Brandmeister,260055,1,,-7.600,SP1WR,TS1 TS2
 SR9SR,Rybnik,lskie,Poland,Peer,1,438.48750,260056,BM,260056,1,WiP,-7.600,SP9KJT,TS1 TS2
 SR9OKO,Strzybnik,lskie,Poland,Peer,1,438.80000,260057,260,260057,1,26098<br>26063<br>9,-7.600,SP9PRR,TS1 TS2
 SR8ALA,Blizne,podkarpackie,Poland,Master,1,439.47500,260058,BM,260058,1,Slot 1 TG260  Slot 2 TG26085,-7.600,SP8SMA,TS1 TS2
@@ -4027,6 +4028,7 @@ YM5KKE,AKSARAY,Central Anatolia Region,Turkiye,Peer,1,439.16250,286001,2841,2860
 YM1KK,Istanbul,Marmara Region,Turkiye,Peer,1,439.22500,286002,BM,286002,1,9286,-7.600,TA1EAT,TS1 TS2
 YM1KAB,ISTANBUL,Marmara Region,Turkiye,Peer,0,439.23750,286003,BrandMeister,286003,1,None,-7.600,"TA1MLD, YM1KAB",TS1 TS2
 YM1KPL,Tekirdag,Marmara Region,Turkiye,Peer,1,439.41250,286004,BrandMeister,286004,1,None,-7.600,"TA1NDA, YM1KPL, TA1DRD, TA1TEC",TS1
+YM6K,samsun,Black Sea Region,Turkiye,Master,2,439.41250,286005,41.18.53.76,286005,1,None,7.600,TB2PWW,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.15000,286010,BM,286010,1,286010,-7.600,TA5FW,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.16250,286011,BM,286011,1,286011,-7.600,TA5FW,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.25000,286012,BM,286012,1,286012,-7.600,TA5FW,TS1 TS2
@@ -6936,7 +6938,7 @@ N1QIG,Wilmington,Massachusetts,United States,Peer,9,441.46250,312532,Brandmieste
 KB1SFG,lawrence,Massachusetts,United States,Master,1,441.37500,312533,brandmeister,312533,1,,+5.000,KB1SFG,TS1 TS2
 W1MLL,Dennis,Massachusetts,United States,Peer,11,146.47000,312534,NEDECN,312534,1,Time Slot #1 - Group Call 1 = World Wide*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 759 = SKYWARN<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot<br>Time Slot #1 - Group Call 9999 = Audio Watch<br>****************************************<br>Time Slot #2 - Group Call 3181= New England (Mon. 8 PM Net)<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3125 = MA Statewide<br>Time Slot #2 - Group Call 8804 = Cape Net<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 8802 = NETAC 2* <br><br>* = PTT Activated<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Website: http://nedecn.org,-1.500,W1MLL,TS1 TS2
 N1ATP,OTIS,Massachusetts,United States,Peer,1,447.93750,312535,Brandmeister,312535,1,Portable Event Repeater Hytera RD982i,-5.000,N1ATP,TS1 TS2
-N1WW,Gardner,Massachusetts,United States,Peer,3,145.34000,312536,NEDECN,312536,1,Time Slot #1 - Group Call 1 = World Wide (Sat. Net)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3150 = VT Statewide*<br>Time Slot #1 - Group Call 759 = SKYWARN/911<br>Time Slot #1 - Group Call 9998 = Parrot*<br>--------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181= New England<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3125 = MA Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activated<br><br>Website:  http://nedecn.org,-0.600,N1WW,TS1 TS2
+N1WW,Gardner,Massachusetts,United States,Peer,3,145.34000,312536,NEDECN,312536,1,"DMR Repeater linked to the NEDECN DMR+ network.<br>Covering north central Worcester County, eastern Franklin County, SW New Hampshire areas.<br><br>Website:  http://nedecn.org",-0.600,N1WW,TS1 TS2
 KB1SFG,Lawrence,Massachusetts,United States,Master,1,446.37500,312538,Brandmeister,312538,1,,-5.000,KB1SFG,TS2
 KA1GG,West Bridgewater,Massachusetts,United States,Peer,4,449.98750,312539,Brandmeister,312539,1,,-5.000,AJ1L,Mixed Mode
 AC1M,Norwell,Massachusetts,United States,PEER,5,145.25000,312540,Brandmeister,312540,1,,-0.600,KC1HO,Mixed Mode
@@ -9174,8 +9176,8 @@ KR9RK,Racine,Wisconsin,United States,Master,9,440.00625,315520,ChicagoLand,31552
 N9PAY,New Berlin,Wisconsin,United States,Peer,1,441.43750,315521,DMR-MARC,315521,1,"IPSC Network: DMR-MARC - Color Code: 1 - TS Linked: TS1 TS2 - Trustee: N9PAY<br>Time Slot #1 - Group Call 8 = Tri-State Regional (IL, IN, WI)<br>Time Slot #2- Group Call 1 = Worldwide All Languages (PTT Activated)<br>Time Slot #2- Group Call 3 = North America (PTT Activated)<br>Time Slot #2 - Group Call 13 = Worldwide English<br>Time Slot #2 - Group Call 9 = DMR+ Reflector ""Talk"" - Defaults to WI 4606 reflector<br>Time Slot #2 - Group Call 4000 = DMR+ Reflector ""Unlink""<br>Time Slot #2 - Group Call 5000 = DMR+ Reflector ""Status""<br>Time Slot #2 - Group Call 4xxx = DMR+ Switch Reflector (See website for complete reflector list) - PTT on TG 4xxx to steer TS2 TG9 to reflector 4xxx.<br>                         Then go to TS2 TG9 to have your conversation. DO not carry on QSOs on TS2 TG4xxx.<br>Website: http://tristatedmr.org<br>Dashboard:  http://74.91.115.138/ipsc/<br>You Must Have [ARS] Disabled Within Your Radio<br>",+5.000,N9PAY,TS1 TS2
 N9OIG,Franklin,Wisconsin,United States,Peer,9,443.43125,315522,Chicagoland,315522,1,,+5.000,N9OIG,TS1 TS2
 W2WAY,Racine,Wisconsin,United States,Master,9,927.98750,315523,ChicagoLand,315523,1,WI State Wide TG 3155 Full Time Slot 1<br>Slot 2 TG 440 SE WI Regional Full Time and ARES Events<br>Visit site below for complete Local TG and Time slot information.<br>http://chicagoland-cc.org/index.html,-25.000,W2WAY,TS1 TS2
-N9UPC,Baldwin,Wisconsin,United States,None,4,443.75000,315524,Brandmeister,315524,1,,+5.000,N9UPC,Mixed Mode
-N9UPC,Hayward,Wisconsin,United States,Peer,4,443.75000,315525,Chicagoland C-Bridge,315525,1,,+5.000,N9UPC,Mixed Mode
+N9UPC,Baldwin,Wisconsin,United States,Peer,4,443.75000,315524,AmComm,315524,1,,+5.000,N9UPC,Mixed Mode
+N9UPC,Hayward,Wisconsin,United States,Peer,4,443.75000,315525,AmComm,315525,1,,+5.000,N9UPC,Mixed Mode
 KC9LYF,Oshkosh,Wisconsin,United States,Peer,1,444.47500,315527,Brandmeister,315527,1,,+5.000,KC9LYF,TS1 TS2
 W9PFP,Park Falls,Wisconsin,United States,Master,1,145.34500,315529,Brewmister,315529,1,,-0.600,N9MUH,TS1 TS2
 KD9IPR,Park Falls,Wisconsin,United States,Master,2,146.71500,315530,DMR-MARC,315530,1,,-0.600,N9MUH,TS1 TS2
@@ -10654,12 +10656,12 @@ CE2LS,LA SERENA,Antofagasta,Chile,Peer,1,146.88000,730204,DMR-MARC-CE2LS,730204,
 CE2VRP,La serena,Coquimbo,Chile,Peer,1,144.75000,730205,Brandmeister,730205,1,,-0.600,CE2VRP,TS1 TS2
 CE2KVL,Valparaiso,Valparaiso,Chile,Peer,1,430.57500,730207,DMR BM,730207,0,,+5.000,CE2KVL,TS1 TS2
 CE2AA,Valparaiso,Valparaiso,Chile,Master,4,146.60000,730208,1,730208,1,,-0.600,CE2AA,Mixed Mode
-CE3AA,Olmue,Valparaiso,Chile,Peer,1,147.36000,730210,BrandMeister,730210,1,,+0.600,CE2DJA,TS1 TS2
+CE3AA,Olmue,Valparaiso,Chile,Peer,1,147.36000,730210,BrandMeister,730210,1,,+0.600,XQ2FL,TS1 TS2
 CE2VOV,Valparaiso,Valparaiso,Chile,None,1,145.10000,730211,DMR BM,730211,1,,-0.600,CE2KVL,TS1 TS2
 CE2VRP,La Serena,Coquimbo,Chile,Peer,1,433.70000,730212,Brandmeister,730212,1,,+5.000,CE2VRP,TS1 TS2
 CE2KVL,valparaiso,Valparaiso,Chile,None,1,430.10000,730213,DMR BM,730213,1,,+5.000,CE2KVL,TS1 TS2
 CA2UMH,Los Andes,Valparaiso,Chile,Peer,1,144.10000,730214,Cable,730214,1,,+0.600,CA2UMH,TS1 TS2
-CE2DJA,Vina del Mar,Valparaiso,Chile,Peer,1,438.15000,730215,BrandMeister,730215,1,,-5.000,CE2DJA,TS1 TS2
+CE2DJA,Vina del Mar,Valparaiso,Chile,Peer,1,438.15000,730215,BrandMeister,730215,1,,-5.000,XQ2FL,TS1 TS2
 CE2UGO,VALPARAISO,Valparaiso,Chile,None,1,433.50000,730216,Master Chile,730216,1,,+5.000,CE2UGO,TS1
 CE2KVL,valparaiso,Coquimbo,Chile,None,1,434.95000,730217,DMR BM,730217,1,,+5.000,CE2KVL,TS1 TS2
 CE2AND,Los Andes,Valparaiso,Chile,Peer,1,147.21000,730218,BM-Chile 7301,730218,1,,+0.600,CE2PZJ,TS1 TS2
@@ -10668,10 +10670,10 @@ CE3DY,pte alto,Reg.Metr. de Santiago,Chile,Peer,1,147.39000,730302,BM,730302,1,"
 CE3AA,SANTIAGO,Reg.Metr. de Santiago,Chile,None,1,146.64000,730307,DMR-MARC,730307,1,,-0.600,CE3AA,None
 CD3FTS,Maipu,Reg.Metr. de Santiago,Chile,Master,1,147.00000,730308,192.168.11.1,730308,1,,-0.600,CD3FTS,TS1
 CE3HIR,santiago,Reg.Metr. de Santiago,Chile,None,1,145.40000,730309,192.168.11.1,730309,1,,+0.600,XQ2HIR,TS1 TS2
-CE3AA,Santiago,Reg.Metr. de Santiago,Chile,Master,1,146.64000,730310,BrandMeister,730310,1,,-0.600,CE2DJA,TS1 TS2
-CE3AA,Paine,Reg.Metr. de Santiago,Chile,Master,1,146.94000,730311,BrandMeister,730311,1,,-0.600,CE2DJA,TS1 TS2
-CE3AA,Santiago,Reg.Metr. de Santiago,Chile,Master,1,145.32500,730312,BrandMeister,730312,1,,-0.600,CE2DJA,TS1 TS2
-CE3AA,Santiago,Reg.Metr. de Santiago,Chile,Master,1,145.45000,730313,BrandMeister,730313,1,,-0.600,"CE2DJA, CE3AA",TS1 TS2
+CE3AA,Santiago,Reg.Metr. de Santiago,Chile,Master,1,146.64000,730310,BrandMeister,730310,1,,-0.600,XQ2FL,TS1 TS2
+CE3AA,Paine,Reg.Metr. de Santiago,Chile,Master,1,146.94000,730311,BrandMeister,730311,1,,-0.600,XQ2FL,TS1 TS2
+CE3AA,Santiago,Reg.Metr. de Santiago,Chile,Master,1,145.32500,730312,BrandMeister,730312,1,,-0.600,XQ2FL,TS1 TS2
+CE3AA,Santiago,Reg.Metr. de Santiago,Chile,Master,1,145.45000,730313,BrandMeister,730313,1,,-0.600,"CE3AA, XQ2FL",TS1 TS2
 CD3IRV,SANTIAGO,Reg.Metr. de Santiago,Chile,Master,1,434.25000,730315,brandmeister,730315,1,,+5.000,CA3IRV,TS1 TS2
 CE4RAY,Pelluhue,Maule,Chile,Peer,1,145.50000,730402,adn system chile,730402,1,730/73011/7304,-0.600,CE4RAY,Mixed Mode
 CE4RAY,Chanco,Maule,Chile,Master,1,438.00000,730403,mixed,730403,1,,-5.000,CE4RAY,TS1 TS2
