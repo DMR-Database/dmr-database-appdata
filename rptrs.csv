@@ -425,6 +425,7 @@ F5ZIO,Montreuil,Centre-Val de Loire,France,,1,430.45000,208093,BM,208093,1,,9.40
 F6ZEM,Chateaubourg,Bretagne,France,Peer,1,430.16250,208094,brandmeister,208094,1,None,+9.400,F1UOT,TS1 TS2
 F1ZLJ,GALGON,Nouvelle-Aquitaine,France,Master,1,430.21250,208095,DMR-plus,208095,1,,+9.400,F4GLJ,TS1 TS2
 F1ZOE,Paris,Ile-de-France,France,Peer,1,430.17500,208096,DMRF,208096,1,None,9.400,F1TDI,TS1 TS2
+F1ZVZ,LE BURGAUD,Occitanie,France,Peer,0,439.72500,208097,1,208097,1,None,0.000,F4INI,Mixed Mode
 F1ZHW,Montfermeil,,France,,7,430.53750,208099,BM,208099,1,,9.400,F1TUV,TS1 TS2
 F1ZLL,2205 route de BRAS,,France,,1,430.56250,208101,BM,208101,1,,9.400,F1SER,TS1 TS2
 F1ZYI,Serre-Chevalier,Provence-Alpes-Cote d Azur,France,Master,1,439.73750,208103,DMR-plus,208103,1,TS-2<br>ECRINS 20805 - ALPES 84<br>,-9.4,F4EGG,TS1 TS2
@@ -875,7 +876,7 @@ IR0DU,Roma Centro,Lazio / Umbria / Sardinia,Italy,Peer,1,430.35000,222000,DMR-Ma
 IR0MA,Roma Monte Cavo,Lazio / Umbria / Sardinia,Italy,Peer,1,430.40000,222001,DMR-plus,222001,1,,+1.600,IK0YYY,TS1 TS2
 IR0UEJ,Mt. San Biagio,,Italy,Peer,15,430.42500,222002,BM,222002,1,,5.000,IZ0CZW,TS1 TS2
 IR0CAG,Formia,,Italy,Master,1,430.15000,222003,IT-DMR-Network,222003,1,,5.000,IW0EBM,TS1 TS2
-IW0DSR,Rome,Lazio / Umbria / Sardinia,Italy,Peer,1,431.52500,222004,BM,222004,1,,1.600,IZ0GHZ,TS1 TS2
+IR0ZYW,Rome,Lazio / Umbria / Sardinia,Italy,Peer,1,431.52500,222004,BM,222004,1,,1.600,IZ0GHZ,TS1 TS2
 IR0UGN,Sutri (vt),,Italy,,1,430.07500,222005,DMR-plus,222005,1,,5.000,IZ0QWM,TS1 TS2
 IR0UCA,Scandriglia(RI),,Italy,,1,430.40000,222006,Hytera,222006,1,,5.000,IZ0QWM,
 IR0CO,Monteporzio Catone,Lazio / Umbria / Sardinia,Italy,Peer,1,430.88750,222007,DMR-plus,222007,1,,+5.000,IK0YYY,TS1 TS2
@@ -4917,7 +4918,6 @@ NH6NN,Honolulu,Hawaii,United States,Kaneohe,1,442.65000,310302,Brandmeister,3103
 AD5CA,Corpus Christi,Texas,United States,15 miles,1,441.60000,310303,CBridge 2.0,310303,1,up 50 ft w/ 20 watts out,+5,AD5CA,1 & 2
 K1NRA,Carbondale,Pennsylvania,United States,Peer,8,440.05625,310304,BM,310304,1,"Brandmeister-Connected Motorola SL-5700<br>From the top of Salem Mountain in Carbondale<br>TS1 - All BM Talkgroups. PA 3142 is Static.<br><br>TS2 - Local 9 for LOCAL only. Local 2 for NEPA Cluster 31424. 31425, PA Cross-Mode, is Static",+5.0,K1NRA,TS1 TS2
 KW1RKY,Omaha,Nebraska,United States,PEER,1,442.32500,310305,BM,310305,1,,5,KW1RKY,TS1 TS2
-K0USY,Matfield Green,Kansas,United States,Peer,1,444.37500,310306,KS-DMR,310306,1,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Justin Reed<br>Email: celltech161@gmail.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
 N3YFO,New Germany,Pennsylvania,United States,Peer,1,145.39000,310307,Brandmeister,310307,1,,-0.600,N3YFO,TS1 TS2
 WX1NH,Hartford,Vermont,United States,Peer,7,444.00000,310308,BrandMeister,310308,1,"TS 2, TG 9 - Local<br>TS 2, TG 313323 - GMARS<br><br>TS 1, TG 313324 - GMARS 2<br>TS 1, TG 3150 - VT Statewide<br><br>http://www.wx1nh.us",-5.000,WX1NH,TS1 TS2
 W0RMT,Louisville,Colorado,United States,local,7,445.70000,310309,BM,310309,1,,-5,W0RMT,"TS1, TS2"
@@ -5337,7 +5337,6 @@ AE4ML,Spotsylvania,Virginia,United States,Master,1,442.85000,310764,DMRVA,310764
 KA5PLE,Houston,Texas,United States,peer,1,441.17500,310765,Brandmeister,310765,1,Static: <br><br>Slot1: 93 (North America)<br><br>Slot2: 8207 (Houston Metro)<br>          8686 (SE TX EmComm)<br>          89003 (Reddit)<br>,+5,KA5PLE,both
 AE4ML,Spotsylvania,Virginia,United States,Peer,1,446.10000,310766,BM,310766,1,LOCAL SIMPLEX DMR 2 P25,0,AE4ML,1
 WB4BSD,Cleveland,Tennessee,United States,Master,1,431.61000,310767,Brandmeister,310767,1,,+5.000,WB4BSD,TS1
-K0USY,Hays,Kansas,United States,Peer,1,444.82500,310768,KS-DMR,310768,1,,+5.000,N0MJS,TS1 TS2
 KI6ND,Chico,California,United States,master,1,440.40000,310769,brandmeister,310769,1,,+5.000,KI6ND,2
 K3LPV,Essex,Maryland,United States,Master,1,449.90000,310770,b,310770,0,,0,K3LPV,TS1
 K3LPV,Essex,Maryland,United States,m,1,449.20000,310771,Brandmiester,310771,1,,0,K3LPV,2
@@ -5617,7 +5616,6 @@ W8WOO,Wooster,Ohio,United States,peer,1,443.17500,311070,BrandMeister,311070,1,T
 W5RAR,Convent,Louisiana,United States,Master,1,442.07500,311071,BrandMeister,311071,1,TS1 TG 91 WW Eng (PTT)<br>TS1 TG 93 NA (PTT)<br>TS1 TG 310 Tac 310 (PTT)<br>TS1 TG 3174 SE REGIONAL (PTT)<br>TS1 TG 3199 HURRICANE NET (FULL-TIME)<br>TS1 TG 31121 FIRST COAST (PTT)<br>TS1 TG 31221 SELCOM (FULL-TIME)<br>TS1 TG 31229 ArkLaTex (PTT)<br>TS1 TG 31688 HAM SHACK HOTLINE (PTT)<br>TS1 TG 98006 AMSAT (PTT)<br>TS2 TG 9 LOCAL (PTT)<br>TS2 TG 3122 LOUISIANA (FULL-TIME)<br>TS2 TG 31011 GULF COAST DMR (PTT)<br>TS2 TG 31220 LOUISIANA CHAT (PTT)<br>TS2 TG 31225 SOUTHEAST Louisiana (FULL-TIME)<br>TS2 TG 31623 PUBLIC SAFETY CHAT (PTT)<br>TS2 TG 312214 LA REGION 3 (FULL-TIME),+5.0,KG5FQT,TS1 TS2
 W5RAR,Baton Rouge,Louisiana,United States,Master,1,443.10000,311072,Brandmeister,311072,1,TS1 TG 91 WW Eng (PTT)<br>TS1 TG 93 NA (PTT)<br>TS1 TG 310 Tac 310 (PTT)<br>TS1 TG 3174 SE REGIONAL (PTT)<br>TS1 TG 3199 HURRICANE NET (FULL-TIME)<br>TS1 TG 31121 FIRST COAST (PTT)<br>TS1 TG 31221 SELCOM (FULL-TIME)<br>TS1 TG 31229 ArkLaTex (PTT)<br>TS1 TG 31688 HAM SHACK HOTLINE (PTT)<br>TS1 TG 98006 AMSAT (PTT)<br>TS2 TG 9 LOCAL (PTT)<br>TS2 TG 3122 LOUISIANA (FULL-TIME)<br>TS2 TG 31011 GULF COAST DMR (PTT)<br>TS2 TG 31220 LOUISIANA CHAT (PTT)<br>TS2 TG 31225 SOUTHEAST Louisiana (FULL-TIME)<br>TS2 TG 31623 PUBLIC SAFETY CHAT (PTT)<br>TS2 TG 312214 LA REGION 3 (FULL-TIME),+5.0,KG5FQT,TS1 TS2
 K6RRR,San Diego,California,United States,Peer,1,449.22000,311073,BrandMeister,311073,1,"San Diego DMR - ""An Open Community Based DMR Repeater""<br><br>-= Static Talk Groups =-<br>Time Slot 1 - 91 -World Wide<br>Time Slot 2 - 3100 - USA",-5.000,K6RRR,TS1 TS2
-K0USY,Hays,Kansas,United States,Peer,1,444.80000,311074,KS-DMR,311074,1,www.ks-dmr.net,+5.0000,N0MJS,TS1 TS2
 AD0RM,Ridgway,Colorado,United States,Peer,1,447.80000,311075,BrandMeister,311075,1,TS1<br>-----<br>TalkGroup 91 WorldWide<br>TalkGroup 93 NorthAmerica<br><br>TS2<br>-----<br>TalkGroup 3108 Colorado<br>,-5.000,AD0RM,TS1 TS2
 K4JDR,Raleigh,North Carolina,United States,Master,0,441.72500,311076,TGIF,311076,1,"Carolina 440 DMR<br>TGIF TG# 440<br><br>ASL-Bridge 512290 / UID: 3163887 KO4CYN<br><br>Remote Base UID: 311076, Link to the 441.7250+ 100 PL Backbone Hub (Analog) Repeater.<br><br>www.carolina440.net<br><br>http://wiki.tgif.network    /     https://prime.tgif.network/activetg.php<br><br>https://www.qrz.com/lookup/KO4CYN<br>",+5.000,K4JDR,Mixed Mode
 KK4ZMG,sunrise,Florida,United States,Peer,7,444.70000,311077,BrandMeister,311077,1,,+5.0,W4RRL,"1,2"
@@ -6424,11 +6422,9 @@ K0WLC,Tipton,Iowa,United States,Master,2,444.07500,311958,Brandmeister,311958,1,
 K6BIB,Truckee,California,United States,Master,1,440.85000,311959,BrandMeister,311959,1,"Brandmeister DMR 150W EIRP Comet GP-3 antenna @ 6700', natural gas backup power generator, 400Mbps Internet Cable. Located on Tahoe Donner ridge covering Carson range, Donner and Tahoe Lake to South Lake Tahoe, Incline Village and Reno NV. Static SNARS/TS2, 9911/TS2. Dynamic TGs on TS1 only.",+5.000,K6BIB,TS1 TS2
 KC4KPJ,Rock Hill,South Carolina,United States,Peer,6,444.72500,311960,Brandmeister,311960,0,,+5.000,KC4KPJ,TS1 TS2
 N7HND,Mid Tucson,Arizona,United States,Peer,1,449.20000,311961,AZTRBONET-DMR-MARC,311961,1,Time Slot #1 - Group Call 1 = World Wide (PTT)<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America (PTT)<br>Time Slot #1 = Group Call 9 = Local Master/Peer ONLY<br><br>Time Slot #2 = Group Call 2 = AZ/NM/TX Local<br>Time Slot #2 = Group Call 3100 = DCI Bridge (PTT)<br>Time Slot #2 = Group Call 3104 = Arizona Statewide<br>Time Slot #2 = Group Call 3135 = New Mexico Statewide<br>Time Slot #2 = Group Call 3148 = Texas Statewide (PTT)<br>Time Slot #2 = Group Call 3176 = Regional SW (PTT)<br>Time Slot #2 = Group Call 3185 = Cactus<br><br><br>Contact Information:<br>main+owner@azham-dmr.groups.io,-5.000,N7TWW,TS1 TS2
-N0ECQ,Hays,Kansas,United States,Peer,1,444.98750,311962,KS-DMR,311962,1,,+5.000,N0MJS,TS1 TS2
 K7STI,Las Vegas,Nevada,United States,Master,1,441.85000,311963,BM,311963,1,MMDVM Repeater - more info to come,+0.000,W7XBC,TS2
 WA7JH,Bremerton,Washington,United States,Peer,1,440.00000,311964,BrandMeister,311964,0,,+5.000,WA7JH,Mixed Mode
 KC5MOL,Harlingen,Texas,United States,Peer,1,443.37500,311965,BM,311965,1,TG3148 TS1<br>TG31482 TS2<br>TG3100 TS1,+5.000,KC5MOL,TS1 TS2
-K0USY,Kansas City,Missouri,United States,Peer,1,444.47500,311966,KS-DMR,311966,1,"TG3120, TG2, TG9",+5.000,N0MJS,TS1 TS2
 WS5B,Salt Flat,Texas,United States,Master,1,444.62500,311967,"BM,TGIF,P25",311967,1,,+5.000,WS5B,Mixed Mode
 K3WRB,Jamestown,Pennsylvania,United States,Peer,8,444.82500,311968,BrandMeister,311968,1,"Time slot 1 is connected to the SVARC linked repeaters to talk group 314242 and is not aloud to be linked to anything other then 314242 <br>Time slot 2 is for any linking anyone wants to do <br><br>Freq              City                State    Zip   Call            DMR Id   County   <br>444.82500   Jamestown  , Pa   16134  K3WRB      311968   Crawford<br>444.37500  Greenville     , Pa   16125  KE3JP         314242   Mercer<br>444.02500  New Castle   , Pa               KB3YBB      310576   Lawrence<br>444.96250  Andover        , Oh  44003  W8VFD      310895    Ashtabula",+5.00,KE3JP,TS1 TS2
 KE6YEP,WEST COVINA,California,United States,Master,1,433.55000,311969,DMR,311969,1,,+5.000,KE6YEP,TS1 TS2
@@ -6460,22 +6456,18 @@ KG5IRU,Coldwater,Mississippi,United States,Master,1,146.44000,311996,DixieDMR,31
 KG5IRU,Coldwater,Mississippi,United States,Master,1,442.92500,311997,DixieDMR,311997,1,"Mix of TG from TGIF, BM and a Homebrew HBlink3 Server for Local Use and allstar links.<br><br>TS1<br>3128, 31285, 314706<br><br>TS2<br>312808, 31665",+5.0000,KG5IRU,TS1 TS2
 KG5IRU,Coldwater,Mississippi,United States,Master,1,443.92500,311998,DixieDMR,311998,1,"Mix of TG from TGIF, BM and a Homebrew HBlink3 Server for Local Use and allstar links.<br><br>TS1<br>3128, 31285, 314706<br><br>TS2<br>312808, 31665",+5.0,KG5IRU,TS1 TS2
 K2ESF,KUNKLETOWN,Pennsylvania,United States,Master,1,443.52500,311999,BM,311999,1,P-25,+5.000,K2ESF,Mixed Mode
-K0USY,Basehor,Kansas,United States,Master,1,444.75000,312000,KS DMR,312000,1,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Cort Buffington <br>Email: n0mjs@me.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
-K0USY,Hays,Kansas,United States,Master,1,444.75000,312001,KS-DMR,312001,1,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Gavin Buffington <br>Email: gbuffing@gmail.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
 N7KLR,Minneapolis,Kansas,United States,Peer,1,444.75000,312002,KS-DMR,312002,1,S1|G2: System local<br>S1|G8: Repeater local<br>S2|G3120: Kansas Statewide,+5.000,NV8Q,TS1 TS2
-K0USY,Topeka,Kansas,United States,Master,1,444.98750,312003,KS-DMR,312003,1,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Cort Buffington <br>Email: n0mjs@me.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
 K0USY,Manhattan,Kansas,United States,Master,1,444.37500,312005,KS-DMR,312005,1,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Eric Sivertsen<br>Email: kd0wwx@gmail.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
 K0JWH,El Dorado,Kansas,United States,Peer,1,441.97500,312006,KS DMR,312006,1,Time Slot #1 - Group Call 1 = DMR-MARC World Wide<br>Time Slot #1 - Group Call 13 = DMR-MARC WW English<br><br>Time Slot #1 - Group Call 3 = DMR-MARC N. America<br>Time Slot #2- Group Call 3120 = Statewide KS<br><br>Time Slot #2- Group Call 3169 = <br>Midwest Regional (20 min inactivity time out)<br><br><br> <br>Coverage Map (http://dmr-marc.net/images/k0usy-lec-coverage.jpg)<br><br>You Must Have [ARS] Disabled Within Your Radio<br> Contact Name: Cort Buffington <br>Email: n0mjs@me.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,K0JWH,TS1 TS2
 W0WJB,Overland Park,Kansas,United States,Master,1,146.83500,312007,KS-DMR,312007,1,,-0.600,W0WJB,TS1 TS2
 K0PRO,Pittsburg,Kansas,United States,Peer,1,444.80000,312008,KS-DMR,312008,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br><br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #2- Group Call 3120 = Statewide KS<br><br>Time Slot #2- Group Call 3169 = Midwest Regional<br><br><br>Coverage Map (http://dmr-marc.net/images/k0usy-lec-coverage.jpg)<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Contact Name: Phil, K0PR<br>Email: phil@wtcusa.net<br>Website: www.k0usy.org (http://www.k0usy.org/)",+5.000,K0PR,TS1 TS2
-K1DMR,Atlanta,Georgia,United States,Peer,1,444.43750,312009,K4USD Net,312009,1,"TS1 TG1-WW (PTT)<br>TS1 TG3-NA<br>TS1 TG13-WWE<br>TS1 TG10-WWG (PTT)<br>TS2 TG2-Local (USD Net)<br>TG2 TG9-Local Rpt<br>TS2 TG3113-GA State<br>TS2 TG3125-MA State (PTT)<br>TS2 TG3139-OH State (PTT)<br>TS2 TG3174-SE Regional<br>TS2 TG3100-Bridge (PTT)<br>TS2 TG8951-TAC 1 (PTT)<br>TS2 TG310-TAC 310 (PTT)<br>TS2 TG311-TAC 311 (PTT)<br>TS2 TG9998-Parrot (PTT)<br>TS2 TG9999-NoCal Audio Test (PTT)<br><br>Contact Name: Ken, K1DMR<br>Email: email@kenbryant.net",+5.000,N0MJS,TS1 TS2
 WB0YRG,Mission,Kansas,United States,Peer,1,443.10000,312010,Brandmesiter,312010,1,None,+5.000,W0NQX,TS1 TS2
 K0XM,Blue Springs,Missouri,United States,Peer,1,927.23750,312011,BM,312011,1,None,-25.000,K0XM,TS1 TS2
 WB0YRG,Mission - Stand By Rpt,Kansas,United States,Peer,1,442.10000,312012,Brandmesiter,312012,1,None,+5.000,W0NQX,Mixed Mode
 KC0DMR,Topeka,Kansas,United States,Peer,4,442.30000,312013,Brandmeister,312013,1,,+5.000,NI0Y,TS1 TS2
 WD0GQA,Kansas City,Kansas,United States,Peer,1,443.85000,312014,BM,312014,1,,+5.000,WD0GQA,TS1 TS2
 WD0GQA,Kansas City,Kansas,United States,Peer,1,442.85000,312015,BM,312015,1,,+5.000,WD0GQA,TS1 TS2
-K0USY,Lecompton,Kansas,United States,None,1,444.47500,312017,KS-DMR,312017,1,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Cort Buffington <br>Email: n0mjs@me.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
+K0USY,Lecompton,Kansas,United States,Peer,1,444.47500,312017,KS-DMR,312017,1,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Cort Buffington<br>Email: n0mjs@me.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
 KC0DMR,Leavenworth,Kansas,United States,Peer,4,442.35000,312018,Brandmeister,312018,1,,+5.000,NI0Y,TS1 TS2
 WB0KIA,Mission,Kansas,United States,Peer,1,147.16500,312019,Brandmeister,312019,1,,-0.600,WB0KIA,TS1 TS2
 KE0PTS,Great Bend,Kansas,United States,Peer,1,442.07500,312021,Brandmeister,312021,1,,+5.000,KB0QNK,TS1 TS2
@@ -6484,13 +6476,11 @@ N7JYS,Russell,Kansas,United States,Peer,7,442.47500,312023,Brand Meister,312023,
 N7JYS,Hays,Kansas,United States,None,7,147.04500,312024,BrandMeister,312024,1,,+0.600,N7JYS,TS1 TS2
 KB0SJR,Russell,Kansas,United States,None,1,442.00000,312025,Brandmeister,312025,1,,+5.000,KB0SJR,TS1 TS2
 WB0YRG,Mission,Kansas,United States,Peer,1,927.58750,312026,Brandmesiter,312026,1,,-25.000,W0NQX,Mixed Mode
-K0USY,Flush,Kansas,United States,Master,1,444.80000,312027,KS-DMR,312027,1,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Eric Sivertsen<br>Email: kd0wwx@gmail.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
 NV8Q,Hutchinson,Kansas,United States,Peer,1,444.47500,312028,KS-DMR,312028,1,More Information:<br>http://www.ks-dmr.net,+5.000,NV8Q,TS1 TS2
-K0USY,El Dorado,Kansas,United States,None,1,444.98750,312029,KS-DMR,312029,1,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Justin Reed<br>Email: celltech161@gmail.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
+K0USY,El Dorado,Kansas,United States,Peer,1,444.98750,312029,KS-DMR,312029,1,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Justin Reed<br>Email: celltech161@gmail.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
 N5NIQ,McPherson,Kansas,United States,Peer,1,444.80000,312031,KS-DMR,312031,1,More Information At:<br>http://ks-dmr.net/mcpherson-2-443-850/,+5.000,NV8Q,TS1 TS2
 KE0PTS,Pawnee Rock,Kansas,United States,Peer,1,444.32500,312032,BrandMeister,312032,1,,+5.000,KB0QNK,TS1 TS2
 KF5PFO,Taos,New Mexico,United States,Master,5,442.17500,312033,RMHAM,312033,1,,+5.0,NB5R,TS1 TS2
-K0USY,Hays,Kansas,United States,Master,1,444.98750,312034,KS-DMR,312034,1,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Gavin Buffington <br>Email: gbuffing@gmail.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
 N0XRM,Clay Center,Kansas,United States,Peer,1,442.75000,312035,KS-DMR,312035,1,,+5.000,NV8Q,TS1 TS2
 K0PRO,Pittsburg,Kansas,United States,None,1,146.94000,312036,KS-DMR,312036,1,,-0.600,K0PR,TS1 TS2
 WA0SLL,Leavenworth,Kansas,United States,Peer,1,442.57500,312037,BM,312037,1,,+5.000,WA0SLL,TS1 TS2
@@ -9035,7 +9025,7 @@ WD9EXZ,Winchester,Indiana,United States,Peer,1,441.17500,314987,Brandmeister,314
 N5VGK,booneville,Mississippi,United States,Peer,1,145.34000,314988,BrandMeister,314988,1,chuck moffatt 662 523 9600,-0.600,N5VGK,TS1 TS2
 KE2BNX,WANTAGE NJ,New Jersey,United States,Peer,0,442.50000,314989,Brandmeister,314989,1,None,5.000,KE2BNX,TS1 TS2
 W2YMM,Bethpage,New York,United States,Peer,2,438.41250,314990,W2YMM,314990,1,None,-5.000,W2YMM,TS1
-KF4DGN,Homer,Georgia,United States,Peer,1,448.40000,314991,Brand miester,314991,1,None,+5.000,KF4DGN,Mixed Mode
+KF4DGN,Homer,Georgia,United States,Peer,1,443.40000,314991,Brand miester,314991,1,None,+5.000,KF4DGN,Mixed Mode
 W4BAD,OXFORD,North Carolina,United States,Peer,1,444.60000,314992,Brandmeister,314992,1,None,+5.000,W4BAD,TS1 TS2
 AG2K,Multiple,Connecticut,United States,Master,1,444.45000,314993,CTDARN,314993,1,None,+5.000,AG2K,TS1 TS2
 KF4HJW,Newport News,Virginia,United States,Peer,1,927.52500,314994,BrandMeister,314994,1,None<br>Testing,25.000,KF4HJW,TS1 TS2
@@ -10635,8 +10625,8 @@ CE6RB,Valdivia,Los Rios,Chile,Master,75,147.03000,730061,DMR,730061,0,,+0.600,CA
 CA5EHC,Coronel,Bio Bio,Chile,Master,1,146.19000,730062,DMR,730062,0,TG LOCAL 9 TG 73049,+0.600,CA5EHC,TS2
 CD6FRV,Puerto Montt,Los Lagos,Chile,Master,1,153.60000,730063,BM,730063,1,repetidor experimentar para enlace a BM operacion inicial en TG 730 - 7307 - 730911-,-4.500,CD6FRV,TS1 TS2
 CE4UJP,CURICO,Maule,Chile,Master,1,147.39000,730065,BM - ADN,730065,1,None,+0.600,CE4UJP,Mixed Mode
-CA7MZD,CALBUCO,Los Lagos,Chile,Peer,1,433.08000,730066,DMR,730066,1,None,+0.000,CA7MZD,TS1
-CA7MZD,CALBUCO,Los Lagos,Chile,Peer,1,147.75000,730067,DMR,730067,1,None,+0.000,CA7MZD,TS2
+CA7MZD,CALBUCO,Los Lagos,Chile,Master,1,433.08000,730066,DMR,730066,1,None,+0.000,CA7MZD,TS1
+CA7MZD,CALBUCO,Los Lagos,Chile,Master,1,147.75000,730067,DMR,730067,1,None,+0.000,CA7MZD,TS2
 CE2VOL,Curico,Maule,Chile,Peer,1,147.27000,730068,7301,730068,1,7301541,+0.600,CE2VOL,TS2
 CE4CU,CURICO,Maule,Chile,Master,1,147.39000,730069,BM - ADN,730069,1,None,+0.600,CE4UJP,TS1 TS2
 CE1RRA,Arica,,Chile,Peer,1,146.97000,730101,DMR-MARC,730101,1,Time Slot #1 - Group Call 1 = World Wide English<br>Time Slot #1 - Group Call 14 = Spanish Worldwide<br>Time Slot #2 - Group Call 730 = Chile<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Contact Name: CE1PDL<br>Email: ca2@cag.cl,-0.600,CE1PDL,TS1 TS2
