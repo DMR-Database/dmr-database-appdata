@@ -2716,7 +2716,7 @@ UB1AAM,,,Russia,,1,0.00000,BM,0,0,250110,,,ACTIVE,UB1AAM,TS1 TS2
 R1ABC,,,Russia,,1,438.70000,BM,59.91246,30.4887,250111,,-7.600,ACTIVE,R1ABC,TS1 TS2
 UA1ZKH,,,Russia,,1,431.12500,BM,67.5615,33.4258,250112,,+7.600,ACTIVE,UA1ZKH,TS1 TS2
 IW6DRY,Camerino,All Regions,Russia,Master,1,430.90000,BM,43.1452180,13.0985090,250199,None,+5.000,ACTIVE,IW6DRY,Mixed Mode
-R5BL,Moscow,,Russia,Peer,1,434.72500,BM,55.724315349283344,37.40424716544011,250202,None,+5.100,ACTIVE,R5BL,TS1 TS2
+R5BL,Moscow,All Regions,Russia,Peer,1,434.72500,BM,55.724315349283344,37.40424716544011,250202,None,+5.100,ACTIVE,R5BL,TS1 TS2
 R2AJV,,,Russia,,1,434.92500,BM,0,0,250203,,-1.600,ACTIVE,R2AJV,TS1 TS2
 R2ALJ,,,Russia,,1,0.00000,BM,0.0,0.0,250204,,,ACTIVE,R2ALJ,TS1 TS2
 R2AJV,,,Russia,,1,434.85000,BM,57.08515,37.91579,250205,,-1.600,ACTIVE,R2AJV,TS1 TS2
@@ -2729,14 +2729,14 @@ RU2FAC,None,,Russia,Peer,3,430.66250,BM,54.71117,20.5366,250211,250777 TS2 - mai
 RU2FAC,,,Russia,,1,0.00000,BM,0.0,0.0,250212,,,ACTIVE,RU2FAC,TS1 TS2
 R2DBE,,,Russia,,1,0.00000,BM,0.0,0.0,250213,,,ACTIVE,R2DBE,TS1 TS2
 R2AUN,,,Russia,,1,0.00000,BM,55.80901,37.63895,250214,,,ACTIVE,R2AUN,TS1 TS2
-R5BL,Moscow,,Russia,Peer,1,145.65000,BM,55.722057245462516,37.40424716544003,250215,None,-0.600,ACTIVE,R5BL,TS1 TS2
+R5BL,Moscow,All Regions,Russia,Peer,1,145.65000,BM,55.722057245462516,37.40424716544003,250215,None,-0.600,ACTIVE,R5BL,TS1 TS2
 RU3AWW,,,Russia,,1,0.00000,BM,0.0,0.0,250301,,,ACTIVE,R3ABM,TS1 TS2
 RZ3ARS,,,Russia,,1,0.00000,BM,0.0,0.0,250303,,,ACTIVE,RZ3AIQ,TS1 TS2
-R5BL,Moscow,,Russia,Peer,1,145.65000,BM,55.722057245462516,37.40424716544003,250306,None,-0.600,ACTIVE,R5BL,TS1 TS2
+R5BL,Moscow,All Regions,Russia,Peer,1,145.65000,BM,55.722057245462516,37.40424716544003,250306,None,-0.600,ACTIVE,R5BL,TS1 TS2
 RZ3AIQ,,,Russia,,12,433.70000,BM,0,0,250307,,+6.000,ACTIVE,RZ3AIQ,TS1 TS2
 RU3DVW,,,Russia,,1,433.71250,BM,0,0,250309,,+5.000,ACTIVE,RU3DVW,TS1 TS2
 UB3ATT,Pushkino,,Russia,Master,1,433.68750,BM,55.993025306942506,37.84837544804688,250314,None,+5.000,ACTIVE,UB3ATT,TS1 TS2
-R2DFR,,,Russia,,1,0.00000,BM,0.0,0.0,250315,,,ACTIVE,R5BL,TS1 TS2
+R2DFR,,All Regions,Russia,Peer,1,0.00000,BM,0.0,0.0,250315,None,,ACTIVE,R5BL,TS1 TS2
 R2AEE,,,Russia,,1,0.00000,BM,0.0,0.0,250316,,,ACTIVE,R2AEE,TS1 TS2
 RZ3ARS,,,Russia,,1,438.05000,BM,55.63216,37.52083,250317,,-7.600,ACTIVE,RZ3ARS,TS1 TS2
 RD3U,Ivanovo,,Russia,Peer,1,434.97500,BM,56.971090,40.978859,250318,None,+1.600,ACTIVE,RD3U,TS1 TS2
@@ -7603,7 +7603,7 @@ W3WDD,Dillsboro,North Carolina,United States,Peer,4,902.70000,Sandbox,35.370007,
 W3WDD,Franklin TEMP,North Carolina,United States,Peer,1,444.20000,NC-PRN,35.3700615,-83.2506638,313379,See NCPRN.net,+5.00,ACTIVE,W3WDD,TS1 TS2
 W3WDD,Raleigh,North Carolina,United States,Peer,1,443.33750,NC-PRN,35.78047793750647,-78.63788894787203,313380,,+5.00,ACTIVE,W3WDD,TS1 TS2
 W3WDD,Raleigh,North Carolina,United States,Peer,1,442.21250,NC-PRN,35,-83,313381,,+5.000,ACTIVE,W3WDD,TS1 TS2
-KD9QDL,AUBURN,Indiana,United States,Master,1,441.96250,DMR,41.3521350,-85.165544,313382,,+5.000,ACTIVE,"KD9QDL, KB9QG",TS1 TS2
+W9OU,AUBURN,Indiana,United States,Master,1,441.96250,DMR,41.3521350,-85.165544,313382,,+5.000,ACTIVE,"KD9QDL, KB9QG",TS1 TS2
 K6ER,Sausalito,California,United States,Master,2,442.52500,DMR,37.85103,-122.49846,313383,,+5.00,ACTIVE,K6ER,TS1 TS2
 KB8UB,Munith,Michigan,United States,Peer,1,442.32500,dmr-marc,42.2212,-84.1305,313384,,+5.0000,ACTIVE,KB8UB,TS1 TS2
 KB8POO,Jackson,Michigan,United States,Peer,1,145.12000,BrandMeister,42.26367,-84.48895,313385,,-0.600,ACTIVE,KB8POO,TS1 TS2
@@ -9032,6 +9032,7 @@ KF4HJW,Newport News,Virginia,United States,Peer,1,927.52500,BrandMeister,37.1005
 K9PAL,Grovetown,Georgia,United States,Master,1,441.10000,TGIF,33.5029524,-82.2266889,314995,None,0.000,ACTIVE,K9PAL,TS2
 KI4DPR,Waynesboro,Georgia,United States,Peer,1,446.12500,TGIF,33.0934000,-82.0234000,314996,None,-5.000,ACTIVE,KI4DPR,TS1 TS2
 WC8EMA,Lebanon,Ohio,United States,Peer,1,444.18750,Brandmeister,39.4620000,-84.1148000,314997,KD8BNR<br>jason.shatto@wcoh.net,5.000,ACTIVE,"KD8BNR, AB8RG",TS1 TS2
+KK6KD,SAN DIEGO,California,United States,Peer,1,448.46000,Brandmesiter,33.3110200,-116.8585600,314998,None,-5.000,ACTIVE,KK6KD,TS1 TS2
 WR1VT,Brattleboro,Vermont,United States,Peer,1,444.40000,NEDECN,42.8958537,-72.6633378,315001,"Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br><br>* = PTT Activation<br>Contact: Ira, W1IRA<br>Email: w1ira@vermontel.net<br><br>Website: http://nedecn.org",+5.000,ACTIVE,W1IRA,TS1 TS2
 W1IMD,Pico Peak,Vermont,United States,Peer,1,444.50000,NEDECN,43.6395654,-72.8362226,315002,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 3125 = MA Statewide*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>* = PTT Activation<br><br>Contact: Paul, W1IMD<br>Email: w1imd@arrl.net<br><br>Website: http://nedecn.org",+5.000,ACTIVE,W1IMD,TS1 TS2
 W1UWS,Mt. Ascutney,Vermont,United States,Master,5,448.47500,NEDECN,43.4397861,-72.4456072,315003,"Time Slot #1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot #1 - Group Call 1 = World Wide (PTT)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America*<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot*<br>------------------------------------<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br>Time Slot #2 - Group Call 3181 = New England Wide*<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3150 = VT Statewide<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 3125 = MA Statewide* <br><br>* = PTT Activation<br>Contact: Jeff, WB2NWR<br>Email: katchenj@hotmail.com<br><br>Website: http://nedecn.org",-5.000,ACTIVE,WB2NWR,TS1 TS2
@@ -9431,7 +9432,7 @@ HH8M,Jacmel,Sud-Est,Haiti,Peer,1,0.00000,BrandMeister,18.2352587,-72.5375127,372
 9Z4RG,Port-Of-Spain,,Trinidad and Tobago,Peer,1,146.61000,DMR-MARC,10.663056,-61.523333,374010,"BrandMeister TG3742 - Port of Spain - TS1, CC1.  For info contact 9Z4RG at robby@9Z4RG.com",-0.600,ACTIVE,9Y4R,1
 9Y4R,Port-Of-Spain,,Trinidad and Tobago,Peer,1,146.61000,BrandMeister,10.663056,-61.523333,374011,,-0.600,ACTIVE,9Y4R,TS2
 9Y4R,Port-Of-Spain,,Trinidad and Tobago,Peer,1,147.85000,BrandMeister,10.663056,-61.523333,374012,DVM,-0.600,ACTIVE,9Y4R,TS2
-9Y4C,San Juan,,Trinidad and Tobago,Master,1,432.70000,TGIF,10.646530,-61.471359,374013,"TG located on the TGIF Network, linked to ysf reflector",+5.000,ACTIVE,9Y4C,TS2
+9Y4C,San Juan,All Regions,Trinidad and Tobago,Master,1,432.70000,TGIF,10.646530,-61.471359,374013,"TG located on the TGIF Network, linked to ysf reflector",+5.000,ACTIVE,9Y4C,TS2
 KP2O,st thomas,,United States,Peer,7,448.60000,brandmeister,0.0,0.0,376001,,-5.000,ACTIVE,KP2O,TS1 TS2
 NP2DG,Christiansted,,U.S. Virgin Islands,Master,1,443.60000,BM,17.746,-64.704,376002,,+5.000,ACTIVE,NP2DG,TS1 TS2
 KP4AZH,Salinas Puerto Rico,,Puerto Rico,Master,1,446.85000,BM,17.98350,-66.31750,376003,,-5.000,ACTIVE,KP4AZH,TS1 TS2
@@ -9467,8 +9468,8 @@ VU2CPI,Yercaud Salem,Tamil Nadu,India,Peer,1,145.85000,BM,11.776053,78.211853,40
 VU2FUN,New Delhi,Delhi,India,None,7,145.67000,BrandMeister,28.617062,77.085281,404301,,-0.600,ACTIVE,VU2IB,Mixed Mode
 VU2HUB,New Delhi,Delhi,India,None,7,435.67000,BrandMeister,28.617039,77.085297,404302,,-1.600,ACTIVE,VU2IB,Mixed Mode
 AP2AUM,Islamabad,,Pakistan,Peer,1,144.98500,BM,33.720001,73.059998,410001,410,+6.00,ACTIVE,AP2AUM,TS1 TS2
-AP2ARS,Islamabad,,Pakistan,Master,1,144.98500,DMR,31.5204,74.3587,410002,PARS DMR Master Repeater<br>TG 41033,+2.0,ACTIVE,AP2ARS,TS1 TS2
-AP2ARS,Islamabad,,Pakistan,Peer,1,144.82500,DMR,30.1575,71.5249,410003,PARS DMR Islamabad Repeater<br>TG 41033,+2.0,ACTIVE,AP2ARS,TS1 TS2
+AP2ARS,Islamabad,All Regions,Pakistan,Master,1,144.98500,DMR,31.5204,74.3587,410002,PARS DMR Master Repeater<br>TG 41033,+2.0,ACTIVE,AP2ARS,TS1 TS2
+AP2ARS,Islamabad,All Regions,Pakistan,Peer,1,144.82500,DMR,30.1575,71.5249,410003,PARS DMR Islamabad Repeater<br>TG 41033,+2.0,ACTIVE,AP2ARS,TS1 TS2
 AP5CG,Islamabad,,Pakistan,Master,1,144.01000,BM,33.6417,72.9534,410004,,+3.980,ACTIVE,AP2HD,TS1 TS2
 AP2MHC,Multan,,Pakistan,Peer,1,438.50000,BM,30.208805,71.486141,410005,,-8.300,ACTIVE,AP2MHC,TS1 TS2
 AP2HD,Islamabad,,Pakistan,Master,1,444.00000,BM,33.641882,72.949987,410006,,+5.000,ACTIVE,AP2HD,TS1 TS2
@@ -10651,7 +10652,7 @@ CE2VOV,Valparaiso,Valparaiso,Chile,None,1,145.10000,DMR BM,-33.053200,-71.615791
 CE2VRP,La Serena,Coquimbo,Chile,Peer,1,433.70000,Brandmeister,-29.902631,-71.2520253,730212,,+5.000,ACTIVE,CE2VRP,TS1 TS2
 CE2KVL,valparaiso,Valparaiso,Chile,None,1,430.10000,DMR BM,-33.0458456,-71.6196749,730213,,+5.000,ACTIVE,CE2KVL,TS1 TS2
 CA2UMH,Los Andes,Valparaiso,Chile,Peer,1,144.10000,Cable,-32.8337995,-70.5972179,730214,,+0.600,ACTIVE,CA2UMH,TS1 TS2
-CE2DJA,Vina del Mar,Valparaiso,Chile,Peer,1,438.15000,BrandMeister,-33.047238,-71.6126885,730215,,-5.000,ACTIVE,XQ2FL,TS1 TS2
+XQ2FL,Vina del Mar,Valparaiso,Chile,Peer,1,438.15000,BrandMeister,-33.047238,-71.6126885,730215,,-5.000,ACTIVE,XQ2FL,TS1 TS2
 CE2UGO,VALPARAISO,Valparaiso,Chile,None,1,433.50000,Master Chile,-33.121201,-71.574150,730216,,+5.000,ACTIVE,CE2UGO,TS1
 CE2KVL,valparaiso,Coquimbo,Chile,None,1,434.95000,DMR BM,-29.9587114,-71.2599691,730217,,+5.000,ACTIVE,CE2KVL,TS1 TS2
 CE2AND,Los Andes,Valparaiso,Chile,Peer,1,147.21000,BM-Chile 7301,-32.833694,-70.598160,730218,,+0.600,ACTIVE,CE2PZJ,TS1 TS2
