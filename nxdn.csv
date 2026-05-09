@@ -1603,7 +1603,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 1617,HP3APC,Juan Eloy,Varital de Boqueron,Panama,Panama
 1618,E25LVV,Mr.Kiattisak,Chanthaburi,Chanthaburi,Thailand
 1619,IS0IQD,Marco,Assemini,Lazio  Umbria  Sardinia,Italy
-1620,DK5AC,Albert,Naila,Bayern,Germany
+1620,DK5AC,Albert,Naila-Bavaria,Bayern,Germany
 1621,BG9FMC,Song,Xian,Shaanxi Ningxia Gansu Qinghai,China
 1622,BG3LKR,Bao,Baotou,,China
 1623,K2NDY,Lianghua,New York,New York,United States
@@ -5234,6 +5234,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 5304,ZL4DE,Daniel,Invercargill,South Island,New Zealand
 5305,ZL3DVR,Douglas M,Christchurch,South Island,New Zealand
 5307,ZL4HD,Tom,Bluff,South Island,New Zealand
+5308,ZL4BLF,Thomas,Bluff,South Island,New Zealand
 5309,IU3KHW,Eclipse,Pastrengo,,Italy
 5310,M6INJ,Peter,Gosport,England,United Kingdom
 5311,TA2BER,Mustafa,Istanbul,Marmara Region,Turkiye
@@ -10371,7 +10372,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 10507,VU3UBQ,Hafees,Paripally Kollam,Kerala,India
 10508,M7XDS,Daniel,Hatfield  Herts,England,United Kingdom
 10509,LU2EIF,Alan,Hurlingham,Buenos Aires,Argentina Republic
-10510,PY4RBS,Robson,Brazil,Minas Gerais,Brazil
+10510,PY4BRZ,Robson,Brazil,Minas Gerais,Brazil
 10511,F4LQY,Didier,is sur tille,Bourgogne-Franche-Comte,France
 10512,SP5AEZ,Tomasz,Nieporet,mazowieckie,Poland
 10513,VU3ITH,Murugesan,Madurai,Tamil Nadu,India
@@ -11733,7 +11734,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 11894,IU7VTO,Giovanni,Sava,Apulia  Basilicata,Italy
 11895,W1GSK,Glenn,Portland,Maine,United States
 11896,DS3FXU,Lee,Mokcheon-Eup Dongnam-Gu Cheon-An City Chungcheongnam-Do,ChungChong Nam-Do,Korea Republic of
-11897,JS3VPS,Fujikawa,Himeji-kitahirano,Kinki,Japan
 11898,ON3BPA,Bart,Sint-Niklaas,Oost-Vlaanderen,Belgium
 11899,SQ5LNL,Marcin,Zielonka,mazowieckie,Poland
 11900,G6VGC,RickSoft,Uttoxeter,England,United Kingdom
@@ -12015,7 +12015,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 12177,WB8NUT,Duffy,Cincinnati,Ohio,United States
 12178,KD5LPE,Michael S,Denver,Colorado,United States
 12179,IW2NRA,Massimo,Valdisotto,,Italy
-12180,TB6BQQ,Tb6Bqq,Samsun,Black Sea Region,Turkiye
+12180,TB6BQQ,Osman,Samsun,Black Sea Region,Turkiye
 12181,4X1ZG,Noam,,Central,Israel
 12182,KK7VKU,Noam,Seattle,Washington,United States
 12184,SP9OKZ,Arkadiusz,Krakow,małopolskie,Poland
@@ -12386,7 +12386,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 12553,DL8AA,Andreas,Herne,Nordrhein-Westfalen,Germany
 12554,LX1BV,Claude,Helmsange,All Regions,Luxemburg
 12555,KF8AIT,Kelly,Dayton,Ohio,United States
-12556,KE5YUR,Hilario,Dallas,Texas,United States
+12556,N5HBG,Hilario,Dallas,Texas,United States
 12557,XE1EIF,Carmen,Guadalajara,Jalisco,Mexico
 12558,KO6MDG,Dmitri,pollock pines,California,United States
 12559,KD2JIJ,Sergei,Allendale,New Jersey,United States
@@ -14215,6 +14215,22 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 14395,VE2LPS,Louis,Laval,Quebec,Canada
 14396,KQ4PYW,Norman,Tuscaloosa,Alabama,United States
 14397,ZL1JHE,Ian,Mount Maunganui Tauranga,North Island 1,New Zealand
+14398,DL3HAQ,Jens,Hamburg,Hamburg  Schleswig-Holstein,Germany
+14399,IV3JSJ,Paolo,Ronchi Dei Legionari,Veneto  Trentino-AA  Friuli-VG,Italy
+14400,TB3TKK,Burak,Izmir,Aegean Region,Turkiye
+14401,EA5JZW,David,Valencia,Valencia,Spain
+14402,KO6MCO,Ronald,Spring Valley,California,United States
+14403,IU7VLY,Giovanni,Brindisi,Apulia  Basilicata,Italy
+14404,TA2NJH,Devrim,Ankara,Central Anatolia Region,Turkiye
+14405,NE1NH,Tom,Sutton,Massachusetts,United States
+14406,M6IEZ,Tez,Merseyside,England,United Kingdom
+14407,KR4JLX,Robert,Fort Myers,Florida,United States
+14408,KF0WWS,Keaton,Superior,Colorado,United States
+14409,XE2LUZ,Jesus,Monclova,Coahuila,Mexico
+14410,N5WGA,Chuck,Valliant,Oklahoma,United States
+14411,KO6NMM,William,San Luis Obispo,California,United States
+14412,KB6WGL,John,Rohnert Park,California,United States
+14413,KO4TQV,Michael,Palmyra,Tennessee,United States
 14688,AA4CB,Christopher G,Ridge Manor,Florida,United States
 14689,IT9GBY,GIOVANNI,PALERMO,,Italy
 14795,NG4P,Kevin L,Cottondale,Florida,United States
@@ -15704,6 +15720,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 52098,HS8JCV,Mr.Supparerk,Bangkhuntein,Bangkok,Thailand
 52099,HS8AFA,Anan,Phunphin,Surat Thani,Thailand
 52110,VK2HK,Ian,Lake Macquarie,New South Wales,Australia
+52111,VK2IPT,Ian,WYEE,New South Wales,Australia
 52114,VK2GG,Dan,Dora Creek,New South Wales,Australia
 52118,VK2GP,Colin,Toronto,New South Wales,Australia
 52119,VK2YF,Frederick,Ballina,New South Wales,Australia
