@@ -5,7 +5,6 @@ WB6PQM,Walnut Creek,California,United States,Peer,1,444.15000,Brandmeister,38.00
 KF6GOI,Thousand Oaks,California,United States,Master,1,445.56000,West Brandmeister,34.1705609,-118.8375937,110604,,-5.000,ACTIVE,KF6GOI,TS1 TS2
 K6UHF,Wrightwood,California,United States,Peer,7,449.74000,BrandMeister,34.351742,-117.676888,110605,,-5.000,ACTIVE,K6UHF,TS1 TS2
 KA7QQV,Alameda,California,United States,Peer,1,443.50000,brandmeister,37.7652065,-122.2416355,110607,,+5.000,ACTIVE,KA7QQV,TS1 TS2
-KE6UPI,Murrieta,California,United States,Master,1,447.40000,BrandMeister,33.5539143,-117.2139232,110608,,-5.000,ACTIVE,KE6UPI,TS1 TS2
 WX6D,Place Holder,California,United States,Peer,1,443.43750,Mountain West DMR,37.9100783,-122.0651819,110609,,+5.000,ACTIVE,KE6YJC,TS1 TS2
 WB6PQM,Walnut Creek,California,United States,Peer,3,927.50000,Brandmeister,37.9020731,-122.0618702,110610,,-25.000,ACTIVE,WB6PQM,TS1 TS2
 WX6D,Soquel,California,United States,Peer,1,442.53750,Mountain West DMR,35.4894169,-120.6707255,110612,,+5.000,ACTIVE,KE6YJC,TS1 TS2
@@ -426,7 +425,7 @@ F6ZEM,Chateaubourg,Bretagne,France,Peer,1,430.16250,brandmeister,48.1105120,-1.3
 F1ZLJ,GALGON,Nouvelle-Aquitaine,France,Master,1,430.21250,DMR-plus,44.985264,-0.272542,208095,,+9.400,ACTIVE,F4GLJ,TS1 TS2
 F1ZOE,Paris,Ile-de-France,France,Peer,1,430.17500,DMRF,48.8252841,2.3664919,208096,None,9.400,ACTIVE,F1TDI,TS1 TS2
 F1ZVZ,LE BURGAUD,Occitanie,France,Peer,0,439.72500,1,43.7940518,1.1627924,208097,None,0.000,ACTIVE,F4INI,Mixed Mode
-F9RCL,Boulay-Moselle,Grand Est,France,Master,0,145.60000,DMR-FR-F9RCL,49.1826700,6.4999900,208098,None,0.600,ACTIVE,F9RCL,TS1
+F9RCL,Boulay-Moselle,Grand Est,France,Master,0,145.60000,FD_ADN_2085_France_F9RCL,49.1826700,6.4999900,208098,None,0.600,ACTIVE,F9RCL,TS1
 F1ZHW,Montfermeil,,France,,7,430.53750,BM,48.889687,2.209232,208099,,9.400,ACTIVE,F1TUV,TS1 TS2
 F1ZLL,2205 route de BRAS,,France,,1,430.56250,BM,43.405289,6.172018,208101,,9.400,ACTIVE,F1SER,TS1 TS2
 F1ZYI,Serre-Chevalier,Provence-Alpes-Cote d Azur,France,Master,1,439.73750,DMR-plus,45.060299,6.364600,208103,TS-2<br>ECRINS 20805 - ALPES 84<br>,-9.4,ACTIVE,F4EGG,TS1 TS2
@@ -805,7 +804,7 @@ E79UZE,Zenica,,Bosnia and Hercegovina,Master,1,438.62500,BM,43.8564,18.4134,2180
 E79XPD,Prijedor,,Bosnia and Hercegovina,Peer,1,438.55000,BM,44.97,16.71,218015,,-7.6,ACTIVE,E73EP,TS1 TS2
 E79VZE,Zenica,,Bosnia and Hercegovina,Master,1,145.62500,BM,44.26769,17.85207,218016,,-0.600,ACTIVE,E70BA,Mixed Mode
 E70DNE,Neum,All Regions,Bosnia and Hercegovina,Master,1,438.42500,BM,42.935778,17.602115,218017,,-7.600,ACTIVE,E77X,TS1 TS2
-E79DBI,Bihac,All Regions,Bosnia and Hercegovina,Master,1,438.20000,Brandmeister,44.8153260,15.8644337,218018,"UHF DMR Repeater in the city of Bihac, Bosnia and Herzegovina.<br>TS1 TG218<br>TS2 TG218037",-7.600,ACTIVE,"E72RAD, E77SKY",TS1 TS2
+E79DBI,Bihac,All Regions,Bosnia and Hercegovina,Master,1,438.20000,Brandmeister,44.8153260,15.8644337,218018,"UHF DMR Repeater in the city of Bihac, Bosnia and Herzegovina.<br>TS1 TG218<br>TS2 TG218037",-7.600,ACTIVE,"E72RAD, E70BA, E77SKY",TS1 TS2
 E79DME,Medjugorje,All Regions,Bosnia and Hercegovina,Master,1,438.95000,BM,43.1614673,17.6871390,218019,,-7.600,ACTIVE,E77X,TS1 TS2
 E79DCE,Banja Luka,,Bosnia and Hercegovina,Peer,1,438.85000,BM,44.5217367,17.2131823,218020,TS1 218<br>TS2 21810 21812 218020,-7.600,ACTIVE,E74BYZ,TS1 TS2
 E79VIS,Pale,,Bosnia and Hercegovina,Master,1,145.77500,BM,43.818611,18.4591067,218021,TS1:218<br>TS2:21810,-0.600,ACTIVE,E79VIS,TS1 TS2
@@ -2706,6 +2705,7 @@ RR9JK,Megion,All Regions,Russia,Peer,1,145.60000,BM,61.03191170439186,76.1168436
 UB6OARD,Donetsk,All Regions,Russia,Peer,1,438.87500,2502.master.brandmeister.network,47.9870620,37.8925650,250044,None,-7.600,ACTIVE,UB6OAR,TS1 TS2
 RC3DI,Moscow,All Regions,Russia,Peer,1,439.40000,BM,55.7496530,37.8803740,250045,None,-7.600,ACTIVE,RC3DI,TS1 TS2
 R2DLA,Domodedovo,All Regions,Russia,Master,7,434.95000,BM,55.2778900,37.9296500,250046,None,-2.600,ACTIVE,R2DLA,TS1 TS2
+RU3H,Chehov,All Regions,Russia,Peer,1,433.75000,DMR,55.1466955,37.4561878,250047,None,6.000,ACTIVE,RU3H,TS1
 UB1AAM,,,Russia,,1,438.75000,BM,60.02647,30.31724,250102,,-7.600,ACTIVE,UB1AAM,TS1 TS2
 RD1AS,,,Russia,,1,145.73750,BM,59.9707,30.36835,250104,,-0.600,ACTIVE,RD1AS,TS1 TS2
 UA1CDG,,,Russia,,1,0.00000,BM,0.0,0.0,250105,,,ACTIVE,UA1CDG,TS1 TS2
@@ -3791,7 +3791,7 @@ DB0TTB,Hohenpeissenberg,Bayern,Germany,Peer,1,439.58750,DMR-plus,47.800800,11.01
 DB0LE,Leipzig West,,Germany,,1,439.57500,BM,51.293056,12.237040,262901,,-7.600,ACTIVE,DC8YM,TS1 TS2
 DB0CHE,Chemnitz,Sachsen / Thueringen,Germany,Master,1,439.43750,BM,50.711895,12.826838,262902,,-7.600,ACTIVE,DO8GT,TS1 TS2
 DB0GER,Gera,Sachsen / Thueringen,Germany,Master,1,438.30000,D-STAR,50.8815,12.1287,262903,,-7.600,ACTIVE,DL4APJ,Mixed Mode
-DM0LEI,Leipzig Nord-Ost,,Germany,,1,439.47500,None,51.3737296,12.4131186,262904,,-7.600,ACTIVE,DM1HF,
+DM0LEI,Leipzig,Sachsen / Thueringen,Germany,Peer,1,439.47500,None,51.3737296,12.4131186,262904,,-7.600,ACTIVE,DM1HF,TS1
 DB0FLW,Leipzig JO61EH,Sachsen / Thueringen,Germany,Master,1,439.53750,BM,51.331699,12.364391,262905,,-7.600,ACTIVE,DL1FLW,TS1 TS2
 DB0FBG,Freiberg,,Germany,,1,438.32500,None,50.929352,13.347930,262906,,-7.600,ACTIVE,DL1JAD,
 DB0AWI,Wiegleben,,Germany,,1,438.40000,None,51.047230,10.627966,262907,,7.600,ACTIVE,DL4AWI,
@@ -8652,7 +8652,7 @@ W5ALC,Pueblo,Colorado,United States,Peer,3,449.40000,BM,40.2201101,-103.6781698,
 KC7Z,Bremerton,Washington,United States,Peer,1,146.62000,BM,0.0,0.0,314568,,-0.600,ACTIVE,KC7Z,Mixed Mode
 KG4TRV,Miami,Florida,United States,Master,1,443.55000,BM,25.755175,-80.424138,314569,,+5.000,ACTIVE,KG4TRV,Mixed Mode
 KF8DEA,Chardon,Ohio,United States,Peer,1,444.33750,BM,41.581844,-81.203533,314570,3139 Ohio Statewide<br>31391 Northeast Ohio,+5.000,ACTIVE,KF8DEA,TS1 TS2
-K4MJO,South Hill,Virginia,United States,Peer,4,442.35000,BM,36.70069823981148,-78.0928378,314571,"Updated: 10/11/2025<br>Contact: K4MJO Matt<br><br>DMR Repeater<br>Color Code 4<br><br>Slot 1<br>31373   Eastern NC Repeaters Full Time Link  K4BLA Backwoods DMR<br>310997   Echo Test. Test Your Audio Here!<br>31377   Outer Banks, Nc Repeaters<br>4000   Disconnect (Clear PTT Activated TG)<br><br>Slot 2<br><br>314571   RF & Hot spot (LOCAL ONLY)",+5.000,ACTIVE,K4MJO,TS1 TS2
+K4MJO,LACROSSE,Virginia,United States,Peer,4,442.35000,BM,36.70069823981148,-78.0928378,314571,TS 1  TALKGROUP 31373 EASTERN NC<br><br>TS 2  TALKGROUP 310068 BAD BOY NETWORK,+5.000,ACTIVE,K4MJO,TS1 TS2
 KE0IHD,Mount Pleasant,Iowa,United States,Peer,1,147.22500,Brandmeister,40.9595788,-91.5598827,314572,,+0.6,ACTIVE,KE0IHD,TS1 TS2
 K5URD,Luling,Texas,United States,Peer,1,146.98000,BrandMeister,0.0,0.0,314573,"Open TGs, Works mostly in city limits.",-0.6,ACTIVE,K5URD,TS1 TS2
 KA5D,Austin,Texas,United States,Master,1,441.32500,BM,30.2895,-97.7365,314574,University-Link,+5.000,ACTIVE,KA5D,Mixed Mode
@@ -9052,7 +9052,7 @@ W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,DMRVA,37.5358149,-77.3821
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,NC-PRN-,36.6474353,-80.6437257,315102,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,ACTIVE,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,NC-PRN,36.8663865,-81.0515927,315103,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,ACTIVE,K4IJ,TS1 TS2
 KK4WTI,Chesapeake,Virginia,United States,Peer,1,442.58750,NC-PRN,36.7682088,-76.2874927,315104,,+5.000,ACTIVE,KK4WTI,TS1 TS2
-K4MJO,South Hill,Virginia,United States,Peer,2,444.78750,BM,36.70069823981148,-78.09283783774202,315105,"Updated: 10/11/2025<br>Contact: K4MJO Matt<br><br>DMR Repeater<br>Color Code 2<br>Slot 1<br><br>311095   K4TZN Link<br>310997   Parrot Test    TEST YOUR AUDIO!!<br>31511   Richmond Metro<br>31513   South West VA<br>31515   Tidewater, Va<br>4000   Disconnect  (Clear TimeSlot)<br><br>Slot 2<br>315105   RF & Hotspot LOCAL",+5.000,ACTIVE,K4MJO,TS1 TS2
+K4MJO,South Hill,Virginia,United States,Peer,2,444.78750,BM,36.7804027,-78.2443453,315105,TS 1  TALKGROUP 311095 NCVAFUSION<br>TS 2  TALKGROUP 310068 BAD BOY NETWORK,+5.000,ACTIVE,K4MJO,TS1 TS2
 WA4FC,Petersburg,Virginia,United States,Peer,1,442.68750,DMRVA,37.2434484,-77.3986816,315106,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,ACTIVE,KD4BPZ,TS1 TS2
 WB6EFW,Ashburn,Virginia,United States,Peer,1,442.13750,Brandmeister,39.07395200,-77.47818500,315107,Connected VIA Brandmeister. All TG's are available.,+5.000,ACTIVE,WB6EFW,TS1 TS2
 WA4FC,Richmond,Virginia,United States,Peer,1,443.53750,Brandmeister,37.513618,-77.601601,315108,Brandmeister repeater located in downtown Richmond.  Please enjoy.  <br><br>See details here: https://www.dmrva.org/new-brandmeister-repeater-on-air-in-richmond/<br><br>,+5.000,ACTIVE,KD4BPZ,TS1 TS2
