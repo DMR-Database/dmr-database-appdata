@@ -1360,7 +1360,7 @@ IR6UH,Torricella Sicura,,Italy,,1,430.15000,222621,None,222621,1,,-1.600,IK6ONA,
 IR6UCI,Monte  Majelletta,,Italy,,1,430.71250,222622,BrandMeister,222622,1,,5.000,IW6OCM,
 IR6UI,M La Croce,,Italy,,1,430.95000,222666,BrandMeister,222666,1,,5.000,IU6DGD,
 IR6UK,Camerano,,Italy,,1,430.37500,222667,BrandMeister,222667,0,,5.000,IK6FGX,
-IR6BK,Manoppello (PE),,Italy,,1,144.00000,222690,None,222690,1,,0.000,IK6IOQ,
+IR6BK,Manoppello,Marche / Abruzzo,Italy,Peer,1,144.00000,222690,adn,222690,1,,0.000,IK6IOQ,Mixed Mode
 IR6UCH,Isernia,Molise / Campania / Calabria,Italy,Peer,1,430.32500,222698,BM,222698,0,,5.000,IW6MKC,TS1 TS2
 IR6UCG,Roccaraso,Marche / Abruzzo,Italy,Peer,1,430.22500,222699,ADN-2224,222699,1,,5.000,IW6MKC,TS1 TS2
 IR7BH,Castelnuovo d Daunia,,Italy,Peer,1,431.40000,222700,BM,222700,1,,1.600,IW7DZR,TS1 TS2
@@ -2932,7 +2932,6 @@ SR9PSD,Pszw,lskie,Poland,Master,9,439.31250,260050,BM,260050,1,,-7.600,SQ9DIQ,TS
 SR2GG,Szubin,kujawsko-pomorskie,Poland,Master,12,439.90000,260051,BM,260051,1,,-9.400,SP2GG,TS1 TS2
 SR3OW,Ostrow Wlkp,wielkopolskie,Poland,Peer,1,439.05000,260053,Bramdmeister,260053,1,,-7.600,SP3OW,TS1 TS2
 SR8LBT,Lublin,lubelskie,Poland,Master,1,430.10000,260054,"TetraPack, BM",260054,1,,+1.6,SQ8MXP,Mixed Mode
-SR1WR,Ryman,zachodniopomorskie,Poland,Master,1,438.68750,260055,Brandmeister,260055,1,,-7.600,SP1WR,TS1 TS2
 SR9SR,Rybnik,lskie,Poland,Peer,1,438.48750,260056,BM,260056,1,WiP,-7.600,SP9KJT,TS1 TS2
 SR9OKO,Strzybnik,lskie,Poland,Peer,1,438.80000,260057,260,260057,1,26098<br>26063<br>9,-7.600,SP9PRR,TS1 TS2
 SR8ALA,Blizne,podkarpackie,Poland,Master,1,439.47500,260058,BM,260058,1,Slot 1 TG260  Slot 2 TG26085,-7.600,SP8SMA,TS1 TS2
@@ -3446,7 +3445,6 @@ DB0XY,Bocksberg/ Harz,,Germany,,1,439.87500,262396,DMR-plus,262396,0,,-9.400,DH1
 DB0ABZ,Salzgitter-Druette,,Germany,,1,439.82500,262397,DMR-plus,262397,0,,-9.400,DH1ALF,TS1 TS2
 DB0DLR,DLR Braunschweig,,Germany,,1,439.48750,262398,None,262398,1,,-7.600,DH1ALF,
 DB0DVR,Braunschweig,,Germany,Peer,1,438.57500,262399,DMR-plus,262399,1,,-7.600,DH1ALF,TS1 TS2
-DB0NG,Marl,Nordrhein-Westfalen,Germany,Peer,1,438.90000,262400,BM,262400,1,,-7.600,DL1YBL,TS1 TS2
 DB0UG,Paderborn,Nordrhein-Westfalen,Germany,,1,438.83750,262401,BM,262401,1,,-7.600,DL5YDJ,TS1 TS2
 DB0WA,Aachen,Nordrhein-Westfalen,Germany,Peer,1,438.68750,262402,IPSC2,262402,1,,-7.600,DJ7LC,TS1 TS2
 DB0DW,Boenen,Nordrhein-Westfalen,Germany,,1,145.57500,262403,DMR-plus,262403,1,,-0.600,DL7DW,TS1 TS2
@@ -3496,7 +3494,6 @@ DO0HA,Hagen/NRW,Nordrhein-Westfalen,Germany,,1,438.41250,262449,DMR-plus,262449,
 DB0DRE,Recklinghausen,Nordrhein-Westfalen,Germany,Peer,1,439.52500,262450,"BM, DMR-MARC, IPSC2",262450,1,,-7.6,DL1YBL,TS1 TS2
 DB0GL,Bergisch Gladbach,Nordrhein-Westfalen,Germany,,1,438.87500,262451,DMR-plus,262451,1,,-7.600,DD1KU,TS1 TS2
 DB0VEL,Velbert,Nordrhein-Westfalen,Germany,,1,438.63750,262452,BrandMeister,262452,1,,-7.400,DD5CX,
-DB0LR,Winterberg,Nordrhein-Westfalen,Germany,Peer,2,439.97500,262453,DMR-plus,262453,1,,-9.400,DL1YBL,TS1 TS2
 DB0CW,Gummersbach,Nordrhein-Westfalen,Germany,,1,145.66250,262454,DMR-plus,262454,1,,-0.600,DJ3CW,TS1 TS2
 DB0CW,Gummersbach,,Germany,Peer,1,439.48750,262455,DMR-plus,262455,1,,-7.600,DJ3CW,TS1 TS2
 DB0MON,Nordeifel/Kreis AC,Nordrhein-Westfalen,Germany,Peer,1,439.77500,262456,DMR-plus,262456,0,,-9.400,DH6KQ,TS1 TS2
@@ -3830,7 +3827,6 @@ DB0ABL,Meuselwitz,,Germany,,1,144.82500,262997,None,262997,1,,0.000,DM1AN,
 DB0INS,Grosser Inselsberg,,Germany,,1,438.35000,262998,DMR-plus,262998,1,,-7.600,DB5SB,TS1 TS2
 DB0BI,Bielefeld,Nordrhein-Westfalen,Germany,,1,439.82500,263400,None,263400,1,,-9.400,DL3YEN,
 DB0NLH,Borgholzhausen,Nordrhein-Westfalen,Germany,,1,438.45000,263401,None,263401,1,,-7.600,DD5CC,
-DB0VR,Nordhelle-Sauerland 2m,Nordrhein-Westfalen,Germany,Master,1,145.67500,263402,DMR-plus,263402,1,,-0.600,DL1YBL,TS1 TS2
 DB0BOH,Bocholt,Nordrhein-Westfalen,Germany,,1,438.35000,263405,None,263405,1,,-7.600,DL1LEP,
 DB0BOH,Bocholt,Nordrhein-Westfalen,Germany,,1,438.35000,263406,None,263406,1,,-7.600,DL1LEP,
 DB0BI,Bielefeld,Nordrhein-Westfalen,Germany,,1,438.42500,263407,DMR-plus,263407,1,,-7.600,DD5CC,TS1 TS2
@@ -8753,7 +8749,7 @@ W2XRX,Bristol,New York,United States,Master,1,444.82500,314679,"AmComm, BM",3146
 W8MTU,Toledo,Ohio,United States,Master,1,444.02500,314681,BM,314681,1,,+5.000,W8MTU,TS1
 KJ6ZD,Kingman,Arizona,United States,Master,7,445.87500,314683,BM,314683,1,,-5.000,KJ6ZD,TS1 TS2
 K6IG,Colorado Springs,Colorado,United States,Master,1,439.45000,314684,BM,314684,1,TS 2 is for TGIF TG 7352<br>TS 1 is BM US-wide,-5.000,K6IG,TS1
-K5VHM,Joplin,Missouri,United States,Master,1,443.90000,314685,BM,314685,1,31209,+5.00,K5VHM,Mixed Mode
+K5VHM,Joplin,Missouri,United States,Master,1,444.07500,314685,BM,314685,1,31209,+5.000,K5VHM,Mixed Mode
 K4BLA,Mills River,North Carolina,United States,Peer,1,442.56250,314686,BM,314686,1,,+5.00,KQ4CLZ,TS1 TS2
 N4EMA,Defuniak Springs,Florida,United States,Master,1,443.75000,314687,TGIF,314687,1,"Welcome to the Walton County Florida ARES repeater. When Activated we may use our TGIF talk group 9625 to coordinate assets. When not activated we hope to provide a TG to connect with local and out of town Hams interested in everything from Emergency Service, POTA, Satellites, to you name it. All are invited to join us.",+5.000,N4EMA,TS2
 W9MBD,Mattoon,Illinois,United States,Master,4,444.97500,314688,BM,314688,1,,+5.000,W9MBD,Mixed Mode
@@ -9296,7 +9292,7 @@ WP4VW,Shenandoah,,Puerto Rico,Master,1,441.17500,330113,BM,330113,0,TS1: 3100<br
 NP4PC,San Sebastian  Puerto Rico,,Puerto Rico,Master,1,448.65000,330114,BM,330114,1,,-5.000,NP4PC,TS1
 KP3JE,Aguada,,Puerto Rico,Master,1,449.62500,330115,BM,330115,1,,-5.000,KP3JE,TS1
 WP4SBC,Maunabo,All Regions,Puerto Rico,Master,1,438.80000,330116,FreeDMR,330116,1,Bienvenidos a RadioAficionado Digital P.R. Jueyero Isla<br>BM DMR: 330116 en Maunabo P.R. Cuidad Jueyera..Grupo con temas de la radio y otros de inters para los RadioAficionados..Ven y Comparte con Nosotros...,+5.000,WP4SBC,TS2
-KP4LAC,LAJAS,All Regions,Puerto Rico,Master,1,447.97500,330117,BM,330117,1,"TS1 330050, TS2 33027",-5.000,WP3B,TS1 TS2
+KP4LAC,LAJAS,All Regions,Puerto Rico,Master,1,447.97500,330117,BM,330117,1,"TS1 330050, TS2 33027",-5.000,"WP3B, KP3Y",TS1 TS2
 KP4IGI,Bayamon,All Regions,Puerto Rico,Master,1,440.80000,330118,300101127,330118,1,None,+5.000,KP4IGI,Mixed Mode
 KP4NU,Caguas,,Puerto Rico,Peer,1,447.50000,330201,BrandMeister (U.S.A.),330201,1,,-5.000,KP4NU,TS1 TS2
 WP4MXB,Cayey,,Puerto Rico,Master,1,447.20000,330202,Brandmeister,330202,1,,-5.000,WP4MXB,TS1 TS2
