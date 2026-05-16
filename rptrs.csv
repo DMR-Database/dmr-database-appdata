@@ -1755,7 +1755,7 @@ OE2XAP,Tannberg,Salzburg,Austria,Peer,1,438.60000,232223,Brandmeister,232223,0,,
 OE3XWJ,Jauerling,,Austria,Master,1,438.42500,232301,DMR-plus,232301,1,,-7.600,OE1KBC,TS1 TS2
 OE3XRB,Sonntagberg,,Austria,Master,1,438.55000,232302,DMR-plus,232302,0,,-7.600,OE3NRS,TS1 TS2
 OE3XHB,Jauerling,Niederoesterreich,Austria,Master,1,438.42500,232303,DMR-plus,232303,1,,-7.600,OE3NRS,TS1 TS2
-OE3XKC,Kirchberg/Pielach,Niederoesterreich,Austria,Master,1,438.50000,232304,BM,232304,1,,-7.600,OE3KSS,TS1 TS2
+OE3XKC,Kirchberg an der Pielach,Niederoesterreich,Austria,Master,1,438.50000,232304,BM,232304,1,,-7.600,OE3KSS,TS1 TS2
 OE3XNR,Nebelstein,Niederoesterreich,Austria,,1,438.61250,232305,DMR-plus,232305,0,,-7.600,OE3GWU,TS1 TS2
 OE3XNK,Hohe Wand,Niederoesterreich,Austria,,1,438.22500,232306,DMR-plus,232306,0,,-7.600,OE3RPU,TS1 TS2
 OE3XWW,Moenichkirchen MMDVM,Niederoesterreich,Austria,Master,1,438.57500,232307,DMR-plus,232307,1,,-7.600,OE3RPU,TS1 TS2
@@ -1765,7 +1765,7 @@ OE3XCR,Hutwisch,Niederoesterreich,Austria,,1,438.85000,232310,DMR-plus,232310,0,
 OE3XMC,Schwechat,Niederoesterreich,Austria,,1,145.78750,232320,DMR-plus,232320,1,,-0.600,OE3KLU,TS1 TS2
 OE3XMC,Schwechat,Niederoesterreich,Austria,,1,438.98750,232330,DMR-plus,232330,1,,-7.600,OE3KLU,TS1 TS2
 OE3XKV,Hochkar,Niederoesterreich,Austria,,1,438.20000,232333,DMR-plus,232333,0,,-7.600,OE3CDW,TS1 TS2
-OE3XPC,Hinteralm,Niederoesterreich,Austria,,1,438.70000,232341,BM,232341,1,,-7.600,OE3KSS,TS1 TS2
+OE3XPC,Hinteralm,Niederoesterreich,Austria,Peer,1,438.70000,232341,BM,232341,1,,-7.600,OE3KSS,TS1 TS2
 OE3XAV,Kleinhadersdorf,Niederoesterreich,Austria,,1,438.72500,232358,DMR-plus,232358,1,,-7.600,OE3PKB,TS1 TS2
 OE3XTR,Hohe Wand,,Austria,Master,1,438.40000,232391,DMR-plus,232391,0,,-7.600,OE3KLU,TS1 TS2
 OE3XYR,St. Poelten,Niederoesterreich,Austria,,1,438.37500,232392,DMR-plus,232392,1,,-7.600,OE3CDW,TS1 TS2
@@ -4003,7 +4003,7 @@ LZ0TUG,Gabrovo,,Bulgaria,Master,1,438.52500,284030,BM,284030,1,TS1 - 284,-7.6,LZ
 LZ0UNO,SOFIA-City,Sofia City,Bulgaria,Peer,1,438.25000,284031,"FreeDMR, ADN",284031,1,TS1 - TG284 FreeDMR Bulgaria<br>TS2 - TG284 ADN Bulgaria,-7.600,LZ1GSP,TS1 TS2
 LZ0SAN,Sandanski,,Bulgaria,Peer,1,433.50000,284033,ADN,284033,1,TG284. Bulgaria,-0.01,LZ1FA,TS2
 LZ0XLX,Sofia,Sofia City,Bulgaria,Master,1,438.27500,284034,BM,284034,1,,-7.600,LZ3OM,TS1 TS2
-LZ0ADG,Gotse Delchev,,Bulgaria,Master,1,439.60000,284035,DMR-DSTAR-FUSION,284035,1,,-7.6,LZ1ADG,Mixed Mode
+LZ0ADG,Gotse Delchev,Blagoevgrad,Bulgaria,Master,1,439.45000,284035,DMR,284035,1,,-0.000,LZ1ADG,TS2
 LZ0DPM,Pomorie,Burgas,Bulgaria,Master,1,144.85000,284036,BrandMeister,284036,1,,+0.600,LZ1KM,Mixed Mode
 LZ0ZLD,2080 zlatitca,Sofia,Bulgaria,Master,1,438.97500,284037,BM,284037,1,FCS28487,-7.600,LZ1PPD,TS2
 LZ0BLG,ZelenDol,,Bulgaria,Master,1,431.70000,284038,"BM,DMR+",284038,1,ADN SYSTEMS 284-TS2<br>DMR+ 284-TS1<br>BM 2841-TS1,+7.6,LZ3VEK,TS1 TS2
@@ -4028,6 +4028,7 @@ YM1KK,Istanbul,Marmara Region,Turkiye,Peer,1,439.22500,286002,BM,286002,1,9286,-
 YM1KAB,ISTANBUL,Marmara Region,Turkiye,Peer,0,439.23750,286003,BrandMeister,286003,1,None,-7.600,"TA1MLD, YM1KAB",TS1 TS2
 YM1KPL,Tekirdag,Marmara Region,Turkiye,Peer,1,439.41250,286004,BrandMeister,286004,1,None,-7.600,"TA1NDA, YM1KPL, TA1DRD, TA1TEC",TS1
 YM6K,samsun,Black Sea Region,Turkiye,Master,2,439.41250,286005,41.18.53.76,286005,1,None,7.600,TB2PWW,TS1 TS2
+TB7CEA,Ordualtinordu,Black Sea Region,Turkiye,Peer,1,432.75000,286006,0,286006,1,Hicbiri,0.000,TB7CEA,TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.15000,286010,BM,286010,1,286010,-7.600,TA5FW,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.16250,286011,BM,286011,1,286011,-7.600,TA5FW,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.25000,286012,BM,286012,1,286012,-7.600,TA5FW,TS1 TS2
@@ -9665,7 +9666,6 @@ BR6LU,Henan Luoyang,Henan Hubei Anhui,China,Master,1,439.02500,460129,BM.DMR-MAR
 BR6LR,Henan Luoyang,Henan Hubei Anhui,China,Master,1,439.85000,460130,BM.DMR-MARC,460130,1,,-9.000,BA6KA,TS1 TS2
 BR6LN,Henan Luoyang,Henan Hubei Anhui,China,Master,1,439.95000,460131,BM.DMR-MARC,460131,1,,-9.000,BA6KA,TS1 TS2
 BR6LO,Henan Luoyang,Henan Hubei Anhui,China,Master,1,439.92500,460132,BM.DMR-MARC,460132,1,,-9.000,BA6KA,TS1 TS2
-BR3MC,Hebei Hengshui,Shanxi Hebei Tianjin,China,Master,1,438.60000,460134,BM,460134,1,"Hengshui Amateur Radio Relay Station, TS1 is TG460318,TS2 is TG46001",-8.000,BG3NCT,TS1 TS2
 BR6QZZ,Wuhan,Henan Hubei Anhui,China,Master,5,438.80000,460135,https://brandmeister.network/,460135,1,438.800/-8 /88.5/BR6QZZ/BG6TPT,+5.000,BR6QZZ,Mixed Mode
 BR5AK,Hangzhou,Zhejiang Fujian Jiangxi,China,Master,1,145.20000,460136,"BM, Homebrew Net",460136,1,BR5AK is another home-brew mix-mode repeater linked together with BM/TG460501 and works in VHF band.,-0.600,BG5HHP,Mixed Mode
 BH3BEC,Tangshan,Shanxi Hebei Tianjin,China,Master,1,438.25000,460137,BM,460137,1,,-5.00,BH3BEC,TS1 TS2
@@ -9914,6 +9914,7 @@ YH0DVM,Jakarta,DKI Jakarta,Indonesia,Master,11,432.82000,510018,BM,510018,1,,+5.
 YH1AVRU,Kota Bandung,Jawa Barat,Indonesia,Master,1,430.40000,510019,BM,510019,1,510 (TS1),+5.000,YH1AVB,TS1
 YH1RIRU,South Tangerang,Banten,Indonesia,Master,10,430.36000,510020,BM,510020,1,Time Slot#1-Group Call 510 =Indonesia<br>Time Slot2# - Group Call 91 = WORLD Wide,+4.000,YB1RBY,Mixed Mode
 YB2TDP,Rembang,Jawa Tengah,Indonesia,Peer,1,147.50200,510021,BM_5021_Malaysia,510021,1,TG510,+0.600,YB2TDP,TS2
+YH3BAU,Bangkalan,Jawa Timur,Indonesia,Master,1,432.58000,510022,BM,510022,1,,-5.000,YB3CII,TS1 TS2
 YH0DVRA,Bekasi,Jawa Barat,Indonesia,Master,1,438.00000,510023,BM,510023,1,Cibitung Repeater by YB0RWN,+5.0,YB0SPS,TS1 TS2
 DX3NE,CABANATUAN CITY,National Capital Region,Philippines,Peer,1,439.95000,515001,IPSC,515001,0,,-5.000,4F3XAN,TS1 TS2
 DX2EVM,Baguio City,Ilocos Region,Philippines,Peer,1,439.27500,515002,Scan International,515002,0,DX2EVM Scan International Repeater<br>TG- 515015  Slot 2<br>TG- 51546 Slot 1,-5.000,AD1U,TS1 TS2
@@ -10248,7 +10249,7 @@ LU2BFM,Cordoba,Cordoba,Argentina Republic,Master,1,433.60000,722022,TGif network
 LU1COP,Capital Federal,Buenos Aires,Argentina Republic,Master,1,434.90000,722023,"BM, DMR-MARC",722023,1,,+0.600,LU1COP,TS1 TS2
 LU4AE,Villa Lugano,Caba,Argentina Republic,Master,1,434.00000,722024,BRANDMEISTER,722024,1,,+5.000,LU4AE,TS1 TS2
 LU8AQL,Buenos Aires,Buenos Aires,Argentina Republic,Peer,1,434.50000,722025,Brandmeister,722025,1,,+5.000,LU8AQL,TS1 TS2
-LU8AP,Buenos Aires,Buenos Aires,Argentina Republic,None,1,434.00000,722026,Brandmeister,722026,1,,+5.000,LU8AP,TS1 TS2
+LU8AP,Buenos Aires,Buenos Aires,Argentina Republic,Master,1,434.00000,722026,Brandmeister,722026,1,,+5.000,LU8AP,TS1 TS2
 LW1ECE,Lujan,Buenos Aires,Argentina Republic,Peer,1,434.00000,722027,Brandmeister,722027,1,,+5.0000,LW1ECE,TS1 TS2
 LU8AQL,Buenos Aires,Buenos Aires,Argentina Republic,Master,1,433.50000,722028,BM,722028,1,,+5.000,LU8AQL,TS1 TS2
 LU8DRH,Bahia Blanca,Buenos Aires,Argentina Republic,Master,1,434.50000,722029,BM,722029,1,TG72212,+5.0000,LU8DRH,TS1 TS2
