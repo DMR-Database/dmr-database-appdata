@@ -209,6 +209,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 208,W2DEA,Raymond,Marion,Illinois,United States
 209,K4LPD,Luis Raul,High Point,North Carolina,United States
 210,K4LPD,Luis Raul,High Point,North Carolina,United States
+211,VE9HAM,Charles,Fredericton,New Brunswick,Canada
 212,WC4B,Greg,Georgetown,Kentucky,United States
 213,KA3WWE,Michael,Pittsburgh,Pennsylvania,United States
 214,N5MXI,David,Corpus Christi,Texas,United States
@@ -4884,14 +4885,13 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4951,KI4SFG,Brian,Temple,Georgia,United States
 4952,VK3TDH,Trevor D,,Victoria,Australia
 4953,VA3CVS,Cesario,Brampton,Ontario,Canada
-4954,JA0AQX,Takeuchi,Saitama-City,Kanto,Japan
 4955,JA3HRV,Yamashita,Ikuno Osaka,Kinki,Japan
 4956,VU3SMZ,Mukundan,CHENNAI,Tamil Nadu,India
 4957,YO5OTP,Istvan-Levente,Salonta,Alba  Bihor  Bistrita-Nasaud  Cluj  Maramures  Salaj  Satu Mare,Romania
 4958,DL4GCJ,Josef,Tuttlingen,Baden-Wuerttemberg,Germany
 4959,AC5G,Philip,Austin,Texas,United States
 4960,BG5ESC,Zhe,Huzhou,Zhejiang Fujian Jiangxi,China
-4961,YV5TNT,Antonio  Tony,,,Venezuela
+4961,YV5TNT,Tony,Caracas,Distrito Capital,Venezuela
 4962,WB4DX,John H,Wildwood,Florida,United States
 4963,9V1LD,Larry,Singapore,Singapore,Singapore
 4964,JK1INN,Hirata,ATSUGISHI,Kanto,Japan
@@ -9660,7 +9660,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 9788,SV1FKQ,Dimitris,Athens,Attiki  Sterea Ellada  Dytiki Ellada,Greece
 9789,W3AOL,Gary,Elizabeth,Pennsylvania,United States
 9790,N3UO,Brandon,Quakertown,Pennsylvania,United States
-9791,YV5TNT,Antonio  Tony,,,Venezuela
+9791,YV5TNT,Tony,Caracas,Distrito Capital,Venezuela
 9792,ZS5GMW,Garth,Durban,Kwazulu-Natal,South Africa
 9793,SV1JBF,George,Gerakas Athens,Attiki  Sterea Ellada  Dytiki Ellada,Greece
 9794,N7QXH,Michael R,Milwaukie,Oregon,United States
@@ -12328,7 +12328,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 12493,IU8UUY,Pierluigi,Battipaglia,Molise  Campania  Calabria,Italy
 12494,PA2U,Cees,Bavel,Noord-Brabant,Netherlands
 12495,ZS1JA,Jose,Durbanville,Cape,South Africa
-12496,K9BWS,Bradley,Farmland,Indiana,United States
+12496,NW9B,Bradley,Farmland,Indiana,United States
 12497,WP4SKH,Ancel,Morovis,All Regions,Puerto Rico
 12499,2M0JXK,Jack,Edinburgh,Scotland,United Kingdom
 12500,OE2CAL,Walter,Salzburg,Salzburg,Austria
@@ -14348,7 +14348,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 14525,DA6DH,Dankward,Rheinbreitbach,Rheinland-Pfalz  Saarland,Germany
 14526,WK5J,Jorge,Spring,Texas,United States
 14527,TA0V,Levent,Istanbul,Marmara Region,Turkiye
-14528,KO6NKU,Keith,Huntington Beach,California,United States
+14528,K3EEF,Keith,Huntington Beach,California,United States
 14529,KE5LPX,William,Xenia,Ohio,United States
 14530,M9XGS,Grant,Rayleigh,England,United Kingdom
 14531,2E0WVT,Jason,Bilston,England,United Kingdom
@@ -14359,6 +14359,14 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 14536,KM7FUM,Joshua,Chandler,Arizona,United States
 14537,SQ7HIL,Piotr,Stalowa Wola,podkarpackie,Poland
 14538,YC0NLL,Tekad,Jakarta Timur,DKI Jakarta,Indonesia
+14539,EA4IOI,Fran,Madrid,Cadiz,Spain
+14540,IT9VVJ,Vincenzo,Agrigento,Sicily,Italy
+14541,MI6XGZ,jonathan,Lisburn,Northern Ireland,United Kingdom
+14542,F4CQX,Nicolas,Nancy,Grand Est,France
+14543,KF7KOL,Tiesa,Santa Rosa,California,United States
+14544,M3NOU,Darren,Newton-Alfreton,England,United Kingdom
+14545,YT2MKM,Vladan,Belgrade,All Regions,Serbia
+14546,KR4MFX,Fernando,Powder Springs,Georgia,United States
 14688,AA4CB,Christopher G,Ridge Manor,Florida,United States
 14689,IT9GBY,GIOVANNI,PALERMO,,Italy
 14795,NG4P,Kevin L,Cottondale,Florida,United States
@@ -14578,6 +14586,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 19569,TB2DUS,Selimt,Istanbul,Marmara Region,Turkiye
 19997,BG6QBX,Likun,Huanggang,Henan Hubei Anhui,China
 19999,BA7NYV,Kent,Guangzhou,Hunan Guangdong Guangxi Hainan,China
+20001,VO1GME,Geoff,Torbay,Newfoundland,Canada
 20002,VE1AIC,Ronald,Cornwall,Prince Edward Island,Canada
 20003,VE1AIC,Ronald,Cornwall,Prince Edward Island,Canada
 20004,KC3NWL,William R,Levittown,Pennsylvania,United States
@@ -15697,11 +15706,11 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 44002,K2BUI,Eric,The Villages,Florida,United States
 44007,W2DAN,David A,Tiverton,Rhode Island,United States
 44008,VA3UEC,Brandon,Niagara Falls,Ontario,Canada
-44009,KA1MXL,Kevin T,Warwick,Rhode Island,United States
+44009,KA1MXL,Kevin,Warwick,Rhode Island,United States
 44010,N1JBC,Jed,Barrington,Rhode Island,United States
 44011,KB6CIO,Bob,San Miguel,California,United States
 44012,PE1PLM,Guus,Hansweert,,Netherlands
-44022,KA1MXL,Kevin T,Warwick,Rhode Island,United States
+44022,KA1MXL,Kevin,Warwick,Rhode Island,United States
 44023,DS3DIF,Geunjin,Taean,ChungChong Nam-Do,Korea Republic of
 44026,N1GMB,Glenn,West Warwick,Rhode Island,United States
 44027,AA9KJ,Joseph W,Carmel,Indiana,United States
