@@ -270,7 +270,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 270,W7DKC,Lloyd,Aurora,Oregon,United States
 271,K6VIZ,Victor I,Daly City,California,United States
 272,BI7OZD,StoneLee,Foshan City,Hunan Guangdong Guangxi Hainan,China
-273,KD7YXE,Scott,Chico,California,United States
+273,KD7YXE,Scott,Pullman,Washington,United States
 274,KJ7BLE,Christopher J,Bend,Oregon,United States
 275,KB4AAA,Bill,Clearfield,Kentucky,United States
 276,K5BEN,Benjamin,Prosper,Texas,United States
@@ -3208,6 +3208,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3247,N4DRO,Philip,Irving,Texas,United States
 3248,M1MRB,Martin,Carshalton,England,United Kingdom
 3249,WB8ZWI,Felix,Sachse,Texas,United States
+3250,CE4KRC,Jonathan,Chillan,Bio Bio,Chile
 3251,ON4RBL,Raymond,Namur-Bouge,Namur,Belgium
 3252,BI1MPB,Liu,Bei Jing,Beijing,China
 3253,N3EJR,Edwin,Tobyhanna,Pennsylvania,United States
@@ -5572,7 +5573,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 5651,AD8KO,Michael,Port Huron,Michigan,United States
 5652,KA4HOT,Roy,Indianapolis,Indiana,United States
 5653,KQ4FVQ,James,Whitsett,North Carolina,United States
-5654,BG2FTN,Hejia,DaQing HeiLongJiang,Heilongjiang Jilin Liaoning,China
 5655,G4WKW,Richard,St Keverne,England,United Kingdom
 5656,GW6YML,David,Cardiff,Wales,United Kingdom
 5657,IK1NET,Pierangelo,Vigone,Piedmont  Liguria  Aosta,Italy
@@ -6890,7 +6890,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 6987,N3TL,Timothy,Evansville,Indiana,United States
 6988,N4SRF,Bradley,Burkeville,Virginia,United States
 6989,RA4AGH,Vyacheslav,,All Regions,Russia
-6990,M9TRO,Tom,Risca,Wales,United Kingdom
+6990,MW9TRO,Tom,Risca,Wales,United Kingdom
 6991,G4WQL,Mike,Redruth,,United Kingdom
 6992,AB1AU,Robert,Waterville,Maine,United States
 6993,EA5JOO,Juan Antonio,castellon de la plana,Castellon,Spain
@@ -7106,7 +7106,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7205,DL2MIE,Dieter,München,Bayern,Germany
 7206,K8SEL,Joseph,Saint Albans,West Virginia,United States
 7207,DC7WH,Wilfried,Cologne,Nordrhein-Westfalen,Germany
-7208,KQ4OHZ,Justin T,Lawrenceburg,Kentucky,United States
+7208,KQ4OHZ,Justin,Lawrenceburg,Kentucky,United States
 7209,XE1YCA,Alberto,Mexico,Veracruz,Mexico
 7210,GM1FNX,Paul,Darvel,,United Kingdom
 7211,2M0UEA,Elsa,Darvel,,United Kingdom
@@ -8955,7 +8955,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 9079,2M0WUL,William,Castle Douglas,Scotland,United Kingdom
 9080,PD1MM,Marcel,Den Haag,Zuid-Holland,Netherlands
 9081,KQ4VAM,Matthew,Wagener,South Carolina,United States
-9082,PU1WMA,Alvaro,Rio De Janeiro,Rio de Janeiro,Brazil
+9082,PY1WM,Alvaro,Rio De Janeiro,Rio de Janeiro,Brazil
 9083,AK6IL,Sonny F,Sacramento,California,United States
 9084,M7HLB,Nicholas,Newcastle upon Tyne,England,United Kingdom
 9085,F8TGE,Michel,Boe,Nouvelle-Aquitaine,France
@@ -10117,7 +10117,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 10252,Z37S,Radio-Klub,Prilep,All Regions,Macedonia
 10253,MI7USM,Stephen,,Northern Ireland,United Kingdom
 10254,M7IBT,Simon,Uk,England,United Kingdom
-10255,JS1YTG,Hitachi-Digicomm,Hitachi,Kanto,Japan
+10255,JS1YTG,Hitachi Digicomm,Hitachi,Kanto,Japan
 10256,KJ5KAU,Curt,Dallas,Texas,United States
 10257,KE6CZH,Robert,Fontana,California,United States
 10258,VU3FWK,Soumya,Newtown  Kolkata,West Bengal,India
@@ -11243,7 +11243,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 11398,W4EJW,Edward,Cape Coral,Florida,United States
 11399,YD2CFW,Ghaffarel,Surakarta,Jawa Tengah,Indonesia
 11400,KB3HGJ,Anthony,Avonmore,Pennsylvania,United States
-11401,N0WFC,William F,Branson,Missouri,United States
+11401,N0WFC,William,Branson,Missouri,United States
 11402,K0QG,Bill,Las Vegas,Nevada,United States
 11403,LB6OB,Tore,OYER,Innlandet,Norway
 11404,N1DAB,David,Cape Coral,Florida,United States
@@ -14125,7 +14125,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 14303,N5TXL,Jason,Fort Worth,Texas,United States
 14304,9A3DEQ,Drazen,Ogulin,Karlovac,Croatia
 14305,VA3MJI,Mehul,Mississauga,Ontario,Canada
-14306,N5VAN,Christo,North Platte,Nebraska,United States
+14306,N5VAN,Cristopher,North Platte,Nebraska,United States
 14307,PY2MPF,Fernando,Mogi das Cruzes,Sao Paulo,Brazil
 14308,M7LMR,Chris,Birkenhead,England,United Kingdom
 14309,VE2UDA,Club de Radio Amateur VA2CSO,Saint Come,Quebec,Canada
@@ -14397,6 +14397,23 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 14575,NB8K,Patrick,Fredericksburg,Virginia,United States
 14576,KG6OUE,Peter,Vallejo,California,United States
 14577,KF8GLT,Jason,Rootstown,Ohio,United States
+14578,KK7YMB,Oliver,Portland,Oregon,United States
+14579,EA4FBB,Jose,Segura De Leon,Badajoz,Spain
+14580,KK4ACE,Chris,Deerfield Beach,Florida,United States
+14581,M7WYA,Bradley,Burnham-on-Sea,England,United Kingdom
+14582,2E0EOR,DUNCAN,Crawley,England,United Kingdom
+14583,KE2GXA,Lou,Lodi,New Jersey,United States
+14584,ZS4BMX,Dean,Vaalpark,Freestate,South Africa
+14585,W8LTR,Walt,Loveland,Ohio,United States
+14586,KE2HXE,Jonathan,Ithaca,New York,United States
+14587,KR4MIV,Richard,Miami,Florida,United States
+14588,KZ4MW,Wallace,Flag Pond,Tennessee,United States
+14589,YD2BHJ,Sudarwanto,Kendal,Jawa Tengah,Indonesia
+14590,GW0GTZ,Nigel,Llanelli,Wales,United Kingdom
+14591,VE2UDB,David,Victoriaville,Quebec,Canada
+14592,KE2IMU,Chad,Ogdensburg,New York,United States
+14593,KF8CWM,Travis,Vienna,West Virginia,United States
+14594,KN2B,Robert,Lafayette,New Jersey,United States
 14688,AA4CB,Christopher G,Ridge Manor,Florida,United States
 14689,IT9GBY,GIOVANNI,PALERMO,,Italy
 14795,NG4P,Kevin L,Cottondale,Florida,United States
@@ -15978,6 +15995,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 57001,VE3BRA,Canadian Caribbean Amateur Radio Club,Bowmanville,Ontario,Canada
 57002,VE3HTB,David John,Scarborough,Ontario,Canada
 57003,VE3OKZ,Janusz,Oakville On,Ontario,Canada
+57004,VE3CCD,Curtis,Scarborough,Ontario,Canada
 57005,VE3NBI,Anoop K,Markham,Ontario,Canada
 57006,VE3JLU,Sherwin Leo,Toronto,Ontario,Canada
 57007,VA3RQ,Jon,Oakville,Ontario,Canada
