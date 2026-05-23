@@ -2447,7 +2447,7 @@ SK6AG,Gothenburg,,Sweden,,6,434.78750,240602,BM,240602,1,,-2.000,SM6RTN,TS1 TS2
 SK6QA,Stenungsund,Vastra Gotaland,Sweden,Master,6,145.71250,240603,BM,240603,1,,-0.600,SM6WZR,Mixed Mode
 SK6IF,Kungshamn,Vastra Gotaland,Sweden,Master,6,145.67500,240604,BM,240604,1,,-0.600,SM6UDU,TS1 TS2
 SK6DW,Trollhattan,Vastra Gotaland,Sweden,Peer,6,434.87500,240605,BM,240605,1,,-2.000,SM6HNS,TS1 TS2
-SK6RP,Floda,Vastra Gotaland,Sweden,Master,6,434.82500,240607,BM,240607,1,"Talkgroups Timeslot 1  2410, 240216, 240240, 240607<br>Talkgroups Timeslot 2  240, 2406",-2.000,SM6MLH,TS1 TS2
+SK6RP,Hemsjo,Vastra Gotaland,Sweden,Master,6,434.82500,240607,BM,240607,1,"Talkgroups Timeslot 1  2410, 240216, 240240, 240607<br>Talkgroups Timeslot 2  240, 2406",-2.000,SM6MLH,TS1 TS2
 SK6DW,Trollhattan,Blekinge,Sweden,Peer,6,145.76250,240608,BM,240608,0,,-0.600,SM6HNS,TS1 TS2
 SK6IF,Tanum,Vastra Gotaland,Sweden,Master,6,145.57500,240609,BM,240609,1,,-0.600,SM6UDU,TS1 TS2
 SM6TKT,Boras,,Sweden,Master,6,434.55000,240610,BM,240610,0,,-2.000,SM6TKT,TS1 TS2
@@ -5257,7 +5257,7 @@ N6AMG,Mt San Bruno,California,United States,Master,1,440.50000,310673,BM,310673,
 W6YYY,San Jose,California,United States,Master,1,440.03750,310674,SF-TRBO,310674,1,"Mt. Loma Prieta,  California<br> <br>This repeater was transitioned to C-Bridge for a better user experience (read: available capacity).  This followed repeated attempts to contact five different users communicating with others in the Philippines on a near constant basis, monopolizing 50% of repeater resources.     <br><br>__Static Talkgroups<br>Local TS2 / TG2<br>5150 Classic TS2 / TG5150<br>California TS1 / TG3106<br>Southwest TS1 / TG3176<br>Anarchy TS1 / TG31666<br>Comm 1 TS1 / TG3777215<br><br>__Dynamic TGs (Only available on TS1)<br>North America (CB 3) TS1 / TG3<br>Worldwide (CB 1) TS1 / TG1<br>TAC 310 (CB) TS1 / TG310<br>TAC 311 TS1 / TG311<br>TAC 312 TS1 / TG312<br>Parrot TS1 / TG9998<br><br>Contact Name: Greg Forrest / N6LDJ<br>Email: intermod@sngf.org<br><br>",+5.000,N6LDJ,TS1 TS2
 K6RET,Bakersfield,California,United States,Peer,1,442.67500,310675,Brandmeister,310675,1,,+5.000,K6RET,TS1 TS2
 K6LNK,Gualala,California,United States,Master,1,442.07500,310676,BrandMeister,310676,1,,+5.000,N6MVT,TS1 TS2
-W6CX,Walnut Creek,California,United States,Master,1,145.00000,310677,None,310677,1,,+2.500,W6CX,TS1 TS2
+W6CX,Walnut Creek,California,United States,Master,1,145.00000,310677,BrandMeister,310677,1,,+2.500,W6CX,TS1 TS2
 WX6D,Clovis,California,United States,Master,1,440.05000,310678,Mountain West DMR,310678,1,,+5.000,KE6YJC,TS1 TS2
 WD6AML,San Dimas,California,United States,Master,1,447.90000,310679,Western States DMR,310679,1,See westernstatesdmr.com,-5.000,WA6PYJ,TS1 TS2
 W6ELL,Yorba Linda,California,United States,Peer,1,449.46000,310680,BrandMeister,310680,1,,-5.000,W6ELL,TS1 TS2
@@ -5294,6 +5294,7 @@ W6OTX,San Jose,California,United States,Master,1,444.47500,310715,BrandMeister,3
 W6PSA,Escondido,California,United States,Peer,1,446.14000,310716,DCI,310716,1,,-5.000,K7JET,TS1 TS2
 WD6AML,Quartsite,Arizona,United States,Master,1,448.95000,310717,Western States DMR,310717,1,See westernstatesdmr.com,-5.000,WA6PYJ,TS1 TS2
 N6LDJ,Pleasanton,California,United States,Peer,1,444.58750,310719,BrandMeister,310719,1,None,+5.000,N6LDJ,TS1 TS2
+K6BIV,Pittsburg,California,United States,Peer,2,440.60000,310720,BrandMeister,310720,1,None,+5.000,K6BIV,TS1 TS2
 K6VCD,Ventura,California,United States,Master,2,446.32500,310721,BrandMeister,310721,1,,-5.000,K6VCD,TS1 TS2
 W6THC,Carlsbad,California,United States,Peer,7,447.60000,310722,BrandMeister,310722,1,None,-5.000,AA4CD,TS1 TS2
 W6BML,Mount Shasta,California,United States,Master,1,441.27500,310723,D-Star/DMR/C4FM,310723,1,,+5.000,NR6J,TS1 TS2
@@ -9048,6 +9049,9 @@ N1DTA,LAWRENCEBURG,Kentucky,United States,Peer,1,444.76250,315021,kentuckydmr c 
 KA1MXL,warwick,Rhode Island,United States,Master,11,446.52500,315022,freedmr,315022,1,None,-5.000,KA1MXL,Mixed Mode
 W4PCN,Grandy,North Carolina,United States,Peer,1,146.94000,315024,Brandmiester,315024,1,None,-0.600,"W4PCN, KD2U, KY4RY",Mixed Mode
 AI4TM,Memphis,Tennessee,United States,Peer,0,444.57500,315025,Brandmeister,315025,1,None,+5.000,AI4TM,TS2
+N5VGK,houston,Mississippi,United States,Peer,1,444.17500,315026,BRANDMEISTER,315026,1,None<br>6625239600,5.000,N5VGK,TS1 TS2
+W6CX,Clayton,California,United States,Peer,1,144.92500,315027,BrandMeister,315027,1,None,+2.500,W6CX,TS1 TS2
+K4FLK,Key West,Florida,United States,Peer,11,441.52500,315028,Brandmeister,315028,1,Repeater is the CGC Ingham Museum Ship.,+5.000,"K4FLK, K1ST",TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
