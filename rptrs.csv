@@ -3191,6 +3191,7 @@ DB0RKD,Dormagen,Nordrhein-Westfalen,Germany,Master,0,438.31250,262093,P25,262093
 DB0BT,Bayreuth,Bayern,Germany,Master,1,439.90000,262094,BM,262094,1,,-9.4,DL4NAC,TS1 TS2
 DB0LIN,Lindenfels,Hessen,Germany,Peer,1,145.61250,262095,BM,262095,1,,-0.600,DL1MG,TS1 TS2
 DB0NPL,Sassenburg,Niedersachsen / Bremen,Germany,Master,1,439.92500,262096,BM,262096,0,,-9.4,DL1IN,TS1 TS2
+DO2THU,Detmold,Nordrhein-Westfalen,Germany,Peer,7,439.56250,262097,BM,262097,1,,-7.600,DO2THU,TS1 TS2
 DO0NMD,Neumagen-Dhron,Rheinland-Pfalz / Saarland,Germany,Master,1,439.95000,262098,BM,262098,1,"Dieser Repeater ist mit BM DMR Netz verbunden, luft im Slot 1 mit TG 262 TG 9112 TG 26259 TG 270100 im Slot 2 mit TG 2625 TG 8 TG 9 TG 26258",-9.4000,DO4DW,TS1 TS2
 DB0BRO,Brocken/Harz,,Germany,,1,439.43750,262099,,262099,0,,-7.600,DG0CBP,
 DM0MOT,Berlin/Tegel,,Germany,Peer,1,439.52500,262100,BM,262100,1,,-7.600,DJ0WH,TS1 TS2
@@ -3293,7 +3294,7 @@ DB0GZ,Alfeld,Niedersachsen / Bremen,Germany,Master,1,439.35000,262210,BM,262210,
 DB0AT,Ribnitz-Damgarten,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Master,1,438.80000,262212,BM,262212,1,,-7.6,DB3MAX,TS1 TS2
 DB0KPI,Elmshorn,Hamburg / Schleswig-Holstein,Germany,Master,1,439.42500,262213,BM,262213,1,Relais in Testphase<br>TS1: TG262 Deutschland | <br>TS2: TG9 Local | TG8 Regio --> TG26221 Region Hamburg-City | TG262213 (extern --> local TG9),-7.600,DL8AAJ,TS1 TS2
 DB0GE,Erkelenz,Nordrhein-Westfalen,Germany,Master,1,439.56250,262214,BM,262214,1,,-7.600,DG2KCB,TS1 TS2
-DB0GE,Erkelenz,Nordrhein-Westfalen,Germany,Master,1,438.20000,262215,"BM,IPSC2,C4FM, FM  Multimode.718",262215,1,"Multimode , BM,IPSC2, DMR, C4FM,FM",-7.600,DG2KCB,Mixed Mode
+DB0GE,Erkelenz,Nordrhein-Westfalen,Germany,Master,1,438.53750,262215,"BM,IPSC2,C4FM, FM  Multimode.718",262215,1,"Multimode , BM,IPSC2, DMR, C4FM,FM",-7.600,DG2KCB,TS1 TS2
 DB0JB,Jueterbog,Berlin / Brandenburg,Germany,Master,1,439.13750,262216,BM,262216,1,,-7.600,DL4YBG,TS1 TS2
 DO0IN,Theissing,Bayern,Germany,Master,1,438.63750,262217,BM,262217,1,No TG Info available,-7.6,DO3MHA,TS1
 DO0BN,Schoenberg,,Germany,,1,438.12500,262218,None,262218,1,,0.000,DK2BN,TS1 TS2
@@ -3338,8 +3339,10 @@ DB0ANT,Wolfenbuettel,Niedersachsen / Bremen,Germany,Master,1,145.68750,262258,Br
 DB0RDS,Hassmoor,Hamburg / Schleswig-Holstein,Germany,Peer,1,438.55000,262259,2001,262259,1,None,7.600,DJ2TH,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,262260,DMR-plus,262260,1,,-7.600,DL5KUA,TS1 TS2
 DB0GSH,Goslar,Niedersachsen / Bremen,Germany,Peer,1,438.20000,262261,ipsc,262261,1,None,-7.600,DL4ABN,TS1 TS2
+DB0WI,erkelenz,Nordrhein-Westfalen,Germany,Master,1,438.67500,262262,ipsc 2,262262,1,None,-7.600,DG2KCB,TS1 TS2
 DO0OHO,Heiligenhafen,,Germany,,1,438.87500,262263,BM,262263,1,,-7.600,DO3LMR,TS1 TS2
 DB0MDW,Meddewade,,Germany,,1,439.53750,262264,DMR-plus,262264,1,,7.600,DG4HA,TS1 TS2
+DM0UHF,Erkelenz,Nordrhein-Westfalen,Germany,Peer,1,439.45625,262265,brandmeister,262265,1,None,-7.600,DG2KCB,TS1 TS2
 DB0IL,Kiel,,Germany,,1,438.42500,262266,BM,262266,1,,-7.600,DL4LBY,TS1 TS2
 DB0SY,Fmt. HH-Lohbruegge,,Germany,,1,438.62500,262270,DMR-plus,262270,0,,-7.600,DL3HBO,TS1 TS2
 DB0XH,JO53CL,,Germany,,1,439.20000,262271,DMR-plus,262271,0,,-7.600,DL3HBO,TS1 TS2
@@ -3502,6 +3505,7 @@ DB0CW,Gummersbach,Nordrhein-Westfalen,Germany,,1,145.66250,262454,DMR-plus,26245
 DB0CW,Gummersbach,,Germany,Peer,1,439.48750,262455,DMR-plus,262455,1,,-7.600,DJ3CW,TS1 TS2
 DB0MON,Nordeifel/Kreis AC,Nordrhein-Westfalen,Germany,Peer,1,439.77500,262456,DMR-plus,262456,0,,-9.400,DH6KQ,TS1 TS2
 DM0RS,Remscheid,Nordrhein-Westfalen,Germany,,1,438.81250,262457,DMR-plus,262457,1,,-7.600,DC0EC,TS1 TS2
+DO0WT,Lemgo,Nordrhein-Westfalen,Germany,,1,439.92500,262458,BM,262458,1,,-9.400,DO2THU,TS1 TS2
 DO0KLV,Kleve,Nordrhein-Westfalen,Germany,,2,439.40000,262459,BM,262459,1,,-7.600,DO1KVH,TS1 TS2
 DB0DBN,Oelberg/Bonn,Nordrhein-Westfalen,Germany,Peer,1,439.97500,262460,DMR-plus,262460,1,,-9.400,DL1YBL,TS1 TS2
 DB0DBN,Oelberg/Bonn,Nordrhein-Westfalen,Germany,,1,438.38750,262461,BM,262461,1,,-7.600,DL1YBL,TS1 TS2
@@ -3838,7 +3842,7 @@ DB0DMO,Neuss,Nordrhein-Westfalen,Germany,,1,430.37500,263408,None,263408,1,,0.00
 DO0KB,Kerpen,Nordrhein-Westfalen,Germany,Peer,1,439.16250,263409,BM,263409,1,"TS1: 262<br>TS2: 9112, 2624, 26241, 26223,",-7.600,DO3BOX,TS1 TS2
 DB0DE,Kaarst,Nordrhein-Westfalen,Germany,,1,438.07500,263410,None,263410,1,,7.600,DG5EV,
 DB0WG,Warstein-Suttrop,Nordrhein-Westfalen,Germany,,1,144.85000,263444,None,263444,1,,0.000,DL3SS,
-DB0ERK,41836 Hckelhoven,Nordrhein-Westfalen,Germany,Master,1,438.83750,263499,BM,263499,1,,-7.600,DG2KCB,TS1 TS2
+DB0ERK,hueckelhoven,Nordrhein-Westfalen,Germany,Master,1,438.83750,263499,BM,263499,1,hckelhoven,-7.600,DG2KCB,TS1 TS2
 DB0HAS,Zeil am Main,Bayern,Germany,,1,439.97500,263801,DMR-plus,263801,1,,-9.400,DG8NCY,TS1 TS2
 DB0AM,Amberg,Bayern,Germany,,1,438.28750,263803,DMR-plus,263803,1,,0.000,DC6RN,TS1 TS2
 DB0BMW,Pentling,Bayern,Germany,,1,438.76250,263804,None,263804,1,,7.600,DL7GA,
@@ -5571,7 +5575,7 @@ K5NKK,Live Oak,Texas,United States,20,1,444.02500,311016,BrandMeister,311016,1,"
 N3QEM,Rehoboth Beach,Delaware,United States,Peer,1,927.70000,311017,Interstate,311017,1,NOVA DMR Portable Repeater 1,-25.000,N3QEM,TS1 TS2
 KF7LRD,Crown King,Arizona,United States,Peer,1,449.87500,311019,AZ-TRBONET-DMR-MARC,311019,1,Time Slot #1 - Group Call 1 = World Wide (PTT)<br>Time Slot #1 - Group Call 9 = Northern AZ Repeater Group only<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America (PTT)<br>Time Slot #1 - Group Call 310 = TAC 310 (PTT)<br>Time Slot #1 - Group Call 310 = TAC 311 (PTT)<br>Time Slot #2 - Group Call 2 = AZ/NM Local<br>Time Slot #2 - Group Call 3100 = DCI Bridge (PTT)<br>Time Slot #2 - Group Call 3104 = AZ Statewide<br>Time Slot #2 - Group Call 3135 = NM STATEWIDE<br>Time Slot #2 - Group Call 3176 = Regional SW (PTT)<br>Time Slot #2 - Group Call 3185 = Cactus Radio Club (open)<br>PTT= Disconnects after 10 mins. if there's no local key up<br><br>You Must Have [ARS] Disabled Within Your Radio<br>,-5.00,KF7LRD,TS1 TS2
 W5QLD,Corpus Christi,Texas,United States,Master,1,441.35000,311020,BrandMeister,311020,1,,5.000,W5QLD,TS1 TS2
-W4PCN,Mamie,North Carolina,United States,Peer,1,147.06000,311021,Brandmeister,311021,1,31377,+0.6000,"W4PCN, KD2U, KY4RY",TS1
+W4PCN,Mamie,North Carolina,United States,Peer,1,147.06000,311021,Brandmeister,311021,1,31377,+0.6000,"KD2U, W4PCN, KY4RY",TS1
 W7ACS,Seattle,Washington,United States,Peer,2,441.02500,311022,SeattleDMR.org,311022,0,"Located in Lake Forest Park, north of Seattle.<br>Part of SeattleDMR.org bridge and linked to PNW DMR Network.",+5.000,W7ACS,TS1 TS2
 KJ5UFO,Roswell,New Mexico,United States,Peer,1,444.30000,311023,AZ Turbo,311023,1,"TG1,2,3,13,310,311,3100,3176,3185,3186, Local 2, English 13",+5.000,KJ5UFO,1 and 2
 WD0HDR,Evans,Colorado,United States,Peer,2,445.57500,311024,BM,311024,1,,-5.000,WD0HDR,TS1 TS2
@@ -5580,7 +5584,7 @@ N5RGA,Texarkana,Texas,United States,Master,9,444.42500,311026,cbridge 2.0,311026
 W8LD,Buckhannon,West Virginia,United States,Master,1,442.67500,311027,BrandMeister,311027,1,TG3154 West Virginia on TS2,+5.000,KC8JDC,2
 KD8ORN,Logan,Ohio,United States,Peer,1,442.35000,311028,brandmeister,311028,1,TG 2 TS 2 Local<br>TG 311028 TS 2 Repeater<br>TG 3139 TS 1 Ohio<br>TG 31393 TS 1 SE Ohio<br>TG 313953 TS 1 Southern Ohio<br>TG 31390 TS 1 Ohio TAC<br>TG 31098 TS 1 8 Call<br>TG 310 TS 1 TAC 310<br>TG 311 TS 1 TAC 311<br>TG 312 TS 1 TAC 312<br>TG 93 TS 1 North America<br>TG 913 TS 1 WW English,+5.000,KD8ORN,TS1 TS2
 N1TVI,PAINESVILLE,Ohio,United States,Peer,1,443.47500,311029,N8NOD,311029,1,N8NOD C-BRIDGE,+5.00,N1TVI,TS1 TS2
-WA3UC,Union City,Pennsylvania,United States,Master,1,441.90000,311030,BrandMeister,311030,1,WPA ARES DMR Repeater System,+5.000,N3KGD,2
+WA3UC,Union City,Pennsylvania,United States,Master,1,441.90000,311030,BrandMeister,311030,1,WPA ARES DMR Repeater System,+5.000,N3KGD,TS1
 N3TPE,Middletown,Delaware,United States,Peer,10,440.35000,311031,Brandmeister,311031,1,This is a local new castle delaware machine with about 10 mile coverage,+5.00,N3TPE,TS1 TS2
 N4KCD,Commerce Township,Michigan,United States,Peer,1,442.97500,311032,Brandmeister,311032,1,TAC310<br>TAC311<br>Midwest Regional,+5.000,N4KCD,Mixed Mode
 WB8SFY,Commerce Twp.,Michigan,United States,Peer,5,446.50000,311033,DMR-MARC,311033,1,,-5.000,WB8SFY,TS1 TS2
@@ -7635,7 +7639,7 @@ N3JCS,Cape May Courthouse,New Jersey,United States,Peer,1,447.76250,313417,NJ-TR
 K2NYX,Jackson,New Jersey,United States,Peer,6,443.61250,313418,Dmr-marc,313418,1,,+5.000,K2NYX,TS1 TS2
 N2IXU,Toms River,New Jersey,United States,Peer,1,441.90000,313420,Bronx-TRBO,313420,1,"Time Slot<br>#1 - Group Call TG 444 NY Metro System wide-FT<br>#1 - Group Call TG 1 = World Wide -PTT<br>#1 - Group Call TG 3 = North America - PTT<br>#1 - Group Call TG 13 = World Wide English-PTT<br>#1 - Group Call TG 3172 = NE / Regional-PTT<br>#1 - Group Call TG 310 = Tac 310- PTT<br>#1 - Group Call TG 311 = Tac 311- PTT<br>#1 - Group Call TG 9998 = Parrot , Audio Test Server-PTT<br>#2 - member only private Talk Groups<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Bernie, NY4Z<br>Email: ny4z@yahoo.com",+5.000,N2IXU,TS1 TS2
 WA2JWR,Toms River,New Jersey,United States,Peer,3,445.77500,313421,Bronx-TRBO,313421,1,"Time Slot<br>#1 - Group Call TG 444 NY Metro System wide-FT<br>#1 - Group Call TG 1 = World Wide - PTT<br>#1 - Group Call TG 3 = North America - PTT<br>#1 - Group Call TG 13 = World Wide English-PTT<br>#1 - Group Call TG 3172 = NE / Regional-PTT<br>#1 - Group Call TG 310 = Tac 310 -PTT<br>#1 - Group Call TG 311 = Tac 311 -PTT<br>#1 - Group Call TG 312 = Tac 312 -PTT<br>#1 - Group Call TG 3100 = DCI Bridge -PTT<br>#1 - Group Call TG 9998 = Parrot , Audio Test Server-PTT<br>#2 - member only private Talk Groups<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Bernie, NY4Z<br>Email: ny4z@yahoo.com",-5.000,WA2JWR,TS1 TS2
-N2ICV,Cape May,New Jersey,United States,None,2,443.05000,313422,BrandMeister,313422,1,BrandMeister,+5.000,N2ICV,TS1 TS2
+N2ICV,Malaga,New Jersey,United States,Master,2,443.05000,313422,BrandMeister,313422,1,BrandMeister,+5.000,N2ICV,TS1 TS2
 KM4WUD,Paramus,New Jersey,United States,Master,0,444.15000,313423,MotoDMR,313423,1,"Callsign: KM4WUD<br>Frequency: 444.150<br>Offset: +5.000<br>Color Code: 0<br><br>Paramus, New Jersey<br><br>Time Slot: 1<br>Group Call: 1 = Worldwide (PTT)<br>Group Call: 3 = North America (PTT)<br>Group Call: 13 = Worldwide English (PTT)<br>Group Call: 91 = BM-Worldwide (PTT)<br>Group Call: 93 = BM-North America (PTT)<br>Group Call: 113 = UA English 1 (PTT)<br>Group Call: 123 = UA English 2 (PTT)<br>Group Call: 133 = DMR+ USA (PTT)<br>Group Call: 143 = DMR+ UK (PTT)<br>Group Call: 310 = TAC-310 (PTT)<br>Group Call: 311 = TAC-311 (PTT)<br>Group Call: 312 = TAC-312 (PTT)<br>Group Call: 313 = TAC-313 (PTT)<br>Group Call: 314 = TAC-314 (PTT)<br>Group Call: 315 = TAC-315 (PTT)<br>Group Call: 316 = TAC-316 (PTT)<br>Group Call: 317 = TAC-317 (PTT)<br>Group Call: 318 = TAC-318 (PTT)<br>Group Call: 319 = TAC-319 (PTT)<br>Group Call: 444 = NY-Metro (ON)<br>Group Call: 3100 = Bridge-3100 (PTT)<br>Group Call: 3172 = Northeast Region (PTT)<br>Group Call: 9998 = Parrot (PTT)<br>Group Call: 31089 = Hytera USA (PTT)<br>Group Call: 31360 = Tri-State (PTT)<br>Group Call: 347639 = ABC/Disney Network (PTT)<br><br><br><br>Time Slot: 2<br>Group Call: 9 = Local Repeater (ON)<br>Group Call: 3134 = New Jersey (PTT)<br>Group Call: 3136 = New York (PTT)<br>Group Call: 31342 = North Jersey (ON)",+5.000,KD2KWD,TS1 TS2
 KC2WBJ,Kendall Park,New Jersey,United States,Master,1,440.76250,313425,BrandMeister,313425,1,None,+5.000,KB2EAR,TS1 TS2
 KD0TGF,Hartland,Minnesota,United States,Master,2,442.09375,313426,KD0TGF-Network,313426,1,TS1 TG 31272<br>TS1 TG 312734<br>TS2 TG 3127,+5.000,KD0TGF,TS1 TS2
@@ -7903,7 +7907,7 @@ K4OBX,Corolla,North Carolina,United States,Master,1,444.33750,313726,NC-PRN,3137
 WG8E,Charlotte,North Carolina,United States,Master,4,443.22500,313727,WV DMR,313727,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeaters Coverage Area (http://24.172.25.174:85/resources/beckley_coverage_map.jpg)<br><br>Contact Name: Tucker, WG8E<br>Email: tsizemore@gmail.com",+5.000,WG8E,TS1
 K4OBX,Buxton,North Carolina,United States,Master,1,444.06250,313728,NC PRN,313728,0,,+5.000,K4OBX,TS1 TS2
 WA4NC,Sugar Mountain,North Carolina,United States,Peer,1,442.08750,313730,NC PRN,313730,1,,+5.000,WA4NC,TS1 TS2
-W4PCN,Mamie,North Carolina,United States,Peer,1,442.85000,313731,NC PRN,313731,1,,+5.000,"W4PCN, KD2U, KY4RY",TS1 TS2
+W4PCN,Mamie,North Carolina,United States,Peer,1,442.85000,313731,NC PRN,313731,1,,+5.000,"KD2U, W4PCN, KY4RY",TS1 TS2
 W4MLN,West Jefferson,North Carolina,United States,Peer,1,444.73750,313732,NC-PRN,313732,1,,+5.000,W4MLN,TS1 TS2
 WB4YNF,Hertford,North Carolina,United States,Peer,1,442.16250,313733,PRN,313733,1,,+5.000,WB4YNF,TS1 TS2
 K4OBX,Duck,North Carolina,United States,Peer,1,442.63750,313735,ECS,313735,1,Time Slot #1 - Group Call 1 = World Wide (PTT)<br>Time Slot #1 - Group Call 13= WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = Local<br>Time Slot #2 - Group Call 3174- Southeast Regional<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Contact: K4OBX<br>Email: randyjordan@embarqmail.com<br>Website: http://dmr-ecs.org,+5.000,K4OBX,TS1 TS2
@@ -9047,11 +9051,11 @@ N1DTA,Lebanon,Kentucky,United States,Peer,1,440.87500,315019,kentuckydmr c bidge
 N1DTA,Burkesville,Kentucky,United States,Peer,1,443.36250,315020,kentuckydmr c bidge,315020,1,None,+5.000,"N1DTA, W4WSM",TS1 TS2
 N1DTA,LAWRENCEBURG,Kentucky,United States,Peer,1,444.76250,315021,kentuckydmr c bidge,315021,1,None,+5.000,"N1DTA, W4WSM",TS1 TS2
 KA1MXL,warwick,Rhode Island,United States,Master,11,446.52500,315022,freedmr,315022,1,None,-5.000,KA1MXL,Mixed Mode
-W4PCN,Grandy,North Carolina,United States,Peer,1,146.94000,315024,Brandmiester,315024,1,None,-0.600,"W4PCN, KD2U, KY4RY",Mixed Mode
+W4PCN,Grandy,North Carolina,United States,Peer,1,146.94000,315024,Brandmiester,315024,1,None,-0.600,"KD2U, W4PCN, KY4RY",Mixed Mode
 AI4TM,Memphis,Tennessee,United States,Peer,0,444.57500,315025,Brandmeister,315025,1,None,+5.000,AI4TM,TS2
 N5VGK,houston,Mississippi,United States,Peer,1,444.17500,315026,BRANDMEISTER,315026,1,None<br>6625239600,5.000,N5VGK,TS1 TS2
 W6CX,Clayton,California,United States,Peer,1,144.92500,315027,BrandMeister,315027,1,None,+2.500,W6CX,TS1 TS2
-K4FLK,Key West,Florida,United States,Peer,11,441.52500,315028,Brandmeister,315028,1,Repeater is the CGC Ingham Museum Ship.,+5.000,"K4FLK, K1ST",TS1 TS2
+K4FLK,Key West,Florida,United States,Master,11,441.52500,315028,Brandmeister,315028,1,Repeater is the CGC Ingham Museum Ship.,+5.000,"K4FLK, K1ST",TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
@@ -9606,7 +9610,7 @@ BR8SQJ,QuJing YunNan,Sichuan Guizhou Chongqing Yunnan,China,Master,1,439.87500,4
 BR2RSA,Shenyang,Heilongjiang Jilin Liaoning,China,Master,10,439.37500,460032,DMR-MARC,460032,1,Chinese Radio Sports Association,-7.600,BD2VAA,TS1 TS2
 BR5AL,Hangzhou,Zhejiang Fujian Jiangxi,China,Master,1,439.87500,460034,"BM, HomeBrew Net",460034,1,"BR5AL is a home-brew mmdvm repeater made by BG5HHP(for the all software part) and BG5HXE(for the all radio hardware part)<br><br>It was known as repeater(460501)<br><br>And TG460501 is linked to YSF reflector ""CN CC#1"" (18829) , the dashboard address: https://mmdvm.cc/ysf/<br><br>Call= BR5AL<br><br>Power= 12 Watt<br><br>Height= 400m<br><br>Radio= GP88 for RX and UP450 for TX, A harden NTH-version-based modem board<br><br>Host Box= OpenWrt Linux Box (MT7620 chip with 128M/32M) + DRCC-DVM modem board<br><br>Slot2: Linked to local RF: 439875/CC1/TG460501<br><br>Slot1: Local-only RF : CC1/TG1",-9.000,BG5HHP,Mixed Mode
 BR8SCX,ChuxiongYunnan,Sichuan Guizhou Chongqing Yunnan,China,Master,15,439.73500,460038,China Mobile,460038,1,TG46001<br>TG460871,-10.000,"BH8SEL, BH8SEK",TS1
-BR6QAE,Anhui,Henan Hubei Anhui,China,Master,8,439.55000,460039,BM,460039,1,TG46001<br>TG460553,-8.000,BG6FEA,TS1 TS2
+BR6QAE,Anhui,Henan Hubei Anhui,China,Master,8,439.55000,460039,BM,460039,1,TG46001<br>TG460553,-8.000,"BG6FEA, BG6GTU",TS1 TS2
 BR9GB,Lanzhou,Shaanxi Ningxia Gansu Qinghai,China,Peer,1,431.90000,460040,BM,460040,1,"TG46001,TG460931",+8.000,BG9GYH,TS1 TS2
 BR4SN,XuZhou,Shanghai Shandong Jiangsu,China,Master,1,438.55000,460041,BM,460041,1,,-4.975,BD4TWO,TS1 TS2
 BR4SN,Suining,Shanghai Shandong Jiangsu,China,Master,1,438.80000,460042,BrandMeister,460042,1,,-5.000,BD4TWO,TS1 TS2
