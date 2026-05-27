@@ -1303,6 +1303,7 @@ IR0ZWG,Itri,Lazio / Umbria / Sardinia,Italy,Master,1,145.77500,DMR-plus,41.26801
 IR8ZXL,Montoro,Molise / Campania / Calabria,Italy,Master,1,144.93750,BM,40.8221700,14.7563100,222466,None,0.000,ACTIVE,IZ0THD,TS2
 IR8ZXJ,REGGIO CALABRIA,Molise / Campania / Calabria,Italy,Master,1,430.15000,192.168.1.2,38.0719280,15.6747910,222467,None,16,ACTIVE,IT9HJH,TS1
 IR9ZVV,ITALA,Sicily,Italy,Peer,1,430.07500,192.168.1.3,38.0638200,15.4030380,222468,None,16.000,ACTIVE,IT9HJH,TS1
+IR8ZXF,Roccella Ionica,Molise / Campania / Calabria,Italy,Peer,1,430.02500,BM,38.3403300,16.4114700,222469,None,1.600,ACTIVE,IW8RQI,TS1 TS2
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,DMR-plus,43.851292,10.667000,222500,,+5.000,ACTIVE,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,DMR-plus,43.831721,11.1992239,222501,,5.000,ACTIVE,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,BM,44.0094968,10.1019306,222502,,5.000,ACTIVE,IK5BNG,TS1 TS2
@@ -3665,7 +3666,6 @@ DB0FMS,Reutlingen,Baden-Wuerttemberg,Germany,,1,439.33750,BrandMeister,48.505791
 DB0LBG,Esslingen,Baden-Wuerttemberg,Germany,Master,1,438.33750,BM DMR-plus,48.770500,9.296200,262755,,-7.600,ACTIVE,DG2SDW,TS1 TS2
 DB0TTM,Herbsthausen,Baden-Wuerttemberg,Germany,,5,438.55000,BM,49.4044371,9.8311704,262756,,-7.600,ACTIVE,DL2SEK,
 DB0OFI,Ostfildern,Baden-Wuerttemberg,Germany,,1,439.93750,None,48.7178603,9.2630693,262757,,9.400,ACTIVE,DG2SDK,
-DO0LH,Lauchheim,Baden-Wuerttemberg,Germany,Peer,1,439.23750,Brandmeister,48.8736283,10.2487381,262758,,7.600,ACTIVE,DO1SN,Mixed Mode
 DB0TIT,Titisee-Neustadt,Baden-Wuerttemberg,Germany,,1,439.48750,None,47.947441,8.233260,262759,,-7.600,ACTIVE,DG2GG,
 DB0ULM,Ulm,Baden-Wuerttemberg,Germany,,1,439.58750,None,48.419941,9.946230,262761,,-7.600,ACTIVE,DF2DR,
 DB0REU,Reutlingen,Baden-Wuerttemberg,Germany,,1,439.57500,BrandMeister,48.4919508,9.2114144,262762,,-7.600,ACTIVE,DK6TE,
@@ -4614,7 +4614,7 @@ VE3FDW,WALLACEBURG,Ontario,Canada,Master,7,146.30000,BM,42.5788698,-82.1802792,3
 VA7KEL,Kelowna,British Columbia,Canada,Peer,1,444.82500,BM,49.96705452,-119.53045019,302449,"Talk groups: 302020,  30271, 302,  3027,  30272, 3025",+5.000,ACTIVE,VE7BST,TS1 TS2
 VA2TDF,Outremont,Quebec,Canada,Peer,1,443.50000,Brandmaster,45.5152925,-73.6015691,302450,Répeteur Hytera HR652 UHF utilisé en intérieur tant que DMR Hotspot.,-10.000,ACTIVE,VA2FR,TS1 TS2
 VA3ZZM,Sault Ste-Marie,Ontario,Canada,Peer,2,147.15000,BM,46.566222,-84.36125,302451,,+0.6,ACTIVE,VA3FYX,Mixed Mode
-VE1KFQ,Sandy  Cove,Nova Scotia,Canada,Peer,1,145.45000,BM,44.3991260,-66.1899440,302452,"TS 1 - local<br>TS 1 - 2 Atlantic Canada<br>TS 1 - 3020 Newfoundland and Labrador, PEI Wide<br>TS 1 - 3021  Nova Scotia<br>TS 1 - 3023 Ontario<br>TS 1 - 3029 New Brunswick<br>TS 2 - 3100 US Wide<br>TS 2 - 91 Worldwide<br>TS 2 - 93 North America<br>TS 2 - 302 Canada Wide<br>TS 1 - 310 TAC 310<br>TS 1 - 310997 PARROT",-0.600,ACTIVE,VE1KFQ,TS1 TS2
+VE1KFQ,Sandy  Cove,Nova Scotia,Canada,Peer,1,145.45000,BM,44.3991260,-66.1899440,302452,"TS 2 - 302452 Local<br>TS 2 - 30205 Atlantic Canada<br>TS 2 - 3020 Newfoundland and Labrador, PEI<br>TS 2 - 3021 Nova Scotia<br>TS 2 - 3023 Ontario<br>TS 2 - 3029 New Brunswick<br>TS 2 - 30206 Atlantic / CANWARN<br>TS 1 - 913 Worldwide English<br>TS 1 - 93 North America<br>TS 1 - 302 Canada Wide<br>TS 1 - 310 TAC 310<br>TS 1 - 310997 PARROT",-0.600,ACTIVE,VE1KFQ,TS1 TS2
 VE3TNK,Mississauga,Ontario,Canada,Master,1,145.17000,BM,43.5930,-79.78917,302453,,-0.6,ACTIVE,VA3UV,TS1 TS2
 VE1MCM,Currys Corner,Nova Scotia,Canada,Peer,1,442.12500,BM,44.974765,-64.129338,302454,Coverage approximately 20 Km radius<br>Windsor and surrounding area<br>Yaesu DR-1X converted to DMR<br>Commercial 4 bay Sinclair folded dipole 30 feet AGL<br>TG3021 Nova Scotia and TG 30205 Atlantic Canada,+5.000,ACTIVE,VE1LJ,TS1 TS2
 VE3MBR,OWEN SOUND,Ontario,Canada,Peer,1,444.42500,BM,44.569834,-80.911539,302455,,+5.000,ACTIVE,VE3RNK,TS1 TS2
@@ -9053,7 +9053,7 @@ KA1MXL,warwick,Rhode Island,United States,Master,11,446.52500,freedmr,-41.042300
 W4PCN,Grandy,North Carolina,United States,Peer,1,146.94000,Brandmiester,36.1357994,-75.8239750,315024,None,-0.600,ACTIVE,"KD2U, W4PCN, KY4RY",Mixed Mode
 AI4TM,Memphis,Tennessee,United States,Peer,0,444.57500,Brandmeister,35.1919420,-89.8979510,315025,None,+5.000,ACTIVE,AI4TM,TS2
 N5VGK,houston,Mississippi,United States,Peer,1,444.17500,BRANDMEISTER,33.8798000,-88.9860000,315026,None<br>6625239600,5.000,ACTIVE,N5VGK,TS1 TS2
-W6CX,Clayton,California,United States,Peer,1,144.92500,BrandMeister,37.8947030,-121.8990980,315027,None,+2.500,ACTIVE,W6CX,TS1 TS2
+W6CX,Clayton,California,United States,Peer,1,144.92500,BrandMeister,37.8947030,-121.8990980,315027,None,+2.500,ACTIVE,"W6CX, K6SOE",TS1 TS2
 K4FLK,Key West,Florida,United States,Master,11,441.52500,Brandmeister,24.5520412,-81.8077650,315028,Repeater is the CGC Ingham Museum Ship.,+5.000,ACTIVE,"K4FLK, K1ST",TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,DMRVA,37.5358149,-77.3821587,315101,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,ACTIVE,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,NC-PRN-,36.6474353,-80.6437257,315102,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,ACTIVE,WX4F,TS1 TS2
