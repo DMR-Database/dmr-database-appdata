@@ -617,6 +617,7 @@ ED3YBK,Esparreguera,Barcelona,Spain,Master,1,145.57500,214021,BM,214021,1,TG 214
 ED5ZAQ,Higueruela,Albacete,Spain,Master,1,438.40000,214022,BM,214022,1,,-7.600,EA5SW,TS1 TS2
 ED1YBL,Parada Sil - Ourense,Ourense,Spain,Master,1,145.63750,214025,BM,214025,1,None,-0.600,EA1CI,Mixed Mode
 ED1YBK,Sabadelle - Ourense,Ourense,Spain,Master,1,438.25000,214026,BM,214026,1,None,-7.600,EA1CI,Mixed Mode
+EA4GTP,Mostoles,Madrid,Spain,Peer,1,438.45000,214027,192.168.1.10,214027,1,None,-7.600,EA4GTP,TS1 TS2
 ED1ZAS,San Martin,,Spain,,1,438.22500,214102,BM,214102,1,,-7.600,EB1TK,TS1 TS2
 ED1YBQ,Bejar,,Spain,,1,438.65000,214103,DMR-plus,214103,0,,-7.600,EA1EZ,TS1 TS2
 ED1ZAU,Monte Naranco Oviedo,,Spain,,1,438.50000,214104,BM,214104,1,,-7.600,EB1TK,TS1 TS2
@@ -920,7 +921,7 @@ IR4UCO,Bologna,Emilia-Romagna,Italy,Peer,1,430.61250,222046,BM,222046,1,,+5.000,
 IR7UCJ,Bari,Apulia / Basilicata,Italy,Master,1,430.43750,222047,BM,222047,1,,+5.000,IZ7SIA,TS1 TS2
 IR5UEC,Lucca,Tuscany,Italy,Master,1,430.08750,222048,BM,222048,1,,+5.000,IU5AAG,TS1 TS2
 IR0UJM,SEZZE,Lazio / Umbria / Sardinia,Italy,Master,1,430.52500,222049,BM,222049,1,,+5.000,IZ0RIM,TS1 TS2
-IR0UGM,M.te Cosce,,Italy,,1,430.17500,222050,None,222050,1,,1.600,IW0REF,TS1 TS2
+IR0UGM,Configni,Lazio / Umbria / Sardinia,Italy,Peer,1,430.17500,222050,BranMeister,222050,1,,1.600,IW0REF,TS1 TS2
 I0KMJ,Terni Citt,Lazio / Umbria / Sardinia,Italy,Peer,1,430.91250,222051,IT-DMR,222051,1,,+5.000,I0KMJ,TS1 TS2
 IR1UDQ,Genova,Piedmont / Liguria / Aosta,Italy,Peer,1,431.30000,222052,BM,222052,1,d2alp cluster connected on slot 1 / regional or HBlink on slot 2,+1.600,IW1QQV,TS1 TS2
 IR1UJO,Frabosa Soprana CUNEO,Piedmont / Liguria / Aosta,Italy,Peer,1,430.83750,222053,BM,222053,1,"FUTURA INSTALLAZIONE, SEGNALERO QUI QUANDO VERRA MESSO IN SERVIZIO<br><br>D2ALP CLUSTER SERVICE ON SLOT1<br>",+5.000,IW1QQV,TS1 TS2
@@ -930,7 +931,7 @@ IR3UIB,Ravascletto  UD,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,433.12500
 IW6NQW,Castel Di Sangro,Marche / Abruzzo,Italy,Peer,1,430.02500,222057,dmr,222057,0,,+1.600,IW6NQW,Mixed Mode
 IR0UGA,Santa Marinella,Lazio / Umbria / Sardinia,Italy,Peer,1,430.93750,222058,DMR-plus,222058,1,,+5.000,IK0YYY,TS1 TS2
 IR0UJN,Castel Gandolfo,Lazio / Umbria / Sardinia,Italy,Master,1,430.53750,222059,BM,222059,1,,+5.000,IZ0RIN,TS1 TS2
-IR0UEI,M.te San Pancrazio,,Italy,,1,431.46250,222060,BrandMeister,222060,1,,1.600,IW0REF,
+IR0UEI,Calvi dell'Umbria,Lazio / Umbria / Sardinia,Italy,Peer,1,431.46250,222060,BrandMeister,222060,1,,1.600,IW0REF,TS1 TS2
 IR3UY,Grado,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.36250,222061,BM,222061,1,,+1.6,IV3DXW,Mixed Mode
 IR4ZZW,Piacenza,Emilia-Romagna,Italy,Master,1,431.43750,222062,BM,222062,1,,+1.600,IU4DKT,Mixed Mode
 IR0DV,PULA,,Italy,,1,430.81250,222063,DMR-plus,222063,0,,5.000,IS0FLV,TS1 TS2
@@ -950,7 +951,7 @@ IR5ZYA,Poggio Incontro - FI,Tuscany,Italy,Master,1,430.97500,222076,BM,222076,1,
 IR0ZZV,Monte Cosce Configni Rieti,Lazio / Umbria / Sardinia,Italy,Master,1,430.85000,222077,BM,222077,1,,+5.000,IK0NGL,TS1 TS2
 IR0ZZU,Terni,Lazio / Umbria / Sardinia,Italy,Master,1,430.01250,222078,BM,222078,1,,+5.000,IK0NGL,TS1 TS2
 IR9ZZQ,Catania,Sicily,Italy,Master,1,430.28750,222079,BM,222079,1,,+5.000,IW9GRL,TS1 TS2
-IR0UAQ,M.te Miranda,,Italy,,1,430.20000,222080,DMR-plus,222080,1,,1.600,IW0REF,TS1 TS2
+IR0UAQ,Terni,Lazio / Umbria / Sardinia,Italy,Peer,1,430.20000,222080,DMR-plus,222080,1,,1.600,IW0REF,TS1 TS2
 IR0UIN,Bruncu Simioni,,Italy,,1,430.72500,222081,None,222081,0,,5.000,IS0AYI,
 IR0ZZS,Roma,Lazio / Umbria / Sardinia,Italy,Master,1,430.23750,222082,BM,222082,1,,+5.000,IW0FXN,Mixed Mode
 IR0UIP,Itri,Lazio / Umbria / Sardinia,Italy,Peer,1,430.75000,222083,DMR-plus,222083,1,,5.000,IU0DLI,TS1 TS2
@@ -1304,6 +1305,7 @@ IR8ZXL,Montoro,Molise / Campania / Calabria,Italy,Master,1,144.93750,222466,BM,2
 IR8ZXJ,REGGIO CALABRIA,Molise / Campania / Calabria,Italy,Master,1,430.15000,222467,192.168.1.2,222467,1,None,16,IT9HJH,TS1
 IR9ZVV,ITALA,Sicily,Italy,Peer,1,430.07500,222468,192.168.1.3,222468,1,None,16.000,IT9HJH,TS1
 IR8ZXF,Roccella Ionica,Molise / Campania / Calabria,Italy,Peer,1,430.02500,222469,BM,222469,1,None,1.600,IW8RQI,TS1 TS2
+IR0ZYU,Calvi dell'Umbria,Lazio / Umbria / Sardinia,Italy,Peer,1,431.46250,222470,BrandMeister,222470,1,None,+1.600,IW0REF,TS1 TS2
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,222500,DMR-plus,222500,1,,+5.000,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,222501,DMR-plus,222501,1,,5.000,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,222502,BM,222502,1,,5.000,IK5BNG,TS1 TS2
@@ -3666,6 +3668,7 @@ DB0FMS,Reutlingen,Baden-Wuerttemberg,Germany,,1,439.33750,262754,BrandMeister,26
 DB0LBG,Esslingen,Baden-Wuerttemberg,Germany,Master,1,438.33750,262755,BM DMR-plus,262755,1,,-7.600,DG2SDW,TS1 TS2
 DB0TTM,Herbsthausen,Baden-Wuerttemberg,Germany,,5,438.55000,262756,BM,262756,1,,-7.600,DL2SEK,
 DB0OFI,Ostfildern,Baden-Wuerttemberg,Germany,,1,439.93750,262757,None,262757,1,,9.400,DG2SDK,
+DO0LH,Lauchheim,Baden-Wuerttemberg,Germany,Peer,1,439.23750,262758,Brandmeister,262758,1,,7.600,DO1SN,Mixed Mode
 DB0TIT,Titisee-Neustadt,Baden-Wuerttemberg,Germany,,1,439.48750,262759,None,262759,1,,-7.600,DG2GG,
 DB0ULM,Ulm,Baden-Wuerttemberg,Germany,,1,439.58750,262761,None,262761,1,,-7.600,DF2DR,
 DB0REU,Reutlingen,Baden-Wuerttemberg,Germany,,1,439.57500,262762,BrandMeister,262762,1,,-7.600,DK6TE,
@@ -3779,7 +3782,7 @@ DB0MMR,Halsbach,Bayern,Germany,Master,8,438.21250,262879,IPSC2,262879,1,StartRef
 DK0WUE,Wuerzburg,Bayern,Germany,Master,1,438.42500,262881,BM,262881,1,,-7.600,DH1NBC,TS1 TS2
 DM0GAP,Garmisch Partenkirch,Bayern,Germany,,1,439.01250,262882,BM,262882,1,,-7.600,DG1MIA,TS1 TS2
 DB0EBA,Erlangen,Bayern,Germany,,1,438.77500,262883,None,262883,1,,-7.600,DL3NGN,
-DB0ERB,Ergoldsbach,Bayern,Germany,,1,438.53750,262884,None,262884,1,,-7.600,DH2RL,
+DB0ERB,Ergoldsbach,Bayern,Germany,Master,1,438.53750,262884,Brandmeister,262884,1,,-7.600,DH2RL,TS1 TS2
 DM0RDT,Karlskron,Bayern,Germany,Peer,1,439.82500,262885,Brandmeister,262885,1,,-9.400,DH6MBT,TS1 TS2
 DM0MHD,Pfaffenhofen,Bayern,Germany,,1,438.48750,262886,BM,262886,1,,-7.600,DG5MHD,TS1 TS2
 DB0DON,Donauwoerth,Bayern,Germany,,1,438.57500,262887,BrandMeister,262887,1,,-7.600,DK1MFI,
@@ -7969,7 +7972,6 @@ N6WEB,Celeste,Texas,United States,Peer,1,440.22500,313797,BM,313797,1,TG 2 - Sta
 KQ4HCD,Athens,Alabama,United States,Master,1,442.90000,313798,BM,313798,1,,+5.000,KQ4HCD,TS1 TS2
 KD0TGF,Oshawa,Minnesota,United States,Master,2,442.37500,313799,KD0TGF-Network,313799,1,TS1 TG 31272<br>TS1 TG 312734<br>TS2 TG 3127,+5.000,KD0TGF,TS1 TS2
 NH7CY,Minneapolis,Minnesota,United States,Master,11,927.90000,313800,Brandmeister,313800,1,Mixed mode: Analog/DMR/P25,-25.00,NH7CY,Mixed Mode
-KI6EAY,Albuquerque,New Mexico,United States,Master,1,927.03750,313801,BM,313801,1,,-25.000,KI6EAY,TS1 TS2
 WV5D,Soso,Mississippi,United States,Master,1,444.97500,313802,bm,313802,1,3128,+5.00,WV5D,Mixed Mode
 KB0YDU,Springfield,Missouri,United States,Master,9,442.00000,313803,BM,313803,0,Mobile Repeater for use by the Central States Communications Association Amateur Radio Club,+5.000,KB0YDU,Mixed Mode
 K2UWC,Haycock,Pennsylvania,United States,Peer,1,447.37500,313804,BM XPR8300 Test,313804,1,MOTOROLA XPR8300 TEST REPEATER (OFF AIR),-5.000,K2UWC,TS1 TS2
@@ -10756,7 +10758,7 @@ CX8MXX,Trinidad,Flores,Uruguay,Master,1,432.92500,748020,Brandmeister,748020,1,,
 CX1RXX,Punta del Este,Maldonado,Uruguay,Master,1,146.82000,748022,BM,748022,1,Repeater VHF-  PUNTA DEL ESTE - MIXED MODE A/D - 2025-2030<br><br>TS1 - 748<br>TS2 - free,+0.60000,CX1RK,TS1 TS2
 CX7CXX,Montevideo,Montevideo,Uruguay,Master,1,432.62500,748024,BM,748024,1,,+5.000,CX4AE,TS1 TS2
 CX8JXX,Salto,Salto,Uruguay,Master,1,147.09000,748026,BrandMeister,748026,1,,+0.600,CX4AE,TS1 TS2
-CX4EXX,Paysandu,Paysandu,Uruguay,Master,1,146.70000,748027,BrandMeister,748027,1,,-0.600,CX4AE,TS1 TS2
+CX4EXX,Libertad,San Jose,Uruguay,Master,1,146.70000,748027,BrandMeister,748027,1,,-0.600,CX4AE,TS1 TS2
 CX8FXX,Colonia del Sacramento,Colonia,Uruguay,Master,1,432.95000,748028,BM,748028,1,,+5.000,CX4AE,TS1 TS2
 CX1RXX,Maldonado,Maldonado,Uruguay,Master,1,432.15000,748029,BM,748029,1,Repeater UHF PUNTA DEL ESTE - MIXED MODE A/D - 2025-2030<br><br>TS1 - 748<br>TS2 - free,+5.000,CX1RK,TS1 TS2
 CX2DXX,Las Piedras,Canelones,Uruguay,Master,1,432.87500,748030,DMR,748030,1,,+5.000,CX2DG,TS1 TS2
