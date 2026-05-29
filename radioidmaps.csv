@@ -425,7 +425,7 @@ F6ZEM,Chateaubourg,Bretagne,France,Peer,1,430.16250,brandmeister,48.1105120,-1.3
 F1ZLJ,GALGON,Nouvelle-Aquitaine,France,Master,1,430.21250,DMR-plus,44.985264,-0.272542,208095,,+9.400,ACTIVE,F4GLJ,TS1 TS2
 F1ZOE,Paris,Ile-de-France,France,Peer,1,430.17500,DMRF,48.8252841,2.3664919,208096,None,9.400,ACTIVE,F1TDI,TS1 TS2
 F1ZVZ,LE BURGAUD,Occitanie,France,Peer,0,439.72500,1,43.7940518,1.1627924,208097,None,0.000,ACTIVE,F4INI,Mixed Mode
-F9RCL,Boulay-Moselle,Grand Est,France,Master,0,145.60000,FD_ADN_2085_France_F9RCL,49.1826700,6.4999900,208098,None,0.600,ACTIVE,F9RCL,TS1
+F9RCL,Boulay-Moselle,Grand Est,France,Master,1,145.60000,FD_ADN_208570_France_F9RCL,49.1826700,6.4999900,208098,None,0.600,ACTIVE,F9RCL,TS1
 F1ZHW,Montfermeil,,France,,7,430.53750,BM,48.889687,2.209232,208099,,9.400,ACTIVE,F1TUV,TS1 TS2
 F1ZLL,2205 route de BRAS,,France,,1,430.56250,BM,43.405289,6.172018,208101,,9.400,ACTIVE,F1SER,TS1 TS2
 F1ZYI,Serre-Chevalier,Provence-Alpes-Cote d Azur,France,Master,1,439.73750,DMR-plus,45.060299,6.364600,208103,TS-2<br>ECRINS 20805 - ALPES 84<br>,-9.4,ACTIVE,F4EGG,TS1 TS2
@@ -3387,7 +3387,6 @@ DB0DAM,Dammer Berge,Niedersachsen / Bremen,Germany,Peer,1,439.86250,DMR-plus,52.
 DL9OBD,Eilvese,,Germany,,1,439.93750,BM,52.5494351,9.415254157764767,262324,,-9.400,ACTIVE,DL9OBD,
 DB0TVH,Hannover/Stadt,,Germany,Peer,1,439.90000,DMR-plus,52.37663905,9.772729983771928,262325,,-9.400,ACTIVE,DL9OBD,TS1 TS2
 DO1KBL,Osterholz-Scharmbeck,Niedersachsen / Bremen,Germany,Peer,1,439.27500,BM,53.2281763,8.7948239,262326,,-7.600,ACTIVE,DO1KBL,TS1 TS2
-DB0KRE,Kreiensen,,Germany,,1,438.38750,DMR-plus,51.849899,9.965440,262327,,-7.600,ACTIVE,DJ3OW,TS1 TS2
 DB0OX,Norden JO33oo,,Germany,,1,439.30000,DMR-plus,53.590832,7.191390,262328,,-7.600,ACTIVE,DG1BGS,TS1 TS2
 DB0HHG,Goettingen,,Germany,,1,439.25000,DMR-plus,51.5328328,9.9351811,262329,,-7.600,ACTIVE,DG3ABY,TS1 TS2
 DB0TVH,Hannover/Stadt,,Germany,Peer,1,439.58750,DMR-plus,52.379738,9.743070,262330,,-7.600,ACTIVE,DL9OBD,TS1 TS2
@@ -7933,7 +7932,6 @@ WO3F,Newport,North Carolina,United States,Master,1,444.82500,North Carolina PRN 
 WA4TOG,Asheville,North Carolina,United States,Peer,1,442.55000,WNC-Net,35.6000898,-82.524147,313753,Timeslot 1<br>Local (full time)<br>NET411 (scheduled) [future implementation planned]<br>North America (on demand)<br>TAC310 (on demand)<br>TAC311 (on demand)<br>TAC312 (on demand)<br>WW English (on demand)<br>Data (full time) [future implementation planned]<br>Echo Test (on demand)<br>Clear Timeslot 2<br><br>Timeslot 2<br>WNC (full time)<br>PRN (on demand)<br>Southeast (on demand)<br>Clear Timeslot 1<br><br>Contact: WA4TOG<br>Email: wa4tog@bellsouth.net<br>Website: http://www.wncdmr.net/,+5.000,ACTIVE,WA4TOG,TS1 TS2
 WR4AGC,Hillsborough,North Carolina,United States,Master,1,443.13750,NC PRN,36.0452850,-79.1170880,313754,None,+5.000,ACTIVE,NC4CD,TS1 TS2
 W4YMI,Morehead City,North Carolina,United States,Master,1,444.97500,NC-PRN Morehead City,34.7229391,-76.7260436,313755,,+5.000,ACTIVE,WO3F,TS1 TS2
-K4MJO,South Hill,Virginia,United States,Peer,6,443.12500,BM,36.7006715,-78.0930276,313756,Updated: 2/26/26<br>Contact: K4MJO Matt,+5.000,ACTIVE,K4MJO,TS1 TS2
 W4FAR,Wilkesboro,North Carolina,United States,Peer,1,440.53750,NCPRN,36.145965,-81.1606401,313757,,+5.000,ACTIVE,W4HF,TS1 TS2
 N2DMR,High Point,North Carolina,United States,Peer,1,443.72500,PRN,35.962791,-80.013161,313758,,+5.000,ACTIVE,N2DMR,TS1 TS2
 N4GAS,GASTONIA,North Carolina,United States,Master,1,445.72500,BRANDMEISTER,35.297024,-81.115486,313759,,-5.000,ACTIVE,NC0G,TS1 TS2
@@ -8885,7 +8883,6 @@ N5YX,Beaumont,Texas,United States,Master,1,145.45000,DMR/DSTAR/FUSION,30.080174,
 K5RNB,Aubrey,Texas,United States,Peer,1,443.45000,Lonestar,33.304532,-96.986118,314836,,+5.000,ACTIVE,K5RNB,TS1 TS2
 KC5HWB,Portable,Texas,United States,Peer,9,440.51250,CBridge 2.0,26.30901095,-98.17100097823993,314837,www.DMRTexas.net,+5.000,ACTIVE,KC5HWB,TS1 TS2
 KD5DFB,Portable,Texas,United States,Peer,7,441.35000,LonestarNet,26.30901095,-98.17100097823993,314838,,+5.000,ACTIVE,KD5DFB,TS1 TS2
-K5HYT,MISSION,Texas,United States,Peer,1,444.95000,TEXAS,26.2159066,-98.3252932,314839,,+5.000,ACTIVE,K5HYT,TS1 TS2
 K5NOC,Stinnett,Texas,United States,Peer,14,443.43750,Brandmister,35.82442340000001,-101.4426895,314840,TS1: 3148 TEXAS<br>31480 TX CHAT<br>31481 NORTH TEXAS<br>31484 SOUTH EAST TEXAS<br>31488 CENTRAL TEXAS<br><br>TS2: 31483 West Texas<br>2 Local<br>31487 TEXAS ARES EMCOMM<br>3187707 Amarillo Allstar<br><br>Contact: Cory<br>Email: cory@KD5ROK.com,+5.000,ACTIVE,K5NOC,TS1 TS2
 KD4LXC,Gardendale,Texas,United States,Peer,14,444.83750,Lonestar,32.0202474,-102.33623070000002,314841,"NorCal/West Texas Net<br>(C-bridge partner of DMR-MARC)<br><br>Time Slot #1 - Group Call 3 = DMR-MARC North America<br>Time Slot #1 - Group Call 3777215= TRBO-6<br>Time Slot #1 - Group Call 3148= TX Statewide<br>Time Slot #2 - Group Call 10 = West Texas Local<br><br>Contact: Jim, KA3IDN<br>Email: ka3idn@cableone.net",+5.000,ACTIVE,KD4LXC,TS1 TS2
 N5LUY,Cypress,Texas,United States,Peer,7,444.47500,Lone Star,29.9092842,-95.6815521,314842,TS 1 TG 1 W. W.<br>TS 1 TG 13 W. E.<br>TS 1 TG 3 N.A.<br>TS 1 TG 310 TAC 310<br>TS 1 TG 3100 DCI<br>TS 2 TG 3148 TEXAS<br>TS 2 TG 3175 SOUTH<br>TS 2 TG 3185 CACTUS<br>TS 2 TG 2 2 LOCAL<br><br><br>Contact: <br>Email: tracyn5luy@gmail.com<br>Website: N/A,+5.000,ACTIVE,N5LUY,TS1 TS2
@@ -10550,6 +10547,7 @@ PY1KYZ,Macae,Rio de Janeiro,Brazil,Master,1,147.10000,DMR/Brandmeister,-22.37603
 PY2KAR,Ribeirao Preto,Sao Paulo,Brazil,Peer,1,146.67000,Brandmister,-21.2217600,-47.7646010,724281,None,-0.600,ACTIVE,PY2ERA,TS1 TS2
 PU6AXE,Aracaju,Sergipe,Brazil,Peer,1,434.00000,BM,-10.8855200,-37.0788200,724282,None,+5.500,ACTIVE,PU6AXE,TS2
 PY1ITP,Rio de Janeiro,Rio de Janeiro,Brazil,Peer,1,146.79000,dmr,-22.9065000,-43.1811000,724283,None,-0.600,ACTIVE,PY1MM,TS2
+PY4RPT,Governador Valadares,Minas Gerais,Brazil,Master,1,145.29000,brandmeister,-18.8857014,-41.8988323,724284,None,-0.600,ACTIVE,PU4IDF,Mixed Mode
 PY3HA,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,146.77000,Brandmeister,-30.100000,-51.180000,724301,,-0.600,ACTIVE,PY3NZ,TS1 TS2
 PY3RPT,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,145.35000,Mixed Mode,0.0,0.0,724302,,-0.600,ACTIVE,PY3NZ,TS1 TS2
 PY3SMS,Guaiba,Rio Grande do Sul,Brazil,Master,1,439.55000,DMR+ MASTER SUL,-26.801901,-48.933102,724303,,-5.000,ACTIVE,PY5JP,TS1 TS2
@@ -10602,6 +10600,7 @@ CE4PKZ,Lolol,Reg.Metr. de Santiago,Chile,Master,1,434.10000,BrandMeister,-34.430
 CE6TC,Temuco,La Araucania,Chile,Temuco,1,146.61000,Brandmeister,0.0,0.0,730016,,-0.600,ACTIVE,CE6TC,TS1 TS2
 CE6TC,Temuco,La Araucania,Chile,Temuco,1,146.94000,Brandmeister,0.0,0.0,730017,,-0.600,ACTIVE,CE6TC,TS1 TS2
 CE4RSF,Colchagua,Reg.Metr. de Santiago,Chile,Master,1,146.88000,BM_Chile_7301,-34.730801,-71.654701,730021,,-0.600,ACTIVE,CE4RSF,TS1 TS2
+CE6RLA,Padre Las Casas,La Araucania,Chile,Peer,1,146.73000,BrandMeister,-38.7358908,-72.5905380,730022,,-0.600,ACTIVE,CE6RLA,TS1 TS2
 CE2CRO,Ovalle,Coquimbo,Chile,Peer,1,147.15000,BrandMeister,-30.598528,-71.167908,730023,TG730         CHILE NACIONAL<br>TG7302       CHILE ZONA 2<br>TG730911    CHILE EMERGENCIAS<br>TG97            LATINOAMERICA<br>TG914911     EMERGENCIA LATINOAMERICA,+0.600,ACTIVE,CE2SCP,TS1 TS2
 CE1UMN,Copiapo,Atacama,Chile,Peer,1,147.25000,BranMeister,-27.393476,-70.300392,730024,tg730,+0.600,ACTIVE,CE1UMN,TS1 TS2
 CE1UMZ,Copiapo,Atacama,Chile,Peer,1,147.25000,BrandMeister/DMR-MARC,0.0,0.0,730025,,+600,ACTIVE,CE1UMZ,TS1 TS2

@@ -183,7 +183,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 182,AD9AM,Adam E,Sugar Grove,Illinois,United States
 183,AD9AM,Adam E,Sugar Grove,Illinois,United States
 184,KJ7CMR,Ian,,,United States
-185,W2FEN,Randolph,Lakewood,New Jersey,United States
 186,KM6SSK,Scott,South Lake Tahoe,California,United States
 187,JS1YBS,Tochigi,Tochigi,Kanto,Japan
 188,WB9COW,Robin,Burlington,Wisconsin,United States
@@ -5252,7 +5251,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 5323,TA3VAY,Orhan,Balikesir,Aegean Region,Turkiye
 5324,RW6A,Yuri V,st  Krylovskaya  Krasnodarsky kr,,Russia
 5325,SQ3TGO,Zbigniew,Russocice,wielkopolskie,Poland
-5326,VE3XTD,Eric,Gravenhurst,Ontario,Canada
+5326,VE3HF,Eric,Gravenhurst,Ontario,Canada
 5327,N6RP,Geoffrey,Laguna Beach,California,United States
 5328,IU5RCP,Alfio,Empoli,Tuscany,Italy
 5329,VK4BOZ,Daniel,Nanango,Queensland,Australia
@@ -5572,6 +5571,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 5651,AD8KO,Michael,Port Huron,Michigan,United States
 5652,KA4HOT,Roy,Indianapolis,Indiana,United States
 5653,KQ4FVQ,James,Whitsett,North Carolina,United States
+5654,BG2FTN,Zhaohejia,DaQing HeiLongJiang,Heilongjiang Jilin Liaoning,China
 5655,G4WKW,Richard,St Keverne,England,United Kingdom
 5656,GW6YML,David,Cardiff,Wales,United Kingdom
 5657,IK1NET,Pierangelo,Vigone,Piedmont  Liguria  Aosta,Italy
@@ -10063,7 +10063,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 10199,KJ5LJJ,Gregory,Purvis,Mississippi,United States
 10200,KA1EFE,Vaughn,Granby,Connecticut,United States
 10201,RC7KL,Dmitry,Simferopol,All Regions,Russia
-10202,G5FTD,Anthony,Frodsham,England,United Kingdom
+10202,G5FTD,Anthony,North West,England,United Kingdom
 10203,KO4RXE,Wendell,Crittenden,Kentucky,United States
 10204,TA2CNK,Cenk,Samsun,Black Sea Region,Turkiye
 10205,N7WSS,William,Tucson,Arizona,United States
@@ -10296,7 +10296,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 10432,M0XSI,Simon,West Sussex,England,United Kingdom
 10433,WA2SRA,Malcolm,Auburn,Georgia,United States
 10434,W9RP,Chris,Bedford,Indiana,United States
-10435,PU8PCJ,Claudiomar,Teresina,Piaui,Brazil
+10435,PS8CJ,Claudiomar,Teresina,Piaui,Brazil
 10436,KB6LUV,Brett,Sacramento,California,United States
 10437,N8DTP,Donald,Canton,Ohio,United States
 10438,KC5ZTV,Lance,Seguin,Texas,United States
@@ -11395,7 +11395,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 11554,SA5OHR,Andreas,Norrkoping,Ostergotland,Sweden
 11555,EA5HXT,Javier,Alcoy,Alicante,Spain
 11556,WW0C,Ryan,Sartell,Minnesota,United States
-11557,PU4TEV,Tiago,Santa Rita De Caldas,Minas Gerais,Brazil
+11557,PY4TEV,Tiago,Santa Rita De Caldas,Minas Gerais,Brazil
 11558,KD7DGF,David,Seattle,Washington,United States
 11559,N8JE,James,Springfield,Ohio,United States
 11561,KD4C,Chip,Richardson,Texas,United States
@@ -12119,7 +12119,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 12286,DO9CLS,Cornelis,Bocholt,Nordrhein-Westfalen,Germany
 12287,EA7CIX,Luque,Malaga,Malaga,Spain
 12288,TA8HC,Hasan,Turkiye,Southeastern Anatolia Region,Turkiye
-12289,G5FTD,Anthony,Frodsham,England,United Kingdom
+12289,G5FTD,Anthony,North West,England,United Kingdom
 12290,TB2SJB,Baris,Istanbul,Marmara Region,Turkiye
 12291,KR4JAK,Mark,Merritt Island,Florida,United States
 12292,LZ1TAC,Petromir,Sofia,Sofia,Bulgaria
@@ -12180,7 +12180,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 12348,TA8DL,Erol,Şahi̇nbey,Southeastern Anatolia Region,Turkiye
 12349,TA8AB,Muzaffer,Gaziantep,Eastern Anatolia Region,Turkiye
 12350,KA1IJA,Norman,New Port Richey,Florida,United States
-12351,K6KRI,Christina L,Veneta,Oregon,United States
+12351,K6KRI,Christina,Lancaster,California,United States
 12352,KC2CWT,Robert,Carmel,New York,United States
 12353,KD0CVD,Kelli A,Fairview,Utah,United States
 12354,AK7AN,Ed,Fairview,Utah,United States
@@ -14522,6 +14522,19 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 14703,PY1ERC,Coutinho,Rio De Janeiro,Rio de Janeiro,Brazil
 14704,KO4ERS,Victor,Corbin,Kentucky,United States
 14705,W7YUT,Alicia,Star,Idaho,United States
+14706,VE9DEN,Dalhousie amateur radio club,Dalhousie,New Brunswick,Canada
+14707,KM7GEH,Nabarbery,Poulsbo,Washington,United States
+14708,E26BAM,Puttisak,Amphoe Sawang Arom  Uthai Thani,Uthai Thani,Thailand
+14709,M7UCC,Chris,Manchester,England,United Kingdom
+14710,PU2XPX,Canabra,Estiva Gerbi,Sao Paulo,Brazil
+14711,W6NAZ,Courter,Star,Idaho,United States
+14712,IK0XFD,Giordano,Roma,Lazio  Umbria  Sardinia,Italy
+14713,KC1KUT,Michael,Shrewsbury,Vermont,United States
+14714,K7MNB,Bryan,Kennewick,Washington,United States
+14715,N0DLM,Dana,Dahlonega,Georgia,United States
+14716,KI7KQL,Ryan,Riverton,Utah,United States
+14717,N5WPL,Randall,Albuquerque,New Mexico,United States
+14718,YD9BBU,Yudha,Buleleng,Bali,Indonesia
 14795,NG4P,Kevin L,Cottondale,Florida,United States
 14796,IZ2IDS,Carlo,Tradate,Lombardy,Italy
 14873,N5ALF,John R,Austin,Texas,United States
