@@ -2079,7 +2079,7 @@ GB7SR,Sheffield,England,United Kingdom,Peer,2,439.63750,BM,53.428078,-1.498993,2
 GB7CF,Folkestone,England,United Kingdom,,3,439.51250,DMR-plus,51.0791335,1.1794073,235162,,-9.000,ACTIVE,M1CMN,TS1 TS2
 GB7WD,Sedgley,England,United Kingdom,Peer,11,439.71250,BM,52.541248,-2.122200,235163,,-9.000,ACTIVE,G4VZO,TS1 TS2
 GB7DY,Dudley,England,United Kingdom,Peer,11,439.57500,BM,52.472309,-2.103258,235164,,-9.000,ACTIVE,G4VZO,TS1 TS2
-GB7DS,Norwich,,United Kingdom,,1,439.42500,DMR-plus,52.650608,1.287088,235165,,-9.000,ACTIVE,M0ZAH,TS1 TS2
+GB7DS,Norwich,England,United Kingdom,Peer,1,439.42500,DMR-plus,52.650608,1.287088,235165,,-9.000,ACTIVE,M0ZAH,TS1 TS2
 GB7XYZ,Demo Repeater,England,United Kingdom,Peer,3,439.16250,DMR-plus,52.392426,0,235168,,-9.000,ACTIVE,G0OLX,TS1 TS2
 GB7WL,Amersham,England,United Kingdom,Peer,3,439.70000,DMR-plus,51.6740875,-0.6073643,235169,,-9.000,ACTIVE,M0ZPU,TS1 TS2
 GB7HR,Heathrow Airport,England,United Kingdom,Master,3,439.45000,DMR-plus,51.46773895,-0.4587800741571181,235170,"Always connected: TS1: 1, 2, 13, 235.  TS2: 801<br><br>User Activated (UA) TG's also supported",-9.000,ACTIVE,G0OXZ,TS1 TS2
@@ -2813,7 +2813,6 @@ R9CIR,,,Russia,,1,431.82500,BM,56.97494,60.58046,250905,,+7.100,ACTIVE,R9CIR,TS1
 R8ABX,,,Russia,,1,434.90000,BM,55.172771,61.453621,250906,,-2.000,ACTIVE,R8ABX,TS1 TS2
 UB9MDA,,,Russia,,1,438.90000,BM,54.92441,73.40984,250907,,-4.000,ACTIVE,UB9MDA,TS1 TS2
 UB9MDA,,,Russia,,1,0.00000,BM,0.0,0.0,250908,,,ACTIVE,UB9MDA,TS1 TS2
-R9XU,,,Russia,,1,0.00000,BM,0.0,0.0,250909,,,ACTIVE,R9XU,TS1 TS2
 R9CDD,,,Russia,,1,0.00000,BM,0.0,0.0,250910,,,ACTIVE,R9CDD,TS1 TS2
 RR9CK,,,Russia,,1,0.00000,BM,0.0,0.0,250911,,,ACTIVE,R8DDD,TS1 TS2
 R9CIR,,,Russia,,1,0.00010,BM,56.97494,60.58046,250912,,0,ACTIVE,R9CIR,TS1 TS2
@@ -3347,6 +3346,7 @@ DO0OHO,Heiligenhafen,,Germany,,1,438.87500,BM,54.364536,10.978031,262263,,-7.600
 DB0MDW,Meddewade,,Germany,,1,439.53750,DMR-plus,53.8095542,10.4398849,262264,,7.600,ACTIVE,DG4HA,TS1 TS2
 DM0UHF,Erkelenz,Nordrhein-Westfalen,Germany,Peer,1,439.45625,brandmeister,51.7180000,6.1240000,262265,None,-7.600,ACTIVE,DG2KCB,TS1 TS2
 DB0IL,Kiel,,Germany,,1,438.42500,BM,54.309509,10.169885,262266,,-7.600,ACTIVE,DL4LBY,TS1 TS2
+DM0ASH,Klingenthal,Sachsen / Thueringen,Germany,Master,1,438.61250,DMR/D*/NXDN/YSF,50.3901340,12.5064760,262267,None,-7.600,ACTIVE,DM8WP,Mixed Mode
 DB0SY,Fmt. HH-Lohbruegge,,Germany,,1,438.62500,DMR-plus,,,262270,,-7.600,ACTIVE,DL3HBO,TS1 TS2
 DB0XH,JO53CL,,Germany,,1,439.20000,DMR-plus,,,262271,,-7.600,ACTIVE,DL3HBO,TS1 TS2
 DB0ABG,Ahrensburg,,Germany,,1,439.50000,DMR-plus,53.673710,10.235407,262273,,-7.600,ACTIVE,DL5KUA,TS1 TS2
@@ -3817,7 +3817,7 @@ DM0RLB,Rochlitzer Berg,Sachsen / Thueringen,Germany,Peer,1,438.76260,BM,51.02602
 DB0OLL,Loebau,Sachsen / Thueringen,Germany,Peer,1,438.55000,"DMR,YSF,D-STAR",51.0912,14.6924,262939,,-7.600,ACTIVE,DL1BZ,TS1 TS2
 DB0NLS,Lauta,,Germany,,1,439.51250,DMR-plus,51.443501,14.102400,262949,,-7.600,ACTIVE,DL1RKW,TS1 TS2
 DB0SBL,Siebleben,,Germany,,1,434.71250,DMR-plus,50.946451,10.7462145,262959,,0.000,ACTIVE,DL4ALI,TS1 TS2
-DB0GC,Glauchau,Sachsen / Thueringen,Germany,Peer,1,439.45000,"BM,IPSC2",50.866291,12.500600,262960,,-7.600,ACTIVE,DM8WP,TS1 TS2
+DB0GC,Glauchau,Sachsen / Thueringen,Germany,Peer,1,439.45000,BM/D*/NXDN/YSF,50.866291,12.500600,262960,,-7.600,ACTIVE,DM8WP,TS1 TS2
 DB0TUD,Dresden,,Germany,,1,438.30000,None,51.020931,13.728619,262962,,7.600,ACTIVE,DH5YM,
 DB0ERZ,Zwoenitz,Sachsen / Thueringen,Germany,Master,1,439.46250,BM,0.0,0.0,262969,,-7.600,ACTIVE,DO8GT,TS1 TS2
 DB0SKO,Harztor,,Germany,,1,439.41250,BM,51.5910119,10.814547255574215,262970,,-7.600,ACTIVE,DL5SKO,TS1 TS2
@@ -6234,7 +6234,6 @@ W9TMW,Winnebago,Illinois,United States,Peer,3,440.05625,Chicagoland,42.2661311,-
 KC9NCS,Homer Glen,Illinois,United States,None,3,442.83125,Chicagoland,41.6000317,-87.9381112,311740,,+5.000,ACTIVE,KC9NCS,TS1 TS2
 NN9P,Rockford,Illinois,United States,Peer,1,443.32500,W9SMJ-Net,42.308643,-89.0009528,311741,"1	8	       Tri-State	11 repeaters in IL, IN, WI	24/7<br>2	1	       Worldwide (all Languages)	Worldwide	PTT on Demand<br>2	3	       North America	North America	24/7<br>2	13	       Worldwide English	Worldwide	PTT on Demand<br>2	9	       Talk	Linked Reflector	24/7<br>2	5000	Status	Local Repeater	1s PTT<br>2	4000	Disconnect	Local Repeater	1s PTT<br>2	4xxx  	Various Reflectors	Various	1s PTT<br><br>Repeater Trustee: NN9P<br>Trustee Email: nn9p@comcast.com",+5.000,ACTIVE,NN9P,TS1 TS2
 KB9SAR,Unknown,Illinois,United States,Master,0,440.00000,DMR-MARC,42.2411023,-88.2722047,311742,<br>,+5.000,ACTIVE,KB9SAR,Mixed Mode
-N9NLE,West Dundee,Illinois,United States,Peer,15,444.52500,IPSC2,42.0356738,-88.3265403,311743,"N9NLE 444.525 +5 MHz, Color Code 0",5.000,ACTIVE,N9NLE,Mixed Mode
 W9DIG,Chicago,Illinois,United States,Master,1,440.85625,Mixed Mode,41.8755616,-87.6244212,311744,,+5.000,ACTIVE,N9OZR,None
 WB9PHK,Schaumburg,Illinois,United States,Master,1,146.70000,ChicagoLand,42.0333608,-88.083406,311745,"Time Slot #1<br>3117 Illinois-1 (Illinois statewide)<br>3155 Wisconsin-1 (Wisconsin statewide)<br>31171 Illinois Fusion (Illinois sites)<br>31551 Wisconsif Fusion (Wisconsin sites)<br>TAC-312<br>TAC-317<br><br>Time Slot #2<br>3166 Local-2 (System wide)<br>3169 Midwest-2 (Midwest)<br>310 TAC-310<br>311 TAC-311<br><br><br>Contact Name: Todd, WB9PHK<br>Website: https://wp.chicagoland-cc.org/",-0.600,ACTIVE,WB9PHK,TS1 TS2
 K9PW,Schaumburg,Illinois,United States,Master,1,439.87500,DMRPlus,42.0333608,-88.083406,311747,,-9.4,ACTIVE,K9PW,TS1 TS2
@@ -6266,7 +6265,6 @@ WF1RES,O Fallon,Illinois,United States,Master,4,447.52500,Brandmeister,38.4374,-
 W6PC,Tremont,Illinois,United States,Peer,12,444.97500,Brandmeister,40.5275392,-89.4925979,311776,,+5.000,ACTIVE,W6PC,TS1 TS2
 W9NJM,Mobile Repeater,Illinois,United States,Peer,12,442.22500,Brandmeister,50,-3,311777,,+5.000,ACTIVE,W9NJM,TS1 TS2
 KC9KKO,Morris,Illinois,United States,Master,1,442.00000,DMR-IL,41.3573813,-88.421565,311778,,+0.600,ACTIVE,KC9KKO,TS1 TS2
-KB9NTX,Chicago,Illinois,United States,Peer,15,442.45000,Brandmeister,41.8755616,-87.6244212,311779,,+5.000,ACTIVE,KB9NTX,TS1 TS2
 KM6VLB,La Mesa,California,United States,Peer,15,448.26000,BrandMeister,0.0,0.0,311780,"La Mesa, CA",-5.000,ACTIVE,N0MIS,TS1 TS2
 W2SLV,RUSSELL,New York,United States,Peer,1,442.35000,CAN_TRBO,0.0,0.0,311781,,+5.000,ACTIVE,KE2EMS,TS1 TS2
 W0PM,Springfield,Missouri,United States,Peer,2,442.37500,Brandmeister,37.16355,-93.31986,311782,"This won't actually be a repeater.  I'm going to try to connect a c-Bridge into a Brandmeister server, setting up an IPSC Manager in the c-Bridge as a Peer.  The c-Bridge will allow for a connection from the Brandmeister network to my repeater on Slot 2 (Slot 1 is on the DMR-MARC network).<br><br>I do not plan on bridging the two slots together, but this will allow for the one repeater to be used on both networks.<br>",+5.000,ACTIVE,W0PM,TS2
@@ -9053,6 +9051,7 @@ N5VGK,houston,Mississippi,United States,Peer,1,444.17500,BRANDMEISTER,33.8798000
 W6CX,Clayton,California,United States,Peer,1,144.92500,BrandMeister,37.8947030,-121.8990980,315027,None,+2.500,ACTIVE,"W6CX, K6SOE",TS1 TS2
 K4FLK,Key West,Florida,United States,Master,11,441.52500,Brandmeister,24.5520412,-81.8077650,315028,Repeater is the CGC Ingham Museum Ship.,+5.000,ACTIVE,"K4FLK, K1ST",TS1 TS2
 W8HD,Hudson,Ohio,United States,Peer,0,927.01250,Brandmeister,41.2402020,-81.4407300,315029,None,-25.000,ACTIVE,W8HD,TS1 TS2
+KF0WXX,Lincoln,Nebraska,United States,Peer,1,443.65000,brandmeister,40.8647946,-96.4845765,315031,KF0WXX DMR Repeater,5.000,ACTIVE,KF0WXX,Mixed Mode
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,DMRVA,37.5358149,-77.3821587,315101,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,ACTIVE,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,NC-PRN-,36.6474353,-80.6437257,315102,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,ACTIVE,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,NC-PRN,36.8663865,-81.0515927,315103,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,ACTIVE,K4IJ,TS1 TS2
