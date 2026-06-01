@@ -266,6 +266,7 @@ PI1FRL,Burgwerd,,Netherlands,,1,438.36250,BM,53.0870238,5.5469571,204844,,-7.600
 ON0CK,Kortrijk,West-Vlaanderen,Belgium,,1,439.16250,BM,51.100399,4.182400,206001,,-7.600,ACTIVE,ON4TOP,TS1 TS2
 ON0SEA,Knokke-Heist,West-Vlaanderen,Belgium,Master,1,438.93750,BM,51.341637,3.286677,206002,,-7.600,ACTIVE,ON4UK,TS1 TS2
 ON0VRN,Veurne,West-Vlaanderen,Belgium,,1,439.21250,BM,51.116009,2.682519,206003,,-7.600,ACTIVE,ON8SD,TS1 TS2
+ON0TLS,DE Pinte,Oost-Vlaanderen,Belgium,Peer,1,438.50000,Brandmeister,50.9939670,3.6599570,206004,None,-7.600,ACTIVE,"ON6VDS, ON1UI",TS1
 ON0MSF,Brussels,Brussels,Belgium,Master,1,438.07500,"BM, Tetrapack",50.833,4.363,206005,"TETRA Repeater, see map.tetrapack.online",-7.6,ACTIVE,ON6RF,Mixed Mode
 ON4TOP,Bavikhove,West-Vlaanderen,Belgium,,1,438.07500,Hytera,50.8754034,3.3113418,206006,,-7.600,ACTIVE,ON4TOP,
 ON0DXK,Kortrijk,West-Vlaanderen,Belgium,,1,439.00000,Hytera,50.8276429,3.2659884,206007,,-7.600,ACTIVE,ON4TOP,
@@ -3737,7 +3738,7 @@ DB0LBB,Murnau Staffelsee,Bayern,Germany,,1,438.60000,None,47.681141,11.197713,26
 DM0GER,Germering,Bayern,Germany,Peer,1,439.53750,BM,48.124161,11.363300,262835,,-7.600,ACTIVE,DL3MX,TS1 TS2
 DB0MIR,Martinsberg Ammersee,Bayern,Germany,,1,438.73750,BM,48.081829,11.170042,262836,,-7.600,ACTIVE,DL1ZAP,TS1 TS2
 DM0TMH,Neumarkt,Bayern,Germany,Master,1,438.22500,YSF C4FM,49.6184731,11.5629325,262837,,-7.600,ACTIVE,DF1AX,TS1
-DB0YQ,Fernmeldeturm Weiden,Bayern,Germany,,1,438.56250,None,49.6797,12.2354,262838,,7.600,ACTIVE,DG9RAK,
+DB0YQ,Fernmeldeturm Weiden,Bayern,Germany,Master,1,438.56250,brandmeister.network,49.6797,12.2354,262838,,7.600,ACTIVE,DG9RAK,Mixed Mode
 DB0SMU,Langerringen,Bayern,Germany,Master,1,438.20000,BM,48.102355,10.770587,262839,,-7.600,ACTIVE,DH9FG,TS1 TS2
 DB0ADB,Bamberg,Bayern,Germany,,1,439.30000,BM,49.891373,10.869898,262840,,-7.600,ACTIVE,DK2ET,TS1 TS2
 DM0FOX,Fuchsberg,Bayern,Germany,Peer,1,439.86250,Brandmeister,48.651257,11.451417,262841,,-9.400,ACTIVE,DH6MBT,TS1 TS2
@@ -6869,7 +6870,7 @@ NG6K,Cedar Hills,Utah,United States,Peer,1,927.16250,AmComm,40.4284970,-111.7561
 WX5HOT,Royal,Arkansas,United States,Peer,3,444.90000,BM,34.5159,-93.2634,312463,,+5.000,ACTIVE,KG5QYM,Mixed Mode
 N3QEM,Rehoboth Beach,Delaware,United States,Peer,1,145.12000,Interstate,38.7241272,-75.1078475,312464,,-0.600,ACTIVE,N3QEM,TS1 TS2
 KL7JFU,Wasilla,Alaska,United States,Master,1,443.80000,BM,61.5555556,-149.58694444444444,312465,3102,+5.000,ACTIVE,KL7JFU,TS1
-N5VGQ,Kilgore,Texas,United States,Peer,1,444.97500,BM,32.753177,-97.3327459,312466,CC1 | TS1/TS2 Linked- Dynamic Talk Groups,+5.000,ACTIVE,K5TKR,TS1 TS2
+N5VGQ,Longview,Texas,United States,Peer,1,444.97500,BM,32.753177,-97.3327459,312466,CC1 | TS1/TS2 Linked- Dynamic Talk Groups,+5.000,ACTIVE,K5TKR,TS1 TS2
 KB6XN,Las Vegas,Nevada,United States,Peer,15,445.87500,BRANDMEISTER,36.1672559,-115.148516,312467,,-5.000,ACTIVE,KB6XN,TS1 TS2
 K4DVA,Albemarle,North Carolina,United States,Master,1,440.68750,BM,35.34087833032386,-80.23881660673217,312468,"M,ULTI-MODE REPEATER WITH BM DMR",+5.0,ACTIVE,KI4UDZ,TS1 TS2
 KC6YDH,San Francisco,California,United States,Peer,8,443.60000,SF Trbo,37.75,-122.49,312470,TS 1: 3106<br>TS 2: 312470,+5.000,ACTIVE,KC6YDH,TS1 TS2
@@ -7927,6 +7928,7 @@ WO3F,Newport,North Carolina,United States,Master,1,444.82500,North Carolina PRN 
 WA4TOG,Asheville,North Carolina,United States,Peer,1,442.55000,WNC-Net,35.6000898,-82.524147,313753,Timeslot 1<br>Local (full time)<br>NET411 (scheduled) [future implementation planned]<br>North America (on demand)<br>TAC310 (on demand)<br>TAC311 (on demand)<br>TAC312 (on demand)<br>WW English (on demand)<br>Data (full time) [future implementation planned]<br>Echo Test (on demand)<br>Clear Timeslot 2<br><br>Timeslot 2<br>WNC (full time)<br>PRN (on demand)<br>Southeast (on demand)<br>Clear Timeslot 1<br><br>Contact: WA4TOG<br>Email: wa4tog@bellsouth.net<br>Website: http://www.wncdmr.net/,+5.000,ACTIVE,WA4TOG,TS1 TS2
 WR4AGC,Hillsborough,North Carolina,United States,Master,1,443.13750,NC PRN,36.0452850,-79.1170880,313754,None,+5.000,ACTIVE,NC4CD,TS1 TS2
 W4YMI,Morehead City,North Carolina,United States,Master,1,444.97500,NC-PRN Morehead City,34.7229391,-76.7260436,313755,,+5.000,ACTIVE,WO3F,TS1 TS2
+K4MJO,South Hill,Virginia,United States,Peer,1,443.12500,BM,36.7006715,-78.0930276,313756,Updated: 2/26/26<br>Contact: K4MJO Matt,+5.000,ACTIVE,K4MJO,TS1 TS2
 W4FAR,Wilkesboro,North Carolina,United States,Peer,1,440.53750,NCPRN,36.145965,-81.1606401,313757,,+5.000,ACTIVE,W4HF,TS1 TS2
 N2DMR,High Point,North Carolina,United States,Peer,1,443.72500,PRN,35.962791,-80.013161,313758,,+5.000,ACTIVE,N2DMR,TS1 TS2
 N4GAS,GASTONIA,North Carolina,United States,Master,1,445.72500,BRANDMEISTER,35.297024,-81.115486,313759,,-5.000,ACTIVE,NC0G,TS1 TS2
@@ -8450,7 +8452,7 @@ WA4FC,South Hill,Virginia,United States,Peer,1,444.12500,DMRVA,0.0,0.0,314354,Pl
 W4NAS,Callahan,Florida,United States,Master,1,147.03000,BM,30.60935,-81.830311,314355,Open Brandmeister<br>TG 9/1 Local (Nassau ARES Chat)<br>TG 2/2 First Coast DMR<br>,+0.600,ACTIVE,N9HEL,TS1 TS2
 WV8CH,Beaver,West Virginia,United States,Peer,1,444.15000,BM,37.7,-81.1,314356,RPT testing,+5.000,ACTIVE,WV8CH,TS1 TS2
 W9XAM,SBR,West Virginia,United States,Peer,1,441.87500,BM,37.90245,-81.13009,314357,,+5.000,ACTIVE,WV8CH,TS1 TS2
-WV7HS,Youngtown,Arizona,United States,Master,1,441.77500,BM,33.59646,-112.29932,314358,"The West Valley Ham Shack is a complete amateur radio facility with a fully equipped station, conference/class room, work shop, museum, and parts galore for member use. We offer free classes, repairs, equipment testing, VE sessions, a repeater (soon adding DMR), and 9 experienced directors to help you with your projects and experiments. Our website is https://www.westvalleyhamshack.com. We accept donations. Membership is a 1-time fee of $20 for a key fob for access to the facility when we are open.",+5.000,ACTIVE,"W9WRP, WV7HS",TS1 TS2
+WV7HS,Youngtown,Arizona,United States,Master,1,441.77500,BM,33.59646,-112.29932,314358,"The West Valley Ham Shack is a complete amateur radio facility with a fully equipped station, conference/class room, work shop, museum, and parts galore for member use. We are in the process of adding remote capability to our station. We offer free classes, repairs, equipment testing, VE sessions, a repeater (Analog & DMR), and 9 experienced directors to help you with your projects and experiments. Our website is https://www.westvalleyhamshack.com. We accept donations. Membership is a 1-time fee of $20 for a key fob for access to the facility when we are open.",+5.000,ACTIVE,"WV7HS, W9WRP",TS1 TS2
 KG5JPJ,Rogers,Arkansas,United States,Master,1,442.52500,BM,36.204813,-94.101783,314359,,+5.000,ACTIVE,N5KWL,TS1 TS2
 W4EM,Bartlett,Tennessee,United States,Master,4,448.25000,bm,35.15353,-89.82019,314360,,+5.000,ACTIVE,N0KYN,TS1 TS2
 N0FON,HOLYOKE,Colorado,United States,Peer,9,146.95500,NECRO,40.5105448899339,-102.35961121454464,314361,,-0.600,ACTIVE,N0FON,TS1 TS2
@@ -9012,7 +9014,7 @@ N3BBF,Potomac,Maryland,United States,Peer,1,447.87500,Brandmeister,39.0530000,-7
 K8MOT,Portsmouth,New Hampshire,United States,Peer,5,444.55000,NEDECN,43.0725020,-70.8041510,314983,None,-5.000,ACTIVE,K8MOT,TS1 TS2
 N0SZ,Red Feathers,Colorado,United States,Peer,7,145.38500,RMHAM,40.8461979,-105.6104893,314984,None,-0.600,ACTIVE,W0VG,TS1 TS2
 N1KKM,Henniker,New Hampshire,United States,Peer,4,448.57500,NEDECN,43.1506000,-71.7981000,314985,None,-5.000,ACTIVE,N1KKM,TS1 TS2
-KR4AOM,Odenville,Alabama,United States,Peer,1,442.20000,Brandmeister,33.6050000,-86.4190000,314986,None,+5.000,ACTIVE,KQ4ESQ,TS1 TS2
+KR4AOM,Odenville,Alabama,United States,Peer,1,442.20000,Brandmeister,33.6054000,-86.4195000,314986,None,+5.000,ACTIVE,KQ4ESQ,TS2
 WD9EXZ,Winchester,Indiana,United States,Peer,1,441.17500,Brandmeister,40.0897500,-84.9368888,314987,None,+5.000,ACTIVE,"WD9EXZ, KC9CWN",TS1 TS2
 N5VGK,booneville,Mississippi,United States,Peer,1,145.34000,BrandMeister,34.5982000,-88.5800000,314988,chuck moffatt 662 523 9600,-0.600,ACTIVE,N5VGK,TS1 TS2
 KE2BNX,WANTAGE NJ,New Jersey,United States,Peer,0,442.50000,Brandmeister,41.2200000,74.5800000,314989,None,5.000,ACTIVE,KE2BNX,TS1 TS2
@@ -10291,7 +10293,6 @@ LU2FM,Rosario,Santa Fe,Argentina Republic,Master,1,434.75000,BM,-33.1245157,-60.
 LU2FM,Rosario,Santa Fe,Argentina Republic,Master,1,434.75000,BM,-33.1245157,-60.7134775,722054,,+5.000,ACTIVE,LU2FM,TS1 TS2
 PY2LY,Indaiatuba,Sao Paulo,Brazil,Master,1,439.62500,Brandmeister,-23.08193,-47.21012,724002,,-5.000,ACTIVE,PY2LY,TS1 TS2
 PY1NDN,Friburgo,Rio de Janeiro,Brazil,Master,1,147.27000,DMR-plus,0.0,0.0,724003,TG-724 slot1,+0.600,ACTIVE,PU1LOY,TS1 TS2
-PY2KCP,Espirito Santo do Pinhal,Sao Paulo,Brazil,Master,1,145.45000,Brandmeister,0.0,0.0,724004,,-0.600,ACTIVE,PU2XID,TS1 TS2
 PT2DV,Brasilia,Distrito Federal,Brazil,Master,1,147.30000,BrandMaster,-15.826691,-47.9218204,724005,,+0.600,ACTIVE,PT2AST,TS1 TS2
 PP5ADW,Chapeco,Santa Catarina,Brazil,Master,1,439.40000,BrandMeister,-27.120199,-52.595451,724006,,-5.000,ACTIVE,PU5ADW,TS1 TS2
 PY4RVA,Ipatinga,Minas Gerais,Brazil,Master,1,439.12500,Brandmeister,-19.4777807,-42.5270802,724007,,-5000,ACTIVE,PY4RVA,"1, 2"
@@ -10406,7 +10407,6 @@ PQ2HX,Porto Nacional,Tocantins,Brazil,Master,1,438.12500,BM,-10.7137660,-48.3869
 PY2KZN,Araraquara,Sao Paulo,Brazil,Master,1,439.20000,Bm,-21.7709000,-48.1730800,724120,,-5.000,ACTIVE,PY2WAL,TS1 TS2
 PY1CRF,Friburgo,Rio de Janeiro,Brazil,Peer,1,439.27500,DMR+,-22.9110137,-43.2093727,724121,,-5.000,ACTIVE,PU1LOY,TS1 TS2
 PY4RMB,Ipuiuna,Minas Gerais,Brazil,Master,1,439.20000,BrandMeister,-22.064699,-46.095390,724122,REPETIDORA PY4RMB  DE IPUIUNA MINAS GERAIS<br><br>Mantenadores<br><br>PY4AP    -  Márcio Ramos<br><br>PU2XMZ - Marco Bento<br><br>PU4EEA - Evaldo de Alcantara<br><br>PU4CCM - Cleber Melo,-5.000,ACTIVE,PU2XMZ,TS1 TS2
-PY2ASO,Espirito Santo do Pinhal,Sao Paulo,Brazil,Master,1,223.90000,Brandmeister,-22.1832,-46.7624,724123,,-0.600,ACTIVE,PU2XID,TS1 TS2
 PY4RBG,Ouro Preto,Minas Gerais,Brazil,Peer,1,146.65000,IPSC2-BRASIL2,-20.250500,-43.302000,724124,Conectada ao DMR/IPSC2-BRASIL2,-0.600,ACTIVE,PY4AC,TS1 TS2
 PY4RDI,Ouro Preto,Minas Gerais,Brazil,Peer,1,439.10000,BM 7242,-20.250500,-43.302000,724125,Repetidora em Ouro Preto rede BM 7242,-5.000,ACTIVE,PY4AC,TS1 TS2
 PP5FDG,Blumenau,Santa Catarina,Brazil,Master,1,439.40000,BrandMeister,-26.90458,-49.10616,724126,FALCONS DX GROUP,-5.000,ACTIVE,PP5CPJ,TS1 TS2
@@ -10487,14 +10487,13 @@ PY2KMA,Sao Paulo,Sao Paulo,Brazil,Master,1,145.33000,DMR MARC,-23.959900,-46.360
 PS7CW,Natal,Rio Grande do Norte,Brazil,Master,1,146.69000,BM,-5.7564897,-35.2341020,724215,,-0.600,ACTIVE,PS7GL,TS1 TS2
 PY2KLE,Embu-Guacu,Sao Paulo,Brazil,Master,1,145.37000,200.155.140.140,-23.333500,-47.045761,724216,,-0.600,ACTIVE,PY2KXH,TS2
 PY2KLW,Indaiatuba,Sao Paulo,Brazil,Master,1,439.32500,Brandmeister,-23.081699,-47.210781,724217,Time Slot #1 - Group Call 724 = Brazil<br>Time Slot #2 - Group Call 724942 = Net BR,-5.000,ACTIVE,PY2LY,TS1 TS2
-PP1GRI,Iconha,Espirito Santo,Brazil,Master,1,145.31000,Brandmeister,-20.7935003,-40.8108852,724219,,-0.600,ACTIVE,PU2XID,TS1 TS2
 PY2KAJ,Sao Paulo,Sao Paulo,Brazil,Master,1,439.62500,Brandmeister,-23.56223,-46.65848,724220,,-5.000,ACTIVE,PY2LY,TS1 TS2
 PY2KXK,Sao Paulo,Sao Paulo,Brazil,Master,1,145.21000,DMR,-23.580799,-46.697151,724221,,-0.600,ACTIVE,PY2KXH,TS1 TS2
 PY2KLM,Campinas,Sao Paulo,Brazil,Peer,1,439.82500,DMR,-22.972000,-46.949471,724223,,-5.000,ACTIVE,PY2FI,TS1 TS2
 PY2KPR,Sorocaba,Sao Paulo,Brazil,Master,1,147.24000,DMR+ & Brandmeister,-23.501667,-47.458056,724224,,+0.600,ACTIVE,PY2PE,TS1 TS2
 PY2DMR,Sorocaba,Sao Paulo,Brazil,Master,1,439.85000,Brandmeister,-23.560200,-47.365391,724225,Time Slot #1 - Group Call 724 = Brazil,-5.000,ACTIVE,PY2LY,TS1 TS2
 PY2FAA,Campinas,Sao Paulo,Brazil,Master,1,439.42500,DMR/Brandmeister,-22.889900,-47.076801,724226,,-5.000,ACTIVE,PY2FI,TS1 TS2
-PY2ASO,Espirito Santo do Pinhal,Sao Paulo,Brazil,Master,1,439.17500,Brandmeister,0.0,0.0,724227,,-5.000,ACTIVE,PU2XID,TS1 TS2
+PY2ASO,Espirito Santo do Pinhal,Sao Paulo,Brazil,Master,1,439.17500,Brandmeister,-22.1832000,-46.7624000,724227,,-5.000,ACTIVE,PU2XID,TS1 TS2
 PY2KES,mogi das cruzes,Sao Paulo,Brazil,Master,1,145.49000,brandmeister,-23.468700,-46.164711,724228,,-0.600,ACTIVE,PY2FI,TS1 TS2
 PY2ETZ,Pardinho,Sao Paulo,Brazil,Master,1,439.07500,DMR BRANDMEISTER,-23.1059,-48.3792,724229,,-5.000,ACTIVE,PY2GN,TS1 TS2
 PY2KAD,Avare,Sao Paulo,Brazil,Master,1,145.29000,DMR BRANDMEISTER,0.0,0.0,724230,,-0.600,ACTIVE,PU2YEN,TS1 TS2
@@ -10507,7 +10506,6 @@ PY2KDL,BOTUCATU,Sao Paulo,Brazil,Master,1,439.30000,BRANDMEISTER,0.0,0.0,724236,
 PY2KOZ,BOTUCATU,Sao Paulo,Brazil,Master,1,224.70000,BRANDMEISTER,0.0,0.0,724237,,-1.600,ACTIVE,PY2ZN,TS1 TS2
 PY2KOQ,Araraquara,Sao Paulo,Brazil,Master,1,146.69000,BRANDMEISTER,0.0,0.0,724238,,-0.600,ACTIVE,PY2OQ,TS1 TS2
 PY2KZN,Araraquara,Sao Paulo,Brazil,Master,1,439.20000,BRANDMEISTER,0.0,0.0,724239,,-5.000,ACTIVE,PY2OQ,TS1 TS2
-PY2KCH,Mococa,Sao Paulo,Brazil,Master,1,147.36000,Brandmeister,-21.4647,-47.00239,724240,,+0.600,ACTIVE,PU2XID,TS1 TS2
 PY2KNF,SAO PAULO,Sao Paulo,Brazil,Master,1,147.27000,Brandmaister,-23.5505199,-46.6333094,724241,,+0.600,ACTIVE,PY2NF,TS1 TS2
 PY5AMZ,UMUARAMA,Parana,Brazil,Master,1,439.75000,BM,-23.74821,-53.31276,724242,,-5.000,ACTIVE,PY4EI,TS1 TS2
 PY4FT,Lavras,Minas Gerais,Brazil,Master,1,439.70000,DMR+,-21.324725,-45.00891055555556,724243,,-5.000,ACTIVE,PY4CT,TS1 TS2
@@ -10562,10 +10560,9 @@ PY4RSE,Mateus Leme,Minas Gerais,Brazil,Peer,1,147.27000,Dmrplus,-19.9985101,-44.
 PY4RAP,DIVINOPOLIS,Minas Gerais,Brazil,Peer,1,431.51250,DMRPlus,-20.1451261,-44.8916447,724408,,7.6,ACTIVE,PY4CEP,TS1 TS2
 PY4RPV,Sabara,Minas Gerais,Brazil,Peer,1,430.57500,DMR,-19.8845263,-43.826722,724409,,9.4,ACTIVE,PY4CEP,TS1 TS2
 PY4RUL,UBERLANDIA,Minas Gerais,Brazil,Peer,1,145.35000,DMR+,-18.9188041,-48.2767837,724410,,-0.600,ACTIVE,PY4CEP,TS1 TS2
-PY4RAT,LAVRAS,Minas Gerais,Brazil,Master,1,439.92500,Brandmeister,-21.190001,-45.000000,724411,,-5.000,ACTIVE,PU2XID,TS1 TS2
 PY4RLD,DIVINOPOLIS,Minas Gerais,Brazil,Peer,1,439.75000,DMR+,-20.1434559,-44.89125,724412,,+5.000,ACTIVE,PY4CEP,TS1 TS2
 PY4RDZ,BELO HORIZONTE,Minas Gerais,Brazil,Peer,1,145.45000,BM,-19.828300,-43.911301,724414,,-0.600,ACTIVE,PY4AC,TS1 TS2
-PY4RMP,Paraisopolis,Minas Gerais,Brazil,Select Repeater Type,1,146.97000,Brandmeister,-22.548800,-45.775101,724415,,-0.600,ACTIVE,PU2XID,TS1 TS2
+PY4RMP,Paraisopolis,Minas Gerais,Brazil,Master,1,146.97000,Brandmeister,-22.548800,-45.775101,724415,,-0.600,ACTIVE,PU2XID,TS1 TS2
 PY4RPS,Divinópolis,Minas Gerais,Brazil,Peer,1,145.35000,IPSC2,-19.9181214,-43.9599618,724416,TG - 724 TS 1<br>TG - 72431 TS 2,-0.600,ACTIVE,PY4CEP,TS1 TS2
 PY4RRP,ONCA DE PITANGUI,Minas Gerais,Brazil,Peer,1,145.49000,DMR+,-19.6985094,-44.737891,724417,,-0.600,ACTIVE,PY4CEP,TS1 TS2
 PY4RFI,Sao Jose da Barra - MG,Minas Gerais,Brazil,Master,1,439.60000,Brandmeister,-20.700701,-46.287312,724418,,-5.000,ACTIVE,PY2ZHM,TS1 TS2
