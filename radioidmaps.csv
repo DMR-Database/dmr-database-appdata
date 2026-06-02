@@ -1272,7 +1272,6 @@ IR4UN,Terenzo - PR,Emilia-Romagna,Italy,Master,1,430.12500,BM,44.3522,10.0301,22
 IR2ZYJ,Laveno,Lombardy,Italy,Master,1,431.55000,BM,45.911184,8.637161,222433,ARI VARESE<br>SASSO DEL FERRO,+1.600,ACTIVE,IZ2QCP,TS1 TS2
 IR3UEH,Bassano del Grappa,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.57500,BM,45.80247222,11.67216667,222434,,+5.000,ACTIVE,IZ3CLG,TS1 TS2
 IR9ZVW,Messina,Sicily,Italy,Master,1,431.47500,BM,37,15,222435,,+1.600,ACTIVE,IT9JUQ,TS1 TS2
-IR8ZXN,Santa Caterina dello Ionio,Molise / Campania / Calabria,Italy,Master,1,145.57500,BM,38.536279,16.513196,222436,Ts2 on 22282 (Tg Calabria),-0.600,ACTIVE,IU8TIR,TS1 TS2
 IR4ZZU,BRISIGHELLA,Emilia-Romagna,Italy,Master,1,431.45000,BM,44.135934,11.632121,222437,,+1.600,ACTIVE,IK4FMY,TS1 TS2
 IR4J,Riolo Terme,Emilia-Romagna,Italy,Master,10,430.01000,BM,44.285335,11.745051,222438,,+3.9775,ACTIVE,IK4FMY,TS1 TS2
 IR3ZWE,Paluzza,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.22500,BM,46.562322,12.970277,222439,,+1.600,ACTIVE,IV3CUJ,TS1 TS2
@@ -2702,7 +2701,6 @@ R8JF,Megion,All Regions,Russia,Master,1,145.58750,192.168.100.1,61.0328900,76.10
 R2DYR,Orekhovo-Zuevo,All Regions,Russia,Master,1,434.97500,brandmeister,55.799340,38.969815,250036,,+5.000,ACTIVE,R2DYR,TS1 TS2
 R9FEL,Chaikovsky,All Regions,Russia,Master,1,439.10000,BM,56.76538387704602,54.10133148672318,250037,"Локальная разговорная группа (TG 250037) предназначена для общения жителей города Чайковский, Россия. Она может использоваться для обсуждения местных событий, обмена информацией, и взаимодействия между гражданами.",-0.76,ACTIVE,R9FEL,TS1 TS2
 UB3ZKR,Belgorod,All Regions,Russia,Master,1,439.37500,BM,50.78627,036.487750,250038,"TG9,TG8 ,TG31-TS1  ,TG2501,TG250648-TS2",-7.6,ACTIVE,UB3ZKR,TS1 TS2
-RR3DW,Chehov,All Regions,Russia,Peer,7,145.77500,BM,55.15021897270719,37.46020629906284,250039,,-0.600,ACTIVE,"RC3DE, RU3H",Mixed Mode
 RR9CL,Yekaterunburg,All Regions,Russia,Master,1,145.72500,BM,56.85333,60.64367,250040,DMR Repeater Radio Club EKAT,-0.000,ACTIVE,R8DD,TS1
 RA7XY,Nalchik,,Russia,Master,1,438.40000,BM,43.460393,43.599378,250041,TG-250668,-7.600,ACTIVE,RA7XY,TS1 TS2
 RR9HAA,Seversk,All Regions,Russia,Master,1,439.40000,DMR,56.585806,84.915301,250042,,-7.600,ACTIVE,R9HCV,Mixed Mode
@@ -3287,7 +3285,6 @@ DB0RHE,Rheine,Nordrhein-Westfalen,Germany,Peer,1,439.46875,BM,52.262870,7.428910
 DB0MVP,Schwerin,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Master,1,438.70000,BM,53.634620,11.392760,262199,,-7.6,ACTIVE,DB3MAX,TS1 TS2
 DM0HMB,Hamburg,,Germany,Master,1,438.45000,DMR-plus,53.550341,10.000654,262200,,-7.600,ACTIVE,DG1HT,TS1 TS2
 DB0PC,NDR Mast Bungsberg,Hamburg / Schleswig-Holstein,Germany,Master,1,438.38750,BM,54.217300,10.718821,262201,,-7.600,ACTIVE,DJ3LE,TS1 TS2
-DB0FS,Hamburg,Hamburg / Schleswig-Holstein,Germany,Peer,1,145.67500,BM,53.5976600,9.9465800,262203,,-0.600,ACTIVE,DL9DAK,TS1 TS2
 DM0TR,Trappenkamp,,Germany,,1,439.91250,BM,54.042400,10.200200,262205,,-9.400,ACTIVE,DH8LU,TS1 TS2
 DO0SH,Binsfeld,Rheinland-Pfalz / Saarland,Germany,Peer,1,439.82500,BM,6.7017400,49.9679700,262206,Testbetrieb DMR / P25,-9.400,ACTIVE,DO6PI,TS1 TS2
 DO0KD,Denkendorf,Bayern,Germany,Peer,1,439.97500,BM,48.94106382960124,11.471052557212232,262207,Cluster TG26285 TS2<br>TG 26444 TS1,-9.4,ACTIVE,DO1KD,TS1 TS2
@@ -3304,11 +3301,8 @@ DO0BN,Schoenberg,,Germany,,1,438.12500,None,53.6781808,10.4318363,262218,,0.000,
 DO0BN,Schoenberg,,Germany,,1,144.85000,None,53.6781808,10.4318363,262219,,0.000,ACTIVE,DK2BN,
 DB0FS,Hamburg,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.56250,BM,53.597660,9.946580,262220,,-7.600,ACTIVE,DL9DAK,TS1 TS2
 DB0ERK,Erkelenz,Nordrhein-Westfalen,Germany,Master,1,439.81250,"BM,IPSC2,C4FM, FM  Multimode.718",51.08358,6.200331,262221,Repeater  DB0ERK,-9.400,ACTIVE,DG2KCB,TS1 TS2
-DB0ZE,Hamburg,Hamburg / Schleswig-Holstein,Germany,Peer,1,438.92500,BM,53.519165,10.101645,262222,,-7.600,ACTIVE,DL9DAK,TS1 TS2
 DM0HL,Poehls,,Germany,,1,438.41250,BM,53.885391,10.485600,262223,,-7.600,ACTIVE,DL1SO,TS1 TS2
 DO0JM,Bexbach,Rheinland-Pfalz / Saarland,Germany,Peer,1,438.87500,BM,49.35783179409536,7.274516356846612,262224,,-7.6,ACTIVE,DO6JM,TS1 TS2
-DM0HAT,Groemitz / Ostsee,,Germany,,2,144.85000,DMR-plus,54.1034,10.8329,262225,,0.000,ACTIVE,DL6HAT,TS1 TS2
-DM0HAT,Groemitz / Ostsee,,Germany,,1,430.38750,DMR-plus,54.147820,10.955800,262227,,0.000,ACTIVE,DL6HAT,TS1 TS2
 DB0KI,Kniebis,Baden-Wuerttemberg,Germany,Master,1,438.25000,BM,48.476,8.3106,262228,,-7.600,ACTIVE,DL6SEC,TS1 TS2
 DM0STR,Liebschützberg,Sachsen / Thueringen,Germany,Master,1,145.76250,"YSF, DMR+, D-STAR",0.0,0.0,262229,,-0.600,ACTIVE,DG1FI,Mixed Mode
 DB0BRV,Bremervoerde,,Germany,Peer,1,438.46250,BM,53.367626,9.216156,262230,,-7.600,ACTIVE,DL4BBD,TS1 TS2
@@ -4624,6 +4618,7 @@ VA3PWR,Newmarket,Ontario,Canada,Peer,1,442.00000,MMDVM,44.0653641,-79.4323002,30
 VE7RKO,Prince George,British Columbia,Canada,Peer,1,433.50000,BM,54.0158330,-122.8044000,302457,None,+5.000,ACTIVE,VE7BUL,TS2
 VE7KRX,cranbrook,British Columbia,Canada,Peer,1,444.92500,private hb link,49.5000000,115.0000000,302459,None,+5.000,ACTIVE,VE7CRX,TS1
 VE2SWH,Sainte-Sophie,Quebec,Canada,Peer,2,448.67500,HOME,45.7956921,-73.9391855,302460,None,-5,ACTIVE,VA2SSK,TS1 TS2
+VE1VO,Liverpool,Nova Scotia,Canada,Peer,1,444.30000,Brandmister,44.0678440,-64.7186490,302461,None,+5.000,ACTIVE,VE1SMC,TS1 TS2
 VE5DMR,Swift Current,Saskatchewan,Canada,None,1,443.00000,DMR-MARC Canada,50.30184070000001,-107.8393936,302501,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada<br>Time Slot #1 - Group Call 310 = TAC310<br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba<br>Time Slot #2 - Group Call 3026 = Alberta<br>Time Slot #2 - Group Call 3029 = New Brunswick<br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE5EN<br>Contact email: ve5en@shaw.com,+5.000,ACTIVE,VE5EN,TS1 TS2
 VE6VPR,Edmonton,Alberta,Canada,Peer,1,440.80000,DMR-MARC Canada,53.5265078,-113.3021517,302600,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE6AEW<br>Contact email:,+5.000,ACTIVE,VE6AEW,TS1 TS2
 VE6RYC,Calgary,Alberta,Canada,Master,1,444.00000,DMR-MARC Canada,51.0448476,-114.0710449,302601,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: Doug Howard, VE6CID<br>Contact email:ve6cid@me.com",+5.000,ACTIVE,VE6CID,TS1 TS2
@@ -9054,6 +9049,8 @@ W6CX,Clayton,California,United States,Peer,1,144.92500,BrandMeister,37.8947030,-
 K4FLK,Key West,Florida,United States,Master,11,441.52500,Brandmeister,24.5520412,-81.8077650,315028,Repeater is the CGC Ingham Museum Ship.,+5.000,ACTIVE,"K4FLK, K1ST",TS1 TS2
 W8HD,Hudson,Ohio,United States,Peer,0,927.01250,Brandmeister,41.2402020,-81.4407300,315029,None,-25.000,ACTIVE,W8HD,TS1 TS2
 KF0WXX,Lincoln,Nebraska,United States,Peer,1,443.65000,brandmeister,40.8647946,-96.4845765,315031,KF0WXX DMR Repeater,5.000,ACTIVE,KF0WXX,Mixed Mode
+AA9RA,Chicago,Illinois,United States,Peer,1,442.17500,BRANDMEISTER,41.9268800,87.7601300,315032,None,5.000,ACTIVE,AA9RA,TS1 TS2
+K3EJ,Coatesville,Pennsylvania,United States,Peer,4,147.04500,Brandmeister,40.0341000,-75.8931800,315033,None,+0.600,ACTIVE,K3EJ,TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,DMRVA,37.5358149,-77.3821587,315101,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,ACTIVE,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,NC-PRN-,36.6474353,-80.6437257,315102,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,ACTIVE,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,NC-PRN,36.8663865,-81.0515927,315103,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,ACTIVE,K4IJ,TS1 TS2
