@@ -1306,6 +1306,8 @@ IR8ZXJ,REGGIO CALABRIA,Molise / Campania / Calabria,Italy,Master,1,430.15000,192
 IR9ZVV,ITALA,Sicily,Italy,Peer,1,430.07500,192.168.1.3,38.0638200,15.4030380,222468,None,16.000,ACTIVE,IT9HJH,TS1
 IR8ZXF,Roccella Ionica,Molise / Campania / Calabria,Italy,Peer,1,430.02500,BM,38.3403300,16.4114700,222469,None,1.600,ACTIVE,IW8RQI,TS1 TS2
 IR0ZYU,Calvi dell'Umbria,Lazio / Umbria / Sardinia,Italy,Peer,1,431.46250,BrandMeister,42.4334715,12.5980229,222470,None,+1.600,ACTIVE,IW0REF,TS1 TS2
+IR8ZXN,Santa Caterina dello Ionio,Molise / Campania / Calabria,Italy,Master,1,145.57500,BM,38.536279,16.513196,222471,Ts2 on 22282 (Tg Calabria),-0.600,ACTIVE,IU8TIR,TS1 TS2
+IR4ZZD,Borgo Val Di Taro,Emilia-Romagna,Italy,Master,1,435.87500,BM,44.4718400,9.8646500,222472,None,0.000,ACTIVE,IZ1MLF,TS2
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,DMR-plus,43.851292,10.667000,222500,,+5.000,ACTIVE,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,DMR-plus,43.831721,11.1992239,222501,,5.000,ACTIVE,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,BM,44.0094968,10.1019306,222502,,5.000,ACTIVE,IK5BNG,TS1 TS2
@@ -1407,7 +1409,7 @@ IR8BU,Ariano Irpino,,Italy,,1,430.36250,BM,41.154991,15.090000,222840,,5.000,ACT
 IR8AE,Montemiletto,,Italy,,1,145.70000,None,40.821072,14.730157,222850,,-0.600,ACTIVE,IW8ELN,
 IR8UDN,Nusco,Molise / Campania / Calabria,Italy,Peer,13,435.01250,BM,40.887657,15.099179,222877,,-5.000,ACTIVE,IZ8QIG,TS1 TS2
 IR8UDD,MONTE FAITO,,Italy,,1,430.27500,None,40.3576495,15.2252318,222881,,-5.000,ACTIVE,IZ8LLQ,
-IR8DS,Via G.Marconi 103,,Italy,,1,145.57500,None,38.7360155,16.16133,222890,,0.600,ACTIVE,IZ8UZK,
+IR8DS,Lamezia Terme,Molise / Campania / Calabria,Italy,Peer,1,145.57500,ycs222,38.7360155,16.16133,222890,,0.600,ACTIVE,IZ8UZK,Mixed Mode
 IT9UUT,DEMO/TEST,,Italy,Peer,1,430.90000,DMR-plus,,,222900,,5.000,ACTIVE,IT9UUT,TS1 TS2
 IR9UBO,Catania,Sicily,Italy,Master,1,430.57500,IT-DMR-Network,37.5022355,15.08738,222901,,5.000,ACTIVE,IT9ZON,TS1 TS2
 IR9UBN,Mt. Etna,Sicily,Italy,Peer,1,430.60000,DMR-plus,37.7487871,14.966850147778693,222902,,5.000,ACTIVE,IT9ZON,TS1 TS2
@@ -3320,7 +3322,7 @@ DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,430.38750,BM,54
 DB0PEG,Pegnitz,Bayern,Germany,Master,1,438.93750,Brandmeister,49.7580310,11.5327670,262243,None,7.600,ACTIVE,"DK7AM, DO2SK, DB9CR",TS1 TS2
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,439.92500,BM,54.562000,9.375000,262244,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.400,ACTIVE,DJ3LE,TS1 TS2
 DO0ELM,Hemkenrode,Niedersachsen / Bremen,Germany,Master,1,439.15000,DMR/FM,52.23045,10.7019,262245,2623 TS1<br>26538 (8) TS2,-7.600,ACTIVE,DO2ARD,Mixed Mode
-DL6HAT,Groemitz,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.93750,TS2,0.0,0.0,262246,None,-9.400,ACTIVE,DL6HAT,TS2
+DL6HAT,Groemitz,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.93750,TS2,54.1494000,10.9646000,262246,None,-9.400,ACTIVE,DL6HAT,TS2
 DB0RDG,Ribnitz-Damgarten,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,1,145.23750,BM,54.2391040,12.4107440,262247,None,0.000,ACTIVE,DB3MAX,TS1 TS2
 DB0RVH,Rostock,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,BM,54.1739500,12.2444200,262248,None,0.000,ACTIVE,DB3MAX,TS1 TS2
 DB0AT,Altentreptow,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,0,145.28750,BM,53.7477100,13.0784000,262249,None,0.000,ACTIVE,DB3MAX,TS1 TS2
@@ -4619,6 +4621,7 @@ VE7RKO,Prince George,British Columbia,Canada,Peer,1,433.50000,BM,54.0158330,-122
 VE7KRX,cranbrook,British Columbia,Canada,Peer,1,444.92500,private hb link,49.5000000,115.0000000,302459,None,+5.000,ACTIVE,VE7CRX,TS1
 VE2SWH,Sainte-Sophie,Quebec,Canada,Peer,2,448.67500,HOME,45.7956921,-73.9391855,302460,None,-5,ACTIVE,VA2SSK,TS1 TS2
 VE1VO,Liverpool,Nova Scotia,Canada,Peer,1,444.30000,Brandmister,44.0678440,-64.7186490,302461,None,+5.000,ACTIVE,VE1SMC,TS1 TS2
+VE3UHF,Hanover,Ontario,Canada,Master,1,146.91000,BM,44.1474970,-81.0145000,302462,None,-.600,ACTIVE,VE3BM,TS1 TS2
 VE5DMR,Swift Current,Saskatchewan,Canada,None,1,443.00000,DMR-MARC Canada,50.30184070000001,-107.8393936,302501,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada<br>Time Slot #1 - Group Call 310 = TAC310<br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba<br>Time Slot #2 - Group Call 3026 = Alberta<br>Time Slot #2 - Group Call 3029 = New Brunswick<br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE5EN<br>Contact email: ve5en@shaw.com,+5.000,ACTIVE,VE5EN,TS1 TS2
 VE6VPR,Edmonton,Alberta,Canada,Peer,1,440.80000,DMR-MARC Canada,53.5265078,-113.3021517,302600,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE6AEW<br>Contact email:,+5.000,ACTIVE,VE6AEW,TS1 TS2
 VE6RYC,Calgary,Alberta,Canada,Master,1,444.00000,DMR-MARC Canada,51.0448476,-114.0710449,302601,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: Doug Howard, VE6CID<br>Contact email:ve6cid@me.com",+5.000,ACTIVE,VE6CID,TS1 TS2
@@ -5552,7 +5555,6 @@ KN4GVY,Portable 2,Florida,United States,Peer,2,444.32500,F-DARN,0.0,0.0,310995,F
 KM4EYX,Douglas,Georgia,United States,Peer,3,443.13750,DMR-SE,31.523644,-82.872747,310996,FCDMR TG Plan,+5.000,ACTIVE,KM4EYX,TS1 TS2
 KA4VXR,Hampton,Virginia,United States,Peer,1,147.22500,BrandMeister,37.053741,-76.445068,310997,,+0.600,ACTIVE,KA4VXR,TS1 TS2
 N2WH,Boonton,New Jersey,United States,Master,1,449.77500,NJ,42.00000,-74.0000,310998,3400 Digital Group,-5.00,ACTIVE,N2WH,TS1 TS2
-KC0WWV,Muscatine,Iowa,United States,MASTER/PEER,1,444.40000,BrandMeister,41.4287681,-91.0771915,310999,,+5.000,ACTIVE,KC0WWV,2
 N0GW,Lebanon,Missouri,United States,Local,12,443.50000,Brandmeister,37.73055,-92.77472,311000,TG1 = SWMO<br>TG2 = BYRG,+5.0,ACTIVE,N0GW,1 & 2
 WR3IRS,Wilmington,Delaware,United States,Peer,1,448.42500,Interstate,39.7098279,-75.5526352,311001,TS2: TG2 = TriState full-time<br><br>On Interstate c-Bridge<br><br>Visit www.wr3irs.com for more information,-5.000,ACTIVE,WN3A,TS1 TS2
 W3BXW,Roxana,Delaware,United States,Peer,1,448.72500,NJ-TRBO,38.497223,-75.1708139,311002,,-5.000,ACTIVE,WA3BXW,TS1 TS2
@@ -6230,6 +6232,7 @@ W9TMW,Winnebago,Illinois,United States,Peer,3,440.05625,Chicagoland,42.2661311,-
 KC9NCS,Homer Glen,Illinois,United States,None,3,442.83125,Chicagoland,41.6000317,-87.9381112,311740,,+5.000,ACTIVE,KC9NCS,TS1 TS2
 NN9P,Rockford,Illinois,United States,Peer,1,443.32500,W9SMJ-Net,42.308643,-89.0009528,311741,"1	8	       Tri-State	11 repeaters in IL, IN, WI	24/7<br>2	1	       Worldwide (all Languages)	Worldwide	PTT on Demand<br>2	3	       North America	North America	24/7<br>2	13	       Worldwide English	Worldwide	PTT on Demand<br>2	9	       Talk	Linked Reflector	24/7<br>2	5000	Status	Local Repeater	1s PTT<br>2	4000	Disconnect	Local Repeater	1s PTT<br>2	4xxx  	Various Reflectors	Various	1s PTT<br><br>Repeater Trustee: NN9P<br>Trustee Email: nn9p@comcast.com",+5.000,ACTIVE,NN9P,TS1 TS2
 KB9SAR,Unknown,Illinois,United States,Master,0,440.00000,DMR-MARC,42.2411023,-88.2722047,311742,<br>,+5.000,ACTIVE,KB9SAR,Mixed Mode
+N9NLE,West Dundee,Illinois,United States,Peer,15,444.52500,IPSC2,41.9000000,-88.3530000,311743,"N9NLE 444.525 +5 MHz, Color Code 0",5.000,ACTIVE,N9NLE,Mixed Mode
 W9DIG,Chicago,Illinois,United States,Master,1,440.85625,Mixed Mode,41.8755616,-87.6244212,311744,,+5.000,ACTIVE,N9OZR,None
 WB9PHK,Schaumburg,Illinois,United States,Master,1,146.70000,ChicagoLand,42.0333608,-88.083406,311745,"Time Slot #1<br>3117 Illinois-1 (Illinois statewide)<br>3155 Wisconsin-1 (Wisconsin statewide)<br>31171 Illinois Fusion (Illinois sites)<br>31551 Wisconsif Fusion (Wisconsin sites)<br>TAC-312<br>TAC-317<br><br>Time Slot #2<br>3166 Local-2 (System wide)<br>3169 Midwest-2 (Midwest)<br>310 TAC-310<br>311 TAC-311<br><br><br>Contact Name: Todd, WB9PHK<br>Website: https://wp.chicagoland-cc.org/",-0.600,ACTIVE,WB9PHK,TS1 TS2
 K9PW,Schaumburg,Illinois,United States,Master,1,439.87500,DMRPlus,42.0333608,-88.083406,311747,,-9.4,ACTIVE,K9PW,TS1 TS2
@@ -6836,7 +6839,7 @@ K5GJ,Aldine,Texas,United States,Peer,9,440.47500,Lone Star,29.899877,-95.337368,
 WA7DMR,Ocean Shores,Washington,United States,Peer,1,146.41250,PNWDigital,0.0,0.0,312432,PNWDigital.net<br>PNW-A c-Bridge<br>bridgewatch.pnwdigital.org,+1.000,ACTIVE,NO7RF,TS1 TS2
 W4DMM,Murfreesboro,Tennessee,United States,Peer,1,444.30000,Brandmeister,35.7665,-86.3926,312433,,+5.000,ACTIVE,W4DMM,TS1 TS2
 N7LF,Corbett,Oregon,United States,Peer,1,443.10000,PNW Digital,45.530861,-122.089861,312435,,+5.000,ACTIVE,N7LF,TS1 TS2
-KC2REY,Dansville,New York,United States,Peer,1,434.00000,BrandMeister,42.6154630,-77.7277900,312436,CC1-TS1-TS2,+5.000,ACTIVE,KC2REY,TS1 TS2
+KC2REY,Dansville,New York,United States,Peer,1,434.00000,BrandMeister,42.6154630,-77.7277900,312436,CC1-TS1-TS2,+12.000,ACTIVE,KC2REY,TS1 TS2
 KD8REH,Kingsley,Michigan,United States,Master,1,443.35000,"BM, TGIF",44.564780,-85.541825,312437,TG 91 Worldwide<br>TG 93 North America <br>TG 2416<br>,+5.00,ACTIVE,KD8REH,TS1
 K4IUG,CHARLESTON,South Carolina,United States,Master,1,443.45000,NONE USE CONTACT99,32.7876012,-79.9402728,312438,,+5.000,ACTIVE,K4IUG,TS1 TS2
 KM7KK,Tucson,Arizona,United States,Peer,1,447.50000,BM,32.3277581,-111.1072585,312439,Europe 92<br>North America 93<br>Europe English 923<br>USA Bridge 3100<br>Southwest 3175<br>ECOMM US<br>AZ ECOMM 31040<br>USA EMCOMM 3100<br>English 913<br>AZ 10 Minute<br>USA Area 7<br>AZ Cactus TG 3185,-5.000,ACTIVE,KM7KK,TS1 TS2
@@ -10478,6 +10481,7 @@ PY2KIG,Sao Jose Do Rio Preto,Sao Paulo,Brazil,Peer,1,439.65000,BM,-20.7917,-49.3
 PY2KIM,Votuporanga,Sao Paulo,Brazil,Master,1,147.12000,BM,-20.4171,-49.97718,724208,,+0.600,ACTIVE,PY2IV,TS1 TS2
 PY2KMA,Sao Paulo,Sao Paulo,Brazil,Master,1,439.47500,bm,-23.5505199,-46.6333094,724209,,-5.000,ACTIVE,PY2VE,TS1 TS2
 PY2KCA,Artur Nogueira,Sao Paulo,Brazil,Peer,1,145.23000,bm,-22.5835,-47.1763,724210,,-0.600,ACTIVE,PY2VE,TS1 TS2
+PY7PYT,Paulista,Pernambuco,Brazil,Master,0,439.80000,BM,-7.9033417,-34.8440214,724211,None,-5.000,ACTIVE,PY7RFP,TS1 TS2
 PY2ZYV,ITU,Sao Paulo,Brazil,Master,1,439.99000,DMR-MARC,-23.273760,-47.300185,724212,,-5.000,ACTIVE,PY2ZYV,TS1 TS2
 PY2KSA,Sao Paulo,Sao Paulo,Brazil,None,1,439.60000,DRM+ BRAZIL,-23.5506507,-46.6333824,724213,,-5.000,ACTIVE,PY2PE,TS1 TS2
 PY2KMA,Sao Paulo,Sao Paulo,Brazil,Master,1,145.33000,DMR MARC,-23.959900,-46.360001,724214,,-0.600,ACTIVE,PY2XH,TS1 TS2
@@ -10735,6 +10739,7 @@ CX8CXX,Montevideo,Montevideo,Uruguay,Master,1,145.50000,BrandMeister,-34.874298,
 CX9SXX,Minas,Lavalleja,Uruguay,Peer,1,432.42500,BM,-34.373600,-55.236530,748005,"The repeater is located in the city of Minas, Lavalleja department..<br>Permanent TGs are: 748 on TS1,  7481 and 74810 on TS2., and emergency TG 74800 on both",+5.000,ACTIVE,CX2AL,TS1 TS2
 CX6CXX,Montevideo,Montevideo,Uruguay,Master,1,432.92500,BM,-34.907700,-56.160210,748006,Slot 1  748 permanent,+5.000,ACTIVE,CX1AA,TS1 TS2
 CX8TXX,Rocha,Rocha,Uruguay,Peer,1,432.65000,BrandMeister,-34.2832,-54.1832,748007,TG-74815,+5.000,ACTIVE,CX2TQ,TS1 TS2
+CX3IXX,Paysandu,Paysandu,Uruguay,Master,1,432.50000,BrandMeister,-32.3187,-58.07199,748008,,+5.000,ACTIVE,CX3AF,TS1 TS2
 CX4TXX,La Paloma,Rocha,Uruguay,Master,1,432.85000,BrandMeister,-34.625801,-54.172161,748009,,+5.000,ACTIVE,CX4AE,TS1 TS2
 CX3BXX,Montevideo 11200,Montevideo,Uruguay,master,1,432.22500,BrandMeister,-34.907902,-56.180401,748010,TG 748 / 7481,+ 5000,ACTIVE,CX2CI,tdma
 CX1DXX,Juanico,Canelones,Uruguay,Master,1,432.50000,BrandMeister,-34.617699,-56.268940,748011,"Repetidora (Juanicó) de Radiogrupo Sur<br>TS1: 748<br>TS2: 74800,74804,748230<br>https://radiogruposur.org",+5.000,ACTIVE,CX5A,TS1 TS2
