@@ -620,7 +620,7 @@ ED3YBK,Esparreguera,Barcelona,Spain,Master,1,145.57500,BM,41.534120,1.871120,214
 ED5ZAQ,Higueruela,Albacete,Spain,Master,1,438.40000,BM,38.983511,-1.411156,214022,,-7.600,ACTIVE,EA5SW,TS1 TS2
 ED1YBL,Parada Sil - Ourense,Ourense,Spain,Master,1,145.63750,BM,42.3495700,-7.6099700,214025,None,-0.600,ACTIVE,EA1CI,Mixed Mode
 ED1YBK,Sabadelle - Ourense,Ourense,Spain,Master,1,438.25000,BM,42.3583080,-7.8295740,214026,None,-7.600,ACTIVE,EA1CI,Mixed Mode
-EA4GTP,Mostoles,Madrid,Spain,Master,1,438.45000,192.168.10.1,40.3283680,-3.8703450,214027,None,-7.600,ACTIVE,EA4GTP,TS1 TS2
+EA4GTP,Mostoles,Madrid,Spain,Peer,1,438.45000,192.168.10.1,40.3283680,-3.8703450,214027,None,-7.600,ACTIVE,EA4GTP,TS1 TS2
 ED1ZAS,San Martin,,Spain,,1,438.22500,BM,43.458752,-5.669608,214102,,-7.600,ACTIVE,EB1TK,TS1 TS2
 ED1YBQ,Bejar,,Spain,,1,438.65000,DMR-plus,50,-3,214103,,-7.600,ACTIVE,EA1EZ,TS1 TS2
 ED1ZAU,Monte Naranco Oviedo,,Spain,,1,438.50000,BM,43.383938,-5.879306,214104,,-7.600,ACTIVE,EB1TK,TS1 TS2
@@ -2938,14 +2938,12 @@ SR3DKA,Kalisz,wielkopolskie,Poland,Master,1,438.40000,"Brandmeister, BM",51.7423
 SR9PSD,Pszów,śląskie,Poland,Master,9,439.31250,BM,50.04045,18.3957,260050,,-7.600,ACTIVE,SQ9DIQ,TS1 TS2
 SR2GG,Szubin,kujawsko-pomorskie,Poland,Master,12,439.90000,BM,53.016102,17.76260,260051,,-9.400,ACTIVE,SP2GG,TS1 TS2
 SR3OW,Ostrow Wlkp,wielkopolskie,Poland,Peer,1,439.05000,Bramdmeister,51.651207,17.82143,260053,,-7.600,ACTIVE,SP3OW,TS1 TS2
-SR8LBT,Lublin,lubelskie,Poland,Master,1,430.10000,"TetraPack, BM",51.235066,22.522841,260054,,+1.6,ACTIVE,SQ8MXP,Mixed Mode
 SR1WR,Ryman,zachodniopomorskie,Poland,Master,1,438.68750,Brandmeister,53.936667,15.540000,260055,,-7.600,ACTIVE,SP1WR,TS1 TS2
 SR9SR,Rybnik,śląskie,Poland,Peer,1,438.48750,BM,50.086691,18.553804,260056,WiP,-7.600,ACTIVE,SP9KJT,TS1 TS2
 SR9OKO,Strzybnik,śląskie,Poland,Peer,1,438.80000,260,50.1265569,18.16116712614024,260057,26098<br>26063<br>9,-7.600,ACTIVE,SP9PRR,TS1 TS2
 SR8ALA,Blizne,podkarpackie,Poland,Master,1,439.47500,BM,49.81492,21.99291,260058,Slot 1 TG260  Slot 2 TG26085,-7.600,ACTIVE,SP8SMA,TS1 TS2
 SR9RS,Maciejowa,małopolskie,Poland,Peer,9,439.32500,BM,49.5275682,20.821263,260059,"260, 2609, 26095, 260015",-7.600,ACTIVE,SQ9OJV,TS1 TS2
 SR8LSW,Swidnik,lubelskie,Poland,Master,1,439.02500,"TetraPack, BM",51.2214792419665,22.694311863724316,260060,,-7.6,ACTIVE,SP8MB,Mixed Mode
-SR8LT,Lublin,lubelskie,Poland,Master,1,430.05000,"TetraPack, BM",51.235089,22.522912,260061,,+1.6,ACTIVE,SQ8MXP,Mixed Mode
 SR4MIT,Miłki,warmińsko-mazurskie,Poland,Peer,1,438.52500,YSF,0.0,0.0,260062,,-7.6,ACTIVE,SQ4BJA,Mixed Mode
 SR6T,Stare Rochowice,dolnośląskie,Poland,Master,1,438.55000,"BM, DMR",50.912,16.012,260063,,-7.600,ACTIVE,SQ6SFT,TS1 TS2
 SR8NA,Nienadowa,podkarpackie,Poland,Master,2,438.82500,BM,49.84373,22.43339,260064,TS1 260,-7.60000,ACTIVE,SP8BAR,TS1 TS2
@@ -2955,6 +2953,7 @@ SR5UZQ,Krze Duze,mazowieckie,Poland,Master,5,438.86250,BM YSF,52.0074200,20.5894
 SR5MRK,RYBNIK,śląskie,Poland,Peer,5,431.61250,IPSC,50.0600000,18.5000000,260068,None,0.000,ACTIVE,SP5MRK,Mixed Mode
 SR5AWK,Warszawa,mazowieckie,Poland,Master,0,431.61250,Local site,52.1312540,21.0558740,260069,None,0.000,ACTIVE,SP5AWK,Mixed Mode
 SR4BF,Brzoski Falki,podlaskie,Poland,Master,4,438.80000,BrandMeister,52.916828,22.539230,260070,None,7.600,ACTIVE,SP4SB,TS1 TS2
+SR8LUB,Lublin,lubelskie,Poland,Peer,0,439.40000,"TetraPack, BM",51.2354079,22.5228351,260071,None,7.600,ACTIVE,SQ8MXP,Mixed Mode
 SR1KG,Kolobrzeg,zachodniopomorskie,Poland,Master,1,439.22500,Brandmeister,54.176262,15.570980,260101,TG260 TG2601,-7.600,ACTIVE,SQ1KW,TS1 TS2
 SR1UVX,Stargard,zachodniopomorskie,Poland,Master,1,439.38750,Brandmeister,53.339500,15.021333,260102,,-7.600,ACTIVE,SQ1GZG,TS1 TS2
 SR1UVH,Uznam Island,zachodniopomorskie,Poland,Master,1,439.02500,Brandmeister,53.9084104,14.2307479,260103,,-7.600,ACTIVE,SP1WSX,TS1 TS2
@@ -3205,6 +3204,7 @@ DB0JSF,Frankfurt/Oder,,Germany,,1,439.95000,DMR-plus,,,262101,,-9.400,ACTIVE,DF1
 DO0RAM,Ramelsloh,Niedersachsen / Bremen,Germany,Master,1,438.40000,Tetra,53.3523700,10.0312480,262102,,-7.600,ACTIVE,DO1XX,Mixed Mode
 DB0TGO,Berlin-Tegelort,,Germany,,1,434.78750,None,52.569592,13.232200,262103,,0.000,ACTIVE,DL7ATA,
 DB0SP,Berlin - Wannsee,,Germany,,6,145.62500,None,52.421199,13.1800603,262104,,-0.600,ACTIVE,DL7HD,
+DB0AF,Altdoebern,Berlin / Brandenburg,Germany,Master,1,438.25000,"DMR+, BM",51.6381,14.0403,262105,,-7.600,ACTIVE,DG1FI,TS1 TS2
 DB0BES,Bestensee,,Germany,,1,438.52500,None,52.242895,13.6279176,262106,,-7.600,ACTIVE,DL4KA,
 DB0XO,Bergheim,Nordrhein-Westfalen,Germany,Master,1,438.05000,BM,50.3424200,6.2500000,262107,Long Range Hotspot,+0.00,ACTIVE,DL5KCD,TS1
 DB0AVH,Flankenschanze 43,,Germany,,1,439.82500,BM,52.540203,13.198562,262108,,-9.400,ACTIVE,DH7AHK,TS1 TS2
@@ -3280,10 +3280,12 @@ DB0FSG,Langenbach,Bayern,Germany,Peer,1,439.93750,BM,48.434244,11.819593,262186,
 DB0IDS,Idstein,Hessen,Germany,Peer,1,438.41250,BM,50.22028,8.24806,262187,,-7.600,ACTIVE,DD2ZN,TS1 TS2
 DB0LOL,Loeningen,Niedersachsen / Bremen,Germany,Master,1,439.50000,DMR,0.0,0.0,262188,,-7.600,ACTIVE,DL1LOL,Mixed Mode
 DL3OCK,Berlin,Berlin / Brandenburg,Germany,Peer,1,438.62500,BM,52.50222,13.33306,262189,Mobile Repeater for testing issues,-7.600,ACTIVE,DL3OCK,TS1 TS2
+DB0LS,Lauchhammer,Berlin / Brandenburg,Germany,Master,1,438.22500,"DMR+, YSF",51.5274,13.8307,262190,,-7.600,ACTIVE,DG1FI,Mixed Mode
 DK5RAS,Fuerth,Bayern,Germany,Peer,1,439.70000,BM,49.4727100,10.9825900,262191,,-9.4,ACTIVE,DK5RAS,TS1 TS2
 DB0TEN,Bomlitz,Niedersachsen / Bremen,Germany,Master,1,439.21250,BM,52.902111,9.667600,262192,,-7.600,ACTIVE,DK1OM,TS1 TS2
 DB0WAC,Markleeberg,Sachsen / Thueringen,Germany,Master,1,438.20000,BM,51.28154,12.4282998,262193,,-7.600,ACTIVE,DL1FLW,TS1 TS2
 DB0DEI,Deiderode,Niedersachsen / Bremen,Germany,Master,1,439.25000,BM,0.0,0.0,262194,,-7.6,ACTIVE,DL8OCK,TS1 TS2
+DB0SAX,Oschatz,Sachsen / Thueringen,Germany,Peer,1,438.67500,"YSF, DMR+, D-STAR",51.3039,13.0094,262195,,-7.600,ACTIVE,DG1FI,Mixed Mode
 DP8DSF,Bubenreuth,Bayern,Germany,Peer,1,439.82500,BM,49.61510727765523,11.003140388294925,262196,,-9.4,ACTIVE,DN9DSF,TS1 TS2
 DB0UHF,Kaisersbach,Baden-Wuerttemberg,Germany,Master,1,438.60000,BM,48.931462,9.636371,262197,!!! Testbetrieb !!! Inselbetrieb ohne Netzanbindung !!!,-7.600,ACTIVE,DO1SAR,TS1 TS2
 DB0RHE,Rheine,Nordrhein-Westfalen,Germany,Peer,1,439.46875,BM,52.262870,7.428910,262198,,-7.6,ACTIVE,DG1YIQ,TS1 TS2
@@ -3306,10 +3308,11 @@ DO0BN,Schoenberg,,Germany,,1,438.12500,None,53.6781808,10.4318363,262218,,0.000,
 DO0BN,Schoenberg,,Germany,,1,144.85000,None,53.6781808,10.4318363,262219,,0.000,ACTIVE,DK2BN,
 DB0FS,Hamburg,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.56250,BM,53.597660,9.946580,262220,,-7.600,ACTIVE,"DL9DAK, DD3XK",TS1 TS2
 DB0ERK,Erkelenz,Nordrhein-Westfalen,Germany,Master,1,439.81250,"BM,IPSC2,C4FM, FM  Multimode.718",51.08358,6.200331,262221,Repeater  DB0ERK,-9.400,ACTIVE,DG2KCB,TS1 TS2
+DM0FI,Finsterwalde,Berlin / Brandenburg,Germany,Peer,0,438.22500,"DMR+, YSF, DSTAR",51.6218800,13.7203400,262222,None,-7.600,ACTIVE,DG1FI,Mixed Mode
 DM0HL,Poehls,,Germany,,1,438.41250,BM,53.885391,10.485600,262223,,-7.600,ACTIVE,DL1SO,TS1 TS2
 DO0JM,Bexbach,Rheinland-Pfalz / Saarland,Germany,Peer,1,438.87500,BM,49.35783179409536,7.274516356846612,262224,,-7.6,ACTIVE,DO6JM,TS1 TS2
 DB0KI,Kniebis,Baden-Wuerttemberg,Germany,Master,1,438.25000,BM,48.476,8.3106,262228,,-7.600,ACTIVE,DL6SEC,TS1 TS2
-DM0STR,Liebschützberg,Sachsen / Thueringen,Germany,Master,1,145.76250,"YSF, DMR+, D-STAR",0.0,0.0,262229,,-0.600,ACTIVE,DG1FI,Mixed Mode
+DM0STR,Liebschuetzberg,Sachsen / Thueringen,Germany,Master,1,145.76250,"YSF, DMR+, D-STAR",51.3518300,13.2263300,262229,,-0.600,ACTIVE,DG1FI,Mixed Mode
 DB0BRV,Bremervoerde,,Germany,Peer,1,438.46250,BM,53.367626,9.216156,262230,,-7.600,ACTIVE,DL4BBD,TS1 TS2
 DO0TPB,Basedow,,Germany,,1,438.83750,DMR-plus,53.414650,10.588254,262231,,-7.600,ACTIVE,DO7TPB,TS1 TS2
 DB0OST,Geesthacht,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.25000,DMR-plus,0.0,0.0,262232,,-7.600,ACTIVE,DO7TPB,TS1 TS2
@@ -9060,6 +9063,7 @@ N9CWM,Lyons Township,Illinois,United States,Peer,0,443.75000,Private,41.7667000,
 KB7DWO,Carson City,Nevada,United States,Peer,1,444.57500,Brandmeister,39.1513689,-119.7412080,315040,None,+5.000,ACTIVE,KB7DWO,TS1
 KG6TRQ,MORONGO VALLEY,California,United States,Peer,0,441.38750,BM,34.1616060,-118.0719530,315041,None,5.000,ACTIVE,KG6TRQ,TS1 TS2
 KG6TRQ,MORONGO VALLEY,California,United States,Peer,8,441.38750,BM,34.1616060,-118.0719530,315042,None,5.000,ACTIVE,KG6TRQ,TS1 TS2
+AA9RA,CHICAGO,Illinois,United States,Peer,1,442.17500,BRANDMEISTER,41.9268800,87.7601300,315043,None,0.500,ACTIVE,AA9RA,TS1
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,DMRVA,37.5358149,-77.3821587,315101,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,ACTIVE,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,NC-PRN-,36.6474353,-80.6437257,315102,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,ACTIVE,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,NC-PRN,36.8663865,-81.0515927,315103,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,ACTIVE,K4IJ,TS1 TS2
