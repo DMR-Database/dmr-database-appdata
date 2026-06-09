@@ -378,6 +378,7 @@ F1ZYK,Vineuil,Centre-Val de Loire,France,Peer,1,439.98750,208042,DMR,208042,1,,-
 F1ZZE,Nantes,Pays de la Loire,France,Peer,1,439.60000,208043,BM,208043,1,Relais DMR F1ZZE :<br>Motorola SLR5500 avec Diamond X50N<br>439.6000Mhz  (TX ct relais) - 430.2000Mhz (RX ct relais) - TG20844 - CC1 - TS1<br>Interconnect  BM : https://brandmeister.network/index.php?page=device&id=208043,-9.400,F4JFU,TS1 TS2
 F5ZOL,Pierrefeu,Provence-Alpes-Cote d Azur,France,Peer,1,145.60000,208044,BM,208044,1,,-0.600,F6KGC,TS1 TS2
 F6ZEU,Gif sur Yvette,Ile-de-France,France,Peer,1,430.13750,208045,Brandmeister,208045,1,Repeater currently in test,+9.400,F4CWH,TS1 TS2
+F1ZXM,Risoul,Provence-Alpes-Cote d Azur,France,Peer,5,145.66250,208046,IPSC2 France3,208046,1,None,-0.600,F4EGG,Mixed Mode
 F1ZZT,Pour Les Mobiles EDV Electrons Du Velay,Auvergne-Rhone-Alpes,France,Master,1,439.50000,208047,BM,208047,1,"Hotspot Numerique Destin pour les Mobiles EDV Electrons Du Velay , en ca de crise",-9.400,F4GVA,TS1 TS2
 F5ZRH,Cholet,Pays de la Loire,France,Master,1,439.62500,208049,BM,208049,0,,-9.4,F4IPA,TS1 TS2
 TK1ZBG,Cervione,,Corsica,,1,439.51250,208050,BM,208050,0,,-9.400,TK1LG,TS1 TS2
@@ -431,7 +432,9 @@ F1ZVZ,LE BURGAUD,Occitanie,France,Peer,0,439.72500,208097,1,208097,1,None,0.000,
 F9RCL,Boulay-Moselle,Grand Est,France,Master,1,145.60000,208098,FD_ADN_20857_France_F9RCL,208098,1,None,0.600,F9RCL,TS1
 F1ZHW,Montfermeil,,France,,7,430.53750,208099,BM,208099,1,,9.400,F1TUV,TS1 TS2
 F1ZLL,2205 route de BRAS,,France,,1,430.56250,208101,BM,208101,1,,9.400,F1SER,TS1 TS2
-F1ZYI,Serre-Chevalier,Provence-Alpes-Cote d Azur,France,Master,1,439.73750,208103,DMR-plus,208103,1,TS-2<br>ECRINS 20805 - ALPES 84<br>,-9.4,F4EGG,TS1 TS2
+F5ZAI,Les Gondrans,Provence-Alpes-Cote d Azur,France,Peer,5,145.78750,208102,IPSC2 France3,208102,1,None,-0.600,F4EGG,Mixed Mode
+F1ZYI,Serre-Chevalier,Provence-Alpes-Cote d Azur,France,Peer,1,439.73750,208103,DMR-plus,208103,1,TS-2<br>ECRINS 20805 - ALPES 84,-9.4,F4EGG,TS1 TS2
+F1ZII,Le Prorel,Provence-Alpes-Cote d Azur,France,Peer,5,439.86250,208104,IPSC2 France3,208104,1,None,-9.400,F4EGG,Mixed Mode
 F1ZDH,BRIANCON,Provence-Alpes-Cote d Azur,France,Master,5,439.95000,208105,D-STAR,208105,1,Relais urbain de Brianon,-9.4,F4EGG,Mixed Mode
 F5ZQH,Pic de Bertagne,,France,,0,430.23750,208107,BM,208107,0,,9.400,F5LKW,TS1 TS2
 F5ZJQ,Aubagne (13),,France,,0,439.35000,208108,BM,208108,0,,-7.600,F5LKW,TS1 TS2
@@ -924,7 +927,6 @@ IR4UCO,Bologna,Emilia-Romagna,Italy,Peer,1,430.61250,222046,BM,222046,1,,+5.000,
 IR7UCJ,Bari,Apulia / Basilicata,Italy,Master,1,430.43750,222047,BM,222047,1,,+5.000,IZ7SIA,TS1 TS2
 IR5UEC,Lucca,Tuscany,Italy,Master,1,430.08750,222048,BM,222048,1,,+5.000,IU5AAG,TS1 TS2
 IR0UJM,SEZZE,Lazio / Umbria / Sardinia,Italy,Master,1,430.52500,222049,BM,222049,1,,+5.000,IZ0RIM,TS1 TS2
-IR0UGM,Configni,Lazio / Umbria / Sardinia,Italy,Peer,1,430.17500,222050,BranMeister,222050,1,,1.600,IW0REF,TS1 TS2
 I0KMJ,Terni Citt,Lazio / Umbria / Sardinia,Italy,Peer,1,430.91250,222051,IT-DMR,222051,1,,+5.000,I0KMJ,TS1 TS2
 IR1UDQ,Genova,Piedmont / Liguria / Aosta,Italy,Peer,1,431.30000,222052,BM,222052,1,d2alp cluster connected on slot 1 / regional or HBlink on slot 2,+1.600,IW1QQV,TS1 TS2
 IR1UJO,Frabosa Soprana CUNEO,Piedmont / Liguria / Aosta,Italy,Peer,1,430.83750,222053,BM,222053,1,"FUTURA INSTALLAZIONE, SEGNALERO QUI QUANDO VERRA MESSO IN SERVIZIO<br><br>D2ALP CLUSTER SERVICE ON SLOT1<br>",+5.000,IW1QQV,TS1 TS2
@@ -954,7 +956,6 @@ IR5ZYA,Poggio Incontro - FI,Tuscany,Italy,Master,1,430.97500,222076,BM,222076,1,
 IR0ZZV,Monte Cosce Configni Rieti,Lazio / Umbria / Sardinia,Italy,Master,1,430.85000,222077,BM,222077,1,,+5.000,IK0NGL,TS1 TS2
 IR0ZZU,Terni,Lazio / Umbria / Sardinia,Italy,Master,1,430.01250,222078,BM,222078,1,,+5.000,IK0NGL,TS1 TS2
 IR9ZZQ,Catania,Sicily,Italy,Master,1,430.28750,222079,BM,222079,1,,+5.000,IW9GRL,TS1 TS2
-IR0UAQ,Terni,Lazio / Umbria / Sardinia,Italy,Peer,1,430.20000,222080,DMR-plus,222080,1,,1.600,IW0REF,TS1 TS2
 IR0UIN,Bruncu Simioni,,Italy,,1,430.72500,222081,None,222081,0,,5.000,IS0AYI,
 IR0ZZS,Roma,Lazio / Umbria / Sardinia,Italy,Master,1,430.23750,222082,BM,222082,1,,+5.000,IW0FXN,Mixed Mode
 IR0UIP,Itri,Lazio / Umbria / Sardinia,Italy,Peer,1,430.75000,222083,DMR-plus,222083,1,,5.000,IU0DLI,TS1 TS2
@@ -1868,6 +1869,7 @@ GB7MJ,ROMSEY,England,United Kingdom,Master,5,430.63750,234042,SWC,234042,1,"Slot
 GB7DVS,DV Scotland Phoenix,Scotland,United Kingdom,Peer,1,439.60000,234043,DV Scotland Phoenix,234043,1,,-9.000,GM3AND,TS1 TS2
 GB7CB,Livingston,Scotland,United Kingdom,Peer,4,439.71250,234044,Brandmeister,234044,1,,-9.000,GM7RYR,TS1 TS2
 GB7RL,Preston,England,United Kingdom,Master,10,439.77500,234045,BM,234045,1,23522<br>2340542<br>250980,-9.0000,G7TRL,TS1 TS2
+GB7PF,Princetown,England,United Kingdom,Peer,3,439.63750,234046,South West Cluster FreeDMR,234046,1,Motorola DR3000 TX/RX<br>TS1-TG9 - LOCAL and Dial-a-Talk Group<br>TS2-TG950-South West Cluster area wide broadcast,-9.000,G3XOU,TS1 TS2
 GB7CF,Clanfield,England,United Kingdom,Master,3,439.62500,234047,BM,234047,1,,-9.000,M0PPR,TS1 TS2
 GB7LT,Morton,England,United Kingdom,Master,0,434.05000,234049,Tetra,234049,1,Tetra DMO repeater<br> MCC 901<br>MNC 16383<br>Slot 1,+0.0,G6KSM,TS1
 GB7XLX,DVScotland,Scotland,United Kingdom,Master,1,439.00000,234050,DVSPh,234050,1,ID for linking,-9.000,G0RDI,Mixed Mode
@@ -4010,7 +4012,7 @@ LZ0SVK,Peshtera,Pazardzhik,Bulgaria,Master,1,438.15000,284026,BM,284026,1,,-7.6,
 LZ0DCH,Dobrich,,Bulgaria,Master,1,439.20000,284027,BM,284027,1,00359899115116,-7.6,LZ2BB,TS1 TS2
 LZ0ZLF,Zlatitca,Sofia,Bulgaria,Master,1,439.87500,284028,BM,284028,1,,-7.600,LZ1PPD,Mixed Mode
 LZ0MTS,Sofia,,Bulgaria,Master,1,439.62500,284029,DMR-plus,284029,1,,-7.6000,LZ1MTS,TS1 TS2
-LZ0TUG,Gabrovo,,Bulgaria,Master,1,438.52500,284030,BM,284030,1,TS1 - 284,-7.6,LZ2KAC,TS1 TS2
+LZ0TUG,Gabrovo,Gabrovo,Bulgaria,Master,1,438.52500,284030,BM,284030,1,TS1 - 284,-7.6,"LZ2KAC, LZ2ISI",TS1 TS2
 LZ0UNO,SOFIA-City,Sofia City,Bulgaria,Peer,1,438.25000,284031,"FreeDMR, ADN",284031,1,TS1 - TG284 FreeDMR Bulgaria<br>TS2 - TG284 ADN Bulgaria,-7.600,LZ1GSP,TS1 TS2
 LZ1TBS,Sofia,Sofia City,Bulgaria,Peer,1,438.22500,284032,BM,284032,1,None,-7.600,LZ1STA,Mixed Mode
 LZ0SAN,Sandanski,,Bulgaria,Peer,1,433.50000,284033,ADN,284033,1,TG284. Bulgaria,-0.01,LZ1FA,TS2
@@ -6843,7 +6845,6 @@ K5GJ,Aldine,Texas,United States,Peer,9,440.47500,312431,Lone Star,312431,1,,+5.0
 WA7DMR,Ocean Shores,Washington,United States,Peer,1,146.41250,312432,PNWDigital,312432,0,PNWDigital.net<br>PNW-A c-Bridge<br>bridgewatch.pnwdigital.org,+1.000,NO7RF,TS1 TS2
 W4DMM,Murfreesboro,Tennessee,United States,Peer,1,444.30000,312433,Brandmeister,312433,1,,+5.000,W4DMM,TS1 TS2
 N7LF,Corbett,Oregon,United States,Peer,1,443.10000,312435,PNW Digital,312435,1,,+5.000,N7LF,TS1 TS2
-KC2REY,Dansville,New York,United States,Peer,1,434.00000,312436,BrandMeister,312436,0,CC1-TS1-TS2,+12.000,KC2REY,TS1 TS2
 KD8REH,Kingsley,Michigan,United States,Master,1,443.35000,312437,"BM, TGIF",312437,1,TG 91 Worldwide<br>TG 93 North America <br>TG 2416<br>,+5.00,KD8REH,TS1
 K4IUG,CHARLESTON,South Carolina,United States,Master,1,443.45000,312438,NONE USE CONTACT99,312438,1,,+5.000,K4IUG,TS1 TS2
 KM7KK,Tucson,Arizona,United States,Peer,1,447.50000,312439,BM,312439,1,Europe 92<br>North America 93<br>Europe English 923<br>USA Bridge 3100<br>Southwest 3175<br>ECOMM US<br>AZ ECOMM 31040<br>USA EMCOMM 3100<br>English 913<br>AZ 10 Minute<br>USA Area 7<br>AZ Cactus TG 3185,-5.000,KM7KK,TS1 TS2
@@ -7147,7 +7148,7 @@ K5WHB,corinth,Mississippi,United States,Master,1,147.28500,312802,ham,312802,1,,
 W5AV,Horn Lake,Mississippi,United States,Master,1,442.01250,312803,Brandmeister,312803,1,,+5.000,WB4IZC,TS1 TS2
 K5WHB,Corinth,Mississippi,United States,Master,1,444.60000,312804,DMR,312804,1,,+5.000,K5WHB,TS1
 W5NRU,Ellisville,Mississippi,United States,Peer,1,442.17500,312805,Brandmeister,312805,1,,+5.000,W5NRU,Mixed Mode
-W5NRU,Hattiesburg,Mississippi,United States,Peer,1,442.70000,312806,Brandmeister,312806,1,,+5.000,W5NRU,Mixed Mode
+W5NRU,Jones Co,Mississippi,United States,Peer,1,442.21250,312806,Brandmeister,312806,1,,+5.000,W5NRU,Mixed Mode
 KJ5V,Starkville,Mississippi,United States,Peer,1,440.55000,312807,Brandmeister,312807,1,,+5.000,KJ5V,TS1 TS2
 W5GWD,Coldwater,Mississippi,United States,None,1,444.92500,312808,MS-LINK,312808,1,,+5.000,KG5IRU,TS1 TS2
 K4KTR,Cecilia,Kentucky,United States,Peer,1,443.11250,312809,BM,312809,1,,+5.000,K4KTR,TS1 TS2
@@ -7953,7 +7954,6 @@ KK3L,Berkeley Springs,West Virginia,United States,Peer,1,443.85000,313780,Inters
 N7NKT,Stanfield,Oregon,United States,Peer,1,441.30000,313781,BM,313781,1,HOME TG 312957,+5.000,N7NKT,TS1 TS2
 K4VDO,ORLANDO,Florida,United States,Master,2,442.10000,313782,"BM, TGIF, AND LOCAL ONLY NETWORK",313782,1,TIMESLOT 2<br>TGIF 176<br>TGIF 361<br>BM 31121 FIRST COAST<br>BM 311307 KINGSLAND LOCAL<br>BM 3112 FLORIDA STATEWIDE<br>BM 313782 STATIC TG<br><br>TIMESLOT 1<br>9 LOCAL NETWORK<br>TGIF 176<br>TGIF 361,+5.00,K4VDO,TS1 TS2
 AB8E,Elkins,West Virginia,United States,Master,1,146.86500,313783,BM,313783,1,,-0.600,AB8E,TS1
-N2FUR,Belleville,New Jersey,United States,Peer,1,443.09000,313784,BM,313784,1,,+5.000,N2FUR,TS1 TS2
 N6CID,Alamogordo,New Mexico,United States,Master,1,444.97500,313786,BM,313786,1,,+5.000,N6CID,TS1 TS2
 KC7Z,Bremerton,Washington,United States,Peer,1,441.17500,313787,BrandMeister,313787,0,,+5.000,KC7Z,Mixed Mode
 KG5A,Williston,Tennessee,United States,Peer,4,442.23750,313788,Brandmeister,313788,1,"IPSC Network:BM - Color Code:4 - Assigned:Master - TS Linked:TS1 TS2 - Operator:KX4MQ<br>Time Slot # 1 - Group Call 31471 = NWS Memphis<br>Time Slot # 2 - Group Call 2 = West TN Cluster, """,+5.00,NJ8X,TS1 TS2
@@ -8692,7 +8692,7 @@ WN1R,Orange Beach,Alabama,United States,Peer,5,443.40000,314616,BM,314616,1,"GUL
 N4HRS,Honaker,Virginia,United States,Peer,9,444.81250,314617,DMRVA / N4HRS,314617,1,,+5.000,KD4ADL,TS1 TS2
 N4HRS,Roanoke,Virginia,United States,Peer,9,444.21250,314618,DMRVA / N4HRS,314618,1,see n4hrs.org or DMRVA.org for details,+5.000,KD4ADL,TS1 TS2
 N4HRS,Lynchburg,Virginia,United States,Peer,9,443.55000,314619,DMRVA / N4HRS,314619,1,,+5.000,KD4ADL,TS1 TS2
-N5VGK,Belden,Mississippi,United States,Peer,1,442.07500,314620,BM,314620,1,time slot 1 for dynamic linking<br>time slot 2 will have 3128 static,+5.000,N5VGK,TS1 TS2
+N5VGK,counce,Tennessee,United States,Peer,1,442.07500,314620,BRANDMEISTER,314620,1,time slot 1 for dynamic linking<br>time slot 2 will have 3128 static,+5.000,N5VGK,TS1 TS2
 N2FED,Lake Hopatcong,New Jersey,United States,Master,1,441.80000,314621,BrandMeister,314621,1,"Hytera RD-982 running mixed-mode analog/DMR<br><br>TS 1:  STATIC talkgroups / Full-time<br>314423 - N2FED NETWORK<br>314473 - N2PTA (NJ POTA) talkgroup - check them out on QRZ !<br>3134 - NJ STATE (10 minute limit)<br><br>**Note that any BrandMeister talkgroup is also available dynamically on TS 1 via PTT for a 15 minute interval***<br><br>TS 2:  STATIC talkgroups / Full-time<br>31360 - TRI-STATE<br><br>Repeater System Hub:<br><br>AllStarLink Node - 64332 (come out all repeaters on analog)<br>Echolink - 447875 (come out all repeaters on analog)<br>DMR TGIF - 314423 (come in DMR through TGIF, come out all repeaters on analog)<br>DMR BrandMeister - 314423 (come in DMR through BrandMeister, come out DMR all repeaters on TS 1)<br>YSF Reflector US-N2FED - 00654 (come in C4FM, come out DMR all repeaters on TS1 - 314423)<br><br>For more information, please visit https://www.qrz.com/db/N2FED",+5.000,N2FED,TS1 TS2
 KD4VVZ,Thomasville,Mississippi,United States,Peer,1,444.98750,314622,DMR-SE C-Bridge,314622,1,"Static (Full Time Talkgroups)<br>TS 1 - TG 314622 = Thomasville, MS (no Brandmeister) DMR-SE C-bridge network only<br>TS 2 - TG 312801 = Lucedale, MS<br><br>TS 1 Dynamic Talkgroups (PTT Activated - 10 Min Timer)<br>TG 3128 = MS Statewide<br>TG 3 = North America<br>TG 13 = Worldwide English (DMR-MARC)<br>TG 93 = North America BM<br>TG 310 = TAC-310 BM<br>TG 311 = TAC-311 BM<br>TG 312 = TAC-312 BM<br>TG 3100 = USA Calling BM<br>TG 3101 = AL Statewide<br>TG 3112 = FL Statewide<br>TG 3122 = LA Statewide<br>TG 3148 = TX Statewide<br>TG 3174 = SE Region<br>TG 9998 = Parrot (Audio Test)<br>TG 13174 = SE Region BM<br>TG 31010 = Alabama Link<br>TG 31225 = SE Louisiana<br>TG 311307 = Kingsland, GA<br><br>TS 2 Dynamic Talkgroups (PTT Activated - 10 Min Timer)<br>TG 9 = Local 9-2 (Local Only)<br>TG 3199 = US Hurricane Net BM<br>TG 31285 = NE Mississippi<br>TG 31280 = MS Tac<br>TG 314128 = McHenry, MS<br>TG 314309 = Biloxi, MS<br><br>Note: All TGs are BM linked and SE-DMR SE-Bridge<br>unless otherwise noted.<br>7-5-25",+5.00,KD4VVZ,TS1 TS2
 AE2EY,Elizabethton,Tennessee,United States,Master,1,438.62500,314623,BM,314623,1,TESTING<br>TS1 and TS2 available for local use,-5.175,KC4AYX,TS1 TS2
@@ -9006,7 +9006,7 @@ W0DJK,FARIBAULT,Minnesota,United States,Peer,1,442.17500,314976,BRANDMEISTER,314
 NG7O,Meridian,Idaho,United States,Master,1,445.60000,314977,BM,314977,1,None,0.000,NG7O,TS1 TS2
 W6UPL,Meridian,Idaho,United States,Master,0,145.52000,314978,BM,314978,1,None,0.000,NG7O,TS1 TS2
 N5VGK,RIENZI,Mississippi,United States,Peer,1,444.82500,314979,BRANDMEISTER,314979,1,PHONE 662 523 9600  CHUCK@SELECTCONNECT.NET,5.000,"N5VGK, KG5JDS",TS1 TS2
-N5VGK,FULTON,Mississippi,United States,Master,1,146.70000,314980,BRANDMEISTER,314980,1,662052309600,0.600,"KG5JDS, N5VGK",TS1 TS2
+N5VGK,FULTON,Mississippi,United States,Master,1,147.30000,314980,BRANDMEISTER,314980,1,662052309600,0.600,"KG5JDS, N5VGK",TS1 TS2
 KC9TNU,Chciago,Illinois,United States,Peer,2,440.02500,314981,Brandmeister,314981,1,None,5.000,KC9TNU,Mixed Mode
 N3BBF,Potomac,Maryland,United States,Peer,1,447.87500,314982,Brandmeister,314982,1,None,-5.000,N3BBF,TS1 TS2
 K8MOT,Portsmouth,New Hampshire,United States,Peer,5,444.55000,314983,NEDECN,314983,1,None,-5.000,K8MOT,TS1 TS2
