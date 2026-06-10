@@ -2708,6 +2708,7 @@ R8JF,Megion,All Regions,Russia,Master,1,145.58750,250035,192.168.100.1,250035,1,
 R2DYR,Orekhovo-Zuevo,All Regions,Russia,Master,1,434.97500,250036,brandmeister,250036,1,,+5.000,R2DYR,TS1 TS2
 R9FEL,Chaikovsky,All Regions,Russia,Master,1,439.10000,250037,BM,250037,1,"(TG 250037)      , .       ,  ,    .",-0.76,R9FEL,TS1 TS2
 UB3ZKR,Belgorod,All Regions,Russia,Master,1,439.37500,250038,BM,250038,1,"TG9,TG8 ,TG31-TS1  ,TG2501,TG250648-TS2",-7.6,UB3ZKR,TS1 TS2
+RR3DW,Chehov,All Regions,Russia,Peer,1,434.65000,250039,BM,250039,1,,-0.600,"RC3DE, RU3H",Mixed Mode
 RR9CL,Yekaterunburg,All Regions,Russia,Master,1,145.72500,250040,BM,250040,1,DMR Repeater Radio Club EKAT,-0.000,R8DD,TS1
 RA7XY,Nalchik,,Russia,Master,1,438.40000,250041,BM,250041,1,TG-250668,-7.600,RA7XY,TS1 TS2
 RR9HAA,Seversk,All Regions,Russia,Master,1,439.40000,250042,DMR,250042,1,,-7.600,R9HCV,Mixed Mode
@@ -2715,7 +2716,6 @@ RR9JK,Megion,All Regions,Russia,Peer,1,145.60000,250043,BM,250043,1,25021<br>250
 UB6OARD,Donetsk,All Regions,Russia,Peer,1,438.87500,250044,2502.master.brandmeister.network,250044,1,None,-7.600,UB6OAR,TS1 TS2
 RC3DI,Moscow,All Regions,Russia,Peer,1,439.40000,250045,BM,250045,1,None,-7.600,RC3DI,TS1 TS2
 R2DLA,Domodedovo,All Regions,Russia,Master,7,434.95000,250046,BM,250046,1,None,-2.600,R2DLA,TS1 TS2
-RU3H,Chehov,All Regions,Russia,Peer,1,433.75000,250047,DMR,250047,1,None,6.000,RU3H,TS1
 UB1AAM,,,Russia,,1,438.75000,250102,BM,250102,0,,-7.600,UB1AAM,TS1 TS2
 RD1AS,,,Russia,,1,145.73750,250104,BM,250104,0,,-0.600,RD1AS,TS1 TS2
 UA1CDG,,,Russia,,1,0.00000,250105,BM,250105,0,,,UA1CDG,TS1 TS2
@@ -3727,11 +3727,11 @@ DF0ANN,Nuernberg,,Germany,Peer,1,438.47500,262820,DMR-plus,262820,0,,-7.600,DL5N
 DB0EEE,Erkheim,Bayern,Germany,,1,438.55000,262821,DMR-plus,262821,1,,-7.600,DL5EF,TS1 TS2
 DB0TMH,Neumarkt,Bayern,Germany,Master,1,438.58750,262822,MULTI DMR DSTAR YSF,262822,1,"Also a multi mode repeater for DMR + , C4FM, DSTAR. And the TG Neumarkt ist cross connected to YSF, DSTAR and DMR. Surch for Neumarkt and you will get it. DF1AX",-7.600,DF1AX,TS1 TS2
 DB0DLG,Gundremmingen,Bayern,Germany,Peer,1,439.26250,262823,Brandmeister,262823,1,,7.600,DG6MAY,TS1 TS2
-DB0RWH,Thalmaessing,Bayern,Germany,Peer,1,438.33750,262824,BM,262824,1,26385,-7.600,DL2NJM,TS1 TS2
+DB0RWH,Thalmaessing,Bayern,Germany,Peer,1,144.83750,262824,DMR+,262824,1,26385,0.000,DL2NJM,TS2
 DB0WBZ,Burgsalach,Bayern,Germany,Peer,1,439.51250,262825,DMR-plus,262825,1,,-7.600,DG3NDL,TS1 TS2
 DM0QN,Munich East Vaterstetten,Bayern,Germany,Master,1,438.35000,262826,BM,262826,1,,-7.600,DK2PZ,TS1 TS2
 DB0WBZ,Burgsalach,Bayern,Germany,Peer,1,439.51250,262827,BM,262827,1,,-7.600,DG3NDL,TS1 TS2
-DB0THM,Thalmaessing,Bayern,Germany,Peer,1,438.51250,262828,DMR-plus,262828,1,26385,-7.600,DL2NJM,TS1 TS2
+DB0THM,Thalmaessing,Bayern,Germany,Peer,1,438.51250,262828,BM,262828,1,26385,-7.600,DL2NJM,TS1 TS2
 DB0PV,Muenchen,Bayern,Germany,,7,438.52500,262829,None,262829,1,,7.600,DH8MO,
 DO0JG,Moorenweis,Bayern,Germany,,1,438.37500,262830,BM,262830,1,,-7.600,DO1JG,TS1 TS2
 DO0JG,Moorenweis,Bayern,Germany,,1,145.62500,262831,DMR-plus,262831,1,,-0.600,DO1JG,TS1 TS2
@@ -4598,7 +4598,7 @@ VE3THA,Ballinafad,Ontario,Canada,Master,1,443.42500,302424,BM,302424,1,,+5.000,V
 VA3WYK,Burgessville,Ontario,Canada,Peer,5,442.10000,302425,BM,302425,1,,+5.00,VA3WYK,TS1 TS2
 VE3UKC,Ballantrae,Ontario,Canada,Master,1,444.30000,302426,BM,302426,1,,+5.000,VE3BNI,Mixed Mode
 VE3ZRB,Milton,Ontario,Canada,Master,1,443.95000,302427,BM,302427,1,,+5.000,VE3BNI,Mixed Mode
-VE3YXU,Ingersoll,Ontario,Canada,Master,1,444.80000,302428,BM,302428,1,"local  TG2 andTG9<br>will connect with VE3STR 302277 DMR TG2,<br>110 feet omni antenna  6.5 dbi gain <br>35 watts output",+5.0000,VE3NRJ,TS1 TS2
+VE3YXU,Ingersoll,Ontario,Canada,Peer,1,445.60000,302428,BM,302428,1,"local  TG2 andTG9<br>will connect with VE3STR 302277 DMR TG2,<br>110 feet omni antenna  6.5 dbi gain<br>35 watts output",-5.000,"VE3NRJ, VE3NEM",TS1 TS2
 VE3SKY,Etobicoke,Ontario,Canada,Peer,1,443.10000,302429,BM,302429,1,,+5.000,VE3GFX,Mixed Mode
 VE3EUC,Alma,Ontario,Canada,Peer,1,444.53750,302430,BM,302430,1,TG for Elmira Radio Club TBD,+5.000,VE3ERC,TS1 TS2
 VE9ARC,Moncton,New Brunswick,Canada,Peer,1,147.19500,302431,RXP25,302431,1,,+0.600,VE9HV,TS1
@@ -4630,6 +4630,7 @@ VE7KRX,cranbrook,British Columbia,Canada,Peer,1,444.92500,302459,private hb link
 VE2SWH,Sainte-Sophie,Quebec,Canada,Peer,2,448.67500,302460,HOME,302460,1,None,-5,VA2SSK,TS1 TS2
 VE1VO,Liverpool,Nova Scotia,Canada,Peer,1,444.30000,302461,Brandmister,302461,1,None,+5.000,VE1SMC,TS1 TS2
 VE3UHF,Hanover,Ontario,Canada,Master,1,146.91000,302462,BM,302462,1,None,-.600,VE3BM,TS1 TS2
+VE3NEM,Dutton,Ontario,Canada,Peer,1,445.60000,302463,Brandmeister,302463,1,None,-5.000,"VE3NEM, VE3NRJ",TS1 TS2
 VE5DMR,Swift Current,Saskatchewan,Canada,None,1,443.00000,302501,DMR-MARC Canada,302501,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada<br>Time Slot #1 - Group Call 310 = TAC310<br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba<br>Time Slot #2 - Group Call 3026 = Alberta<br>Time Slot #2 - Group Call 3029 = New Brunswick<br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE5EN<br>Contact email: ve5en@shaw.com,+5.000,VE5EN,TS1 TS2
 VE6VPR,Edmonton,Alberta,Canada,Peer,1,440.80000,302600,DMR-MARC Canada,302600,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE6AEW<br>Contact email:,+5.000,VE6AEW,TS1 TS2
 VE6RYC,Calgary,Alberta,Canada,Master,1,444.00000,302601,DMR-MARC Canada,302601,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: Doug Howard, VE6CID<br>Contact email:ve6cid@me.com",+5.000,VE6CID,TS1 TS2
@@ -4842,6 +4843,7 @@ W4DMM,Murfreesboro,Tennessee,United States,Peer,1,145.12000,310196,Brandmeister,
 KC1FRJ,Presque Isle,Maine,United States,Peer,12,145.18000,310198,NEDECN,310198,1,"*Updated List - 12/2024*<br><br>Time Slot #1  Group Call 759 = SKYWARN<br>Time Slot #1  Group Call 9998 = Parrot*<br>Time Slot #1 - Group Call 9999 Audio Watch*<br>Time Slot #1  Group Call 1 = World Wide*<br>Time Slot #1  Group Call 3 = North America<br>Time Slot #1  Group Call 3172 = Northeast<br>Time Slot #1  Group Call 310 = TAC310*<br>Time Slot #1  Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 312 = TAC312*<br>Time Slot #1  Group Call 8801 = NETAC 1*<br>Time Slot #1  Group Call 3109 = CT Statewide*<br>Time Slot #1  Group Call 3125 = MA Statewide*<br>Time Slot #1  Group Call 3133 = NH Statewide*<br>Time Slot #1  Group Call 3144 = RI Statewide*<br>Time Slot #1  Group Call 3150 = VT Statewide*<br><br>Time Slot #2  Group Call 8802 = NETAC 2*<br>Time Slot #2  Group Call 3181 = New England Wide (Mon. 8 PM Net)<br>Time Slot #2  Group Call 3029 = New Brunswick<br>Time Slot #2  Group Call 3123 = ME Statewide<br>Time Slot #2  Group Call 9 = Local Site<br>* PTT Activated<br><br>You Must Have [ARS] Disabled Within Your Radio<br> <br>Contact: Gerry, KC1FRJ<br>Email: gerryo@atlanticradio.com<br>Website: http://nedecn.org<br>",-0.600,KC1FRJ,TS1 TS2
 KD5QZD,Baton Rouge,Louisiana,United States,Master,1,443.10000,310199,Brandmeister,310199,1,,+5.000,KB5YSC,Mixed Mode
 KL2AV,Delta junction,Alaska,United States,Peer,1,444.80000,310201,North America,310201,1,,+5.000,KL2AV,Mixed Mode
+KL4GR,Homer,Alaska,United States,Peer,1,443.40000,310202,Crossroads DMR,310202,1,"For updated info, go to:<br>http://www.crossroadsdmr.org/?page_id=457<br><br>Current Talk Groups (1/14/17):<br>TS1-<br><br>TG 1 - World Wide*<br>TG 3 - North America<br>TG 3181 - Local-1<br>TG 3777215 - DCI Comm 1<br>TG 3177 - Mountain Region*<br>TG 9998 - Parrot*<br>TG 113 - UA English 1*<br>TG 13  - WW English*<br><br>TS2-<br><br>TG 3102 - Alaska Statewide<br>TG 8710 - Crossroads<br>TG 3166 - Local-2<br>TG 9999 - Audio Test*<br>TG 3777216 - DCI Comm 2*<br>TG 310 - TAC310*<br>TG 311 - TAC311*<br>TG 312 - TAC312*<br>TG 123 - UA English 2*<br><br>* indicates PTT required<br><br>Contact = Larry, KL4GR",+5.000,KL4GR,TS1 TS2
 KL1KE,Kodiak,Alaska,United States,Peer,1,441.87500,310203,Brandmeister,310203,1,,+5.000,KL1KE,TS1 TS2
 AB5U,Rowlett,Texas,United States,Peer,1,441.95000,310204,BRANDMEISTER,310204,1,,+5.000,AB5U,TS1 TS2
 WL7DN,Wasilla,Alaska,United States,None,15,443.45000,310205,Brandmeister,310205,1,,+5.000,WL7DN,TS1 TS2
@@ -7366,7 +7368,7 @@ KN6HIQ,Belmont,California,United States,Peer,1,146.10000,313078,BM,313078,0,This
 W8AES,Daytona Beach,Florida,United States,Peer,1,444.52500,313079,BM,313079,0,,+5.000,W8AES,TS1 TS2
 KA5PAL,Alamogordo,New Mexico,United States,Peer,1,442.02500,313080,BM/ TGIF,313080,1,,+5.000,KA5PAL,TS1 TS2
 WB8SQS,Columbia,Missouri,United States,Peer,3,442.95000,313081,Brandmeister,313081,1,,+5.00,WB8SQS,TS1 TS2
-N0VZC,Saint Bonifacius,Minnesota,United States,Peer,5,927.98000,313083,MNTRBO,313083,1,This will be used for events and testing until I find a site for it to be at and testing.,-25.000,N0VZC,TS1 TS2
+N0VZC,Saint Bonifacius,Minnesota,United States,Peer,5,927.48750,313083,MNTRBO,313083,1,I Just picked up a MTR3000 and will plan to put that up on a site near my home sometime this summer (2026).,-25.000,N0VZC,TS1 TS2
 N1MYY,Haverhill,Massachusetts,United States,Peer,6,146.46000,313085,NEDECN,313085,1,Time Slot # 1 - Group Call 759 = SKYWARN/911<br>Time Slot # 1 - Group Call 3133 = NH Statewide<br>Time Slot # 1 - Group Call 3123 = ME Statewide - PTT<br>Time Slot # 1 - Group Call 8804 = Cape Net - PTT<br>Time Slot # 1 - Group Call 3172 = Northeast - PTT<br>Time Slot # 1 - Group Call 3109 = CT Statewide - PTT<br>Time Slot # 1 = Group Call 1 = Worldwide - PTT<br>Time Slot # 1 = Group Call 3 = North America - PTT<br>Time Slot # 1 = Group Call 13 = WW English - PTT<br>Time Slot # 1 = Group Call 113 = UA English 1 - PTT<br>Time Slot # 1 = Group Call 123 = UA English 2 - PTT<br>Time Slot # 1 = Group Call 310 = TAC310 - PTT<br>Time Slot # 1 = Group Call 311 = TAC311 - PTT<br>Time Slot # 1 - Group Call 8801 = NETAC1 - PTT<br>Time Slot #1 - Group Call 9998 = Parrot - PTT<br>Time Slot #1 - Group Call 9999 = Audio VU Meter - PTT <br><br>Time Slot # 2 - Group Call 9 = Local Site<br>Time Slot # 2 - Group Call 3125 = MA Statewide <br>Time Slot # 2 - Group Call 3181 = New England <br>Time Slot # 2 - Group Call 8 = Region North<br>Time Slot # 2 - Group Call 8802 = NETAC2 PTT<br>,-1.5,N1MYY,TS1 TS2
 NY2PW,Patchogue,New York,United States,Peer,1,444.23750,313086,Brandmeister,313086,1,,+5.000,W2PW,Mixed Mode
 KM4CTB,Jacksonville Beach,Florida,United States,Peer,1,442.20000,313087,BM,313087,1,"31121 First Coast, 3112 FL Statewide, 31128 NE FL ARES, 311228 Jax Beach Local, 93 North America static",+5.000,KM4CTB,TS1 TS2
