@@ -1257,7 +1257,6 @@ IR4ZZH,Castel San Pietro Terme,Emilia-Romagna,Italy,Peer,1,430.23750,222414,BM,2
 IR4T,Castelmaggiore (BO),Emilia-Romagna,Italy,,1,145.08750,222415,None,222415,1,,0.600,I4MDK,
 IR1ZWQ,Prarostino,Piedmont / Liguria / Aosta,Italy,Master,1,430.06250,222416,BM,222416,1,TS1   D2 alp<br>TS2 22212,+1.600,IW1GLE,TS1 TS2
 IR3ZZF,Solagna VI,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,3,431.43750,222417,BM,222417,1,,+1.6,I3ZNI,Mixed Mode
-IR1ZVO,28813 Bee Verbania,Piedmont / Liguria / Aosta,Italy,Master,1,433.77500,222418,dmr,222418,1,,-0.0000,IK1PMV,TS2
 IR4ZZG,Comacchio FE,Emilia-Romagna,Italy,Peer,1,430.06250,222419,BM,222419,1,,+1.600,IZ2FTR,TS1 TS2
 IR4UCK,Nibbiano (PC),Emilia-Romagna,Italy,,1,430.53750,222420,BM,222420,1,,5.000,IW4BSG,TS1 TS2
 IR4ZZF,Copparo Fe,Emilia-Romagna,Italy,Peer,1,431.60000,222421,BM,222421,1,,+1.600,IZ2FTR,TS1 TS2
@@ -1930,7 +1929,7 @@ GB7HQ,Nottingham,England,United Kingdom,Master,1,145.66250,234123,FreeDMR,234123
 GB7LB,Alexandria,Scotland,United Kingdom,Peer,7,439.33750,234124,BM,234124,1,,-9.00,MM0ELF,TS1 TS2
 GB7TR,Ridley,England,United Kingdom,Master,0,434.00000,234125,TETRA,234125,1,,-0.600,G6VBJ,Mixed Mode
 GB3CU,Maryport,England,United Kingdom,Master,3,438.38750,234126,DMR,234126,1,,-7.6,M5LEE,Mixed Mode
-GB7EF,Ladybank Fife,Scotland,United Kingdom,Peer,1,439.45000,234127,DV Scotland Phoenix,234127,0,,-9.0,GM3AND,Mixed Mode
+GB7EF,Ladybank Fife,Scotland,United Kingdom,Peer,1,439.45000,234127,DV Scotland Phoenix,234127,0,,-9.0,MM8BEC,Mixed Mode
 GB7FR,somewhere,Channel Isles,United Kingdom,Peer,4,145.71250,234128,FreeDMR,234128,0,,-0.600,G7RZU,Mixed Mode
 GB7RU,Eastbourne,England,United Kingdom,Master,11,430.25000,234129,Raynet UK,234129,1,Linked to Raynet UK National server.<br>Primary usage for Eastbourne & Wealden Raynet Group.,+9.000,G6JME,Mixed Mode
 GB7CN,Cannock,England,United Kingdom,Peer,15,430.97500,234130,BM,234130,1,,+7.600,M0RKS,Mixed Mode
@@ -1941,7 +1940,6 @@ GB7NX,Holsworthy Beacon,England,United Kingdom,Master,5,438.38750,234135,DMR,234
 GB7PA,Paisley,Scotland,United Kingdom,Peer,1,439.52500,234136,BM,234136,1,,-9.0000,MM0PAZ,TS1 TS2
 GB7RH,Heathfield,England,United Kingdom,Master,10,430.30000,234137,Raynet UK,234137,1,Linked to Raynet UK National server.<br>Primary use for Eastbourne & Wealden Raynet.,+9.000,G6JME,Mixed Mode
 GB7HF,Newton Abbot,England,United Kingdom,Peer,5,439.50000,234138,Free DMR,234138,1,TS1/TG9 Site only repeater<br>TS2/TG950 South West Cluster repeater and access to Free DMR network.,-9.0000,G4CPO,TS1 TS2
-GB7FF,Prestonpans,Scotland,United Kingdom,Peer,1,145.73750,234139,DV Scotland Phoenix,234139,1,,-6.0,GM3AND,Mixed Mode
 GB7RG,Stranraer,Scotland,United Kingdom,Peer,5,430.98750,234140,Brandmeister,234140,1,,+7.6,GM7RYR,TS1 TS2
 GB7IX,Westcliff-On-Sea,England,United Kingdom,Master,0,430.93750,234141,FreeSTAR Network,234141,1,,+7.6,2E1HWE,TS1
 MB5KT,KEIGHLEY,England,United Kingdom,Master,5,430.30000,234142,"DVS Phoenix, FreeDMR, BM",234142,1,Part of the Yorkshire Net (TG23450 TS1). Follows the DVS Phoenix Talkgroup scheme at https://dvsph.net/talk-groups<br>Also allows Brandmeister TG91-TG95 and HubNet UK TG23526 on time slot 2 with no prefix required.,+9.000,M0DIT,TS1 TS2
@@ -2496,7 +2494,7 @@ SK7RFL,Algutsrum Oland,Kalmar,Sweden,Peer,7,145.60000,240721,"BM, SvxLink",24072
 SK7REE,Helsingborg  City,Skane,Sweden,Peer,7,434.60000,240722,BM,240722,1,,-2.000,SM7VEV,TS1 TS2
 SK7RGI,Jonkoping,Jonkoping,Sweden,Master,7,434.97500,240740,BrandMeister,240740,1,,-2.000,SM7TYU,TS1 TS2
 SM7NTJ,Aneby,Blekinge,Sweden,Peer,7,434.92500,240750,BM,240750,0,,-2.000,SM7NTJ,TS1 TS2
-SG7BNT,Sdra Skoga,Varmland,Sweden,Peer,4,434.80000,240760,"BM, DMR+, XLX, DMR2YSF",240760,1,,-2.000,SA7BNT,TS1 TS2
+SG7BNT,Sodra Skoga,Varmland,Sweden,Peer,4,434.80000,240760,"BM, DMR+, XLX, DMR2YSF",240760,1,,-2.000,SA7BNT,TS1 TS2
 SK7HW,Vaxjo,Kronoberg,Sweden,Master,7,434.70000,240770,BM,240770,1,"2400,2402,2403,2404,2405,2406,2407,240770",-2.000,SK7HW,TS1 TS2
 SK7DL,Emmaboda,,Sweden,,7,432.78750,240771,BM,240771,1,,2.000,SM7XOH,TS1 TS2
 SK7BQ,Kristianstad,Skane,Sweden,Master,7,434.52500,240777,BM,240777,1,,-2.000,SA7BGG,TS1 TS2
@@ -4843,6 +4841,7 @@ W4DMM,Murfreesboro,Tennessee,United States,Peer,1,145.12000,310196,Brandmeister,
 KC1FRJ,Presque Isle,Maine,United States,Peer,12,145.18000,310198,NEDECN,310198,1,"*Updated List - 12/2024*<br><br>Time Slot #1  Group Call 759 = SKYWARN<br>Time Slot #1  Group Call 9998 = Parrot*<br>Time Slot #1 - Group Call 9999 Audio Watch*<br>Time Slot #1  Group Call 1 = World Wide*<br>Time Slot #1  Group Call 3 = North America<br>Time Slot #1  Group Call 3172 = Northeast<br>Time Slot #1  Group Call 310 = TAC310*<br>Time Slot #1  Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 312 = TAC312*<br>Time Slot #1  Group Call 8801 = NETAC 1*<br>Time Slot #1  Group Call 3109 = CT Statewide*<br>Time Slot #1  Group Call 3125 = MA Statewide*<br>Time Slot #1  Group Call 3133 = NH Statewide*<br>Time Slot #1  Group Call 3144 = RI Statewide*<br>Time Slot #1  Group Call 3150 = VT Statewide*<br><br>Time Slot #2  Group Call 8802 = NETAC 2*<br>Time Slot #2  Group Call 3181 = New England Wide (Mon. 8 PM Net)<br>Time Slot #2  Group Call 3029 = New Brunswick<br>Time Slot #2  Group Call 3123 = ME Statewide<br>Time Slot #2  Group Call 9 = Local Site<br>* PTT Activated<br><br>You Must Have [ARS] Disabled Within Your Radio<br> <br>Contact: Gerry, KC1FRJ<br>Email: gerryo@atlanticradio.com<br>Website: http://nedecn.org<br>",-0.600,KC1FRJ,TS1 TS2
 KD5QZD,Baton Rouge,Louisiana,United States,Master,1,443.10000,310199,Brandmeister,310199,1,,+5.000,KB5YSC,Mixed Mode
 KL2AV,Delta junction,Alaska,United States,Peer,1,444.80000,310201,North America,310201,1,,+5.000,KL2AV,Mixed Mode
+KL4GR,Homer,Alaska,United States,Peer,1,443.40000,310202,Crossroads DMR,310202,1,"For updated info, go to:<br>http://www.crossroadsdmr.org/?page_id=457<br><br>Current Talk Groups (1/14/17):<br>TS1-<br><br>TG 1 - World Wide*<br>TG 3 - North America<br>TG 3181 - Local-1<br>TG 3777215 - DCI Comm 1<br>TG 3177 - Mountain Region*<br>TG 9998 - Parrot*<br>TG 113 - UA English 1*<br>TG 13  - WW English*<br><br>TS2-<br><br>TG 3102 - Alaska Statewide<br>TG 8710 - Crossroads<br>TG 3166 - Local-2<br>TG 9999 - Audio Test*<br>TG 3777216 - DCI Comm 2*<br>TG 310 - TAC310*<br>TG 311 - TAC311*<br>TG 312 - TAC312*<br>TG 123 - UA English 2*<br><br>* indicates PTT required<br><br>Contact = Larry, KL4GR",+5.000,KL4GR,TS1 TS2
 KL1KE,Kodiak,Alaska,United States,Peer,1,441.87500,310203,Brandmeister,310203,1,,+5.000,KL1KE,TS1 TS2
 AB5U,Rowlett,Texas,United States,Peer,1,441.95000,310204,BRANDMEISTER,310204,1,,+5.000,AB5U,TS1 TS2
 WL7DN,Wasilla,Alaska,United States,None,15,443.45000,310205,Brandmeister,310205,1,,+5.000,WL7DN,TS1 TS2
@@ -9066,6 +9065,8 @@ KG6TRQ,MORONGO VALLEY,California,United States,Peer,0,441.38750,315041,BM,315041
 KG6TRQ,MORONGO VALLEY,California,United States,Peer,8,441.38750,315042,BM,315042,1,None,5.000,KG6TRQ,TS1 TS2
 AA9RA,CHICAGO,Illinois,United States,Peer,1,442.17500,315043,BRANDMEISTER,315043,1,None,0.500,AA9RA,TS1
 N1DTA,vine grove,Kentucky,United States,Peer,1,444.77500,315044,kentuckydmr c bidge,315044,1,None,+5.000,N1DTA,TS1 TS2
+K5TKR,Kilgore,Texas,United States,Peer,1,443.97500,315045,BM,315045,1,None,+5.000,K5TKR,TS1 TS2
+K5TKR,Fort Worth,Texas,United States,Peer,1,440.67500,315046,BM,315046,1,None,+5.000,K5TKR,TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
@@ -9367,6 +9368,7 @@ XE3JAC,Puebla,Puebla,Mexico,Master,1,438.50000,334050,BM,334050,1,,-5.000,XE3JAC
 XE2LRS,DURANGO,Durango,Mexico,Peer,1,147.36000,334051,BM,334051,1,None,+0.600,XE2LRS,TS1 TS2
 XE2MEMR,Reynosa,Tamaulipas,Mexico,Peer,1,444.85000,334052,189.204.148.150,334052,1,slot1 linked 334 & 312679<br>slot2 On-Demand,+5.000,XE2MEM,TS1
 XE2RCS,Saltillo,Coahuila,Mexico,Peer,1,147.70000,334053,BM MEXICO,334053,1,None,-0.600,XE2JSC,TS1 TS2
+XE2JMN,Ensenada,Baja California Norte,Mexico,Peer,1,430.12500,334054,IPSC2,334054,1,None,-5.000,"XE2JMN, XE2JCC",TS1
 XE1EFQ,Mexico City,Mexico City,Mexico,Peer,1,438.22500,334101,URAM Net,334101,1,"Time Slot #1 - Grp Call 1 = World Wide PTT 2 min<br>Time Slot #1 - Grp Call 3 = North America PTT 15 <br>Time Slot #1 - Grp Call 14 = WW Spanish <br>Time Slot #1 - Grp Call 334 = Mexico<br>Time Slot #2 - Grp Call 2 = Local D.F. <br>Time Slot #2 - Grp Call 9998 = Parrot PTT 2 <br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Jose, XE1EFQ<br>Email: xe1efq@gmail.com",-5.000,XE1EFQ,TS1 TS2
 XE1EFQ,Mexico City,Mexico City,Mexico,Peer,1,438.25625,334102,URAM Net,334102,1,"Time Slot #1 - Grp Call 1 = World Wide PTT 2 min<br>Time Slot #1 - Grp Call 3 = North America PTT 15<br>Time Slot #1 - Grp Call 14 = WW Spanish <br>Time Slot #1 - Grp Call 334 = Mexico<br>Time Slot #2 - Grp Call 2 = Local D.F. <br>Time Slot #2 - Grp Call 9998 = Parrot PTT 2 <br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Jose, XE1EFQ<br>Email: xe1efq@gmail.com",-5.000,XE1EFQ,TS1 TS2
 XE1EL,Atotonilco,Jalisco,Mexico,Peer,1,146.97000,334103,DMR+ IPSC2,334103,1,,-0.600,XE1EL,TS1 TS2
