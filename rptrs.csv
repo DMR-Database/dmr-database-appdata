@@ -267,7 +267,7 @@ PI1FRL,Burgwerd,,Netherlands,,1,438.36250,204844,BM,204844,1,,-7.600,PA3GFY,TS1 
 ON0CK,Kortrijk,West-Vlaanderen,Belgium,,1,439.16250,206001,BM,206001,1,,-7.600,ON4TOP,TS1 TS2
 ON0SEA,Knokke-Heist,West-Vlaanderen,Belgium,Master,1,438.93750,206002,BM,206002,1,,-7.600,ON4UK,TS1 TS2
 ON0VRN,Veurne,West-Vlaanderen,Belgium,,1,439.21250,206003,BM,206003,1,,-7.600,ON8SD,TS1 TS2
-ON0TLS,DE Pinte,Oost-Vlaanderen,Belgium,Peer,1,438.50000,206004,Brandmeister,206004,1,None,-7.600,"ON6VDS, ON1UI",TS1
+ON0TLS,DE Pinte,Oost-Vlaanderen,Belgium,Peer,1,439.11250,206004,Brandmeister,206004,1,None,-7.600,"ON6VDS, ON1UI",TS1
 ON0MSF,Brussels,Brussels,Belgium,Master,1,438.07500,206005,"BM, Tetrapack",206005,1,"TETRA Repeater, see map.tetrapack.online",-7.6,ON6RF,Mixed Mode
 ON4TOP,Bavikhove,West-Vlaanderen,Belgium,,1,438.07500,206006,Hytera,206006,1,,-7.600,ON4TOP,
 ON0DXK,Kortrijk,West-Vlaanderen,Belgium,,1,439.00000,206007,Hytera,206007,1,,-7.600,ON4TOP,
@@ -385,7 +385,7 @@ TK1ZBG,Cervione,,Corsica,,1,439.51250,208050,BM,208050,0,,-9.400,TK1LG,TS1 TS2
 F6ZAP,VIEILLEVIGNE,Pays de la Loire,France,Master,1,430.38750,208051,BM,208051,1,Relais Multimode.<br>TX : 430.3875 Mhz<br>RX : 439.7875 Mhz<br>DMR<br>C4FM <br>DSTAR <br>,+9.4,F4LDW,TS1 TS2
 F5ZXR,Mont des Alouettes 85500,Pays de la Loire,France,Peer,7,430.30000,208052,BrandMeister,208052,1,TS1 : 20844 - 2080 <br>TS2 : 208 - 2080 -2082<br>Locator IN96LV96 Mont des Alouettes 85500 Les Herbiers<br>ASL 232 m + Pylne  50m = 282 m <br>MOTOROLA SLR 5500 50W + Antenne omni 6dBd soit 150 W PAR,+9.4,F6GNR,TS1 TS2
 F1ZWZ,Boulogne sur mer,Hauts-de-France,France,Master,1,439.47500,208053,ADN,208053,1,,-9.400,F4HUN,TS1 TS2
-F6ZBC,65000 Tarbes,Occitanie,France,Peer,1,439.90000,208054,BM,208054,1,Time Slot 2# - Group Call 208 = France<br>Time Slot 2# - Group Call 20844 = NANTES 44<br>Time Slot 2# - Group Call 20840 = LANDES 40<br>Time Slot 2# - Group Call 20866= Pyrnes orientales 66,+0.00,F4LEJ,Mixed Mode
+F6ZBC,TARBES,Occitanie,France,Peer,1,439.90000,208054,BM,208054,1,Time Slot 2# - Group Call 208 = France<br>Time Slot 2# - Group Call 20844 = NANTES 44<br>Time Slot 2# - Group Call 20840 = LANDES 40<br>Time Slot 2# - Group Call 20866= Pyrnes orientales 66,"+0,00",F4LEJ,Mixed Mode
 F6ZBB,70290 Plancher Bas,Bourgogne-Franche-Comte,France,Master,1,439.88750,208055,BM,208055,1,,-9.400,F1RIV,TS1 TS2
 F5ZAP,Egry,Centre-Val de Loire,France,Master,1,430.37500,208056,BM,208056,1,,+9.400,F4HKP,TS1 TS2
 F6ZBG,Domagne,Bretagne,France,Peer,1,145.35000,208057,BM,208057,1,ONLY TS2 CC1! STATIC TG 20835,+0.0000,F4IGV,TS2
@@ -4390,12 +4390,10 @@ VE2SUS,Montreal,Quebec,Canada,Master,1,443.42500,302182,VESUS Internetwork,30218
 VA6DMR,Red Deer County,Alberta,Canada,Peer,6,443.66250,302183,BrandMeister,302183,1,"https://brandmeister.network/?page=repeater&id=302183<br><br>Static talkgroups:<br><br>Manitoba 3024<br><br>NOTE: This is a P25 repeater with software bridge (P252DMR), which is transcoding P25/DMR. Please access repeater via P25 mode, utilizing your RadioID.net Radio ID. Talkgroup 3024, NAC 6C3.",+5.0000,VA6SM,TS1 TS2
 VE3DWI,Kitchener,Ontario,Canada,Peer,7,444.53750,302184,dmr-marc,302184,1,,+5.000,VE3DWI,TS1 TS2
 VA2REX,Covey Hill,Quebec,Canada,Peer,293,147.31500,302186,P25Link | P25NX,302186,1,NAC: 293,+0.600,VA2WE,Mixed Mode
-VE7DQZ,Dawson Creek,British Columbia,Canada,Peer,1,145.55000,302189,BM,302189,1,"10 Watt Full Duty  Cycle Repeater in Peace River Regional District. Located in Dawson Creek. <br>System Supports P25, DMR, and NXDN.  Static TG to be determined",-0.600,VA7TCM,Mixed Mode
 VE7RTE,Port Alberni,British Columbia,Canada,Master,1,441.85000,302190,BM,302190,1,,+5.000,VE7TFM,TS1 TS2
 VE3ORC,Orillia,Ontario,Canada,Master,1,444.56250,302191,DMR,302191,1,,+5.000,VE3PNN,TS1 TS2
 VE2RWM,Rimouski,Quebec,Canada,Master,1,146.61000,302192,BM,302192,1,,-0.600,VE2CSL,TS1 TS2
 VE7SML,Tatlayoko Lake,British Columbia,Canada,Master,1,440.00000,302193,DMR,302193,1,,+5.000,VE7SML,TS1 TS2
-VE7DQZ,Dawson Creek,British Columbia,Canada,Peer,1,440.02500,302194,BM,302194,1,"10 Watt Full Duty Cycle Repeater in Peace River Regional District. Located in Dawson Creek. <br>System Supports P25, DMR, and NXDN.. Talk Groups to be determined",+5.00,VA7TCM,Mixed Mode
 VE2RXU,Victoriaville,Quebec,Canada,Master,1,449.47500,302197,BrandMeister,302197,1,TS1 STATIC TG3022<br>TS2 ALL DYNAMIC,-5.000,VE2TRF,TS1 TS2
 VE4DMD,Dauphin,Manitoba,Canada,Peer,4,443.77500,302198,BM,302198,1,,+5.000,VE4CCR,TS1 TS2
 VE2REX,Covey Hill,Quebec,Canada,Peer,1,448.52500,302200,DMR-MARC,302200,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 11 = WW French<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Coverage Area (http://www.dmr-marc.net/images/va2cyh-coverage.jpg)<br><br>Contact: Alain Reid, VA2SPB<br>E-mail: va2spb@coveyhilltelecom.com<br>Website: www.ve2cyh.org",-5.000,VA2WE,TS1 TS2
@@ -9067,6 +9065,8 @@ AA9RA,CHICAGO,Illinois,United States,Peer,1,442.17500,315043,BRANDMEISTER,315043
 N1DTA,vine grove,Kentucky,United States,Peer,1,444.77500,315044,kentuckydmr c bidge,315044,1,None,+5.000,N1DTA,TS1 TS2
 K5TKR,Kilgore,Texas,United States,Peer,1,443.97500,315045,BM,315045,1,None,+5.000,K5TKR,TS1 TS2
 K5TKR,Fort Worth,Texas,United States,Peer,1,440.67500,315046,BM,315046,1,None,+5.000,K5TKR,TS1 TS2
+KA4EPS,Lake Worth,Florida,United States,Master,10,444.85000,315047,Brandmeister,315047,1,KA4EPS@gmail.com,+5.000,KA4EPS,Mixed Mode
+N5VGK,tupelo,Mississippi,United States,Peer,1,145.49000,315048,BRANDMEISTER,315048,1,6625239600,0.600,"N5VGK, KG5JDS",TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
@@ -9369,6 +9369,7 @@ XE2LRS,DURANGO,Durango,Mexico,Peer,1,147.36000,334051,BM,334051,1,None,+0.600,XE
 XE2MEMR,Reynosa,Tamaulipas,Mexico,Peer,1,444.85000,334052,189.204.148.150,334052,1,slot1 linked 334 & 312679<br>slot2 On-Demand,+5.000,XE2MEM,TS1
 XE2RCS,Saltillo,Coahuila,Mexico,Peer,1,147.70000,334053,BM MEXICO,334053,1,None,-0.600,XE2JSC,TS1 TS2
 XE2JMN,Ensenada,Baja California Norte,Mexico,Peer,1,430.12500,334054,IPSC2,334054,1,None,-5.000,"XE2JMN, XE2JCC",TS1
+XE2JSC,Saltillo,Coahuila,Mexico,Peer,15,433.52500,334055,BM/DMR+,334055,1,None,0.000,XE2JSC,Mixed Mode
 XE1EFQ,Mexico City,Mexico City,Mexico,Peer,1,438.22500,334101,URAM Net,334101,1,"Time Slot #1 - Grp Call 1 = World Wide PTT 2 min<br>Time Slot #1 - Grp Call 3 = North America PTT 15 <br>Time Slot #1 - Grp Call 14 = WW Spanish <br>Time Slot #1 - Grp Call 334 = Mexico<br>Time Slot #2 - Grp Call 2 = Local D.F. <br>Time Slot #2 - Grp Call 9998 = Parrot PTT 2 <br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Jose, XE1EFQ<br>Email: xe1efq@gmail.com",-5.000,XE1EFQ,TS1 TS2
 XE1EFQ,Mexico City,Mexico City,Mexico,Peer,1,438.25625,334102,URAM Net,334102,1,"Time Slot #1 - Grp Call 1 = World Wide PTT 2 min<br>Time Slot #1 - Grp Call 3 = North America PTT 15<br>Time Slot #1 - Grp Call 14 = WW Spanish <br>Time Slot #1 - Grp Call 334 = Mexico<br>Time Slot #2 - Grp Call 2 = Local D.F. <br>Time Slot #2 - Grp Call 9998 = Parrot PTT 2 <br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Jose, XE1EFQ<br>Email: xe1efq@gmail.com",-5.000,XE1EFQ,TS1 TS2
 XE1EL,Atotonilco,Jalisco,Mexico,Peer,1,146.97000,334103,DMR+ IPSC2,334103,1,,-0.600,XE1EL,TS1 TS2
@@ -10246,6 +10247,7 @@ HP1CRM,Panama,Panama,Panama,Master,1,145.90000,714016,DMR,714016,1,7145,-5.000,H
 HP1JEP,Panama,Panama,Panama,Peer,8,438.52500,714018,BM,714018,1,,-5.000,HP1SEB,TS1 TS2
 HP1LAVR,la chorrera,Panama,Panama,Master,7,147.66000,714019,ADN,714019,1,,-0.600,HP1LAV,TS1 TS2
 HP1CQ,PANAMA,Panama,Panama,Peer,7,145.30000,714020,Adn,714020,1,HP1CQ@HOTMAIL.COM,-0.600,HP1CQ,Mixed Mode
+HP8JAA,Cocle,Panama,Panama,Peer,1,438.25000,714021,ADN Systems,714021,1,None,0.000,HP8JAA,TS1 TS2
 HP1CQ,PANAMA,Panama,Panama,Peer,7,433.30000,714101,DMR-plus,714101,1,None,5.000,HP1CQ,TS1 TS2
 HP2NG,Colon,Panama,Panama,PEER,7,433.45000,714102,DMR-plus,714102,1,,5.000,HP2NG,TS1 TS2
 HP2LCT,Panama,Colon,Panama,Peer,7,440.51250,714103,HP2LCT,714103,1,,+5.000,W2CID,TS1 TS2
@@ -10346,7 +10348,6 @@ PY5LIT,Pontal Do Parana,Parana,Brazil,Master,1,439.95000,724039,DMR/Brandmeister
 PP5DMR,Sao Jose,Santa Catarina,Brazil,Master,1,439.70000,724040,Brandmeister,724040,1,PP5DMR - Repetidora de So Jose SC com Conexo com a Rede Brandmeister.<br><br>TG 724<br>TG 72453<br><br>E-MAIL:  repetidora.saojose@gmail.com<br><br>,-5.000,PP5LD,TS1 TS2
 PY2KAS,Campos Do Jordao,Sao Paulo,Brazil,MASTER,1,146.89000,724041,BrandMeister,724041,0,,-0.600,PY2FAC,Slot 1 Slot 2
 PY1RSU,RJ-Sumare,Rio de Janeiro,Brazil,Peer,1,439.95000,724042,DMR-plus,724042,1,Repetidora Sumare - RJ DMR+ MOTOTRBO<br>TG 199 Slot 1 Rener TG724 SLOT1,-5.000,PU1LOY,TS1 TS2
-PY2KAV,Avare,Sao Paulo,Brazil,Master,1,145.23000,724043,BRANDMEISTER,724043,0,,-0.600,PY2OIA,TS1 TS2
 PP1DGT,Iconha,Espirito Santo,Brazil,master,1,145.31000,724044,BRANDMEISTER,724044,1,,-600,PU1DES,TS1 TS2
 PP5APL,Itajai,Santa Catarina,Brazil,Master,1,439.77500,724045,Brandmeiter,724045,1,,-5000,PU5APL,TS1 TS2
 PS8JSL,Teresina,Piaui,Brazil,Master,1,439.90000,724046,BrandMeister/DMR,724046,1,,-5.000,PS8AFR,TS1 TS2
