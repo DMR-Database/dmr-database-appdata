@@ -89,7 +89,6 @@ K4MRG,Melbourne,Florida,United States,Master,1,444.82500,111225,BrandMeister,111
 KJ4SHL,Babson Park,Florida,United States,Master,1,444.68750,111226,MotoDMR,111226,1,,+5.000,KJ4SHL,TS1 TS2
 K8SN,Grand Rapids,Michigan,United States,Master,1,444.98750,112603,BrandMeister,112603,1,,+5.000,K8SN,TS1 TS2
 W8OAK,Pontiac,Michigan,United States,Peer,1,444.46250,112604,None,112604,1,"1: 63ARPSC1, TGID: 8901, TS: 1<br>2: 63ARPSC2, TGID: 8902, TS: 2",+5.000,KD8ATK,TS1 TS2
-WB2ZEX,Brooklyn,New York,United States,Peer,1,438.27500,113601,Bronx Trbo,113601,1,"Time Slot<br>#1 - Group Call TG 444 NY Metro System wide-FT<br>#1 - Group Call TG 1 = World Wide -PTT<br>#1 - Group Call TG 3 = North America-PTT<br>#1 - Group Call TG 13 = World Wide English-PTT<br>#1 - Group Call TG 3172 = NE / Regional-PTT<br>#1 - Group Call TG 310 = Tac 310 -PTT<br>#1 - Group Call TG 311 = Tac 311 -PTT<br>#1 - Group Call TG 9998 = Parrot , Audio Test Server-PTT<br>#2 - member only private Talk Groups<br>",-5.000,WB2ZEX,TS1 TS2
 KC2NFB,East Meadow,New York,United States,Peer,1,443.40000,113602,Bronx Trbo,113602,1,Time Slot<br>#1 - Group Call TG 444 NY Metro System wide -FT<br>#2 - member only private Talk Groups,+5.000,KC2NFB,TS1 TS2
 N2LEN,Warrensburg,New York,United States,Master,1,442.05000,113603,DMR-MARC,113603,0,,+5.000,N2LEN,TS1 TS2
 N2ZTC,north Hebron,New York,United States,Master,7,442.30000,113604,branmister,113604,0,,+5.000,N2ZTC,TS1 TS2
@@ -2409,12 +2408,10 @@ SG9NN,Adolfstrom,,Sweden,,2,434.53750,240250,None,240250,1,,-2.000,SM2UQK,
 SK2AT,Umea,Vasterbotten,Sweden,Peer,2,434.95000,240290,AmprNET,240290,1,,-2.000,SA2RJO,TS1 TS2
 SK3RFG,Sundsvall,Vasternorrland,Sweden,Master,1,434.80000,240301,BM,240301,1,,-2.000,SM3EFS,TS1 TS2
 SK3XX,Soderhamn,,Sweden,,3,434.52500,240302,BM,240302,1,,-2.000,SM3DYE,TS1 TS2
-SK3RET,Bollnas,,Sweden,,1,434.55000,240303,BrandMeister,240303,1,,-2.000,SA3BDF,
 SK3GK,JP80NP,Stockholm,Sweden,Master,3,434.73750,240305,BM,240305,0,,-2.000,SM3VRO,TS1 TS2
 SK3RFG,Nolby,Vasternorrland,Sweden,Master,3,434.98750,240306,BrandMeister,240306,1,,-2.000,SM3EFS,TS1 TS2
 SK3XX,Soderhamn,,Sweden,,3,145.57500,240307,BM,240307,1,,-0.600,SM3DYE,TS1 TS2
 SA4BHE,Ludvika,Dalarna,Sweden,Peer,4,434.63750,240308,BM,240308,1,,-2.000,SA4BHE,TS1 TS2
-SK3RET,Bollnas,,Sweden,,3,145.58750,240313,None,240313,1,,-0.600,SA3BDF,
 SK3RHU,Hudiksvall,Gavleborg,Sweden,Master,3,145.71250,240324,BM,240324,1,,-0.600,SA3BPE,TS1 TS2
 SK3RHU,Hudiksvall,Gavleborg,Sweden,Master,3,434.57500,240325,BM,240325,1,,-2.000,SA3BPE,TS1 TS2
 SK3WH,Ornskoldsvik,Vasternorrland,Sweden,Master,3,145.57500,240333,BM,240333,1,,-0.600,SA3AJG,TS1 TS2
@@ -4448,7 +4445,7 @@ VE2BLT,Sherbrooke,Quebec,Canada,Peer,1,442.55000,302257,DMRplus,302257,1,,+5.000
 VE2RKK,La Tuque,Quebec,Canada,Peer,7,146.65500,302258,Brandmeister,302258,1,,-0.600,VA2NA,TS1 TS2
 VE2RFV,Roberval,Quebec,Canada,Peer,7,147.15000,302259,Brandmeister,302259,1,,+0.600,VA2NA,TS1 TS2
 VE2PDS,Rimouski,Quebec,Canada,Peer,5,442.10000,302260,Brandmeister,302260,1,,+5.000,VE2EB,Mixed Mode
-VE7RUC,Fort St John,British Columbia,Canada,Master,1,440.07500,302261,BM,302261,1,,+5.000,VE7SST,TS1 TS2
+VE7RUC,Fort St John,British Columbia,Canada,Master,1,440.07500,302261,BM,302261,1,,+5.000,"VE7SST, VA7TCM, VE7HPB",TS1 TS2
 VE2YUU,Blainville,Quebec,Canada,None,1,442.05000,302262,Canada,302262,1,,+5.000,VE2YU,TS1 TS2
 VA2RMP,Montreal,Quebec,Canada,Peer,1,448.62500,302263,mixed mode,302263,1,,-5.000,VE2YI,TS1 TS2
 VE2RVO,Sherbrooke,Quebec,Canada,Master,7,442.50000,302264,Brandmeister,302264,1,,+5.000,VE2VF,TS1 TS2
@@ -5205,7 +5202,6 @@ AH6KD,Kensington,California,United States,Peer,1,441.88750,310607,SF,310607,1,Ti
 W6BUR,Daly City,California,United States,Peer,0,442.75000,310608,SF TRBO,310608,1,,+5.000,W6BUR,TS1 TS2
 N6ZEK,Calsbad,California,United States,Master,4,449.90000,310609,DCI-,310609,1,"Time Slot #2 - Group Call 3161 = DMR-MARC World Wide<br>Time Slot #2 - DMR-MARC Group Call 3163 = U.S. / English Speaking Countries<br>Time Slot #1- Group Call 3777215 = TRBO-6<br> <br>Contact Name: Mike, WB6WUI<br>Email: wb6wui@gmail.com<br>Website: www.trbo.info/dci (http://www.trbo.info/dci)",-5.000,N6ZEK,TS1
 AH6KD,El Cerrito,California,United States,Master,0,441.87500,310610,SF TRBO,310610,1,,+5.000,AH6KD,TS1 TS2
-KE6LE,Los Angeles,California,United States,Peer,0,0.00000,310611,TRBO-6,310611,1,,+5.000,KE6LE,TS1 TS2
 W6SS,San Diego,California,United States,Master,1,449.60000,310612,San Diego,310612,1,"alk Group Talk Group # Time Slot # PTT Timer<br>North America 3 1 Always On<br>Comm 1 3777215 1 Always On<br>Comm 2 - Local Only 3777216 2 Always On<br>SoCal Talk Group - PTT 76225 2 10 Mins<br>TAC 310 - PTT 310 2 10 Mins<br>Southwest - PTT 3176 2 10 Mins<br>Parrot - PTT 9998 2 10 Mins<br>Audio Test - PTT 9999 2 10 Mins<br>California - PTT 3107 2 10 Mins<br>San Diego - PTT 92101 2 10 Mins<br>Web Site: <br><br>Contact: WA6YVX, Ed Flinn<br>Email: wa6yvx@aol.com",-5.000,W6SS,TS1 TS2
 W6TCP,Mt. Allison,California,United States,Master,3,440.12500,310613,BrandMeister,310613,1,,+5.000,W6TCP,TS1 TS2
 W6TCP,Mt. Allison,California,United States,Master,1,144.98750,310614,BrandMeister,310614,1,Time Slot #2 - Group Call 1 = DMR-MARC Worldwide<br>Time Slot #2 - Group Call 3 =  DMR-MARC N. Amer./English Speaking Countries  <br><br><br>Time Slot #2 - Group Call 3100 = DCI Bridge<br>Time Slot #2 - Group Call 3176= Southwest Regional<br>Time Slot #2- Group Call 3777215= TRBO-6 <br>Time Slot #1- Group Call 2 = Local<br>Time Slot #1- Group Call 5150 = Northern CA <br>Contact Name: Tim Barrett <br>Email: k6biv@mac.com,+2.500,W6TCP,TS1 TS2
@@ -8499,7 +8495,7 @@ KM4CJ,Huntsville,Alabama,United States,Master,1,444.97500,314409,AmComm,314409,1
 KF6FM,San Luis Obispo,California,United States,Master,10,443.15000,314410,Western States DMR,314410,1,,+5.000,KF6FM,TS1 TS2
 AG5AA,Houston,Texas,United States,Peer,1,440.10000,314411,BM,314411,1,313146 XLX034     TG-6>TG-323246<br>YSF32385 - US-XLX034 -  REFLECTOR,+5.000,AG5AA,Mixed Mode
 WD5IYF,Duncan,Oklahoma,United States,Master,2,444.82500,314412,BM,314412,1,,+5.0000,WD5IYF,TS1 TS2
-KC3ART,Dawsonville,Georgia,United States,Master,1,443.50000,314413,DMR,314413,1,"Repeater build in process, not ""on the air"" yet. Will update once all our ducks are in a row.",+5.00,KC3ART,TS1
+KC3ART,Dawsonville,Georgia,United States,Master,1,443.97500,314413,DMR,314413,1,"Repeater build in process, not ""on the air"" yet. Will update once all our ducks are in a row.",+5.00,KC3ART,TS1 TS2
 K7AZ,Lompoc,California,United States,Peer,3,443.35000,314414,BrandMeister,314414,1,Bench Testing/Repairing MTR-2000 With Pi-Star MMDVM Pi-Star Modem,+5.000,K7AZ,TS1 TS2
 N0SZ,Karval,Colorado,United States,Peer,7,445.12500,314415,RMHAM,314415,1,"TS1 Talkgroup 700, RM Wide<br>TS2 Talkgroup 719, South",-5.00,W0VG,TS1 TS2
 KF6FM,Prescott,Arizona,United States,Master,5,447.72500,314416,Western States DMR,314416,1,,-5.0000,KF6FM,TS1 TS2
@@ -8664,7 +8660,6 @@ AC9ID,Wilmette,Illinois,United States,Peer,1,443.50000,314588,BM,314588,1,Experi
 NC4CD,Clinton,North Carolina,United States,Master,1,441.62500,314589,NCPRN,314589,1,TS1<br>Local 27500<br>PRN Chat1    27501<br>PRN Chat2   27502<br>Echo test        9998<br><br>TS2<br>PRN-2,+5.000,NC4CD,TS1 TS2
 N2MEE,New Paltz,New York,United States,Master,0,440.28750,314590,BM,314590,0,Brandmeister 31368,+5.000,N2MEE,TS1 TS2
 KQ4DZY,Gainesville,Georgia,United States,Master,1,440.80000,314591,Brandmeister,314591,0,"This is not an open repeater, this is a closed group repeater.",+5.000,KQ4DZY,Mixed Mode
-NJ2MC,Lake Hopatcong,New Jersey,United States,Master,1,441.80000,314593,BM,314593,1,,+0.600,WA2EPI,TS1
 W2RCR,BAYONNE NJ,New Jersey,United States,Peer,1,448.72500,314594,BM,314594,1,,-5.000,W2CSW,TS1 TS2
 AA4RV,Louisburg,North Carolina,United States,Master,1,444.30000,314595,BM,314595,1,"Located north of Louisburg, NC (Epsom)",+5.000,AA4RV,TS1 TS2
 N6WGP,Daly City,California,United States,Peer,1,146.35500,314596,DMR,314596,0,,-0.600,N6WGP,TS1 TS2
@@ -9067,6 +9062,7 @@ K5TKR,Kilgore,Texas,United States,Peer,1,443.97500,315045,BM,315045,1,None,+5.00
 K5TKR,Fort Worth,Texas,United States,Peer,1,440.67500,315046,BM,315046,1,None,+5.000,K5TKR,TS1 TS2
 KA4EPS,Lake Worth,Florida,United States,Master,10,444.85000,315047,Brandmeister,315047,1,KA4EPS@gmail.com,+5.000,KA4EPS,Mixed Mode
 N5VGK,tupelo,Mississippi,United States,Peer,1,145.49000,315048,BRANDMEISTER,315048,1,6625239600,0.600,"N5VGK, KG5JDS",TS1 TS2
+W8VD,New HAVEN,Michigan,United States,Peer,1,147.37000,315049,Brandmeister,315049,1,None,0.600,W8VD,TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
@@ -9223,7 +9219,7 @@ KC7DHF,Cheyenne,Wyoming,United States,Peer,15,448.95000,315615,BM,315615,1,,-5.0
 KA0NDS,Riverton,Wyoming,United States,Peer,10,449.98750,315616,BrandMeister,315616,1,,-5.000,KA0NDS,TS1 TS2
 W4LCO,Fort Meyers,Florida,United States,Peer,1,443.45000,315701,BrandMeister,315701,1,,+5.000,W9GPI,TS1 TS2
 K5WH,Houston,Texas,United States,Master,1,441.00000,315802,Brandmeister,315802,1,,+5.500,K5WH,Mixed Mode
-N5YEY,Kilgore,Texas,United States,Master,1,443.95000,315804,cbridge2.0,315804,1,,+5.000,N5YEY,None
+N5YEY,Kilgore,Texas,United States,Master,1,443.95000,315804,cbridge2.0,315804,1,,+5.000,N5YEY,TS1 TS2
 AE5JO,San Benito,Texas,United States,Master,1,442.17500,315805,BM,315805,1,,+5.000,AE5JO,TS1 TS2
 KG5OKB,Crockett,Texas,United States,Peer,9,440.35000,315807,CBridge 2.0,315807,1,,+5.000,KG5OKB,TS1 TS2
 KE5FCO,Lucas,Texas,United States,None,5,441.35000,315808,BrandMeister,315808,1,,+5.000,KE5FCO,TS1 TS2
