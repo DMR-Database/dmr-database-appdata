@@ -223,7 +223,7 @@ PD0JCH,Ouddorp,Zuid-Holland,Netherlands,Peer,1,438.37500,204007,Brandmeister,204
 PD0JCH,Ouddorp,Zuid-Holland,Netherlands,Peer,1,438.20000,204008,Brandmeister,204008,1,None,-7.600,PD0JCH,TS1 TS2
 PI1DHG,Den Haag,Zuid-Holland,Netherlands,,1,438.20000,204201,BM,204201,1,,-7.600,PA3FRH,TS1 TS2
 PI1HGD,Den Haag,Zuid-Holland,Netherlands,,1,438.25000,204202,DMR-plus,204202,1,,-7.600,PA3FRH,TS1 TS2
-PI1DEC,Dordrecht,Zuid-Holland,Netherlands,,1,438.02500,204220,BrandMeister,204220,1,,-7.600,PA3L,TS1 TS2
+PI1DEC,Dordrecht,Zuid-Holland,Netherlands,Master,1,438.02500,204220,BrandMeister,204220,1,,-7.600,PA3L,TS1 TS2
 PI1DOR,Dordrecht,Zuid-Holland,Netherlands,Peer,2,438.08750,204221,BM,204221,1,,-7.600,PA1ER,TS1 TS2
 PI1UTR,Ijsselstein,Utrecht,Netherlands,Master,1,438.35000,204300,BM,204300,1,,-7.600,PE1RJV,TS1 TS2
 PI1UTR,Ijsselstein,Utrecht,Netherlands,,1,438.47500,204301,None,204301,1,,-7.000,PE1RJV,
@@ -521,7 +521,7 @@ F5ZGM,Peyrat le Chateau,Bourgogne-Franche-Comte,France,,1,145.65000,208611,None,
 F1ZMB,IN95IW,Bourgogne-Franche-Comte,France,,1,145.71250,208612,None,208612,0,,-0.600,F1USA,
 F1ZTY,LE PASSAGE,Bourgogne-Franche-Comte,France,,1,145.16200,208613,None,208613,0,,0.600,F1EBC,
 F1ZSR,PRAYOLS,Occitanie,France,Master,2,439.75000,208614,DMR,208614,1,,-9.400,F4IEE,Mixed Mode
-F1ZOU,BERNEUIL,Bourgogne-Franche-Comte,France,,1,439.90000,208616,BM,208616,0,,-9.400,F5NXG,
+F1ZOU,Berneuil,Nouvelle-Aquitaine,France,Peer,1,439.90000,208616,BM,208616,0,,-9.400,F5NXG,TS1 TS2
 F1ZLP,IN94QV,Bourgogne-Franche-Comte,France,,1,439.95000,208619,None,208619,0,,-9.400,F4HLV,TS1 TS2
 F1ZLF,IN94qv,Bourgogne-Franche-Comte,France,,1,438.40000,208633,BM,208633,0,,-7.600,F4HLV,TS1 TS2
 F5ZMN,TARTAS,Nouvelle-Aquitaine,France,Peer,1,431.82500,208640,BM,208640,1,,+7.600,F5OPV,TS1 TS2
@@ -1893,7 +1893,7 @@ GB7PH,Hailsham,England,United Kingdom,Peer,3,439.46250,234080,DM DMR+ TGIF freeD
 GB7FB,Bideford,England,United Kingdom,Peer,5,439.47500,234081,South West Cluster,234081,1,TS1 - 9 Local<br>TS2 - 950 South West Cluster,-9.000,M0MFS,TS1 TS2
 GB7DW,Honiton Devon,England,United Kingdom,Peer,7,145.62500,234082,South West Cluster,234082,1,"The South West Cluster of 19 LINKED DMR Repeaters.<br><br>Slot 1, only TG 9, Stand alone coverage.  Plus, Dial-On-Demand TG's to other Networks.<br><br>Slot 2, only TG 950, Connected to the South West Cluster of 19 LINKED DMR Repeaters.<br><br>GB7AA 70cm, GB7BS 70cm, GB7DT 70cm, GB7DW 2m, GB7EW 70cm, GB7FB 70cm, GB7HD 2m, GB3JB 2m, GB7JB 70cm, GB7KT 70cm, GB7LZ 70cm, GB7MJ 70cm, GB7ND 70cm, GB7PF 70cm, GB7RD 70cm, GB7SD 70cm, GB7SP 70cm, GB7WW 70cm, GB7YD 70cm.<br><br>More details at: https://gb3jb-repeater.mailchimpsites.com<br>More details also available at: http://thesouthwestcluster.co.uk<br>",-0.600,G3ZXX,TS1 TS2
 GB7HK,Hawick,Scotland,United Kingdom,Peer,3,145.62500,234083,DVSPh,234083,1,,-0.600,G8SJP,TS1 TS2
-GB7LZ,Lapford,England,United Kingdom,Master,1,430.91250,234087,FreeDMR,234087,1,,+7.600,G4MQQ,TS1 TS2
+GB7LZ,Winkleigh,England,United Kingdom,Master,1,430.91250,234087,FreeDMR,234087,1,,+7.600,G6DLJ,TS1 TS2
 GB7GM,Dumfries,Scotland,United Kingdom,Master,3,430.97500,234088,XFN,234088,1,,+7.600,M0UKB,Mixed Mode
 GB7WW,Kington Langley  Wiltshire,England,United Kingdom,Peer,7,439.47500,234089,South West Cluster,234089,1,TG9 Local<br>TG950 South West Cluster,-9.00,G6HUI,TS1 TS2
 GB7DT,Cornwall,England,United Kingdom,Peer,7,430.93750,234090,SW Cluster,234090,1,"Part of SW Cluster. TS2 TG950 - Fixed. TS1 TG9 - Use Private call to ""Dial a Talkgroup"" - See https://www.freedmr.uk/index.php/talkgroups/",+7.6,MB6CC,TS1 TS2
@@ -2091,7 +2091,7 @@ GB7BM,BIRMINGHAM,England,United Kingdom,Peer,9,439.40000,235173,BM,235173,1,Slot
 GB7YJ,Nr Warwick,England,United Kingdom,Peer,3,439.58750,235174,BM,235174,1,,-9.000,G4USP,TS1 TS2
 GB3RF,Accrington,England,United Kingdom,,2,145.77500,235175,DMR-plus,235175,1,,-0.600,M0NFI,TS1 TS2
 GB7CT,Tring,England,United Kingdom,Peer,3,145.63750,235177,DMR-plus,235177,1,,-0.600,M0ZPU,TS1 TS2
-GB7MP,Heysham,England,United Kingdom,,3,439.75000,235178,,235178,1,,9.000,G6CRV,
+GB7MP,Heysham,England,United Kingdom,Master,3,439.75000,235178,brandmaster,235178,1,,9.000,G6CRV,TS1 TS2
 GB7SJ,Northwich Cheshire,England,United Kingdom,Master,1,433.17500,235179,BM,235179,1,,+1.600,M0WTX,Mixed Mode
 GB7BH,Brighton,England,United Kingdom,,4,439.57500,235180,BM,235180,1,,-9.000,G7TXU,TS1 TS2
 GB7CY,Stanley Crook,England,United Kingdom,Master,1,439.62500,235182,DVSPH,235182,1,,-9.000,G5RJD,TS1 TS2
@@ -2613,7 +2613,7 @@ OH3RAA,Haemeenlinna,,Finland,,1,434.58750,244330,BM,244330,1,,-2.000,OH7Z,TS1 TS
 OH4RUC,Tuomaalanmaeki,,Finland,,1,434.75000,244401,None,244401,1,,-2.000,OH4SK,
 OH4RUB,Pieksamaki,,Finland,,1,434.80000,244402,None,244402,0,,-2.000,OH4EA,
 OH5RUD,Lappeenranta,,Finland,,1,434.53750,244501,BM,244501,1,,-2.000,OH5HCJ,TS1 TS2
-OH5RUG,Kp30iv,,Finland,,1,434.58750,244502,BM,244502,1,,-2.000,OH5GDN,TS1 TS2
+OH5RUG,Kouvola,All Regions,Finland,Peer,1,434.58750,244502,BM,244502,1,,-2.000,OH5GDN,TS1 TS2
 OH5RUA,Kotka,All Regions,Finland,Peer,1,434.56250,244503,BM,244503,1,,-2.000,OH5TEG,TS1 TS2
 OH5DMRA,Imatra,,Finland,,1,434.52500,244504,BM,244504,1,,-2.000,OH5FQT,TS1 TS2
 OH5RUA,Kotka,All Regions,Finland,Peer,1,434.72500,244505,rNet,244505,1,,-2.000,OH5TEG,Mixed Mode
@@ -6715,6 +6715,7 @@ W5ROS,Adkins,Texas,United States,Master,1,442.00000,312287,DMR,312287,1,TS1 = Lo
 AF1G,Kathleen,Georgia,United States,Master,3,443.51250,312288,Brandmeister,312288,1,Under construction,+5.000,AF1G,TS2
 KH7MS,Hilo,Hawaii,United States,Peer,1,444.95000,312289,BrandMeister,312289,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1<br>P25 Hawaii TG 3115<br>P25 TG 1 Local,+5.000,KH7MS,Mixed Mode
 KD7YUW,Toponas,Colorado,United States,Peer,11,449.47500,312290,bm,312290,1,,-5.0,KD7YUW,TS1 TS2
+K6JWN,Wilton,California,United States,Peer,9,442.18750,312291,Brandmeister,312291,1,,+5.000,K6JWN,TS1 TS2
 N4MPC,Marietta,Georgia,United States,Master,1,440.77500,312292,BrandMeister,312292,1,Portable Repeater,+5.000,N4MPC,TS1 TS2
 KB0CGJ,Wabasso,Minnesota,United States,Peer,10,444.52500,312293,BM,312293,1,KB0CGJ Repeater 444.525/449.525 Kenwood TKR-850 using STM32-DVM Pi_Star,+5.000,KB0CGJ,TS1 TS2
 KE8ANE,STOCKPORT,Ohio,United States,Peer,2,443.23900,312296,BM,312296,1,,-0.600,KE8ANE,Mixed Mode
@@ -8549,7 +8550,7 @@ N3RZL,Brockway,Pennsylvania,United States,Master,1,442.35000,314468,Brandmeister
 N4TS,Mountain City,Georgia,United States,Peer,1,443.15000,314469,BM,314469,1,,+5.000,N4TS,TS2
 WA9RSK,Decatur,Illinois,United States,Peer,5,443.25000,314470,BM,314470,1,,+5.00,WA9RSK,TS1 TS2
 K6TZ,Santa Barbara,California,United States,Peer,1,445.48000,314471,BM,314471,1,,-5.000,K6TZ,TS1 TS2
-N5JLR,Harlingen,Texas,United States,Master,1,442.47500,314472,BrandMiester,314472,1,"TS-2 TG-2, So-Texas (31482)<br>TS-1 Texas St. (3148)",+5.000,N5JLR,TS1 TS2
+N5JLR,Harlingen,Texas,United States,Master,1,442.47500,314472,BrandMiester,314472,1,"TS-2 TG-2, So-Texas (31482)<br>TS-1 Texas St. (3148)",+5.000,KD4FJ,TS1 TS2
 N2FED,Watnong Mountain,New Jersey,United States,Master,7,448.87500,314473,BrandMeister,314473,1,"Hytera RD-982 running mixed-mode analog/DMR<br><br>TS 1:  STATIC talkgroups / Full-time<br>314423 - N2FED NETWORK<br>314473 - N2PTA (NJ POTA) talkgroup - check them out on QRZ !<br>3134 - NJ STATE (10 minute limit)<br><br>**Note that any BrandMeister talkgroup is also available dynamically on TS 1 via PTT for a 15 minute interval***<br><br>TS 2:  STATIC talkgroups / Full-time<br>31360 - TRI-STATE<br><br>Repeater System Hub:<br><br>AllStarLink Node - 64332 (come out all repeaters on analog)<br>Echolink - 447875 (come out all repeaters on analog)<br>DMR TGIF - 314423 (come in DMR through TGIF, come out all repeaters on analog)<br>DMR BrandMeister - 314423 (come in DMR through BrandMeister, come out DMR all repeaters on TS 1)<br>YSF Reflector US-N2FED - 00654 (come in C4FM, come out DMR all repeaters on TS1 - 314423)<br><br>For more information, please visit https://www.qrz.com/db/N2FED",-5.000,N2FED,TS1 TS2
 N8GU,Fort Myers,Florida,United States,Peer,1,442.17500,314474,BM,314474,1,"This is the DMR Repeater of the Fort Myers Amateur Radio Club<br><br>2, 2, SWFL Cluster, FT<br>2, 9, Local 9, FT<br>2, 3112, Florida, FT<br>2, 3174, Southeast Regional, FT<br>2, 311261, Local calling, FT<br>1, 313136, KC Wide, PTT<br>1, 91, Worldwide, PTT<br>1, 93, North America, PTT<br>1, 3100, Bridge, PTT<br>1, 31656, America Link, PTT<br>1, 310847, SkyHub Link, PTT<br>1, 3169, Midwest Regional, PTT<br>1, 3172, Northeast Regional, PTT<br>1, 3173, MidAtlantic Regional, PTT<br>1, 3175, TX-OK Regional, PTT<br>1, 3176, Southwest Regional, PTT<br>1, 3177, Mountain Regional, PTT<br>1, 310, TAC 310, PTT<br>1, 311, TAC 311, PTT<br>1, 312, TAC 312, PTT<br>1, 313, TAC 313, PTT<br>1, 314, TAC 314, PTT<br>1, 315, TAC 315, PTT<br>1, 316, TAC 316, PTT<br>1, 317, TAC 317, PTT<br>1, 318, TAC 318, PTT<br>1, 319, TAC 319, PTT<br>1, 907, JOTA, PTT<br>1, 3181, POTA, PTT<br>1, 973, SOTA, PTT",+5.000,N8GU,TS1 TS2
 KC0YHU,Urbandale,Iowa,United States,Master,1,147.30000,314475,TGIF,314475,1,"Analog FM and TGIF.Network TG's 7399 Amateur Radio Missionary Service, 319 YLSystem primarily.",+0.600,KC0YHU,Mixed Mode
@@ -8619,6 +8620,7 @@ KD4MGR,Gainesville,Florida,United States,Peer,1,146.85000,314539,BM,314539,1,Bri
 W1FRS,Framingham,Massachusetts,United States,Master,0,927.01250,314540,P25,314540,1,P25 repeater ID,-25.000,WA1NVC,Mixed Mode
 W7ZA,Aberdeen,Washington,United States,Master,1,147.16250,314541,GHARC,314541,0,,+0.600,W7ZA,TS1 TS2
 KB2UNV,Lake Hopatcong,New Jersey,United States,Peer,1,441.30000,314542,BM,314542,1,,+5.000,KB2UNV,TS1 TS2
+KG7VIQ,Kingston,Washington,United States,Master,1,443.00000,314543,TGIF,314543,0,,+5.000,"KG7VIQ, KK7CLC",TS1
 W4MCO,Orlando,Florida,United States,Master,11,443.16250,314546,BM,314546,1,"W4MCO 443.1625 +5 MHz Color Code 11. Orange County ARES<br>This repeater is connected to the Brandmeister network.<br><br>https://brandmeister.network/?page=repeater&id=314546<br>Presently, these are static groups on that repeater:<br><br>Time Slot 1<br>TG 31121 --- First Coast DMR --- Always active. Other TG's held off for 15 seconds after release of PTT.<br><br>Time Slot 2<br>TG 2 --- Local --- Always active. Other TG's held off for 15 seconds after release of PTT. Local is never held back.<br><br>TG 111201 --- O-Link --- Always active. Other TG's held off for 15 seconds after release of PTT. Used by hotspots or users for direct link to repeater.",+5.000,W4MCO,TS1 TS2
 N7CVR,Boise,Idaho,United States,Peer,1,442.35000,314547,Idaho DMR C-Bridge Network,314547,0,n7cvr.net,+5.000,N7CVR,TS1 TS2
 WD4WDW,Orlando,Florida,United States,Master,3,442.57500,314549,BM,314549,1,,+5.000,WD4WDW,TS1 TS2
@@ -9048,7 +9050,7 @@ KF0WXX,Lincoln,Nebraska,United States,Peer,1,443.65000,315031,brandmeister,31503
 AA9RA,Chicago,Illinois,United States,Peer,1,442.17500,315032,BRANDMEISTER,315032,1,None,5.000,AA9RA,TS1 TS2
 K3EJ,Coatesville,Pennsylvania,United States,Peer,4,147.04500,315033,Brandmeister,315033,1,None,+0.600,K3EJ,TS1 TS2
 KG6TRQ,Pasadena,California,United States,Peer,8,441.38750,315034,BM,315034,1,None,5.000,KG6TRQ,TS1 TS2
-KE6GVK,Saint Johns,Arizona,United States,Peer,1,446.82500,315035,Brandmeister,315035,1,"BRANDMEISTER<br>TALK LOCALY TG-9 TS-1 & TS-2<br>TS-1 & TS-2 BRANDMEISTER, 15 MINUTE DYNAMIC OR TG-4000 TO DISCONNECT<br>ALL TALK GROUPS ARE ACTIVE.<br><br>CROSSMODE TO NXDN<br>TS-2 DMR CROSS MODE NXDN, 7 PREFIX 7000000, EXAMPLE WMRA TG-7007941,<br>TO DISCONNECT TG-7009999<br><br>WMRA XLX835 REFLECTOR TS-2, USE TG-6<br>CONNECT PRIVATE CALL-64004, DISCONNECT PRIVATE CALL-64000<br>1 HOUR DYNAMIC, WILL DISONNECT AFTER ONE HOUR.",-5.000,KE6GVK,TS1 TS2
+KE6GVK,Saint Johns,Arizona,United States,Peer,1,433.45000,315035,Brandmeister,315035,1,,-0.000,KE6GVK,TS2
 KK7BSQ,RIO RICO,Arizona,United States,Peer,0,145.49000,315036,74.91.118.251,315036,1,None,-0.600,KK7BSQ,TS2
 W0WR,Partridge,Kansas,United States,Peer,1,146.67000,315037,Brandmeister,315037,1,None,-0.600,W0ZC,Mixed Mode
 K5TKR,Kilgore,Texas,United States,Peer,1,147.30000,315038,BM,315038,1,None,+0.600,K5TKR,TS1 TS2
@@ -9280,7 +9282,7 @@ KP3AV,Toa Alta,,Puerto Rico,Master,1,448.90000,330032,BM,330032,0,,-5.000,KP3AV,
 KP3AV,Toa Alta,,Puerto Rico,Master,1,448.90000,330033,BM,330033,0,,-5.000,KP3AV,TS1 TS2
 KP3AV,Toa Alta,,Puerto Rico,Master,1,449.20000,330034,BM,330034,0,,-5.000,KP3AV,TS1 TS2
 NP4GT,Yauco,All Regions,Puerto Rico,Peer,2,449.90000,330035,BrandMeister Network,330035,1,Slot>1 CC>2:<br>Static TG330013  -  Repeater linked to BM - IslaComm DMR Rpts -<br>Static TG330911  -  * * Emergency Use Only * *<br><br>Slot>2 CC>2:<br>Static TG330035  -  Repeater BM or Local @ TG9 | Open for BM Dynamic PTT enabled TG's<br>Static TG330911  -  * * Emergency Use Only * *<br><br>73's<br>Glidden Torres > NP4GT,-5.000,NP4GT,TS1 TS2
-KP4RX,Las Piedras,,Puerto Rico,Master,1,224.30000,330036,"BM, TGIF",330036,1,"Repeater for PR Ham Community, TG330 on TGIF Prime. BM TGs accessible",-1.600,KP4RX,Mixed Mode
+KP4RX,Las Piedras,All Regions,Puerto Rico,Master,1,224.30000,330036,"BM, TGIF",330036,1,"Repeater for PR Ham Community, TG330 on TGIF Prime. BM TGs accessible",-1.600,KP4RX,Mixed Mode
 NP4UG,Bayamon,,Puerto Rico,Master,1,449.47500,330037,BM,330037,1,,-5.000,NP4UG,TS1
 KP4BW,Naguabo,,Puerto Rico,Master,1,440.92500,330039,BM,330039,1,,+5.000,KP4BW,TS1
 KP4BW,Naperville,,Puerto Rico,Master,1,442.37500,330040,BM,330040,0,,+5.000,KP4BW,TS1
@@ -9689,6 +9691,7 @@ BR6LU,Henan Luoyang,Henan Hubei Anhui,China,Master,1,439.02500,460129,BM.DMR-MAR
 BR6LR,Henan Luoyang,Henan Hubei Anhui,China,Master,1,439.85000,460130,BM.DMR-MARC,460130,1,,-9.000,BA6KA,TS1 TS2
 BR6LN,Henan Luoyang,Henan Hubei Anhui,China,Master,1,439.95000,460131,BM.DMR-MARC,460131,1,,-9.000,BA6KA,TS1 TS2
 BR6LO,Henan Luoyang,Henan Hubei Anhui,China,Master,1,439.92500,460132,BM.DMR-MARC,460132,1,,-9.000,BA6KA,TS1 TS2
+BR7XZF,FangChengGang,Hunan Guangdong Guangxi Hainan,China,Master,11,439.55000,460134,DMR,460134,1,None,-8.000,BG7QDA,TS1
 BR6QZZ,Wuhan,Henan Hubei Anhui,China,Master,5,438.80000,460135,https://brandmeister.network/,460135,1,438.800/-8 /88.5/BR6QZZ/BG6TPT,+5.000,BR6QZZ,Mixed Mode
 BR5AK,Hangzhou,Zhejiang Fujian Jiangxi,China,Master,1,145.20000,460136,"BM, Homebrew Net",460136,1,BR5AK is another home-brew mix-mode repeater linked together with BM/TG460501 and works in VHF band.,-0.600,BG5HHP,Mixed Mode
 BH3BEC,Tangshan,Shanxi Hebei Tianjin,China,Master,1,438.25000,460137,BM,460137,1,,-5.00,BH3BEC,TS1 TS2
@@ -9932,7 +9935,6 @@ YH3BLR,Surabaya,Jawa Timur,Indonesia,Master,1,433.00000,510009,BM,510009,1,Slot 
 YH0DVR,Jakarta Selatan,DKI Jakarta,Indonesia,Master,11,432.70000,510012,BM,510012,1,Dedicated for prefix id 510 <br>Time Slot 1 for TG 91<br>Time Slot 2 for TG 510,+5.000,YB0RWN,Mixed Mode
 YH3AAU,Surabaya,Jawa Timur,Indonesia,Master,1,434.40000,510013,BM,510013,1,TS 1 digunakan untuk TG 51003<br>TS 2 digunakan untuk TG 510,-4.000,YC3BUS,TS1 TS2
 YH2UFR,Jogjakarta,DI Yogyakarta,Indonesia,Master,11,146.96000,510014,BM,510014,1,TG 1 : 510002;510003;51092<br>TG 2 : 510;91<br>,-0.600,YE2YE,TS1 TS2
-YH2ATRD,KUDUS,Jawa Tengah,Indonesia,Master,1,147.19000,510015,BM,510015,1,TS 1 digunakan untuk TG 51002<br>TS 2 digunakan untuk TG 510,+0.600,YC2LCZ,TS1 TS2
 YH2AARA,Semarang,Jawa Tengah,Indonesia,Master,11,147.11000,510016,BM,510016,1,Slot 1<br>TG 510 (static)<br>TG 51002<br>TG 51003<br>TG 51092<br>Slot 2<br>TG 91 (static)<br>510,+0.600,YE2YE,TS1 TS2
 YH2UFAR,Jogjakarta,DI Yogyakarta,Indonesia,Master,11,147.37000,510017,BM,510017,1,Slot 1<br>TG 510 (static)<br>TG 51002 (dynamic)<br>TG 51003 (dynamic)<br>TG 51092 (dynamic)<br><br>Slot2<br>TG 91 (static)<br>TG 510 (dynamic)<br>,+0.600,YE2YE,TS1 TS2
 YH0DVM,Jakarta,DKI Jakarta,Indonesia,Master,11,432.82000,510018,BM,510018,1,,+5.000,YB0RWN,Mixed Mode
@@ -10675,7 +10677,7 @@ CE2VRP,La Serena,Coquimbo,Chile,Peer,1,433.70000,730212,Brandmeister,730212,1,,+
 CE2KVL,valparaiso,Valparaiso,Chile,None,1,430.10000,730213,DMR BM,730213,1,,+5.000,CE2KVL,TS1 TS2
 CA2UMH,Los Andes,Valparaiso,Chile,Peer,1,144.10000,730214,Cable,730214,1,,+0.600,CA2UMH,TS1 TS2
 XQ2FL,Vina del Mar,Valparaiso,Chile,Peer,1,438.15000,730215,BrandMeister,730215,1,,-5.000,XQ2FL,TS1 TS2
-CE2UGO,VALPARAISO,Valparaiso,Chile,None,1,433.50000,730216,Master Chile,730216,1,,+5.000,CE2UGO,TS1
+CE2UGO,VALPARAISO,Valparaiso,Chile,Master,1,433.50000,730216,Master Chile,730216,1,,+5.000,CE2UGO,TS1
 CE2KVL,valparaiso,Coquimbo,Chile,None,1,434.95000,730217,DMR BM,730217,1,,+5.000,CE2KVL,TS1 TS2
 CE2AND,Los Andes,Valparaiso,Chile,Peer,1,147.21000,730218,BM-Chile 7301,730218,1,,+0.600,CE2PZJ,TS1 TS2
 CE3PA,puente alto,Reg.Metr. de Santiago,Chile,Peer,1,433.45000,730301,BM,730301,1,"730, 914 334,7303,730056 730911",+5.000,CE3PA,TS1 TS2
