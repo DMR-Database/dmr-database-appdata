@@ -1260,7 +1260,7 @@ IR4UCK,Nibbiano (PC),Emilia-Romagna,Italy,,1,430.53750,222420,BM,222420,1,,5.000
 IR4ZZF,Copparo Fe,Emilia-Romagna,Italy,Peer,1,431.60000,222421,BM,222421,1,,+1.600,IZ2FTR,TS1 TS2
 IR4UA,M. stella casina RE,Emilia-Romagna,Italy,,1,430.96250,222422,DMR-plus,222422,1,,5.000,IK4IDS,TS1 TS2
 IR4ZZE,Ferrara FE,Emilia-Romagna,Italy,Peer,1,431.46250,222423,BM,222423,1,,+1.600,IZ2FTR,TS1 TS2
-IR4UBF,Zaccanesca BO,Emilia-Romagna,Italy,,1,430.33750,222424,DMR-plus,222424,1,,7.600,IZ4FXT,TS1 TS2
+IR4UBF,Zaccanesca BO,Emilia-Romagna,Italy,Peer,1,145.58750,222424,Brandmeister,222424,1,,0.600,IZ4FXT,TS1 TS2
 IR3ZXG,Vigo di Cadore,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,145.62500,222425,BM,222425,1,,-0.600,IW3FXB,TS1 TS2
 IR0UJA,Citta Di Castello,Lazio / Umbria / Sardinia,Italy,Master,1,430.36250,222426,"BM,DMR-MARC",222426,1,,+5.00,IK0YUJ,TS1 TS2
 IR3ZWF,Forcella di Giais PN,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.02500,222427,BM,222427,1,,+1.600,IW3QOJ,TS1 TS2
@@ -4036,6 +4036,7 @@ YM1KAB,ISTANBUL,Marmara Region,Turkiye,Peer,0,439.23750,286003,BrandMeister,2860
 YM1KPL,Tekirdag,Marmara Region,Turkiye,Peer,1,439.41250,286004,BrandMeister,286004,1,None,-7.600,"TA1NDA, YM1KPL, TA1DRD, TA1TEC",TS1
 YM6K,samsun,Black Sea Region,Turkiye,Master,2,439.41250,286005,41.18.53.76,286005,1,None,7.600,TB2PWW,TS1 TS2
 TB7CEA,Ordualtinordu,Black Sea Region,Turkiye,Peer,1,432.50000,286006,0,286006,1,Hicbiri,0.000,TB7CEA,TS2
+YM3KZ,Mustafakemalpasa Bursa,Marmara Region,Turkiye,Peer,2,145.68750,286007,Local,286007,1,,-0.600,"YM3KZ, TA3SG",Mixed Mode
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.15000,286010,BM,286010,1,286010,-7.600,TA5FW,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.16250,286011,BM,286011,1,286011,-7.600,TA5FW,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.25000,286012,BM,286012,1,286012,-7.600,TA5FW,TS1 TS2
@@ -4144,7 +4145,7 @@ S55UGO,Trstelj,Gorika,Slovenia,Peer,1,438.75000,293005,BM,293005,1,"TS1: 293, 29
 S55DSC,Celje - Sentjungert,Savinjska,Slovenia,Master,1,438.22500,293006,BM,293006,1,,-7.600,S57RD,TS1 TS2
 S55DMX,Pohorje-Maribor,,Slovenia,,1,438.35000,293007,BrandMeister,293007,1,,-7.600,S56WAN,
 S55DKN,Kanin,,Slovenia,,1,439.30000,293008,BrandMeister,293008,1,,-7.600,S57LR,
-S55DKP,Nanos,,Slovenia,,1,438.70000,293009,DMR-plus,293009,1,,-7.600,S57NK,TS1 TS2
+S55DKP,Nanos,Gorika,Slovenia,Peer,1,438.70000,293009,BrandMeister,293009,1,,-7.600,S57NK,TS1 TS2
 S55DGO,Nova Gorica,Gorika,Slovenia,Peer,1,438.90000,293010,BM,293010,1,"TS1: 293, 293112<br>TS2: 2935, 29351<br>",-7.600,S52X,TS1 TS2
 S55DKV,Krvavec,Gorenjska,Slovenia,Peer,1,438.47500,293011,BM,293011,1,,-7.600,S56CT,TS1 TS2
 S55DHF,Kum,Zasavska,Slovenia,Peer,1,438.27500,293012,BM,293012,1,,-7.600,S56CT,TS1 TS2
@@ -6714,7 +6715,7 @@ W5ROS,Adkins,Texas,United States,Master,1,442.00000,312287,DMR,312287,1,TS1 = Lo
 AF1G,Kathleen,Georgia,United States,Master,3,443.51250,312288,Brandmeister,312288,1,Under construction,+5.000,AF1G,TS2
 KH7MS,Hilo,Hawaii,United States,Peer,1,444.95000,312289,BrandMeister,312289,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1<br>P25 Hawaii TG 3115<br>P25 TG 1 Local,+5.000,KH7MS,Mixed Mode
 KD7YUW,Toponas,Colorado,United States,Peer,11,449.47500,312290,bm,312290,1,,-5.0,KD7YUW,TS1 TS2
-K6JWN,Wilton,California,United States,Peer,9,442.18750,312291,Brandmeister,312291,1,,+5.000,K6JWN,TS1 TS2
+K6JWN,Wilton,California,United States,Peer,9,442.18750,312291,Brandmeister,312291,1,,+5.000,K6JWN,Mixed Mode
 N4MPC,Marietta,Georgia,United States,Master,1,440.77500,312292,BrandMeister,312292,1,Portable Repeater,+5.000,N4MPC,TS1 TS2
 KB0CGJ,Wabasso,Minnesota,United States,Peer,10,444.52500,312293,BM,312293,1,KB0CGJ Repeater 444.525/449.525 Kenwood TKR-850 using STM32-DVM Pi_Star,+5.000,KB0CGJ,TS1 TS2
 KE8ANE,STOCKPORT,Ohio,United States,Peer,2,443.23900,312296,BM,312296,1,,-0.600,KE8ANE,Mixed Mode
@@ -9070,6 +9071,8 @@ KC9PXI,Tuscola,Illinois,United States,Master,1,146.95500,315050,Brandmeister,315
 WA4AAZ,CASTLE HAYNE,North Carolina,United States,Peer,3,444.98750,315051,BrandMeister,315051,1,None,+5.000,WA4AAZ,TS1 TS2
 W1ASS,Goffstown,New Hampshire,United States,Master,1,927.71250,315052,Brandmaster,315052,1,None,-25.000,W1ASS,Mixed Mode
 AA5SG,Ellisville,Mississippi,United States,Peer,0,441.21250,315053,Brandmeister,315053,1,None,+5.000,AA5SG,Mixed Mode
+N7COX,Star,Idaho,United States,Peer,1,444.55000,315054,Brandmiester,315054,1,None,+5.000,N7COX,TS1
+N4TAE,Theodore,Alabama,United States,Peer,7,145.13000,315055,AmComm,315055,1,None,-0.600,N4TAE,TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
@@ -9845,9 +9848,7 @@ VK2RWO,Wodonga,Victoria,Australia,Master,1,438.80000,505114,VK-DMR,505114,1,,-7.
 VK2RKG,West Bathurst,New South Wales,Australia,Peer,1,439.87500,505115,VKDMR,505115,1,New repeater for the VKDMR Network,-5.000,VK2MES,TS1 TS2
 VK2MOE,Mudgee,New South Wales,Australia,Master,1,439.17500,505116,"BM, VKDMR",505116,1,"Currently in test, soon to be full duplex public local repeater",+0.000,VK2MOE,TS2
 VK8RDD,Larakeyah,Northern Territory,Australia,Master,1,438.80000,505118,DMR-MARC,505118,1,,-7.000,VK8ZJZ,TS1 TS2
-VK2MAB,Lithgow,New South Wales,Australia,Master,5,439.15000,505119,BM,505119,1,439.150 SIMPLEX - Currently in testing phase. Set to be the Lithgow area simplex node.<br>Tait TM8100 - RepeaterBuilder V4 - Raspberry Pi 3 B+,+0.000,VK2MAB,TS2
 VK2AJB,Inverell,New South Wales,Australia,Master,1,439.65000,505120,BM/P25/FM,505120,1,"DMR Local - TS1, TG9<br>BM Net - TS2, ALL TG's<br>STATIC - TS2, TG505116 (Mudgee Group)<br>DMR Private Calls/text messaging<br><br>P25 Local - TG1<br>P25 Net - ALL TG's<br>FM Local - CTCSS 94.8hz",-5.000,VK2AJB,TS1 TS2
-VK2MAB,Lithgow,New South Wales,Australia,Master,5,439.17500,505121,BM,505121,1,,+0.0000,VK2MAB,TS2
 VK4NMS,Noosa,Queensland,Australia,Peer,1,438.78750,505122,VK-DMR Network,505122,1,TS 1 - TG 1 = Worldwide Calling (2 min max)<br>TS 1 - TG 5 = VK-DMR Club & Amateur Broadcasts<br>TS 1 - TG 9 = Local Repeater only<br>TS 1 - TG 13 = Worldwide English<br>TS 1 - TG 30 = Jota for VK<br>TS 1 - TG 53 = User Activated for chatting<br>TS 1 - TG 113= User Activated English 1<br>TS 1 - TG 123= User Activated English 2<br>TS 1 - TG 133 = DMR+ USA<br>TS 1 - TG 143 = DMR+ UK<br>TS 1 - TG 153 = DMR+ South Pacific<br>TS 2 - TG 505 = VK DMR Linked repeaters<br>TS 1 - TG 3801 ~ 3808 General Chat<br>TS 1 - TG 3809 = Second TS for chatting<br>TS 1 - TG 3810 = WICEN<br><br>You Must Have [ARS] Disabled Within Your Radio.<br>You Must Have [GPS] Disabled Within Your Radio.<br><br>Contact: John<br>Email: vk4nms@noosa-mens-shed.org.au,-7.000,VK3TE,TS1 TS2
 VK2ROT,Paddington,New South Wales,Australia,Peer,1,438.57500,505123,DMR-MARC,505123,1,505<br>3801<br>3802<br>3803<br>3804<br>3805<br>3806<br>3807<br>3808<br>3809<br>3810<br>5,-5.000,VK2FLY,TS1 TS2
 VK2RLP,St Andrews,New South Wales,Australia,Master,0,439.70000,505124,P25,505124,1,,-7.000,VK2LP,Mixed Mode
@@ -10355,7 +10356,6 @@ PY1RSU,RJ-Sumare,Rio de Janeiro,Brazil,Peer,1,439.95000,724042,DMR-plus,724042,1
 PP1DGT,Iconha,Espirito Santo,Brazil,master,1,145.31000,724044,BRANDMEISTER,724044,1,,-600,PU1DES,TS1 TS2
 PP5APL,Itajai,Santa Catarina,Brazil,Master,1,439.77500,724045,Brandmeiter,724045,1,,-5000,PU5APL,TS1 TS2
 PS8JSL,Teresina,Piaui,Brazil,Master,1,439.90000,724046,BrandMeister/DMR,724046,1,,-5.000,PS8AFR,TS1 TS2
-PY5FI,Cascavel,Parana,Brazil,100,1,439.75000,724047,BrandMaster,724047,1,,-5.000,PY5JRM,TS1  TS2
 PY2MRC,Santos,Sao Paulo,Brazil,Peer,1,439.77500,724048,DMR-plus,724048,1,Repetidor Santos DMR+<br>TG724 slot 2 TG199 SLOT1,-5.000,PU1LOY,TS1 TS2
 PY5YSF,Sao Jose dos Pinhais,Parana,Brazil,Master,1,439.30000,724049,A,724049,1,,-5.000,PY5TD,TS1 TS2
 PY5AID,Umuarama,Parana,Brazil,Master,1,439.05000,724050,BrandMeister,724050,1,,-5.000,PY5AI,TS1 TS2
@@ -10397,7 +10397,7 @@ PP5CPI,Pomerode,Santa Catarina,Brazil,Master,1,146.77000,724087,DMR+ MASTER SUL,
 PY2KMK,Itu,Sao Paulo,Brazil,Master,1,146.97000,724088,BRANDMEISTER,724088,1,,-0.600,PU2KWX,TS1 TS2
 PY5PGR,Ponta Grossa,Parana,Brazil,Master,1,146.86000,724089,DMR+ MASTER SUL,724089,1,TG 72441 Paran.<br>,-0.600,PY5JP,TS1 TS2
 PY2KFD,Jaboticabal,Sao Paulo,Brazil,Master,1,439.05000,724090,Brandmeister,724090,0,,-5.000,PY2LRB,Mixed Mode
-PP5URP,Florianopolis,Santa Catarina,Brazil,Master,1,439.10000,724091,Brandmeister,724091,1,,-5.000,PP5BM,TS1 TS2
+PP5FLN,Florianopolis,Santa Catarina,Brazil,Master,1,439.40000,724091,Brandmeister,724091,1,,-5.000,PP5BM,TS1 TS2
 PY4RPK,GUAPE,Minas Gerais,Brazil,Master,1,145.43000,724092,BM,724092,1,Repetidora de Guap DMR,-0.600,PY4RPK,TS1 TS2
 PY2SRP,Neves Paulista,Sao Paulo,Brazil,Master,1,147.21000,724093,BM,724093,0,,+0.600,PY2IV,TS1 TS2
 PP2CA,Goiania,Goias,Brazil,Master,1,439.60000,724094,BRANDMEISTER,724094,1,,-5.000,PP2CA,TS1 TS2
