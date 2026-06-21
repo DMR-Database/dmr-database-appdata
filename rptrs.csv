@@ -440,6 +440,7 @@ F5ZKQ,LA CADIERE D AZUR,,France,,0,439.56250,208109,BM,208109,0,,-9.400,F5LKW,TS
 F1ZSV,St Vallier de Thiey,Ile-de-France,France,Peer,1,430.45000,208110,BM,208110,0,,+9.400,F1BEH,TS1 TS2
 F1ZNM,Gardanne,,France,,7,439.82500,208111,BM,208111,0,,-9.400,F1BSL,TS1 TS2
 F5ZST,Baudinard sur Verdon,Ile-de-France,France,,1,145.57500,208112,None,208112,0,,-0.600,F8TRT,
+F6ZEW,MAXEVILLE,Grand Est,France,Master,1,439.40000,208113,BM,208113,1,Aucun,-7.600,"F4DWB, F4EXC",TS1 TS2
 F1ZSU,Aspremont,Ile-de-France,France,Master,1,430.42500,208119,BM,208119,0,,+9.400,F1BEH,TS1 TS2
 F1ZSX,VILLENEUVE-LOUBET,,France,,1,439.88750,208146,None,208146,1,,-9.400,F1ATB,
 F1ZAS,St Saturnin Avignon,,France,,1,439.65000,208157,DMR-plus,208157,1,,-9.400,F1VN,TS1 TS2
@@ -1702,11 +1703,11 @@ OK0DSK,Ostrava-Kubankov,Central Bohemian Region,Czech Republic,Peer,1,438.60000,
 OK0DSJ,Velky Javornik,Central Bohemian Region,Czech Republic,Peer,1,438.62500,230703,BM,230703,0,,-7.600,OK2ULQ,TS1 TS2
 OK0DZO,Svaty Kopecek,,Czech Republic,,1,431.90000,230704,None,230704,1,,7.600,OK2VWH,
 OK0X,Praded - Jeseniky,,Czech Republic,,1,439.35000,230777,BM,230777,0,,-7.600,OK2JIB,TS1 TS2
-OM0OAD,Dolny Kubin,Banskobystricky / Zilinsky,Slovakia,Master,1,438.55000,231001,BM,231001,1,"DUAL-MODE MULTI-PROTOCOL D-STAR/DMR/FUSION/FM CTCSS 67,0Hz. <br>DMR TS1 static TG 230; 231; 2311.",-7.600,OM6AXE,Mixed Mode
+OM0OAD,Dolny Kubin,Banskobystricky / Zilinsky,Slovakia,Master,1,438.55000,231001,BM,231001,1,"DUAL-MODE MULTI-PROTOCOL D-STAR/DMR/FUSION/FM CTCSS 67,0Hz.<br>DMR TS1 static TGs: 231; 230.",-7.600,OM6AXE,Mixed Mode
 OM0ODX,Dedinka,Nitriansky / Trenciansky / Trnavsky,Slovakia,Master,1,438.10000,231002,BM,231002,1,,-0.000,OM5AVM,TS1 TS2
 OM0ODA,Bratislava,Bratislavsky,Slovakia,Master,1,439.52500,231003,BM,231003,1,,-7.600,OM8AS,TS1 TS2
 OM0ODB,Bratislava,Bratislavsky,Slovakia,Peer,1,438.32500,231111,BM,231111,1,,-7.600,OM1AEG,TS1 TS2
-OM0OAA,Zilina mesto,Banskobystricky / Zilinsky,Slovakia,Master,1,438.62500,231301,BM,231301,1,"DUAL-MODE MULTI-PROTOCOL D-STAR/DMR/FUSION/NXDN/FM CTCSS 67,0Hz. <br>DMR TS1 static TG 230; 231; 2311.",-7.600,OM6AXE,Mixed Mode
+OM0OAA,Zilina mesto,Banskobystricky / Zilinsky,Slovakia,Peer,1,438.62500,231301,BM,231301,1,"DUAL-MODE MULTI-PROTOCOL D-STAR/DMR/FUSION/NXDN/FM CTCSS 67,0Hz.<br>DMR TS1 static TGs: 231; 230.",-7.600,OM6AXE,Mixed Mode
 OM0OUA,Martin - Velka Luka,,Slovakia,,1,439.13750,231302,BM,231302,1,,-7.600,OM6AR,TS1 TS2
 OM0ODC,Chopok,,Slovakia,,1,438.51250,231303,BM,231303,1,,-7.600,OM3WIM,TS1 TS2
 OM0OAC,Cadca Drahosanka,,Slovakia,,1,438.22500,231304,BM,231304,1,,-7.600,OM3WIM,TS1 TS2
@@ -4195,7 +4196,7 @@ S55DLE,Vinarium Lendava,Pomurska,Slovenia,Peer,2,438.43750,293055,BM,293055,1,,-
 S55VKO,Mala Kopa,Koroka,Slovenia,Peer,1,145.61250,293056,BM,293056,1,,-0.600,S56CT,Mixed Mode
 S55VKP,Nanos,Primorsko - Notranjska,Slovenia,Peer,1,145.62500,293057,BM,293057,1,,-0.600,S56CT,Mixed Mode
 S55ULX,Jance,Osrednjeslovenska,Slovenia,Peer,1,438.87500,293058,BM,293058,1,Repeater is located on Jane and covers Sava valley between capital city Ljubljana and Litija.,-7.600,S56CT,Mixed Mode
-S55DGV,Ermanovec,,Slovenia,,1,438.72500,293100,BM,293100,1,,-7.600,S56WDN,TS1 TS2
+S55DGV,Gorenja vas,Gorenjska,Slovenia,Peer,1,438.72500,293100,BM,293100,1,,-7.600,S56WDN,TS1 TS2
 Z35UIT,Skopje,,Macedonia,Master,2,438.65000,294001,BrandMeister,294001,0,,-7.600,Z32IT,TS1 TS2
 Z36AEC,Gostivar City,,Macedonia,,1,434.60000,294002,None,294002,0,,-1.600,Z31AEC,
 Z35UGV,Gostivar,,Macedonia,Master,1,434.60000,294003,"BM, DMR+, TGIF",294003,0,,-1.600,Z36AEC,TS1 TS2
@@ -5675,7 +5676,7 @@ K3TUF,Ephrata,Pennsylvania,United States,Peer,1,443.60000,311131,INTERSTATE,3111
 AJ1L,Norwell,Massachusetts,United States,Peer,6,224.06000,311132,Brandmeister,311132,1,,-1.600,AJ1L,Mixed Mode
 K5RWK,Richardson,Texas,United States,Peer,1,443.37500,311133,BM,311133,1,Details TBD,+5.000,KE5GDB,Mixed Mode
 W5NGU,Denton,Texas,United States,Peer,1,146.92000,311134,Special,311134,1,TG940 TS1 on N5LS DMR repeaters,-0.600,KE5GDB,TS2
-KM6CQ,Washoe Valley,Nevada,United States,Master,1,440.27500,311136,BrandMeister,311136,1,TG 31328,+5.000,KM6CQ,2
+KM6CQ,Washoe Valley,Nevada,United States,Master,1,440.27500,311136,BrandMeister,311136,1,TG 31328,+5.000,KM6CQ,TS1
 KB0NHX,Clever,Missouri,United States,Peer,5,442.12500,311137,BrandMeister,311137,1,TS1 - 31291 - Southwest Missouri (SWMO)<br>TS1 - 31297 - Southwest Missouri SkyWarn<br>TS1 - 310439 - Missouri Digital Calling Network (MO-DCN),+5.000,KB0NHX,TS1 TS2
 K0NXA,Willow Springs,Missouri,United States,Peer,12,146.67000,311138,Brandmeister,311138,1,31291 - SWMO                - TS1<br>31297 - SWMO SkyWarn - TS1<br>31201 - BYRG                 -  TS2<br><br>*** ALL PTT activated talkgroups on TS1 please.,-0.600,KB0NHX,TS1 TS2
 WX4SKY,Newnan,Georgia,United States,Master,1,442.25000,311139,Local only / no internet,311139,1,Bill Gremillion Memorial Radio Club<br>WWW.BGMRC.ORG<br>Stand alone DMR repeater / No internet connection<br>Mixed mode DMR/ANALOG<br>442.250 +5.00 offset<br>Color code 1<br>Time slot 1<br>Talk group 9 (local repeater),+5.00,WX4SKY,1
@@ -7145,7 +7146,7 @@ K5WHB,Corinth,Mississippi,United States,Master,1,444.60000,312804,DMR,312804,1,,
 W5NRU,Ellisville,Mississippi,United States,Peer,1,442.17500,312805,Brandmeister,312805,1,,+5.000,W5NRU,Mixed Mode
 W5NRU,Jones Co,Mississippi,United States,Peer,1,442.70000,312806,Brandmeister,312806,1,,+5.000,W5NRU,Mixed Mode
 KJ5V,Starkville,Mississippi,United States,Peer,1,440.55000,312807,Brandmeister,312807,1,,+5.000,KJ5V,TS1 TS2
-W5GWD,Coldwater,Mississippi,United States,None,1,444.92500,312808,MS-LINK,312808,1,,+5.000,KG5IRU,TS1 TS2
+W5GWD,Coldwater,Mississippi,United States,Master,1,444.92500,312808,MS-LINK,312808,1,,+5.000,KG5IRU,TS1 TS2
 K4KTR,Cecilia,Kentucky,United States,Peer,1,443.11250,312809,BM,312809,1,,+5.000,K4KTR,TS1 TS2
 WB4TWQ,Clewiston,Florida,United States,Master,1,145.14000,312810,BM,312810,1,,-0.600,WB4TWQ,TS1 TS2
 KE7IRO,Preston,Idaho,United States,Peer,1,448.75000,312811,BM,312811,1,,-5.000,KE7IRO,TS1 TS2
@@ -8780,7 +8781,6 @@ W4PL,CHATTANOOGA,Tennessee,United States,None,1,444.15000,314716,BrandMeister,31
 AJ4YS,Estill Springs,Tennessee,United States,Master,1,442.96250,314717,VolNET,314717,1,,+5.000,AJ4YS,TS1 TS2
 KF4TNP,Winchester,Tennessee,United States,Master,7,444.07500,314718,STN,314718,1,,+5.000,KF4TNP,TS1
 KF4TNP,manchester,Tennessee,United States,Master,1,441.88750,314719,VolNET,314719,1,,+5.000,KF4TNP,TS1 TS2
-KK4BWF,Memphis,Tennessee,United States,Peer,1,441.88750,314720,Brandmeister,314720,1,,+5.000,NS4B,Mixed Mode
 W4DER,Nashville,Tennessee,United States,Peer,1,440.52500,314721,Chicagoland,314721,1,,+5.000,W4DER,TS1 TS2
 N4LMC,Chattanooga,Tennessee,United States,Peer,1,444.72500,314722,BrandMeister,314722,1,D-Star,+5.000,W4EDP,TS1 TS2
 KJ4RVN,Madison,Tennessee,United States,Master,1,145.44000,314723,Mixed,314723,1,,-0.600,KJ4RVN,TS1 TS2
@@ -8789,7 +8789,6 @@ KK4TD,Cookeville,Tennessee,United States,Master,1,145.11000,314725,BrandMeister,
 W4DMM,Short Mountain,Tennessee,United States,Peer,1,440.70000,314726,Brandmeister,314726,1,TS2 3147 TN Statewide<br>TS2 314722  SE Link Network,+5.000,W4DMM,TS1 TS2
 KK4GGK,Dayton,Tennessee,United States,Peer,1,440.72500,314727,BrandMeister,314727,1,,+5.000,KK4GGK,TS1 TS2
 N2YCX,Murfreesboro,Tennessee,United States,Master,4,146.61000,314728,Dmr,314728,1,,-0.600,N2YCX,TS1
-KK4BWF,Memphis,Tennessee,United States,Peer,1,441.88750,314730,Brandmeister,314730,1,,+5.000,NS4B,TS1 TS2
 W4LSX,Moss,Tennessee,United States,Master,1,147.31500,314731,Mixed Mode,314731,1,,+0.600,W4LSX,Mixed Mode
 W4KEV,Knoxville,Tennessee,United States,Peer,1,440.55000,314732,Brandmeister,314732,1,,+5.000,W4KEV,TS1 TS2
 KR4BT,sparta,Tennessee,United States,Master,1,147.16500,314739,BrandMeister,314739,1,,+0.600,KR4BT,Mixed Mode
@@ -9717,6 +9716,7 @@ BH8QFX,bijieshi,Sichuan Guizhou Chongqing Yunnan,China,Master,1,439.28500,460151
 BR7JAI,Huizhou,Hunan Guangdong Guangxi Hainan,China,Master,8,439.80000,460152,43.129.83.124,460152,1,None,-5.0,BA7ODN,TS1
 BR7JBH,foshan,Hunan Guangdong Guangxi Hainan,China,Peer,1,439.20000,460153,4G,460153,1,None,-0.500,BG7LRO,TS1 TS2
 BR7JBG,guangdongfoshan,Hunan Guangdong Guangxi Hainan,China,Master,1,439.45000,460154,,460154,1,,5.000,BA7OST,Mixed Mode
+BH8QWR,GuiYang,Sichuan Guizhou Chongqing Yunnan,China,Master,9,436.75000,460155,460851,460155,1,None,10.000,BH8QWR,TS1 TS2
 BR2AG,Harbin,Heilongjiang Jilin Liaoning,China,Master,1,145.77500,460206,china telcom,460206,1,,-0.600,BR2AG,TS2
 BR3GG,xilinhaote,Inner Mongolia,China,Peer,2,439.60000,460301,BM,460301,1,460479,-5.000,BG3IZM,TS1 TS2
 BR3HM,HuLunBeiEr,,China,Master,1,439.75000,460309,telecom,460309,1,,-5.000,BG3HM,TS2
