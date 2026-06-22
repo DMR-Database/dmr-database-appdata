@@ -71,7 +71,7 @@ WX6D,Place holder,California,United States,Master,1,446.00000,110695,Mountain We
 KK6KD,SAN DIEGO,California,United States,Peer,1,448.46000,110696,Brandmeister,110696,0,,-5.000,KK6KD,TS1 TS2
 K6LO,Deer Park,California,United States,Peer,1,440.10000,110701,SARGE,110701,1,TS1 SARGE / TS2 TG2 Local,+5.000,K6LO,TS1 TS2
 WD4WDW,Lake Buena Vista,Florida,United States,Master,3,444.00000,111203,NJTurbo,111203,1,,+5.000,N2ZXS,TS1 TS2
-N4IRS,Port Salerno,Florida,United States,Peer,1,444.97500,111204,None,111204,1,,+5.000,N4IRS,TS1 TS2
+N4IRS,Port Salerno,Florida,United States,Peer,1,444.97500,111204,HBLink,111204,1,,+5.000,N4IRS,TS1 TS2
 AF4JC,Middleburg,Florida,United States,Master,1,442.60000,111205,Brandmiester,111205,1,,+5.000,AF4JC,Mixed Mode
 KG4IDD,ESPANOLA,Florida,United States,Peer,1,443.40000,111206,First Coast DMR,111206,1,,+5.000,KG4IDD,TS1 TS2
 KJ4SHL,Tampa,Florida,United States,Master,0,0.00000,111207,MotoDMR,111207,0,,0,KJ4SHL,TS1 TS2
@@ -1139,7 +1139,7 @@ IR3UFF,mte Lussari Tarvisio UD,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,4
 IR5UG,Caprese Michelangelo,Tuscany,Italy,Master,1,430.12500,222277,BM,222277,1,slot-1: libero<br>slot-2: 222277 - 222112 - 9 locale,+1.60,IQ5ARI,TS1 TS2
 IR1ZWO,Torino,Piedmont / Liguria / Aosta,Italy,Master,1,145.68750,222278,BM,222278,1,,-0.600,IK1PJL,TS1 TS2
 IR5UEB,Santa Maria a Monte,Tuscany,Italy,Master,1,430.83750,222279,BM,222279,1,IQ5QD - Santa Maria a Monte,+5.000,IZ5IIN,TS1 TS2
-IZ6OUF,Citta Sant Angelo,Marche / Abruzzo,Italy,Master,1,430.55000,222280,BM,222280,1,,+5.000,IZ6OUF,TS1
+IZ6OUF,Pescara,Marche / Abruzzo,Italy,Master,1,430.55000,222280,BM,222280,1,,+5.000,IZ6OUF,TS1
 IR9ZWX,Taormina,Sicily,Italy,Peer,2,430.13750,222281,BM,222281,1,,+5.000,IT9YKJ,TS1 TS2
 IR7ZZP,Trani,Apulia / Basilicata,Italy,Master,1,430.70000,222282,BM,222282,1,"222, 22271",+1.6,IQ7EL,TS1 TS2
 IR8UY,SANT ANGELO LIMOSANO,Molise / Campania / Calabria,Italy,Master,1,431.50000,222283,BM,222283,1,,+1.600,IZ8IAW,TS1 TS2
@@ -4167,7 +4167,6 @@ S55DCS,Sentjur - City,Savinjska,Slovenia,Master,1,438.45000,293026,BM,293026,1,,
 S55DKB,Kuk,,Slovenia,,2,439.35000,293027,BM,293027,1,,-7.600,S52AC,TS1 TS2
 S55UKA,Velika planina,Osrednjeslovenska,Slovenia,Peer,1,438.92500,293028,BM,293028,1,,-7.600,S56CT,TS1 TS2
 S55DNM,Trdinov vrh,jugovzhodna Slovenija,Slovenia,Peer,1,439.33750,293029,BM,293029,1,,-7.600,S56CT,TS1 TS2
-S55DPI,Malija-Izola,,Slovenia,,1,438.22500,293030,DMR-plus,293030,1,,-7.600,S56RGA,TS1 TS2
 S55DST,Novo mesto,jugovzhodna Slovenija,Slovenia,Peer,1,438.52500,293031,BM,293031,1,,-7.600,S56CT,Mixed Mode
 S55DKE,Knezak,,Slovenia,,1,439.20000,293032,None,293032,1,,-7.600,S56KHL,
 S55DLM,Ljubljana center,Osrednjeslovenska,Slovenia,Peer,1,438.50000,293033,BM,293033,1,,-7.600,S56CT,TS1 TS2
@@ -4177,7 +4176,7 @@ S55DTO,Poljubinske ravne,,Slovenia,,1,439.27500,293036,BM,293036,1,,-7.600,S57ZL
 S55DRI,Travna gora,Osrednjeslovenska,Slovenia,Master,1,438.35000,293037,BM,293037,1,293,-7.600,S51SK,TS1 TS2
 S55UBC,Boc,Savinjska,Slovenia,Peer,1,438.82500,293038,BM,293038,1,,-7.600,S56CT,TS1 TS2
 S55DLG,Logatec,,Slovenia,Master,1,438.57500,293039,BM,293039,1,,-7.600,S53K,TS1 TS2
-S55UPI,Beli Kriz - Portoroz,,Slovenia,,1,438.80000,293040,None,293040,1,,-7.600,S56RGA,
+S55UPI,PIRAN,Obalno - Kraka,Slovenia,Peer,1,438.80000,293040,ip,293040,1,,-7.600,S56RGA,TS1 TS2
 S55DCM,Malic - Lasko,Savinjska,Slovenia,Master,1,438.42500,293041,BM,293041,1,,-7.600,S57RD,TS1 TS2
 S55UJE,Struska,,Slovenia,,1,439.32500,293042,None,293042,0,,-7.600,OE8KKK,
 S55DKO,Mala Kopa,,Slovenia,,1,438.32500,293043,BM,293043,1,,-7.600,S57R,TS1 TS2
@@ -4189,7 +4188,7 @@ S55DAR,Stol,Gorenjska,Slovenia,Peer,1,439.40000,293048,BM,293048,1,TG293 TS1<br>
 S55VCE,Mrzlica,Zasavska,Slovenia,Peer,1,145.70000,293049,BM,293049,0,,-0.600,S56CT,Mixed Mode
 S55DKK,Cretez,Posavska,Slovenia,Peer,1,438.37500,293050,BM,293050,1,,-7.600,S56CT,Mixed Mode
 S55VLI,Lisca,Posavska,Slovenia,Peer,1,145.57500,293051,BM,293051,1,,-0.600,S56CT,Mixed Mode
-S55DIZ,Malija - Izola,,Slovenia,Master,1,438.22500,293052,BM,293052,1,,-7.600,S56RGA,Mixed Mode
+S55DIZ,Malija,Obalno - Kraka,Slovenia,Master,1,438.22500,293052,BM,293052,1,,-7.600,S56RGA,Mixed Mode
 S55DPT,Gomila,Podravska,Slovenia,Peer,2,438.20000,293053,BM,293053,1,"TS1 293, 293112 TS2 2932, 2939",-7.600,S56CT,Mixed Mode
 S55DKG,Srednji vrh,Gorenjska,Slovenia,Peer,3,438.35000,293054,BM,293054,1,TG293 TS1,-7.600,S56CT,Mixed Mode
 S55DLE,Vinarium Lendava,Pomurska,Slovenia,Peer,2,438.43750,293055,BM,293055,1,,-7.6,S56CT,Mixed Mode
@@ -5778,8 +5777,8 @@ KB4LSL,CRESTVIEW,Florida,United States,Peer,1,443.00000,311243,K4USD Net,311243,
 AC4XQ,North Dade,Florida,United States,Master,10,443.12500,311244,IPSE2,311244,1,Repeater Callsign: AC4XQ<br>Repeater City: North Dade<br>Repeater State: Florida<br>Repeater Country: United States<br>Repeater Frequency: 443.12500<br>Repeater ColorCode: 10<br>Repeater Offset: +5.000<br>Repeater M/P: Master<br>Repeater Time Slots: TS1 TS2<br><br>Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = Local<br>Time Slot #2- Group Call 3112- Florida Statewide<br>Time Slot #2 - Group Call 3174- Southeast Regional<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Repeater Trustee: AC4XQ<br>Trustee Email: ac4xq@bellsouth.net,+5.000,AC4XQ,TS1 TS2
 W4PHR,HIALEAH,Florida,United States,Master,4,441.85000,311245,Mixed,311245,1,,+5.000,K4PTY,TS1
 WJ4JEA,Jacksonville,Florida,United States,Master,7,444.27500,311247,DMR-SE,311247,1,TS2/TG2 - First Coast DMR,+5.000,KN4JXP,TS1 TS2
-KC4DEA,Ft. Pierce,Florida,United States,Peer,1,927.61250,311248,None,311248,1,,-25.000,N4IRS,TS1 TS2
-W4AKH,Ft. Pierce,Florida,United States,Peer,1,444.80000,311249,DMR-MARC,311249,1,"Time Slot #1 - Group Call 1 = World Wide (PTT activated with 5 min inactivity timeout)<br>Time Slot #1 - Group Call 13= WW English<br>Time Slot #1 - Group Call 3 = N.America<br>Time Slot #2 - Group Call 2 = Local<br>Time Slot #2- Group Call 3112- Florida Statewide<br>Time Slot #2 - Group Call 3174- Southeast Regional<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br><br>Contact: Steve Zingman, N4IRS<br>Email;: szingman@msgstor.com",+5.000,N4IRS,TS1 TS2
+KC4DEA,Ft Pierce,Florida,United States,Peer,1,927.61250,311248,HBLink,311248,1,,-25.000,N4IRS,TS1 TS2
+W4AKH,Ft Pierce,Florida,United States,Peer,1,444.80000,311249,DMR-MARC,311249,1,"Time Slot #1 - Group Call 1 = World Wide (PTT activated with 5 min inactivity timeout)<br>Time Slot #1 - Group Call 13= WW English<br>Time Slot #1 - Group Call 3 = N.America<br>Time Slot #2 - Group Call 2 = Local<br>Time Slot #2- Group Call 3112- Florida Statewide<br>Time Slot #2 - Group Call 3174- Southeast Regional<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br><br>Contact: Steve Zingman, N4IRS<br>Email;: szingman@msgstor.com",+5.000,N4IRS,TS1 TS2
 KD4NYC,Cutler Bay,Florida,United States,Peer,1,442.12500,311250,K4USD Net,311250,1,TS 1 - TG 1 = World Wide (PTT)<br>TS 1 - TG 13 = WW English (PTT)<br>TS 1 - TG 3 = N. America (PTT)<br>TS 1 - TG 9 = Local (ON)<br>TS 2 - TG 3112 = Florida Statewide (ON)<br>TS 2 - TG 3174 = Southeast Regional (PTT)<br>TS 2 - TG 310 = TAC310 (PTT)<br>TS 2 - TG 311 = TAC311 (PTT),+5.000,KD4NYC,TS1 TS2
 WD9BBE,Palm Harbor,Florida,United States,Peer,15,443.95625,311251,Chicagoland-CC,311251,1,"for talk group info see:<br>http://www.chicagoland-cc.org/<br><br>Contact: Bob, WD9BBE<br>Email: wd9bbe@dls.net",+05.000,WD9BBE,TS1 TS2
 K4PKT,Wellington,Florida,United States,Master,1,442.93750,311253,DMR-FL,311253,1,"Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 3112 = Florida Statewide (PTT)<br>Time Slot #1 - Group Call 310 = TAC310 (PTT)<br>Time Slot #1 - Group Call 311 = TAC311 (PTT)<br>Time Slot #2 - Group Call 2 = Local Network<br>Time Slot #2 - Group Call 9 = Local Site (PTT)<br>Time Slot  #2 - Group Call 561 = Local Group (ON)<br><br><br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: John, WB4MOZ /  K4PKT<br>Email: mozpkt@comcast.net",+5.000,WB4MOZ,TS1 TS2
@@ -5817,12 +5816,12 @@ KF4EOK,Jacksonville,Florida,United States,Peer,1,444.55000,311285,BrandMeister,3
 W4CJA,Vero Beach,Florida,United States,Peer,1,444.40000,311286,BrandMiester,311286,1,Cub DMR repeater for mobile deployments.<br><br>Treasure Coast (31123) TS2,+5.000,W4JEA,TS1 TS2
 KJ4FPA,port richey,Florida,United States,Peer,1,443.93750,311287,brandmiester,311287,1,,+5.000,KJ4FPA,TS1 TS2
 KF4EOK,Jacksonville,Florida,United States,Peer,2,147.36000,311288,BrandMeister,311288,1,,+0.600,KF4EOK,TS1
-N4IRS,Palm City,Florida,United States,Peer,1,927.62500,311289,None,311289,1,,-25.000,N4IRS,TS1 TS2
+N4IRS,Palm City,Florida,United States,Peer,1,927.62500,311289,HBLink,311289,1,,-25.000,N4IRS,TS1 TS2
 KJ4LXT,port richey,Florida,United States,Peer,1,444.93750,311290,HYTERA,311290,1,,+5.000,KJ4LXT,TS1 TS2
 W4NAS,Callahan,Florida,United States,Master,1,147.03000,311291,DMR-SE,311291,1,TS2/TG2 - First Coast DMR,+0.600,K4QHR,TS1 TS2
 K4QHR,Kingsland,Georgia,United States,Master,7,442.11250,311292,DMR-SE,311292,1,MMDVM Hotspot/Repeater<br>Connected to the DMR-SE C-Bridge,+5.000,K4QHR,TS1 TS2
 W2GGI,Ft Lauderdale,Florida,United States,Peer,1,443.62500,311294,NY-DMR,311294,1,,+5.000,W2GGI,TS1 TS2
-W4SLC,Port St. Lucie,Florida,United States,Peer,1,442.02500,311295,None,311295,1,,+5.000,N4IRS,TS1 TS2
+W4SLC,Port St Lucie,Florida,United States,Peer,1,442.02500,311295,Brandmeister,311295,1,,+5.000,N4IRS,TS1 TS2
 KN4GVY,Countryside,Florida,United States,Peer,1,442.70000,311296,F-DARN,311296,1,Florida Digital Amateur Radio Network<br>www.fdarn.com<br>info@fdarn.com<br><br>Time Slot: 1<br>Group Code: 1 = Worldwide (PTT 30)<br>Group Code: 3 = North America (PTT 30)<br>Group Code: 310 = TAC 310  (PTT 30)<br>Group Code: 311 = TAC 311  (PTT 30)<br>Group Code: 312 = TAC 312  (PTT 30)<br>Group Code: 313 = TAC 313  (PTT 30)<br>Group Code: 314 = TAC 314  (PTT 30)<br>Group Code: 315 = TAC 315  (PTT 30)<br>Group Code: 316 = TAC 316  (PTT 30)<br>Group Code: 317 = TAC 317  (PTT 30)<br>Group Code: 318 = TAC 318  (PTT 30)<br>Group Code: 319 = TAC 319  (PTT 30)<br>Group Code: 3112 = FloridaStatewide<br>Group Code: 3113 = GeorgiaStatewide(PTT 30)<br>Group Code: 3174 = South East (PTT 30)<br>Group Code: 8710 = Indiana Statewide (PTT 30)<br>Group Code: 31665 = T.G.IF. (PTT 30)<br>Group Code: 31121 = First Coast (PTT 30)<br><br>Time Slot: 2<br>Group Code: 9 = Local Repeater Only<br>Group Code: 2 = F-Darn Repeater System,+5.000,KJ4FEC,TS1 TS2
 KN4GVY,Dunedin,Florida,United States,Peer,1,444.35000,311297,F-DARN,311297,1,Florida Digital Amateur Radio Network<br>www.fdarn.com<br>info@fdarn.com<br><br>Time Slot: 1<br>Group Code: 1 = Worldwide (PTT 30)<br>Group Code: 3 = North America (PTT 30)<br>Group Code: 310 = TAC 310  (PTT 30)<br>Group Code: 311 = TAC 311  (PTT 30)<br>Group Code: 312 = TAC 312  (PTT 30)<br>Group Code: 313 = TAC 313  (PTT 30)<br>Group Code: 314 = TAC 314  (PTT 30)<br>Group Code: 315 = TAC 315  (PTT 30)<br>Group Code: 316 = TAC 316  (PTT 30)<br>Group Code: 317 = TAC 317  (PTT 30)<br>Group Code: 318 = TAC 318  (PTT 30)<br>Group Code: 319 = TAC 319  (PTT 30)<br>Group Code: 3112 = FloridaStatewide<br>Group Code: 3113 = GeorgiaStatewide(PTT 30)<br>Group Code: 3174 = South East (PTT 30)<br>Group Code: 8710 = Indiana Statewide (PTT 30)<br>Group Code: 31665 = T.G.IF. (PTT 30)<br>Group Code: 31121 = First Coast (PTT 30)<br><br>Time Slot: 2<br>Group Code: 9 = Local Repeater Only<br>Group Code: 2 = F-Darn Repeater System,+5.000,KJ4FEC,TS1 TS2
 KN4GVY,New Port Richey,Florida,United States,Peer,1,444.20000,311298,F-DARN,311298,1,Florida Digital Amateur Radio Network<br>www.fdarn.com<br>info@fdarn.com<br><br>Time Slot: 1<br>Group Code: 1 = Worldwide (PTT 30)<br>Group Code: 3 = North America (PTT 30)<br>Group Code: 310 = TAC 310  (PTT 30)<br>Group Code: 311 = TAC 311  (PTT 30)<br>Group Code: 312 = TAC 312  (PTT 30)<br>Group Code: 313 = TAC 313  (PTT 30)<br>Group Code: 314 = TAC 314  (PTT 30)<br>Group Code: 315 = TAC 315  (PTT 30)<br>Group Code: 316 = TAC 316  (PTT 30)<br>Group Code: 317 = TAC 317  (PTT 30)<br>Group Code: 318 = TAC 318  (PTT 30)<br>Group Code: 319 = TAC 319  (PTT 30)<br>Group Code: 3112 = FloridaStatewide<br>Group Code: 3113 = GeorgiaStatewide(PTT 30)<br>Group Code: 3174 = South East (PTT 30)<br>Group Code: 8710 = Indiana Statewide (PTT 30)<br>Group Code: 31665 = T.G.IF. (PTT 30)<br>Group Code: 31121 = First Coast (PTT 30)<br><br>Time Slot: 2<br>Group Code: 9 = Local Repeater Only<br>Group Code: 2 = F-Darn Repeater System,+5.000,KJ4FEC,TS1 TS2
@@ -5848,7 +5847,7 @@ KD4GGY,Jesup,Georgia,United States,None,1,441.81250,311319,DMR-SE,311319,1,"TS1 
 W4CBA,Cumming,Georgia,United States,None,1,444.62500,311320,K4USD Net,311320,1,TS1 TG1-WW (PTT)<br>TS1 TG3-NA<br>TS1 TG13-WWE<br>TS1 TG10-WWG (PTT)<br>TS2 TG2-Local (USD Net)<br>TG2 TG9-Local Rpt<br>TS2 TG3113-GA State<br>TS2 TG3125-MA State (PTT)<br>TS2 TG3139-OH State (PTT)<br>TS2 TG3174-SE Regional<br>TS2 TG3100-Bridge (PTT)<br>TS2 TG8951-TAC 1 (PTT)<br>TS2 TG310-TAC 310 (PTT)<br>TS2 TG311-TAC 311 (PTT)<br>TS2 TG9998-Parrot (PTT)<br>TS2 TG9999-NoCal Audio Test (PTT),+5.000,W4TL,TS1 TS2
 N4TAW,Between,Georgia,United States,Peer,3,443.73750,311321,K4USD,311321,1,TS1 TG1-WW (PTT)<br>TS1 TG3-NA<br>TS1 TG13-WWE<br>TS1 TG10-WWG (PTT)<br>TS2 TG2-Local (USD Net)<br>TG2 TG9-Local Rpt<br>TS2 TG3113-GA State<br>TS2 TG3125-MA State (PTT)<br>TS2 TG3139-OH State (PTT)<br>TS2 TG3174-SE Regional<br>TS2 TG3100-Bridge (PTT)<br>TS2 TG8951-TAC 1 (PTT)<br>TS2 TG310-TAC 310 (PTT)<br>TS2 TG311-TAC 311 (PTT)<br>TS2 TG9998-Parrot (PTT)<br>TS2 TG9999-NoCal Audio Test (PTT),+5.000,N4TAW,TS1 TS2
 KA3JIJ,Clermont,Georgia,United States,Peer,1,444.95000,311322,BM,311322,1,,+5.000,KA3JIJ,TS1 TS2
-N4IRR,Marietta,Georgia,United States,None,1,441.37500,311325,BrandMeister,311325,1,,+5.000,N4IRR,TS1 TS2
+N4IRR,Marietta,Georgia,United States,Master,1,441.37500,311325,BrandMeister,311325,1,,+5.000,N4IRR,TS1 TS2
 AI1U,Lawrenceville,Georgia,United States,Peer,7,442.53750,311326,HAM Digital,311326,1,Timeslot 1			<br>			<br>Talkgroup Name	Talkgroup ID	Static	PTT (in mins)<br>Atlanta Metro 01-01	31131	TRUE	static<br>BM North America 01-01	93	FALSE	15<br>BM Worldwide 01-01	91	FALSE	15<br>DMRplus USA 01-01	133	FALSE	15<br>Disconnect 01-01	4000	FALSE	15<br>Georgia 01-01	3113	FALSE	15<br>JOTA 01-01	907	FALSE	15<br>North America 01-01	3	FALSE	15<br>Worldwide 01-01	1	FALSE	15<br>Worldwide English 01-01	113	FALSE	15<br>Worldwide Spanish 01-01	114	FALSE	15<br><br>Timeslot 2			<br>			<br>Talkgroup Name	Talkgroup ID	Static	PTT (in mins)<br>Alabama	3101	FALSE	15<br>Atlanta Metro	31131	FALSE	15<br>BM Northeast	31720	FALSE	15<br>BM USA Bridge	3100	FALSE	15<br>Disconnect	4000	FALSE	15<br>First Coast DMR	31121	TRUE	static<br>Florida	3112	FALSE	15<br>Georgia	3113	FALSE	15<br>Georgia ARES	31130	FALSE	15<br>Georgia Skywarn	31139	FALSE	15<br>Gulf Coast DMR	31011	FALSE	15<br>JOTA TAC1	9071	FALSE	15<br>JOTA TAC2	9072	FALSE	15<br>Local 2 AI1U	2	FALSE	15<br>Local 9 AI1U	9	FALSE	15<br>Mid Atlantic	3173	FALSE	15<br>Midwest	3169	FALSE	15<br>Mountain	3177	FALSE	15<br>NY-Metro	31362	FALSE	15<br>NY-NJ-PA TriState	31360	FALSE	15<br>New York Link	212	FALSE	1<br>North Georgia	31134	FALSE	15<br>Northeast	3172	FALSE	15<br>Parrot	9998	FALSE	15<br>Quadnet	31012	FALSE	15<br>South Carolina	3145	FALSE	15<br>South Georgia	31132	FALSE	15<br>Southeast	3174	FALSE	15<br>Southern Plains	3175	FALSE	15<br>Southwest	3176	FALSE	15<br>Southwest GA	31136	FALSE	15<br>TAC 310	310	FALSE	15<br>TAC 311	311	FALSE	15<br>TAC 312	312	FALSE	15<br>TAC 313	313	FALSE	15<br>TAC 314	314	FALSE	15<br>TAC 315	315	FALSE	15<br>TAC 316	316	FALSE	15<br>TAC 317	317	FALSE	15<br>USA 1776	1776	FALSE	15,+5.000,AI1U,TS1 TS2
 KA3JIJ,Clermont,Georgia,United States,Peer,0,444.81250,311328,K4USD,311328,1,,+5.000,KA3JIJ,TS1 TS2
 KE4UAS,McDonough,Georgia,United States,Peer,1,444.87500,311329,BM,311329,1,,+5.000,KI4FVI,TS1 TS2
@@ -9124,9 +9123,7 @@ NO7RF,Lost River,Washington,United States,Peer,0,438.38000,315304,NO7RF Mobile R
 NO7RF,Winthrop,Washington,United States,Peer,0,433.15000,315305,NO7RF,315305,0,Demo,+16.500,NO7RF,TS1 TS2
 N7ERP,Bellevue,Washington,United States,Master,1,441.28750,315309,DCI,315309,0,"Time Slot #2 - Group Call 3161 = DMR-MARC World Wide<br>Time Slot #2 - DMR-MARC Group Call 3163 = U.S. / English Speaking Countries<br>Time Slot #1- Group Call 3160 = DCI 1<br>Time Slot #1- Group Call 3777215 = Comm 1<br><br>Time Slot #1- Group Call 3153 = Washington Statewide 1<br><br>Time Slot #1- Group Call 3027 = British Columbia 1<br> <br>Coverage Map (http://trbo.info/dci/pnw/images/map-coverage-cougar-mtn-1000.jpg)<br><br>Contact Name: Andy, KK7TR<br>Email: aruschak@sparling.com<br>Website: pnw.trbo.info (http://www.trbo.info/dci)",+5.000,N7MAQ,TS1 TS2
 KC7AAD,Spokane,Washington,United States,Peer,1,444.15000,315310,PNW DMR,315310,0,http://pnwdigital.net,+5.000,KC7AAD,TS1 TS2
-K7MLR,Lynnwood,Washington,United States,Peer,1,444.15000,315311,DCI,315311,0,,+5.000,K7MLR,TS1 TS2
 KG7KPH,Tacoma,Washington,United States,Peer,1,441.42500,315313,PNWDigital,315313,0,"OK to move to trustee: WA7DMR<br>Will also be moving many of the trustee NO7RF repeaters to WA7DMR, to get all of our repeater listings under a single account.<br><br>Mike, NO7RF for Rob, who is now AF7PR, no longer KG7KPH",+0.500,KG7KPH,TS1 TS2
-K7MLR,Oso,Washington,United States,Peer,1,443.90000,315314,DCI PNW,315314,0,,+5.000,K7MLR,TS1 TS2
 KE7SFF,Redmond,Washington,United States,Master,1,444.40000,315315,DMR-MARC KE7SFF,315315,0,,+5.000,KE7SFF,TS2
 KB7APU,Vancouver-LIVINGSTON,Washington,United States,Peer,1,442.95000,315317,OR SAR,315317,0,"OREGON SAR REPEATER--SEE USER GUIDE--WWW.SARDMR.COM<br>TALK GROUPS--TS1  3187 PNW 1, NO QSO, CALLING ONLY<br>3141 OREGON 1, ACTIVATED BY SCHEDULE AND PTT ONLY<br>3153 WASHINGTON 1, PTT SPECIAL USE ONLY<br>3181 LOCAL 1--PRIMARY USE- ALL STATIONS ON THE NETWORK MONITOR LOCAL 1, LINKED WITH ALL REPEATERS<br>9998 PARROT AUDIO READBACK<br>TIME SLOT 2--3166 LOCAL 2, LOCAL REPEATER CHAT, DOES NOT TIE UP ENTIRE NETWORK<br>31771 PNW REGIONAL, ACTIVED BY SCHEDULE ONLY FOR NET<br>3 SEARCH AND RESCUE TALK GROUPS ARE NOT PUBLISHED BUT FOLKS ARE WELCOME TO LISTEN IN.<br>NOTE--NOT A BRANDMEISTER REPEATER.  ONLY USE SUPPORTED TALK GROUPS LISTED HERE.",+5.000,KB7APU,TS1 TS2
 KK7TR,Sammamish,Washington,United States,None,1,442.05000,315318,DCI,315318,0,,+5.000,KK7TR,TS1 TS2
@@ -9769,12 +9766,10 @@ VK3RTA,Beulah,Victoria,Australia,Peer,1,438.12500,505016,VK-DMR Network,505016,1
 VK2ROJ,Nelson Bay,New South Wales,Australia,Peer,1,438.82500,505017,VK-DMR,505017,1,Situated in the communications precinct on top of Gan Gan Hill in Nelson Bay NSW Australia. Repeater is both DMR and analogue FM with CTCSS 91.5 Hz.,-7.0,VK2AOJ,TS1 TS2
 VK6ML,Perth,Western Australia,Australia,peer,1,439.86250,505018,BrandMeister,505018,1,open to perth WA,-5.000,VK6ML,"1,2"
 VK2RPH,Balranald NSW,New South Wales,Australia,Master,1,438.32500,505019,VK-DMR,505019,1,TS 1 - TG 1 = Worldwide Calling<br>TS 1 - TG 8 = State and Regional Repeaters Linked<br>TS 1 - TG 9 = Local Repeater only<br>TS 1 - TG 13 = Worldwide English<br>TS 1 - TG 113 = UA English 1<br>TS 1 - TG 123 = UA English 2<br>TS 1 - TG 133 = DMR+ USA<br>TS 1 - TG 143 = DMR+ UK<br>TS 1 - TG 153 = DMR+ South Pacific<br>TS 1 - TG 3809 = Second TS for chatting<br>TS 1 - TG 3810 = WICEN<br><br>TS 2 - TG 9 = DMR Plus Talk<br>TS 2 - TG 505 = VK DMR Linked repeaters<br>TS 2 - TG 3800 ~ 3808 = VK States<br>,-7.000,VK2PNH,TS1 TS2
-VK3RUT,Warrnambool,Victoria,Australia,Peer,1,438.42500,505020,BM,505020,1,,-7.0,VK3BA,Mixed Mode
 VK3RWV,Oakleigh-Portable,Victoria,Australia,Peer,1,439.35000,505021,VK-DMR Network,505021,1,Parked in Oakleigh QF22mc,-5.0000,VK3VM,TS1 TS2
 VK3RMP,Caveat,Victoria,Australia,Peer,1,439.35000,505022,VK-DMR Network,505022,1,,-5.0000,VK3SAJ,TS1 TS2
 VK3RNP,Bannockburn,Victoria,Australia,Peer,1,438.57500,505023,BM,505023,1,,-7.0,VK3BA,Mixed Mode
 VK3RBH,Geelong,Victoria,Australia,Peer,1,438.17500,505024,BM,505024,1,,-7.0,VK3BA,Mixed Mode
-VK3RUT,Warrnambool,Victoria,Australia,Peer,1,145.07500,505025,BM,505025,1,,0,VK3BA,Mixed Mode
 VK3RAG,Rennies Hill,Victoria,Australia,Peer,1,146.77500,505026,VK-DMR Network,505026,1,TS 1 - TG 1 = Worldwide Calling (2 min max)<br>TS 1 - TG 5 = VK-DMR Club & Amateur Broadcasts<br>TS 1 - TG 9 = Local Repeater only<br>TS 1 - TG 13 = Worldwide English<br>TS 1 - TG 30 = Jota for VK<br>TS 1 - TG 53 = User Activated for chatting<br>TS 1 - TG 113= User Activated English 1<br>TS 1 - TG 123= User Activated English 2<br>TS 1 - TG 133 = DMR+ USA<br>TS 1 - TG 143 = DMR+ UK<br>TS 1 - TG 153 = DMR+ South Pacific<br>TS 2 - TG 505 = VK DMR Linked repeaters<br>TS 1 - TG 3801 ~ 3808 General Chat<br>TS 1 - TG 3809 = Second TS for chatting<br>TS 1 - TG 3810 = WICEN<br><br>You Must Have [ARS] Disabled Within Your Radio.<br>You Must Have [GPS] Disabled Within Your Radio.<br><br>Contact: Peter Brennan VK3TE<br>Email: VK3TE@bigpond.com,-0.600,VK3TE,TS1 TS2
 VK3RWO,Wodonga,Victoria,Australia,Master,1,438.60000,505028,Brandmeister or DMR+,505028,1,VK3RWO Wodonga,-7.000,VK3VS,TS1 TS2
 VK2RCM,Tura Beach,New South Wales,Australia,Peer,1,439.92500,505030,BM,505030,1,,-5.000,VK2CBD,TS1 TS2
@@ -10235,8 +10230,6 @@ TI0ATI,San Jose,San Jose,Costa Rica,Master,15,439.95000,712013,IPSC,712013,1,Non
 TI0ATI,San Jose,San Jose,Costa Rica,Peer,15,439.95000,712014,BM,712014,1,None,-5.000,"TI0ATI, TI2DRU",TS1 TS2
 TI0ATI,San Jose,San Jose,Costa Rica,Peer,15,147.20000,712015,IPSC,712015,1,712,+0.600,"TI0ATI, TI2DRU",TS1 TS2
 HP3ICC,Chiriqui,Panama,Panama,Master,1,145.13000,714001,ADN Systems,714001,1,,-0.600,HP3ICC,Mixed Mode
-HP1GRE,Cerro Penon Panama,Panama,Panama,Peer,1,145.40000,714002,ADN Systems,714002,1,Time Slot - 1   TG-7144 MULTIMODE LINK<br>Time Slot - 1   TG-7145 GREMPA<br>Time Slot - 2   TG-714911 Emergencias Panama - Proyecto CCBICA,-0.600,HP3ICC,TS1 TS2
-HP1GRE,Cocle,Panama,Panama,Peer,1,144.53000,714003,ADN Systems,714003,0,"TG-7144 Link Multi Mode, Chiriqui - Panama",+0.600,HP3ICC,TS1 TS2
 HP1UPR,PO BOX 081605263,Panama,Panama,Master,10,145.49000,714004,BrandMeister,714004,1,7146,-0.600,HP1MRA,TS1 TS2
 HP1UPA,PO BOX 081605263,Panama,Panama,Master,10,147.10000,714005,BrandMeister,714005,1,tg7146,-0.600,HP1MRA,TS1 TS2
 HP1DBK,PO BOX 081605263,Panama,Panama,Master,10,439.97500,714006,BrandMeister,714006,1,,-5.000,HP1MRA,TS1 TS2
@@ -10244,7 +10237,6 @@ HP1DBK,PO BOX 081605263,Panama,Panama,Master,10,145.39000,714007,BrandMeister,71
 HP1MRA,PO BOX 081605263,Panama,Panama,Master,10,439.80000,714008,BrandMeister,714008,1,,-5.000,HP1MRA,TS1 TS2
 HP3UPP,Chiriqui-Panama,Panama,Panama,Peer,10,439.67500,714009,BrandMeister,714009,1,TG7146,-5.000,HP1DBK,TS1 TS2
 HP3BSM,Chiriqui,Panama,Panama,Peer,3,439.50000,714010,ADN Systems / BM,714010,1,slot 1 ADN Systems / Slot2 BM,-5.000,HP3ICC,TS1 TS2
-HP1GRE,COLON,Colon,Panama,Peer,1,145.13000,714011,ADN Systems,714011,1,,-0.600,HP3ICC,TS1 TS2
 HP1JFG,Panama,Panama,Panama,Peer,8,439.05000,714012,BM,714012,1,,-5.000,HP1SEB,TS1 TS2
 HP1JEP,Panama,Panama,Panama,Peer,8,438.52500,714013,BM,714013,1,"Miramar, Panama City",-5.000,HP1SEB,TS1 TS2
 HP1JEP,Colon,Panama,Panama,Master,8,438.95000,714015,BM,714015,1,,-5.000,HP1SEB,TS1 TS2
@@ -10660,7 +10652,7 @@ CA7MZD,CALBUCO,Los Lagos,Chile,Master,1,147.75000,730067,DMR,730067,1,None,+0.00
 CE2VOL,Curico,Maule,Chile,Peer,1,147.27000,730068,7301,730068,1,7301541,+0.600,CE2VOL,TS2
 CE4CU,CURICO,Maule,Chile,Master,1,147.39000,730069,BM - ADN,730069,1,None,+0.600,CE4UJP,TS1 TS2
 CE4CVC,San Fernando,O'Higgins,Chile,Peer,1,147.15000,730070,Brandmeister,730070,1,,0.600,"CD4BAA, CD4DDD",TS1 TS2
-CE1RRA,Arica,,Chile,Peer,1,146.97000,730101,DMR-MARC,730101,1,Time Slot #1 - Group Call 1 = World Wide English<br>Time Slot #1 - Group Call 14 = Spanish Worldwide<br>Time Slot #2 - Group Call 730 = Chile<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Contact Name: CE1PDL<br>Email: ca2@cag.cl,-0.600,CE1PDL,TS1 TS2
+CE1RRA,Arica,Arica and Parinacota,Chile,Peer,1,146.97000,730101,DMR-MARC,730101,1,Time Slot #1 - Group Call 1 = World Wide English<br>Time Slot #1 - Group Call 14 = Spanish Worldwide<br>Time Slot #2 - Group Call 730 = Chile<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Contact Name: CE1PDL<br>Email: ca2@cag.cl,-0.600,CE1PDL,TS1 TS2
 CE2LS,El Salvador,Antofagasta,Chile,Peer,1,147.27000,730102,DMR-MARC,730102,0,Time Slot #1 - Group Call 1 = World Wide English<br>Time Slot #1 - Group Call 14 = Spanish Worldwide<br>Time Slot #2 - Group Call 730 = Chile<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Contact Name: CE2LS<br>Email: ca2@cag.cl,+0.600,CE2LS,TS1 TS2
 CE1RLP,Calama,Antofagasta,Chile,Master,1,433.10000,730103,Brandmeister,730103,1,,+5.000,CE1RLP,TS1 TS2
 CE1PKV,copiapo,Atacama,Chile,Master,1,147.06000,730104,no,730104,0,,+0.600,CE1PKV,TS1 TS2
