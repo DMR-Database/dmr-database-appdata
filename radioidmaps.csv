@@ -1411,11 +1411,11 @@ IR8AE,Montemiletto,,Italy,,1,145.70000,None,40.821072,14.730157,222850,,-0.600,A
 IR8UDN,Nusco,Molise / Campania / Calabria,Italy,Peer,13,435.01250,BM,40.887657,15.099179,222877,,-5.000,ACTIVE,IZ8QIG,TS1 TS2
 IR8UDD,MONTE FAITO,,Italy,,1,430.27500,None,40.3576495,15.2252318,222881,,-5.000,ACTIVE,IZ8LLQ,
 IR8DS,Lamezia Terme,Molise / Campania / Calabria,Italy,Peer,1,145.57500,ycs222,38.7360155,16.16133,222890,,0.600,ACTIVE,IZ8UZK,Mixed Mode
-IT9UUT,DEMO/TEST,,Italy,Peer,1,430.90000,DMR-plus,,,222900,,5.000,ACTIVE,IT9UUT,TS1 TS2
+IT9UUT,Ispica,Sicily,Italy,Peer,1,430.90000,DMR-plus,36.7858319,14.9076370,222900,,5.000,ACTIVE,IT9UUT,TS1 TS2
 IR9UBO,Catania,Sicily,Italy,Master,1,430.57500,IT-DMR-Network,37.5022355,15.08738,222901,,5.000,ACTIVE,IT9ZON,TS1 TS2
 IR9UBN,Mt. Etna,Sicily,Italy,Peer,1,430.60000,DMR-plus,37.7487871,14.966850147778693,222902,,5.000,ACTIVE,IT9ZON,TS1 TS2
 IT9ZON,Catania/DEMO,Sicily,Italy,Peer,1,430.98750,DMR-plus,,,222903,,5.000,ACTIVE,IT9ZON,TS1 TS2
-IR9UBV,Ispica,Sicily,Italy,,1,430.90000,DMR-plus,36.7858319,14.907637,222904,,5.000,ACTIVE,IT9UUT,TS1 TS2
+IR9UBV,Ispica,Sicily,Italy,Peer,1,430.90000,DMR-plus,36.7858319,14.907637,222904,,5.000,ACTIVE,IT9UUT,TS1 TS2
 IR9UNZ,Cava Giumenta RG,Sicily,Italy,Master,1,430.37500,Hytera,36.913422,14.568703,222905,,+5.000,ACTIVE,IT9CGN,TS1 TS2
 IR9UBT,M Etna,Sicily,Italy,Master,1,430.20000,DMR-plus,37.700057,14.999286,222906,Connesso su ADN Systems Italia,+5.000,ACTIVE,IW9GTR,TS1 TS2
 IW9HGZ,Catania,Sicily,Italy,,1,430.22500,BM,37.5022355,15.08738,222907,,5.000,ACTIVE,IW9HGZ,TS1 TS2
@@ -1706,18 +1706,19 @@ OK0X,Praded - Jeseniky,,Czech Republic,,1,439.35000,BM,,,230777,,-7.600,ACTIVE,O
 OM0OAD,Dolny Kubin,Banskobystricky / Zilinsky,Slovakia,Master,1,438.55000,BM,49.2713800,19.2496800,231001,"DUAL-MODE MULTI-PROTOCOL D-STAR/DMR/FUSION/FM CTCSS 67,0Hz.<br>DMR TS1 static TGs: 231; 230.",-7.600,ACTIVE,OM6AXE,Mixed Mode
 OM0ODX,Dedinka,Nitriansky / Trenciansky / Trnavsky,Slovakia,Master,1,438.10000,BM,48.041770,18.416868,231002,,-0.000,ACTIVE,OM5AVM,TS1 TS2
 OM0ODA,Bratislava,Bratislavsky,Slovakia,Master,1,439.52500,BM,48.182610,17.094800,231003,,-7.600,ACTIVE,OM8AS,TS1 TS2
+OM0ODV,Kralova Lehota,Banskobystricky / Zilinsky,Slovakia,Peer,3,438.22500,BM,49.0232650,19.9106750,231004,None,-7.600,ACTIVE,OM3WIM,TS1 TS2
 OM0ODB,Bratislava,Bratislavsky,Slovakia,Peer,1,438.32500,BM,48.177813,17.044306,231111,,-7.600,ACTIVE,OM1AEG,TS1 TS2
 OM0OAA,Zilina mesto,Banskobystricky / Zilinsky,Slovakia,Peer,1,438.62500,BM,49.220001,18.750000,231301,"DUAL-MODE MULTI-PROTOCOL D-STAR/DMR/FUSION/NXDN/FM CTCSS 67,0Hz.<br>DMR TS1 static TGs: 231; 230.",-7.600,ACTIVE,OM6AXE,Mixed Mode
 OM0OUA,Martin - Velka Luka,,Slovakia,,1,439.13750,BM,49.104099,18.791599,231302,,-7.600,ACTIVE,OM6AR,TS1 TS2
-OM0ODC,Chopok,,Slovakia,,1,438.51250,BM,48.9317956,19.588573981833513,231303,,-7.600,ACTIVE,OM3WIM,TS1 TS2
-OM0OAC,Cadca Drahosanka,,Slovakia,,1,438.22500,BM,49.458889,18.823059,231304,,-7.600,ACTIVE,OM3WIM,TS1 TS2
+OM0ODC,Chopok,Banskobystricky / Zilinsky,Slovakia,Peer,1,438.51250,BM,48.9440000,19.5889000,231303,,-7.600,ACTIVE,OM3WIM,TS1 TS2
+OM0OAC,Cadca,Banskobystricky / Zilinsky,Slovakia,Peer,1,438.22500,BM,49.4577000,18.8197000,231304,,-7.600,ACTIVE,OM3WIM,TS1 TS2
 OM0OAF,Banska Bystrica,,Slovakia,,1,439.12500,BM,48.725601,19.115509,231305,,-7.600,ACTIVE,OM7AFX,TS1 TS2
 OM0OAG,Banski Bystrica,,Slovakia,,1,438.35000,None,0,0,231306,,-7.600,ACTIVE,OM7FX,
 OM0OAE,Zilina Hradisko,Banskobystricky / Zilinsky,Slovakia,Master,1,438.92500,BM,49.227,18.685,231311,"DUAL-MODE D-STAR/FM CTCSS 67,0Hz.",-7.600,ACTIVE,OM6AXE,Mixed Mode
 OM0ODZ,Zvolen,,Slovakia,,1,438.40000,BM,48.579659,19.151115,231320,,-7.600,ACTIVE,OM7ASX,TS1 TS2
 OM0OUL,Lucenec JN98TI,,Slovakia,,1,438.97500,DMR-plus,48.328442,19.690701,231330,,-7.600,ACTIVE,OM7PY,TS1 TS2
 OM0ODM,Kosice,Kosicky / Presovsky,Slovakia,Peer,1,438.22500,BM,48.71372,21.23346,231401,,-7.600,ACTIVE,OM8KT,TS1 TS2
-OM0ODP,Strbske Pleso,,Slovakia,,1,438.27500,BM,49.127991,20.054876,231404,,-7.600,ACTIVE,OM3WIM,TS1 TS2
+OM0ODP,Vysne Hagy,Kosicky / Presovsky,Slovakia,Peer,1,438.27500,BM,49.1147700,20.1268900,231404,,-7.600,ACTIVE,OM3WIM,TS1 TS2
 OM0ODK,Kojsovska hola,Kosicky / Presovsky,Slovakia,Master,1,438.25000,BM,48.782131,20.987949,231405,,-7.600,ACTIVE,OM8KT,TS1 TS2
 OE9XXH,Hard,Vorarlberg,Austria,Peer,1,438.46250,DMR+,47.4831170,9.7018570,232001,"22828,228,20,2280,2320,2329",-7.600,ACTIVE,HB9SDB,TS1 TS2
 OE0XMP,Wien,,Austria,,1,438.50000,DMR-plus,,,232069,,-7.600,ACTIVE,OE1KBC,TS1 TS2
@@ -3963,8 +3964,8 @@ TF8KRZ,Keflavik,,Iceland,Master,1,439.15000,DMR-plus,63.9988413,-22.5497872,2740
 TF3DMR,Reykjavik,,Iceland,Peer,1,439.85000,BM,64.12550,-21.94983,274002,,-5.000,ACTIVE,TF3EY,TS1 TS2
 9H1DMR,Naxxar,,Malta,,1,430.92500,BM,35.91002,14.44755,278002,,7.600,ACTIVE,9H1US,TS1 TS2
 9H1BBS,Naxxar,,Malta,,1,430.41250,Motorola,35.95528,14.364571,278100,,9.000,ACTIVE,9H1IA,
-5B4CY,Troodos,,Cyprus,,1,438.40000,BM,34.938671,32.860966,280001,,-7.600,ACTIVE,5B4AHZ,TS1 TS2
-5B4NC,NICOSIA,,Cyprus,,1,438.20000,DMR-plus,,,280002,,-7.600,ACTIVE,5B4AHZ,TS1 TS2
+5B4CY,Troodos,All Regions,Cyprus,Peer,1,438.40000,BM,34.938671,32.860966,280001,cars@cyhams.org,-7.600,ACTIVE,5B4AHZ,TS1 TS2
+5B4NC,Nicosia,All Regions,Cyprus,Peer,1,438.20000,BM,35.1751051,33.3484853,280002,cars@cyhams.org,-7.600,ACTIVE,5B4AHZ,TS1 TS2
 5B4AIE,Paphos,,Cyprus,,1,438.60000,BM,34.817722,32.444950,280004,,-7.600,ACTIVE,5B4ALJ,TS1 TS2
 5B4AMH,Fyti,,Cyprus,,1,438.70000,BM,34.991749,32.506737,280005,,-7.600,ACTIVE,5B4ALJ,TS1 TS2
 5B4AMD,Limassol,,Cyprus,,1,439.00000,None,34.710300,33.081902,280006,,-7.600,ACTIVE,SV1JRF,
@@ -4657,7 +4658,7 @@ W0JAY,Seymour,Connecticut,United States,10,1,444.50000,W0JAY HBlink,0.0,0.0,3100
 WR4SC,Chester SC,,United States,peer,1,440.57500,None,,,310006,,5.000,ACTIVE,WR4SC,TS1 TS2
 KB2EYN,South River NJ,,United States,peer,1,439.50000,None,40.445950,-74.377670,310007,,-5.000,ACTIVE,KA2OON,TS1 TS2
 N4NJJ,Buffalo,New York,United States,Peer,2,445.97500,BrandMeister,0.0,0.0,310008,,5.000,ACTIVE,KB2TIN,TS1 TS2
-WB4WXD,Palestine Texas,,United States,peer,1,444.60000,None,,,310009,,5.000,ACTIVE,WB4WXD,TS1 TS2
+WB4WXD,Palestine,Texas,United States,Peer,1,444.60000,CBRIDGE,31.7308352,-95.6233952,310009,,5.000,ACTIVE,WB4WXD,TS1 TS2
 WX6D,San Luis Obispo,California,United States,Master,1,443.43750,Mountain West DMR,35.3540209,-120.3757163,310010,,5.000,ACTIVE,KE6YJC,TS1 TS2
 W0RAY,Des Moines,Iowa,United States,Peer,1,146.75500,Brandmeister,41.5910641,-93.6037149,310011,,-0.600,ACTIVE,W0RAY,TS1 TS2
 WR7HLN,Mountainair - Capilla Peak,New Mexico,United States,Peer,1,443.25000,Brand Meister,34.688869,-106.409416,310012,"Capilla Peak<br><br>Talk Groups Static<br><br>Time Slot 1<br>31302 MPRG 2<br><br>Time Slot 2<br>31301 MPRG 1<br><br>All other Talk Groups should be on Time Slot 1, Dynamic<br><br>wr7hln.org",+5.000,ACTIVE,WR7AGT,TS1 TS2
@@ -4979,7 +4980,7 @@ KE6O,Napa,California,United States,peer,2,442.48750,BrandMeister,38.297539,-122.
 NS1RA,Danvers,Massachusetts,United States,Peer,4,442.80000,NEDECN,42.583283,-70.975883,310362,Time Slot #1 - Group Call 9998 = Parrot*<br>Time Slot #1 - Group Call 1 = World Wide (Sat. Net)*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 3133 = NH Statewide*<br>Time Slot #1 - Group Call 8801 = NETAC1*<br>Time Slot #1 - Group Call 113 = UA113*<br>Time Slot #1 - Group Call 123 = UA123*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 759 = SKYWARN/911<br>--------------------------------------<br>Time Slot #2 - Group Call 3181 = New England Wide<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3125 = MA Statewide<br>Time Slot #2 - Group Call 8802 = NETAC2*<br>Time Slot #2 - Group Call 9 = Local Site  and NSRA Club use<br><br>* = PTT Activated<br><br>Website:  http://nedecn.org,+5.000,ACTIVE,NS1RA,Both
 K9AGR,Flemingsburg,Kentucky,United States,Peer,1,440.67500,Delmarva,38.312239,-83.820505,310363,"Static (Active by default, unless a PTT replaces it):<br>TS1: 8802 DelMarVa (via K4USD)<br>TS2: 3151 VA Statewide (via K4USD)<br><br>More to come.",+5.00,ACTIVE,K9AGR,TS1 TS2
 N2AZT,CLIFFSIDE PARK,New Jersey,United States,Peer,13,447.32500,Bronx-TRBO,40.8214894,-73.9876388,310364,TS1  All are PTT activated<br><br>TG 91 (worldwide Brandmeister)<br>TG 8750 K2MAK<br><br><br><br><br><br>TS2<br><br>GREEK AMERICAN TG 31699 Full Time<br>TG 444 NY Metro PTT 15 Min,-5.000,ACTIVE,N2AZT,TS1 TS2
-WW7CH,Longmire,Washington,United States,Peer,1,145.13000,BM/PNW,0.0,0.0,310365,"Local Area/Test - Longmire IT Shop, Mt Rainier National Park",-0.600,ACTIVE,WW7CH,TS1 TS2
+WW7CH,Longmire,Washington,United States,Peer,1,145.13000,BM/PNW,46.7492365,-121.8112526,310365,"Local Area/Test - Longmire IT Shop, Mt Rainier National Park",-0.600,ACTIVE,WW7CH,TS1 TS2
 KE7JFH,Phoenix ShawButte,Arizona,United States,Master,0,440.03750,AZTRBONET DMR-MARC,33.594108,-112.086048,310366,Time Slot #1 - Group Call 1 = World Wide (PTT)<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America (PTT)<br>Time Slot #1 = Group Call 9 = Local Master/Peer ONLY<br><br>Time Slot #2 = Group Call 2 = AZ/NM/TX Local<br>Time Slot #2 = Group Call 3100 = DCI Bridge (PTT)<br>Time Slot #2 = Group Call 3104 = Arizona Statewide<br>Time Slot #2 = Group Call 3135 = New Mexico Statewide<br>Time Slot #2 = Group Call 3148 = Texas Statewide (PTT)<br>Time Slot #2 = Group Call 3176 = Regional SW (PTT)<br>Time Slot #2 = Group Call 3185 = Cactus<br><br><br>Contact Information:<br>main+owner@azham-dmr.groups.io<br>TRAVELERS EMAIL for CC info as system is SEMI-CLOSED,+5.000,ACTIVE,N7TWW,TS1 TS2
 N5RWZ,El Paso,Texas,United States,Peer,1,442.32500,az-trbonet,31.76754,-106.334697,310367,,+5.000,ACTIVE,N5RWZ,TS1 TS2
 N5JMD,Lawrenceville,Georgia,United States,Peer,1,442.90000,Brandmeister,33.9167158,-84.0793772,310368,"GEOTXHAMS<br>LAWRENCEVILLE, GEORGIA",+5.000,ACTIVE,N5JMD,TS1
@@ -6346,7 +6347,7 @@ N8BCM,Piqua,Ohio,United States,Master,1,444.46250,BrandMeister,40.149306,-84.212
 K7WBY,Fernley,Nevada,United States,Peer,1,446.35000,Brandmeister,39.571831,-119.235329,311871,TG 311871 95A North Slot 1 C1<br>TG 31328 SNARS Slot1 C1<br>TG 31329 SNARS1 Slot2 C1<br>,-5.000,ACTIVE,K7WBY,TS1 TS2
 W2CYK,Wading River,New York,United States,Peer,1,441.75000,Brandmeister,23.00099,112.00099,311872,,+4.000,ACTIVE,W2CYK,TS1 TS2
 N4AUG,Saint Augustine,Florida,United States,Peer,1,448.80000,Brandmeister,30.0830124,-81.548672,311874,temporary location for the repeater while I get it programmed... <br><br>N4AUG<br>St Augustine Amateur Radio Society <br>DMR Repeater<br><br>NE FL ARES - 31128 on TS1<br><br>First Coast DMR - 31121 on TS2,-5.000,ACTIVE,N4AUG,TS1 TS2
-KJ7ICL,Tulalip,Washington,United States,Peer,1,444.10000,PNWDigital on top of the Tulalip Tribes Admin Bld. Network provided by TDS/Salish Networks and Tulalip Emergency Mgt.,0.0,0.0,311875,BC 1	          F/3m<br>Cascades 1	P15/3m<br>California           P15/3M<br>ID 1	        	P15/3m<br>Local 1		F/5<br>OR 1	        	P15/3m<br>Parrot 1     	P1/0<br>PNW 1		F/3m<br>PS 1	          F/30m<br>WA1			F/3m<br>================<br>Aud Test 2 	P2/0<br>Local 2		F/5<br>Montana.           P15/3m<br>Net 2		spl/30m<br>PNW 2		F/3m<br>PNW Reg 2	F/3m<br>PS 2  		  F/15m<br>TAC 1        	P15/3m<br>TAC 2        	P15/3m<br>TAC 3        	P15/3m<br>WA 2		        F/3m<br>TAC314            P15/3m<br>,+5.000,ACTIVE,W7COM,TS1 TS2
+KJ7ICL,Tulalip,Washington,United States,Peer,1,444.10000,PNWDigital on top of the Tulalip Tribes Admin Bld. Network provided by TDS/Salish Networks and Tulalip Emergency Mgt.,48.0552072,-122.2587055,311875,BC 1	          F/3m<br>Cascades 1	P15/3m<br>California           P15/3M<br>ID 1	        	P15/3m<br>Local 1		F/5<br>OR 1	        	P15/3m<br>Parrot 1     	P1/0<br>PNW 1		F/3m<br>PS 1	          F/30m<br>WA1			F/3m<br>================<br>Aud Test 2 	P2/0<br>Local 2		F/5<br>Montana.           P15/3m<br>Net 2		spl/30m<br>PNW 2		F/3m<br>PNW Reg 2	F/3m<br>PS 2  		  F/15m<br>TAC 1        	P15/3m<br>TAC 2        	P15/3m<br>TAC 3        	P15/3m<br>WA 2		        F/3m<br>TAC314            P15/3m,+5.000,ACTIVE,W7COM,TS1 TS2
 W4MOT,Fort Lauderdale,Florida,United States,Peer,1,147.10500,DMR Brandmeister,26.096736,-80.106982,311876,"TS1 LOCAL TG8 CONNECTS TO UHF<br>TS2 TALK TG9<br>TS2 NORTH AMERICA TG3<br>TS2 WWIDE ENGLISH TG13<br>FOR REFLECTORS USE TS2<br>EXAMPLE ON TALK TG9, DIAL A REFLECTOR WITH A KEYPAD EX. 4639 AND WILL CONNECT USA NATIONWIDE FOR 15 MINUTES",+0.600,ACTIVE,W4MOT,TS1 TS2
 W8CMN,Bay City,Michigan,United States,Peer,1,443.81250,Mi5,43.5944677,-83.8888648,311879,"Please visit http://mi5.cc before using this machine.<br>http://w8cmn.net<br><br>Contact: Fred Moses, W8FSM<br>Email: fred@moses.bz",+5.000,ACTIVE,W8CMN,TS1 TS2
 W8CMN,Bay City,Michigan,United States,Peer,1,146.50000,Mi5,43.5944677,-83.8888648,311880,"Please visit http://mi5.cc before using this machine.<br>http://w8cmn.net<br><br>Contact: Fred Moses, W8FSM<br>Email: fred@moses.bz",-0.600,ACTIVE,W8CMN,TS1 TS2
@@ -6775,7 +6776,7 @@ N9ZD,OAK FOREST,Illinois,United States,Peer,1,443.27500,BM,41.6028116,-87.743938
 N0GIK,Adel,Iowa,United States,Master,1,444.52500,BM,41.6006,-94.01975,312362,31194 TS1<br>31199 TS1<br>312362 TS1<br>3119   TS2,+5.000,ACTIVE,N0GIK,TS1 TS2
 KB3CVS,Alton,Virginia,United States,Master,1,147.36000,BM,36.5731952,-79.0027897,312363,TBD,+0.6000,ACTIVE,KB3CVS,TS1
 WB6CDF,Yucca Valley,California,United States,Master,10,447.00000,Western States DMR,34.153261,-116.389428,312365,http://www.westernstatesdmr.com/YuccaVly.htm<br>,-5.000,ACTIVE,WB6CDF,TS1 TS2
-KJ7ICL,Tulalip,Washington,United States,Peer,1,442.35000,PNWDigital on top of the Tulalip Resort Casino. Network provided by TDS/Salish Networks and Tulalip Emergency Mgt.,0.0,0.0,312366,BC 1	          F/3m<br>Cascades 1	P15/3m<br>California           P15/3M<br>ID 1	        	P15/3m<br>Local 1		F/5<br>OR 1	        	P15/3m<br>Parrot 1     	P1/0<br>PNW 1		F/3m<br>PS 1	          F/30m<br>WA1			F/3m<br>================<br>Aud Test 2 	P2/0<br>Local 2		F/5<br>Montana.           P15/3m<br>Net 2		spl/30m<br>PNW 2		F/3m<br>PNW Reg 2	F/3m<br>PS 2  		  F/15m<br>TAC 1        	P15/3m<br>TAC 2        	P15/3m<br>TAC 3        	P15/3m<br>WA 2		        F/3m<br>TAC314            P15/3m<br>,+5.000,ACTIVE,W7COM,TS1 TS2
+KJ7ICL,Tulalip,Washington,United States,Peer,1,442.35000,PNWDigital on top of the Tulalip Resort Casino. Network provided by TDS/Salish Networks and Tulalip Emergency Mgt.,48.0871363, -122.19034660957739,312366,BC 1	          F/3m<br>Cascades 1	P15/3m<br>California           P15/3M<br>ID 1	        	P15/3m<br>Local 1		F/5<br>OR 1	        	P15/3m<br>Parrot 1     	P1/0<br>PNW 1		F/3m<br>PS 1	          F/30m<br>WA1			F/3m<br>================<br>Aud Test 2 	P2/0<br>Local 2		F/5<br>Montana.           P15/3m<br>Net 2		spl/30m<br>PNW 2		F/3m<br>PNW Reg 2	F/3m<br>PS 2  		  F/15m<br>TAC 1        	P15/3m<br>TAC 2        	P15/3m<br>TAC 3        	P15/3m<br>WA 2		        F/3m<br>TAC314            P15/3m,+5.000,ACTIVE,W7COM,TS1 TS2
 KB2CHM,Churchville,New York,United States,Peer,1,433.50000,brandmeister,0.0,0.0,312367,,+5.000,ACTIVE,KB2CHM,TS2
 KC1ALA,Biddeford,Maine,United States,Master,1,443.05000,BM,43.495325,-70.473090,312368,,+5.000,ACTIVE,KA1JWM,Mixed Mode
 N9BMG,Hahira,Georgia,United States,Master,1,146.70000,BM,30.9913064,-83.3726575,312369,Mobile repeater for special events in the South Georgia area.,-0.600,ACTIVE,N9BMG,TS1 TS2
@@ -8184,7 +8185,7 @@ N9BIG,Mount Vernon,Illinois,United States,Master,2,441.50000,bm,38.320292,-88.78
 AA4RV,Wake Forest,North Carolina,United States,Master,1,443.20000,BM,35.940320,-78.478773,314049,,+5.000,ACTIVE,AA4RV,TS1 TS2
 N4HRS,Vesta,Virginia,United States,Peer,9,444.70000,DMRVA / N4HRS,36.7200,-80.3256,314050,see n4hrs.org or DMRVA.org for details,+5.000,ACTIVE,KD4ADL,TS1 TS2
 KD8LMI,Manchester,Michigan,United States,Peer,1,442.98750,BM,42.15735,-84.09405,314051,,+5.000,ACTIVE,KD8LMI,TS1 TS2
-WW7CH,Eatonville,Washington,United States,Peer,1,439.43750,BM/PNW,0.0,0.0,314053,,-9.000,ACTIVE,WW7CH,TS1 TS2
+WW7CH,Eatonville,Washington,United States,Peer,1,439.43750,BM/PNW,46.8659860,-122.2725550,314053,,-9.000,ACTIVE,WW7CH,TS1 TS2
 WR7HLN,Chama,New Mexico,United States,Peer,1,444.30000,BrandMeister,36.899444,-106.602028,314054,Static Time Slot 1<br>31302 MPRG 2<br>3135 NM Statewide<br>8 MPRG Cluster<br><br>Static Time Slot 2<br>31301 MPRG 1,+5.000,ACTIVE,WR7AGT,TS1 TS2
 KF0KZN,Wichita,Kansas,United States,Peer,1,442.85000,BM,37.690146,-97.338728,314057,,+5.000,ACTIVE,KF0KZN,TS1 TS2
 W4KWS,Key West,Florida,United States,Master,1,444.65000,BM,0.0,0.0,314058,,+5.000,ACTIVE,W4KWS,TS1 TS2
@@ -9068,6 +9069,7 @@ W1ASS,Goffstown,New Hampshire,United States,Master,1,927.71250,Brandmaster,42.98
 AA5SG,Ellisville,Mississippi,United States,Peer,0,441.21250,Brandmeister,31.6000000,-89.2000000,315053,None,+5.000,ACTIVE,AA5SG,Mixed Mode
 N7COX,Star,Idaho,United States,Peer,1,444.55000,Brandmiester,43.6898000,-116.4875000,315054,None,+5.000,ACTIVE,N7COX,TS1
 N4TAE,Theodore,Alabama,United States,Peer,7,145.13000,AmComm,30.5369167,-88.2389472,315055,None,-0.600,ACTIVE,N4TAE,TS1 TS2
+KN4KAN,Enville,Tennessee,United States,Peer,1,444.35000,Brandmister,35.4678000,-88.4522000,315056,None,+5.000,ACTIVE,KN4KAN,TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,DMRVA,37.5358149,-77.3821587,315101,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,ACTIVE,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,NC-PRN-,36.6474353,-80.6437257,315102,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,ACTIVE,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,NC-PRN,36.8663865,-81.0515927,315103,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,ACTIVE,K4IJ,TS1 TS2
