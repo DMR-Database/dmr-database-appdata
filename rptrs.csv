@@ -346,7 +346,7 @@ F1ZRD,,Ile-de-France,France,Peer,1,430.47500,208009,None,208009,1,,9.400,F1IUQ,
 F1ZWD,Paris,Centre-Val de Loire,France,,1,145.78750,208010,BM,208010,1,,-0.600,F1HBG,TS1 TS2
 F1ZLK,Rueil-Malmaison,Ile-de-France,France,Peer,1,439.37500,208011,IPSC2-France3,208011,1,,-5.000,F1PTL,TS1 TS2
 F5ZIC,Chartres,Hauts-de-France,France,Master,1,439.43750,208012,BM,208012,1,,-7.6,F4GZQ,TS1 TS2
-F5ZSO,CHARENTON-LE-PONT,,France,,1,430.53750,208013,None,208013,1,,9.400,F5LGW,
+F5ZSO,CHARENTON-LE-PONT,Ile-de-France,France,Peer,1,430.53750,208013,BRANDMEISTER,208013,1,,9.400,F5LGW,TS1 TS2
 F1ZUR,Rilhac Rancon,Nouvelle-Aquitaine,France,Master,0,430.41250,208014,TETRA,208014,1,,-7.600,F4BQN,Mixed Mode
 F5ZQU,Le Havre,Normandie,France,Master,1,439.51250,208015,BM_2081,208015,1,,-9.4,F5IHZ,TS1 TS2
 F5ZQT,Le Havre,Centre-Val de Loire,France,Master,1,430.58750,208017,BM_2081,208017,1,,+9.400,F5IHZ,TS1 TS2
@@ -2709,7 +2709,7 @@ RR9HAA,Seversk,All Regions,Russia,Master,1,439.40000,250042,DMR,250042,1,,-7.600
 RR9JK,Megion,All Regions,Russia,Peer,1,145.60000,250043,BM,250043,1,25021<br>250086,-0.600,R9JK,TS1 TS2
 UB6OARD,Donetsk,All Regions,Russia,Peer,1,438.87500,250044,2502.master.brandmeister.network,250044,1,None,-7.600,UB6OAR,TS1 TS2
 RC3DI,Moscow,All Regions,Russia,Peer,1,439.40000,250045,BM,250045,1,None,-7.600,RC3DI,TS1 TS2
-R2DLA,Domodedovo,All Regions,Russia,Master,7,434.95000,250046,BM,250046,1,None,-2.600,R2DLA,TS1 TS2
+R2DLA,Domodedovo,All Regions,Russia,Master,7,438.15000,250046,BM,250046,1,None,-5.000,R2DLA,TS1 TS2
 UB1AAM,,,Russia,,1,438.75000,250102,BM,250102,0,,-7.600,UB1AAM,TS1 TS2
 RD1AS,,,Russia,,1,145.73750,250104,BM,250104,0,,-0.600,RD1AS,TS1 TS2
 UA1CDG,,,Russia,,1,0.00000,250105,BM,250105,0,,,UA1CDG,TS1 TS2
@@ -2919,7 +2919,7 @@ SR5QDMR,Siedlce,mazowieckie,Poland,Master,5,438.52500,260034,Brandmeister,260034
 SR8DU,Drochobyczka,podkarpackie,Poland,Master,1,439.00000,260035,BM,260035,1,Test CC1  TS1 260 / TS2 2608,-7.60000,SP8BAR,TS1 TS2
 SR5ID,Kuflew,mazowieckie,Poland,Peer,5,439.03750,260036,BM,260036,1,,-7.600,SQ5ID,TS1 TS2
 SR1WR,Ryman,zachodniopomorskie,Poland,Master,1,439.05000,260037,Brandmeister,260037,1,,-7.600,SP1WR,TS1 TS2
-SR3DAB,Zalesie,wielkopolskie,Poland,Master,1,438.57500,260038,BM,260038,1,,-7.600,SQ3DAB,TS1 TS2
+SR3DAB,Zalesie,wielkopolskie,Poland,Master,1,439.57500,260038,BM,260038,1,,-7.600,SQ3DAB,TS1 TS2
 SR4ONX,Olsztyn,warmisko-mazurskie,Poland,Peer,1,438.95000,260039,BM,260039,1,,-7.6,SQ4LWO,TS1 TS2
 SR5ZQ,Krze Duze,mazowieckie,Poland,Master,0,439.25000,260040,BM YSF,260040,1,,-7.600,SQ5FBI,TS1 TS2
 SR7UAL,Lodz,dzkie,Poland,Peer,1,438.65000,260041,Brandmeister,260041,1,,-7.600,"SQ7OFD, SQ7SCC",TS1 TS2
@@ -3043,6 +3043,7 @@ SR7LDD,Lodz,dzkie,Poland,Master,1,438.22500,260702,Brandmeister,260702,1,,-7.600
 SR7DMK,Swiety Krzyz,witokrzyskie,Poland,Master,1,439.41250,260703,Brandmeister,260703,1,,-7.600,SP8I,TS1 TS2
 SR7ULM,Lodz,dzkie,Poland,Master,1,439.40000,260704,Brandmeister,260704,1,,-7.600,SQ7SCC,Mixed Mode
 SR7USI,Sieradz,dzkie,Poland,Master,1,439.52500,260705,Brandmeister,260705,1,,-7.600,SQ7PGP,Mixed Mode
+SR7HYT,Lodz,dzkie,Poland,Peer,1,145.62500,260706,Brandmeister,260706,1,,-0.600,SP7JB,TS1 TS2
 SR7CKD,Lodz,dzkie,Poland,Master,1,145.57500,260707,Brandmeister,260707,1,,-0.600,SQ7SCC,TS1 TS2
 SR7LM,Lodz,dzkie,Poland,Master,1,438.20000,260708,Brandmeister,260708,1,,-7.600,SQ7SCC,TS1 TS2
 SR7UWI,Wielun,lodzkie,Poland,Master,1,438.52500,260709,Brandmeister,260709,1,,-7.600,SP7BIX,TS1 TS2
@@ -3158,7 +3159,7 @@ DB0LIN,Lindenfels,Hessen,Germany,Peer,1,438.61250,262054,BM,262054,1,,-7.600,DL1
 DO0GUF,Gundelfingen,Bayern,Germany,Master,1,438.46250,262055,BM,262055,1,,-7.600,DO3LK,TS1 TS2
 DB0XJ,Stade,Niedersachsen / Bremen,Germany,Master,1,438.80000,262056,BM,262056,1,TG 262056,-7.600,DL5HCR,TS1 TS2
 DB0YCC,Cham,Bayern,Germany,Master,2,439.12500,262057,BM,262057,1,Germany Cluster 26387,-7.6,DG5RBB,TS1 TS2
-DB0YCF,Furth Im Wald,Bayern,Germany,Master,2,439.50000,262058,BM,262058,1,TS1 :<br><br><br>TS2 :<br>262058 ;<br>,-7.6,DG9RF,TS1 TS2
+DB0YCF,Furth Im Wald,Bayern,Germany,Master,2,439.50000,262058,BM,262058,1,TS1 :<br><br><br>TS2 :<br>262058 ;,-7.6,DG9RF,TS1 TS2
 DB0MMR,Halsbach,Bayern,Germany,Master,8,145.57500,262059,BM,262059,1,,-0.600,DD7MH,TS1 TS2
 DM0IZH,Itzehoe,Hamburg / Schleswig-Holstein,Germany,Master,1,439.87500,262061,BM,262061,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.4,DJ3LE,TS1 TS2
 DB0VIP,15838 Am Mellensee,Berlin / Brandenburg,Germany,Master,1,439.35000,262062,BM,262062,1,,-7.6000,DD6WG,TS1 TS2
@@ -3486,8 +3487,8 @@ DB0SGL,Siegen,Nordrhein-Westfalen,Germany,Peer,1,439.82500,262432,BM,262432,1,,-
 DB0LT,Stadtlohn,Nordrhein-Westfalen,Germany,,1,438.36250,262433,BM,262433,1,,-7.600,DL6MB,TS1 TS2
 DB0II,Moenchengladbach,Nordrhein-Westfalen,Germany,Peer,1,439.31250,262435,BM,262435,1,,-7.600,DF6EF,TS1 TS2
 DB0HSK,Meschede Fernmeldet,Nordrhein-Westfalen,Germany,,1,438.81250,262436,DMR-plus,262436,1,,-7.600,DH9DP,TS1 TS2
-DB0MY,Juelich,Nordrhein-Westfalen,Germany,,1,438.36250,262437,DMR-plus,262437,1,,-7.600,DG9KAF,TS1 TS2
-DB0MY,Juelich,Nordrhein-Westfalen,Germany,,1,438.36250,262438,DMR-plus,262438,1,,-7.600,DG9KAF,TS1 TS2
+DB0MY,Juelich,Nordrhein-Westfalen,Germany,Master,1,438.36250,262437,DMR-plus,262437,1,,-7.600,DG9KAF,TS1 TS2
+DB0MY,Juelich,Nordrhein-Westfalen,Germany,Master,1,438.36250,262438,DMR-plus,262438,1,,-7.600,DG9KAF,TS1 TS2
 DB0DSP,Duesseldorf,Nordrhein-Westfalen,Germany,,1,438.30000,262439,BM,262439,1,,-7.600,DK2CRN,TS1 TS2
 DB0DDS,Dortmund,Nordrhein-Westfalen,Germany,Master,1,439.85000,262440,BM,262440,1,,-9.400,DF1VB,TS1 TS2
 DB0EG,Schoeppingen,Nordrhein-Westfalen,Germany,Peer,1,439.48750,262441,BM,262441,1,,-7.600,DF1VB,TS1 TS2
@@ -7950,6 +7951,7 @@ KK3L,Berkeley Springs,West Virginia,United States,Peer,1,443.85000,313780,Inters
 N7NKT,Stanfield,Oregon,United States,Peer,1,441.30000,313781,BM,313781,1,HOME TG 312957,+5.000,N7NKT,TS1 TS2
 K4VDO,ORLANDO,Florida,United States,Master,2,442.10000,313782,"BM, TGIF, AND LOCAL ONLY NETWORK",313782,1,TIMESLOT 2<br>TGIF 176<br>TGIF 361<br>BM 31121 FIRST COAST<br>BM 311307 KINGSLAND LOCAL<br>BM 3112 FLORIDA STATEWIDE<br>BM 313782 STATIC TG<br><br>TIMESLOT 1<br>9 LOCAL NETWORK<br>TGIF 176<br>TGIF 361,+5.00,K4VDO,TS1 TS2
 AB8E,Elkins,West Virginia,United States,Master,1,146.86500,313783,BM,313783,1,,-0.600,AB8E,TS1
+N2FUR,Belleville,New Jersey,United States,Peer,1,443.09000,313784,BM,313784,1,,+5.000,N2FUR,TS1 TS2
 N6CID,Alamogordo,New Mexico,United States,Master,1,444.97500,313786,BM,313786,1,,+5.000,N6CID,TS1 TS2
 KC7Z,Bremerton,Washington,United States,Peer,1,441.17500,313787,BrandMeister,313787,0,,+5.000,KC7Z,Mixed Mode
 KG5A,Williston,Tennessee,United States,Peer,4,442.23750,313788,Brandmeister,313788,1,"IPSC Network:BM - Color Code:4 - Assigned:Master - TS Linked:TS1 TS2 - Operator:KX4MQ<br>Time Slot # 1 - Group Call 31471 = NWS Memphis<br>Time Slot # 2 - Group Call 2 = West TN Cluster, """,+5.00,NJ8X,TS1 TS2
@@ -9712,7 +9714,7 @@ BH8QFX,bijieshi,Sichuan Guizhou Chongqing Yunnan,China,Master,1,439.28500,460151
 BR7JAI,Huizhou,Hunan Guangdong Guangxi Hainan,China,Master,8,439.80000,460152,43.129.83.124,460152,1,None,-5.0,BA7ODN,TS1
 BR7JBH,foshan,Hunan Guangdong Guangxi Hainan,China,Peer,1,439.20000,460153,4G,460153,1,None,-0.500,BG7LRO,TS1 TS2
 BR7JBG,guangdongfoshan,Hunan Guangdong Guangxi Hainan,China,Master,1,439.45000,460154,,460154,1,,5.000,BA7OST,Mixed Mode
-BH8QWR,GuiYang,Sichuan Guizhou Chongqing Yunnan,China,Master,9,436.75000,460155,460851,460155,1,None,10.000,BH8QWR,TS1 TS2
+BR8PUW,GuiYang,Sichuan Guizhou Chongqing Yunnan,China,Peer,9,436.75000,460155,4g,460155,1,None,5.000,BH8QWR,TS1 TS2
 BR2AG,Harbin,Heilongjiang Jilin Liaoning,China,Master,1,145.77500,460206,china telcom,460206,1,,-0.600,BR2AG,TS2
 BR3GG,xilinhaote,Inner Mongolia,China,Peer,2,439.60000,460301,BM,460301,1,460479,-5.000,BG3IZM,TS1 TS2
 BR3HM,HuLunBeiEr,,China,Master,1,439.75000,460309,telecom,460309,1,,-5.000,BG3HM,TS2
@@ -9838,6 +9840,7 @@ VK2RDO,Mt Yarrahapini,New South Wales,Australia,Master,1,439.87500,505108,DMR,50
 VK4SPB,Demo Test,Queensland,Australia,Peer,1,439.67500,505109,VK-DMR Network,505109,1,TS 1 - TG 1 = Worldwide Calling (2 min max)<br>TS 1 - TG 5 = VK-DMR Club & Amateur Broadcasts<br>TS 1 - TG 9 = Local Repeater only<br>TS 1 - TG 13 = Worldwide English<br>TS 1 - TG 30 = Jota for VK<br>TS 1 - TG 53 = User Activated for chatting<br>TS 1 - TG 113= User Activated English 1<br>TS 1 - TG 123= User Activated English 2<br>TS 1 - TG 133 = DMR+ USA<br>TS 1 - TG 143 = DMR+ UK<br>TS 1 - TG 153 = DMR+ South Pacific<br>TS 2 - TG 505 = VK DMR Linked repeaters<br>TS 1 - TG 3801 ~ 3808 General Chat<br>TS 1 - TG 3809 = Second TS for chatting<br>TS 1 - TG 3810 = WICEN<br><br>You Must Have [ARS] Disabled Within Your Radio.<br>You Must Have [GPS] Disabled Within Your Radio.<br><br>Contact: Peter Brennan VK3TE<br>Email: VK3TE@bigpond.com<br>or<br>Contact: VK4QF<br>Email: vk4qf@outlook.com.au,-7.0000,VK3TE,TS1 TS2
 VK6MLL,Willetton,Western Australia,Australia,Master,1,443.50000,505110,BM,505110,1,,+5.000,VK6MLL,Mixed Mode
 VK5RDF,belair,South Australia,Australia,Master,0,147.26250,505112,YSF-FREEDMR TG50556,505112,0,,-1.6,VK5OG,Mixed Mode
+VK4NU,Brisbane,Queensland,Australia,Peer,1,439.20000,505113,ipsc2,505113,1,None,+5.000,VK4NU,TS1 TS2
 VK2RWO,Wodonga,Victoria,Australia,Master,1,438.80000,505114,VK-DMR,505114,1,,-7.00,VK3VS,TS1 TS2
 VK2RKG,West Bathurst,New South Wales,Australia,Peer,1,439.87500,505115,VKDMR,505115,1,New repeater for the VKDMR Network,-5.000,VK2MES,TS1 TS2
 VK2MOE,Mudgee,New South Wales,Australia,Master,1,439.17500,505116,"BM, VKDMR",505116,1,"Currently in test, soon to be full duplex public local repeater",+0.000,VK2MOE,TS2
