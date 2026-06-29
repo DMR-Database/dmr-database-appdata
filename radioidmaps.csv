@@ -938,7 +938,7 @@ IR0UGA,Santa Marinella,Lazio / Umbria / Sardinia,Italy,Peer,1,430.93750,DMR-plus
 IR0UJN,Castel Gandolfo,Lazio / Umbria / Sardinia,Italy,Master,1,430.53750,BM,41.746834,12.6503766,222059,,+5.000,ACTIVE,IZ0RIN,TS1 TS2
 IR0UEI,Calvi dell'Umbria,Lazio / Umbria / Sardinia,Italy,Peer,1,431.46250,BrandMeister,42.81742495,12.801393301771,222060,,1.600,ACTIVE,IW0REF,TS1 TS2
 IR3UY,Grado,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.36250,BM,45.680109,13.395309,222061,,+1.6,ACTIVE,IV3DXW,Mixed Mode
-IR4ZZW,Piacenza,Emilia-Romagna,Italy,Master,1,431.43750,BM,44.8476352,9.666531257696896,222062,,+1.600,ACTIVE,IU4DKT,Mixed Mode
+IR4ZZW,Piacenza,Emilia-Romagna,Italy,Master,1,431.43750,BM,44.9058590,9.5481590,222062,,+1.600,ACTIVE,IU4DKT,Mixed Mode
 IR0DV,PULA,Lazio / Umbria / Sardinia,Italy,Peer,1,430.81250,DMR-plus,39.07288,9.02737,222063,,5.000,ACTIVE,IS0FLV,TS1 TS2
 IR1UIZ,Monte Giarolo,Piedmont / Liguria / Aosta,Italy,Master,1,431.43750,BM,44.748499,9.109859,222064,,+1.600,ACTIVE,IW1GHT,TS1 TS2
 IR9UBK,Catania,Sicily,Italy,Master,1,430.37500,FREEDMR,37.284701500177526,15.106424396411136,222065,,+5.000,ACTIVE,IW9BAX,TS1 TS2
@@ -1430,7 +1430,7 @@ IR9UBJ,Tremestieri Etneo,Sicily,Italy,,1,430.17500,DMR-plus,37.590099,15.077442,
 IR9BR,Siracusa,Sicily,Italy,Master,4,145.57500,None,37.0646139,15.2907196,222916,,+0.000,ACTIVE,IT9CVO,TS1 TS2
 IR9AC,ZAFFERANA ETNEA,Sicily,Italy,,2,145.78750,None,37.6932846,15.1064599,222917,,-0.600,ACTIVE,IW9DKU,
 IR9BR,Siracusa,Sicily,Italy,,4,430.30000,DMR-plus,37.0646139,15.2907196,222918,,5.000,ACTIVE,IT9CVO,TS1 TS2
-IR9BJ,Citelli,Sicily,Italy,,1,145.77500,None,37.7651447,15.059664733941236,222919,,-0.600,ACTIVE,IT9CUX,
+IR9BJ,Citelli,Sicily,Italy,Peer,1,145.77500,ts1,37.7651447,15.059664733941236,222919,,-0.600,ACTIVE,IT9CUX,Mixed Mode
 IR9UBD,Monte Lauro,Sicily,Italy,,1,430.01250,None,37.1170035,14.8195869,222922,,5.000,ACTIVE,IW9BAX,
 IR9UBR,Jm78od,Sicily,Italy,,1,430.72500,None,38.17527,14.92083,222929,,5.000,ACTIVE,IW9BIP,TS1 TS2
 IR9UP,Caltagirone,Sicily,Italy,,1,430.02500,None,37.2372009,14.5132023,222959,,1.600,ACTIVE,IW9BJU,
@@ -2031,7 +2031,6 @@ GB3PZ,Dukinfield  Cheshire,England,United Kingdom,Peer,0,430.90000,Brandmeister,
 GB7CE,Great Clacton,England,United Kingdom,Peer,0,439.61250,None.,51.7659000,1.1400000,234234,None,9.000,ACTIVE,G0DZZ,TS1 TS2
 2M0SBP,Arisaig,Scotland,United Kingdom,Peer,4,439.70000,Brandmeister,56.9100000,-5.8400000,234235,2M0SBP,9.000,ACTIVE,2M0SBP,Mixed Mode
 GB7AU,Amersham,England,United Kingdom,Peer,1,430.86250,DMR-plus,51.6740875,-0.6073643,234236,,7.600,ACTIVE,M0ZPU,TS1 TS2
-GB7MO,Moreton,England,United Kingdom,Master,1,430.61250,Brandmeister,53.4020000,-3.1110000,234237,None,+9.000,ACTIVE,M1TNW,TS1 TS2
 GB3OM,Omagh,Northern Ireland,United Kingdom,Peer,1,430.95000,DMR-MARC,54.67395385543932,-7.211005439458262,234501,DMR Talk Groups<br>SLOT	TALKGROUP	DESCRIPTION<br>1	                1               World-Wide Calling<br>1	                2	         Europe Calling<br>1	                3	         North America<br>1	                5	         Australia<br>1	               13	         English World-Wide Calling<br>1	               80	         UK Chat 1<br>1	               81	         UK Chat 2<br>1	               82	         UK Chat 3<br>1	               83	         UK Chat 4<br>1	               84	         UK Chat 5<br>1	               113	         World-Wide Chat 1 English<br>1	               119	         World-Wide Chat 1 (All Languages)<br>1	               123	         World-Wide Chat 2 English<br>1	               129	         World-Wide Chat 2 (All Languages)<br>1	               235	         UK Calling<br>1	               733	         MilNet<br>1	              2345	         CQ North<br>1	              2347	         GB-SOTA<br>1	              2350	         Brandmeister UK Calling<br>1	              2351	         BM UK Chat 1<br>1	              2352	         BM UK Chat 2<br>1	              2353	         BM UK Chat 3<br>1	              2355	         Brandmeister Scotland Wide<br>1	              2721	         Irish Chat 1<br>1	              2722	         Irish Chat 2<br>1	              2723	         Irish Chat 3<br>1	            23450	         Yorkshire Net<br>1	            23525	         Extended Freedom Network<br>1	            23526	         Hubnet<br>1	            23531	         Raynet UK<br>1	            23532	         Essex Raynet<br>1	            23550	         Scotland Chat<br>1	            23565	         Northumberland Scouts<br>2	                    8	         Northern Ireland Cluster (Only available on GB3OM and GB7UL)<br>2	                    9	         Local (Repeater Only)<br>2	                801	         South East England<br>2	                810	         South West England<br>2	                820	         North West England<br>2	                830	         Midlands England<br>2	                840	         East of England<br>2	                 842	         EA Special Link (GB7AV GB7EX GB7HH)<br>2	                 844	         East Anglia East Coast (GB7DS GB7EB GB7TX GB7YL)<br>2	                  851	         Special Link (GB7AI GB7BL GB7EY GB7GM)<br>2	                  852         Special Link (GB7DM GB7KY GB7SM GB7XG GB7GX)<br>2	                  860         Northeast England<br>2	                  870         Wales and Marches Regional<br>2	                  880         Northern Ireland Regional<br>2	                 2724        Irish Calling<br>2	                 9990        Echo Test<br>2	                23555       Scotland Calling<br>2	                23556       UK Wide Multimode<br>2	                23557       Scotland East<br>2	                23558       Scotland North<br>2	                23559       Scotland West,+7.600,ACTIVE,GI4SXV,TS1 TS2
 GB7AI,Hawick,Scotland,United Kingdom,Peer,3,439.33750,DMR-plus,55.54381991043021,-2.8328631844350443,234900,,-9.0,ACTIVE,G0RDI,TS1 TS2
 GB7TD,Wakefield,England,United Kingdom,Master,1,439.16250,DMR-plus,53.6829541,-1.4967286,235100,,-9.000,ACTIVE,G1XCC,TS1 TS2
@@ -2621,14 +2620,14 @@ OH5RUA,Kotka,All Regions,Finland,Peer,1,434.56250,BM,60.631508,26.798513,244503,
 OH5DMRA,Imatra,,Finland,,1,434.52500,BM,61.197662,28.760160,244504,,-2.000,ACTIVE,OH5FQT,TS1 TS2
 OH5RUA,Kotka,All Regions,Finland,Peer,1,434.72500,rNet,60.631500,26.798500,244505,,-2.000,ACTIVE,OH5TEG,Mixed Mode
 OH5DMR,Lappeenranta,,Finland,,0,434.53750,BM,,,244599,,-2.000,ACTIVE,OH5HCJ,TS1 TS2
-OH6RUS,Jamsa Himos,,Finland,,1,434.56250,BM,61.884811,25.323298,244602,,-2.000,ACTIVE,OH6JAT,TS1 TS2
+OH6RUS,Jamsa,All Regions,Finland,Peer,1,434.56250,BM,61.884811,25.323298,244602,,-2.000,ACTIVE,OH6JAT,TS1 TS2
 OH6RUJ,Jyvaskyla,All Regions,Finland,Peer,1,434.53750,BM,62.258984,25.683514,244603,,-2.000,ACTIVE,OH5GE,TS1 TS2
 OH6RUE,Viitasaari,,Finland,,1,434.56250,BM,63.088932,25.837761,244604,,-2.000,ACTIVE,OH6MWQ,TS1 TS2
 OH6DMR,KP13MU,,Finland,,1,145.57500,BM,63.843315,23.059677,244605,,-0.600,ACTIVE,OH6LSL,TS1 TS2
 OH6RUH,Aanekoski,All Regions,Finland,Peer,1,434.51250,BM,62.602287,25.679588,244660,https://automatic.sral.fi/index.php?st=305,-2.000,ACTIVE,OH6TX,TS1 TS2
 OH6RUL,laukaa,All Regions,Finland,Master,1,434.57500,BM,62.4018170,25.9364530,244661,,-2.0,ACTIVE,"OH6AB, OH6PRO, OH6TX",TS1 TS2
 OH6RAG,Jakobstad FI,,Finland,,1,145.78750,None,63.674992,22.712999,244666,,-0.600,ACTIVE,OH6XI,
-OH6RAQ,Jamsa OH6D,,Finland,Peer,1,434.51250,BM,61.964680,25.301020,244699,,-2.000,ACTIVE,OH6JAT,TS1 TS2
+OH6RAQ,Jamsa,All Regions,Finland,Peer,1,434.51250,BM,61.964680,25.301020,244699,,-2.000,ACTIVE,OH6JAT,TS1 TS2
 OH7RAA,Kuopio,,Finland,,1,434.58750,BM,62.886600,27.593300,244701,,-2.000,ACTIVE,OH7VM,TS1 TS2
 OH7DMRJ,Joensuu,All Regions,Finland,Master,1,438.08750,BM,62.590416,29.789146,244702,,-5.000,ACTIVE,OH7AB,TS1 TS2
 OH8RMD,Kempele Finland,,Finland,Peer,1,434.57500,BM,64.900986,25.542192,244801,,-2.000,ACTIVE,OH6NVG,TS1 TS2
@@ -10026,6 +10025,7 @@ DW1ZVP,Parañque City,National Capital Region,Philippines,Peer,12,434.92250,DMR-
 DW1ZVP,Parañque City,Autonomous Region,Philippines,Peer,2,440.26250,DMR-MARC,,,515083,,+5.00,ACTIVE,DW1ZVP,TS2
 DX7NRD,Dumaguete City Negros Oriental,Central Visayas,Philippines,Peer,1,422.92500,BM,9.31630,123.304382,515091,,+5.000,ACTIVE,DX7NRD,TS1 TS2
 DV3KKO,Meycauayan,National Capital Region,Philippines,Peer,1,432.22500,BM5151,14.730500,120.953600,515096,,-0.000,ACTIVE,DV3KKO,TS2
+DV2JIE,Pangasinan,Ilocos Region,Philippines,Peer,2,434.24000,bm,15.916667,120.333333,515098,,-5.00,ACTIVE,DV2JIE,TS2
 DX3T,Tarlac,Central Luzon,Philippines,Master,1,445.24000,"BM, DMR-MARC",15.4937252,120.4964091,515099,,+0.600,ACTIVE,DV1PCW,Mixed Mode
 DX1R,Marikina,National Capital Region,Philippines,Master,1,431.65000,FM/Fusion,14.62578,121.12251,515100,"DX1R - Respopnders Amateur Radio Enthusiasts, Inc.",+5.000,ACTIVE,4I1RAC,Mixed Mode
 DX1HB,Marikina City,National Capital Region,Philippines,Master,1,431.80000,Brandmeister,14,121,515101,,+5.000,ACTIVE,DU1FV,TS1 TS2
@@ -10300,8 +10300,8 @@ LU5AM,Zona Norte,Buenos Aires,Argentina Republic,Master,7,147.19500,BM,-34.50850
 LU2CSG,Capital Federal,Ciudad de Buenos Aires,Argentina Republic,Master,1,434.65000,BM,-34.6374755,-58.4135532,722038,,-5.000,ACTIVE,LU2CSG,TS2
 LU1EQV,Salto,Buenos Aires,Argentina Republic,Master,1,147.90000,"BM, DMR",-34.281,-60.254,722039,"722, 7229",0.000,ACTIVE,LU1EQV,TS1 TS2
 LU8DRH,Bahia Blanca,Buenos Aires,Argentina Republic,Master,1,434.55000,bm,-38.731776,-62.252646,722040,Repetidor Digital Bahia Blanca,+5.000,ACTIVE,LU8DRH,TS1 TS2
-LU2BFM,Cordoba,Cordoba,Argentina Republic,Master,1,147.12500,Tg if,-34.885219899999996,-58.01925415969711,722041,,+0.600,ACTIVE,LU2BFM,TS1 TS2
-LU2BFM,Buenos Aires,Caba,Argentina Republic,Master,1,147.36000,BM,-34.885219899999996,-58.01925415969711,722042,,+0.600,ACTIVE,LU2BFM,TS1 TS2
+LU2BFM,Cordoba,Cordoba,Argentina Republic,Master,1,147.12500,Tg if,-31.6263070,-64.5518322,722041,,+0.600,ACTIVE,LU2BFM,Mixed Mode
+LU2BFM,Buenos Aires,Caba,Argentina Republic,Master,2,433.60000,BM,-34.885219899999996,-58.01925415969711,722042,,+5.000,ACTIVE,LU2BFM,TS1 TS2
 LU2CSG,Capital Federal,Buenos Aires,Argentina Republic,Peer,1,434.65000,BM,-34.5872935,-58.4320692,722043,,-5.000,ACTIVE,LU2CSG,TS1 TS2
 LU2CSG,Capital Federal,Ciudad de Buenos Aires,Argentina Republic,Master,1,434.70000,BM,-34.5872935,-58.4320692,722044,,+5.000,ACTIVE,LU2CSG,TS1 TS2
 LU2CSG,Capital Federal,Corrientes,Argentina Republic,Master,1,434.65000,BM,-34.5872935,-58.4320692,722045,,+5.000,ACTIVE,LU2CSG,TS1 TS2
