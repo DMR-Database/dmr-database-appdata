@@ -472,7 +472,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 475,KF6JXT,Scott P,Murrieta,California,United States
 476,KD2KUF,Paul,New York,New York,United States
 477,IW7CQN,Luigi,Brindisi,,Italy
-478,KC1FHZ,James W,Ware,Massachusetts,United States
+478,KC1FHZ,James,Ware,Massachusetts,United States
 479,KB3IUM,Timothy N,Wilmington,Delaware,United States
 480,4F4IX,Francisco,Naga City,Bicol Region,Philippines
 481,N8JLK,Jerry,Parma,Ohio,United States
@@ -4289,7 +4289,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4352,VE3RJE,Ralph,Timmins,Ontario,Canada
 4353,E23DDO,Parun,Bangkok,Bangkok,Thailand
 4354,VE8PR,Paulo,YELLOWKNIFE,Northern Territories,Canada
-4355,BG3IZM,Zhaolianyi,Hohhot,Inner Mongolia,China
+4355,BG3IZM,Zhao,Hohhot,Inner Mongolia,China
 4356,E25TNJ,Apichart,Nong Hoi,Chiang Mai,Thailand
 4357,IZ5UFP,Max,Grosseto,Tuscany,Italy
 4358,SP0V,Andrzej,Warszawa,mazowieckie,Poland
@@ -6063,7 +6063,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 6155,BG5IVL,Jun,Gan Zhou,Zhejiang Fujian Jiangxi,China
 6156,KK7DBC,Scott,Newport,Washington,United States
 6157,JJ1TXL,Fox,Tokyo,Kanto,Japan
-6158,BG5IEV,Min,None,Zhejiang Fujian Jiangxi,China
+6158,BG5IEV,Min,Nanchang,Zhejiang Fujian Jiangxi,China
 6159,KK7MNZ,Matt,Phoenix,Arizona,United States
 6160,M7EKF,Terry,South Hertfordshire,England,United Kingdom
 6161,ZL1OI,Ocean,Hamilton,North Island 2,New Zealand
@@ -6680,7 +6680,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 6784,UR6LRD,Vitaliy,Kharkiv,All Regions,Ukraine
 6785,KB8OAK,Dennis,Albion,Michigan,United States
 6786,KC0RAD,Richard,Colorado Springs,Colorado,United States
-6787,IZ2OAV,Alessandro,Lomazzo,,Italy
+6787,IZ2OAV,Alessandro,Lomazzo,Lombardy,Italy
 6788,F4JJY,Alexandre,Brumath,Alsace,France
 6789,EB3BZC,Alfonso,,Barcelona,Spain
 6790,PU4RHS,Rafael Henrique,Matozinhos,Minas Gerais,Brazil
@@ -9747,7 +9747,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 9890,WA9SAW,Sean,Worthville,Kentucky,United States
 9891,WA0LM,Len,Little Falls,Minnesota,United States
 9892,W4GRR,Robert,Dunedin,Florida,United States
-9893,VU3XFQ,Nikunj,Karnavati - Ahmedabad,Gujarat,India
+9893,VU3XFQ,Nikunj,Ahmdavad,Gujarat,India
 9894,KQ4VPC,Peter,Olive Branch,Mississippi,United States
 9895,KI8A,Rod,Howell,Michigan,United States
 9896,KF0APA,Gregory S,Lebanon,Missouri,United States
@@ -14093,6 +14093,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 14288,K7RAL,Ryan,Middleburg,Florida,United States
 14289,WP4OHW,Javier,Yabucoa,All Regions,Puerto Rico
 14290,R9WKD,Sergei,Ufa,All Regions,Russia
+14291,WA3QJL,Gerry,Steelton,Pennsylvania,United States
 14292,OK1WJA,Petr,Nejdek,Karlovy Vary Region,Czech Republic
 14293,R1BRR,Ivan,Saint-Petersburg,All Regions,Russia
 14294,HB3XZJ,Guido,Spiez,Bern,Switzerland
@@ -14442,7 +14443,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 14639,KR3Y,Robert,Hanover,Pennsylvania,United States
 14640,W0ME,Hojin,Rochester,Minnesota,United States
 14641,W6AOA,Edwin,Pensacola,Florida,United States
-14642,KO6NPZ,Kevin,San Diego,California,United States
+14642,KS9B,Kevin,San Diego,California,United States
 14643,6L5UBL,Kimjaeseob,Gyeongju-Si,KyungSang Buk-Do,Korea Republic of
 14644,GM0OCH,Ian,Glasgow,Scotland,United Kingdom
 14645,BG7MUK,Yongkui,Maoming,Hunan Guangdong Guangxi Hainan,China
@@ -15033,6 +15034,18 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 15231,SV1DKN,Nikos,Voula,Attiki  Sterea Ellada  Dytiki Ellada,Greece
 15232,KF8GUH,Khris,Greenville,Michigan,United States
 15233,MM7CJS,Craig,Leven,Scotland,United Kingdom
+15234,K3JSC,Colton,New Castle,Delaware,United States
+15235,KA0RQN,Jonathan,Des Moines,Iowa,United States
+15236,KD6TLC,Matthew,Weaverville,California,United States
+15237,WB5ALF,Alessandro,Eatontown,New Jersey,United States
+15238,YD3BHZ,Wiyana,Probolinggo,Jawa Timur,Indonesia
+15239,TA7CWW,Ersin,Tunceli,Eastern Anatolia Region,Turkiye
+15240,DA1RGG,Ralf,Leverkusen,Nordrhein-Westfalen,Germany
+15241,TA2GCL,Enes,Ankara,Central Anatolia Region,Turkiye
+15242,TA3CWA,Mehmet,Bursa,Marmara Region,Turkiye
+15243,KM6SOX,Anthony,El Centro,California,United States
+15244,N7EZ,Chris,Tucson,Arizona,United States
+15245,DL3RBW,Rainer,Olfen,Nordrhein-Westfalen,Germany
 15777,BG6RKE,Wang,hubei,Henan Hubei Anhui,China
 16032,N7ISP,Adam,Post Falls,Idaho,United States
 16033,N7ISP,Adam,Post Falls,Idaho,United States
@@ -15988,7 +16001,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 34135,DO3DN,Horst,Bochum,,Germany
 34149,IV3JDV,Roby,Trieste,Veneto  Trentino-AA  Friuli-VG,Italy
 34239,W2ITG,Mark,Somerset,New Jersey,United States
-34240,IQ3UD,ARI UDINE,Udine,,Italy
+34240,IQ3UD,Ari,Udine,Veneto  Trentino-AA  Friuli-VG,Italy
 34397,DO2QG,Andreas,Bad Driburg,Nordrhein-Westfalen,Germany
 34538,N2VYT,Patrick E,Fords,New Jersey,United States
 34539,AC4PS,Peter,Jacksonville,Florida,United States
