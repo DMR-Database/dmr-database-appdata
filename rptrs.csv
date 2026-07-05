@@ -1107,7 +1107,7 @@ IR0ZXT,Oristano,Lazio / Umbria / Sardinia,Italy,Master,1,430.76250,222242,DMR,22
 IR0ZZY,Anzio,Lazio / Umbria / Sardinia,Italy,Master,1,431.25000,222243,BRANDMEISTER,222243,1,,+1.600,IU0HJY,TS2
 IR7ZZY,Bari,Apulia / Basilicata,Italy,Master,1,430.35000,222244,bm,222244,1,TG 2227503,+5.000,IZ7JWW,TS1 TS2
 IR5ZYZ,Bibbiena,Tuscany,Italy,Master,1,430.08750,222246,"BM, dstar, ircddb",222246,1,,+5.000,IW5ELP,TS1 TS2
-IR7ZZN,Torremaggiore,Apulia / Basilicata,Italy,Peer,1,431.40000,222247,BM,222247,0,"Statici - TG 222 Italia, TG 22271 Puglia<br>On Demand ALL<br>",+1.600,IU7MNA,TS1 TS2
+IR7ZZN,Torremaggiore,Apulia / Basilicata,Italy,Peer,1,431.40000,222247,BM,222247,0,"Statici - TG 222 Italia, TG 22271 Puglia<br>On Demand ALL",+1.600,IU7MNA,TS1 TS2
 IR3ZXU,Castello Tesino,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.95000,222248,BM,222248,0,,+5.000,IW3BVS,TS1 TS2
 IR0ZYH,Rocca Priora RM,Lazio / Umbria / Sardinia,Italy,Peer,1,430.27500,222249,ADN-2224,222249,1,SL1 = TG222<br>SL1 = TG222995<br>SL2 = TG22201,+1.600,IU6SSZ,TS1 TS2
 IR1ZYN,Santo Stefano d Aveto,Piedmont / Liguria / Aosta,Italy,Master,1,430.52500,222250,BM,222250,1,,+5.000,IW4ELZ,TS1 TS2
@@ -1309,6 +1309,7 @@ IR8ZXF,Roccella Ionica,Molise / Campania / Calabria,Italy,Peer,1,430.02500,22246
 IR0ZYU,Calvi dell'Umbria,Lazio / Umbria / Sardinia,Italy,Peer,1,431.46250,222470,BrandMeister,222470,1,None,+1.600,IW0REF,TS1 TS2
 IR8ZXN,Santa Caterina dello Ionio,Molise / Campania / Calabria,Italy,Master,1,145.57500,222471,BM,222471,1,Ts2 on 22282 (Tg Calabria),-0.600,IU8TIR,TS1 TS2
 IR4ZZD,Borgo Val Di Taro,Emilia-Romagna,Italy,Master,1,435.87500,222472,BM,222472,1,None,0.000,IZ1MLF,TS2
+IR8DY,Monte Vulture,Apulia / Basilicata,Italy,Peer,1,145.65000,222473,HamThings,222473,1,None,-0.600,IU7MNA,TS1 TS2
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,222500,DMR-plus,222500,1,,+5.000,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,222501,DMR-plus,222501,1,,5.000,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,222502,BM,222502,1,,5.000,IK5BNG,TS1 TS2
@@ -1372,7 +1373,7 @@ IR7BH,Castelnuovo d Daunia,,Italy,Peer,1,431.40000,222700,BM,222700,1,,1.600,IW7
 IR7BU,Bari,,Italy,Peer,1,145.58750,222701,BM,222701,0,,-0.600,IZ0QWM,TS1 TS2
 IR7AZ,Montenero Foggia,,Italy,,1,430.42500,222702,BM,222702,1,,5.000,IW7DZR,TS1 TS2
 IR7UCI,Bitonto,,Italy,,1,430.41250,222703,DMR-plus,222703,0,,5.000,IZ7GLL,TS1 TS2
-IR7UCH,TRICARICO,,Italy,,1,430.12500,222704,BrandMeister,222704,1,,-1.600,IK7SHC,
+IR7UCH,TRICARICO,Apulia / Basilicata,Italy,Peer,1,430.12500,222704,BrandMeister,222704,1,,-1.600,IK7SHC,Mixed Mode
 IR7BY,Brindisi,,Italy,,1,145.57500,222706,None,222706,1,,-6.000,IZ7DZO,
 IR7UE,PARABITA (LE),,Italy,,1,430.05000,222707,BrandMeister,222707,1,,1.600,IK7YTQ,
 IR7UBV,Brindisi,Apulia / Basilicata,Italy,Peer,7,430.62500,222708,DMR,222708,0,,5.000,IW7CRP,TS1 TS2
@@ -3459,7 +3460,7 @@ DB0WA,Aachen,Nordrhein-Westfalen,Germany,Peer,1,438.68750,262402,IPSC2,262402,1,
 DB0DW,Boenen,Nordrhein-Westfalen,Germany,,1,145.57500,262403,DMR-plus,262403,1,,-0.600,DL7DW,TS1 TS2
 DB0YS,Kreuztal-Kindelsberg,Nordrhein-Westfalen,Germany,Peer,1,438.72500,262404,BM,262404,1,,-7.600,DF1DU,TS1 TS2
 DB0BS,Bochum,Nordrhein-Westfalen,Germany,Peer,1,438.25000,262405,DMR-plus,262405,1,,-7.600,DL1YBL,TS1 TS2
-DB0IUZ,Bochum/Sundern,,Germany,Peer,1,438.25000,262406,DMR-plus,262406,1,,-7.600,DG3JKB,TS1 TS2
+DB0IUZ,Bochum,Nordrhein-Westfalen,Germany,Peer,1,438.25000,262406,DMR-plus,262406,1,,-7.600,DG3JKB,TS1 TS2
 DB0END,Ennepetal-Stueting,Nordrhein-Westfalen,Germany,,1,439.27500,262407,DMR-plus,262407,0,,-7.600,DG8DCH,TS1 TS2
 DB0IGA,Pulheim,Nordrhein-Westfalen,Germany,,1,439.82500,262408,BM,262408,1,,-9.400,DL1KJ,TS1 TS2
 DL1KJ,Pulheim,Nordrhein-Westfalen,Germany,,1,439.51250,262409,DMR-plus,262409,1,,-7.600,DO1PA,TS1 TS2
@@ -3832,7 +3833,7 @@ DB0ABL,Neuposa,Sachsen / Thueringen,Germany,Peer,1,439.90000,262987,Brandmeister
 DB0GTH,Gotha,,Germany,,1,438.30000,262988,BM,262988,1,,-7.600,DL2AJB,TS1 TS2
 DB0SBN,Sonneborn,,Germany,,1,430.38750,262989,DMR-plus,262989,0,,0.000,DL2AJB,TS1 TS2
 DM0LC,Leipzig Suedost,,Germany,,1,439.38750,262990,DMR-plus,262990,1,,-7.600,DG5LC,TS1 TS2
-DB0ABL,Meuselwitz,,Germany,,1,144.82500,262997,None,262997,1,,0.000,DM1AN,
+DB0ABL,Neuposa,Sachsen / Thueringen,Germany,Peer,1,439.95000,262997,Brandmeister,262997,1,,-9.400,DM1AN,Mixed Mode
 DB0INS,Grosser Inselsberg,,Germany,,1,438.35000,262998,DMR-plus,262998,1,,-7.600,DB5SB,TS1 TS2
 DB0BI,Bielefeld,Nordrhein-Westfalen,Germany,,1,439.82500,263400,None,263400,1,,-9.400,DL3YEN,
 DB0NLH,Borgholzhausen,Nordrhein-Westfalen,Germany,,1,438.45000,263401,None,263401,1,,-7.600,DD5CC,
@@ -4289,7 +4290,7 @@ VA3ROG,Collingwood,Ontario,Canada,Master,293,146.79000,302071,BM,302071,1,,-0.60
 VA3IMB,Edgar,Ontario,Canada,Master,293,147.28500,302072,BM,302072,1,Timeslot 1- Group Call 302 = Canada<br>Timeslot 2 - Group Call 2 = SGBARC Cluster,+0.600,VE3XF,Mixed Mode
 VA2HRP,Sainte-Flore,Quebec,Canada,Peer,1,443.50000,302073,Brandmeister,302073,1,,+5.000,"VE2IV, VE2NFT",TS1 TS2
 VE2RPE,St-Rosaire,Quebec,Canada,Peer,1,449.27500,302075,Brandmeister,302075,1,,-5.000,"VE2IV, VE2NFT",TS1 TS2
-VE2RRJ,Maskinonge,Quebec,Canada,Peer,3,442.20000,302076,BM,302076,1,,+5.0000,VA2IX,TS1 TS2
+VE2RRJ,Maskinonge,Quebec,Canada,Peer,3,442.20000,302076,BM,302076,1,,+5.0000,"VA2IX, VE2NFT",TS1 TS2
 VA3BAL,Ballantrae,Ontario,Canada,Peer,1,444.98750,302077,Brandmeister,302077,1,,+5.000,"VE3CA, VE3PWR",TS1 TS2
 VA3JCD,Brantford,Ontario,Canada,Peer,1,442.36250,302078,BrandMeister,302078,1,,+5.000,VA3JCD,TS1 TS2
 VA3JCD,Brantford,Ontario,Canada,Peer,1,444.36250,302079,BrandMeister,302079,1,,+5.000,VA3JCD,TS1 TS2
@@ -7089,6 +7090,7 @@ N0VZC,Saint Bonifacius,Minnesota,United States,Peer,5,443.00000,312725,MNTRBO,31
 N0NKI,Chaska,Minnesota,United States,Peer,1,443.95000,312726,Brandmeister,312726,1,"TS1 Full-time MN State @ 3127<br>TS2 open for any PTT activations.<br>Also on TS2 - TG 32172 is the Brandmiester based Metro talk group, it is full time connected to time-slot 2 on all Twin Cities Brandmeister repeaters. Keep in mind the possible conflicts with other users of dynamic talk-groups on time-slot 2. It is most often used for events so as to keep Minnesota-State(3127) available.",+5.000,N0NKI,TS1 TS2
 WA0CQG,Bloomington,Minnesota,United States,Master,1,442.15000,312728,Brandmeister,312728,1,,+5.000,WA0CQG,TS1 TS2
 KC0NPA,Shakopee,Minnesota,United States,Peer,1,444.72500,312729,Brandmeister,312729,1,,+5.000,KC0NPA,TS1 TS2
+K0WPD,Clara City,Minnesota,United States,Master,3,443.35000,312730,brandmeister,312730,1,Home Brew Repeater using 2 Motorola GM300 Radios interfaced with MMDVM board on a Rasbian os.  (Switching to PI-Star software)<br>Located in Clara City MN. Running @ approx 10 Watts ON A 20FT MAST POLE.<br>DMR repeater 443.3500 + 5 CC 3 Approx 10 mile coverage.<br>MN STATE 3127 TS1 (10min limit)<br>CM DMR 31271 TS 2<br>SOUTHERN MN 31275 TS 2<br>MIDWEST 3169 TS 2<br>NORTHSTAR 31273 TS 2<br>METRO 31272 TS2<br><br>THANKS FOR USING THE CLARA CITY DMR REPEATER. ENJOY!,+5.000,K0WPD,TS1 TS2
 WJ0U,St Cloud,Minnesota,United States,Peer,3,442.22500,312731,Brandmister,312731,1,,+5.000,WJ0U,TS1 TS2
 N4SFU,Twin City,Georgia,United States,Master,1,443.56250,312732,DMR-MARC,312732,1,,+5.00,N4SFU,TS1 TS2
 W0REA,White Bear Lake,Minnesota,United States,Peer,11,147.39000,312733,K4USD,312733,1,,+0.600,K0LAV,TS2
@@ -9050,6 +9052,7 @@ KF0WXX,Lincoln,Nebraska,United States,Peer,1,443.65000,315031,brandmeister,31503
 AA9RA,Chicago,Illinois,United States,Peer,1,442.17500,315032,BRANDMEISTER,315032,1,None,5.000,AA9RA,TS1 TS2
 K3EJ,Coatesville,Pennsylvania,United States,Peer,4,147.04500,315033,Brandmeister,315033,1,None,+0.600,K3EJ,TS1 TS2
 KG6TRQ,Pasadena,California,United States,Peer,8,441.38750,315034,BM,315034,1,None,5.000,KG6TRQ,TS1 TS2
+KE6GVK,Saint Johns,Arizona,United States,Peer,1,446.82500,315035,BRANDMEISTER / TGIF / XLX NETWORK,315035,1,,-5.000,KE6GVK,TS1 TS2
 KK7BSQ,RIO RICO,Arizona,United States,Peer,0,145.49000,315036,74.91.118.251,315036,1,None,-0.600,KK7BSQ,TS2
 W0WR,Partridge,Kansas,United States,Peer,1,146.67000,315037,Brandmeister,315037,1,None,-0.600,W0ZC,Mixed Mode
 K5TKR,Kilgore,Texas,United States,Peer,1,147.30000,315038,BM,315038,1,None,+0.600,K5TKR,TS1 TS2
@@ -9785,6 +9788,7 @@ VK3RTA,Beulah,Victoria,Australia,Peer,1,147.07500,505033,DMR-MARC,505033,1,,+0.6
 VK2RAY,ALBURY NSW 2640,New South Wales,Australia,Peer,1,438.57500,505034,DMR,505034,1,"Placeholder for now, still under construction.",-5.000,VK2EWC,TS1 TS2
 VK2RUM,Lower_Hunter,New South Wales,Australia,Peer,1,438.62500,505035,DMR-MARC,505035,1,,-7.000,VK2FC,TS1 TS2
 VK3RAH,Knoxfield,Victoria,Australia,Peer,1,438.85000,505036,Brandmeister,505036,1,Switched over to Brandmeister 24/07/22.<br>Static TG's:<br>TS1 - TG 505<br>TS2 - TG 5053<br><br>All other TG's are user activated.,-7.0,"VK3AH, VK3SMC",TS1 TS2
+VK2RBA,Bombala,New South Wales,Australia,Master,1,438.83750,505037,VK-DMR,505037,1,,-7.000,VK2ARN,TS1 TS2
 VK3RAJ,Upwey,Victoria,Australia,Peer,1,438.77500,505038,VK-DMR,505038,1,,-7.000,VK3AJ,TS1 TS2
 VK3RSA,Emerald,Victoria,Australia,Peer,1,438.80000,505039,VK-DMR,505039,1,,-7.000,VK3AJ,TS1 TS2
 VK3RYN,Yallourn North,Victoria,Australia,Peer,1,438.72500,505041,VK-DMR,505041,1,,-7.000,VK3AJ,TS1 TS2
