@@ -457,8 +457,8 @@ F1ZIC,Combe belle et cote,,France,,0,430.03750,208201,DMR-plus,208201,0,,9.400,F
 F1ZJI,Villard st christoph,,France,,1,430.06250,208202,BM,208202,0,,9.400,F4AII,TS1 TS2
 F1ZJJ,ST JEAN DE MOIRANS,Normandie,France,,1,430.08750,208203,DMR-plus,208203,0,,9.400,F5STQ,TS1 TS2
 F1ZCK,Planfoy,,France,,1,430.32500,208204,BM,208204,1,,9.400,F4EED,TS1 TS2
-F1ZJL,PUY SAINT MARTIN DEP,,France,,1,439.57500,208205,DMR-plus,208205,0,,-7.600,F4FAA,TS1 TS2
-F1ZEM,VALENCE,,France,,1,433.15000,208206,DMR-plus,208206,0,,-1.600,F4FAA,TS1 TS2
+F1ZJL,MONTELIMAR,Auvergne-Rhone-Alpes,France,Peer,1,439.57500,208205,DMR-plus,208205,0,,-7.600,F4FAA,TS1 TS2
+F1ZEM,MONTELIMAR,Auvergne-Rhone-Alpes,France,Peer,1,433.15000,208206,DMR-plus,208206,0,,-1.600,F4FAA,TS1 TS2
 F1ZDR,SUSVILLE,,France,,1,439.51250,208207,DMR-plus,208207,0,,-9.400,F4AII,TS1 TS2
 F1ZDI,Lyon area,Auvergne-Rhone-Alpes,France,Master,1,439.35000,208208,none,208208,0,,-7.600,F1JMN,TS1 TS2
 F1ZJH,LYON,Auvergne-Rhone-Alpes,France,Master,1,439.56250,208209,BM,208209,1,,-7.600,F1JMN,TS1 TS2
@@ -2658,12 +2658,12 @@ YL3RQY,Inciems  Siguldas Novads,,Latvia,Master,1,438.45000,247017,DMR,247017,1,,
 YL3RKT,ZILAISKALNS,All Regions,Latvia,Master,1,438.52500,247018,YL-DMR,247018,1,"TS-1, TG:247",-7.6,YL3KT,TS1
 YL3RPD,Sigulda,All Regions,Latvia,Master,1,438.65000,247019,"BM, YL-DMR",247019,1,,-7.6,YL3PD,TS1 TS2
 YL3RIY,Riga,All Regions,Latvia,Master,1,438.20000,247020,YL-DMR,247020,1,"TS-1, TG:247",-7.600,"YL3IY, YL3KT",TS1
-ES1DMR,Tallinn,,Estonia,Master,1,434.58750,248001,BM,248001,1,"FM CTCSS 82,5<br>TS1 TG24804<br>TS2 TG248",-2.000,ES2AST,Mixed Mode
-ES2DMR,Harjumaa,,Estonia,Master,1,434.58750,248002,BM,248002,1,"FM CTCSS 82,5<br>TS1 TG24804<br>TS2 TG248",-2.000,ES2AST,Mixed Mode
+ES1DMR,Tallinn,All Regions,Estonia,Master,1,434.58750,248001,BM,248001,1,"FM CTCSS 82,5<br>TS1 TG24804<br>TS2 TG248",-2.000,ES2AST,Mixed Mode
+ES2DMR,Kose,All Regions,Estonia,Master,1,434.58750,248002,BM,248002,1,"FM CTCSS 82,5<br>TS1 TG24804<br>TS2 TG248",-2.000,ES2AST,Mixed Mode
 ES4RVN,Narva,All Regions,Estonia,Master,1,145.67500,248003,BM,248003,1,24804,-0.600,ES4RM,TS1 TS2
 ES4RUN,Narva,All Regions,Estonia,Master,1,438.72500,248004,BM,248004,1,24814,-7.600,ES4RM,TS1 TS2
 ES5DMR,Tartu,,Estonia,Peer,1,438.97500,248005,BM,248005,1,TG248,-7.6,ES5TO,TS1 TS2
-ES1RVA,Tallinn,,Estonia,Master,1,145.77500,248006,BM,248006,1,"FM CTCSS 82,5<br>TS1 TG24804<br>TS2 TG248",-0.600,ES2AST,Mixed Mode
+ES1RVA,Tallinn,All Regions,Estonia,Master,1,145.77500,248006,BM,248006,1,"FM CTCSS 82,5<br>TS1 TG24804<br>TS2 TG248",-0.600,ES2AST,Mixed Mode
 ES4RVK,Kohtla-Jrve,,Estonia,Master,1,145.72500,248007,BM,248007,1,"248, 24804, 24814, 248112",-0.600,ES4RM,TS1 TS2
 ES8DMR,Lihula,All Regions,Estonia,Master,1,438.65000,248008,BM,248008,1,,-7.6,ES8AT,Mixed Mode
 ES3DMR,Rapla,All Regions,Estonia,Master,1,438.80000,248009,BM,248009,1,,-7.6,ES2AST,TS1 TS2
@@ -2888,7 +2888,6 @@ SR7LL,Lodz,dzkie,Poland,Master,1,145.71250,260002,Brandmeister,260002,1,,-0.600,
 SR3DOS,Ostrow Wielkopolski,wielkopolskie,Poland,Master,1,438.28750,260003,"Brandmeister,BM",260003,1,DMR+C4FM+D-STAR<br>438.2875MHz -7.600,-7.600,SQ3KNL,TS1 TS2
 SR2BYD,Bydgoszcz,kujawsko-pomorskie,Poland,Master,2,145.78750,260004,"Brandmeister, DMR-plus",260004,1,260,-0.600,SQ2AGA,TS1 TS2
 SR3DRW,Rawicz,wielkopolskie,Poland,Master,1,438.33750,260005,Brandmeister,260005,1,,-7.600,SP3QYJ,TS1 TS2
-SR9DBY,Bytom,lskie,Poland,Master,9,439.15000,260006,Brandmeister,260006,1,,-7.600,SQ9GIN,TS1 TS2
 SR7LDX,Lodz,dzkie,Poland,Master,1,439.50000,260007,Brandmeister,260007,1,,-7.600,SQ7SCC,Mixed Mode
 SR5SE,Siedlce,mazowieckie,Poland,Master,1,438.75000,260008,Brandmeister,260008,1,,-7.600,SQ5APT,Mixed Mode
 SR2BB,Bydgoszcz,kujawsko-pomorskie,Poland,Master,2,439.41250,260010,"Brandmeister, DMR-plus",260010,1,TS1(260),-7.600,SQ2AGA,TS1 TS2
@@ -3090,7 +3089,6 @@ SR9NS,Nowy Sacz,maopolskie,Poland,Master,1,439.22500,260923,Brandmeister,260923,
 SR9DDP,Gora Kicarz,maopolskie,Poland,Master,1,438.55000,260924,Brandmeister,260924,0,,-7.600,SQ9OKT,TS1 TS2
 SR9CSR,Osiek,maopolskie,Poland,Master,1,439.51250,260925,Brandmeister,260925,1,,-7.600,SP9LVZ,TS1 TS2
 SR9DSK,Szczawnica,maopolskie,Poland,Master,1,438.52500,260926,Brandmeister,260926,1,,-7.600,SQ9OKT,TS1 TS2
-SR9UW,Katowice,lskie,Poland,Master,9,439.05000,260927,Brandmeister,260927,1,,-7.600,SQ9GIN,TS1 TS2
 SR9DCH,Orzesze,lskie,Poland,Master,9,439.42500,260928,"Brandmeister, HBLink",260928,1,,-7.600,SP9CH,TS1 TS2
 SR9TM,Pcim-Kudlacze,maopolskie,Poland,Master,9,438.51250,260929,Brandmeister,260929,0,,-7.600,SQ9TM,TS1 TS2
 SR9DX,Bytom,lskie,Poland,Master,1,145.57500,260930,Brandmeister,260930,1,,-0.600,SQ9SBE,TS1 TS2
@@ -4595,7 +4593,7 @@ VE3EUC,Alma,Ontario,Canada,Peer,1,444.53750,302430,BM,302430,1,TG for Elmira Rad
 VE9ARC,Moncton,New Brunswick,Canada,Peer,1,147.19500,302431,RXP25,302431,1,,+0.600,VE9HV,TS1
 VE7USA,Victoria,British Columbia,Canada,Peer,1,444.25000,302432,dmr-marc,302432,1,,+5.00,VE7BEU,TS1 TS2
 VE9DRS,Sussex Corner,New Brunswick,Canada,Peer,1,444.62500,302434,BM,302434,1,,+5.000,VE9SDH,TS1 TS2
-VE9RDR,Moncton,New Brunswick,Canada,Peer,1,145.49000,302435,BM,302435,1,,-0.600,VE9SC,TS2
+VE9RDR,Moncton,New Brunswick,Canada,Peer,1,145.49000,302435,BM,302435,1,,-0.600,VE9SC,TS1 TS2
 VE3FKD,Rice Lake,Ontario,Canada,Peer,1,146.48000,302436,BM,302436,1,Currently Simplex test and Timeslot 2 can be assigned to any Talkgroup.<br>Contact Bob VE3IDZ via QRZ with any questions,-0.0000,VE3RXW,TS2
 VE3YTA,Pembroke,Ontario,Canada,Master,1,145.35000,302437,BM,302437,1,,-0.600,VE3JLR,Mixed Mode
 VE7BUL,Prince George,British Columbia,Canada,Peer,1,433.50000,302438,BM,302438,1,Parameters may change. Location will change once site is secured.<br>It's a work in progress.,+5.000,VE7BUL,TS2
@@ -8124,7 +8122,7 @@ N8FIS,Fremont,Ohio,United States,Peer,7,443.00000,313990,Brandmeister,313990,1,,
 W8NP,Canton,Ohio,United States,Peer,7,444.78750,313991,Brandmeister,313991,1,,+5.000,W8NP,TS1 TS2
 W2NAV,East Amherst,New York,United States,Master,1,441.37500,313992,DMR,313992,0,,+5.000,W2NAV,TS1 TS2
 W4FAN,Wingate,North Carolina,United States,Master,1,444.86250,313993,BM,313993,1,Multimode Repeater,+5.000,K4FAN,TS1 TS2
-KD0JJG,Davenport,Iowa,United States,Master,1,146.64000,313994,bm,313994,1,"DMR C4FM, And D-star",-0.600,"KD0JJG, KD0JNQ",Mixed Mode
+KD0JJG,Davenport,Iowa,United States,Master,1,146.64000,313994,BrandMeister/ TGIF,313994,1,"DMR C4FM, And D-star",-0.600,"KD0JJG, KD0JNQ",Mixed Mode
 KJ7ZPM,Hoquiam,Washington,United States,Master,1,224.10000,313995,PNW Digital,313995,0,,-1.6,KJ7ZPM,TS1 TS2
 N1DTA,Stanford,Kentucky,United States,Peer,1,444.91250,313996,kentuckydmr c bidge,313996,1,,+5.000,N1DTA,TS1 TS2
 KF0CVE,Excelsior Springs,Missouri,United States,Peer,1,444.10000,313997,BM,313997,1,,+5.000,KF0CVE,TS1 TS2
@@ -9065,7 +9063,7 @@ N5VGK,tupelo,Mississippi,United States,Peer,1,145.49000,315048,BRANDMEISTER,3150
 W8VD,New HAVEN,Michigan,United States,Peer,1,147.37000,315049,Brandmeister,315049,1,None,0.600,W8VD,TS1 TS2
 KC9PXI,Tuscola,Illinois,United States,Master,1,146.95500,315050,Brandmeister,315050,1,dcara.il@gmail.com,-0.600,KC9JVR,TS1
 WA4AAZ,CASTLE HAYNE,North Carolina,United States,Peer,3,444.98750,315051,BrandMeister,315051,1,None,+5.000,WA4AAZ,TS1 TS2
-W1ASS,Deerfield,New Hampshire,United States,Master,1,927.68750,315052,Brandmaster,315052,1,None,-25.000,W1ASS,Mixed Mode
+W1ASS,Deerfield,New Hampshire,United States,Master,1,927.68750,315052,BrandMeister,315052,1,None,-25.000,W1ASS,Mixed Mode
 AA5SG,Ellisville,Mississippi,United States,Peer,0,441.21250,315053,Brandmeister,315053,1,None,+5.000,AA5SG,Mixed Mode
 N7COX,Star,Idaho,United States,Peer,1,444.55000,315054,Brandmiester,315054,1,None,+5.000,N7COX,TS1
 N4TAE,Theodore,Alabama,United States,Peer,7,145.13000,315055,AmComm,315055,1,None,-0.600,N4TAE,TS1 TS2
