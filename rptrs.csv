@@ -583,7 +583,7 @@ F1ZIX,Montataire,,France,,1,430.10000,208960,BM,208960,0,,9.400,F4FSD,TS1 TS2
 F5ZYX,Harnes,,France,,0,432.82500,208961,BM,208961,1,,-1.600,F4HTN,TS1 TS2
 F1ZVV,Saint-Martin-Boulogne,Hauts-de-France,France,Peer,1,439.95000,208962,BM,208962,1,,-9.400,F4INM,TS1
 F1ZKY,Cappelle la Grande,Hauts-de-France,France,Master,1,430.17500,208963,"BM, YSFReflector",208963,1,,+9.400,F4VSE,TS1 TS2
-F5ZMI,ESLETTES-NORMANDIE,,France,,1,430.42500,208970,BM,208970,1,,9.400,F5ETL,
+F5ZMI,St Nicolas,Normandie,France,Peer,1,430.42500,208970,"BM, ADN, XLX",208970,1,,9.400,F4BVC,TS1 TS2
 F1ZLN,HARBOUEY,,France,,1,430.48750,208973,BM,208973,0,,9.400,F4BIT,TS1 TS2
 F5ZPL,Bihorel,Centre-Val de Loire,France,Master,1,430.55000,208976,BM,208976,1,,+9.4,F6BTP,TS1 TS2
 F1ZRW,LE HAVRE,Normandie,France,Peer,1,430.07500,208977,BM,208977,1,,+1.600,F4GYB,TS1 TS2
@@ -2769,7 +2769,7 @@ RD3X,,,Russia,,1,439.10000,250346,BM,250346,0,,-9.000,RD3X,TS1 TS2
 R2DWL,Stupino,,Russia,Master,1,144.86250,250348,BM,250348,1,TG1-2501 (Russia)<br>TG2-250653 (Stupino),+0.600,R2DWL,TS1 TS2
 R2DLA,Domodedovo,All Regions,Russia,Master,9,439.25000,250349,BM,250349,0,None,-7.600,R2DLA,TS1 TS2
 RL3DW,,,Russia,,1,439.05000,250350,BM,250350,0,,-6.00,RL3DW,TS1 TS2
-R3IBI,,,Russia,,1,0.00000,250351,BM,250351,0,,,R3IBI,TS1 TS2
+R3IBI,Tver,All Regions,Russia,Peer,2,145.63750,250351,BM,250351,0,None,-0.600,R3IBI,Mixed Mode
 RK3DIL,Shatura,,Russia,Master,1,434.52500,250352,BM,250352,0,None,+5.000,RK3DIL,TS1 TS2
 R3FH,Klimovsk,,Russia,Master,1,438.10000,250353,BM,250353,1,None,-7.600,R3FH,TS1 TS2
 RA4NHY,,,Russia,,1,433.05000,250401,BM,250401,0,,+6.800,RA4NHY,TS1 TS2
@@ -8239,7 +8239,7 @@ K5DY,Maben,Mississippi,United States,Master,1,444.32500,314124,Brandmeister,3141
 N6SBN,Capitola,California,United States,Master,1,146.91000,314125,BM,314125,1,,-0.600,N6SBN,TS1
 KK4CNMR,Grovetown,Georgia,United States,Master,1,224.50000,314127,TGIF,314127,1,,-1.600,KK4CNM,TS1
 K5STO,Wiggins,Mississippi,United States,Master,1,442.47500,314128,DMR-SE,314128,1,"TG 3128, MS Statewide - Timeslot 1<br>TG 312801, Lucedale - Timeslot 1<br>TG 31285, NE MS - Timeslot 1<br>TG 314128, McHenry - Timeslot 1<br><br>TG 31280, MS TAC - Timeslot 2<br>TG K5STO, Timeslot 2",+5.000,K5STO,Mixed Mode
-W6UDF,Cathlamet,Washington,United States,Peer,1,146.45000,314129,PNW,314129,0,,+1.0,W6UDF,TS1 TS2
+W6UDF,Cathlamet,Washington,United States,Peer,1,146.45000,314129,PNW,314129,0,,+1.0,"W6UDF, WA6TTR",TS1 TS2
 WY8G,Mount Gilead,Ohio,United States,Peer,1,224.94000,314130,BM,314130,1,THIS WILL BE A DSTAR REPEATER. PRIMARY REFLECTOR 030C,-1.6000,WY8G,TS1 TS2
 KB5BUN,Murphysboro,Arkansas,United States,Master,8,442.25000,314131,BM,314131,1,310501<br>310575<br>Ts1,+5.000,KB5BUN,TS1 TS2
 KE4TZN,Aurora,North Carolina,United States,Peer,1,440.55000,314132,NCPRN,314132,1,Color Code 1<br><br>Talkgroups Available on Time Slot 2<br><br>PRN - 2<br><br>Talkgroups Available on Time Slot 1<br><br>Local  27500<br>PRN Chat 1  27501<br>PRN Chat 2  27502<br>Echotest Server  9998,+5.00,KE4TZN,TS1 TS2
@@ -9074,6 +9074,7 @@ W4BAD,Durham NC,North Carolina,United States,Peer,1,440.65000,315059,Brandmister
 K5WHB,Corinth,Mississippi,United States,Peer,1,444.98750,315060,tgif,315060,1,None,+5.000,K5WHB,TS1
 KC4AYX,Elizabethton,Tennessee,United States,Peer,9,223.80000,315061,Brandmeister,315061,1,None,-1.600,KC4AYX,TS2
 N6ZX,Woodside,California,United States,Peer,1,440.45000,315062,Brandmeister,315062,1,None,5.000,N6YP,TS1 TS2
+KG7VIQ,KINGSTON,Washington,United States,Master,1,440.00000,315064,TGIF,315064,1,None,+0.500,KG7VIQ,TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
@@ -10064,7 +10065,7 @@ E24DC,Chonburi,Bangkok,Thailand,Master,1,145.61250,520005,Linux,520005,1,,-0.600
 E25CL,Ranong,Bangkok,Thailand,None,1,145.73750,520006,None,520006,0,,-0.000,E29TXA,TS1 TS2
 E24DH,Ranong,Ranong,Thailand,None,1,146.61250,520007,internet,520007,0,,-0.600,VU3WXH,TS1 TS2
 E25CX,Muang,Ubon Ratchathani,Thailand,Master,1,145.73750,520008,DMR-MARC,520008,1,,-0.000,HS3SRS,TS1 TS2
-HS3AN,Nakhonratchasima,,Thailand,peer,1,145.61250,520009,None,520009,1,,-0.600,HS3LIQ,TS1 TS2
+HS3AN,Mueang,Nakhon Ratchasima,Thailand,Peer,1,145.61250,520009,None,520009,1,,-0.600,HS3LIQ,TS1 TS2
 E25FE,Muang Pathum Thani,Pathum Thani,Thailand,Master,1,145.55000,520010,BrandMeister,520010,1,status: Operation<br>Call sign: E25FE<br>Keeper: E23PKK<br>Mode: Digital Voice <br>Frequency: V74 - 145.5500 MHz<br>CTCSS Tone: -<br>Locator: OK03HK<br>,0.00,E23PKK,2
 HS8JCV,Hatyai,Songkhla,Thailand,Master,1,146.61250,520011,BrandMeister,520011,1,Songkhla Thailand DMR Repeater<br>Thailand Talkgroup (TG520)<br>Power by DTDXA,-0.600,HS8JCV,TS1 TS2
 HS1SXI,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,Thailand,Peer,1,145.55000,520012,BrandMeister,520012,1,,-0.0000,HS1SXI,TS2
@@ -10427,7 +10428,7 @@ PY4RBG,Ouro Preto,Minas Gerais,Brazil,Peer,1,146.65000,724124,IPSC2-BRASIL2,7241
 PY4RDI,Ouro Preto,Minas Gerais,Brazil,Peer,1,439.10000,724125,BM 7242,724125,1,Repetidora em Ouro Preto rede BM 7242,-5.000,PY4AC,TS1 TS2
 PP5FDG,Blumenau,Santa Catarina,Brazil,Master,1,439.40000,724126,BrandMeister,724126,1,FALCONS DX GROUP,-5.000,PP5CPJ,TS1 TS2
 PP5JMR,Curitibanos,Santa Catarina,Brazil,Master,1,439.65000,724127,Brandmeister,724127,1,,-5.000,PU5ADW,TS1 TS2
-PP5WK,Concrdia,Santa Catarina,Brazil,Master,1,439.50000,724128,BRANDMEISTER,724128,1,,-5.000,PP5PI,TS1 TS2
+PP5WK,Concordia,Santa Catarina,Brazil,Master,1,439.50000,724128,BRANDMEISTER,724128,1,,-5.000,PP5PI,TS1 TS2
 PY2KGV,JOANOPOLIS,Sao Paulo,Brazil,Master,1,145.31000,724129,BM,724129,1,,-0.600,PY4EI,TS1 TS2
 PY4RPW,Nova Lima,Minas Gerais,Brazil,Peer,1,147.12000,724130,BM 7242 Brasil,724130,1,TS1_1=724;TS2_1=72442,+0.600,PY4AC,TS1 TS2
 PY4RAD,Belo Horizonte - MG,Minas Gerais,Brazil,Peer,1,439.20000,724131,BM 72442 BRA,724131,1,,-5.000,PY4AC,TS1 TS2
