@@ -765,6 +765,7 @@ ED9YAB,Ceuta,Ceuta,Spain,,1,438.67500,214901,DMR-plus,214901,1,,-7.600,EA9CD,TS1
 HG1RUG,Gyor,Budapest,Hungary,Peer,8,439.27500,216001,2162,216001,0,,-7.6,HG1DFL,TS1 TS2
 HG7RUJ,Orbottyan,Pest,Hungary,Master,8,439.31250,216002,BM,216002,1,,-7.6,HG5BVA,TS1 TS2
 HG2RUK,Kab,Nyugat-Dunantul,Hungary,Master,8,438.30000,216003,BM,216003,1,,-7.600,HA9MDP,TS1 TS2
+HG5RUD,Budapest,Pest,Hungary,Peer,8,438.47500,216004,Brandmeister,216004,1,"ha5cd.hu@gmail.com<br>Budapest, Hungary",-7.600,HA5CD,TS1
 HG2RUE,Kabhegy,,Hungary,,8,438.30000,216101,BM,216101,1,,-7.600,HA5ZF,TS1 TS2
 HG1RUE,Gyor,,Hungary,,8,438.25000,216102,BM,216102,1,,-7.600,HA2IT,TS1 TS2
 HG1RUD,Gyor,,Hungary,,1,439.25000,216103,BrandMeister,216103,1,,-7.600,HA2IT,
@@ -1437,7 +1438,7 @@ IR9BJ,Citelli,Sicily,Italy,Peer,1,145.77500,222919,ts1,222919,1,,-0.600,IT9CUX,M
 IR9UBD,Monte Lauro,Sicily,Italy,,1,430.01250,222922,None,222922,1,,5.000,IW9BAX,
 IR9UBR,Jm78od,Sicily,Italy,,1,430.72500,222929,None,222929,0,,5.000,IW9BIP,TS1 TS2
 IR9UP,Caltagirone,Sicily,Italy,,1,430.02500,222959,None,222959,1,,1.600,IW9BJU,
-IR9UBA,CATANIA,Sicily,Italy,,1,430.15000,222972,None,222972,1,,1.600,IW9EFE,
+IR9UBA,CATANIA,Sicily,Italy,Peer,1,430.15000,222972,BrandMesiter,222972,1,,1.600,IW9EFE,TS1 TS2
 IR9AE,CATANIA,Sicily,Italy,,1,145.61250,222995,None,222995,1,,0.600,IT9SWH,
 IR9UAX,Bronte/maletto,Sicily,Italy,,2,430.32500,222998,None,222998,1,,1.600,IT9VPC,
 IR9UX,Catania,Sicily,Italy,Master,0,430.12500,222999,DMR-plus,222999,1,,1.600,IT9CUX,TS1 TS2
@@ -3021,7 +3022,7 @@ SR5OS,Ostroleka,mazowieckie,Poland,Peer,5,439.05000,260514,"BM, DMR-plus",260514
 SR5UOS,Ostroleka,mazowieckie,Poland,Master,5,438.91250,260515,"BM, DMR-plus, HBLink",260515,1,,-7.600,SP5NAF,TS1 TS2
 SR5WW,Warszawa,mazowieckie,Poland,Master,5,438.50000,260516,Brandmeister,260516,1,,-7.600,SP5TA,TS1 TS2
 SR5W,Warszawa,mazowieckie,Poland,Master,5,145.75000,260517,Brandmeister,260517,1,,-0.600,SP5TA,TS1 TS2
-SR5PLZ,Plock,mazowieckie,Poland,Master,1,439.38750,260520,Brandmeister,260520,1,,-7.600,SQ5CZP,TS1 TS2
+SR5PLZ,Plock,mazowieckie,Poland,Master,1,439.38750,260520,Brandmeister,260520,1,,-7.600,"SQ5EBC, SQ5NWH",TS1 TS2
 SR5OK,Kadzidlo,mazowieckie,Poland,Master,5,439.26250,260525,"BM, DMR-plus, HBLink",260525,1,,-7.600,SP5NAF,TS1 TS2
 SR5RK,Kozlowiec,mazowieckie,Poland,Master,5,438.75000,260530,Brandmeister,260530,1,,-7.600,SQ5DCP,TS1 TS2
 SR5UVR,Radom,mazowieckie,Poland,Master,5,438.52500,260540,Brandmeister,260540,1,,-7.600,SQ5DCP,TS1 TS2
@@ -3350,8 +3351,8 @@ DB0MDW,Meddewade,,Germany,,1,439.53750,262264,DMR-plus,262264,1,,7.600,DG4HA,TS1
 DM0UHF,Erkelenz,Nordrhein-Westfalen,Germany,Peer,1,439.45625,262265,brandmeister,262265,1,None,-7.600,DG2KCB,TS1 TS2
 DB0IL,Kiel,,Germany,,1,438.42500,262266,BM,262266,1,,-7.600,DL4LBY,TS1 TS2
 DM0ASH,Klingenthal,Sachsen / Thueringen,Germany,Master,1,438.61250,262267,DMR/D*/NXDN/YSF,262267,1,None,-7.600,DM8WP,Mixed Mode
-DB0HTV,Frankfurt am Main,Hessen,Germany,Peer,1,439.42500,262268,BM,262268,1,None,7.600,"DL1XM, DG3FBL",Mixed Mode
-DB0MMO,Esselbach,Bayern,Germany,Peer,1,439.87500,262269,BM,262269,1,None,-9.400,DH4FAJ,TS1 TS2
+DB0HTV,Frankfurt am Main,Hessen,Germany,Peer,1,439.42500,262268,BM,262268,1,intended for future bridges into various systems & multimode platform,7.600,"DL1XM, DG3FBL",Mixed Mode
+DB0MMO,Esselbach,Bayern,Germany,Peer,1,439.87500,262269,BM,262269,1,None,-9.400,"DH4FAJ, DO9FSC",TS1 TS2
 DB0SY,Fmt. HH-Lohbruegge,,Germany,,1,438.62500,262270,DMR-plus,262270,0,,-7.600,DL3HBO,TS1 TS2
 DB0XH,JO53CL,,Germany,,1,439.20000,262271,DMR-plus,262271,0,,-7.600,DL3HBO,TS1 TS2
 DB0ABG,Ahrensburg,,Germany,,1,439.50000,262273,DMR-plus,262273,1,,-7.600,DL5KUA,TS1 TS2
@@ -9077,6 +9078,8 @@ KG7VIQ,KINGSTON,Washington,United States,Master,1,440.00000,315064,TGIF,315064,1
 K8REX,Austin,Texas,United States,Peer,1,441.56250,315065,Brand Meister,315065,1,None,+5.000,K8REX,TS1 TS2
 AC4TC,Graysville,Alabama,United States,Peer,1,442.37500,315066,Brandmeister,315066,1,Test DMR Repeater for future DMR Repeater system.,+5.000,AC4TC,TS1 TS2
 WY5V,Mesquite,Texas,United States,Master,9,444.42500,315067,BRANDMEISTER,315067,1,"Andrew Carstarphen - WY5V<br>1409 Wesley Drive<br>Mesquite, Texas 75149-5667<br>(214) 469-7950",+5.000,WY5V,TS1 TS2
+N1DTA,radcliff,Kentucky,United States,Peer,1,444.13750,315068,kentuckydmr c bidge,315068,1,None,+5.000,N1DTA,TS1 TS2
+NG6K,Logan,Utah,United States,Peer,1,447.12500,315069,AmComm,315069,1,None,-5.000,NG6K,TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
