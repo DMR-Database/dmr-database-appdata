@@ -763,7 +763,7 @@ ED8ZAJ,Cumbre Nueva,,Spain,,1,438.55000,214816,None,214816,0,,-7.600,EA8RH,
 ED8ZAB,Vecindario,Las Palmas,Spain,Master,1,438.25000,214848,BM,214848,0,,-7.600,EA8EE,TS1 TS2
 ED9YAB,Ceuta,Ceuta,Spain,,1,438.67500,214901,DMR-plus,214901,1,,-7.600,EA9CD,TS1 TS2
 HG1RUG,Gyor,Budapest,Hungary,Peer,8,439.27500,216001,2162,216001,0,,-7.6,HG1DFL,TS1 TS2
-HG7RUJ,Orbottyan,Pest,Hungary,Master,8,439.31250,216002,BM,216002,1,,-7.6,HG5BVA,TS1 TS2
+HG7RUJ,Orbottyan,Pest,Hungary,Master,8,439.31250,216002,BM,216002,1,,-7.600,HG5BVA,TS1 TS2
 HG2RUK,Kab,Nyugat-Dunantul,Hungary,Master,8,438.30000,216003,BM,216003,1,,-7.600,HA9MDP,TS1 TS2
 HG5RUD,Budapest,Pest,Hungary,Peer,8,438.47500,216004,Brandmeister,216004,1,"ha5cd.hu@gmail.com<br>Budapest, Hungary",-7.600,HA5CD,TS1
 HG2RUE,Kabhegy,,Hungary,,8,438.30000,216101,BM,216101,1,,-7.600,HA5ZF,TS1 TS2
@@ -1315,6 +1315,7 @@ IR6S,Monte Pallano CH,Marche / Abruzzo,Italy,Peer,1,145.73750,222474,ADN-2224,22
 IR6AL,Pineto,Marche / Abruzzo,Italy,Peer,1,145.65000,222475,ADN-2224,222475,1,None,-0.600,IU6SSZ,Mixed Mode
 IR6ZZQ,Prata D'ansidonia,Marche / Abruzzo,Italy,Peer,1,430.30000,222476,ADN,222476,1,None,+1.600,IQ6VP,TS1 TS2
 IR6L,L'Aquila,Marche / Abruzzo,Italy,Peer,1,145.67500,222477,Hamthings,222477,1,None,-0.600,IQ6VP,Mixed Mode
+IR3CU,Forcella di Giais,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.25000,222478,Brandmeister,222478,1,None,1.600,IW3ROW,Mixed Mode
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,222500,DMR-plus,222500,1,,+5.000,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,222501,DMR-plus,222501,1,,5.000,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,222502,BM,222502,1,,5.000,IK5BNG,TS1 TS2
@@ -3325,7 +3326,6 @@ DB0MIA,Hohwacht Bucht,,Germany,,2,439.02500,262237,DMR-plus,262237,0,,7.600,DB9H
 DB0AW,ahaus,Nordrhein-Westfalen,Germany,Peer,1,439.16250,262239,BM,262239,1,,-7.600,DO1BTW,TS1 TS2
 DB0HPA,Laegerdorf,,Germany,Peer,1,439.51250,262240,DMR-plus,262240,1,,-7.600,DL9HPA,TS1 TS2
 DB0DND,Oberhausen,Bayern,Germany,Peer,1,438.86250,262241,BM,262241,1,,-7.6,DL2UKH,TS1 TS2
-DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,430.38750,262242,BM,262242,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-0.00001,DJ3LE,TS2
 DB0PEG,Pegnitz,Bayern,Germany,Master,1,438.93750,262243,Brandmeister,262243,1,None,7.600,"DK7AM, DO2SK, DB9CR",TS1 TS2
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,439.92500,262244,BM,262244,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.400,DJ3LE,TS1 TS2
 DO0ELM,Hemkenrode,Niedersachsen / Bremen,Germany,Master,1,439.15000,262245,DMR/FM,262245,0,2623 TS1<br>26538 (8) TS2,-7.600,DO2ARD,Mixed Mode
@@ -3344,7 +3344,7 @@ DB0DIT,Kronprinzenkoog,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.97500,262
 DB0ANT,Wolfenbuettel,Niedersachsen / Bremen,Germany,Master,1,145.68750,262258,Brandmeister,262258,1,None,0.600,DC2OS,TS1 TS2
 DB0RDS,Hassmoor,Hamburg / Schleswig-Holstein,Germany,Peer,1,438.55000,262259,2001,262259,1,None,7.600,DJ2TH,TS1 TS2
 DB0KUA,Luetjensee,,Germany,,1,438.52500,262260,DMR-plus,262260,1,,-7.600,DL5KUA,TS1 TS2
-DB0GSH,Goslar,Niedersachsen / Bremen,Germany,Peer,1,438.30000,262261,ipsc,262261,1,None,-7.600,DL4ABN,TS1 TS2
+DB0GSH,Goslar,Niedersachsen / Bremen,Germany,Peer,1,439.40000,262261,ipsc,262261,1,None,-7.600,DL4ABN,TS1 TS2
 DB0WI,erkelenz,Nordrhein-Westfalen,Germany,Master,1,438.67500,262262,dmr,262262,1,None,-7.600,DG2KCB,TS1 TS2
 DO0OHO,Heiligenhafen,,Germany,,1,438.87500,262263,BM,262263,1,,-7.600,DO3LMR,TS1 TS2
 DB0MDW,Meddewade,,Germany,,1,439.53750,262264,DMR-plus,262264,1,,7.600,DG4HA,TS1 TS2
@@ -4785,7 +4785,6 @@ KF6FM,Poway,California,United States,Master,2,446.03750,310139,Western States DM
 KF6FM,Coalinga,California,United States,Master,1,442.42500,310140,Western States DMR,310140,1,,-5.000,KF6FM,TS1 TS2
 KF6FM,Merced,California,United States,Master,1,442.40000,310141,Western States DMR,310141,1,,-5.000,KF6FM,TS1 TS2
 KF6FM,Riverside,California,United States,Master,1,448.15000,310142,Western States DMR,310142,1,,-5.000,KF6FM,TS1 TS2
-KB0YAS,Chillicothe,Missouri,United States,Peer,7,444.40000,310143,Brandmeister,310143,1,,+5.000,KB0YAS,TS1 TS2
 WB0OKX,Rockport,Missouri,United States,Peer,7,444.77500,310144,Brandmeister,310144,1,,+5.000,N2OYJ,TS1 TS2
 AE6TV,SAN BERNARDINO,California,United States,Master,1,449.16000,310145,Brandmeister,310145,1,,-5.000,AE6TV,TS1 TS2
 N5OZG,New Orleans,Louisiana,United States,Master,10,444.77500,310146,Brand mister,310146,0,,+5.000,N5OZG,Mixed Mode
@@ -9080,6 +9079,7 @@ AC4TC,Graysville,Alabama,United States,Peer,1,442.37500,315066,Brandmeister,3150
 WY5V,Mesquite,Texas,United States,Master,9,444.42500,315067,BRANDMEISTER,315067,1,"Andrew Carstarphen - WY5V<br>1409 Wesley Drive<br>Mesquite, Texas 75149-5667<br>(214) 469-7950",+5.000,WY5V,TS1 TS2
 N1DTA,radcliff,Kentucky,United States,Peer,1,444.13750,315068,kentuckydmr c bidge,315068,1,None,+5.000,N1DTA,TS1 TS2
 NG6K,Logan,Utah,United States,Peer,1,447.12500,315069,AmComm,315069,1,None,-5.000,NG6K,TS1 TS2
+AC3DB,Pittsburgh,Pennsylvania,United States,Peer,8,147.34500,315070,Brandmeister,315070,1,AC3DB,+0.600,AC3DB,TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
