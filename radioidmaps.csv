@@ -3130,6 +3130,7 @@ DB0OFL,Rhauderfehn,Niedersachsen / Bremen,Germany,Master,1,144.83750,"DMR, D-Sta
 DL0LGT,Wilhelmshaven,Niedersachsen / Bremen,Germany,Master,1,439.97500,BM,53.56845463131945,8.241287350265534,262016,portabel Repeater for events and tests,-9.4,ACTIVE,DL6BAJ,TS1 TS2
 DG3SBI,Alfdorf,Baden-Wuerttemberg,Germany,Master,1,439.31250,BM,0.0,0.0,262018,TG1: 2620<br>TG2: 26273<br>,-7.6,ACTIVE,DG3SBI,Mixed Mode
 DB0SKF,Freudenstadt,Baden-Wuerttemberg,Germany,Peer,1,438.27500,bm,48.436581,8.389080,262019,no static TG's,-7.600,ACTIVE,DJ2GZ,TS1 TS2
+DO0LP,Remscheid,Nordrhein-Westfalen,Germany,Master,1,438.33750,Bm,51.174198,7.217354,262020,"TS1 - TG 265112,     TS2 - TG 8 Bergisch Land (26313),     TS2 - TG 262020 (DOK R13)",-7.6000,ACTIVE,DO8LP,TS1 TS2
 DM0NBG,Nuernberg,Bayern,Germany,Peer,1,438.52500,BM,49.449326,11.148937,262021,,-7.600,ACTIVE,DL6WZ,TS1 TS2
 DM0NOR,Norderney,Hessen,Germany,Master,1,430.37500,BM,53.71468,7.170666,262022,,+0.000,ACTIVE,DL1BBR,Mixed Mode
 DO0SOC,Oldenburg,Hamburg / Schleswig-Holstein,Germany,Peer,1,438.67500,BM,54.335892,10.880600,262023,,-7.600,ACTIVE,DO2LMV,TS1 TS2
@@ -4686,7 +4687,7 @@ KC1AVD,dorchester,Massachusetts,United States,Peer,1,442.40000,comcast,42.293552
 K4LWC,MiltonK4LWCM,Florida,United States,Master,1,444.40000,Brandmeister,0.0,0.0,310031,,+5.000,ACTIVE,K4LWC,TS1 TS2
 KI7WQR,Malad City,Idaho,United States,Peer,1,447.98750,IP,42.168644,-112.240944,310032,,-5.000,ACTIVE,KI7WQR,TS1 TS2
 AD5T,Amory,Mississippi,United States,PEER,1,443.20000,Brandmeister,33.927200,-88.560120,310034,Slot 1 has Memphis NWS (TG 31471) set static. TS1 is also used for dynamic linking when NWS is not active. Check that the TS1 is not active before linking. Use 4000 to clear links.<br>MS Statewide (TG 3128) and Amory Local (TG 310034 is set static to time slot 2,+5.00,ACTIVE,KD5LAP,TS1 TS2
-W4BUG,Pompano Beach,Florida,United States,None,11,443.35000,Brandmeister,26.221718,-80.131676,310035,,+5.000,ACTIVE,KD4HGR,TS1 TS2
+W4BUG,Pompano Beach,Florida,United States,Master,11,443.35000,Brandmeister,26.221718,-80.131676,310035,,+5.000,ACTIVE,KD4HGR,TS1 TS2
 NU6P,Saratoga,California,United States,Peer,1,440.43750,DMR-MARC,37.2638324,-122.0230146,310036,,+5.000,ACTIVE,WA6AXX,TS1 TS2
 W0GEN,Waterloo,Iowa,United States,Peer,1,442.82500,Brandmeister,42.492786,-92.3425775,310037,,+5.000,ACTIVE,W0GEN,TS1 TS2
 W0GEN,Waterloo,Iowa,United States,Peer,1,443.27500,Brandmeister,42.492786,-92.3425775,310038,,+5.000,ACTIVE,W0GEN,TS1 TS2
@@ -4772,7 +4773,6 @@ KG4YRU,Jacksonville,Alabama,United States,Peer,2,440.70000,Brandmeister,33.81371
 W4PCI,Nectar,Alabama,United States,Master,1,147.44500,Brandmister,33.9752865,-86.64139208635928,310126,,-1.000,ACTIVE,W4PCI,TS1 TS2
 N4UAI,Cullman,Alabama,United States,None,1,444.90000,Brandmiester,34.224190,-86.857391,310127,,+5.000,ACTIVE,W4DWF,TS1 TS2
 N4GLE,Sheffield,Alabama,United States,Peer,3,146.88000,AmComm,34.772137,-87.686584,310128,,-0.600,ACTIVE,N4GLE,TS1 TS2
-WX5LAW,Lawton,Oklahoma,United States,Peer,4,147.33000,OK Net,34.623390,-98.305191,310130,,+0.600,ACTIVE,K5WXL,TS1 TS2
 WB2FYF,South Amboy,New Jersey,United States,Peer,1,440.25000,Brandmeister,40.481125,-74.290543,310131,,+5.000,ACTIVE,WB2FYF,TS1 TS2
 WB0FNA,Storm Lake,Iowa,United States,Peer,1,444.52500,BrandMeister,42.641941,-95.178139,310132,,+5.000,ACTIVE,WB0FNA,TS1 TS2
 KF6FM,Banning,California,United States,Master,3,448.16250,Western States DMR,33.9255713,-116.8764103,310133,,-5.000,ACTIVE,KF6FM,TS1 TS2
@@ -6201,7 +6201,6 @@ KC9KKO,Morris,Illinois,United States,Peer,1,442.00000,DMR-MARC,41.3520256,-88.36
 AA9VI,Inverness,Illinois,United States,Peer,1,441.95625,DMR Plus,42.1180815,-88.0961865,311708,off air<br>,+5.0,ACTIVE,AA9VI,Mixed Mode
 KB9SZK,Morris,Illinois,United States,Master,0,442.32500,None,41.357254,-88.4211785,311709,,+5.000,ACTIVE,AB9EE,TS1
 KC9KKO,Morris,Illinois,United States,Peer,1,146.71500,DMR-IL,41.357254,-88.4211785,311710,,-0.600,ACTIVE,KC9KKO,TS1
-K9MOT,Schaumburg,Illinois,United States,Master,1,443.57500,Mixed Mode,42.0333607,-88.0834059,311711,,+5.0,ACTIVE,K9BDH,None
 WB9PHK,Schaumburg,Illinois,United States,Peer,0,443.06875,ChicagoLand,42.0333607,-88.0834059,311712,"Time Slot #1<br>3117 Illinois-1 (Illinois statewide)<br>3155 Wisconsin-1 (Wisconsin statewide)<br>31171 Illinois Fusion (Illinois sites)<br>31551 Wisconsif Fusion (Wisconsin sites)<br>TAC-312<br>TAC-317<br><br>Time Slot #2<br>3166 Local-2 (System wide)<br>3169 Midwest-2 (Midwest)<br>310 TAC-310<br>311 TAC-311<br><br><br>Contact Name: Todd, WB9PHK<br>Website: https://wp.chicagoland-cc.org/",+5.000,ACTIVE,WB9PHK,TS1 TS2
 WB9PHK,Batavia,Illinois,United States,Peer,1,443.08125,ChicagoLand,41.8500284,-88.3125738,311713,"Time Slot #1<br>3117 Illinois-1 (Illinois statewide)<br>3155 Wisconsin-1 (Wisconsin statewide)<br>31171 Illinois Fusion (Illinois sites)<br>31551 Wisconsif Fusion (Wisconsin sites)<br>TAC-312<br>TAC-317<br><br>Time Slot #2<br>3166 Local-2 (System wide)<br>3169 Midwest-2 (Midwest)<br>310 TAC-310<br>311 TAC-311<br><br><br>Contact Name: Todd, WB9PHK<br>Website: https://wp.chicagoland-cc.org/",+5.000,ACTIVE,WB9PHK,TS1 TS2
 WB9PHK,Mundelein,Illinois,United States,Peer,2,423.29375,ChicagoLand,42.263079,-88.0039653,311714,"Time Slot #1<br>3117 Illinois-1 (Illinois statewide)<br>3155 Wisconsin-1 (Wisconsin statewide)<br>31171 Illinois Fusion (Illinois sites)<br>31551 Wisconsif Fusion (Wisconsin sites)<br>TAC-312<br>TAC-317<br><br>Time Slot #2<br>3166 Local-2 (System wide)<br>3169 Midwest-2 (Midwest)<br>310 TAC-310<br>311 TAC-311<br><br><br>Contact Name: Todd, WB9PHK<br>Website: https://wp.chicagoland-cc.org/",-3.000,ACTIVE,WB9PHK,TS1 TS2
@@ -9080,6 +9079,9 @@ WY5V,Mesquite,Texas,United States,Master,9,444.42500,BRANDMEISTER,32.7627780,-96
 N1DTA,radcliff,Kentucky,United States,Peer,1,444.13750,kentuckydmr c bidge,37.7983820,-85.9110730,315068,None,+5.000,ACTIVE,N1DTA,TS1 TS2
 NG6K,Logan,Utah,United States,Peer,1,447.12500,AmComm,41.7177800,-111.8656000,315069,None,-5.000,ACTIVE,NG6K,TS1 TS2
 AC3DB,Pittsburgh,Pennsylvania,United States,Peer,8,147.34500,Brandmeister,40.4520415,-80.1064007,315070,AC3DB,+0.600,ACTIVE,AC3DB,TS1 TS2
+W1ASS,Goffstown,New Hampshire,United States,Master,1,927.71250,BrandMeister,42.9831000,-71.5886000,315071,None,-25.000,ACTIVE,W1ASS,Mixed Mode
+W1ASS,Georgetown,Massachusetts,United States,Master,1,927.72500,BrandMeister,42.7069000,-71.0144000,315073,None,-25.000,ACTIVE,W1ASS,Mixed Mode
+W6IDK,Frenchtown,Montana,United States,Peer,0,144.70000,home,47.0149000,-114.2298000,315074,None,-0.600,ACTIVE,W6IDK,Mixed Mode
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,DMRVA,37.5358149,-77.3821587,315101,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,ACTIVE,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,NC-PRN-,36.6474353,-80.6437257,315102,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,ACTIVE,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,NC-PRN,36.8663865,-81.0515927,315103,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,ACTIVE,K4IJ,TS1 TS2
@@ -10332,8 +10334,8 @@ PY5TF,Pontal do Parana,Parana,Brazil,Master,1,146.65000,DMR+ MASTER SUL,-25.6450
 PY4RWC,Janauba,Minas Gerais,Brazil,Master,1,146.85000,"BM, IPSC2",-15.788700,-43.247360,724018,724018<br>72402<br>724<br>72431<br>72442,-0.600,ACTIVE,PU4RON,TS1 TS2
 PY6SDR,Lauro de Freitas,Bahia,Brazil,Local,1,439.85000,BrandMeister,-12.89338432,-38.29437286,724019,Salvador/BA<br>Slot 1 TG 724<br>Slot 2 TG 2 (Local),- 5.000,ACTIVE,PY6USA,1/2
 PY2KPE,Sao Paulo,Sao Paulo,Brazil,Master,1,439.65000,BrandMeister,-23.30,-46.38,724020,,-5.000,ACTIVE,PY2PE,1 e 2
-PY3BK,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,439.10000,Brandmeister,-30.0324999,-51.2303767,724021,,434.100,ACTIVE,PY3NZ,"TS1, TS2"
-PY3UHF,Candelaria,Rio Grande do Sul,Brazil,Master,1,439.97500,Brandmeister,-29.668391,-52.789495,724022,,-5000,ACTIVE,PY3NZ,"TS1, TS2"
+PY3BK,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,439.10000,Brandmeister,-30.0324999,-51.2303767,724021,,-5.000,ACTIVE,PY3NZ,TS1
+PY3UHF,Candelaria,Rio Grande do Sul,Brazil,Master,1,439.97500,Brandmeister,-29.668391,-52.789495,724022,,-5.000,ACTIVE,PY3NZ,TS1 TS2
 PY5IGU,Foz do Iguacu-Parana,Parana,Brazil,master,1,146.97000,Brandmeister,-25.493700,-54.555660,724023,,-0.600,ACTIVE,PY5SG,TS1 TS2
 PY5MED,Foz do Iguacu-Parana,Parana,Brazil,master,1,145.39000,Brandmeister,-25.223200,-54.082661,724024,,-0.600,ACTIVE,PY5SG,TS1 TS2
 PY7VHF,Recife,Pernambuco,Brazil,80,1,145.39000,BrandMeister,-7.999870,-34.968571,724025,,-0.600,ACTIVE,PY7MS,TS1 TS2
@@ -10568,7 +10570,7 @@ PU6AXE,Aracaju,Sergipe,Brazil,Peer,1,434.00000,BM,-10.8855200,-37.0788200,724282
 PY1ITP,Rio de Janeiro,Rio de Janeiro,Brazil,Peer,1,146.79000,dmr,-22.9065000,-43.1811000,724283,None,-0.600,ACTIVE,PY1MM,TS2
 PY4RPT,Governador Valadares,Minas Gerais,Brazil,Master,1,145.29000,brandmeister,-18.8857014,-41.8988323,724284,None,-0.600,ACTIVE,PU4IDF,Mixed Mode
 PY3HA,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,146.77000,Brandmeister,-30.100000,-51.180000,724301,,-0.600,ACTIVE,PY3NZ,TS1 TS2
-PY3RPT,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,145.35000,Mixed Mode,0.0,0.0,724302,,-0.600,ACTIVE,PY3NZ,TS1 TS2
+PY3RPT,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,145.35000,Mixed Mode,-30.1004000,-51.1831000,724302,,-0.600,ACTIVE,PY3NZ,TS1 TS2
 PY3SMS,Guaiba,Rio Grande do Sul,Brazil,Master,1,439.55000,DMR+ MASTER SUL,-26.801901,-48.933102,724303,,-5.000,ACTIVE,PY5JP,TS1 TS2
 PP5SMS,Arroio do Silva,Santa Catarina,Brazil,Master,1,439.50000,DMR+ MASTER SUL,-28.9815269,-49.4189932,724304,http://ysf.freedmr-brasil.qsl.br:8893/,-5.000,ACTIVE,PY5JP,TS1 TS2
 PP5CDR,Cacador,Santa Catarina,Brazil,Master,1,439.10000,DMR+ MASTER SUL,-27.622200,-48.504902,724305,,-5.000,ACTIVE,PY5JP,TS1 TS2

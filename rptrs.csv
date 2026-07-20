@@ -3130,6 +3130,7 @@ DB0OFL,Rhauderfehn,Niedersachsen / Bremen,Germany,Master,1,144.83750,262013,"DMR
 DL0LGT,Wilhelmshaven,Niedersachsen / Bremen,Germany,Master,1,439.97500,262016,BM,262016,1,portabel Repeater for events and tests,-9.4,DL6BAJ,TS1 TS2
 DG3SBI,Alfdorf,Baden-Wuerttemberg,Germany,Master,1,439.31250,262018,BM,262018,0,TG1: 2620<br>TG2: 26273<br>,-7.6,DG3SBI,Mixed Mode
 DB0SKF,Freudenstadt,Baden-Wuerttemberg,Germany,Peer,1,438.27500,262019,bm,262019,1,no static TG's,-7.600,DJ2GZ,TS1 TS2
+DO0LP,Remscheid,Nordrhein-Westfalen,Germany,Master,1,438.33750,262020,Bm,262020,1,"TS1 - TG 265112,     TS2 - TG 8 Bergisch Land (26313),     TS2 - TG 262020 (DOK R13)",-7.6000,DO8LP,TS1 TS2
 DM0NBG,Nuernberg,Bayern,Germany,Peer,1,438.52500,262021,BM,262021,1,,-7.600,DL6WZ,TS1 TS2
 DM0NOR,Norderney,Hessen,Germany,Master,1,430.37500,262022,BM,262022,0,,+0.000,DL1BBR,Mixed Mode
 DO0SOC,Oldenburg,Hamburg / Schleswig-Holstein,Germany,Peer,1,438.67500,262023,BM,262023,1,,-7.600,DO2LMV,TS1 TS2
@@ -4686,7 +4687,7 @@ KC1AVD,dorchester,Massachusetts,United States,Peer,1,442.40000,310029,comcast,31
 K4LWC,MiltonK4LWCM,Florida,United States,Master,1,444.40000,310031,Brandmeister,310031,0,,+5.000,K4LWC,TS1 TS2
 KI7WQR,Malad City,Idaho,United States,Peer,1,447.98750,310032,IP,310032,1,,-5.000,KI7WQR,TS1 TS2
 AD5T,Amory,Mississippi,United States,PEER,1,443.20000,310034,Brandmeister,310034,1,Slot 1 has Memphis NWS (TG 31471) set static. TS1 is also used for dynamic linking when NWS is not active. Check that the TS1 is not active before linking. Use 4000 to clear links.<br>MS Statewide (TG 3128) and Amory Local (TG 310034 is set static to time slot 2,+5.00,KD5LAP,TS1 TS2
-W4BUG,Pompano Beach,Florida,United States,None,11,443.35000,310035,Brandmeister,310035,1,,+5.000,KD4HGR,TS1 TS2
+W4BUG,Pompano Beach,Florida,United States,Master,11,443.35000,310035,Brandmeister,310035,1,,+5.000,KD4HGR,TS1 TS2
 NU6P,Saratoga,California,United States,Peer,1,440.43750,310036,DMR-MARC,310036,1,,+5.000,WA6AXX,TS1 TS2
 W0GEN,Waterloo,Iowa,United States,Peer,1,442.82500,310037,Brandmeister,310037,1,,+5.000,W0GEN,TS1 TS2
 W0GEN,Waterloo,Iowa,United States,Peer,1,443.27500,310038,Brandmeister,310038,1,,+5.000,W0GEN,TS1 TS2
@@ -4772,7 +4773,6 @@ KG4YRU,Jacksonville,Alabama,United States,Peer,2,440.70000,310125,Brandmeister,3
 W4PCI,Nectar,Alabama,United States,Master,1,147.44500,310126,Brandmister,310126,1,,-1.000,W4PCI,TS1 TS2
 N4UAI,Cullman,Alabama,United States,None,1,444.90000,310127,Brandmiester,310127,1,,+5.000,W4DWF,TS1 TS2
 N4GLE,Sheffield,Alabama,United States,Peer,3,146.88000,310128,AmComm,310128,1,,-0.600,N4GLE,TS1 TS2
-WX5LAW,Lawton,Oklahoma,United States,Peer,4,147.33000,310130,OK Net,310130,1,,+0.600,K5WXL,TS1 TS2
 WB2FYF,South Amboy,New Jersey,United States,Peer,1,440.25000,310131,Brandmeister,310131,1,,+5.000,WB2FYF,TS1 TS2
 WB0FNA,Storm Lake,Iowa,United States,Peer,1,444.52500,310132,BrandMeister,310132,1,,+5.000,WB0FNA,TS1 TS2
 KF6FM,Banning,California,United States,Master,3,448.16250,310133,Western States DMR,310133,1,,-5.000,KF6FM,TS1 TS2
@@ -6201,7 +6201,6 @@ KC9KKO,Morris,Illinois,United States,Peer,1,442.00000,311707,DMR-MARC,311707,1,T
 AA9VI,Inverness,Illinois,United States,Peer,1,441.95625,311708,DMR Plus,311708,1,off air<br>,+5.0,AA9VI,Mixed Mode
 KB9SZK,Morris,Illinois,United States,Master,0,442.32500,311709,None,311709,1,,+5.000,AB9EE,TS1
 KC9KKO,Morris,Illinois,United States,Peer,1,146.71500,311710,DMR-IL,311710,1,,-0.600,KC9KKO,TS1
-K9MOT,Schaumburg,Illinois,United States,Master,1,443.57500,311711,Mixed Mode,311711,1,,+5.0,K9BDH,None
 WB9PHK,Schaumburg,Illinois,United States,Peer,0,443.06875,311712,ChicagoLand,311712,1,"Time Slot #1<br>3117 Illinois-1 (Illinois statewide)<br>3155 Wisconsin-1 (Wisconsin statewide)<br>31171 Illinois Fusion (Illinois sites)<br>31551 Wisconsif Fusion (Wisconsin sites)<br>TAC-312<br>TAC-317<br><br>Time Slot #2<br>3166 Local-2 (System wide)<br>3169 Midwest-2 (Midwest)<br>310 TAC-310<br>311 TAC-311<br><br><br>Contact Name: Todd, WB9PHK<br>Website: https://wp.chicagoland-cc.org/",+5.000,WB9PHK,TS1 TS2
 WB9PHK,Batavia,Illinois,United States,Peer,1,443.08125,311713,ChicagoLand,311713,1,"Time Slot #1<br>3117 Illinois-1 (Illinois statewide)<br>3155 Wisconsin-1 (Wisconsin statewide)<br>31171 Illinois Fusion (Illinois sites)<br>31551 Wisconsif Fusion (Wisconsin sites)<br>TAC-312<br>TAC-317<br><br>Time Slot #2<br>3166 Local-2 (System wide)<br>3169 Midwest-2 (Midwest)<br>310 TAC-310<br>311 TAC-311<br><br><br>Contact Name: Todd, WB9PHK<br>Website: https://wp.chicagoland-cc.org/",+5.000,WB9PHK,TS1 TS2
 WB9PHK,Mundelein,Illinois,United States,Peer,2,423.29375,311714,ChicagoLand,311714,1,"Time Slot #1<br>3117 Illinois-1 (Illinois statewide)<br>3155 Wisconsin-1 (Wisconsin statewide)<br>31171 Illinois Fusion (Illinois sites)<br>31551 Wisconsif Fusion (Wisconsin sites)<br>TAC-312<br>TAC-317<br><br>Time Slot #2<br>3166 Local-2 (System wide)<br>3169 Midwest-2 (Midwest)<br>310 TAC-310<br>311 TAC-311<br><br><br>Contact Name: Todd, WB9PHK<br>Website: https://wp.chicagoland-cc.org/",-3.000,WB9PHK,TS1 TS2
@@ -9080,6 +9079,9 @@ WY5V,Mesquite,Texas,United States,Master,9,444.42500,315067,BRANDMEISTER,315067,
 N1DTA,radcliff,Kentucky,United States,Peer,1,444.13750,315068,kentuckydmr c bidge,315068,1,None,+5.000,N1DTA,TS1 TS2
 NG6K,Logan,Utah,United States,Peer,1,447.12500,315069,AmComm,315069,1,None,-5.000,NG6K,TS1 TS2
 AC3DB,Pittsburgh,Pennsylvania,United States,Peer,8,147.34500,315070,Brandmeister,315070,1,AC3DB,+0.600,AC3DB,TS1 TS2
+W1ASS,Goffstown,New Hampshire,United States,Master,1,927.71250,315071,BrandMeister,315071,1,None,-25.000,W1ASS,Mixed Mode
+W1ASS,Georgetown,Massachusetts,United States,Master,1,927.72500,315073,BrandMeister,315073,1,None,-25.000,W1ASS,Mixed Mode
+W6IDK,Frenchtown,Montana,United States,Peer,0,144.70000,315074,home,315074,1,None,-0.600,W6IDK,Mixed Mode
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
@@ -10332,8 +10334,8 @@ PY5TF,Pontal do Parana,Parana,Brazil,Master,1,146.65000,724017,DMR+ MASTER SUL,7
 PY4RWC,Janauba,Minas Gerais,Brazil,Master,1,146.85000,724018,"BM, IPSC2",724018,1,724018<br>72402<br>724<br>72431<br>72442,-0.600,PU4RON,TS1 TS2
 PY6SDR,Lauro de Freitas,Bahia,Brazil,Local,1,439.85000,724019,BrandMeister,724019,1,Salvador/BA<br>Slot 1 TG 724<br>Slot 2 TG 2 (Local),- 5.000,PY6USA,1/2
 PY2KPE,Sao Paulo,Sao Paulo,Brazil,Master,1,439.65000,724020,BrandMeister,724020,1,,-5.000,PY2PE,1 e 2
-PY3BK,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,439.10000,724021,Brandmeister,724021,1,,434.100,PY3NZ,"TS1, TS2"
-PY3UHF,Candelaria,Rio Grande do Sul,Brazil,Master,1,439.97500,724022,Brandmeister,724022,1,,-5000,PY3NZ,"TS1, TS2"
+PY3BK,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,439.10000,724021,Brandmeister,724021,1,,-5.000,PY3NZ,TS1
+PY3UHF,Candelaria,Rio Grande do Sul,Brazil,Master,1,439.97500,724022,Brandmeister,724022,1,,-5.000,PY3NZ,TS1 TS2
 PY5IGU,Foz do Iguacu-Parana,Parana,Brazil,master,1,146.97000,724023,Brandmeister,724023,1,,-0.600,PY5SG,TS1 TS2
 PY5MED,Foz do Iguacu-Parana,Parana,Brazil,master,1,145.39000,724024,Brandmeister,724024,1,,-0.600,PY5SG,TS1 TS2
 PY7VHF,Recife,Pernambuco,Brazil,80,1,145.39000,724025,BrandMeister,724025,1,,-0.600,PY7MS,TS1 TS2
