@@ -1316,6 +1316,7 @@ IR6AL,Pineto,Marche / Abruzzo,Italy,Peer,1,145.65000,222475,ADN-2224,222475,1,No
 IR6ZZQ,Prata D'ansidonia,Marche / Abruzzo,Italy,Peer,1,430.30000,222476,ADN,222476,1,None,+1.600,IQ6VP,TS1 TS2
 IR6L,L'Aquila,Marche / Abruzzo,Italy,Peer,1,145.67500,222477,Hamthings,222477,1,None,-0.600,IQ6VP,Mixed Mode
 IR3CU,Forcella di Giais,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.25000,222478,Brandmeister,222478,1,None,1.600,IW3ROW,Mixed Mode
+IR8BQ,Potenza,Apulia / Basilicata,Italy,Peer,1,145.68750,222479,ADN,222479,1,None,-0.600,IZ8DHD,Mixed Mode
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,222500,DMR-plus,222500,1,,+5.000,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,222501,DMR-plus,222501,1,,5.000,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,222502,BM,222502,1,,5.000,IK5BNG,TS1 TS2
@@ -2700,6 +2701,7 @@ R3DEZ,Selyatino,,Russia,Master,1,446.15000,250024,NO,250024,1,TS1: 2501<br>TS2: 
 RC3DI,Stupino,All Regions,Russia,Peer,1,439.92500,250025,BM,250025,1,,-5.100,RC3DI,TS1 TS2
 R2AKT,Shchyolkovo,,Russia,Master,5,433.65500,250026,BM,250026,1,TS1 - TG 2501,+5.00,R2AKT,TS1 TS2
 R2HW,Stupino,,Russia,Master,1,434.85000,250027,BM,250027,1,,+5.100,R2HW,TS1 TS2
+RR9CAF,Yekaterunburg,All Regions,Russia,Peer,1,439.30000,250028,BM,250028,1,None,7.600,"R8DD, R8CFV",TS1 TS2
 RR9JA,Nizhnevartovsk,,Russia,Master,1,436.75000,250030,BM,250030,1,,-5.000,UB8JDY,TS1 TS2
 RR3UD,Ivanovo,,Russia,Peer,1,145.75000,250031,BM,250031,1,TG 250600 local group Ivanovo,-0.600,RD3U,Mixed Mode
 RA0LML,Ussuriisk,All Regions,Russia,Master,1,439.00000,250032,BM,250032,1,High 95 m<br><br>TX 439.000 MHz<br>RX 431.400 MHz,-7.6,RA0LML,TS1 TS2
@@ -3327,6 +3329,7 @@ DB0MIA,Hohwacht Bucht,,Germany,,2,439.02500,262237,DMR-plus,262237,0,,7.600,DB9H
 DB0AW,ahaus,Nordrhein-Westfalen,Germany,Peer,1,439.16250,262239,BM,262239,1,,-7.600,DO1BTW,TS1 TS2
 DB0HPA,Laegerdorf,,Germany,Peer,1,439.51250,262240,DMR-plus,262240,1,,-7.600,DL9HPA,TS1 TS2
 DB0DND,Oberhausen,Bayern,Germany,Peer,1,438.86250,262241,BM,262241,1,,-7.6,DL2UKH,TS1 TS2
+DB0DAN,Zernien,Niedersachsen / Bremen,Germany,Peer,1,438.65000,262242,Brandmeister.network,262242,1,None,-7.600,"DL6YEA, DA6XX",TS1 TS2
 DB0PEG,Pegnitz,Bayern,Germany,Master,1,438.93750,262243,Brandmeister,262243,1,None,7.600,"DK7AM, DO2SK, DB9CR",TS1 TS2
 DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,439.92500,262244,BM,262244,1,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.400,DJ3LE,TS1 TS2
 DO0ELM,Hemkenrode,Niedersachsen / Bremen,Germany,Master,1,439.15000,262245,DMR/FM,262245,0,2623 TS1<br>26538 (8) TS2,-7.600,DO2ARD,Mixed Mode
@@ -3382,7 +3385,6 @@ DL9AM,Herzberg am Harz,Niedersachsen / Bremen,Germany,Master,1,438.37500,262309,
 DB0BHV,Bremerhaven,,Germany,,1,439.81250,262311,DMR-plus,262311,1,,-9.400,DL1BIR,TS1 TS2
 DB0HOL,Ottenstein,,Germany,,1,438.91250,262312,DMR-plus,262312,1,,-7.600,DG4KLK,TS1 TS2
 DB0OHA,Herzberg am Harz,Niedersachsen / Bremen,Germany,Master,1,439.07500,262313,DMR-plus,262313,0,,-7.600,DL9AM,TS1 TS2
-DB0NDS,Zernien,,Germany,,1,438.65000,262314,DMR-plus,262314,1,,-7.600,DL6YEA,TS1 TS2
 DB0BHN,Bremerhaven-Zentrum,,Germany,,1,145.76250,262315,DMR-plus,262315,1,,-0.600,DH8BAT,TS1 TS2
 DB0BHV,Bremerhaven,,Germany,Peer,1,438.47500,262316,DMR-plus,262316,1,,-7.600,DL1BIR,TS1 TS2
 DB0LAM,Hildesheim/Achtum,,Germany,,1,439.47500,262318,BM,262318,1,,-7.600,DL1OFD,TS1 TS2
@@ -7661,7 +7663,6 @@ N9ICV,Austin,Indiana,United States,Peer,1,441.02500,313459,Brandmeister,313459,1
 W4JEW,Atlanta,Georgia,United States,Peer,1,446.10000,313460,Ham Digital - ClearNode,313460,1,,+0.000,W4JEW,TS1 TS2
 KF4ZCL,Hialeah,Florida,United States,Master,1,443.65000,313461,BM,313461,1,,+5.000,KF4ZCL,TS1
 W7GXJ,Powell Butte,Oregon,United States,Master,1,440.93750,313462,PNW-Digital,313462,1,High Desert Amateur Radio Group (HiDARG) DMR Repeater -- https://hidarg.org<br><br>Current Status: Operational -- Online PNW Digital (https://pnwdigital.net)<br><br>Installed: 8/26/2025,+5.000,W7GXJ,TS1 TS2
-KC5DJR,Lincoln,Arkansas,United States,Peer,1,434.00000,313464,BrandMeister 3102,313464,1,"Talk group 313464 ""KC5DJR Chat""",+5.00,N0DJR,TS1 TS2
 N1DTA,Monticello,Kentucky,United States,Peer,1,444.96250,313466,kentuckydmr c bidge,313466,1,,+5.000,N1DTA,TS1 TS2
 KK5PD,Marquette,Michigan,United States,Peer,1,439.51250,313467,BM,313467,1,,-4.0,KK5PD,TS1 TS2
 KB3HJC,Westfield,Pennsylvania,United States,Peer,1,444.40000,313468,AmComm,313468,1,,+5.00,KB3HJC,TS1 TS2
@@ -8497,7 +8498,7 @@ KF7SIW,Genesee,Idaho,United States,Master,1,442.50000,314418,"BM,TGIF,AMComm",31
 K5GOE,Fayetteville,Arkansas,United States,Master,1,443.12500,314419,Brandmeister,314419,1,,+5.00,KI5WUJ,Mixed Mode
 W7RSS,Ogden,Utah,United States,Peer,1,447.38750,314420,BM,314420,1,,-5.000,W7RSS,TS1 TS2
 W4KST,Marietta,Georgia,United States,Peer,7,442.71250,314421,BM,314421,1,,+5.000,W4KST,TS1 TS2
-N2FED,Mount Freedom,New Jersey,United States,Master,7,447.87500,314423,BrandMeister,314423,1,"Hytera RD-982 running mixed-mode analog/DMR<br><br>TS 1:  STATIC talkgroups / Full-time<br>314423 - N2FED NETWORK<br>314473 - N2PTA (NJ POTA) talkgroup - check them out on QRZ !<br>3134 - NJ STATE (10 minute limit)<br><br>**Note that any BrandMeister talkgroup is also available dynamically on TS 1 via PTT for a 15 minute interval***<br><br>TS 2:  STATIC talkgroups / Full-time<br>31360 - TRI-STATE<br><br>Repeater System Hub:<br><br>AllStarLink Node - 64332 (come out all repeaters on analog)<br>Echolink - 447875 (come out all repeaters on analog)<br>DMR TGIF - 314423 (come in DMR through TGIF, come out all repeaters on analog)<br>DMR BrandMeister - 314423 (come in DMR through BrandMeister, come out DMR all repeaters on TS 1)<br>YSF Reflector US-N2FED - 00654 (come in C4FM, come out DMR all repeaters on TS1 - 314423)<br><br>For more information, please visit https://www.qrz.com/db/N2FED",-5.000,N2FED,TS1 TS2
+N2FED,Mount Freedom,New Jersey,United States,Master,7,447.87500,314423,DMR-SE,314423,1,"For complete repeater details, visit https://n2fed.net",-5.000,N2FED,TS1 TS2
 N1JPB,Milton,New Hampshire,United States,Peer,7,442.50000,314424,AmComm DMR,314424,1,,+5.000,N1JPB,TS1 TS2
 N0ESQ,Fairview,North Carolina,United States,Master,7,147.22500,314426,DMR-MARC,314426,1,02-08-2025 -- Testing mode. Eventual dynamic mixed mode.,+0.600,N0ESQ,Mixed Mode
 W9LAG,Milwaukee,Wisconsin,United States,Peer,1,442.05000,314427,DMR-MARC,314427,1,- Worldwide (TG1)<br>- Europe (TG2)<br>- North America (TG3)<br>- Oceania (TG5)<br>- Worldwide German (TG10)<br>- Worldwide French (TG11)<br>- Worldwide English (TG13)<br>- Worldwide Spanish (TG14)<br>- Latin American Group (31600),+5.000,W9LAG,TS1 TS2
@@ -8543,7 +8544,7 @@ N4TS,Mountain City,Georgia,United States,Peer,1,443.15000,314469,BM,314469,1,,+5
 WA9RSK,Decatur,Illinois,United States,Peer,5,443.25000,314470,BM,314470,1,,+5.00,WA9RSK,TS1 TS2
 K6TZ,Santa Barbara,California,United States,Peer,1,445.48000,314471,BM,314471,1,,-5.000,K6TZ,TS1 TS2
 N5JLR,Harlingen,Texas,United States,Master,1,442.47500,314472,BrandMiester,314472,1,"TS-2 TG-2, So-Texas (31482)<br>TS-1 Texas St. (3148)",+5.000,KD4FJ,TS1 TS2
-N2FED,Watnong Mountain,New Jersey,United States,Master,7,448.87500,314473,BrandMeister,314473,1,"Hytera RD-982 running mixed-mode analog/DMR<br><br>TS 1:  STATIC talkgroups / Full-time<br>314423 - N2FED NETWORK<br>314473 - N2PTA (NJ POTA) talkgroup - check them out on QRZ !<br>3134 - NJ STATE (10 minute limit)<br><br>**Note that any BrandMeister talkgroup is also available dynamically on TS 1 via PTT for a 15 minute interval***<br><br>TS 2:  STATIC talkgroups / Full-time<br>31360 - TRI-STATE<br><br>Repeater System Hub:<br><br>AllStarLink Node - 64332 (come out all repeaters on analog)<br>Echolink - 447875 (come out all repeaters on analog)<br>DMR TGIF - 314423 (come in DMR through TGIF, come out all repeaters on analog)<br>DMR BrandMeister - 314423 (come in DMR through BrandMeister, come out DMR all repeaters on TS 1)<br>YSF Reflector US-N2FED - 00654 (come in C4FM, come out DMR all repeaters on TS1 - 314423)<br><br>For more information, please visit https://www.qrz.com/db/N2FED",-5.000,N2FED,TS1 TS2
+N2FED,Watnong Mountain,New Jersey,United States,Master,7,448.87500,314473,BrandMeister,314473,1,"For complete repeater details, visit https://n2fed.net",-5.000,N2FED,TS1 TS2
 N8GU,Fort Myers,Florida,United States,Peer,1,442.17500,314474,BM,314474,1,"This is the DMR Repeater of the Fort Myers Amateur Radio Club<br><br>2, 2, SWFL Cluster, FT<br>2, 9, Local 9, FT<br>2, 3112, Florida, FT<br>2, 3174, Southeast Regional, FT<br>2, 311261, Local calling, FT<br>1, 313136, KC Wide, PTT<br>1, 91, Worldwide, PTT<br>1, 93, North America, PTT<br>1, 3100, Bridge, PTT<br>1, 31656, America Link, PTT<br>1, 310847, SkyHub Link, PTT<br>1, 3169, Midwest Regional, PTT<br>1, 3172, Northeast Regional, PTT<br>1, 3173, MidAtlantic Regional, PTT<br>1, 3175, TX-OK Regional, PTT<br>1, 3176, Southwest Regional, PTT<br>1, 3177, Mountain Regional, PTT<br>1, 310, TAC 310, PTT<br>1, 311, TAC 311, PTT<br>1, 312, TAC 312, PTT<br>1, 313, TAC 313, PTT<br>1, 314, TAC 314, PTT<br>1, 315, TAC 315, PTT<br>1, 316, TAC 316, PTT<br>1, 317, TAC 317, PTT<br>1, 318, TAC 318, PTT<br>1, 319, TAC 319, PTT<br>1, 907, JOTA, PTT<br>1, 3181, POTA, PTT<br>1, 973, SOTA, PTT",+5.000,N8GU,TS1 TS2
 KC0YHU,Urbandale,Iowa,United States,Master,1,147.30000,314475,TGIF,314475,1,"Analog FM and TGIF.Network TG's 7399 Amateur Radio Missionary Service, 319 YLSystem primarily.",+0.600,KC0YHU,Mixed Mode
 W4UA,High Point,North Carolina,United States,Master,1,443.90000,314476,BM,314476,1,,+5.000,N4TLC,TS1 TS2
@@ -8680,7 +8681,7 @@ N4HRS,Honaker,Virginia,United States,Peer,9,444.81250,314617,DMRVA / N4HRS,31461
 N4HRS,Roanoke,Virginia,United States,Peer,9,444.21250,314618,DMRVA / N4HRS,314618,1,see n4hrs.org or DMRVA.org for details,+5.000,KD4ADL,TS1 TS2
 N4HRS,Lynchburg,Virginia,United States,Peer,9,443.55000,314619,DMRVA / N4HRS,314619,1,,+5.000,KD4ADL,TS1 TS2
 N5VGK,counce,Tennessee,United States,Peer,1,442.07500,314620,BRANDMEISTER,314620,1,time slot 1 for dynamic linking<br>time slot 2 will have 3128 static,+5.000,N5VGK,TS1 TS2
-N2FED,Lake Hopatcong,New Jersey,United States,Master,1,441.80000,314621,BrandMeister,314621,1,"Hytera RD-982 running mixed-mode analog/DMR<br><br>TS 1:  STATIC talkgroups / Full-time<br>314423 - N2FED NETWORK<br>314473 - N2PTA (NJ POTA) talkgroup - check them out on QRZ !<br>3134 - NJ STATE (10 minute limit)<br><br>**Note that any BrandMeister talkgroup is also available dynamically on TS 1 via PTT for a 15 minute interval***<br><br>TS 2:  STATIC talkgroups / Full-time<br>31360 - TRI-STATE<br><br>Repeater System Hub:<br><br>AllStarLink Node - 64332 (come out all repeaters on analog)<br>Echolink - 447875 (come out all repeaters on analog)<br>DMR TGIF - 314423 (come in DMR through TGIF, come out all repeaters on analog)<br>DMR BrandMeister - 314423 (come in DMR through BrandMeister, come out DMR all repeaters on TS 1)<br>YSF Reflector US-N2FED - 00654 (come in C4FM, come out DMR all repeaters on TS1 - 314423)<br><br>For more information, please visit https://www.qrz.com/db/N2FED",+5.000,N2FED,TS1 TS2
+N2FED,Lake Hopatcong,New Jersey,United States,Master,1,441.80000,314621,BrandMeister,314621,1,"For complete repeater details, visit https://n2fed.net",+5.000,N2FED,TS1 TS2
 KD4VVZ,Thomasville,Mississippi,United States,Peer,1,444.98750,314622,DMR-SE C-Bridge,314622,1,"Static (Full Time Talkgroups)<br>TS 1 - TG 314622 = Thomasville, MS (no Brandmeister) DMR-SE C-bridge network only<br>TS 2 - TG 312801 = Lucedale, MS<br><br>TS 1 Dynamic Talkgroups (PTT Activated - 10 Min Timer)<br>TG 3128 = MS Statewide<br>TG 3 = North America<br>TG 13 = Worldwide English (DMR-MARC)<br>TG 93 = North America BM<br>TG 310 = TAC-310 BM<br>TG 311 = TAC-311 BM<br>TG 312 = TAC-312 BM<br>TG 3100 = USA Calling BM<br>TG 3101 = AL Statewide<br>TG 3112 = FL Statewide<br>TG 3122 = LA Statewide<br>TG 3148 = TX Statewide<br>TG 3174 = SE Region<br>TG 9998 = Parrot (Audio Test)<br>TG 13174 = SE Region BM<br>TG 31010 = Alabama Link<br>TG 31225 = SE Louisiana<br>TG 311307 = Kingsland, GA<br><br>TS 2 Dynamic Talkgroups (PTT Activated - 10 Min Timer)<br>TG 9 = Local 9-2 (Local Only)<br>TG 3199 = US Hurricane Net BM<br>TG 31285 = NE Mississippi<br>TG 31280 = MS Tac<br>TG 314128 = McHenry, MS<br>TG 314309 = Biloxi, MS<br><br>Note: All TGs are BM linked and SE-DMR SE-Bridge<br>unless otherwise noted.<br>7-5-25",+5.00,KD4VVZ,TS1 TS2
 AE2EY,Elizabethton,Tennessee,United States,Master,1,438.62500,314623,BM,314623,1,TESTING<br>TS1 and TS2 available for local use,-5.175,KC4AYX,TS1 TS2
 KD2YKY,Jackson,New Jersey,United States,Master,1,442.60000,314624,BM,314624,0,,+5.000,KD2YKY,Mixed Mode
@@ -9082,6 +9083,7 @@ AC3DB,Pittsburgh,Pennsylvania,United States,Peer,8,147.34500,315070,Brandmeister
 W1ASS,Goffstown,New Hampshire,United States,Master,1,927.71250,315071,BrandMeister,315071,1,None,-25.000,W1ASS,Mixed Mode
 W1ASS,Georgetown,Massachusetts,United States,Master,1,927.72500,315073,BrandMeister,315073,1,None,-25.000,W1ASS,Mixed Mode
 W6IDK,Frenchtown,Montana,United States,Peer,0,144.70000,315074,home,315074,1,None,-0.600,W6IDK,Mixed Mode
+N0DJR,Lincoln,Arkansas,United States,Peer,0,439.98750,315075,BrandMeister,315075,1,None,0.000,N0DJR,TS1
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
