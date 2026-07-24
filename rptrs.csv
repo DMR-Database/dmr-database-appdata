@@ -2054,7 +2054,7 @@ GB7LO,Bromley,England,United Kingdom,Master,3,439.51250,235112,DMR-plus,235112,1
 GB7CL,Clacton on Sea,,United Kingdom,,3,439.63750,235113,DMR-plus,235113,0,,9.000,G0MBA,TS1 TS2
 GB7BX,Brown Clee,England,United Kingdom,Peer,11,439.43750,235114,BM,235114,1,,-9.000,G4VZO,TS1 TS2
 GB7GT,Clee Hill,,United Kingdom,Peer,13,439.41250,235115,BM,235115,1,,-9.000,G3PWJ,TS1 TS2
-GB7AV,Aylesbury,England,United Kingdom,,3,439.43750,235116,DMR-plus,235116,1,,-9.000,G0RAS,TS1 TS2
+GB7AV,Aylesbury,England,United Kingdom,Peer,3,439.43750,235116,DMR-plus,235116,1,,-9.000,G0RAS,TS1 TS2
 GB7EP,Epsom,England,United Kingdom,Master,3,439.40000,235117,DMR-plus,235117,1,"Always connected: TS1: 1, 2, 13, 235.  TS2: 801<br><br>User Activated (UA) TG's also supported",-9.000,G0OXZ,TS1 TS2
 GB7SC,Bognor Regis,England,United Kingdom,,3,439.47500,235118,DMR-plus,235118,1,,-9.000,G0AFN,TS1 TS2
 GB7EX,Southend on Sea,England,United Kingdom,,3,439.71250,235119,DMR-plus,235119,1,,-9.000,G8YPK,TS1 TS2
@@ -4067,6 +4067,7 @@ YM2KBS,Bartin,,Turkiye,Peer,1,439.20000,286030,BM,286030,1,TG91 grubu (Dunya) TS
 YM9KVN,Van,Eastern Anatolia Region,Turkiye,Master,1,439.37500,286031,BM,286031,0,,-7.600,YM9KVN,TS1 TS2
 YM7KA,Trabzon,Black Sea Region,Turkiye,Master,1,145.76250,286032,BM,286032,1,,-0.600,YM7KA,TS1 TS2
 YM5KY,Mersin,Mediterranean Region,Turkiye,Peer,1,145.67500,286033,BM,286033,1,,-0.600,TA5Q,TS2
+YM4KSO,Aydin,Aegean Region,Turkiye,Peer,1,439.36250,286034,dmr,286034,1,286096<br>286097,-7.600,"TB4DIK, YM4KSO",TS2
 YM5KSI,Mersin Silifke,Mediterranean Region,Turkiye,Master,1,439.40000,286035,BM,286035,1,,-7.600,TA8L,TS1 TS2
 YM2KT,ANKARA,Central Anatolia Region,Turkiye,Master,1,439.40000,286036,DMR,286036,1,,-7.600,YM2KT,Mixed Mode
 YM5KY,Mersin,Mediterranean Region,Turkiye,Peer,1,439.17500,286037,BM,286037,1,,-0.7600,TA5Q,Mixed Mode
@@ -4089,6 +4090,7 @@ YM5KAA,Adana,Mediterranean Region,Turkiye,Peer,1,145.78750,286055,DMR,286055,1,2
 YM5KAA,Adana,Mediterranean Region,Turkiye,Peer,1,439.38750,286056,BM,286056,1,2002-28601,-7.600,YM5VKA,TS1 TS2
 YM6KTC,CANKIRI,Central Anatolia Region,Turkiye,Peer,1,439.17500,286057,BM,286057,1,AKRAD TG: 2862012<br>YM6KTC TG: 286057,-7.600,TA5HY,TS1 TS2
 YM3KO,Manisa,Aegean Region,Turkiye,Master,1,439.40000,286058,BM,286058,1,TG28645,-7.600,YM3KO,TS2
+YM4KSO,Aydin,Aegean Region,Turkiye,Master,1,439.16250,286059,Dmr,286059,0,286096<br>28609<br>286091<br>286092,-7.6000,"TB4DIK, YM4KSO",TS2
 YM2KA,Ankara Baglum,,Turkiye,,1,439.25000,286060,BM,286060,1,,-7.600,TA3AS,TS1 TS2
 YM2KRD,Ankara,Central Anatolia Region,Turkiye,Master,1,439.17500,286061,BM,286061,1,2862012,-7.600,"TA2ZE, TA5HY",TS1 TS2
 YM2KCL,KOCAELI,Marmara Region,Turkiye,Master,1,439.41250,286062,BM,286062,1,,-7.600,YM2KCL,TS1 TS2
@@ -8739,7 +8741,7 @@ W2XRX,Bristol,New York,United States,Master,1,444.82500,314679,"AmComm, BM",3146
 WB5EKU,North Hills,California,United States,Master,1,447.20000,314680,BM,314680,1,wb5eku@gmail.com,-5.000,WB5EKU,TS1 TS2
 W8MTU,Toledo,Ohio,United States,Master,1,444.02500,314681,BM,314681,1,,+5.000,W8MTU,TS1
 K6PUW,North Hills,California,United States,Peer,1,447.20000,314682,BM,314682,1,wb5eku@gmail.com,-5.000,WB5EKU,TS1 TS2
-KJ6ZD,Kingman,Arizona,United States,Master,7,445.87500,314683,BM,314683,1,,-5.000,KJ6ZD,TS1 TS2
+KJ6ZD,Kingman,Arizona,United States,Master,7,445.85000,314683,BM,314683,1,,-5.000,KJ6ZD,TS1 TS2
 K6IG,Colorado Springs,Colorado,United States,Master,1,439.45000,314684,BM,314684,1,TS 2 is for TGIF TG 7352<br>TS 1 is BM US-wide,-5.000,K6IG,TS1
 K5VHM,Joplin,Missouri,United States,Master,1,444.07500,314685,BM,314685,1,31209,+5.000,K5VHM,Mixed Mode
 K4BLA,Mills River,North Carolina,United States,Peer,1,442.56250,314686,BM,314686,1,,+5.00,KQ4CLZ,TS1 TS2
@@ -9083,7 +9085,7 @@ AC3DB,Pittsburgh,Pennsylvania,United States,Peer,8,147.34500,315070,Brandmeister
 W1ASS,Goffstown,New Hampshire,United States,Master,1,927.71250,315071,BrandMeister,315071,1,None,-25.000,W1ASS,Mixed Mode
 W1ASS,Georgetown,Massachusetts,United States,Master,1,927.72500,315073,BrandMeister,315073,1,None,-25.000,W1ASS,Mixed Mode
 W6IDK,Frenchtown,Montana,United States,Peer,0,144.70000,315074,home,315074,1,None,-0.600,W6IDK,Mixed Mode
-N0DJR,Lincoln,Arkansas,United States,Peer,0,439.98750,315075,BrandMeister,315075,1,None,0.000,N0DJR,TS1
+N0DJR,Lincoln,Arkansas,United States,Master,1,439.98750,315075,MeisterBurger,315075,1,None,5.000,N0DJR,TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
@@ -10327,7 +10329,7 @@ PY4DMR,Juiz De Fora - Mg - Brasil,Minas Gerais,Brazil,Peer,1,439.55000,724008,Br
 PY5LDA,Londrina,Parana,Brazil,30 KM,1,439.60000,724009,BM_Brazil_7242,724009,1,.,-5.000,PY5BK,2
 PP1RK,Vila Velha,Espirito Santo,Brazil,Peer,1,147.18000,724010,Brandmeister,724010,1,Repetidora DMR na Cidade de Vila Velha - ES.,-0.600,PP1AP,TS1
 PY1SVL,Teresopolis,Rio de Janeiro,Brazil,Peer,1,146.83000,724011,DMR+,724011,1,Repetidor Teresopolis DMR+<br>TG 724 slot 2,-0.600,PY1PQP,TS1 TS2
-PY1LRP,Rio De Janeiro,Rio de Janeiro,Brazil,Peer,1,147.33000,724012,DMR-plus,724012,1,tg724 SLOT1,-0.600,PY1LT,TS1 TS2
+PY1LRP,Duque de Caxias,Rio de Janeiro,Brazil,Peer,1,147.33000,724012,DMR-plus,724012,1,tg724 SLOT1,-0.600,PY1LT,TS1 TS2
 PY2KGS,Santos,Sao Paulo,Brazil,Master,1,146.95000,724013,Brandmaister,724013,1,724 Brasil,-0.600,PY2NBY,TS1 TS2
 PY7JAD,Caruaru,Pernambuco,Brazil,peer,1,146.81000,724014,dmr+,724014,1,,-0.600,PY7JD,TS1 TS2
 PY1URE,NITEROI,Rio de Janeiro,Brazil,Peer,1,439.85000,724015,DMR-plus,724015,1,Repetidor Niteroi DMR+<br>TG 724 slot2,-5.000,PU1LOY,TS1 TS2

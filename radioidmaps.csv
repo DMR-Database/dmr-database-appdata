@@ -2054,7 +2054,7 @@ GB7LO,Bromley,England,United Kingdom,Master,3,439.51250,DMR-plus,51.4028046,0.01
 GB7CL,Clacton on Sea,,United Kingdom,,3,439.63750,DMR-plus,,,235113,,9.000,ACTIVE,G0MBA,TS1 TS2
 GB7BX,Brown Clee,England,United Kingdom,Peer,11,439.43750,BM,52.5957012,-2.5582016,235114,,-9.000,ACTIVE,G4VZO,TS1 TS2
 GB7GT,Clee Hill,,United Kingdom,Peer,13,439.41250,BM,52.374535,-2.600397,235115,,-9.000,ACTIVE,G3PWJ,TS1 TS2
-GB7AV,Aylesbury,England,United Kingdom,,3,439.43750,DMR-plus,51.8161412,-0.8130383,235116,,-9.000,ACTIVE,G0RAS,TS1 TS2
+GB7AV,Aylesbury,England,United Kingdom,Peer,3,439.43750,DMR-plus,51.8161412,-0.8130383,235116,,-9.000,ACTIVE,G0RAS,TS1 TS2
 GB7EP,Epsom,England,United Kingdom,Master,3,439.40000,DMR-plus,51.3326098,-0.2678212,235117,"Always connected: TS1: 1, 2, 13, 235.  TS2: 801<br><br>User Activated (UA) TG's also supported",-9.000,ACTIVE,G0OXZ,TS1 TS2
 GB7SC,Bognor Regis,England,United Kingdom,,3,439.47500,DMR-plus,50.7834973,-0.6730718,235118,,-9.000,ACTIVE,G0AFN,TS1 TS2
 GB7EX,Southend on Sea,England,United Kingdom,,3,439.71250,DMR-plus,51.5388733,0.711497,235119,,-9.000,ACTIVE,G8YPK,TS1 TS2
@@ -4067,6 +4067,7 @@ YM2KBS,Bartin,,Turkiye,Peer,1,439.20000,BM,41.375600,32.184000,286030,TG91 grubu
 YM9KVN,Van,Eastern Anatolia Region,Turkiye,Master,1,439.37500,BM,0.0,0.0,286031,,-7.600,ACTIVE,YM9KVN,TS1 TS2
 YM7KA,Trabzon,Black Sea Region,Turkiye,Master,1,145.76250,BM,39.453611111111115,40.62972222222222,286032,,-0.600,ACTIVE,YM7KA,TS1 TS2
 YM5KY,Mersin,Mediterranean Region,Turkiye,Peer,1,145.67500,BM,36.88246900,34.51084900,286033,,-0.600,ACTIVE,TA5Q,TS2
+YM4KSO,Aydin,Aegean Region,Turkiye,Peer,1,439.36250,dmr,37.8483767,27.8435878,286034,286096<br>286097,-7.600,ACTIVE,"TB4DIK, YM4KSO",TS2
 YM5KSI,Mersin Silifke,Mediterranean Region,Turkiye,Master,1,439.40000,BM,36.36243,34.05637,286035,,-7.600,ACTIVE,TA8L,TS1 TS2
 YM2KT,ANKARA,Central Anatolia Region,Turkiye,Master,1,439.40000,DMR,39.80231,32.98783,286036,,-7.600,ACTIVE,YM2KT,Mixed Mode
 YM5KY,Mersin,Mediterranean Region,Turkiye,Peer,1,439.17500,BM,36.7978381,34.6298391,286037,,-0.7600,ACTIVE,TA5Q,Mixed Mode
@@ -4089,6 +4090,7 @@ YM5KAA,Adana,Mediterranean Region,Turkiye,Peer,1,145.78750,DMR,35.155200,37.0232
 YM5KAA,Adana,Mediterranean Region,Turkiye,Peer,1,439.38750,BM,35.1552,37.5235,286056,2002-28601,-7.600,ACTIVE,YM5VKA,TS1 TS2
 YM6KTC,CANKIRI,Central Anatolia Region,Turkiye,Peer,1,439.17500,BM,40.583109104815264,33.65220961832749,286057,AKRAD TG: 2862012<br>YM6KTC TG: 286057,-7.600,ACTIVE,TA5HY,TS1 TS2
 YM3KO,Manisa,Aegean Region,Turkiye,Master,1,439.40000,BM,38.576288,27.446871,286058,TG28645,-7.600,ACTIVE,YM3KO,TS2
+YM4KSO,Aydin,Aegean Region,Turkiye,Master,1,439.16250,Dmr,37.8736180,26.5923220,286059,286096<br>28609<br>286091<br>286092,-7.6000,ACTIVE,"TB4DIK, YM4KSO",TS2
 YM2KA,Ankara Baglum,,Turkiye,,1,439.25000,BM,40.069805,32.810570,286060,,-7.600,ACTIVE,TA3AS,TS1 TS2
 YM2KRD,Ankara,Central Anatolia Region,Turkiye,Master,1,439.17500,BM,39.8024870,32.9886030,286061,2862012,-7.600,ACTIVE,"TA2ZE, TA5HY",TS1 TS2
 YM2KCL,KOCAELI,Marmara Region,Turkiye,Master,1,439.41250,BM,40.67,29.9775,286062,,-7.600,ACTIVE,YM2KCL,TS1 TS2
@@ -4216,7 +4218,7 @@ Z35UEA,Skopje,All Regions,Macedonia,Master,1,434.70000,BrandMeister,41.96557,21.
 Z35UOH,Ohrid,All Regions,Macedonia,Master,1,434.65000,BrandMeister,42.00803,21.3632,294014,294<br>2946<br>29444,-1.600,ACTIVE,Z37RAM,TS1 TS2
 Z35UPP,Prilep Severna Makedonia,All Regions,Macedonia,Master,1,438.65000,"BM,DMR",41.36694,21.5904,294015,294,-7.600,ACTIVE,Z37S,TS1 TS2
 Z35USI,Veles,All Regions,Macedonia,Master,1,438.82500,BrandMeister,41.70648,21.80539,294016,294<br>29413<br>29444,-7.6000,ACTIVE,Z37RAM,TS1 TS2
-Z35VPP,Prilep Severna Makedonia,All Regions,Macedonia,Peer,1,145.60000,"BM,DMR-MARC",0.0,0.0,294017,"Slot1:294<br>Slot2:2948,29411",-0.600,ACTIVE,Z31ABZ,TS1 TS2
+Z35VPP,Prilep Severna Makedonia,All Regions,Macedonia,Peer,1,145.60000,"BM,DMR-MARC",41.3533330,21.5694280,294017,"Slot1:294<br>Slot2:2948,29411",-0.600,ACTIVE,Z31ABZ,TS1 TS2
 Z35UKI,Kichevo,All Regions,Macedonia,Peer,0,438.65000,BrandMeister,41.5050000,20.9530560,294018,"294, 2944",-7.600,ACTIVE,"Z33AI, Z34M",TS1 TS2
 HB0FL,Gaflei,,Liechtenstein,,1,438.45000,BrandMeister,47.1451,9.54342,295999,,-7.600,ACTIVE,HB0TR,
 4O0LPG,Ljubovic Podgorica,,Montenegro,,1,145.60000,DMR-plus,42.463531,19.323534,297001,,-0.600,ACTIVE,4O3S,TS1 TS2
@@ -8739,7 +8741,7 @@ W2XRX,Bristol,New York,United States,Master,1,444.82500,"AmComm, BM",42.7416,-77
 WB5EKU,North Hills,California,United States,Master,1,447.20000,BM,34.327716,-118.590867,314680,wb5eku@gmail.com,-5.000,ACTIVE,WB5EKU,TS1 TS2
 W8MTU,Toledo,Ohio,United States,Master,1,444.02500,BM,41.6206111,-83.59419416666667,314681,,+5.000,ACTIVE,W8MTU,TS1
 K6PUW,North Hills,California,United States,Peer,1,447.20000,BM,34.3258000,-118.5862000,314682,wb5eku@gmail.com,-5.000,ACTIVE,WB5EKU,TS1 TS2
-KJ6ZD,Kingman,Arizona,United States,Master,7,445.87500,BM,35.256764,-113.9829,314683,,-5.000,ACTIVE,KJ6ZD,TS1 TS2
+KJ6ZD,Kingman,Arizona,United States,Master,7,445.85000,BM,35.256764,-113.9829,314683,,-5.000,ACTIVE,KJ6ZD,TS1 TS2
 K6IG,Colorado Springs,Colorado,United States,Master,1,439.45000,BM,38.955874,-104.761205,314684,TS 2 is for TGIF TG 7352<br>TS 1 is BM US-wide,-5.000,ACTIVE,K6IG,TS1
 K5VHM,Joplin,Missouri,United States,Master,1,444.07500,BM,37.0850000,-94.5130000,314685,31209,+5.000,ACTIVE,K5VHM,Mixed Mode
 K4BLA,Mills River,North Carolina,United States,Peer,1,442.56250,BM,34.2662600,-78.7061800,314686,,+5.00,ACTIVE,KQ4CLZ,TS1 TS2
@@ -9083,7 +9085,7 @@ AC3DB,Pittsburgh,Pennsylvania,United States,Peer,8,147.34500,Brandmeister,40.453
 W1ASS,Goffstown,New Hampshire,United States,Master,1,927.71250,BrandMeister,42.9831000,-71.5886000,315071,None,-25.000,ACTIVE,W1ASS,Mixed Mode
 W1ASS,Georgetown,Massachusetts,United States,Master,1,927.72500,BrandMeister,42.7069000,-71.0144000,315073,None,-25.000,ACTIVE,W1ASS,Mixed Mode
 W6IDK,Frenchtown,Montana,United States,Peer,0,144.70000,home,47.0149000,-114.2298000,315074,None,-0.600,ACTIVE,W6IDK,Mixed Mode
-N0DJR,Lincoln,Arkansas,United States,Peer,0,439.98750,BrandMeister,35.9498866,-94.4099833,315075,None,0.000,ACTIVE,N0DJR,TS1
+N0DJR,Lincoln,Arkansas,United States,Master,1,439.98750,MeisterBurger,35.9501000,-94.4100000,315075,None,5.000,ACTIVE,N0DJR,TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,DMRVA,37.5358149,-77.3821587,315101,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,ACTIVE,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,NC-PRN-,36.6474353,-80.6437257,315102,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,ACTIVE,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,NC-PRN,36.8663865,-81.0515927,315103,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,ACTIVE,K4IJ,TS1 TS2
@@ -10327,7 +10329,7 @@ PY4DMR,Juiz De Fora - Mg - Brasil,Minas Gerais,Brazil,Peer,1,439.55000,BrandMeis
 PY5LDA,Londrina,Parana,Brazil,30 KM,1,439.60000,BM_Brazil_7242,-23.325199,-51.202171,724009,.,-5.000,ACTIVE,PY5BK,2
 PP1RK,Vila Velha,Espirito Santo,Brazil,Peer,1,147.18000,Brandmeister,-20.309099,-40.340290,724010,Repetidora DMR na Cidade de Vila Velha - ES.,-0.600,ACTIVE,PP1AP,TS1
 PY1SVL,Teresopolis,Rio de Janeiro,Brazil,Peer,1,146.83000,DMR+,-22.4164578,-42.975194,724011,Repetidor Teresopolis DMR+<br>TG 724 slot 2,-0.600,ACTIVE,PY1PQP,TS1 TS2
-PY1LRP,Rio De Janeiro,Rio de Janeiro,Brazil,Peer,1,147.33000,DMR-plus,-22.9110137,-43.2093727,724012,tg724 SLOT1,-0.600,ACTIVE,PY1LT,TS1 TS2
+PY1LRP,Duque de Caxias,Rio de Janeiro,Brazil,Peer,1,147.33000,DMR-plus,-22.9110137,-43.2093727,724012,tg724 SLOT1,-0.600,ACTIVE,PY1LT,TS1 TS2
 PY2KGS,Santos,Sao Paulo,Brazil,Master,1,146.95000,Brandmaister,-23.975100,-46.300510,724013,724 Brasil,-0.600,ACTIVE,PY2NBY,TS1 TS2
 PY7JAD,Caruaru,Pernambuco,Brazil,peer,1,146.81000,dmr+,-8.279390,-35.939281,724014,,-0.600,ACTIVE,PY7JD,TS1 TS2
 PY1URE,NITEROI,Rio de Janeiro,Brazil,Peer,1,439.85000,DMR-plus,-22.929156,-43.087175,724015,Repetidor Niteroi DMR+<br>TG 724 slot2,-5.000,ACTIVE,PU1LOY,TS1 TS2
