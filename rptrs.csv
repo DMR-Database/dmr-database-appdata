@@ -1591,7 +1591,7 @@ HB9EAS,Nenzlingen,Basel-Country,Switzerland,Master,1,438.35000,228406,BM,228406,
 HB9DR,Zurich,Zurich,Switzerland,Peer,2,438.22500,228407,DMR+,228407,1,,-7.600,HB9SDB,TS1 TS2
 HB9NFB,Reinach (BL),,Switzerland,,1,438.37500,228408,None,228408,0,,-7.600,HB9FWC,
 HB9DM,Langenbruck,Basel-Country,Switzerland,Master,1,438.38750,228409,BM,228409,1,,-7.600,HB9FEF,TS1 TS2
-HB9CSR,Laufen,Basel-Country,Switzerland,Peer,1,438.31250,228410,BM,228410,0,,-7.600,HB9TVW,TS1 TS2
+HB9CSR,Laufen,Basel-Country,Switzerland,Peer,1,438.31250,228410,BM,228410,0,,-7.600,HB9TVW,TS1
 HB9EAS,Sunneberg,Basel-Country,Switzerland,Master,1,438.41250,228411,BM,228411,1,,-7.600,HB9TQJ,TS1 TS2
 HB9DM,Eptingen TEST,,Switzerland,Master,2,438.38750,228412,BM,228412,1,,-7.600,HB9FEF,TS1 TS2
 HB9EAS,Binningen-Bruderholz,Basel-Country,Switzerland,Master,2,439.53750,228413,BM,228413,1,,-7.600,HB9TQJ,TS1 TS2
@@ -2250,8 +2250,8 @@ OZ3REY,Knivsbjerg,Syddanmark,Denmark,Master,13,434.72500,238003,DMR+,238003,1,,-
 OZ4RED,Esbjerg,Syddanmark,Denmark,Peer,13,434.68750,238004,DMR-plus,238004,1,Time Slot # 1 - Group Call 238 = DK 238<br>Time Slot # 2 - Group Call 2386 = QSY 1<br>Time Slot # 2 - Group Call 2387 = QSY 2<br>Time Slot # 2 - Group Call 4703 = Syddanmark,-2.000,OZ1LNI,TS1 TS2
 OZ7RPT,Lunderskov,Syddanmark,Denmark,Peer,8,434.73750,238006,DMR,238006,1,,-2.000,OZ7MK,TS1 TS2
 OZ3RTD,Tonder,Syddanmark,Denmark,Master,13,434.70000,238007,DMR-plus,238007,1,,-2.000,OZ5TD,TS1 TS2
-5P0NALS,Nordborg,Syddanmark,Denmark,Master,13,434.57500,238008,BM,238008,1,"30W repeater, JO45VB, TS2, X300 antenna 10m above ground, covering Nordals and surrounding areas",-2.000,"5P1CE, OZ1CE",TS1 TS2
-5P1NALS,Nordborg,Syddanmark,Denmark,Master,13,434.82500,238009,DMR-MARC,238009,1,,-2.000,OZ1CE,Mixed Mode
+5P0NALS,Nordborg,Syddanmark,Denmark,Master,13,434.57500,238008,BM,238008,1,"45W Motorola DR3000 repeater, JO45VB, TS1+2, X510 antenna 10m above ground, 28mASL, covering island ALS and surrounding areas.",-2.000,"5P1CE, OZ1CE",TS1 TS2
+5P1NALS,Nordborg,Syddanmark,Denmark,Master,13,145.60000,238009,DMR-MARC,238009,1,,-0.600,"5P1CE, OZ1CE",Mixed Mode
 OZ4REN,Stoevring,Nordjylland,Denmark,,11,434.68750,238101,DMR-plus,238101,1,,-2.000,OZ1JEE,TS1 TS2
 OZ2DSD,BROENDERSLEV,Nordjylland,Denmark,,11,461.17500,238102,DMR-plus,238102,1,,-10.000,OZ2NML,TS1 TS2
 OZ1REC,Vodskov,Nordjylland,Denmark,,11,434.67500,238103,DMR-plus,238103,1,,-2.000,OZ1JEE,TS1 TS2
@@ -2944,7 +2944,7 @@ SR9PSD,Pszw,lskie,Poland,Master,9,439.31250,260050,BM,260050,1,,-7.600,SQ9DIQ,TS
 SR2GG,Szubin,kujawsko-pomorskie,Poland,Master,12,439.90000,260051,BM,260051,1,,-9.400,SP2GG,TS1 TS2
 SR3OW,Ostrow Wlkp,wielkopolskie,Poland,Peer,1,439.05000,260053,Bramdmeister,260053,1,,-7.600,SP3OW,TS1 TS2
 SR1WR,Ryman,zachodniopomorskie,Poland,Master,1,438.68750,260055,Brandmeister,260055,1,,-7.600,SP1WR,TS1 TS2
-SR9SR,Rybnik,lskie,Poland,Peer,1,438.48750,260056,BM,260056,1,WiP,-7.600,SP9KJT,TS1 TS2
+SR9SR,Rybnik,lskie,Poland,Peer,1,438.48750,260056,BM,260056,1,WiP,-7.600,"SP9KJT, SP9ALX",TS1 TS2
 SR9OKO,Strzybnik,lskie,Poland,Peer,1,438.80000,260057,260,260057,1,26098<br>26063<br>9,-7.600,SP9PRR,TS1 TS2
 SR8ALA,Blizne,podkarpackie,Poland,Master,1,439.47500,260058,BM,260058,1,Slot 1 TG260  Slot 2 TG26085,-7.600,SP8SMA,TS1 TS2
 SR9RS,Maciejowa,maopolskie,Poland,Peer,9,439.32500,260059,BM,260059,1,"260, 2609, 26095, 260015",-7.600,SQ9OJV,TS1 TS2
@@ -3620,7 +3620,7 @@ DO0LF,Korbach/Goldhausen,Hessen,Germany,,1,439.23750,262689,None,262689,1,,7.600
 DM0GG,Gross-Gerau,Hessen,Germany,,1,438.22500,262690,BM,262690,1,,-7.600,DD2ZM,TS1 TS2
 DB0HTV,Frankfurt am Main,Hessen,Germany,Peer,1,439.42500,262691,Brandmeister,262691,1,,-7.600,"DL1XM, DG3FBL, DJ2VA",TS1 TS2
 DJ1US,Darmstadt,Hessen,Germany,,1,439.57500,262699,DMR-plus,262699,1,,-7.600,DJ1US,TS1 TS2
-DB0VSS,Villingen-Schwenning,,Germany,Peer,1,439.25000,262701,DMR-plus,262701,0,,-7.600,DC4GD,TS1 TS2
+DB0VSS,Schwenningen,Baden-Wuerttemberg,Germany,Peer,1,439.25000,262701,DMR-plus,262701,0,,-7.600,DC4GD,TS1 TS2
 DD9GJ,Villingen-Schwenning,Baden-Wuerttemberg,Germany,Peer,1,439.81250,262702,BM,262702,1,,-9.400,DD9GJ,TS1 TS2
 DB0TN,Brandenkopf,Baden-Wuerttemberg,Germany,,1,439.87500,262703,BM,262703,1,,-9.400,DG1GDD,TS1 TS2
 DB0TST,Leinfelden Echterd.,Baden-Wuerttemberg,Germany,Master,1,438.50000,262704,BM,262704,1,,-7.600,DL6SEC,TS1 TS2
@@ -3649,8 +3649,8 @@ DB0RZ,Bussen,Baden-Wuerttemberg,Germany,Peer,1,439.82500,262726,BM,262726,1,,-9.
 DB0SDO,Urbach,Baden-Wuerttemberg,Germany,Peer,1,439.30000,262727,DMR-plus,262727,1,,-7.600,DG4SDO,TS1 TS2
 DG4SDO,Urbach,Baden-Wuerttemberg,Germany,,1,439.80000,262728,DMR-plus,262728,1,,-9.400,DG4SDO,TS1 TS2
 DB0SDO,Urbach,Baden-Wuerttemberg,Germany,,1,439.95000,262729,DMR-plus,262729,1,,9.400,DG4SDO,TS1 TS2
-DB0VSS,Villingen/Schwenning,,Germany,Peer,1,439.45000,262730,BM,262730,1,,-7.600,DC4GD,TS1 TS2
-DB0VSS,Villingen/Schwenning,Baden-Wuerttemberg,Germany,,1,145.57500,262731,BM,262731,1,,-0.600,DC4GD,TS1 TS2
+DB0VSS,Schwenningen,Baden-Wuerttemberg,Germany,Peer,1,439.45000,262730,BM,262730,1,,-7.600,DC4GD,TS1 TS2
+DB0VSS,Schwenningen,Baden-Wuerttemberg,Germany,Peer,1,145.57500,262731,BM,262731,1,,-0.600,DC4GD,TS1 TS2
 DB0CI,Schramberg-Sulgen,Baden-Wuerttemberg,Germany,,1,439.50000,262732,DMR-plus,262732,1,,-7.600,DF4UD,TS1 TS2
 DB0KLI,Klippeneck,Baden-Wuerttemberg,Germany,,1,438.66250,262733,BM,262733,1,,-7.600,DL1TOB,TS1 TS2
 DB0WBD,Bonndorf,Baden-Wuerttemberg,Germany,,1,438.37500,262734,BrandMeister,262734,1,,-7.600,DJ9ZK,
@@ -3690,7 +3690,7 @@ DB0NZZ,Tuebingen,Baden-Wuerttemberg,Germany,,1,438.40000,262773,BM,262773,1,,-7.
 DB0SWR,Wertheim/Main,Baden-Wuerttemberg,Germany,Master,1,438.37500,262774,DMR-plus,262774,1,,-7.600,DG9FFM,TS1 TS2
 DB0SWR,Wertheim/Main,Baden-Wuerttemberg,Germany,Master,1,438.37500,262775,DMR-plus,262775,1,,-7.600,DG9FFM,TS1 TS2
 DB0SWR,Wertheim/Main,Baden-Wuerttemberg,Germany,Master,1,438.37500,262776,DMR-plus,262776,1,,-7.600,DG9FFM,TS1 TS2
-DB0ODE,Obrigheim,Baden-Wuerttemberg,Germany,Peer,1,439.92500,262777,BM,262777,1,,-9.400,DM7RM,TS1 TS2
+DB0ODE,Obrigheim,Baden-Wuerttemberg,Germany,Peer,1,439.92500,262777,BM,262777,1,,-9.400,"DM7RM, DK6XN",TS1 TS2
 DM0ZF,Lauf,Baden-Wuerttemberg,Germany,Peer,1,439.82500,262778,BM,262778,1,,-9.400,DL1IK,TS1 TS2
 DB0MGH,Bad Mergentheim,Baden-Wuerttemberg,Germany,Peer,1,439.81250,262779,Brandmeister,262779,1,,-9.400,DL4SDR,TS1 TS2
 DB0SKF,Freudenstadt,Baden-Wuerttemberg,Germany,Peer,1,439.90000,262780,DMR-plus,262780,1,TS1 262<br>TS2 TG9,-9.400,DJ2GZ,TS1 TS2
@@ -4850,7 +4850,6 @@ K6YO,Gardena,California,United States,Peer,10,451.81250,310207,DMR,310207,1,,+5.
 K3UCB,Olney,Maryland,United States,Peer,1,442.90000,310208,Interstate Network,310208,1,This is a Mobile repeater,+5.000,K3UCB,TS1 TS2
 KE5NL,Hebbronville,Texas,United States,Master,1,443.00000,310209,BrandMeister,310209,0,,+5 MHZ,KE5NL,TS1 TS2
 KB0VGD,Greeley,Colorado,United States,Peer,2,445.13750,310210,BM,310210,1,,-5.000,"WD0HDR, KB0VGD",TS1 TS2
-W2HVL,usa-link,New York,United States,Peer,1,446.18750,310213,NJ-TRBO,310213,1,,-0.500,KC2CWT,TS1 TS2
 N0VPR,Baxter,Iowa,United States,Master,1,444.60000,310214,Brandmeister,310214,1,,+5.000,N0VPR,TS1 TS2
 NG8M,Mocksville,North Carolina,United States,Master,8,449.80000,310215,Brandmeister,310215,1,,-5.000,NG8M,TS1 TS2
 W6UUU,Pleasanton,California,United States,Peer,1,444.58750,310216,SF-TRBO,310216,1,Low Elevation Repeater 30' AGL<br><br>__Static Talkgroups<br>Local TS2 / TG2<br>5150 Classic TS2 / TG5150<br>California TS1 / TG3106<br>Southwest TS1 / TG3176<br>Anarchy TS1 / TG31666<br>Comm 1 TS1 / TG3777215<br><br><br>__Dynamic TGs (Only available on TS1)<br>North America (CB 3) TS1 / TG3<br>Worldwide (CB 1) TS1 / TG1<br>TAC 310 (CB) TS1 / TG310<br>TAC 311 TS1 / TG311<br>TAC 312 TS1 / TG312<br>Parrot TS1 / TG9998<br>SoCal TS1 / TG31066<br>CenCoast TS1 / TG31805<br>Comm 1 TS / TG<br>California TSYES / TGYES<br><br>Contact Name: Greg Forrest / N6LDJ<br>Email: intermod@sngf.org<br>,+5.000,N6LDJ,TS1 TS2
@@ -6181,7 +6180,7 @@ W5LOS,Luling,Texas,United States,Master,1,440.72500,311683,BrandMeister,311683,1
 WA3PNY,Macungie,Pennsylvania,United States,Master,2,447.87500,311684,BRANDMEISTER,311684,1,Time Slot #1 - Group Call 3142 = PA State Wide<br>Time Slot #2 - Group Call 311684 = Local<br>Time Slot #2 - Group Call 9990 = Parrot<br>Time Slot #2 - Group Call 31421 = PA TAC<br>Time Slot #2 - Group Call 31425 = PA Cross Mode<br>Time Slot #2 - Group Call 31426 = EPA Section<br>Time Slot #2 - Group Call 310 = TAC310<br>Time Slot #2 - Group Call 311 = TAC311<br>Time Slot #2 - Group Call 313 = TAC313<br>Time Slot #2 - Group Call 314 = TAC314<br>Time Slot #2 - Group Call 310304 = K1NRA Local<br>Time Slot #2 - Group Call 6 = XLX045A - Cross Mode Lehigh Valley<br>Time Slot #2 - Dynamic TG Brandmeister,+5.000,WA3PNY,TS1 TS2
 K4FLK,Stock Island,Florida,United States,Master,8,444.05000,311685,Brandmeister,311685,0,TS2 TG 3121536,+5.000,K1ST,TS1 TS2
 KH7EC,Kailua,Hawaii,United States,Peer,2,442.90000,311686,PRIVATE NETWORK,311686,1,,+5.000,KH7EC,TS1 TS2
-N7ER,Clinton,Washington,United States,Master,1,440.72500,311687,PNWDigital,311687,0,"Low Level/Experimental/RAS Enabled, pre-deployment burn in repeater.  TG deck not yet established.",+5.000,N7ER,TS1 TS2
+N7ER,Polk City,Washington,United States,Master,1,440.72500,311687,PNWDigital,311687,0,"Low Level/Experimental/RAS Enabled, pre-deployment burn in repeater.  TG deck not yet established.",+5.000,N7ER,TS1 TS2
 NA4DC,Davie,Florida,United States,Master,1,443.25000,311688,BrandMeister,311688,1,,+5.0,NA4DC,TS2
 KX8T,Belington,West Virginia,United States,Peer,1,444.35000,311689,TGIF,311689,1,4800,+5.000,KX8T,TS1
 N9GPY,Culver,Indiana,United States,Peer,1,443.25000,311690,Brandmeister,311690,1,,+5.0,N9GPY,TS1 TS2
@@ -6440,6 +6439,7 @@ N9VW,Shelton,Washington,United States,Peer,1,147.02000,311979,PNW DMR,311979,0,A
 KE6YEP,WEST COVINA,California,United States,Master,1,433.80000,311980,DMR,311980,1,,+5.000,KE6YEP,TS1 TS2
 WX5CSS,Springdale,Texas,United States,Master,5,440.15000,311981,BM,311981,1,31229,+5.00,WX5CSS,TS1
 KD4JQX,Oviedo,Florida,United States,Peer,5,448.12500,311982,bm,311982,1,262570<br>31102,-5.000,KD4JQX,TS1
+KC8ELQ,bay city,Michigan,United States,Peer,1,443.81250,311983,Mi5-CMEN,311983,1,This repeater will be part of the Central Michigan Emergency Network,+5.000,KC8ELQ,TS1 TS2
 KL4NE,Anchorage,Alaska,United States,Master,1,448.90000,311984,BrandMeister,311984,1,Ecos Del Coqui Network - KL4EDC<br>Brandmeister TG 31631 Chicago Star<br>YSF Reflector #88084<br>Echolink Node #983370<br>Peanut #YSFCOQUI<br>Allstar Node #52314,-5.000,KL4NE,TS1
 KO3L,Belair,Maryland,United States,Peer,1,147.12000,311985,Brandmeister,311985,1,,+0.600,KO3L,TS1 TS2
 KK4RYS,Madisonville,Kentucky,United States,Master,1,927.70000,311987,BM,311987,1,,-25.000,KK4RYS,TS1 TS2
@@ -9325,6 +9325,7 @@ KP4EOP,Fajardo,,Puerto Rico,Master,1,448.15000,330103,Brandmeister,330103,1,"Esp
 KP4EOP,Jayuya,,Puerto Rico,Master,2,448.15000,330104,Brandmeister,330104,1,"Bienvenidos y espero disfruten el repetidor KP4EOP en el Cerro La Punta. Esta localizacin est en la parte ms alta de La Isla de Puerto Rico. Recuerden esto es para uso exclusivo de radios DMR solamente.<br>73<br>Jay ""CHUO""<br>KP4EOP<br>www.pradiserepeaters.network<br>KP4PRN",-5.000,KP4EOP,TS1 TS2
 WP4JOT,Ponce,,Puerto Rico,Master,1,446.70000,330105,BM,330105,1,,-5.000,WP4JOT,TS1 TS2
 WP4VW,corozal,All Regions,Puerto Rico,Peer,1,433.01250,330107,TGIF,330107,0,,+5.000,WP4VW,TS1 TS2
+NP4D,Carolina,All Regions,Puerto Rico,Peer,1,446.65000,330109,Brandmeister,330109,1,None,-5.000,NP4D,TS1 TS2
 NP3RK,Cayey,,Puerto Rico,Master,1,449.90000,330110,BM,330110,1,,-5.000,NP3RK,TS1 TS2
 KP4ILO,Lares PR,,Puerto Rico,Master,1,146.75000,330111,BM,330111,1,"TG 330050 CC 1 TS 1<br>WP4RWR Ponce, PR UHF 448.600 MHz<br>NP3EC Arecibo, PR VHF 146.850MHz<br>KP4ILO Lares, PR VHF 146.750 MHz<br>KP4NET Lares, PR UHF 448.600 MHz<br>ALL REPEATER USE CC1 TS1 TG 330050",-0.600,KP4ILO,TS1 TS2
 WP4VW,Shenandoah,All Regions,Puerto Rico,Master,1,441.17500,330113,BM,330113,0,TS1: 3100<br>TS2: 3300,+5.0,WP4VW,TS1 TS2
@@ -10759,6 +10760,7 @@ HC2GRC,Guayaquil Guayas Ecuador,All Regions,Ecuador,Peer,1,147.30000,740014,Bran
 HC3RE,cuenca,All Regions,Ecuador,Peer,1,145.21000,740015,brandmeister network.com,740015,1,None,0.600,"HC5TEM, HC3RE",TS1 TS2
 HC1M,QUITO,All Regions,Ecuador,Master,1,147.24000,740016,DMR/Brandmeister/ DMR-MARC/DMR Plus Combination,740016,1,740,-0.600,HC3RJ,TS1 TS2
 HC3RE,CUENCA,All Regions,Ecuador,Peer,1,145.21000,740017,740,740017,1,None,-0.600,"HC5TEM, HC3RE",TS1 TS2
+HC3MC,loja,All Regions,Ecuador,Peer,1,146.79000,740018,3102.master.bradmeister.network,740018,1,None<br>7400 enlace a ysf,-0.600,"HC3MC, HC3RE",Mixed Mode
 ZP6DIG,Luque,Asuncion,Paraguay,Master,1,144.55000,744001,BM,744001,1,,+0.600,ZP6DEM,TS1 TS2
 ZP3PJC,Pedro Juan Caballero,Amabay,Paraguay,Master,1,434.10000,744002,BM,744002,1,,+5.000,ZP3BGA,TS1 TS2
 ZP6RPT,Luque,Amabay,Paraguay,Master,1,434.70000,744101,BrandMeister,744101,1,,+5.000,ZP6DEM,TS1 TS2
