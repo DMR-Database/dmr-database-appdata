@@ -31,8 +31,8 @@ Extension,Callsign,Name,City,State,Country
 330,PA2HBN,Hans,,,
 331,PD9FVH,Folkert,Gouda,Zuid-Holland,Netherlands
 332,PD3T,Terence,Pijnacker,Zuid-Holland,Netherlands
-333,PD4MM,Marcel,,Limburg,Netherlands
-334,PI1KRD,Marcel,,,
+333,PD4MM,Marcel,Kerkrade,Limburg,Netherlands
+334,PI1KRD,Marcel ---- PD4MM,,,
 335,PD1NIE,Niels,AALTEN,Gelderland,Netherlands
 336,PA3DFI,Ruud,Delft,Zuid-Holland,Netherlands
 337,PD1HPB,Peter,Heerhugowaard,Noord-Holland,Netherlands
@@ -47,11 +47,10 @@ Extension,Callsign,Name,City,State,Country
 346,PD0GJK,Gert-Jan,Nieuwegein,Utrecht,Netherlands
 347,PD1MB,Marco,Maarssen,Utrecht,Netherlands
 348,PC7MM,Michiel,Woerden,Utrecht,Netherlands
-349,PI4UTR,VERON A,Utrecht,Utrecht,Netherlands
+349,PI4UTR,VERON A08,Utrecht,Utrecht,Netherlands
 350,PD9MS,Martin,Utrecht,Utrecht,Netherlands
 351,PE5W,Frank,De Meern,Utrecht,Netherlands
-352,PA8F,Fred,Bodegraven,Zuid-Holland,Netherlands
-353,PA3EKE,Rob,Huizen,Noord-Holland,Netherlands
+352,PA8F,Fred,Huizen,Noord-Holland,Netherlands
 354,PD1RVB,Rene,Almere,Flevoland,Netherlands
 355,PE1JKR,Wim,Nieuwegein,Utrecht,Netherlands
 356,PD0PJH,Martien,Haps,Noord-Brabant,Netherlands
@@ -64,7 +63,7 @@ Extension,Callsign,Name,City,State,Country
 363,PE1SAY,Michel,Boxtel,Noord-Brabant,Netherlands
 364,PD0RH,Ruud,Julianadorp,Noord-Holland,Netherlands
 365,PD0W,Joeri,Oudewater,Utrecht,Netherlands
-366,PA1RLM,Karel,Wijk bij Duurstede,Utrecht,Netherlands
+366,PA1RLM,Karel ---- incl. FAX,Wijk bij Duurstede,Utrecht,Netherlands
 367,PD1KBC,Tim,Utrecht,Utrecht,Netherlands
 368,PD7LMR,Marco,Veenendaal,Utrecht,Netherlands
 369,PE13K,Meeuwes,,,
@@ -80,12 +79,11 @@ Extension,Callsign,Name,City,State,Country
 379,PH4T,Tim,Amsterdam,Noord-Holland,Netherlands
 380,PH0DV,Dick,Huizen,Noord-Holland,Netherlands
 381,PD1LOI,Loui,Almere Haven,Flevoland,Netherlands
-383,PD9KIR,Rik,,,
+383,PA1KIR,Rik,,,
 384,PE1OWG,Arnold,Amersfoort,Utrecht,Netherlands
 385,PA3BIC,Frank,Nes,Friesland,Netherlands
 386,PA2EON,Eric,Den Dungen,Noord-Brabant,Netherlands
 387,PE1RXF,Marcel,,,
-387,PA7X,Jan,Den Helder,Noord-Holland,Netherlands
 388,PE1RWP,Freddy,Drachten,Friesland,Netherlands
 389,PD2MKE,Marcel,Boskoop,Zuid-Holland,Netherlands
 390,PD4LS,Leo,,,
@@ -95,40 +93,66 @@ Extension,Callsign,Name,City,State,Country
 394,PA2RG,Roel,Vleuten,Utrecht,Netherlands
 395,PA1HS,Henk,,,
 396,PE2AM,Bram,Stiens,Friesland,Netherlands
+397,PA7X,Jan,Den Helder,Noord-Holland,Netherlands
 398,PD4JD,Jeroen,Brunssum,Limburg,Netherlands
 399,PD4ST,Sebastiaan,Maastricht,Limburg,Netherlands
+400,PI4ASD,Radioclub Amsterdam,Amsterdam,Noord-Holland,Netherlands
+401,PD5TOM,Tom,Maastricht,Limburg,Netherlands
+402,PE2AAB,Rick,Aalst-Waalre,Noord-Brabant,Netherlands
+403,PD0DP,Jarno,Weiteveen,Drenthe,Netherlands
+404,PA0AA,Ruben,Brunssum,Limburg,Netherlands
+405,PA5MR,Mario,Raalte,Overijssel,Netherlands
+406,PD0LGM,Hans,,,
+407,PE1OFO,Luciën,RAALTE,Overijssel,Netherlands
+408,PA3EJB,Gert,,,
+409,PH5R,Rudie,,,
+410,PD5PW,Paul,,,
+411,PA1BMA,Barend,,,
+412,PA5PDN,Peter,,,
+413,PA5GF,Gerhald,,,
+414,PD0RNC,Stephan,,,
+415,PD1JSH,Jeroen,Hellendoorn,Overijssel,Netherlands
+416,PD1KJ,Jesse,,,
+417,PD4ET,Erwin,Zevenhoven,Zuid-Holland,Netherlands
+418,PF9Z,Sascha,Nijverdal,Overijssel,Netherlands
+419,PD0KDN,Simon,Stadskanaal,Groningen,Netherlands
+420,PI4T,V.T.A.N. Station,Gulpen,Limburg,Netherlands
+421,PA1LOU,Louis,Gulpen,Limburg,Netherlands
+422,PH0TV,Patrick,Deventer,Overijssel,Netherlands
+423,PD0VV,Marco,,,
+424,PA3BYB,Henny,,,
+425,PD3FCA,Freek,Benthuizen,Zuid-Holland,Netherlands
+426,PB0WIE,Wiegert,Riethoven,Noord-Brabant,Netherlands
 502,PE1JAL,Peter,Leimuiden,Zuid-Holland,Netherlands
 505,PC2C,Rene,Nieuwegein,Utrecht,Netherlands
 506,PA1X,Rob,,,
-513,PA3FHI,Fred,Hendrik Ido Ambacht,Zuid-Holland,Netherlands
+513,PA3FHI,Fred ---- Packet Radio,Hendrik Ido Ambacht,Zuid-Holland,Netherlands
 571,PD5CVL,Cor,Veenendaal,Utrecht,Netherlands
+583,PA1KIR,Rik ---- FAX,,,
 701,PA3GYV,Werner,Alphen aan den Rijn,Zuid-Holland,Netherlands
 702,PE1JAL,Peter,Leimuiden,Zuid-Holland,Netherlands
 705,PC2C,Rene,Nieuwegein,Utrecht,Netherlands
-713,PA3FHI,Fred,Hendrik Ido Ambacht,Zuid-Holland,Netherlands
+713,PA3FHI,Fred ---- FAX,Hendrik Ido Ambacht,Zuid-Holland,Netherlands
 802,PE1JAL,Peter,Leimuiden,Zuid-Holland,Netherlands
 901,PA3GYV,Werner,Alphen aan den Rijn,Zuid-Holland,Netherlands
 902,PE1JAL,Peter,Leimuiden,Zuid-Holland,Netherlands
 905,PC2C,Rene,Nieuwegein,Utrecht,Netherlands
-1000,Dutch Conference Public HamVoIP,,,,
-1001,Dutch Conference,1 Public HamVoIP,,,
+1000,Dutch Conference Public HamVoIP.nl,,,,
+1001,Dutch Conference-1 Public HamVoIP.nl,,,,
 1002,Zeeuwse Conference Public PD9D,,,,
-1003,PI2RLT Public PH5R,,,,
+1003,PI2RLT Conference Public PH5R,,,,
 1100,Scanner VHF Public PE1JAL,,,,
-1101,Packet Experimenteel Public PA3FHI,,,,
-1102,SSTV Experimenteel Public HamVoIP,,,,
+1101,Packet Radio experimenteel Public PA3FHI,,,,
+1102,SSTV experimenteel Public HamVoIP.nl,,,,
 1200,Scanner UHF Public PE1JAL,,,,
-6000,PI4VRZ Nieuwsuitzending Public PC2C,,,,
-6001,ARRL Audio News Public PC2C,,,,
-7001,BBC Worls News Public PC2C,,,,
+2001,697680 Public PC2C,,,,
+6000,Nieuwsuitzending PI4VRZ Public HamVoIP.nl,,,,
+6001,ARRL Audio News Public HamVoIP.nl,,,,
+7001,BBC World News Public PC2C,,,,
 7002,BNR Nieuws Radio Public PC2C,,,,
-7005,Dutch Mil Public PC2C,,,,
 7007,Radio Extra Gold Public PC2C,,,,
-7010,PI3UTR Public PC2C,,,,
-7011,PI3GOE Public PC2C,,,,
-7012,PI1NOS Public PC2C,,,,
-7013,PI2NOS Public PC2C,,,,
-7014,PI1DFT Public PC2C,,,,
-7015,PI3BOZ Public PC2C,,,,
+7010,VHF Repeater PI3UTR Public PC2C,,,,
+7012,SHF Repeater PI1NOS Public PC2C,,,,
+7013,VHF Repeater PI2NOS Public PC2C,,,,
 327683,DAPNET Public PD2EMC,,,,
 3000,Internal,PD2EMC,Amsterdam,Noord-Holland,Netherlands
