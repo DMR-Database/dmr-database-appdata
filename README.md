@@ -1,3 +1,7 @@
+---
+layout: default
+title: DMR User Database App
+---
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 <p align="center">
@@ -13,8 +17,8 @@
 [![iOS](https://img.shields.io/badge/iOS-supported-000000?logo=apple&logoColor=white)](https://apps.apple.com/us/app/dmr-user-database/id6749166551?platform=iphone)
 [![Web](https://img.shields.io/badge/Web-supported-4285F4?logo=googlechrome&logoColor=white)](https://dmr-database.github.io/webapp/)
 
-[![Version](https://img.shields.io/badge/version-1.0.20260728-orange.svg)](CHANGELOG.md)
-[![License](https://img.shields.io/badge/license-Proprietary-lightgrey.svg)](License.txt)
+[![Version](https://img.shields.io/badge/version-1.0.20260728-orange.svg)](https://dmr-database.github.io/CHANGELOG.md)
+[![License](https://img.shields.io/badge/license-Proprietary-lightgrey.svg)](https://dmr-database.github.io/License.txt)
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/bv2SzXxtQy)
 
