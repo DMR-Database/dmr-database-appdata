@@ -1,5 +1,9 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DMR-Database/dmr-database-appdata/refs/heads/main/logo.png" alt="DMR User Database logo" width="320">
+</p>
+
 ## DMR User Database App
 
 [![Windows](https://img.shields.io/badge/Windows-supported-0078D6?logo=windows&logoColor=white)](https://drive.google.com/file/d/16FfKLE_m_e2ssGZnG2hyQJ1Zp1qSwUh7/view?usp=sharing)
@@ -9,8 +13,8 @@
 [![iOS](https://img.shields.io/badge/iOS-supported-000000?logo=apple&logoColor=white)](https://apps.apple.com/us/app/dmr-user-database/id6749166551?platform=iphone)
 [![Web](https://img.shields.io/badge/Web-supported-4285F4?logo=googlechrome&logoColor=white)](https://dmr-database.github.io/webapp/)
 
-[![Version](https://img.shields.io/badge/version-1.0.20260728-orange.svg)](https://dmr-database.github.io/CHANGELOG.md)
-[![License](https://img.shields.io/badge/license-Proprietary-lightgrey.svg)](https://dmr-database.github.io/License.txt)
+[![Version](https://img.shields.io/badge/version-1.0.20260728-orange.svg)](CHANGELOG.md)
+[![License](https://img.shields.io/badge/license-Proprietary-lightgrey.svg)](License.txt)
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/bv2SzXxtQy)
 
