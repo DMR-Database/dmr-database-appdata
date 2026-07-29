@@ -369,7 +369,7 @@ F1ZWN,Courthezon,Provence-Alpes-Cote d Azur,France,Master,1,430.30000,208033,D-S
 F5ZLT,Wimereux,Hauts-de-France,France,Master,1,145.00000,208034,RFF,208034,1,,+0.600,F1CWQ,Mixed Mode
 F5ZXD,Liste Orange,Nouvelle-Aquitaine,France,Master,1,439.90000,208035,Repeater-Allstar,208035,1,,+0.000,F5TTB,Mixed Mode
 F5ZXC,Castres Tarn S-Ouest,Occitanie,France,Master,1,430.56250,208036,BM-IP-FRANCE-3-,208036,1,,+9.400,F5TOH,TS1 TS2
-F1ZXT,Guichen,Bretagne,France,Peer,1,430.01250,208037,BM,208037,1,,+9.400,F4IGV,TS1 TS2
+F1ZXT,Rennes,Bretagne,France,Peer,1,430.01250,208037,BM,208037,1,,+9.400,"F1UOT, F4IGV",TS1 TS2
 F1ZYE,Bry sur Marne,Ile-de-France,France,Master,1,430.53750,208039,BM,208039,1,TG 9 pour le local,+9.4,F4GXL,TS1 TS2
 F1ZXN,Le Croisic,Pays de la Loire,France,Master,1,438.10000,208040,BM,208040,1,Relais DMR F1ZXN<br>MMDVM Raspberry Pi 4 4GB WPSD + Motorola GM340 + Diamond X200N<br>438.2000Mhz / Static TG2087 & TG20844 / CC1<br>https://brandmeister.network/?page=device&id=208040,+0.000,F4GXS,TS2
 F5ZML,Saint Vincent De Tyrosse,Nouvelle-Aquitaine,France,Master,0,439.35000,208041,DMR,208041,1,,-7.600,F5NQK,TS2
@@ -1534,7 +1534,7 @@ HB9RN,Lugano   Sonvico,Ticino,Switzerland,Master,1,145.60000,228017,BM,228017,0,
 HB9FG,Les Geneveys sur coffrane,Fribourg,Switzerland,Master,1,438.45000,228018,BM,228018,0,,-7.600,HB9TUK,TS1 TS2
 HB9GE,Geneva,Geneva,Switzerland,Peer,1,438.67500,228101,BM,228101,1,,-7.600,HB9IBG,TS1 TS2
 HB9GE,Geneva-left bank,Geneva,Switzerland,Peer,1,438.55000,228102,BM,228102,1,,-7.600,HB9IBG,TS1 TS2
-HB9AE,Lutry,Vaud,Switzerland,Peer,1,439.20000,228103,BM,228103,1,,-7.600,HB9DBB,TS1 TS2
+HB9AE,Lutry,Vaud,Switzerland,Peer,1,439.20000,228103,BM,228103,1,,-7.600,"HB9DBB, HB9VJS",TS1 TS2
 HB9RD,Chtonnaye,,Switzerland,Peer,1,438.56250,228104,DMR-plus,228104,0,,-7.600,HB9PCF,TS1 TS2
 HB9RAR,Morlon,,Switzerland,Peer,1,438.73750,228105,DMR-plus,228105,0,,-7.600,HB9HFF,TS1 TS2
 HB9PE,Pays-d Enhaut VD,,Switzerland,Peer,2,438.66250,228106,DMR-plus,228106,0,,-7.600,HB9FMF,TS1 TS2
@@ -1558,11 +1558,11 @@ HB4FL,LA BERNEUSE,,Switzerland,,2,439.57500,228124,BM,228124,0,,-7.600,HB9ADJ,TS
 HB9VD,Le Chasseron,,Switzerland,,1,438.33750,228125,BM,228125,1,,-7.600,HB9TJU,TS1 TS2
 HB9PE,Pays-d Enhaut VD,,Switzerland,,5,145.78750,228126,BM,228126,1,,-0.600,HB9FMF,TS1 TS2
 HB9Y,Sion,,Switzerland,,3,439.52500,228127,BM,228127,1,,-7.600,HB9UQC,TS1 TS2
-HB9AS,LA Berneuse,,Switzerland,,1,438.42500,228128,BM,228128,1,,-7.600,HB9DBB,TS1 TS2
+HB9AS,Leysin,Vaud,Switzerland,Peer,1,438.42500,228128,BM,228128,1,,-7.600,"HB9DBB, HB9VJS",TS1 TS2
 HB9PE,Pays-d Enhaut VD,,Switzerland,,2,439.43750,228129,BM,228129,1,,-7.600,HB9FMF,TS1 TS2
 HB9G,JN36CE,,Switzerland,,1,439.32500,228130,None,228130,0,,-7.600,HB9IBI,
 HB9UCQ,Le Paquier Montbarry,Fribourg,Switzerland,Master,1,438.37500,228131,BM,228131,1,,-7.600,HB9TUK,TS1 TS2
-HB9BR,Daley,,Switzerland,,1,439.40000,228132,BM,228132,1,,-7.600,HB9DBB,TS1 TS2
+HB9BR,Lutry,Vaud,Switzerland,Peer,1,439.40000,228132,BM,228132,1,,-7.600,"HB9DBB, HB9VJS",TS1 TS2
 HB9FG,Le Berra Sommet,Fribourg,Switzerland,Master,1,439.00000,228201,BM,228201,1,,-7.600,HB9TUK,TS1 TS2
 HB9LC,La Chaux-de-Fonds,,Switzerland,,1,438.52500,228202,None,228202,1,,7.600,HB9HLI,
 HB9BO,Interlaken,Bern,Switzerland,Master,1,439.56250,228300,SwissDMR,228300,1,,-7.600,HB9DUU,TS1 TS2
@@ -3357,6 +3357,7 @@ DB0HTV,Frankfurt am Main,Hessen,Germany,Peer,1,439.42500,262268,BM,262268,1,inte
 DB0MMO,Esselbach,Bayern,Germany,Peer,1,439.87500,262269,BM,262269,1,None,-9.400,"DH4FAJ, DO9FSC",TS1 TS2
 DB0SY,Fmt. HH-Lohbruegge,,Germany,,1,438.62500,262270,DMR-plus,262270,0,,-7.600,DL3HBO,TS1 TS2
 DB0XH,JO53CL,,Germany,,1,439.20000,262271,DMR-plus,262271,0,,-7.600,DL3HBO,TS1 TS2
+DM0NDR,Hamburg Moorfleet,Hamburg / Schleswig-Holstein,Germany,Peer,0,439.57500,262272,Hamnet,262272,1,None,7.600,DH4HAM,Mixed Mode
 DB0ABG,Ahrensburg,,Germany,,1,439.50000,262273,DMR-plus,262273,1,,-7.600,DL5KUA,TS1 TS2
 DB0HHH,HH-Lohbruegge,,Germany,,1,438.62500,262277,DMR-plus,262277,1,,-7.600,DK1MC,TS1 TS2
 DB0MIA,Hohwachter Bucht,,Germany,,1,144.81250,262278,DMR-plus,262278,1,,0.000,DB9HE,TS1 TS2
@@ -3614,7 +3615,7 @@ DO0DXE,Kassel,Hessen,Germany,Peer,1,438.32500,262666,DMR-plus,262666,1,,-7.600,D
 DB0RHN,Rhoen,Hessen,Germany,,1,439.83750,262670,DMR-plus,262670,1,,-9.400,DG8FAC,TS1 TS2
 DB0KT,Herchenhain JO40pl,Hessen,Germany,,1,439.86250,262673,DMR-plus,262673,1,,-9.400,DF5FF,TS1 TS2
 DB0WIZ,Witzenhausen,Hessen,Germany,Master,1,439.38750,262678,"BM, DMR-plus",262678,1,,-7.6,DB2OE,Mixed Mode
-DB0TM,Habichtswald,Hessen,Germany,,1,439.96250,262680,DMR-plus,262680,1,,-9.400,DG7FG,TS1 TS2
+DB0TM,Habichtswald,Hessen,Germany,Peer,1,439.96250,262680,Brandmeister,262680,1,,-9.400,DG7FG,TS1 TS2
 DO0LF,Korbach/Goldhausen,Hessen,Germany,,1,439.23750,262689,None,262689,1,,7.600,DO4BOS,
 DM0GG,Gross-Gerau,Hessen,Germany,,1,438.22500,262690,BM,262690,1,,-7.600,DD2ZM,TS1 TS2
 DB0HTV,Frankfurt am Main,Hessen,Germany,Peer,1,439.42500,262691,Brandmeister,262691,1,,-7.600,"DL1XM, DG3FBL, DJ2VA",TS1 TS2
@@ -3989,7 +3990,6 @@ LZ0ATV,Sofia,Sofia City,Bulgaria,Peer,1,439.42500,284001,BM,284001,1,,-7.600,LZ7
 LZ0HAM,peak Botev,Plovdiv,Bulgaria,Peer,1,439.50000,284002,IPSC2,284002,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
 LZ0DDA,peak Petrohan,Sofia,Bulgaria,Peer,1,438.45000,284003,IPSC2,284003,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
 LZ0DSD,Sliven,Sliven,Bulgaria,Peer,1,439.25000,284004,BrandMeister,284004,1,"The repeater operates in DMR mode in BrandMeister network, connected to XLX359B via BM2841.<br>Static talk groups: TS1 - TG284 and TS2 - TG284359.",-7.600,LZ1KM,TS1 TS2
-LZ0DDF,Sofia,Sofia City,Bulgaria,Peer,1,439.47500,284005,BM,284005,1,,-7.600,"LZ7DJ, LZ1NSV",TS1 TS2
 LZ0WDX,Sofia,,Bulgaria,,1,439.25000,284006,DMR-plus,284006,0,,-7.600,LZ1WDX,TS1 TS2
 LZ0DAD,Sunny Beach,Burgas,Bulgaria,Peer,1,438.50000,284008,IPSC2,284008,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
 LZ0DAV,Varna,Varna,Bulgaria,Peer,1,438.55000,284009,IPSC2,284009,1,284<br>2840,-7.600,LZ1AA,TS1 TS2
@@ -9063,7 +9063,6 @@ N4TAE,Theodore,Alabama,United States,Peer,7,145.13000,315055,AmComm,315055,1,Non
 KN4KAN,Enville,Tennessee,United States,Peer,1,444.35000,315056,Brandmister,315056,1,None,+5.000,KN4KAN,TS1 TS2
 W1SMS,DANBURY,Connecticut,United States,Peer,0,445.92500,315057,interstate,315057,1,None,5.000,W1SMS,TS1 TS2
 WA5AIR,Woodlands,Texas,United States,Peer,4,444.50000,315058,Brandmeister,315058,1,None,+5.000,WA5AIR,TS1 TS2
-W4BAD,Durham NC,North Carolina,United States,Peer,1,440.65000,315059,Brandmister,315059,1,None,+5.000,W4BAD,TS1 TS2
 K5WHB,Corinth,Mississippi,United States,Peer,1,444.98750,315060,tgif,315060,1,None,+5.000,K5WHB,TS1
 KC4AYX,Elizabethton,Tennessee,United States,Peer,9,223.80000,315061,Brandmeister,315061,1,None,-1.600,KC4AYX,TS2
 N6ZX,Woodside,California,United States,Peer,1,440.45000,315062,Brandmeister,315062,1,None,5.000,N6YP,TS1 TS2
@@ -9254,6 +9253,7 @@ W5ZMV,TEXAS CITY,Texas,United States,Peer,5,440.62500,315826,Lonestar,315826,1,,
 KE5PL,Midland,Texas,United States,Peer,7,147.22000,315827,P25NX,315827,1,,+0.600,KE5PL,TS1
 N5ETX,Farmersville,Texas,United States,Peer,1,0.00000,315828,Brandmeister,315828,1,,+5.000,WB5KSD,TS1 TS2
 W5DFW,Keller,Texas,United States,None,1,424.97500,315829,Mixed Mode,315829,1,,+5.000,N5CN,TS1 TS2
+W5VOM,Houston,Texas,United States,Peer,9,443.75000,315830,TMARC Houston,315830,1,Timeslot 1	                                                      Timeslot 2<br>Talkgroup Name	Talkgroup ID		         Talkgroup Name	    Talkgroup ID<br>Local Repeater	   2		                          Texas Statewide	        3148<br>HTX2	                   8204		                   Worldwide	                 1<br>BM South Texas	   31482		                   North America	         3<br>BM SouthEast Texas  31484	                           TAC310	                         310<br>AMSAT	                    98006<br>SETECG	                    8686<br>SkyHub Link	           310847<br>NARS	                   3146211<br>HOU Metro	           8207,+5.000,W5VOM,TS1 TS2
 W5EBQ,Dallas,Texas,United States,Master,1,441.63750,315831,Lonestar,315831,1,,+5.000,W5EBQ,TS1 TS2
 N5JLP,Belton,Texas,United States,Master,10,442.67500,315832,Brandmiester,315832,1,,+5.000,N5SIM,TS1 TS2
 KC5HWB,Howe,Texas,United States,Master,9,440.20000,315833,CBridge 2.0,315833,1,www.DMRTexas.net,+5.000,KC5HWB,TS1 TS2
@@ -10062,7 +10062,6 @@ DX8CAR,Kidapawan,Soccsksargen,Philippines,Master,2,436.50000,515801,mixed mode,5
 DX9RN,Oroquieta,Northern Mindanao,Philippines,None,1,435.85000,515901,DMR,515901,1,,-0.500,4I9WSR,TS1 TS2
 DX8CAR,Davao,Davao Region,Philippines,Master,2,436.50000,515902,mixed mode,515902,1,,-5.000,4F9AR,TS1
 DX9RN,Aloran,Northern Mindanao,Philippines,None,1,435.85000,515903,IPSC,515903,1,,+0.600,4I9WSR,TS1 TS2
-HS8AS,Muang,Surat Thani,Thailand,Master,1,146.62500,520001,BM Malaysia,520001,1,,-0.600,HS8AFA,TS1 TS2
 E25CO,Muang Sisaket,Si Sa Ket,Thailand,Master,1,145.78750,520002,BM,520002,1,,-0.600,HS3QQS,TS2
 E25BM,MuangChon,Chon Buri,Thailand,Peer,1,145.78750,520003,BM,520003,1,,-0.000,HS2YTY,TS1 TS2
 HS2AC,Chonburi,Bangkok,Thailand,Master,1,146.61250,520004,Linux,520004,1,,-0.600,HS2YTY,TS1 TS2
@@ -10377,7 +10376,7 @@ PY4DIG,Conselheiro Lafaiete,Minas Gerais,Brazil,Master,1,439.60000,724063,BrandM
 PY2DVR,Serra do Japi Cabreuva,Sao Paulo,Brazil,Master,1,146.67000,724064,Brandmeister,724064,1,,-0.600,PY2LY,TS1 TS2
 PY2KLF,Birigui,Sao Paulo,Brazil,Master,1,147.30000,724065,BrandMeister,724065,0,,+0.600,PU2PHK,TS1 TS2
 PY1YRG,Saquarema,Rio de Janeiro,Brazil,Peer,1,439.92500,724066,DMR+,724066,1,,-5.000,PY1IP,TS1 TS2
-PY5CLB,Colombo,Parana,Brazil,Master,1,439.85000,724067,A,724067,1,,-5.000,PY5TD,TS1 TS2
+PY5CLB,Colombo,Parana,Brazil,Master,1,439.85000,724067,brandmeister,724067,1,,-5.000,PY5TD,TS1 TS2
 PY2KCI,Sao Carlos Sp,Sao Paulo,Brazil,Master,1,146.79000,724068,BrandMeister,724068,0,,-0.600,PU2XMZ,TS1 TS2
 PY6GI,Tanquinho,Bahia,Brazil,Master,1,144.40000,724069,BrandMeister,724069,1,"TG724,TG72422",+0.600,PY6PJN,TS1 TS2
 PY2KDD,Jaboticabal,Sao Paulo,Brazil,Master,1,145.43000,724070,Brandmeister,724070,0,,-0.600,PY2LRB,Mixed Mode
@@ -10594,7 +10593,7 @@ PY4RGI,Guape,Minas Gerais,Brazil,Master,1,145.49000,724419,Brandmeister,724419,1
 PY5MAE,Maringa,Parana,Brazil,Peer,1,147.36000,724501,DMR,724501,1,,-0.600,PY5RCB,TS1 TS2
 PY5ETI,Balsa Nova,Parana,Brazil,Master,1,146.97000,724502,DMR+ MASTER SUL,724502,1,,-0.600,PY5JP,TS1 TS2
 PY5RBR,Sao Jose dos Pinhais,Parana,Brazil,Peer,1,145.29000,724503,DMR+ MASTER SUL,724503,1,,-0.600,PY5JP,TS1 TS2
-PY5DMR,Sao jose dos Pinhais,Parana,Brazil,Master,1,145.33000,724505,A,724505,1,,-0.600,PY5TD,TS1 TS2
+PY5DMR,Sao jose dos Pinhais,Parana,Brazil,Master,1,145.33000,724505,brandmeister,724505,1,,-0.600,PY5TD,TS1 TS2
 PY5VV,Ponta Grossa,Parana,Brazil,Master,1,146.91000,724506,DMR/Brandmeister,724506,1,,-0.600,PY5AX,TS1 TS2
 PY5JRE,Curitiba,Parana,Brazil,Master,1,439.00000,724507,DMR+ MASTER SUL,724507,1,,-5.000,PY5JP,TS1 TS2
 PY6MR,SALVADOR,Bahia,Brazil,Master,9,146.61000,724601,ADSL,724601,1,,-0.600,PY6MV,Mixed Mode
@@ -10702,7 +10701,7 @@ CD3IRV,SANTIAGO,Reg.Metr. de Santiago,Chile,Master,1,434.25000,730315,brandmeist
 CE4RAY,Pelluhue,Maule,Chile,Peer,1,145.50000,730402,adn system chile,730402,1,730/73011/7304,-0.600,CE4RAY,Mixed Mode
 CE4RAY,Chanco,Maule,Chile,Master,1,438.00000,730403,mixed,730403,1,,-5.000,CE4RAY,TS1 TS2
 CE5BIO,Los Angeles,Bio Bio,Chile,Peer,1,146.79000,730502,Brandmeister,730502,1,,-0.600,CE5KI,TS1 TS2
-CE7RFS,CASTRO,Los Lagos,Chile,None,1,147.00000,730602,YES,730602,1,,-0.000,CE7RFS,None
+CE7RFS,CASTRO,Los Lagos,Chile,Peer,1,144.60000,730602,YES,730602,1,,+0.600,CE7RFS,TS1
 CE6RRE,Valdivia,La Araucania,Chile,Master,1,146.82000,730603,DMR,730603,0,,-0.600,CE1WFN,TS1 TS2
 CE8WDB,PUNTA ARENAS,Magallanes,Chile,Peer,1,145.50000,730801,Brandmeister,730801,1,,+0.600,CE8WDB,TS1 TS2
 CE8WDB,Punta Arenas,Magallanes,Chile,Peer,1,433.05000,730802,Brandmeister,730802,1,,+5.000,CE8WDB,TS1 TS2
