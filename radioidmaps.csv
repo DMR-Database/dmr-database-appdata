@@ -634,8 +634,8 @@ ED1YBT,BURGOS,,Spain,,1,438.45000,BM,42.256096,-3.245090,214108,,-7.600,ACTIVE,E
 ED1ZAK,Repetidor Dmr Burgos,,Spain,,1,145.58750,DMR-plus,42.315300,-3.660300,214109,,-0.600,ACTIVE,EA1GLE,TS1 TS2
 ED1ZBI,Sabadelle - Ourense,Ourense,Spain,Master,1,438.50000,BM,42.358330,-7.829650,214110,,-7.600,ACTIVE,EA1CI,TS1 TS2
 ED1ZBH,Manzaneda - Ourense,Ourense,Spain,Master,1,438.57500,BM,42.25845,-7.30186,214111,,-7.600,ACTIVE,EA1CI,TS1 TS2
-ED1ZAR,Monte Fontardion,,Spain,,1,438.50000,BM,43.422653,-7.995711,214112,,-7.600,ACTIVE,EA1RKF,TS1 TS2
-ED1ZAX,Monte Xiabre,,Spain,,1,438.52500,BM,42.631756,-8.699020,214113,,-7.600,ACTIVE,EA1RKF,TS1 TS2
+ED1ZAR,FENE,A Coruna,Spain,Peer,1,438.50000,BM,43.422653,-7.995711,214112,,-7.600,ACTIVE,EA1RKF,TS1 TS2
+ED1ZAX,Vilagarcia de Arousa,Pontevedra,Spain,Peer,1,438.52500,BM,42.631756,-8.699020,214113,,-7.600,ACTIVE,EA1RKF,TS1 TS2
 ED1ZAZ,Isla,Cantabria,Spain,Master,1,438.42500,BM,43.4934282,-3.5689291,214114,,-7.600,ACTIVE,EA2CQ,TS1 TS2
 ED1YAF,AVILA,,Spain,,1,438.47500,DMR-plus,40.46266,-4.46866,214115,,-7.600,ACTIVE,EA1UF,TS1 TS2
 ED1ZBG,Parada Sil - Ourense,Ourense,Spain,Master,1,438.55000,BM,42.349571,-7.609970,214118,,-7.600,ACTIVE,EA1CI,TS1 TS2
@@ -3990,6 +3990,7 @@ LZ0ATV,Sofia,Sofia City,Bulgaria,Peer,1,439.42500,BM,42.636730,23.243853,284001,
 LZ0HAM,peak Botev,Plovdiv,Bulgaria,Peer,1,439.50000,IPSC2,42.7175,24.9171,284002,284<br>2840,-7.600,ACTIVE,LZ1AA,TS1 TS2
 LZ0DDA,peak Petrohan,Sofia,Bulgaria,Peer,1,438.45000,IPSC2,43.1333,23.1187,284003,284<br>2840,-7.600,ACTIVE,LZ1AA,TS1 TS2
 LZ0DSD,Sliven,Sliven,Bulgaria,Peer,1,439.25000,BrandMeister,42.676210,26.342436,284004,"The repeater operates in DMR mode in BrandMeister network, connected to XLX359B via BM2841.<br>Static talk groups: TS1 - TG284 and TS2 - TG284359.",-7.600,ACTIVE,LZ1KM,TS1 TS2
+LZ0DDF,Sofia,Sofia City,Bulgaria,Peer,1,439.47500,BM,42.563774,23.278488,284005,,-7.600,ACTIVE,"LZ7DJ, LZ1NSV",TS1 TS2
 LZ0WDX,Sofia,,Bulgaria,,1,439.25000,DMR-plus,,,284006,,-7.600,ACTIVE,LZ1WDX,TS1 TS2
 LZ0DAD,Sunny Beach,Burgas,Bulgaria,Peer,1,438.50000,IPSC2,42.7991,27.6550,284008,284<br>2840,-7.600,ACTIVE,LZ1AA,TS1 TS2
 LZ0DAV,Varna,Varna,Bulgaria,Peer,1,438.55000,IPSC2,43.2526,27.9057,284009,284<br>2840,-7.600,ACTIVE,LZ1AA,TS1 TS2
@@ -4043,7 +4044,7 @@ YM1KK,Istanbul,Marmara Region,Turkiye,Peer,1,439.22500,BM,41.0163900,29.0655000,
 YM1KAB,ISTANBUL,Marmara Region,Turkiye,Peer,0,439.23750,BrandMeister,41.0292221,28.6027769,286003,None,-7.600,ACTIVE,"TA1MLD, YM1KAB",TS1 TS2
 YM1KPL,Tekirdag,Marmara Region,Turkiye,Peer,1,439.41250,BrandMeister,41.2965546,27.9464071,286004,None,-7.600,ACTIVE,"TA1NDA, YM1KPL, TA1DRD, TA1TEC",TS1
 TB7CEA,Ordualtinordu,Black Sea Region,Turkiye,Peer,1,432.50000,0,40.9782600,37.9547720,286006,Hicbiri,0.000,ACTIVE,TB7CEA,TS2
-YM6VSM,SAMSUN,Black Sea Region,Turkiye,Peer,1,439.27500,Brandmeister,41.1247250,36.1748040,286008,SAMRAD UHF 439.275,-7.600,ACTIVE,"YM6VSM, TA6UNT",TS2
+YM6VSM,SAMSUN,Black Sea Region,Turkiye,Peer,1,439.27500,Brandmeister,41.2125000,36.2970000,286008,SAMRAD UHF 439.275,-7.600,ACTIVE,"YM6VSM, TA6UNT",TS1 TS2
 YM6VSM,samsun,Black Sea Region,Turkiye,Peer,1,145.72500,Brandmeister,41.1247250,36.1748040,286009,SAMRAD VHF DMR 145.725,-0.600,ACTIVE,"YM6VSM, TA6UNT",TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.15000,BM,36.9863599,35.3252861,286010,286010,-7.600,ACTIVE,TA5FW,TS1 TS2
 YM5KA,Adana,Mediterranean Region,Turkiye,Peer,1,439.16250,BM,38.6612731,28.8586453,286011,286011,-7.600,ACTIVE,TA5FW,TS1 TS2
@@ -4629,7 +4630,8 @@ VE2SWH,Sainte-Sophie,Quebec,Canada,Peer,2,448.67500,HOME,45.7956921,-73.9391855,
 VE1VO,Liverpool,Nova Scotia,Canada,Peer,1,444.30000,Brandmister,44.0678440,-64.7186490,302461,None,+5.000,ACTIVE,VE1SMC,TS1 TS2
 VE3UHF,Hanover,Ontario,Canada,Master,1,146.91000,BM,44.1474970,-81.0145000,302462,None,-.600,ACTIVE,VE3BM,TS1 TS2
 VE3NEM,Dutton,Ontario,Canada,Peer,1,445.60000,Brandmeister,42.6662000,-81.4963200,302463,None,-5.000,ACTIVE,"VE3NEM, VE3NRJ",TS1 TS2
-VA3ODR,Oshawa,Ontario,Canada,Peer,6,442.87500,BM,44.0368651,-78.9196453,302465,None,5.000,ACTIVE,VE3EAB,TS1 TS2
+VA3ODR,Oshawa,Ontario,Canada,Peer,6,442.87500,Brandmeister,43.8994520,-78.8606980,302465,None,+5.000,ACTIVE,VE3EAB,TS1 TS2
+VA3XDR,Oshawa,Ontario,Canada,Peer,6,146.72000,Brandmeister,44.0368651,-78.9196453,302466,None,-0.600,ACTIVE,VE3EAB,TS1 TS2
 VE5DMR,Swift Current,Saskatchewan,Canada,None,1,443.00000,DMR-MARC Canada,50.30184070000001,-107.8393936,302501,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada<br>Time Slot #1 - Group Call 310 = TAC310<br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba<br>Time Slot #2 - Group Call 3026 = Alberta<br>Time Slot #2 - Group Call 3029 = New Brunswick<br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE5EN<br>Contact email: ve5en@shaw.com,+5.000,ACTIVE,VE5EN,TS1 TS2
 VE6VPR,Edmonton,Alberta,Canada,Peer,1,440.80000,DMR-MARC Canada,53.5265078,-113.3021517,302600,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE6AEW<br>Contact email:,+5.000,ACTIVE,VE6AEW,TS1 TS2
 VE6RYC,Calgary,Alberta,Canada,Master,1,444.00000,DMR-MARC Canada,51.0448476,-114.0710449,302601,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: Doug Howard, VE6CID<br>Contact email:ve6cid@me.com",+5.000,ACTIVE,VE6CID,TS1 TS2
@@ -7307,6 +7309,7 @@ W8CCE,Cheboygan,Michigan,United States,Master,1,443.37500,"TGIF, BM",45.4479871,
 KD5KJZ,Canton,Texas,United States,Peer,1,442.22500,DMR-MARC,32.555664,-95.8640507,313024,,+5.00,ACTIVE,KD5KJZ,TS1 TS2
 N7MQE,Pioche,Nevada,United States,Peer,1,449.12500,BM,37.895127,-114.576603,313025,,-5.00,ACTIVE,N7MQE,TS1 TS2
 K6DRI,Santa Cruz,California,United States,Master,1,145.00000,BM,36.996,-121.994,313026,,+2.500,ACTIVE,N6KTO,Mixed Mode
+KE4UHF,Vidalia,Georgia,United States,Master,1,444.57500,DMR-MARC,32.2176855,-82.4134614,313027,,+5.000,ACTIVE,KE4UHF,TS1 TS2
 K5JG,Longview,Texas,United States,Peer,1,441.62500,C-Bridge 2.0,32.526872,-94.704774,313028,,+5.000,ACTIVE,K5JG,TS1 TS2
 W0PLV,Pleasantville,Iowa,United States,Master,1,147.33000,BM,41.3970561,-93.2754289,313029,,+0.600,ACTIVE,W0PLV,TS1 TS2
 KA4ELN,Cleveland,Tennessee,United States,Peer,1,442.40000,BM,35.1525,-84.5594,313032,,+5.000,ACTIVE,W4GZX,TS1 TS2
@@ -9079,6 +9082,8 @@ W1ASS,Georgetown,Massachusetts,United States,Master,1,927.72500,BrandMeister,42.
 W6IDK,Frenchtown,Montana,United States,Peer,0,144.70000,home,47.0149000,-114.2298000,315074,None,-0.600,ACTIVE,W6IDK,Mixed Mode
 N0DJR,Lincoln,Arkansas,United States,Master,1,439.98750,MeisterBurger,35.9501000,-94.4100000,315075,None,5.000,ACTIVE,N0DJR,TS2
 K3SEM,Washington,Pennsylvania,United States,Peer,1,442.45000,WR3IRS Interstate Network,40.1314750,-80.2415080,315076,None,+5.000,ACTIVE,K3SEM,TS1 TS2
+WR7HLN,Truth or Consequences - Caballo Peak,New Mexico,United States,Peer,1,443.15000,BrandMeister,32.9712510,-107.2243590,315077,Caballo Peak<br>DMR only,+5.000,ACTIVE,WR7AGT,TS1 TS2
+W4BAD,GORMAN,North Carolina,United States,Peer,1,444.78750,Brandmeister,36.0446070,-78.7674740,315078,None,5.000,ACTIVE,W4BAD,TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,DMRVA,37.5358149,-77.3821587,315101,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,ACTIVE,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,NC-PRN-,36.6474353,-80.6437257,315102,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,ACTIVE,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,NC-PRN,36.8663865,-81.0515927,315103,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,ACTIVE,K4IJ,TS1 TS2
