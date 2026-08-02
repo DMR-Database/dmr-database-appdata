@@ -617,9 +617,10 @@ ED2ZAN,Bellestar,Huesca,Spain,Peer,1,438.35000,214016,BM,214016,1,TS1       TG21
 ED1ZAJ,Verin,Ourense,Spain,Master,1,438.30000,214017,BM,214017,1,,-7.6,EB1AJP,TS1 TS2
 ED1ZBL,EZCARAY,La Rioja,Spain,Master,1,438.25000,214018,DMR,214018,1,,-7.600,EA1URH,TS1 TS2
 ED1ZBK,Salas,Asturias,Spain,Master,1,438.37500,214019,BM,214019,1,,-7.600,EA1JAY,TS1 TS2
-ED3YBK,Esparreguera,Barcelona,Spain,Master,1,145.57500,214020,BM,214020,1,TG 8 CLUSTER EA3SPAIN EN SLOT 2 PERMANENTE,-0.600,EA3PJ,Mixed Mode
+ED3YBK,Esparreguera,Barcelona,Spain,Master,1,145.57500,214020,BM,214020,1,TG 8 CLUSTER EA3SPAIN EN SLOT 2 PERMANENTE,-0.600,EA3PJ,TS1 TS2
 ED3YBK,Esparreguera,Barcelona,Spain,Master,1,145.57500,214021,BM,214021,1,TG 214316 EA3SPAIN,-0.600,EA3PJ,TS1 TS2
 ED5ZAQ,Higueruela,Albacete,Spain,Master,1,438.40000,214022,BM,214022,1,,-7.600,EA5SW,TS1 TS2
+EA4XXX,Getafe,Madrid,Spain,Peer,1,438.25000,214024,DMR-plus,214024,0,,-7.600,EA4BX,TS1 TS2
 ED1YBL,Parada Sil - Ourense,Ourense,Spain,Master,1,145.63750,214025,BM,214025,1,None,-0.600,EA1CI,Mixed Mode
 ED1YBK,Sabadelle - Ourense,Ourense,Spain,Master,1,438.25000,214026,BM,214026,1,None,-7.600,EA1CI,Mixed Mode
 EA4GTP,Mostoles,Madrid,Spain,Peer,1,438.45000,214027,192.168.10.1,214027,1,None,-7.600,EA4GTP,TS1 TS2
@@ -733,8 +734,8 @@ ED5ZAN,MURCIA,,Spain,,1,438.25000,214520,BM,214520,1,,-7.600,EA5ABE,TS1 TS2
 ED5YAT,Aguilas,,Spain,,1,145.62500,214525,DMR-plus,214525,1,,0.600,EA5RCU,TS1 TS2
 ED5ZAD,Cid Petrer Alicante,,Spain,,1,439.17500,214555,BM,214555,1,,-7.600,EC5W,TS1 TS2
 ED5ZAI,Denia,Alicante,Spain,Peer,1,438.40000,214566,DMR-plus,214566,1,,-7.600,"EA5BUS, EB5FOL",TS1 TS2
-ED6ZAA,FELANITX - MALLORCA,,Spain,,1,430.65000,214601,DMR-plus,214601,1,,7.600,EA6QJ,TS1 TS2
-ED6ZAB,Randa - Mallorca,,Spain,,1,438.45000,214602,DMR-plus,214602,1,,-7.600,EA6QJ,TS1 TS2
+ED6ZAA,Felanitx,Baleares,Spain,Peer,1,430.65000,214601,DMR-plus,214601,1,,7.600,EA6QJ,TS1 TS2
+ED6ZAB,Algaida,Baleares,Spain,Peer,1,438.45000,214602,DMR-plus,214602,1,,-7.600,EA6QJ,TS1 TS2
 ED7ZAJ,CCMD/Gibalbin-Cadiz,,Spain,,1,438.60000,214701,DMR-plus,214701,1,,-7.600,EA7DYY,TS1 TS2
 ED7ZAC,Malaga,,Spain,,0,438.45000,214702,BM,214702,1,,-7.600,EA7BJ,TS1 TS2
 ED7YAU,CMD(S.Gibalbin),,Spain,,0,439.35000,214703,BM,214703,1,,-7.600,EA7DYY,TS1 TS2
@@ -747,7 +748,7 @@ ED7ZAH,ALMERIA,,Spain,,1,438.42500,214710,DMR-plus,214710,1,,-7.600,EA7BHR,TS1 T
 ED7YAV,CERRO CEUTA (CADIZ),,Spain,,1,438.95000,214711,DMR-plus,214711,1,,-7.600,EA7DYY,TS1 TS2
 ED7ZAN,TETICA DE BACARES,Almeria,Spain,Master,1,438.27500,214712,BM,214712,1,214712 214 214001,-7.600,EA7KFF,TS1 TS2
 ED7ZAD,Sierra Morena,,Spain,,1,438.90000,214713,BM,214713,1,,-7.600,EA7AEB,TS1 TS2
-ED7ZAO,Tarifa,,Spain,,1,438.52500,214714,BM,214714,1,,-7.600,EA7BF,TS1 TS2
+ED7ZAO,Tarifa,Cadiz,Spain,Peer,1,438.52500,214714,BM,214714,1,,-7.600,EA7BF,TS1 TS2
 ED7ZAF,EL EJIDO-ALMERIA,Almeria,Spain,Master,1,438.30000,214720,BM,214720,1,MOTOTRBO DR3000 5W.<br>TS1 214<br>TS2 21404,-7.600,EA7KY,TS1 TS2
 ED7YBB,Jaen,,Spain,,1,438.50000,214750,None,214750,1,,7.600,EA7IG,
 ED7ZAL,SEVILLA,Sevilla,Spain,Peer,1,438.42500,214770,BrandMeister,214770,1,,-7.600,EA7GIB,TS1 TS2
@@ -878,7 +879,6 @@ YU0DSA,Subotica,,Serbia,Master,1,438.45000,220030,BM,220030,1,TS1 220<br>TS2 220
 YU2MS,Zlatibor,,Serbia,,1,434.78750,220031,None,220031,0,,0.000,YU1WS,
 YU1ADO,Krusevac Serbia,,Serbia,,1,145.70000,220037,None,220037,0,,-0.600,YT2DT,
 YU0UPP,Prijepolje,,Serbia,Master,1,434.90000,220077,BM,220077,1,,-1.600,YU1DZ,TS1 TS2
-YU0BGU,Belgrade,,Serbia,,1,434.97500,220112,None,220112,0,,-1.600,YU5JZI,
 IR0DU,Roma Centro,Lazio / Umbria / Sardinia,Italy,Peer,1,430.35000,222000,DMR-Marc,222000,1,,+1.600,IK0YYY,TS1 TS2
 IR0MA,Roma Monte Cavo,Lazio / Umbria / Sardinia,Italy,Peer,1,430.40000,222001,DMR-plus,222001,1,,+1.600,IK0YYY,TS1 TS2
 IR0UEJ,Mt. San Biagio,,Italy,Peer,15,430.42500,222002,BM,222002,1,,5.000,IZ0CZW,TS1 TS2
@@ -993,7 +993,7 @@ IR1UIO,Castellamonte,,Italy,,1,430.61250,222117,DMR-plus,222117,1,,5.000,IK1BQD,
 IR1UDT,Rivoli,,Italy,,1,430.50000,222118,DMR-plus,222118,0,,5.000,IK1JNS,TS1 TS2
 IR1UIQ,Monte Mottarone,,Italy,,1,430.58750,222120,BM,222120,0,,5.000,IW1BZH,TS1 TS2
 IR1UIP,Domodossola,,Italy,,1,430.12500,222121,BM,222121,1,,5.000,IW1BZH,TS1 TS2
-IR1DF,Tigullio,,Italy,,1,430.96250,222122,DMR-plus,222122,1,,5.000,IK1WHN,TS1 TS2
+IR1DF,Carasco,Piedmont / Liguria / Aosta,Italy,Peer,1,430.96250,222122,Brandmeister,222122,1,,5.000,IK1WHN,TS1 TS2
 IR1CT,Levanto,,Italy,,1,430.92500,222123,DMR-plus,222123,1,,5.000,IK1YPD,TS1 TS2
 IR1UDK,Monte Burot  SV,Piedmont / Liguria / Aosta,Italy,Master,1,430.88750,222125,BM,222125,1,TS1 TG222 Italy<br>TS1 TG22287 CISAR<br>TS2 Network Savona 222108<br>other TS1 & TS2 ON DEMAND,+5.000,IW1PPB,TS1 TS2
 IZ1PPC,DOMODOSSOLA,,Italy,,1,145.78750,222126,BM,222126,0,,-0.600,IW1BZH,TS1 TS2
@@ -1131,7 +1131,7 @@ IR2DO,Venegono Superiore,Lombardy,Italy,,1,145.77500,222267,DMR-plus,222267,1,,-
 IR1ZWW,Chiaves,Piedmont / Liguria / Aosta,Italy,Master,1,430.20000,222268,DSTAR XLX585 BM,222268,1,TG222<br>TG22212<br>TG222074,+5.000,IQ1GP,TS1 TS2
 IR2UGM,Varese C.dei Fiori,Lombardy,Italy,,1,431.45000,222269,None,222269,1,,1.600,IW2EPB,
 IR2ZZX,Garbagnate Monastero,Lombardy,Italy,Master,1,430.97500,222270,BM,222270,1,,+5.000,IU2TBA,TS1 TS2
-IR2UDP,Monte Canto (BG),Lombardy,Italy,,1,430.43750,222271,BM,222271,1,,5.000,IW2BGD,TS1 TS2
+IR2UDP,Vimercate,Lombardy,Italy,Peer,1,430.43750,222271,BM,222271,1,,5.000,IW2BGD,TS1 TS2
 IR1ZZE,Pecetto,Piedmont / Liguria / Aosta,Italy,Master,5,431.35000,222272,BM,222272,1,,+1.6,IW1BEB,TS1 TS2
 IR2UCZ,Varese,Lombardy,Italy,Master,1,430.05000,222273,BM,222273,1,BM<br>Torre Civica Varese JN45JT ARI VARESE<br>TS1 Cluster Insubria 222049 (TG88)<br>TS2 TG Lombardia 22221,+1.600,IZ2QCP,TS1 TS2
 IR2UD,Viggi,Lombardy,Italy,Master,1,430.12500,222274,BM,222274,1,BM<br>Monte Orsa JN45KV ARI VARESE<br>TS1 Cluster Insubria 222049 (TG88)<br>TS2 TG Lombardia 22221,+1.600,IZ2QCP,TS1 TS2
@@ -1249,9 +1249,9 @@ IR4UCN,Monte Feriti,Emilia-Romagna,Italy,Master,1,430.37500,222406,BM,222406,1,,
 IR4UBY,Brisighella,Emilia-Romagna,Italy,,1,431.28750,222407,BM,222407,1,,1.600,IK4WLV,TS1 TS2
 IR4UCC,Cervia,Emilia-Romagna,Italy,Master,1,433.45000,222408,BM,222408,1,,+0.000,IZ4OTG,TS1 TS2
 IR4UBX,Monfestino,Emilia-Romagna,Italy,,1,431.22500,222409,None,222409,1,,1.600,IZ4EFN,
-IR4UBK,Montefiore Conca RN,Emilia-Romagna,Italy,,1,430.20000,222410,DMR-plus,222410,1,,1.600,IZ4ISN,TS1 TS2
+IR4UBK,Montefiore Conca RN,Emilia-Romagna,Italy,Peer,1,430.20000,222410,BrandMeister,222410,1,,1.600,IZ4ISN,TS1 TS2
 IR4UBW,Monte Falco-Campigna,Emilia-Romagna,Italy,Master,1,430.91250,222411,BM,222411,1,,+5.000,IZ4YMS,TS1 TS2
-IR4AX,Rimini Grattacielo,Emilia-Romagna,Italy,,1,430.86250,222412,DMR-plus,222412,1,,5.000,IZ4ISN,TS1 TS2
+IR4AX,Rimini Grattacielo,Emilia-Romagna,Italy,Peer,1,430.86250,222412,BrandMeister,222412,1,,5.000,IZ4ISN,TS1 TS2
 IR4UBA,Cesena,Emilia-Romagna,Italy,,1,431.32500,222413,None,222413,1,,1.600,IW4BPO,
 IR4ZZH,Castel San Pietro Terme,Emilia-Romagna,Italy,Peer,1,430.23750,222414,BM,222414,1,,+1.600,I4IYO,TS1 TS2
 IR4T,Castelmaggiore (BO),Emilia-Romagna,Italy,,1,145.08750,222415,None,222415,1,,0.600,I4MDK,
@@ -1333,8 +1333,7 @@ IR5ZYC,Poggio Incontro - FI,Tuscany,Italy,Master,1,430.92500,222511,BM,222511,1,
 IR5ZYJ,Momigno - PT,Tuscany,Italy,Master,1,430.67500,222512,BM,222512,1,,+5.000,IZ5IGB,TS1 TS2
 IR5UCF,Loc. Cignano Casteln,Tuscany,Italy,,1,430.65000,222513,DMR-plus,222513,1,,5.000,IW5CWB,TS1 TS2
 IR5UBS,Monte Cascetto Lucca,Tuscany,Italy,Master,1,431.42500,222515,BM,222515,1,22251/Toscana,+1.600,I5NOD,TS1 TS2
-IR5AY,FIRENZE,Tuscany,Italy,,1,145.57500,222516,DMR-plus,222516,1,,-0.600,IZ5ILH,TS1 TS2
-IR5UCQ,Firenze,Tuscany,Italy,,1,431.45000,222517,DMR-plus,222517,1,,-1.600,IZ5ILH,TS1 TS2
+IR5AY,FIRENZE,Tuscany,Italy,Peer,1,145.57500,222516,DMR-plus,222516,1,,-0.600,IZ5ILH,TS1 TS2
 IR5ZYV,Torrita di Siena,Tuscany,Italy,Peer,1,430.52500,222518,BM,222518,1,,+5.000,"IU5FFN, IZ5IGB",TS1 TS2
 IR5E,M. Pietra Pertusa LU,Tuscany,Italy,,1,145.60000,222519,None,222519,0,,-0.600,I5KG,
 IR5UCM,Elba - Cima di Monte,Tuscany,Italy,,1,431.57500,222520,DMR-plus,222520,0,,5.000,IW5EJM,TS1 TS2
@@ -1354,10 +1353,10 @@ IR6UCX,Ortona CH,Marche / Abruzzo,Italy,Peer,1,430.23750,222601,ADN-2224,222601,
 IR6UCD,Pescara,Marche / Abruzzo,Italy,Peer,1,431.28750,222602,ADN-2224,222602,1,SL1 = 222<br>SL1 = TG222995<br>SL2=22261<br>SL2=22266,+1.600,IU6SSZ,TS1 TS2
 IR6UDM,Vasto,Marche / Abruzzo,Italy,Peer,1,430.38750,222603,IT-DMR,222603,1,,+5.000,IK6TTE,TS1 TS2
 IR6UF,JN62RD,,Italy,,1,430.17500,222604,Hytera,222604,0,,1.600,IK6JDQ,
-IR6UDA,Monte Palazzolo,,Italy,,1,430.98750,222605,DMR-plus,222605,1,,5.000,IZ4ISN,TS1 TS2
+IR6UDA,Monte Palazzolo,Marche / Abruzzo,Italy,Peer,1,430.98750,222605,BrandMeister,222605,1,,5.000,IZ4ISN,TS1 TS2
 IR6UDG,Monte Midia,,Italy,,1,431.57500,222606,BM,222606,1,,1.600,IZ6UDS,TS1 TS2
 IR6UDO,Sulmona (AQ),,Italy,,1,430.98750,222607,BM,222607,1,,5.000,IK6IHL,TS1 TS2
-IR6UCZ,Monte Nerone (PU),,Italy,,0,430.96250,222608,BM,222608,1,,5.000,IZ4ISN,TS1 TS2
+IR6UCZ,Monte Nerone,Marche / Abruzzo,Italy,Peer,0,430.96250,222608,BrandMeister,222608,1,,5.000,IZ4ISN,TS1 TS2
 IR6UDC,Monte Alto,,Italy,,1,430.22500,222609,DMR-plus,222609,1,,5.000,IZ6UDS,TS1 TS2
 IR6UDH,Monte Majella CH,Marche / Abruzzo,Italy,Peer,1,430.03750,222610,ADN-2224,222610,0,"SL1 = TG222, TG222995<br>SL2 = TG22261, TG22266",+1.600,IU6SSZ,TS1 TS2
 IR6UDB,Monte Pallano CH,Marche / Abruzzo,Italy,Peer,1,430.36250,222611,ADN-2224,222611,0,SL1 = TG222<br>SL1 = TG222995<br>SL2 = TG22261,+1.600,IU6SSZ,TS1 TS2
@@ -1368,7 +1367,7 @@ IR6UDL,Casalbordino,Marche / Abruzzo,Italy,Peer,1,430.06250,222615,IT-DMR,222615
 IR6UDF,Avezzano,,Italy,,1,430.27500,222616,BM,222616,1,,1.600,IZ6UDS,TS1 TS2
 IR6UBJ,Francavilla CH,Marche / Abruzzo,Italy,Peer,1,431.25000,222617,ADN-2224,222617,1,SL1 = TG222: TG 222995<br>SL2 = TG22261,+1.600,IU6SSZ,TS1 TS2
 IR6UDD,Monte Foltrone TE,Marche / Abruzzo,Italy,Peer,1,430.27500,222618,ADN-2224,222618,1,"SL1 = TG222<br>SL=1 TG222995<br>SL2 = TG22261, TG22262",+1.600,IU6SSZ,TS1 TS2
-IR6UCB,Monte Piselli,,Italy,,1,430.88750,222619,BM,222619,0,,5.000,IZ4ISN,TS1 TS2
+IR6UCB,Montelicciano,Marche / Abruzzo,Italy,Peer,1,430.88750,222619,BrandMeister,222619,0,,5.000,IZ4ISN,TS1 TS2
 IR6UCW,Macerata,,Italy,,1,430.38750,222620,BM,222620,1,,5.000,IZ6ABA,TS1 TS2
 IR6UH,Torricella Sicura,,Italy,,1,430.15000,222621,None,222621,1,,-1.600,IK6ONA,
 IR6UCI,Monte  Majelletta,,Italy,,1,430.71250,222622,BrandMeister,222622,1,,5.000,IW6OCM,
@@ -1664,6 +1663,7 @@ OK0MM,Kozlov,South Bohemian Region,Czech Republic,Master,1,145.62500,230008,BM,2
 OK0ZN,Znojmo,South Moravian Region,Czech Republic,Master,1,438.40000,230009,DMR,230009,1,OK0ZN  vtejte :) Znojmo JN88AU,-7.6,OK2ZNJ,TS1
 OK0DH,Hustopece,South Moravian Region,Czech Republic,Master,1,439.10000,230010,DMR C4FM Dstar,230010,1,230,-7.600,OK2GPS,Mixed Mode
 OK0RZJ,Strancice,Central Bohemian Region,Czech Republic,Peer,0,438.95000,230011,Brandmaister,230011,1,None,-7.600,OK1ALF,Mixed Mode
+OK0BCA,Lisci Hora,Hradec Kralove Region,Czech Republic,Master,1,438.87500,230012,JO70UQ,230012,1,None,-7.600,"OK1MX, OK1ALX",TS1 TS2
 OK0DBY,Praha 6,,Czech Republic,,1,439.32500,230101,Hytera,230101,1,,-7.600,OK1MDX,
 OK0BK,Kladno,Central Bohemian Region,Czech Republic,Master,1,439.00000,230102,BM,230102,1,,-7.600,OK1DSJ,TS1 TS2
 OK0POR,Vidovice,,Czech Republic,,1,439.48750,230103,BM,230103,0,,-7.600,OK1POR,TS1 TS2
@@ -2086,7 +2086,6 @@ GB7SD,South Dorset SW Engl,England,United Kingdom,,1,439.41250,235150,Motorola,2
 GB3XL,Shipley,England,United Kingdom,,1,430.88750,235151,BM,235151,1,,7.600,M0IRK,TS1 TS2
 GB7RV,Ribble Valley,England,United Kingdom,,2,439.62500,235152,DMR-plus,235152,1,,-9.000,M0NWI,TS1 TS2
 GB7AL,Ipswich,England,United Kingdom,,2,439.40000,235153,DMR-plus,235153,1,,9.000,M1NIZ,TS1 TS2
-GB7ME,Rugby,England,United Kingdom,Peer,8,439.72500,235156,NA,235156,1,,-9.000,M0IJS,Mixed Mode
 GB7DX,New Romney,England,United Kingdom,,3,439.70000,235157,DMR-plus,235157,1,,-9.000,G0GCQ,TS1 TS2
 GB7ST,Stoke-on-Trent,England,United Kingdom,,1,439.45000,235158,BM,235158,1,,-9.000,G8NSS,TS1 TS2
 GB7WX,Tarvin Chester,England,United Kingdom,,0,430.87500,235159,DMR-plus,235159,1,,7.600,G7NEH,TS1 TS2
@@ -6634,7 +6633,7 @@ W5KJN,Springhill,Louisiana,United States,Peer,1,443.75000,312209,Brandmeister,31
 W5SLA,LaCombe,Louisiana,United States,Master,1,147.27000,312210,Brandmeister,312210,1,,-0.600,W5SLA,Mixed Mode
 W5SJL,Baton Rouge,Louisiana,United States,Master,1,444.45000,312211,BRANDMEISTER,312211,1,,+5.000,W5SJL,TS2
 KB5OZE,New Orleans,Louisiana,United States,Master,1,444.82500,312212,Brandmeister,312212,1,,+5.000,KB5OZE,Mixed Mode
-K5LZP,New Orleans,Louisiana,United States,None,1,147.03000,312213,Brandmeister,312213,1,,+0.600,K5LZP,Mixed Mode
+K5LZP,New Orleans,Louisiana,United States,Master,1,147.03000,312213,Brandmeister,312213,1,,+0.600,K5LZP,Mixed Mode
 W5RAR,LaPlace,Louisiana,United States,None,1,442.67500,312214,BrandMeister,312214,1,TS1 TG 91 WW Eng (PTT)<br>TS1 TG 93 NA (PTT)<br>TS1 TG 310 Tac 310 (PTT)<br>TS1 TG 3174 SE REGIONAL (PTT)<br>TS1 TG 3199 HURRICANE NET (FULL-TIME)<br>TS1 TG 31121 FIRST COAST (PTT)<br>TS1 TG 31229 ArkLaTex (PTT)<br>TS1 TG 31688 HAM SHACK HOTLINE (PTT)<br>TS1 TG 98006 AMSAT (PTT)<br>TS2 TG 9 LOCAL (PTT)<br>TS2 TG 3122 LOUISIANA (FULL-TIME)<br>TS2 TG 31011 GULF COAST DMR (PTT)<br>TS2 TG 31220 LOUISIANA CHAT (PTT)<br>TS2 TG 31225 SOUTHEAST Louisiana (FULL-TIME)<br>TS2 TG 31623 PUBLIC SAFETY CHAT (PTT)<br>TS2 TG 312214 LA REGION 3 (PTT),+5.000,KG5FQT,TS1 TS2
 W5TGK,Centerville,Louisiana,United States,Peer,1,442.02500,312215,Brandmeister,312215,1,,+5.000,W5TGK,TS1 TS2
 AF6BZ,Bossier City,Louisiana,United States,Peer,1,442.02500,312216,BrandMeister,312216,1,,+5.000,AF6BZ,TS1 TS2
@@ -8827,7 +8826,7 @@ N3OCQ,Herndon,Virginia,United States,Master,1,447.35000,314789,BM,314789,1,,-5.0
 W9LY,Michigan City,Indiana,United States,Master,1,146.97000,314791,BM,314791,1,LPCARC DMR Talk Group,-0.600,AC9HO,TS1
 WR3IRS,Bucktown,Pennsylvania,United States,Peer,1,445.08125,314792,Interstate,314792,1,Currently operating standalone - connection to Interstate system forthcoming.,-5.000,WN3A,TS1 TS2
 N3MRG,Salisbury,Maryland,United States,Master,6,442.65000,314793,Interstate,314793,1,Delmarvadmr.com,+5.000,N3HSK,TS1 TS2
-NH7TR,San Antonio,Texas,United States,Master,1,446.30000,314794,BM,314794,1,,-5.000,NH7TR,TS2
+NH7TR,San Antonio,Texas,United States,Master,1,446.30500,314794,BM,314794,1,,-5.000,NH7TR,TS2
 KD2UQK,Deer Park,New York,United States,Peer,1,440.25000,314795,BM,314795,0,,+5.000,KD2UQK,TS1
 WD4EMA,Chatsworth,Georgia,United States,Peer,1,440.65000,314796,BM,314796,1,Timeslot 1 used for BM Talk groups.<br>Timeslot 2 used for local communications.,+5.0,WD4EMA,TS1 TS2
 K6ACR,Arroyo Grande,California,United States,Peer,8,147.24000,314797,Brandmeister,314797,1,None,+0.600,K6ACR,TS1 TS2
@@ -9086,6 +9085,7 @@ K3SEM,Washington,Pennsylvania,United States,Peer,1,442.45000,315076,WR3IRS Inter
 WR7HLN,Truth or Consequences - Caballo Peak,New Mexico,United States,Peer,1,443.15000,315077,BrandMeister,315077,1,Caballo Peak<br>DMR only,+5.000,WR7AGT,TS1 TS2
 W4BAD,GORMAN,North Carolina,United States,Peer,1,444.78750,315078,Brandmeister,315078,1,None,5.000,W4BAD,TS1 TS2
 N5VGK,OXFORD,Mississippi,United States,Peer,1,444.42500,315079,314649,315079,1,None<br>chuck moffatt 662 523 9600,5.000,N5VGK,TS1 TS2
+AF4JC,Middleburg,Florida,United States,Master,1,442.60000,315080,Brandmiester,315080,1,None,+5.000,AF4JC,Mixed Mode
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
@@ -9314,7 +9314,7 @@ WP3JM,sherman oaks,All Regions,Puerto Rico,Peer,1,448.75000,330059,FreeDMR,33005
 KP4NET,LARES,All Regions,Puerto Rico,Master,1,448.60000,330060,BM 330050,330060,1,TG 330050 KP4NET DMR REPEATER UHF 448.600 MHz_ TG 330050_ CC 1_ TS 1<br>100 % energa renovable VEN Y COMPARTE CON NOSOTROS TODOS LOS VIERNES DESDE LAS 10:PM HORA DE Puerto Rico EN LA RUEDA DIGITAL DE KP4NET/ HORARIO (UTC SABADOS 02:00),-5.000,KP4NET,TS1 TS2
 WP3B,LARES,All Regions,Puerto Rico,Master,1,147.13000,330065,BM 330050,330065,1,TG 330050 KP4NET DMR REPEATER UHF 448.600 MHz_ TG 330050_ CC 1_ TS 1<br>100 % energa renovable VEN Y COMPARTE CON NOSOTROS TODOS LOS VIERNES DESDE LAS 10:PM HORA DE Puerto Rico EN LA RUEDA DIGITAL DE KP4NET/ HORARIO (UTC SABADOS 02:00),0.600,WP3B,TS1 TS2
 KP3JAC,San Sebastian,,Puerto Rico,Master,1,448.60000,330066,BM 330050,330066,1,,-5.000,KP3JAC,TS1 TS2
-WP4RWR,Ponce,,Puerto Rico,Master,1,448.60000,330067,BM,330067,1,TG 330050,-5.000,WP4RWR,TS1 TS2
+WP4RWR,Ponce,All Regions,Puerto Rico,Master,1,448.60000,330067,BM,330067,1,TG 330050,-5.000,WP4RWR,TS1 TS2
 WP4J,Ponce,,Puerto Rico,Master,2,446.45000,330068,BM,330068,1,,-5.000,WP4J,TS1 TS2
 KP4NET,LARES,All Regions,Puerto Rico,Master,1,447.97500,330070,BM 330050,330070,1,KP4NET/R TG 330050 / BrandMeister CC 1 / TS 1,-5.000,KP4NET,TS1 TS2
 KP4ILO,Aguadilla,,Puerto Rico,Master,1,146.75000,330072,BM,330072,1,"KP4ILO/R LINK WHIT KP4NET/R 448.600 CC1 TS1 TG 330050 FROM Puerto Rico Island.<br>WP4RWR Ponce, PR UHF 448.600 MHz<br>NP3EC Arecibo, PR VHF 146.850MHz<br>KP4ILO Lares, PR VHF 146.750 MHz<br>KP4NET Lares, PR  UHF 448.600 MHz<br>ALL REPEATER USE CC1 TS1 TG 330050",-0.600,KP4ILO,TS1 TS2
@@ -9493,6 +9493,7 @@ UN7PME,Karaganda,Karaganda,Kazakhstan,Master,1,439.43750,401019,BM,401019,1,"401
 UN7PME,Karaganda,Karaganda,Kazakhstan,Master,1,144.96250,401020,BM,401020,1,"401, 2501",0.000,UN7PME,TS2
 UN0UNA,Shymkent,Kyzylorda,Kazakhstan,Peer,1,431.83750,401021,Brandmeister,401021,1,None,7.600,"UN0NA, UN7NVM",TS1 TS2
 UN6UGA,Almaty,Almaty,Kazakhstan,Peer,1,439.43750,401022,BrandMeister,401022,1,None,-7.600,UN6GDM,TS1 TS2
+UN6UGE,Almaty,Almaty,Kazakhstan,Peer,1,439.43750,401023,BrandMeister,401023,1,None,-7.600,UN6GDM,TS1 TS2
 VU2BCM,Palakkad,Kerala,India,Master,1,145.65000,404001,DMR-MARC,404001,0,,-0.600,VU2PJP,Mixed Mode
 VU2FUN,New Delhi,Delhi,India,Peer,7,145.67000,404002,BrandMeister,404002,1,,-0.600,VU2IB,Mixed Mode
 VU2HUB,New Delhi,Delhi,India,Peer,7,435.67000,404003,BrandMeister,404003,1,,-1.600,VU2IB,Mixed Mode
@@ -10134,6 +10135,7 @@ ZL1DKS,Gisborne,North Island 2,New Zealand,Master,2,439.40000,530044,DVNZ,530044
 ZL1WIS,Auckland,North Island 1,New Zealand,Peer,1,439.68750,530045,ZL-TRBO,530045,1,TG Info: Waiheke Island with incidental Auckland coverage.,-5.000,ZL1RKO,TS1 TS2
 ZL2SQRL,Wellington,North Island 1,New Zealand,Peer,1,439.65000,530046,Multi/Dynamic,530046,0,,-5.000,ZL2SQRL,Mixed Mode
 ZL3TOY,Christchurch,South Island,New Zealand,Peer,1,438.45000,530047,BM,530047,1,"TS1 - TG9 Local, TG5303<br>TS2 - TG10 Local, TG8999",-5.000,ZL3TOY,Mixed Mode
+ZL1DKS,Christchurch,South Island,New Zealand,Master,2,439.50000,530048,DVNZ,530048,1,None,-5.000,"ZL1DKS, ZL3FTB",TS2
 ZL1CCT,Hamilton,North Island 1,New Zealand,None,12,145.35000,530100,Hamilton,530100,1,"Time Slot#1 - Group Call 1 = Worldwide Calling (2 min max)<br>Time Slot #1- Group Call 13 = Worldwide English<br>Time Slot #2- Group Call 5 = VK/ZL Regional<br><br>Contact: Brian, ZL1HN<br>Email: ZL1HN@xtra.co.nz",-0.600,ZL1HN,None
 ZL1UX,Hamilton,North Island 1,New Zealand,Peer,1,439.72500,530101,ZL-TRBO Hamilton,530101,1,"Time Slot#1 - Group Call 1 = Worldwide Calling (2 min max)<br>Time Slot #1- Group Call 13 = Worldwide English<br>Time Slot #2- Group Call 5 = VK/ZL Regional<br><br>Contact: Tom, ZL1THG<br>Email: Tom.Bevan@looptechnologies.com",-5.000,ZL1THG,TS1 TS2
 ZL1DMR,AREC STSP,North Island 1,New Zealand,Peer,1,438.77500,530102,ZL-TRBO,530102,0,,-5.000,ZL4JY,TS1 TS2
