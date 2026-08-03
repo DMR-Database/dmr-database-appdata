@@ -283,9 +283,9 @@ ON0HAS,Hasselt,Limburg,Belgium,Master,1,439.41250,BM,50.918512,5.325717,206020,,
 ON0VTI,Tielt,West-Vlaanderen,Belgium,Peer,1,439.47500,BM,51.00457,3.32376,206021,,-7.6,ACTIVE,ON4AAK,TS1 TS2
 ON0BTS,Wavre,Wal. Brabant,Belgium,Peer,2,438.75000,BM,50.69892455425547,4.615064087254241,206022,,-7.600,ACTIVE,ON4LBO,TS1 TS2
 ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,438.67500,BM,50.976576,3.996268,206023,206 2066,-7.600,ACTIVE,ON7ASZ,TS1 TS2
-ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,439.30000,BM,50.976576,3.996268,206024,Sloten TG1 TG2,-7.600,ACTIVE,ON7ASZ,TS1 TS2
+ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,2,439.30000,BM,50.976576,3.996268,206024,Sloten TG1 TG2,-7.600,ACTIVE,ON7ASZ,TS1 TS2
 ON0MSF,Ixelles,Brussels,Belgium,Master,2,439.27500,BM,50.8337,4.3604,206025,,-7.6000,ACTIVE,ON6RF,TS1 TS2
-ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,438.67500,BM,50.9765760,3.995851,206026,TG1 en TG2,-7.600,ACTIVE,ON7ASZ,TS1 TS2
+ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,2,438.67500,BM,50.9765760,3.995851,206026,TG1 en TG2,-7.600,ACTIVE,ON7ASZ,TS1 TS2
 ON0DV,Eupen,Liege,Belgium,Peer,1,439.30000,Brandmeister,50.6330880,6.0089580,206027,None,-7.600,ACTIVE,ON4LFE,TS1 TS2
 ON0UHF,Oostduinkerke,West-Vlaanderen,Belgium,Master,1,145.63750,Brandmeister,51.1346090,2.6772840,206028,None,-0.600,ACTIVE,"ON4AIM, ON6UHF",TS1 TS2
 ON0AA,Oostkamp,West-Vlaanderen,Belgium,Master,1,439.00000,Brandmeister,51.140510000,3.23230000,206029,None,-7.600,ACTIVE,ON4AAK,TS1 TS2
@@ -441,6 +441,7 @@ F1ZSV,St Vallier de Thiey,Ile-de-France,France,Peer,1,430.45000,BM,43.69487,6.89
 F1ZNM,Gardanne,,France,,7,439.82500,BM,,,208111,,-9.400,ACTIVE,F1BSL,TS1 TS2
 F5ZST,Baudinard sur Verdon,Ile-de-France,France,,1,145.57500,None,0.0,0.0,208112,,-0.600,ACTIVE,F8TRT,
 F6ZEW,MAXEVILLE,Grand Est,France,Master,1,439.40000,BM,48.7164390,6.1561400,208113,Aucun,-7.600,ACTIVE,"F4DWB, F4EXC",TS1 TS2
+F6ZFD,VILLAZ,Auvergne-Rhone-Alpes,France,Master,1,438.57500,IPSC2-FRANCE 3,45.9411271,6.1843636,208114,None,7.600,ACTIVE,F4FYF,TS1 TS2
 F1ZSU,Aspremont,Ile-de-France,France,Master,1,430.42500,BM,43.77016,7.25455,208119,,+9.400,ACTIVE,F1BEH,TS1 TS2
 F1ZSX,VILLENEUVE-LOUBET,,France,,1,439.88750,None,43.647831,7.130500,208146,,-9.400,ACTIVE,F1ATB,
 F1ZAS,St Saturnin Avignon,,France,,1,439.65000,DMR-plus,43.959381,4.919920,208157,,-9.400,ACTIVE,F1VN,TS1 TS2
@@ -667,14 +668,14 @@ ED2ZAK,San Sebastiin,,Spain,,1,430.67500,None,43.328201,-1.951600,214207,,7.600,
 ED2YAA,Laudio,Alava,Spain,Peer,1,439.97500,214,43.1430692,-2.9624876,214210,,0.000,ACTIVE,EB2EMZ,Mixed Mode
 ED2YAB,Laudio,Alava,Spain,Peer,1,438.20000,214,43.137272,-2.906976,214211,,7.600,ACTIVE,EB2EMZ,Mixed Mode
 ED2YAP,Gasteiz,Alava,Spain,Peer,1,145.65000,BM,42.5535011,-2.5850848,214212,,-0.600,ACTIVE,EA2CQ,TS1 TS2
-ED2YAQ,Urdingain,,Spain,,1,438.42500,BM,42.971958,-2.534413,214213,,-7.600,ACTIVE,EA2CQ,TS1 TS2
-ED2ZAE,Vitoria-Gasteiz,,Spain,,1,438.50000,BM,42.794533,-2.736209,214214,,-7.600,ACTIVE,EA2CQ,TS1 TS2
+ED2YAQ,Vitoria-Gasteiz,Alava,Spain,Peer,1,438.42500,BM,42.971958,-2.534413,214213,,-7.600,ACTIVE,EA2CQ,TS1 TS2
+ED2ZAE,Vitoria-Gasteiz,Alava,Spain,Peer,1,438.50000,BM,42.794533,-2.736209,214214,,-7.600,ACTIVE,EA2CQ,TS1 TS2
 ED2ZAF,Bilbao,Vizcaya,Spain,Peer,1,438.52500,BM,43.235378,-2.930453,214215,,-7.600,ACTIVE,EB2DJB,TS1 TS2
 ED2YAE,Munitibar,Vizcaya,Spain,Peer,1,438.32500,BM,43.228100,-2.593916,214216,,-7.600,ACTIVE,EB2DJB,TS1 TS2
 ED2ZAI,GIPUZKOA,,Spain,,1,438.37500,BM,43.345112,-1.857514,214220,,-7.600,ACTIVE,EA2TZ,TS1 TS2
 ED2ZAG,Arrieta,Vizcaya,Spain,Master,1,438.25000,DMR-plus,43.370204906138106,-2.7630357800149263,214222,,-7.600,ACTIVE,EA2IP,TS1 TS2
-ED2YAQ,Urdingain,,Spain,,1,145.77500,BM,42.971958,-2.534413,214224,,-0.600,ACTIVE,EA2CQ,TS1 TS2
-ED2ZAJ,LAGUARDIA,,Spain,,1,438.52500,BM,42.553280,-2.584400,214234,,-7.600,ACTIVE,EA2CQ,TS1 TS2
+ED2YAQ,Vitoria-Gasteiz,Alava,Spain,Peer,1,145.77500,BM,42.971958,-2.534413,214224,,-0.600,ACTIVE,EA2CQ,TS1 TS2
+ED2ZAJ,Laguardia,Alava,Spain,Peer,1,438.52500,BM,42.553280,-2.584400,214234,,-7.600,ACTIVE,EA2CQ,TS1 TS2
 ED2ZAA,Zaragoza,,Spain,,1,438.20000,BM,41.635143,-0.899691,214240,,-7.600,ACTIVE,EA2AMB,TS1 TS2
 EA3DKP,Roses,,Spain,Master,1,439.00000,DMR-plus,,,214300,,-7.600,ACTIVE,EA3DKP,TS1 TS2
 ED3ZAQ,Castellar del Valles,Barcelona,Spain,Master,1,438.52500,BM,41.629269,2.101393,214301,21460,-7.600,ACTIVE,EA3ABN,TS1 TS2
@@ -731,7 +732,7 @@ ED5YBC,ALICANTE,Valencia,Spain,,1,438.35000,BM,0.0,0.0,214508,,-7.600,ACTIVE,EA5
 ED5ZAK,Sierra Espua,,Spain,,1,438.25000,BM,,,214510,,-7.600,ACTIVE,EC5W,TS1 TS2
 ED5ZAM,ALICANTE,,Spain,,1,438.35000,BM,38.274460,-0.887217,214519,,-7.600,ACTIVE,EA5ABE,TS1 TS2
 ED5ZAN,MURCIA,,Spain,,1,438.25000,BM,37.866669,-1.566670,214520,,-7.600,ACTIVE,EA5ABE,TS1 TS2
-ED5YAT,Aguilas,,Spain,,1,145.62500,DMR-plus,37.427120,-1.546690,214525,,0.600,ACTIVE,EA5RCU,TS1 TS2
+ED5YAT,Aguilas,Murcia,Spain,Peer,10,145.62500,DMR-plus,37.427120,-1.546690,214525,,0.600,ACTIVE,EA5RCU,TS1 TS2
 ED5ZAD,Cid Petrer Alicante,,Spain,,1,439.17500,BM,38.447498,-0.727222,214555,,-7.600,ACTIVE,EC5W,TS1 TS2
 ED5ZAI,Denia,Alicante,Spain,Peer,1,438.40000,DMR-plus,38.805561,0.150280,214566,,-7.600,ACTIVE,"EA5BUS, EB5FOL",TS1 TS2
 ED6ZAA,Felanitx,Baleares,Spain,Peer,1,430.65000,DMR-plus,39.455158,-3.185318,214601,,7.600,ACTIVE,EA6QJ,TS1 TS2
@@ -1318,6 +1319,7 @@ IR6L,L'Aquila,Marche / Abruzzo,Italy,Peer,1,145.67500,Hamthings,42.3636930,13.42
 IR3CU,Forcella di Giais,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.25000,Brandmeister,46.1273800,12.5607000,222478,None,1.600,ACTIVE,IW3ROW,Mixed Mode
 IR8BQ,Potenza,Apulia / Basilicata,Italy,Peer,1,145.68750,ADN,40.50506378938185,15.7516913,222479,None,-0.600,ACTIVE,IZ8DHD,Mixed Mode
 IR3CLG,PADOVA,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.40000,222,45.1649100,11.4393450,222480,None,1.600,ACTIVE,IZ3CLG,TS1 TS2
+IR0ASL,Roma,Lazio / Umbria / Sardinia,Italy,Master,2,432.40000,allstarlink,41.9027830,12.4963655,222481,None,1.600,ACTIVE,IU0NDT,Mixed Mode
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,DMR-plus,43.851292,10.667000,222500,,+5.000,ACTIVE,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,DMR-plus,43.831721,11.1992239,222501,,5.000,ACTIVE,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,BM,44.0094968,10.1019306,222502,,5.000,ACTIVE,IK5BNG,TS1 TS2
@@ -1352,7 +1354,6 @@ IZ5VSL,MONTE AMIATA,Tuscany,Italy,,1,430.86250,BM,42.887691,11.623905,222559,,5.
 IR6UCX,Ortona CH,Marche / Abruzzo,Italy,Peer,1,430.23750,ADN-2224,42.35644,14.40527,222601,SL1 = TG222<br>SL1=TG222995<br>SL2 = TG22261,+1.600,ACTIVE,IU6SSZ,TS1 TS2
 IR6UCD,Pescara,Marche / Abruzzo,Italy,Peer,1,431.28750,ADN-2224,42.479284,14.181256,222602,SL1 = 222<br>SL1 = TG222995<br>SL2=22261<br>SL2=22266,+1.600,ACTIVE,IU6SSZ,TS1 TS2
 IR6UDM,Vasto,Marche / Abruzzo,Italy,Peer,1,430.38750,IT-DMR,42.089945,14.692511,222603,,+5.000,ACTIVE,IK6TTE,TS1 TS2
-IR6UF,JN62RD,,Italy,,1,430.17500,Hytera,,,222604,,1.600,ACTIVE,IK6JDQ,
 IR6UDA,Monte Palazzolo,Marche / Abruzzo,Italy,Peer,1,430.98750,BrandMeister,43.836887,12.339315,222605,,5.000,ACTIVE,IZ4ISN,TS1 TS2
 IR6UDG,Monte Midia,,Italy,,1,431.57500,BM,42.0517978,13.1870212,222606,,1.600,ACTIVE,IZ6UDS,TS1 TS2
 IR6UDO,Sulmona (AQ),,Italy,,1,430.98750,BM,42.0474231,13.927011,222607,,5.000,ACTIVE,IK6IHL,TS1 TS2
@@ -2590,9 +2591,9 @@ OH1DMRA,Pori,,Finland,,1,424.56250,None,61.442890,21.657637,244101,,-2.000,ACTIV
 OH2DMRP,Pusula,All Regions,Finland,Peer,1,434.53750,BM,60.4654000,23.8967,244103,,-2.000,ACTIVE,OH2LAK,TS1 TS2
 OH2DMRI,Inkoo,All Regions,Finland,Peer,1,434.50000,BM,60.0999,24.1025,244104,,-2.000,ACTIVE,OH2LAK,TS1 TS2
 OH6RAH,Seinajoki,,Finland,Master,1,434.67500,BM,62.77780,22.80665,244105,,-2.000,ACTIVE,OH6AH,Mixed Mode
-OH7DMRL,Lieksa,All Regions,Finland,Master,1,438.13750,BM,63.09532125456714,29.805922937230214,244106,,-5.000,ACTIVE,OH7AB,TS1 TS2
+OH7DMRL,Lieksa,All Regions,Finland,Master,1,438.13750,BM,63.09532125456714,29.805922937230214,244106,,-5.000,ACTIVE,"OH7AB, OH7JANI",TS1 TS2
 OI5RUC,Kouvola,,Finland,Peer,1,434.82500,FREEDMR,61.11040129,26.9787834837,244107,244,-2.000,ACTIVE,OI5AZ,TS1 TS2
-OH7RUB,Joensuu,All Regions,Finland,Peer,1,434.65000,FreeDMR,62.596231,29.740266,244108,,-2.000,ACTIVE,OH7AB,TS1 TS2
+OH7RUB,Joensuu,All Regions,Finland,Peer,1,434.65000,FreeDMR,62.596231,29.740266,244108,,-2.000,ACTIVE,"OH7AB, OH7JANI",TS1 TS2
 OH7DMRO,Outokumpu,All Regions,Finland,Master,1,438.07500,BM,62.7296854,29.0059662,244109,"244, 2447, 24472",-5.000,ACTIVE,"OH7AB, OH7JANI",TS1 TS2
 OH8DMRO,Oulu,,Finland,Master,1,438.07500,BM,65.06059471829238,25.47346434354632,244110,,-5.000,ACTIVE,OH8T,TS1 TS2
 OH1DMRT,Turku,,Finland,Master,1,438.10000,BM,60.447033581375834,22.33226474492384,244111,,+5.000,ACTIVE,OH1AA,TS1 TS2
@@ -2635,7 +2636,7 @@ OH6RUL,laukaa,All Regions,Finland,Master,1,434.57500,BM,62.4018170,25.9364530,24
 OH6RAG,Jakobstad FI,,Finland,,1,145.78750,None,63.674992,22.712999,244666,,-0.600,ACTIVE,OH6XI,
 OH6RAQ,Jamsa,All Regions,Finland,Peer,1,434.51250,BM,61.964680,25.301020,244699,,-2.000,ACTIVE,OH6JAT,TS1 TS2
 OH7RAA,Kuopio,,Finland,,1,434.58750,BM,62.886600,27.593300,244701,,-2.000,ACTIVE,OH7VM,TS1 TS2
-OH7DMRJ,Joensuu,All Regions,Finland,Master,1,438.08750,BM,62.590416,29.789146,244702,,-5.000,ACTIVE,OH7AB,TS1 TS2
+OH7DMRJ,Joensuu,All Regions,Finland,Master,1,438.08750,BM,62.590416,29.789146,244702,,-5.000,ACTIVE,"OH7AB, OH7JANI",TS1 TS2
 OH8RMD,Kempele Finland,,Finland,Peer,1,434.57500,BM,64.900986,25.542192,244801,,-2.000,ACTIVE,OH6NVG,TS1 TS2
 OH8RMD,Radiotie Kiiminki,,Finland,,1,145.63750,BM,65.034439,25.843863,244802,,-0.600,ACTIVE,OH6NVG,TS1 TS2
 OH8RAC,Kuusamo,,Finland,Peer,1,145.72500,BM,65.943169,29.102077,244803,,-0.600,ACTIVE,OH6NVG,TS1 TS2
@@ -6519,7 +6520,6 @@ KF7LRD,Williams,Arizona,United States,Peer,1,448.30000,AZ-TRBONET-DMR-MARC,35.19
 N2CID,Holland,New York,United States,Peer,1,442.36250,WNYDMR.NETWORK,0,0,312079,,+5.000,ACTIVE,N2CID,TS1 TS2
 NI4Y,Atlanta,Georgia,United States,Master,1,146.73000,BM,33.748,-84.390,312080,Testing,-0.600,ACTIVE,NI4Y,TS1 TS2
 N6YMZ,Juneau,Alaska,United States,Peer,1,447.70000,BrandMeister,58.369974,-134.603937,312081,,-5.000,ACTIVE,N6YMZ,TS1 TS2
-K1RK,Bourne,Massachusetts,United States,Peer,10,145.20000,NEDECN,41.7423154,-70.5825045,312083,Time Slot #1 - Group Call 1 = World Wide*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 759 = SKYWARN<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot<br>Time Slot #1 - Group Call 9999 = Audio Watch<br>*********************************************************<br>Time Slot #2 - Group Call 3181= New England (Mon. 8 PM Net)<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3125 = MA Statewide<br>Time Slot #2 - Group Call 8804 = Cape Net<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 8802 = NETAC 2* <br><br>* = PTT Activated<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Website:   http://nedecn.org,-0.600,ACTIVE,K1RK,TS1 TS2
 K7GDM,Great Falls,Montana,United States,Peer,2,442.80000,BM,47.5048851,-111.2918908,312084,,+5.000,ACTIVE,K7GDM,Mixed Mode
 W3NTT,Slatington,Pennsylvania,United States,Peer,1,438.50000,BrandMeister,40.8014826,-75.6101868,312085,TGIF Bridge,+5.000,ACTIVE,W3NTT,Mixed Mode
 KN4GVY,Florida,Florida,United States,Peer,2,444.00000,F-DARN,27.9908529,-82.6931553,312086,,+5.000,ACTIVE,KJ4FEC,TS1 TS2
@@ -6920,7 +6920,6 @@ KB1SFG,Lawrence,Massachusetts,United States,Master,1,446.37500,Brandmeister,42.7
 KA1GG,West Bridgewater,Massachusetts,United States,Peer,4,449.98750,Brandmeister,42.009392,-71.044701,312539,,-5.000,ACTIVE,AJ1L,Mixed Mode
 AC1M,Norwell,Massachusetts,United States,PEER,5,145.25000,Brandmeister,42.192200,-70.821404,312540,,-0.600,ACTIVE,KC1HO,Mixed Mode
 W1ATD,Marshfield,Massachusetts,United States,Peer,9,145.39000,Brandmeister,42.111141,-70.704323,312541,,-0.600,ACTIVE,AJ1L,Mixed Mode
-NA1HS,North Attleboro,Massachusetts,United States,Master,3,447.97500,Brandmeister,41.9834324,-71.3328328,312542,,-5.000,ACTIVE,KA1EWN,TS1 TS2
 WB1GOF,Westford,Massachusetts,United States,Master,1,146.45000,BM,42.5792583,-71.4378411,312543,Time Slot # 1 - Group Call 3125 = MA SW<br>Time Slot # 1 - Group Call 3133 = NH SW<br>Time Slot # 1 - Group Call 31801 = Gathering Spot 1<br>Time Slot # 2 - Group Call 312543 = WB1GOF-C D-STAR XLX978<br>Time Slot # 2 - Group Call 302050 = FreeStar/CanNet XLX416,-1.50000,ACTIVE,KA8SCP,TS1 TS2
 N3YMS,TEST,Delaware,United States,Peer,1,0.00000,INTERSTATE,0.0,0.0,312544,,+5.00,ACTIVE,N3YMS,TS1 TS2
 W1UWS,Moose Mountain,New Hampshire,United States,Master,1,146.64000,NEDECN,43.7205,-72.1588,312545,Time Slot # 1 - Group Call 1 = World Wide (PTT)*<br>Time Slot # 1 - Group Call 3 = North America PTT<br>Time Slot # 1 - Group Call 13 = WW English PTT<br>Time Slot # 1 - Group Call 310 = TAC310 PTT (VT statewide only)<br>Time Slot # 1 - Group Call 311 = TAC311 PTT (VT statewide only)<br>Time Slot # 1 - Group Call 759 = SKYWARN/Emergency Calling<br>Time Slot # 2 - Group Call 3133 = NH Statewide<br>Time Slot # 1 - Group Call 3172 = Northeast<br>Time Slot # 1 - Group Call 8801 = NETAC 1 PTT<br>Time Slot # 1 - Group Call 9998 = Parrot PTT<br>Time Slot # 2 - Group Call 8 = Region North<br>Time Slot # 2 - Group Call 9 = Local Site<br>Time Slot # 1 - Group Call 3150 = VT Statewide<br>Time Slot # 2 - Group Call 3181 = New England Wide PTT<br>Time Slot # 2 - Group Call 8802 = NETAC 2 PTT,-0.600,ACTIVE,KB1VP,TS1 TS2
@@ -7814,7 +7813,7 @@ N2LEN,Greenwich,New York,United States,Peer,1,447.27500,DMR-MARC,0.0,0.0,313647,
 N2LEN,Coxsackie,New York,United States,Peer,1,445.02500,NY-TRBO,0.0,0.0,313648,"Time Slot #1 - Group Call 1 = World Wide PTT <br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #2 - Group Call 2 = NY-NJ Metro<br>Time Slot #1 - Group Call 310 = TAC310<br>Time Slot #1 - Group Call 311 = TAC311<br>Time Slot #1 - Group Call 113 = UA113<br>Time Slot #1 - Group Call 123 = UA123<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area <br>Contact Name: Len, N2LEN<br>Email: n2len@aol.com",-5.000,ACTIVE,N2LEN,TS1 TS2
 N2NGK,Lake Placid,New York,United States,Peer,1,446.97500,"DMR-MARC-Canada Lake Placid, NY",0.0,0.0,313649,Time Slot #1 - Group Call 1 = World Wide*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 11 = WW French*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 9999 = Audio Test*<br>Time Slot #2 - Group Call 3023 = Ontario*<br>Time Slot #2 - Group Call 3022 = Quebec*<br>Time Slot #2 - Group Call 3029 = New Brunswick*<br>Time Slot #2 - Group Call 3150 = Vermont<br>Time Slot #2 - Group Call 8 = Northern New Eng*<br>Time Slot #2 - Group Call 3181 = New England*<br>Time Slot #2 - Group Call 2 = Local<br><br>* Indicates PTT Activation required<br>You Must Have [ARS] Disabled in Your Radio,-5.000,ACTIVE,N2NGK,TS1 TS2
 KD2MAJ,Plattsburgh,New York,United States,Peer,1,145.07000,DMR-MARC Canada,44.771454,-73.612671,313650,"Time Slot #1 - Group Call 1 = World Wide*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 11 = WW French*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 9999 = Audio Test*<br>Time Slot #2 - Group Call 3023 = Ontario*<br>Time Slot #2 - Group Call 3022 = Quebec*<br>Time Slot #2 - Group Call 3029 = New Brunswick*<br>Time Slot #2 - Group Call 3150 = Vermont<br>Time Slot #2 - Group Call 8 = Northern New Eng*<br>Time Slot #2 - Group Call 3181 = New England*<br>Time Slot #2 - Group Call 2 = Local<br><br>* Indicates PTT Activation required<br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: Tony Calongne, WA2LRE<br>E-mail: css3000@westelcom.com",+2.375,ACTIVE,KD2MAJ,TS1 TS2
-KC2EQ,Elmira,New York,United States,None,3,443.00000,DMR+,0.0,0.0,313651,"KC2EQ 443.000 +5 MHz, Color Code 3",+5.000,ACTIVE,KC2EQ,Mixed Mode
+KC2EQ,Elmira,New York,United States,Peer,3,443.00000,DMR+,42.0790000,-76.786,313651,"KC2EQ 443.000 +5 MHz, Color Code 3",+5.000,ACTIVE,KC2EQ,Mixed Mode
 N2NGK,Lake Placid,New York,United States,None,1,449.67500,DMR-MARC-Canada,0.0,0.0,313652,Time Slot #1 - Group Call 1 = World Wide*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 11 = WW French*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 9999 = Audio Test*<br>Time Slot #2 - Group Call 3023 = Ontario*<br>Time Slot #2 - Group Call 3022 = Quebec*<br>Time Slot #2 - Group Call 3029 = New Brunswick*<br>Time Slot #2 - Group Call 3150 = Vermont<br>Time Slot #2 - Group Call 8 = Northern New Eng*<br>Time Slot #2 - Group Call 3181 = New England*<br>Time Slot #2 - Group Call 2 = Local<br><br>* Indicates PTT Activation required<br>You Must Have [ARS] Disabled in Your Radio,-5.000,ACTIVE,N2NGK,TS1 TS2
 N2NUO,Waverly,New York,United States,Master,1,443.50000,3100,0.0,0.0,313653,,+5.000,ACTIVE,N2NUO,Mixed Mode
 W2TUP,Tupper Lake,New York,United States,Master,1,446.02500,DMR-MARC-Canada,0.0,0.0,313655,"Time Slot #1 - Group Call 1 = World Wide*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 11 = WW French*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada*<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 9999 = Audio Test*<br>Time Slot #2 - Group Call 3023 = Ontario*<br>Time Slot #2 - Group Call 3022 = Quebec*<br>Time Slot #2 - Group Call 3029 = New Brunswick*<br>Time Slot #2 - Group Call 3150 = Vermont<br>Time Slot #2 - Group Call 8 = Northern New Eng*<br>Time Slot #2 - Group Call 3181 = New England*<br>Time Slot #2 - Group Call 2 = Local<br><br>* Indicates PTT Activation required<br>You Must Have [ARS] Disabled in Your Radio<br>Contact: Dean, K2WW<br>Email: dean.k2ww@gmail.com",-5.000,ACTIVE,K2WW,TS1 TS2
@@ -9145,7 +9144,7 @@ AF7PR,Mount Vernon,Washington,United States,Peer,1,440.92500,PNW DCI,0.0,0.0,315
 KG7KPH,Olympia,Washington,United States,Peer,1,440.72500,PNW DCI,0.0,0.0,315321,"Contact: Rob, AF7PR<br>Emaail: rob@gafs.com",-5.000,ACTIVE,AF7PR,TS1 TS2
 AF7PR,Olympia,Washington,United States,Peer,1,440.92500,DCI,0.0,0.0,315323,,+5.000,ACTIVE,AF7PR,TS1 TS2
 AF7PR,Bremerton,Washington,United States,Peer,1,440.72500,DCI,0.0,0.0,315324,,+5.000,ACTIVE,AF7PR,TS1 TS2
-KE0CO,Burien,Washington,United States,Peer,1,449.42500,Brandmeister,47.49132,-122.3363,315325,,-5.000,ACTIVE,KE0CO,TS1 TS2
+KE0CO,Seabeck,Washington,United States,Peer,1,449.42500,Brandmeister,47.6209000,-122.9040000,315325,,-5.000,ACTIVE,KE0CO,TS1 TS2
 K7TJ,Spokane,Washington,United States,Peer,1,444.12500,PNW-DMR,0.0,0.0,315327,http://pnwdigital.net,+5.000,ACTIVE,KC7AAD,TS1 TS2
 N3EG,Longview,Washington,United States,Peer,1,441.70000,DMR-MARC,0.0,0.0,315328,,+5.000,ACTIVE,N3EG,TS1 TS2
 AF7PR,Tacoma,Washington,United States,Peer,1,440.92500,DCI,0.0,0.0,315329,,+5.000,ACTIVE,AF7PR,TS1 TS2
