@@ -221,6 +221,7 @@ PI8SRT,Venlo,Limburg,Netherlands,Master,1,438.13750,204005,BM,204005,1,TG 204 <b
 PI2DFT,Delft,Zuid-Holland,Netherlands,Peer,1,438.37500,204006,bm,204006,0,,-7.6,PD4TH,TS1 TS2
 PD0JCH,Ouddorp,Zuid-Holland,Netherlands,Peer,1,438.37500,204007,Brandmeister,204007,1,None,-7.600,PD0JCH,TS1 TS2
 PD0JCH,Ouddorp,Zuid-Holland,Netherlands,Peer,1,438.20000,204008,Brandmeister,204008,1,None,-7.600,PD0JCH,TS1 TS2
+PI2GOE,Wilhelminadorp,Zeeland,Netherlands,Peer,7,438.40000,204009,BM,204009,1,Note: the repeater is still under construction and is not yet setup for productions. Data as depecited here may definitely change!<br><br>Deze repeater draait bij PI4Z en is daarvoor primair beschikbaar.,-7.600,"PI2GOE, PB5A, PE9GHZ",TS1 TS2
 PI1DHG,Den Haag,Zuid-Holland,Netherlands,,1,438.20000,204201,BM,204201,1,,-7.600,PA3FRH,TS1 TS2
 PI1HGD,Den Haag,Zuid-Holland,Netherlands,,1,438.25000,204202,DMR-plus,204202,1,,-7.600,PA3FRH,TS1 TS2
 PI1DEC,Dordrecht,Zuid-Holland,Netherlands,Master,1,438.02500,204220,BrandMeister,204220,1,,-7.600,PA3L,TS1 TS2
@@ -1310,7 +1311,6 @@ IR9ZVV,ITALA,Sicily,Italy,Peer,1,430.07500,222468,192.168.1.3,222468,1,None,16.0
 IR8ZXF,Roccella Ionica,Molise / Campania / Calabria,Italy,Peer,1,430.02500,222469,BM,222469,1,None,1.600,IW8RQI,TS1 TS2
 IR0ZYU,Calvi dell'Umbria,Lazio / Umbria / Sardinia,Italy,Peer,1,431.46250,222470,BrandMeister,222470,1,None,+1.600,IW0REF,TS1 TS2
 IR8ZXN,Santa Caterina dello Ionio,Molise / Campania / Calabria,Italy,Master,1,145.57500,222471,BM,222471,1,Ts2 on 22282 (Tg Calabria),-0.600,IU8TIR,TS1 TS2
-IR4ZZD,Borgo Val Di Taro,Emilia-Romagna,Italy,Master,1,435.87500,222472,BM,222472,1,None,0.000,IZ1MLF,TS2
 IR8DY,Monte Vulture,Apulia / Basilicata,Italy,Peer,1,145.65000,222473,HamThings,222473,1,None,-0.600,IU7MNA,TS1 TS2
 IR6S,Monte Pallano CH,Marche / Abruzzo,Italy,Peer,1,145.73750,222474,ADN-2224,222474,1,None,-0.600,IU6SSZ,Mixed Mode
 IR6AL,Pineto,Marche / Abruzzo,Italy,Peer,1,145.65000,222475,ADN-2224,222475,1,None,-0.600,IU6SSZ,Mixed Mode
@@ -3313,6 +3313,7 @@ DB0ERK,Erkelenz,Nordrhein-Westfalen,Germany,Master,1,439.81250,262221,"BM,IPSC2,
 DM0FI,Finsterwalde,Berlin / Brandenburg,Germany,Peer,0,438.22500,262222,"DMR+, YSF, DSTAR",262222,1,None,-7.600,DG1FI,Mixed Mode
 DM0HL,Poehls,,Germany,,1,438.41250,262223,BM,262223,1,,-7.600,DL1SO,TS1 TS2
 DO0JM,Bexbach,Rheinland-Pfalz / Saarland,Germany,Peer,1,438.87500,262224,BM,262224,1,,-7.6,DO6JM,TS1 TS2
+DB0WI,Erkelenz,Nordrhein-Westfalen,Germany,Peer,1,439.28750,262225,dmr  brandmeister,262225,1,None,-7.600,DG2KCB,TS1 TS2
 DB0GRF,GRafing,Bayern,Germany,Peer,0,438.51250,262227,Brandmeister,262227,1,None,-7.600,DH4CW,Mixed Mode
 DB0KI,Kniebis,Baden-Wuerttemberg,Germany,Master,1,438.25000,262228,BM,262228,1,,-7.600,DL6SEC,TS1 TS2
 DM0STR,Liebschuetzberg,Sachsen / Thueringen,Germany,Master,1,145.76250,262229,"YSF, DMR+, D-STAR",262229,0,,-0.600,DG1FI,Mixed Mode
@@ -4098,6 +4099,7 @@ YM5KIS,Hatay,Mediterranean Region,Turkiye,Peer,1,439.26250,286065,BM,286065,0,,-
 YM5KIS,Hatay,Mediterranean Region,Turkiye,Peer,1,439.37500,286066,BM,286066,1,,-7.600,YM5KIS,TS1 TS2
 YM3KMA,Manisa,Aegean Region,Turkiye,Master,1,439.22500,286067,BM,286067,1,,-7.600,TA3F,TS2
 YM8KA,Sahinbey Gaziantep,Southeastern Anatolia Region,Turkiye,Peer,1,431.65000,286068,BM,286068,1,,-7.600,YM8KA,TS1
+YM3CKN,Canakkale,Marmara Region,Turkiye,Peer,1,439.27500,286069,BM,286069,1,None,-7.600,"TA3OER, TA3OWL",TS2
 YM4KA,Antalya,,Turkiye,,1,439.20000,286070,BM,286070,1,,-7.600,TA4K,TS1 TS2
 YM4KAL,Alanya,,Turkiye,,1,145.61250,286071,BM,286071,1,,-0.600,TA4AKF,TS1 TS2
 YM4KL,NAZILLI,,Turkiye,,1,439.20000,286092,None,286092,0,,-7.600,YM4KL,
@@ -4107,7 +4109,7 @@ YM3KK,Bursa,,Turkiye,,1,439.40000,286160,BM,286160,1,,-7.600,TA3NHI,TS1 TS2
 YM3KB,Bursa Nilufer,,Turkiye,,1,145.70000,286161,None,286161,0,,-0.600,TA3SA,
 YM3KBU,Bursa,,Turkiye,,1,439.16250,286162,BM,286162,1,,-7.600,TA3ASN,TS1 TS2
 YM3KI,Inegol / Bursa,,Turkiye,,1,439.37500,286163,None,286163,0,,-7.600,TA3AHS,
-YM3KCN,CANAKKALE,Marmara Region,Turkiye,Peer,1,439.15000,286170,BM,286170,1,,-7.600,TA3OER,TS2
+YM3KCN,CANAKKALE,Marmara Region,Turkiye,Peer,1,439.15000,286170,BM,286170,1,,-7.600,"TA3OER, TA3OWL",TS2
 YM8KS,Gaziantep,Southeastern Anatolia Region,Turkiye,Master,1,439.40000,286270,BM,286270,1,,-7.600,TA8L,TS1 TS2
 YM5KY,Mersin,Mediterranean Region,Turkiye,Peer,1,439.17500,286330,BM,286330,0,28633,-7.600,TA5O,Mixed Mode
 YM5KMS,Mersin,Aegean Region,Turkiye,Master,1,439.42500,286331,DMR,286331,0,,-7.600,TA5AHO,TS1
@@ -10665,7 +10667,7 @@ CA7MZD,CALBUCO,Los Lagos,Chile,Master,1,433.08000,730066,DMR,730066,1,None,+0.00
 CA7MZD,CALBUCO,Los Lagos,Chile,Master,1,147.75000,730067,DMR,730067,1,None,+0.000,CA7MZD,TS2
 CE2VOL,Curico,Maule,Chile,Peer,1,147.27000,730068,7301,730068,1,7301541,+0.600,CE2VOL,TS2
 CE4CU,CURICO,Maule,Chile,Master,1,147.39000,730069,BM - ADN,730069,1,None,+0.600,CE4UJP,TS1 TS2
-CE4CVC,San Fernando,O'Higgins,Chile,Peer,1,147.15000,730070,Brandmeister,730070,1,,0.600,"CD4BAA, CD4DDD",TS1 TS2
+CE4CVC,San Fernando,O'Higgins,Chile,Peer,1,147.00000,730070,Brandmeister,730070,1,,-0.600,"CD4BAA, CD4DDD",TS1 TS2
 CE1RRA,Arica,Arica and Parinacota,Chile,Peer,1,146.97000,730101,DMR-MARC,730101,1,Time Slot #1 - Group Call 1 = World Wide English<br>Time Slot #1 - Group Call 14 = Spanish Worldwide<br>Time Slot #2 - Group Call 730 = Chile<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Contact Name: CE1PDL<br>Email: ca2@cag.cl,-0.600,CE1PDL,TS1 TS2
 CE2LS,El Salvador,Antofagasta,Chile,Peer,1,147.27000,730102,DMR-MARC,730102,0,Time Slot #1 - Group Call 1 = World Wide English<br>Time Slot #1 - Group Call 14 = Spanish Worldwide<br>Time Slot #2 - Group Call 730 = Chile<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Contact Name: CE2LS<br>Email: ca2@cag.cl,+0.600,CE2LS,TS1 TS2
 CE1RLP,Calama,Antofagasta,Chile,Master,1,433.10000,730103,Brandmeister,730103,1,,+5.000,CE1RLP,TS1 TS2
@@ -10756,6 +10758,7 @@ HC3RE,LOJA,All Regions,Ecuador,Peer,1,145.21000,740015,brandmeister network.com,
 HC1M,QUITO,All Regions,Ecuador,Master,1,147.24000,740016,DMR/Brandmeister/ DMR-MARC/DMR Plus Combination,740016,1,740,-0.600,HC3RJ,TS1 TS2
 HC3RE,celica,All Regions,Ecuador,Peer,1,146.79000,740017,740,740017,1,None<br>rpt celica autorizado arcotel,-0.600,"HC5TEM, HC3RE",TS1 TS2
 HC3MC,loja,All Regions,Ecuador,Peer,1,146.79000,740018,3102.master.bradmeister.network,740018,1,None<br>7400 enlace a ysf,-0.600,"HC3MC, HC3RE",Mixed Mode
+HC3LC,Gonzanama,All Regions,Ecuador,Peer,1,146.79000,740019,3102.master.brandmeister.network,740019,1,None,-0.600,HC3LC,TS1 TS2
 ZP6DIG,Luque,Asuncion,Paraguay,Master,1,144.55000,744001,BM,744001,1,,+0.600,ZP6DEM,TS1 TS2
 ZP3PJC,Pedro Juan Caballero,Amabay,Paraguay,Master,1,434.10000,744002,BM,744002,1,,+5.000,ZP3BGA,TS1 TS2
 ZP6RPT,Luque,Amabay,Paraguay,Master,1,434.70000,744101,BrandMeister,744101,1,,+5.000,ZP6DEM,TS1 TS2
