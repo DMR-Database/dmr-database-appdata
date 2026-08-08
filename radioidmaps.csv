@@ -814,7 +814,7 @@ E79VTB,Trebinje,All Regions,Bosnia and Hercegovina,Master,1,145.65000,BM,42.7450
 E79XPD,Prijedor,,Bosnia and Hercegovina,Peer,1,438.55000,BM,44.97,16.71,218015,,-7.6,ACTIVE,E73EP,TS1 TS2
 E79VZE,Zenica,All Regions,Bosnia and Hercegovina,Master,1,145.62500,BM,44.26769,17.85207,218016,,-0.600,ACTIVE,E70BA,Mixed Mode
 E70DNE,Neum,All Regions,Bosnia and Hercegovina,Master,1,438.42500,BM,42.935778,17.602115,218017,,-7.600,ACTIVE,E77X,TS1 TS2
-E79DBI,Bihac,All Regions,Bosnia and Hercegovina,Master,1,438.20000,Brandmeister,44.8153260,15.8644337,218018,"UHF DMR Repeater in the city of Bihac, Bosnia and Herzegovina.<br>TS1 TG218<br>TS2 TG218037",-7.600,ACTIVE,"E72RAD, E70BA, E77SKY",TS1 TS2
+E79DBI,Bihac,All Regions,Bosnia and Hercegovina,Peer,1,438.20000,Brandmeister,44.8153260,15.8644337,218018,"UHF DMR Repeater in the city of Bihac, Bosnia and Herzegovina.<br>TS1 TG218<br>TS2 TG218037",-7.600,ACTIVE,"E72RAD, E70BA, E77SKY",TS1 TS2
 E79DME,Medjugorje,All Regions,Bosnia and Hercegovina,Master,1,438.95000,BM,43.1614673,17.6871390,218019,,-7.600,ACTIVE,E77X,TS1 TS2
 E79DCE,Banja Luka,,Bosnia and Hercegovina,Peer,1,438.85000,BM,44.5217367,17.2131823,218020,TS1 218<br>TS2 21810 21812 218020,-7.600,ACTIVE,E74BYZ,TS1 TS2
 E79VIS,Pale,,Bosnia and Hercegovina,Master,1,145.77500,BM,43.818611,18.4591067,218021,TS1:218<br>TS2:21810,-0.600,ACTIVE,E79VIS,TS1 TS2
@@ -1722,7 +1722,6 @@ OM0OUA,Martin - Velka Luka,,Slovakia,,1,439.13750,BM,49.104099,18.791599,231302,
 OM0ODC,Chopok,Banskobystricky / Zilinsky,Slovakia,Peer,1,438.51250,BM,48.9440000,19.5889000,231303,,-7.600,ACTIVE,OM3WIM,TS1 TS2
 OM0OAC,Cadca,Banskobystricky / Zilinsky,Slovakia,Peer,1,438.22500,BM,49.4577000,18.8197000,231304,,-7.600,ACTIVE,OM3WIM,TS1 TS2
 OM0OAF,Banska Bystrica,,Slovakia,,1,439.12500,BM,48.725601,19.115509,231305,,-7.600,ACTIVE,OM7AFX,TS1 TS2
-OM0OAG,Banski Bystrica,,Slovakia,,1,438.35000,None,0,0,231306,,-7.600,ACTIVE,OM7FX,
 OM0OAE,Zilina Hradisko,Banskobystricky / Zilinsky,Slovakia,Master,1,438.92500,BM,49.227,18.685,231311,"DUAL-MODE D-STAR/FM CTCSS 67,0Hz.",-7.600,ACTIVE,OM6AXE,Mixed Mode
 OM0ODZ,Zvolen,,Slovakia,,1,438.40000,BM,48.579659,19.151115,231320,,-7.600,ACTIVE,OM7ASX,TS1 TS2
 OM0OUL,Lucenec JN98TI,,Slovakia,,1,438.97500,DMR-plus,48.328442,19.690701,231330,,-7.600,ACTIVE,OM7PY,TS1 TS2
@@ -4160,7 +4159,7 @@ S55DKP,Nanos,Goriška,Slovenia,Peer,1,438.70000,BrandMeister,45.771660,14.052630
 S55DGO,Nova Gorica,Goriška,Slovenia,Peer,1,438.90000,BM,46.196159,13.618825,293010,"TS1: 293, 293112<br>TS2: 2935, 29351<br>",-7.600,ACTIVE,S52X,TS1 TS2
 S55DKV,Krvavec,Gorenjska,Slovenia,Peer,1,438.47500,BM,46.299667,14.536748,293011,,-7.600,ACTIVE,S56CT,TS1 TS2
 S55DHF,Kum,Zasavska,Slovenia,Peer,1,438.27500,BM,46.087643,15.072283,293012,,-7.600,ACTIVE,S56CT,TS1 TS2
-S55DLJ,Krim,,Slovenia,,1,438.20000,None,45.928581,14.471000,293013,,-7.600,ACTIVE,S51ZK,
+S55DLJ,Krim,Osrednjeslovenska,Slovenia,Peer,1,438.20000,Brandmeister,45.928581,14.471000,293013,,-7.600,ACTIVE,S51ZK,TS1
 S55DSE,Laze,Posavska,Slovenia,Peer,1,438.40000,BM,45.985802,15.279500,293014,,-7.600,ACTIVE,S56CT,TS1 TS2
 S55URK,Urslja gora,,Slovenia,,1,439.37500,BM,46.485035,14.963781,293015,,-7.600,ACTIVE,S52EI,TS1 TS2
 S55DCE,Celje,Savinjska,Slovenia,Peer,1,438.50000,None,46.232471,15.266460,293016,,-7.600,ACTIVE,S56KZ,TS1 TS2
@@ -4778,6 +4777,7 @@ KG4YRU,Jacksonville,Alabama,United States,Peer,2,440.70000,Brandmeister,33.81371
 W4PCI,Nectar,Alabama,United States,Master,1,147.44500,Brandmister,33.9752865,-86.64139208635928,310126,,-1.000,ACTIVE,W4PCI,TS1 TS2
 N4UAI,Cullman,Alabama,United States,None,1,444.90000,Brandmiester,34.224190,-86.857391,310127,,+5.000,ACTIVE,W4DWF,TS1 TS2
 N4GLE,Sheffield,Alabama,United States,Peer,3,146.88000,AmComm,34.772137,-87.686584,310128,,-0.600,ACTIVE,N4GLE,TS1 TS2
+W4NQ,Elba,Alabama,United States,Peer,1,443.00000,AmComm,31.4871008,-85.9683836,310129,,+5.000,ACTIVE,N4WFF,TS1 TS2
 WB2FYF,South Amboy,New Jersey,United States,Peer,1,440.25000,Brandmeister,40.481125,-74.290543,310131,,+5.000,ACTIVE,WB2FYF,TS1 TS2
 WB0FNA,Storm Lake,Iowa,United States,Peer,1,444.52500,BrandMeister,42.641941,-95.178139,310132,,+5.000,ACTIVE,WB0FNA,TS1 TS2
 KF6FM,Banning,California,United States,Master,3,448.16250,Western States DMR,33.9255713,-116.8764103,310133,,-5.000,ACTIVE,KF6FM,TS1 TS2
@@ -7128,7 +7128,7 @@ KB3TWW,Test Repeater,Pennsylvania,United States,Peer,1,444.92500,Interstate,40.2
 W4BIY,Lehigh Acres,Florida,United States,Master,1,442.80000,BM,26.6091509,-81.652407,312798,,+5.000,ACTIVE,W4BIY,TS1 TS2
 N7ELY,Ely,Nevada,United States,Peer,1,444.65000,BM,39.161301,-114.614940,312799,"10,744ft of elevation.  65 W out w 3.0bdb gain.<br>Motorola MTR-3000<br>TS-1 31089 31321 31325 31327 31328 3132351<br>TS-2 3132 31323 31322",+5.000,ACTIVE,N7ELY,TS1 TS2
 K5TRA,Austin,Texas,United States,Peer,1,444.71250,BM,30.2711286,-97.7436995,312800,,+5.0000,ACTIVE,K5TRA,Mixed Mode
-KD4VVZ,Lucedale,Mississippi,United States,Peer,1,444.20000,DMR-SE C Bridge,30.978613,-88.600586,312801,Static (Full Time Talkgroups)<br>TS 1 - TG 3128 = MS Statewide<br>TS 1 - TG 312801 = Lucedale Local<br>TS 2 - TG 9 = Local 9-2 (Local Only)<br>TS 2 - TG 3199 = US Hurricane Net BM<br>TS 2 - TG 31280 = MS Tac<br><br>TS 1 Dynamic Talkgroups<br>(PTT Activated - 10 Min Timer)<br>TG 3 = North America<br>TG 13 = Worldwide English (DMR-MARC)<br>TG 91 = Worldwide BM<br>TG 93 = North America BM<br>TG 310 = TAC-310 BM<br>TG 311 = TAC-311 BM<br>TG 312 = TAC-312 BM<br>TG 3100 = USA Calling BM<br>TG 3101 = AL Statewide<br>TG 3112 = FL Statewide<br>TG 3122 = LA Statewide<br>TG 3148 = TX Statewide<br>TG 3174 = SE Region<br>TG 9998 = Parrot (Audio Test)<br>TG 13174 = SE Region BM<br>TG 31010 = Alabama Link<br>TG 31225 = SE Louisiana<br><br>TS 2 Dynamic Talkgroups<br>(PTT Activated - 10 Min Timer)<br>TG 31121 = First Coast<br>TG 31285 = NE Mississippi<br>TG 311307 = Kingsland Net<br>(On Daily 4am-7am CST)<br>TG 314128 = McHenry Local<br>TG 314309 = Biloxi Local<br>date: 1-1-25,+5.000,ACTIVE,KD4VVZ,TS1 TS2
+KD4VVZ,Lucedale,Mississippi,United States,Peer,1,444.20000,DMR-SE C Bridge,30.978613,-88.600586,312801,,+5.000,ACTIVE,KD4VVZ,TS1 TS2
 K5WHB,corinth,Mississippi,United States,Master,1,147.28500,ham,34.549992,-88.470001,312802,,+0.600,ACTIVE,K5WHB,Mixed Mode
 W5AV,Horn Lake,Mississippi,United States,Master,1,442.01250,Brandmeister,34.9553719,-90.0348139,312803,,+5.000,ACTIVE,WB4IZC,TS1 TS2
 K5WHB,Corinth,Mississippi,United States,Master,1,444.60000,DMR,34.895901,-88.472290,312804,,+5.000,ACTIVE,K5WHB,TS1
@@ -8388,7 +8388,7 @@ KD2NOL,Stanley,New York,United States,Master,3,444.30000,brandmiester,42.80889,-
 AE4GC,Tuscumbia,Alabama,United States,Master,1,444.07500,AmComm,34.692,-87.793,314306,"TS1=3101,  31016, 31010<br>TS2=Dial-9",+5.0,ACTIVE,AE4GC,TS1 TS2
 KC1VAX,Rehoboth,Massachusetts,United States,Peer,1,442.95000,BM,41.8889996,-71.2019899,314307,TS 1 TG 3208773 XLX097 Reflector / Static<br>TS 1 TG 3125 MA State Wide / Static<br>TS1 TG 3244 RI State Wide / Static<br><br>TS 2 Dynamic TG 15 Minute Timeout,+5.000,ACTIVE,KC1VAX,TS1 TS2
 NH7CY,West Saint Paul,Minnesota,United States,Peer,11,927.92500,Brandmeister,44.91515,-93.104858,314308,,-25.000,ACTIVE,NH7CY,Mixed Mode
-KD4VVZ,Biloxi,Mississippi,United States,Peer,1,444.96250,DMR-SE C Bridge,30.4726,-88.9495,314309,Static (Full Time Talkgroups)<br>TS 1 - TG 3128 = MS Statewide<br>TS 1 - TG 314309 = Biloxi Local<br><br>TS 2 - TG 312801 = Lucedale Local<br>TS 2 - TG 9 = Local 9-2 (Local Only)<br>TS 2 - TG 31280 = MS Tac<br><br>Dynamic Talkgroup on TS  (PTT Activated - 10 Min Timer)<br><br>TG 3 = North America<br>TG 13 = Worldwide English (DMR-MARC)<br>TG 91 = Worldwide BM<br>TG 93 = North America BM<br>TG 310 = TAC-310 BM<br>TG 311 = TAC-311 BM<br>TG 312 = TAC-312 BM<br>TG 3100 = USA Calling BM<br>TG 3101 = AL Statewide<br>TG 3112 = FL Statewide<br>TG 3122 = LA Statewide<br>TG 3148 = TX Statewide<br>TG 3174 = SE Region<br>TG 9998 = Parrot (Audio Test)<br>TG 13174 = SE Region BM<br>TG 31010 = Alabama Link<br><br>Dynamic Talkgroup on TS 2 (PTT Activated - 10 Min Timer)<br><br>TG 3199 = US Hurricane Net BM<br>TG 31121 = First Coast<br>TG 31285 = NE Mississippi<br>TG 311307 = Kingsland Net<br>TG 314128 = Wiggins MS Local<br><br>date: 11-14-25,+5.000,ACTIVE,KD4VVZ,TS1 TS2
+KD4VVZ,Biloxi,Mississippi,United States,Peer,1,444.96250,DMR-SE C Bridge,30.4726,-88.9495,314309,,+5.000,ACTIVE,KD4VVZ,TS1 TS2
 KC4JHS,Garland,Texas,United States,Master,1,145.25000,BM,32.776,-96.797,314310,Time Slot #1 - Group Call 9<br>Time Slot #2 - Group Call 314310<br>Time Slot #2 - Group Call 311127<br>ECHO 9990|,-0.600,ACTIVE,KC4JHS,TS1 TS2
 KD2PWJ,New Brunswick,New Jersey,United States,Master,1,446.50000,DMR,0.0,0.0,314312,,+5.00,ACTIVE,KD2PWJ,TS1
 N9RBQ,Decatur,Illinois,United States,Peer,5,444.80000,BM,39.810617,-88.992674,314313,,+5.000,ACTIVE,N9RBQ,TS1 TS2
@@ -9085,6 +9085,8 @@ N5VGK,OXFORD,Mississippi,United States,Peer,1,444.42500,314649,34.3270000,89.580
 AF4JC,Middleburg,Florida,United States,Master,1,442.60000,Brandmiester,29.9989160,-81.7001700,315080,None,+5.000,ACTIVE,AF4JC,Mixed Mode
 WC9IN,Fowler,Indiana,United States,Peer,1,444.82500,TGIF,40.6975000,-87.2839000,315081,None,5.000,ACTIVE,K9NMT,TS2
 W4BAD,Hillsborough,North Carolina,United States,Peer,1,444.13750,c-bridge,36.0600010,-78.5800020,315082,None,5.000,ACTIVE,W4BAD,TS1 TS2
+KK7GKG,Salt Lake City,Utah,United States,Peer,1,447.83750,Brandmeister,40.8048477,-111.8965264,315083,KENWOOD TKR830 With External PA<br>Antenna is a DB420,-5.000,ACTIVE,"KK7GKG, W0SKY",Mixed Mode
+KK7GKG,Riverton,Utah,United States,Peer,1,445.08750,Brandmeister,40.5159083,-112.0070840,315084,None,-5.000,ACTIVE,KK7GKG,Mixed Mode
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,DMRVA,37.5358149,-77.3821587,315101,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,ACTIVE,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,NC-PRN-,36.6474353,-80.6437257,315102,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,ACTIVE,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,NC-PRN,36.8663865,-81.0515927,315103,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,ACTIVE,K4IJ,TS1 TS2
@@ -10414,7 +10416,6 @@ PY5AMS,Maringa,Parana,Brazil,Peer,1,439.35000,DMR-Plus/Ipsc2,-23.39444,-52.02916
 PY4RCR,ONÇA DO PITANGUI,Minas Gerais,Brazil,Peer,1,147.00000,BM 7242,-19.961402,-43.831709,724096,Obrigado.,+0.600,ACTIVE,PY4AC,TS1 TS2
 PY1OAB,Rio de Janeiro,Rio de Janeiro,Brazil,Master,1,439.47500,DMR-MARC,-22.9707403,-43.1890821,724097,,-5.000,ACTIVE,PY1OAB,TS1
 PY8AVC,BELEM,Para,Brazil,Master,1,145.41000,BRANDMEISTER,-1.398800,-48.469761,724098,,-0.600,ACTIVE,PY8AC,TS1 TS2
-PY2KLH,Mogi das Cruzes,Sao Paulo,Brazil,Master,1,927.30000,BM7242,-23.468700,-46.164742,724100,,-25.000,ACTIVE,PY2LH,TS1 TS2
 PY1RSV,Rio de Janeiro,Rio de Janeiro,Brazil,Peer,1,146.93000,DMR-plus,-22.9324,-43.1930,724101,,-0.600,ACTIVE,PU1LOY,TS1 TS2
 PY1YRF,Rio de Janeiro,Rio de Janeiro,Brazil,Peer,1,438.67500,Dmrplus,-22.9068467,-43.1728965,724102,,-5.000,ACTIVE,PY4CEP,TS1 TS2
 PY1MRB,Rio de janeiro,Rio de Janeiro,Brazil,Peer,1,439.87500,DMR-plus,-22.9068467,-43.1728965,724103,TG724 slot1,-5.000,ACTIVE,PU1LOY,TS1 TS2
