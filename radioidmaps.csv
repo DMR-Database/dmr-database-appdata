@@ -227,6 +227,7 @@ PI2DFT,Delft,Zuid-Holland,Netherlands,Peer,1,438.37500,bm,52.02826,4.35666,20400
 PD0JCH,Ouddorp,Zuid-Holland,Netherlands,Peer,1,438.37500,Brandmeister,51.8243160,3.9584600,204007,None,-7.600,ACTIVE,PD0JCH,TS1 TS2
 PD0JCH,Ouddorp,Zuid-Holland,Netherlands,Peer,1,438.20000,Brandmeister,51.8243160,3.958460,204008,None,-7.600,ACTIVE,PD0JCH,TS1 TS2
 PI2GOE,Wilhelminadorp,Zeeland,Netherlands,Peer,7,438.40000,BM,51.5339600,3.8756900,204009,Note: the repeater is still under construction and is not yet setup for production. Data as depicted here may definitely change!<br><br>Deze repeater draait bij PI4Z en is daarvoor primair beschikbaar.,-7.600,ACTIVE,"PI2GOE, PB5A, PE9GHZ",TS1 TS2
+PI4LEK,LEEK,Groningen,Netherlands,Peer,1,454.90000,DMR,53.1632327,6.3771190,204010,None,10.000,ACTIVE,PD2EN,TS1 TS2
 PI1AMS,Amsterdam,,Netherlands,Peer,1,438.05000,BM,52.360584,4.789666,204101,,-7.600,ACTIVE,PA3PM,TS1 TS2
 PI1DHG,Den Haag,Zuid-Holland,Netherlands,,1,438.20000,BM,52.080780,4.335861,204201,,-7.600,ACTIVE,PA3FRH,TS1 TS2
 PI1HGD,Den Haag,Zuid-Holland,Netherlands,,1,438.25000,DMR-plus,52.090561,4.353970,204202,,-7.600,ACTIVE,PA3FRH,TS1 TS2
@@ -959,7 +960,7 @@ IR1UIZ,Monte Giarolo,Piedmont / Liguria / Aosta,Italy,Master,1,431.43750,BM,44.7
 IR9UBK,Catania,Sicily,Italy,Master,1,430.37500,FREEDMR,37.284701500177526,15.106424396411136,222065,,+5.000,ACTIVE,IW9BAX,TS1 TS2
 IR5ZYD,Borgo A Mozzano,Tuscany,Italy,Master,1,430.82500,BM,43.995284,10.515123,222066,,+5.000,ACTIVE,IU5JAE,TS1 TS2
 IR0UIX,GENNAGONNESA,,Italy,,1,430.93750,None,39.22105,8.47101,222067,,5.000,ACTIVE,IK2OVD,
-IW0RQJ,Assisi,Lazio / Umbria / Sardinia,Italy,Master,1,430.90000,BM,43.037550,12.625540,222068,,+5.000,ACTIVE,IW0RQJ,TS1 TS2
+IW0RQJ,Assisi,Lazio / Umbria / Sardinia,Italy,Master,1,430.93750,BM,43.037550,12.625540,222068,,+5.000,ACTIVE,IW0RQJ,TS1 TS2
 IR0UAS,Monte Serano (PG),,Italy,,1,430.21250,DMR-plus,39.911400,8.598300,222069,,5.600,ACTIVE,IW0RED,TS1 TS2
 IR0AY,Assisi,,Italy,,1,431.43750,None,43.0711952,12.6146669,222070,,1.600,ACTIVE,IW0RED,
 IR0UFQ,Giano dellUmbria,,Italy,,1,430.68750,BrandMeister,42.8334672,12.5777111,222071,,5.000,ACTIVE,IW0RED,
@@ -1046,7 +1047,6 @@ IR1ZZM,Bardonecchia,Piedmont / Liguria / Aosta,Italy,Master,1,430.18750,BM,45.05
 IR9ZYY,Messina,Sicily,Italy,Peer,1,431.45000,BM,38.24039899,15.5355012,222162,,+1.600,ACTIVE,IT9IJI,TS1 TS2
 IR1ZZL,Acqui Terme AL,Piedmont / Liguria / Aosta,Italy,Master,1,431.58750,BM,44.65780,8.479728,222163,SLOT 1 reteD2ALP,+1.6,ACTIVE,IZ1NGU,TS1 TS2
 IR6ZZY,Pesaro,Marche / Abruzzo,Italy,Peer,1,430.13750,BM,43.8498,13.0191,222164,,+1.60,ACTIVE,IW6CNM,TS1 TS2
-IW3BTS,Bolzano,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.88750,BM,46.482210,11.314480,222165,Hytera RD625.,+5.000,ACTIVE,IW3BTS,TS1 TS2
 IR8ZZH,Gragnano,Molise / Campania / Calabria,Italy,Master,1,435.67500,BM,40.696250,14.51731,222166,222<br>22289<br>222167,-5.000,ACTIVE,IZ8OEU,TS1 TS2
 IR8ZZG,Castellammare Di Stabia,Molise / Campania / Calabria,Italy,Master,1,430.55000,BM,40.715521,14.481960,222167,"Castellammare di Stabia DMR BM2222.<br>PROGRAMMARE TUTTI I TG SULLO SLOT 1,<br>MENTRE SULLO SLOT 2 SOLO TG 222167",+5.000,ACTIVE,IZ8GDO,TS1 TS2
 IR1UBC,12100 Cuneo,Piedmont / Liguria / Aosta,Italy,Master,1,431.32500,DMR-plus,44.383858,7.599481,222168,,+1.600,ACTIVE,I1YYG,TS1 TS2
@@ -1130,7 +1130,6 @@ IR1ZYN,Santo Stefano d Aveto,Piedmont / Liguria / Aosta,Italy,Master,1,430.52500
 IR3ZXH,Domegge di Cadore,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.81250,BM,46.457750,12.413620,222251,,-285.425,ACTIVE,IW3GXX,TS1 TS2
 IR3ZXX,Villorba,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.27500,BM,45.7130100,12.2604300,222252,222345 RETE DOLOMITI,+1.600,ACTIVE,IZ3HPC,Mixed Mode
 IR1ZZN,Perosa Argentina,Piedmont / Liguria / Aosta,Italy,Master,1,430.16250,BM,44.965680,7.198830,222253,,+5.000,ACTIVE,IW1ELM,TS1 TS2
-IW3BUA,Bolzano,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.38750,BM,46.493850,11.317220,222255,Hytera RD985.,+1.600,ACTIVE,IW3BTS,TS1 TS2
 IR0ZYD,Punta Tricoli  lanusei,Lazio / Umbria / Sardinia,Italy,Master,1,430.78750,BM,39.8578741,9.5182653,222256,TG 22202  SLOT2<br>TG 222        SLOT1,+5.000,ACTIVE,IW0UQF,TS1 TS2
 IR3ZXQ,Monte Zovo,Veneto / Trentino-AA / Friuli-VG,Italy,Master,2,430.50000,BM,46.600702,12.559604,222257,,+1.600,ACTIVE,IZ3ZUJ,TS1 TS2
 IR3ZXV,Cortina d Ampezzo,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.21250,bm,46.5475150,12.0849920,222258,,+1.600,ACTIVE,IU3GQH,TS1 TS2
@@ -1174,9 +1173,7 @@ IR3UJI,Paganella,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.96250,BM,46.1
 IK3HHG,Col Visentin,,Italy,Peer,1,430.70000,DMR-plus,46.0561851,12.2823289,222301,,5.000,ACTIVE,IK3HHG,TS1 TS2
 IR3ZYP,Val di Zoldo,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,432.31250,bm,46.3815420,12.0944610,222302,,+1.600,ACTIVE,IU3GQH,TS1 TS2
 IR3UDD,Monte Cesen,,Italy,,1,430.70000,BM,45.923420,12.022617,222303,,5.000,ACTIVE,IW3IBG,TS1 TS2
-IR3UJL,Monte Macaion,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.98750,BM,46.493600,11.210270,222304,Motorola DR3000.,+5.000,ACTIVE,IW3BTS,TS1 TS2
 IN3CBN,Polsa di Brentonico,,Italy,,1,430.93750,BM,45.7839216,10.9448377,222305,,5.000,ACTIVE,IN3CBN,TS1 TS2
-IR3UJH,Bolzano city,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.93750,BM,46.482121,11.314332,222306,Hytera RD625.,+5.000,ACTIVE,IW3BUA,TS1 TS2
 IR3ZYB,Verona,Veneto / Trentino-AA / Friuli-VG,Italy,Master,3,430.33750,DMR-Marc,45.44781,11.28831,222307,,+1.600,ACTIVE,IK3DNV,TS1 TS2
 IR3UGT,Monselice,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.85000,BM,45.254005,11.742228,222308,For problem call me telephone number +393286100168 Telegram X @iz3clg_mobile,+5.000,ACTIVE,IZ3CLG,TS1 TS2
 IQ3VN,Passo Broccon,,Italy,,1,430.95000,BM,,,222309,,5.000,ACTIVE,IW3BOV,TS1 TS2
@@ -1230,7 +1227,6 @@ IR9ZYE,PARTANNA jm67kr,Sicily,Italy,Master,1,430.12500,Dmr,37.7446,12.8973,22236
 IR9ZWP,Catania,Sicily,Italy,Master,1,431.47500,BM,37.563040,15.028950,222369,,+1.600,ACTIVE,IT9JUQ,TS1 TS2
 IR3AC,Comune di ledro,,Italy,,1,430.35000,DMR-plus,,,222370,,5.000,ACTIVE,IW2ECM,TS1 TS2
 IR3AE,Cimego Trento,,Italy,,1,430.32500,DMR-plus,45.911895,10.6128545,222371,,5.000,ACTIVE,IW2ECM,TS1 TS2
-IR3UJJ,Monte Telegrafo Plose,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.91250,BM,46.694993,11.732166,222374,Hytera RD625.,+5.000,ACTIVE,IW3BTS,TS1 TS2
 IR3UBL,Venezia,,Italy,,1,431.37500,DMR-plus,45.433331,12.333330,222375,,1.600,ACTIVE,IZ3ALE,TS1 TS2
 IR3UDX,Polsa di Brentonico,,Italy,,1,430.93750,DMR-plus,45.7839216,10.9448377,222377,,5.000,ACTIVE,IN3CBN,TS1 TS2
 IR8ZYP,MONTE FAITO,Molise / Campania / Calabria,Italy,Master,1,430.35000,BM,40.6711642,14.4744373,222378,,+1.600,ACTIVE,IC8EWW,TS1 TS2
@@ -3132,8 +3128,7 @@ SR9RR,Przehyba,małopolskie,Poland,Peer,9,439.10000,BM,49.4656108,20.560115,2609
 SR9CZ,Czestochowa,śląskie,Poland,Master,1,439.17500,Brandmeister,50.8089997,19.1244089281233,260920,,-7.600,ACTIVE,SP9VJ,TS1 TS2
 SR9UPZ,Kleczany,małopolskie,Poland,Master,1,438.58750,Brandmeister,49.678791,20.626482,260921,,-7.600,ACTIVE,SQ9OKT,TS1 TS2
 SR9DLI,LIMANOWA,małopolskie,Poland,Master,1,438.97500,Brandmeister,49.704899,20.402719,260922,,-7.600,ACTIVE,SQ9OKT,TS1 TS2
-SR9NS,Nowy Sacz,małopolskie,Poland,Master,1,439.22500,Brandmeister,49.61030395,20.71595521113809,260923,,-7.600,ACTIVE,SQ9OKT,TS1 TS2
-SR9DDP,Gora Kicarz,małopolskie,Poland,Master,1,438.55000,Brandmeister,,,260924,,-7.600,ACTIVE,SQ9OKT,TS1 TS2
+SR9DDP,Gora Kicarz,małopolskie,Poland,Master,1,438.55000,Brandmeister,49.4167640,20.7166546,260924,,-7.600,ACTIVE,SQ9OKT,TS1 TS2
 SR9CSR,Osiek,małopolskie,Poland,Master,1,439.51250,Brandmeister,49.933811,19.249660,260925,,-7.600,ACTIVE,SP9LVZ,TS1 TS2
 SR9DSK,Szczawnica,małopolskie,Poland,Master,1,438.52500,Brandmeister,49.418869,20.476458,260926,,-7.600,ACTIVE,SQ9OKT,TS1 TS2
 SR9DCH,Orzesze,śląskie,Poland,Master,9,439.42500,"Brandmeister, HBLink",50.145470,18.774277,260928,,-7.600,ACTIVE,SP9CH,TS1 TS2
@@ -5675,7 +5670,7 @@ WR0AEN,Denver,Colorado,United States,Master,1,449.15000,Brandmeister,39.7392358,
 WR0AEN,Denver,Colorado,United States,Master,1,449.65000,Brandmeister,39.679401,-105.492599,311050,,-5.0000,ACTIVE,W0LG,TS1 TS2
 WR0AEN,Denver,Colorado,United States,Master,1,449.67500,Brandmeister,39.7392358,-104.990251,311051,,-5.0000,ACTIVE,W0LG,TS1 TS2
 K0AEN,Greeley,Colorado,United States,Master,1,449.32500,Brandmiester,40.5416,-105.1970,311052,,-5.0000,ACTIVE,W0LG,TS1 TS2
-K6KGE,Taft,California,United States,Peer,1,441.57500,Kern System,35.134628,-119.477402,311053,Serves Taft Ca.<br>Static 110688 on time slot 2<br>Please use time slot 1 for dynamic.,+5.00,ACTIVE,K6KGE,TS1 TS2
+K6KGE,Taft,California,United States,Peer,1,441.57500,Kern System,35.134628,-119.477402,311053,Serves Taft Ca.<br>Static 110688 on time slot 2<br>Please use time slot 1 for dynamic.,+5.00,ACTIVE,K6SLH,TS1 TS2
 N5IDX,Waynesboro,Mississippi,United States,3102,1,450.00000,Brandmeister,31.6948,-88.7246,311054,This is a test repeater linked in mississippi,+5.00,ACTIVE,N5IDX,1
 N8ZPS,Kent,Ohio,United States,Master,7,442.02500,BrandMeister,41.130001,-81.349991,311055,,+5.000,ACTIVE,N8ZPS,1
 W4NWT,Union City,Tennessee,United States,MASTER,5,147.01500,BrandMeister,36.413101,-89.149689,311056,,+.600,ACTIVE,W4NWT,1
@@ -6408,6 +6403,7 @@ W9MJW,Westville,Illinois,United States,Peer,1,443.08750,BM Nation Wide Standard,
 W9CTO,Gary,Indiana,United States,Peer,1,146.91000,ChicagoLand,41.5933696,-87.3464271,311849,,-0.600,ACTIVE,W9CTO,TS1 TS2
 KB9TTX,Upland,Indiana,United States,Master,1,442.40000,Crossroads,40.4755974,-85.4944168,311850,,+5.000,ACTIVE,KB9TTX,TS1 TS2
 W2NAP,Anderson,Indiana,United States,Peer,7,442.27500,HoosierDMR/Scrapper System,40.105320,-85.680252,311852,TS1 - Local Only please (TG311852 is used for local it is linked to allstar 42829)<br>TS2 - Full time 3118 Indiana Statewide,+5.000,ACTIVE,W2NAP,TS1 TS2
+KD9GUD,Saint Paul,Indiana,United States,Peer,1,441.98125,Hoosier DMR,39.4281048,-85.6283088,311854,,+5.000,ACTIVE,KD9GUD,TS1 TS2
 N9IAA,Valparaiso,Indiana,United States,Peer,1,147.10500,BrandMesiter,41.530430,-87.034332,311855,,+0.600,ACTIVE,N9IAA,TS1 TS2
 NF9K,Noblesville,Indiana,United States,Peer,1,441.57500,Indiana Digital Ham Radio,40.0453000,-86.0409000,311856,,+5.000,ACTIVE,NF9K,TS1 TS2
 K9NZF,New Castle,Indiana,United States,Peer,1,441.95500,Hoosier DMR,39.9289351,-85.3702477,311857,,+5.000,ACTIVE,K9NZF,TS1 TS2
@@ -9863,6 +9859,7 @@ BR7QEF,Guilin,Hunan Guangdong Guangxi Hainan,China,Peer,1,439.60000,BM,25.1740,1
 BR4UOH,Nontong,Shanghai Shandong Jiangsu,China,Master,1,439.25000,BM,0.0,0.0,460084,,-5.000,ACTIVE,BG4UVH,TS1
 BR4UHH,Nantong,Shanghai Shandong Jiangsu,China,Master,1,439.25000,BM,0.0,0.0,460085,,-5.000,ACTIVE,BG6YAD,TS1
 BR4UMM,Nantong,Shanghai Shandong Jiangsu,China,Master,1,438.25000,BM,0.0,0.0,460086,,-5.000,ACTIVE,BA6YLL,TS1 TS2
+BR7THK,Guilin,Hunan Guangdong Guangxi Hainan,China,Peer,1,439.60000,BM,24.936,110.050,460087,,-5.000,ACTIVE,BG7THK,TS1 TS2
 BR4ULV,Nan Tong,Shanghai Shandong Jiangsu,China,Master,1,439.04000,BM,0.0,0.0,460088,,-5.000,ACTIVE,BG4UVJ,TS1 TS2
 BR6CS,佛光寺,Henan Hubei Anhui,China,Master,7,438.65000,BM,31.095236,118.1234572,460089,,-5.000,ACTIVE,BH6BBA,TS1 TS2
 BR5GZC,Yudu County  Ganzhou City  Jiangxi Provinc,Zhejiang Fujian Jiangxi,China,Master,1,439.65000,DMR,25.9566,115.389520,460090,,-5.000,ACTIVE,BG5MVD,TS1 TS2
@@ -10562,10 +10559,11 @@ PP1RK,Vila Velha,Espirito Santo,Brazil,Peer,1,147.18000,Brandmeister,-20.309099,
 PY1SVL,Teresopolis,Rio de Janeiro,Brazil,Peer,1,146.83000,DMR+,-22.4164578,-42.975194,724011,Repetidor Teresopolis DMR+<br>TG 724 slot 2,-0.600,ACTIVE,PY1PQP,TS1 TS2
 PY1LRP,Duque de Caxias,Rio de Janeiro,Brazil,Peer,1,147.33000,DMR-plus,-22.9110137,-43.2093727,724012,tg724 SLOT1,-0.600,ACTIVE,PY1LT,TS1 TS2
 PY2KGS,Santos,Sao Paulo,Brazil,Master,1,146.95000,Brandmaister,-23.975100,-46.300510,724013,724 Brasil,-0.600,ACTIVE,PY2NBY,TS1 TS2
+PY7JAD,Caruaru,Pernambuco,Brazil,Peer,1,146.81000,dmr+,-8.279390,-35.939281,724014,Boa noite esse licença ja esta em uso py7jad TG724014 so pra atualizar o cadastro.,-0.600,ACTIVE,PY7JD,TS1 TS2
 PY1URE,NITEROI,Rio de Janeiro,Brazil,Peer,1,439.85000,DMR-plus,-22.929156,-43.087175,724015,Repetidor Niteroi DMR+<br>TG 724 slot2,-5.000,ACTIVE,PU1LOY,TS1 TS2
 PY1FCT,Friburgo,Rio de Janeiro,Brazil,Peer,1,145.41000,DMR-plus,0.0,0.0,724016,Repetidor Friburgo DMR+ CALEDONIA,-0.600,ACTIVE,PU1LOY,TS1 TS2
 PY5TF,Pontal do Parana,Parana,Brazil,Master,1,146.65000,DMR+ MASTER SUL,-25.645064,-48.442204,724017,,-0.600,ACTIVE,PY5JP,TS1 TS2
-PY4RWC,Janauba,Minas Gerais,Brazil,Master,1,146.85000,"BM, IPSC2",-15.788700,-43.247360,724018,724018<br>72402<br>724<br>72431<br>72442,-0.600,ACTIVE,PU4RON,TS1 TS2
+PY4RWC,Janauba,Minas Gerais,Brazil,Master,1,146.85000,"BM, IPSC2, C4FM, NXDN, P25, M17",-15.788700,-43.247360,724018,724018<br>72402<br>724<br>72431<br>72442,-0.600,ACTIVE,PU4RON,TS1 TS2
 PY6SDR,Lauro de Freitas,Bahia,Brazil,Local,1,439.85000,BrandMeister,-12.89338432,-38.29437286,724019,Salvador/BA<br>Slot 1 TG 724<br>Slot 2 TG 2 (Local),- 5.000,ACTIVE,PY6USA,1/2
 PY2KPE,Sao Paulo,Sao Paulo,Brazil,Master,1,439.65000,BrandMeister,-23.30,-46.38,724020,,-5.000,ACTIVE,PY2PE,1 e 2
 PY3BK,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,439.10000,Brandmeister,-30.0324999,-51.2303767,724021,,-5.000,ACTIVE,PY3NZ,TS1
