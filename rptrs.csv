@@ -140,7 +140,7 @@ N4TZD,Lexington,North Carolina,United States,Peer,1,441.93750,113704,PRN,113704,
 K4DVA,Albemarle,North Carolina,United States,Master,1,440.56250,113706,NC PRN,113706,1,"NC PRN standard talk groups - PRN, Chat1, Chat2, Local",+5.000,KI4UDZ,TS1 TS2
 KD8SPV,Ray,Ohio,United States,None,7,146.89500,113901,KD8SPV Network,113901,1,,-0.600,W8JDA,TS1 TS2
 W8SDR,West Chester,Ohio,United States,Master,1,444.97500,113902,DMR-MARC,113902,1,,+5.000,W8SDR,Mixed Mode
-W8JL,portable,Ohio,United States,Peer,7,442.60000,113903,brandmeister,113903,0,,+5.000,W8JL,TS1 TS2
+W8JL,portable,Ohio,United States,Peer,7,442.60000,113903,brandmeister,113903,1,,+5.000,W8JL,TS1 TS2
 W8JL,marietta,Ohio,United States,Peer,7,442.90000,113904,brandmeister,113904,1,,+5.000,W8JL,TS1 TS2
 WJ8Y,tiffin,Ohio,United States,Peer,1,444.82500,113905,dmr,113905,1,,+5.000,WJ8Y,TS1 TS2
 KG5CNG,San Angelo,Texas,United States,Master,1,444.65000,114801,Mixed,114801,1,,+5.000,W5ETJ,TS2
@@ -228,6 +228,7 @@ PD0JCH,Ouddorp,Zuid-Holland,Netherlands,Peer,1,438.37500,204007,Brandmeister,204
 PD0JCH,Ouddorp,Zuid-Holland,Netherlands,Peer,1,438.20000,204008,Brandmeister,204008,1,None,-7.600,PD0JCH,TS1 TS2
 PI2GOE,Wilhelminadorp,Zeeland,Netherlands,Peer,7,438.40000,204009,BM,204009,1,Note: the repeater is still under construction and is not yet setup for production. Data as depicted here may definitely change!<br><br>Deze repeater draait bij PI4Z en is daarvoor primair beschikbaar.,-7.600,"PI2GOE, PB5A, PE9GHZ",TS1 TS2
 PI4LEK,LEEK,Groningen,Netherlands,Peer,1,454.90000,204010,DMR,204010,1,None,10.000,PD2EN,TS1 TS2
+PI1LEK,Leek,Groningen,Netherlands,Peer,1,454.90000,204011,DMR,204011,1,None,10.000,PD2EN,TS1 TS2
 PI1AMS,Amsterdam,,Netherlands,Peer,1,438.05000,204101,BM,204101,1,,-7.600,PA3PM,TS1 TS2
 PI1DHG,Den Haag,Zuid-Holland,Netherlands,,1,438.20000,204201,BM,204201,1,,-7.600,PA3FRH,TS1 TS2
 PI1HGD,Den Haag,Zuid-Holland,Netherlands,,1,438.25000,204202,DMR-plus,204202,1,,-7.600,PA3FRH,TS1 TS2
@@ -740,7 +741,7 @@ ED4ZAC,Plasencia,Caceres,Spain,Peer,1,438.70000,214411,DMR-plus,214411,1,,7.600,
 ED4ZAF,Coslada,Madrid,Spain,Peer,1,438.50000,214444,Brandmeister,214444,1,,-7.600,EA4GEL,TS1 TS2
 ED5ZAH,Chinchilla de Montearagon,Albacete,Spain,Peer,1,438.50000,214501,BM,214501,1,,-7.600,"EA5IIO, EA5IJC",TS1 TS2
 ED5ZAE,San Javier,,Spain,,1,400.00000,214502,DMR-plus,214502,0,,-7.600,EA5RSJ,TS1 TS2
-ED5ZAJ,Alicante,,Spain,,1,438.50000,214503,BM,214503,1,,-7.600,EA5IHI,TS1 TS2
+ED5ZAJ,Alicante,Alicante,Spain,Peer,1,438.50000,214503,BM,214503,1,,-7.600,EA5IHI,TS1 TS2
 EA5ERC,Chert Castellon,,Spain,,1,438.26250,214504,DMR-plus,214504,1,,-7.600,EB3GHN,TS1 TS2
 ED5ZAB,Alt del Pi Serra,Valencia,Spain,,1,438.42500,214505,BM,214505,1,,-7.600,EA5FDW,TS1 TS2
 ED5ZAL,Albacete,,Spain,,1,438.22500,214506,DMR-plus,214506,1,,-7.600,EA5AWB,TS1 TS2
@@ -1173,6 +1174,7 @@ IR3UJI,Paganella,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.96250,222300,
 IK3HHG,Col Visentin,,Italy,Peer,1,430.70000,222301,DMR-plus,222301,1,,5.000,IK3HHG,TS1 TS2
 IR3ZYP,Val di Zoldo,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,432.31250,222302,bm,222302,1,,+1.600,IU3GQH,TS1 TS2
 IR3UDD,Monte Cesen,,Italy,,1,430.70000,222303,BM,222303,1,,5.000,IW3IBG,TS1 TS2
+IR3UJL,Monte Macaion,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.98750,222304,BM,222304,1,Motorola DR3000.,+5.000,IW3BTS,TS1 TS2
 IN3CBN,Polsa di Brentonico,,Italy,,1,430.93750,222305,BM,222305,1,,5.000,IN3CBN,TS1 TS2
 IR3ZYB,Verona,Veneto / Trentino-AA / Friuli-VG,Italy,Master,3,430.33750,222307,DMR-Marc,222307,1,,+1.600,IK3DNV,TS1 TS2
 IR3UGT,Monselice,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.85000,222308,BM,222308,1,For problem call me telephone number +393286100168 Telegram X @iz3clg_mobile,+5.000,IZ3CLG,TS1 TS2
@@ -1227,6 +1229,7 @@ IR9ZYE,PARTANNA jm67kr,Sicily,Italy,Master,1,430.12500,222367,Dmr,222367,1,,+1.6
 IR9ZWP,Catania,Sicily,Italy,Master,1,431.47500,222369,BM,222369,1,,+1.600,IT9JUQ,TS1 TS2
 IR3AC,Comune di ledro,,Italy,,1,430.35000,222370,DMR-plus,222370,0,,5.000,IW2ECM,TS1 TS2
 IR3AE,Cimego Trento,,Italy,,1,430.32500,222371,DMR-plus,222371,1,,5.000,IW2ECM,TS1 TS2
+IR3UJJ,Monte Telegrafo Plose,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.91250,222374,BM,222374,1,Hytera RD625.,+5.000,IW3BTS,TS1 TS2
 IR3UBL,Venezia,,Italy,,1,431.37500,222375,DMR-plus,222375,1,,1.600,IZ3ALE,TS1 TS2
 IR3UDX,Polsa di Brentonico,,Italy,,1,430.93750,222377,DMR-plus,222377,1,,5.000,IN3CBN,TS1 TS2
 IR8ZYP,MONTE FAITO,Molise / Campania / Calabria,Italy,Master,1,430.35000,222378,BM,222378,1,,+1.600,IC8EWW,TS1 TS2
@@ -1329,7 +1332,6 @@ IR3CLG,PADOVA,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.40000,222480,222
 IR0ASL,Roma,Lazio / Umbria / Sardinia,Italy,Master,2,432.40000,222481,allstarlink,222481,1,None,1.600,IU0NDT,Mixed Mode
 IR8UDG,Monte Calvello,Apulia / Basilicata,Italy,Peer,1,430.05000,222483,HamThings,222483,1,None,+1.600,IU6SSZ,TS1 TS2
 IR8UDK,lamezia terme,Molise / Campania / Calabria,Italy,Peer,1,430.50000,222484,ycs222,222484,1,None,+5.000,IZ8UZK,Mixed Mode
-IR7BAT,Trani,Apulia / Basilicata,Italy,Master,0,433.62500,222485,Trani Conference,222485,1,Trani Confernce,1.600,I7IGX,Mixed Mode
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,222500,DMR-plus,222500,1,,+5.000,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,222501,DMR-plus,222501,1,,5.000,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,222502,BM,222502,1,,5.000,IK5BNG,TS1 TS2
@@ -2056,7 +2058,6 @@ GB7XT,London,England,United Kingdom,Peer,3,439.56250,234242,Brandmeister,234242,
 M0JXR,Bristol,England,United Kingdom,Peer,13,439.77500,234243,BM_TBC,234243,1,Bradley Glen<br>M0JXR<br>m0jxr@yahoo.com,-9.000,M0JXR,TS1 TS2
 M0JXR,Bristol,England,United Kingdom,Peer,11,439.15000,234244,TBC,234244,1,"Bradley Glen<br>M0JXR<br>m0jxr@yahoo.com<br><br>Experimental Network connection_TBC<br>Two low powered repeaters-DMRid support suggestion alternate use M0JXR-2 , will confirm this .",-9.000,M0JXR,TS1 TS2
 GB7YY,Bristol,England,United Kingdom,Master,4,439.42500,234245,TBA,234245,1,Standalone _TBC connection,-9.000,M0JXR,TS1
-MB6CR,Milton Keynes,England,United Kingdom,Master,15,434.51250,234246,Brandmeister,234246,1,07761161611,0.000,M7JUT,TS2
 GB3OM,Omagh,Northern Ireland,United Kingdom,Peer,1,430.95000,234501,DMR-MARC,234501,1,DMR Talk Groups<br>SLOT	TALKGROUP	DESCRIPTION<br>1	                1               World-Wide Calling<br>1	                2	         Europe Calling<br>1	                3	         North America<br>1	                5	         Australia<br>1	               13	         English World-Wide Calling<br>1	               80	         UK Chat 1<br>1	               81	         UK Chat 2<br>1	               82	         UK Chat 3<br>1	               83	         UK Chat 4<br>1	               84	         UK Chat 5<br>1	               113	         World-Wide Chat 1 English<br>1	               119	         World-Wide Chat 1 (All Languages)<br>1	               123	         World-Wide Chat 2 English<br>1	               129	         World-Wide Chat 2 (All Languages)<br>1	               235	         UK Calling<br>1	               733	         MilNet<br>1	              2345	         CQ North<br>1	              2347	         GB-SOTA<br>1	              2350	         Brandmeister UK Calling<br>1	              2351	         BM UK Chat 1<br>1	              2352	         BM UK Chat 2<br>1	              2353	         BM UK Chat 3<br>1	              2355	         Brandmeister Scotland Wide<br>1	              2721	         Irish Chat 1<br>1	              2722	         Irish Chat 2<br>1	              2723	         Irish Chat 3<br>1	            23450	         Yorkshire Net<br>1	            23525	         Extended Freedom Network<br>1	            23526	         Hubnet<br>1	            23531	         Raynet UK<br>1	            23532	         Essex Raynet<br>1	            23550	         Scotland Chat<br>1	            23565	         Northumberland Scouts<br>2	                    8	         Northern Ireland Cluster (Only available on GB3OM and GB7UL)<br>2	                    9	         Local (Repeater Only)<br>2	                801	         South East England<br>2	                810	         South West England<br>2	                820	         North West England<br>2	                830	         Midlands England<br>2	                840	         East of England<br>2	                 842	         EA Special Link (GB7AV GB7EX GB7HH)<br>2	                 844	         East Anglia East Coast (GB7DS GB7EB GB7TX GB7YL)<br>2	                  851	         Special Link (GB7AI GB7BL GB7EY GB7GM)<br>2	                  852         Special Link (GB7DM GB7KY GB7SM GB7XG GB7GX)<br>2	                  860         Northeast England<br>2	                  870         Wales and Marches Regional<br>2	                  880         Northern Ireland Regional<br>2	                 2724        Irish Calling<br>2	                 9990        Echo Test<br>2	                23555       Scotland Calling<br>2	                23556       UK Wide Multimode<br>2	                23557       Scotland East<br>2	                23558       Scotland North<br>2	                23559       Scotland West,+7.600,GI4SXV,TS1 TS2
 GB7AI,Hawick,Scotland,United Kingdom,Peer,3,439.33750,234900,DMR-plus,234900,1,,-9.0,G0RDI,TS1 TS2
 GB7TD,Wakefield,England,United Kingdom,Master,1,439.16250,235100,DMR-plus,235100,1,,-9.000,G1XCC,TS1 TS2
@@ -2090,7 +2091,7 @@ GB7SE,Thurrock,England,United Kingdom,,3,439.47500,235137,DMR-plus,235137,1,,-9.
 GB7SK,Skeffington,England,United Kingdom,Peer,1,439.46250,235138,BM,235138,1,,-9.000,M1FJB,TS1 TS2
 GB7ND,Attleborough,England,United Kingdom,,1,439.41250,235139,DMR-plus,235139,1,,-9.000,G0LGJ,TS1 TS2
 GB7HX,Huddersfield,England,United Kingdom,Peer,1,439.57500,235140,BM,235140,1,,-9.000,G0ISX,TS1 TS2
-GB7TP,Keighley,,United Kingdom,Peer,1,439.68750,235141,DMR-plus,235141,0,,-9.000,G8ZMG,TS1 TS2
+GB7TP,Shipley,England,United Kingdom,Peer,1,439.68750,235141,DMR-plus,235141,1,,-9.000,G8ZMG,TS1 TS2
 GW1SYG,TEST/Chester,England,United Kingdom,Peer,0,439.68750,235142,BM,235142,1,,-9.000,GW1SYG,TS1 TS2
 GB7WI,Winterton,England,United Kingdom,Peer,1,439.41250,235143,BM,235143,1,,-9.000,M0TTL,TS1 TS2
 GB7IT,Weston-super-Mare,England,United Kingdom,,1,439.51250,235144,DMR-plus,235144,1,,-9.000,G4SZM,TS1 TS2
@@ -2226,7 +2227,6 @@ GB7CS,East Kilbride,Scotland,United Kingdom,,1,439.77500,235408,DMR-plus,235408,
 GB7FE,Stirling,Scotland,United Kingdom,,1,439.47500,235410,DMR-plus,235410,1,,-9.000,GM0MZB,TS1 TS2
 GB7DA,Airdrie IO85av,Scotland,United Kingdom,Peer,1,145.77500,235411,DMR-plus,235411,1,,-0.600,GM4AUP,TS1 TS2
 GB7LV,Livingston,Scotland,United Kingdom,,1,145.61250,235412,DMR-plus,235412,1,,-0.600,GM5JPB,TS1 TS2
-GB7MM,Nairn,Scotland,United Kingdom,,5,439.75000,235413,DMR-plus,235413,1,,-9.000,GM0RML,TS1 TS2
 GB7OR,Orkney Islands,Scotland,United Kingdom,Peer,1,439.46250,235414,BM,235414,0,GB7OR is a 70cm DMR and FM repeater covering the Orkney Islands and parts of Caithness on mainland Scotland. Operation on FM will require a ctcss encode tone of 162.2 Hz and a different ctcss decode tone (tone squelch) of 77 Hz to avoid hearing the digital signals on FM. The current DMR TalkGroup configuration is shown under Slot details. on the Brandmeister rerpeater page..<br>https://brandmeister.network/?page=device&id=235414,-9.000,GM4WMM,TS1 TS2
 GB7KY,Kirkcaldy Fife,Scotland,United Kingdom,Peer,1,439.65000,235416,DV Scotland Phoenix,235416,1,,-9.000,GM0MMN,TS1 TS2
 GB3DU,Duns,Scotland,United Kingdom,,1,145.76250,235417,DMR-plus,235417,1,,-0.600,GM7LUN,TS1 TS2
@@ -2242,8 +2242,7 @@ GB7BB,Banff,Scotland,United Kingdom,Master,1,439.71250,235454,DMR-plus,235454,1,
 GB3EI,Clachan North Uist,Scotland,United Kingdom,Peer,1,145.61250,235460,BM,235460,0,,-0.600,G8SAU,Mixed Mode
 GB7EI,Clachan North Uist,Scotland,United Kingdom,Peer,6,430.85000,235461,BM,235461,0,,+7.600,G8SAU,TS1 TS2
 GB7GD,Aberdeen,Scotland,United Kingdom,,1,145.68750,235467,DMR-plus,235467,1,,-0.600,MM0RDM,TS1 TS2
-GB7BI,Fortrose,Scotland,United Kingdom,,1,439.66250,235475,BM,235475,1,,-9.000,GM0RML,TS1 TS2
-GB7II,Inverness,Scotland,United Kingdom,,3,439.45000,235476,,235476,1,,-9.000,GM0UDL,
+GB7II,Inverness,Scotland,United Kingdom,Peer,3,439.45000,235476,brandmeister,235476,1,,-9.000,GM0UDL,TS1 TS2
 GB7AB,Aberdeen,Scotland,United Kingdom,,1,439.66250,235488,DMR-plus,235488,1,,-9.000,GM7KBK,TS1 TS2
 GB7DD,Dundee,Scotland,United Kingdom,Peer,1,439.66250,235499,BM,235499,1,,-9.000,MM0DUN,TS1 TS2
 GB3OM,Omagh,Northern Ireland,United Kingdom,Peer,1,430.95000,235501,DMR-plus,235501,1,DMR Talk Groups<br>SLOT	TALKGROUP	DESCRIPTION<br>1	                1               World-Wide Calling<br>1	                2	         Europe Calling<br>1	                3	         North America<br>1	                5	         Australia<br>1	               13	         English World-Wide Calling<br>1	               80	         UK Chat 1<br>1	               81	         UK Chat 2<br>1	               82	         UK Chat 3<br>1	               83	         UK Chat 4<br>1	               84	         UK Chat 5<br>1	               113	         World-Wide Chat 1 English<br>1	               119	         World-Wide Chat 1 (All Languages)<br>1	               123	         World-Wide Chat 2 English<br>1	               129	         World-Wide Chat 2 (All Languages)<br>1	               235	         UK Calling<br>1	               733	         MilNet<br>1	              2345	         CQ North<br>1	              2347	         GB-SOTA<br>1	              2350	         Brandmeister UK Calling<br>1	              2351	         BM UK Chat 1<br>1	              2352	         BM UK Chat 2<br>1	              2353	         BM UK Chat 3<br>1	              2355	         Brandmeister Scotland Wide<br>1	              2721	         Irish Chat 1<br>1	              2722	         Irish Chat 2<br>1	              2723	         Irish Chat 3<br>1	            23450	         Yorkshire Net<br>1	            23525	         Extended Freedom Network<br>1	            23526	         Hubnet<br>1	            23531	         Raynet UK<br>1	            23532	         Essex Raynet<br>1	            23550	         Scotland Chat<br>1	            23565	         Northumberland Scouts<br>2	                    8	         Northern Ireland Cluster (Only available on GB3OM and GB7UL)<br>2	                    9	         Local (Repeater Only)<br>2	                801	         South East England<br>2	                810	         South West England<br>2	                820	         North West England<br>2	                830	         Midlands England<br>2	                840	         East of England<br>2	                 842	         EA Special Link (GB7AV GB7EX GB7HH)<br>2	                 844	         East Anglia East Coast (GB7DS GB7EB GB7TX GB7YL)<br>2	                  851	         Special Link (GB7AI GB7BL GB7EY GB7GM)<br>2	                  852         Special Link (GB7DM GB7KY GB7SM GB7XG GB7GX)<br>2	                  860         Northeast England<br>2	                  870         Wales and Marches Regional<br>2	                  880         Northern Ireland Regional<br>2	                 2724        Irish Calling<br>2	                 9990        Echo Test<br>2	                23555       Scotland Calling<br>2	                23556       UK Wide Multimode<br>2	                23557       Scotland East<br>2	                23558       Scotland North<br>2	                23559       Scotland West,+7.600,GI4SXV,TS1 TS2
@@ -2784,7 +2783,7 @@ RU3DVW,,,Russia,,1,433.71250,250309,BM,250309,0,,+5.000,RU3DVW,TS1 TS2
 RR3DAB,None,,Russia,Peer,1,434.65000,250310,BM,250310,1,None,+5.200,RW3ATK,TS1 TS2
 UB3ATT,Pushkino,,Russia,Master,1,433.68750,250314,BM,250314,1,None,+5.000,UB3ATT,TS1 TS2
 R2DFR,,All Regions,Russia,Peer,1,0.00000,250315,BM,250315,0,None,,R5BL,TS1 TS2
-R2AEE,,,Russia,,1,0.00000,250316,BM,250316,0,,,R2AEE,TS1 TS2
+R2AEE,Moscow,All Regions,Russia,Peer,1,433.61250,250316,BM,250316,1,None,5.000,R2AEE,TS1 TS2
 RZ3ARS,,,Russia,,1,438.05000,250317,BM,250317,1,,-7.600,RZ3ARS,TS1 TS2
 RD3U,Ivanovo,,Russia,Peer,1,434.97500,250318,BM,250318,1,None,+1.600,RD3U,TS1 TS2
 UC3B,Moscow,All Regions,Russia,Master,1,431.01250,250319,BM,250319,1,None,+7.700,UC3B,TS1 TS2
@@ -2916,13 +2915,13 @@ EU1A04R,Solihorsk,All Regions,Belarus,Peer,1,438.77500,257002,BM,257002,1,,-7.60
 EU7A02R,Mogilev,All Regions,Belarus,Master,1,438.57500,257004,BM,257004,1,TS 1/TG25701<br>TS 2/TG8_Cluster_BY/Mogilev,-7.600,EW7RR,TS1 TS2
 EU7AB,Mogilev,,Belarus,Master,1,438.66250,257005,BM,257005,1,"TS 1/TG25701<br>TS 2/TG8,Local.",-7.600,EU7AB,TS1 TS2
 EU8A03R,Homyel,,Belarus,Master,1,438.85000,257006,BM,257006,1,,-7.600,EW8BAK,TS1 TS2
-ER1VOX,Ialoveni,,Moldova,Peer,7,438.71250,259001,DMR-MARC,259001,1,,-7.600,ER1VOX,TS1 TS2
-ER1CHI,Chisinau,,Moldova,Master,1,439.05000,259002,BM,259002,1,,-7.600,ER1VOX,TS1 TS2
+ER1VOX,Ialoveni,All Regions,Moldova,Peer,7,438.71250,259001,DMR-MARC,259001,1,,-7.600,ER1VOX,TS1 TS2
+ER1CHI,Chisinau,All Regions,Moldova,Master,1,439.05000,259002,BM,259002,1,,-7.600,ER1VOX,TS1 TS2
 ER1EVO,Chisinau,,Moldova,Master,1,439.10000,259003,DMR-plus,259003,1,,-7.600,ER1MS,TS1 TS2
 ER1DMR,Chisinau,,Moldova,,1,439.80000,259004,None,259004,1,,-7.600,ER1CAQ,
 ER1OVR,Brandmeister,,Moldova,Master,1,438.90000,259005,BM,259005,1,BM 2599 Bridge,-7.6,ER1HAM,Mixed Mode
 ER1PWR,Chisinau,All Regions,Moldova,Master,1,439.10000,259006,BM,259006,1,259<br>2599,-7.6,ER1EP,TS1 TS2
-ER1IL,Ialoveni,,Moldova,Peer,7,439.08750,259259,BM,259259,1,,-7.600,ER1VOX,TS1 TS2
+ER1IL,Ialoveni,All Regions,Moldova,Peer,7,439.08750,259259,BM & DMR+,259259,1,,-7.600,ER1VOX,TS1 TS2
 ER2DMR,Tiraspol,,Moldova,,1,439.00000,259996,None,259996,1,,-7.600,ER2SD,
 ER1CAT,KN47JB20EL,,Moldova,,1,438.65000,259997,None,259997,1,,-7.600,ER1MAX,
 ER2SAD,Tiraspol,,Moldova,,1,439.00000,259998,None,259998,1,,-7.600,ER2SD,
@@ -3093,7 +3092,6 @@ SR7LDZ,Lodz,dzkie,Poland,Master,1,438.35000,260710,Brandmeister,260710,1,,-7.600
 SR7UVL,Lodz,dzkie,Poland,Master,1,439.45000,260711,Brandmeister,260711,1,,-7.600,SQ7SCC,TS1 TS2
 SR7DSC,Skierniewice,dzkie,Poland,Master,1,439.28750,260724,Brandmeister,260724,1,,-7.600,SQ5FBI,TS1 TS2
 SR7DBZ,Busko-Zdroj,witokrzyskie,Poland,Master,1,438.56250,260773,Brandmeister,260773,1,,-7.600,SQ7FSO,TS1 TS2
-SR7T,Zlota,witokrzyskie,Poland,Master,1,438.87500,260777,Brandmeister,260777,1,,-7.600,SQ7TCW,TS1 TS2
 SR7DVK,Kutno,dzkie,Poland,Master,1,438.32500,260778,Brandmeister,260778,1,,-7.600,SP7X,TS1 TS2
 SR8UWD,Wlodawa,lubelskie,Poland,Master,1,438.51250,260803,Brandmeister,260803,1,,-7.600,SP8NTH,TS1 TS2
 SR8DRL,Lublin,lubelskie,Poland,Master,1,438.22500,260804,Brandmeister,260804,1,,-7.600,SQ8KJF,TS1 TS2
@@ -3243,7 +3241,6 @@ DB0NPL,Sassenburg,Niedersachsen / Bremen,Germany,Master,1,439.92500,262096,BM,26
 DO2THU,Detmold,Nordrhein-Westfalen,Germany,Peer,7,439.56250,262097,BM,262097,1,,-7.600,DO2THU,TS1 TS2
 DO0NMD,Neumagen-Dhron,Rheinland-Pfalz / Saarland,Germany,Master,1,439.95000,262098,BM,262098,1,"Dieser Repeater ist mit BM DMR Netz verbunden, luft im Slot 1 mit TG 262 TG 9112 TG 26259 TG 270100 im Slot 2 mit TG 2625 TG 8 TG 9 TG 26258",-9.4000,DO4DW,TS1 TS2
 DB0BRO,Brocken/Harz,,Germany,,1,439.43750,262099,,262099,0,,-7.600,DG0CBP,
-DM0MOT,Berlin/Tegel,,Germany,Peer,1,439.52500,262100,BM,262100,1,,-7.600,DJ0WH,TS1 TS2
 DB0JSF,Frankfurt/Oder,,Germany,,1,439.95000,262101,DMR-plus,262101,0,,-9.400,DF1JSF,TS1 TS2
 DO0RAM,Ramelsloh,Niedersachsen / Bremen,Germany,Master,1,438.40000,262102,Tetra,262102,1,,-7.600,DO1XX,Mixed Mode
 DB0TGO,Berlin-Tegelort,,Germany,,1,434.78750,262103,None,262103,1,,0.000,DL7ATA,
@@ -3741,7 +3738,7 @@ DM0ZF,Lauf,Baden-Wuerttemberg,Germany,Peer,1,439.82500,262778,BM,262778,1,,-9.40
 DB0MGH,Bad Mergentheim,Baden-Wuerttemberg,Germany,Peer,1,439.81250,262779,Brandmeister,262779,1,,-9.400,DL4SDR,TS1 TS2
 DB0SKF,Freudenstadt,Baden-Wuerttemberg,Germany,Peer,1,439.90000,262780,DMR-plus,262780,1,TS1 262<br>TS2 TG9,-9.400,DJ2GZ,TS1 TS2
 DB0WT,Stuehlingen,Baden-Wuerttemberg,Germany,Master,1,439.55000,262781,BM,262781,1,2280<br>22829,-7.600,DB7GV,TS1 TS2
-DB0HRH,Kuessaburg,Baden-Wuerttemberg,Germany,Peer,1,438.32500,262782,BM,262782,1,Timeslot 1: TG 26379<br>Timeslot 2: TG 2280 <br>,-7.600,DL2GKA,TS1 TS2
+DB0HRH,Kuessaburg,Baden-Wuerttemberg,Germany,Peer,1,438.32500,262782,BM,262782,1,Timeslot 1: TG 26379<br>Timeslot 2: TG 2280,-7.600,DL2GKA,TS1 TS2
 DB0RAB,Albstadt Raichberg,Baden-Wuerttemberg,Germany,,1,431.11250,262783,DMR-plus,262783,1,,7.600,DH9AN,TS1 TS2
 DB0HER,Herrenberg,Baden-Wuerttemberg,Germany,,1,438.97500,262784,None,262784,1,,-7.600,DL8SCU,
 DB0SWR,Wertheim am Main,Baden-Wuerttemberg,Germany,Master,1,438.37500,262785,DMR-plus,262785,1,,-7.600,DG9FFM,TS1 TS2
@@ -4154,6 +4151,7 @@ YM8KA,Sahinbey Gaziantep,Southeastern Anatolia Region,Turkiye,Peer,1,431.65000,2
 YM3CKN,Canakkale,Marmara Region,Turkiye,Peer,1,439.27500,286069,BM,286069,1,None,-7.600,"TA3OER, TA3OWL",TS2
 YM4KA,Antalya,,Turkiye,,1,439.20000,286070,BM,286070,1,,-7.600,TA4K,TS1 TS2
 YM4KAL,Alanya,,Turkiye,,1,145.61250,286071,BM,286071,1,,-0.600,TA4AKF,TS1 TS2
+YM3KCN,CANAKKALE,Marmara Region,Turkiye,Peer,1,439.26250,286072,BM,286072,1,None,-7.600,"TA3OER, TA3ONK, TA3OWL",TS1 TS2
 YM4KL,NAZILLI,,Turkiye,,1,439.20000,286092,None,286092,0,,-7.600,YM4KL,
 YM4KL,NAZILLI,,Turkiye,,1,439.20000,286093,None,286093,0,,-7.600,YM4KL,
 YM3KRM,Balkesir,,Turkiye,Master,1,439.16250,286101,BM,286101,1,,-7.600,TA3UYC,Mixed Mode
@@ -5670,7 +5668,7 @@ WR0AEN,Denver,Colorado,United States,Master,1,449.15000,311049,Brandmeister,3110
 WR0AEN,Denver,Colorado,United States,Master,1,449.65000,311050,Brandmeister,311050,1,,-5.0000,W0LG,TS1 TS2
 WR0AEN,Denver,Colorado,United States,Master,1,449.67500,311051,Brandmeister,311051,1,,-5.0000,W0LG,TS1 TS2
 K0AEN,Greeley,Colorado,United States,Master,1,449.32500,311052,Brandmiester,311052,1,,-5.0000,W0LG,TS1 TS2
-K6KGE,Taft,California,United States,Peer,1,441.57500,311053,Kern System,311053,1,Serves Taft Ca.<br>Static 110688 on time slot 2<br>Please use time slot 1 for dynamic.,+5.00,K6SLH,TS1 TS2
+K6SLH,Taft,California,United States,Peer,1,441.57500,311053,Kern System,311053,1,Serves Taft Ca.<br>Static 110688 on time slot 2<br>Please use time slot 1 for dynamic.,+5.00,K6SLH,TS1 TS2
 N5IDX,Waynesboro,Mississippi,United States,3102,1,450.00000,311054,Brandmeister,311054,1,This is a test repeater linked in mississippi,+5.00,N5IDX,1
 N8ZPS,Kent,Ohio,United States,Master,7,442.02500,311055,BrandMeister,311055,1,,+5.000,N8ZPS,1
 W4NWT,Union City,Tennessee,United States,MASTER,5,147.01500,311056,BrandMeister,311056,1,,+.600,W4NWT,1
@@ -6532,7 +6530,6 @@ WA0EDA,Lawrence,Kansas,United States,Master,1,444.37500,312000,KS-DMR,312000,1,N
 N7KLR,Minneapolis,Kansas,United States,Peer,1,444.75000,312002,KS-DMR,312002,1,S1|G2: System local<br>S1|G8: Repeater local<br>S2|G3120: Kansas Statewide,+5.000,NV8Q,TS1 TS2
 K0USY,Manhattan,Kansas,United States,Master,1,444.37500,312005,KS-DMR,312005,1,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Eric Sivertsen<br>Email: kd0wwx@gmail.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
 K0JWH,El Dorado,Kansas,United States,Peer,1,441.97500,312006,KS DMR,312006,1,Time Slot #1 - Group Call 1 = DMR-MARC World Wide<br>Time Slot #1 - Group Call 13 = DMR-MARC WW English<br><br>Time Slot #1 - Group Call 3 = DMR-MARC N. America<br>Time Slot #2- Group Call 3120 = Statewide KS<br><br>Time Slot #2- Group Call 3169 = <br>Midwest Regional (20 min inactivity time out)<br><br><br> <br>Coverage Map (http://dmr-marc.net/images/k0usy-lec-coverage.jpg)<br><br>You Must Have [ARS] Disabled Within Your Radio<br> Contact Name: Cort Buffington <br>Email: n0mjs@me.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,K0JWH,TS1 TS2
-W0WJB,Overland Park,Kansas,United States,Master,1,146.83500,312007,KS-DMR,312007,1,,-0.600,W0WJB,TS1 TS2
 K0PRO,Pittsburg,Kansas,United States,Peer,1,444.80000,312008,KS-DMR,312008,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br><br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #2- Group Call 3120 = Statewide KS<br><br>Time Slot #2- Group Call 3169 = Midwest Regional<br><br><br>Coverage Map (http://dmr-marc.net/images/k0usy-lec-coverage.jpg)<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Contact Name: Phil, K0PR<br>Email: phil@wtcusa.net<br>Website: www.k0usy.org (http://www.k0usy.org/)",+5.000,K0PR,TS1 TS2
 WB0YRG,Mission,Kansas,United States,Peer,1,443.10000,312010,Brandmesiter,312010,1,None,+5.000,W0NQX,TS1 TS2
 K0XM,Blue Springs,Missouri,United States,Peer,1,927.23750,312011,BM,312011,1,None,-25.000,K0XM,TS1 TS2
@@ -6716,7 +6713,6 @@ W5SJL,Baton Rouge,Louisiana,United States,Master,1,444.45000,312211,BRANDMEISTER
 KB5OZE,New Orleans,Louisiana,United States,Master,1,444.82500,312212,Brandmeister,312212,1,,+5.000,KB5OZE,Mixed Mode
 K5LZP,New Orleans,Louisiana,United States,Master,1,147.03000,312213,Brandmeister,312213,1,,+0.600,K5LZP,Mixed Mode
 W5RAR,LaPlace,Louisiana,United States,None,1,442.67500,312214,BrandMeister,312214,1,TS1 TG 91 WW Eng (PTT)<br>TS1 TG 93 NA (PTT)<br>TS1 TG 310 Tac 310 (PTT)<br>TS1 TG 3174 SE REGIONAL (PTT)<br>TS1 TG 3199 HURRICANE NET (FULL-TIME)<br>TS1 TG 31121 FIRST COAST (PTT)<br>TS1 TG 31229 ArkLaTex (PTT)<br>TS1 TG 31688 HAM SHACK HOTLINE (PTT)<br>TS1 TG 98006 AMSAT (PTT)<br>TS2 TG 9 LOCAL (PTT)<br>TS2 TG 3122 LOUISIANA (FULL-TIME)<br>TS2 TG 31011 GULF COAST DMR (PTT)<br>TS2 TG 31220 LOUISIANA CHAT (PTT)<br>TS2 TG 31225 SOUTHEAST Louisiana (FULL-TIME)<br>TS2 TG 31623 PUBLIC SAFETY CHAT (PTT)<br>TS2 TG 312214 LA REGION 3 (PTT),+5.000,KG5FQT,TS1 TS2
-W5TGK,Centerville,Louisiana,United States,Peer,1,442.02500,312215,Brandmeister,312215,1,,+5.000,W5TGK,TS1 TS2
 AF6BZ,Bossier City,Louisiana,United States,Peer,1,442.02500,312216,BrandMeister,312216,1,,+5.000,AF6BZ,TS1 TS2
 KF5PLQ,Baton Rouge,Louisiana,United States,Master,2,444.45000,312217,Brandmeister,312217,1,,-5.000,KD5FEZ,Mixed Mode
 N7ER,polk city,Florida,United States,Peer,1,430.46250,312218,PNWDigital,312218,1,Low Level Hotspot,+9.00,N7ER,TS1 TS2
@@ -6784,7 +6780,6 @@ K1DLM,Franklin,New Hampshire,United States,Peer,1,145.46000,312283,NEDECN,312283
 KD4IEZ,Dublin,Georgia,United States,Master,1,444.78750,312284,DMR SE C-bridge,312284,1,,+5.000,KD4IEZ,TS1 TS2
 W5ROS,Elmendorf,Texas,United States,Master,1,147.34000,312286,DMR,312286,1,,+0.600,NS5A,TS1 TS2
 W5ROS,Adkins,Texas,United States,Master,1,442.00000,312287,DMR,312287,1,TS1 = Local   Static TG15 or TG2<br>TS2 = Static TG 3148   Texas<br>                     TG 31482 South Texas<br>,+5.000,NS5A,TS1 TS2
-AF1G,Kathleen,Georgia,United States,Master,3,443.51250,312288,Brandmeister,312288,1,Under construction,+5.000,AF1G,TS2
 KH7MS,Hilo,Hawaii,United States,Peer,1,444.95000,312289,BrandMeister,312289,1,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1<br>P25 Hawaii TG 3115<br>P25 TG 1 Local,+5.000,KH7MS,Mixed Mode
 KD7YUW,Toponas,Colorado,United States,Peer,11,449.47500,312290,bm,312290,1,,-5.0,KD7YUW,TS1 TS2
 K6JWN,Wilton,California,United States,Peer,9,442.18750,312291,Brandmeister,312291,1,,+5.000,K6JWN,Mixed Mode
@@ -7298,7 +7293,6 @@ KC7DMF,Culver,Oregon,United States,Master,1,444.42500,312895,BM,312895,1,,+5.000
 KC7DMF,Bend,Oregon,United States,Master,1,147.26000,312896,BM,312896,1,,+0.600,KC7DMF,TS1 TS2
 KC7DMF,Culver,Oregon,United States,Master,1,147.24000,312897,BM,312897,1,,+0.600,KC7DMF,TS1 TS2
 KO4NCX,Ashburn,Virginia,United States,Master,1,447.67500,312899,BM,312899,1,,-5.000,KO4NCX,TS1 TS2
-W0WJB,Kansas City,Missouri,United States,Peer,1,443.45000,312900,KS DMR- Kansas City,312900,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 3 = North America/English Speaking<br>Time Slot #2 - Group Call 2 = Local Only<br>Time Slot #2- Group Call 3169 = <br>Midwest Regional<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area (http://www.dmr-marc.net/images/w0wjb-coverage.jpg),+5.000,W0WJB,TS1
 WB0YRG,Kansas City,Missouri,United States,Peer,1,927.11250,312901,Brandmesiter,312901,1,None,-25.000,W0NQX,Mixed Mode
 KU0G,Warrensburg,Missouri,United States,Peer,1,442.82500,312902,KS DMR,312902,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 3 = North America/English Speaking<br><br>Time Slot #2 - Group Call 2 = Local Only<br><br>Time Slot #2- Group Call 3169 = <br>Midwest Regional <br><br><br><br>You Must Have [ARS] Disabled Within Your Radio<br> <br>Contact Name: Jim Duncan <br>Email: jdbandman@earthlink.net,+5.000,KU0G,TS1 TS2
 W0PM,Springfield,Missouri,United States,Peer,1,442.37500,312903,W0PM,312903,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 3 = U.S. / English Speaking Countries<br>Time Slot #2 - Group Call 2 = Local Only<br>Time Slot #2- Group Call 3169 = Midwest Regional <br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeaters Coverage Area (http://www.dmr-marc.net/images/w0pm-coverage.jpg),+5.000,W0PM,TS1
@@ -9226,6 +9220,7 @@ K0USY,Topeka,Kansas,United States,Master,1,444.75000,315086,KS-DMR,315086,1,None
 W3FDE,Chattanooga,Tennessee,United States,Master,1,445.90000,315087,BrandMeister,315087,1,None,+5.000,W3FDE,TS1
 W4BAD,OXFORD,North Carolina,United States,Peer,1,145.17000,315088,BRANDMISTER,315088,1,None,0.600,"W4BAD, K4MJO",TS1 TS2
 K3EJ,Holtwood,Pennsylvania,United States,Peer,1,902.70000,315089,Brandmeister,315089,1,None,+25.000,K3EJ,TS1 TS2
+WR7HLN,Las Vegas,New Mexico,United States,Peer,1,927.30000,315090,BrandMeister,315090,1,None,-25.000,WR7AGT,TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
@@ -9859,7 +9854,7 @@ BR7QEF,Guilin,Hunan Guangdong Guangxi Hainan,China,Peer,1,439.60000,460083,BM,46
 BR4UOH,Nontong,Shanghai Shandong Jiangsu,China,Master,1,439.25000,460084,BM,460084,0,,-5.000,BG4UVH,TS1
 BR4UHH,Nantong,Shanghai Shandong Jiangsu,China,Master,1,439.25000,460085,BM,460085,0,,-5.000,BG6YAD,TS1
 BR4UMM,Nantong,Shanghai Shandong Jiangsu,China,Master,1,438.25000,460086,BM,460086,0,,-5.000,BA6YLL,TS1 TS2
-BR7THK,Guilin,Hunan Guangdong Guangxi Hainan,China,Peer,1,439.60000,460087,BM,460087,1,,-5.000,BG7THK,TS1 TS2
+BR7WGL,Guilin,Hunan Guangdong Guangxi Hainan,China,Peer,1,439.60000,460087,BM,460087,1,,-5.000,BG7THK,TS1 TS2
 BR4ULV,Nan Tong,Shanghai Shandong Jiangsu,China,Master,1,439.04000,460088,BM,460088,0,,-5.000,BG4UVJ,TS1 TS2
 BR6CS,,Henan Hubei Anhui,China,Master,7,438.65000,460089,BM,460089,1,,-5.000,BH6BBA,TS1 TS2
 BR5GZC,Yudu County  Ganzhou City  Jiangxi Provinc,Zhejiang Fujian Jiangxi,China,Master,1,439.65000,460090,DMR,460090,1,,-5.000,BG5MVD,TS1 TS2
@@ -9912,8 +9907,8 @@ BR6AE,Su Zhou,Henan Hubei Anhui,China,Master,7,439.90000,460144,"BM,DMR-MARC",46
 BR2JBC,baicheng,Heilongjiang Jilin Liaoning,China,Peer,0,439.85000,460145,192.168.0.1,460145,1,4603149,-5,"BG2NBG, BG3ILS, BG1DZQ",TS1
 BR4NJ,NanJing,Shanghai Shandong Jiangsu,China,Peer,1,430.61000,460146,BrandMeister,460146,0,TG46025,+9.000,BH4VAP,TS1 TS2
 BR7JBQ,FoShan,Hunan Guangdong Guangxi Hainan,China,Peer,1,439.15000,460147,APN,460147,1,46020S1/46001S2,-0.500,BG7LCN,TS1 TS2
-BR3GI,Ordos,Inner Mongolia,China,Master,1,439.75000,460148,43.129.83.124,460148,1,460477,-5.000,BH3HAO,TS2
-BH3HAO,Ordos,Inner Mongolia,China,Master,1,439.95000,460149,43.129.83.124,460149,1,None,-9.900,BH3HAO,TS1 TS2
+BR3GI,Ordos,Inner Mongolia,China,Master,1,439.75000,460148,43.129.83.124,460148,1,460477,-5.000,BH3HAO,TS1
+BH3HAO,Ordos,Inner Mongolia,China,Master,1,439.55000,460149,43.129.83.124,460149,1,None,-8.000,BH3HAO,TS1 TS2
 BH8QFX,bijieshi,Sichuan Guizhou Chongqing Yunnan,China,Master,1,439.11000,460150,27,460150,1,460857,-5.000,BH8QFX,Mixed Mode
 BH8QFX,bijieshi,Sichuan Guizhou Chongqing Yunnan,China,Master,1,439.28500,460151,27,460151,1,460857,-5.000,"BH8QFX, BH8PPE",Mixed Mode
 BR7JAI,Huizhou,Hunan Guangdong Guangxi Hainan,China,Master,8,439.80000,460152,43.129.83.124,460152,1,None,-5.0,BA7ODN,TS1
@@ -10611,7 +10606,7 @@ PY2DVR,Serra do Japi Cabreuva,Sao Paulo,Brazil,Master,1,146.67000,724064,Brandme
 PY2KLF,Birigui,Sao Paulo,Brazil,Master,1,147.30000,724065,BrandMeister,724065,1,,+0.600,PU2PHK,TS1 TS2
 PY1YRG,Saquarema,Rio de Janeiro,Brazil,Peer,1,439.92500,724066,DMR+,724066,1,,-5.000,PY1IP,TS1 TS2
 PY5CLB,Colombo,Parana,Brazil,Master,1,439.85000,724067,brandmeister,724067,1,,-5.000,PY5TD,TS1 TS2
-PY2KCI,Sao Carlos Sp,Sao Paulo,Brazil,Master,1,146.79000,724068,BrandMeister,724068,0,,-0.600,PU2XMZ,TS1 TS2
+PY2KCI,Sao Carlos Sp,Sao Paulo,Brazil,Master,1,146.79000,724068,BrandMeister,724068,1,,-0.600,PU2XMZ,TS1 TS2
 PY6GI,Tanquinho,Bahia,Brazil,Master,1,144.40000,724069,BrandMeister,724069,1,"TG724,TG72422",+0.600,PY6PJN,TS1 TS2
 PY2KDD,Jaboticabal,Sao Paulo,Brazil,Master,1,145.43000,724070,Brandmeister,724070,1,,-0.600,PY2LRB,Mixed Mode
 PY1URS,Niteroi,Rio de Janeiro,Brazil,Master,1,439.97500,724071,Brandmeister,724071,1,TG724 Brazil Slot1<br>TG2 Local Slot2<br>All the other Brandmeister TGs to be used with Slot2.<br><br>,-5.000,PY2LY,TS1 TS2
@@ -10638,7 +10633,7 @@ PY4RPK,GUAPE,Minas Gerais,Brazil,Master,1,145.43000,724092,BM,724092,1,Repetidor
 PY2SRP,Neves Paulista,Sao Paulo,Brazil,Master,1,147.21000,724093,BM,724093,1,,+0.600,PY2IV,TS1 TS2
 PP2CA,Goiania,Goias,Brazil,Master,1,439.60000,724094,BRANDMEISTER,724094,1,,-5.000,PP2CA,TS1 TS2
 PY5AMS,Maringa,Parana,Brazil,Peer,1,439.35000,724095,DMR-Plus/Ipsc2,724095,1,Repetidor licenciada pela AMRASE <br>TG72441 slot2,-5.000,PY1IBM,TS1 TS2
-PY4RCR,ONA DO PITANGUI,Minas Gerais,Brazil,Peer,1,147.00000,724096,BM 7242,724096,1,Obrigado.,+0.600,PY4AC,TS1 TS2
+PY4RCR,Belo Horizonte,Minas Gerais,Brazil,Peer,1,147.00000,724096,BM 7242,724096,1,Obrigado.,+0.600,PY4AC,TS1 TS2
 PY1OAB,Rio de Janeiro,Rio de Janeiro,Brazil,Master,1,439.47500,724097,DMR-MARC,724097,1,,-5.000,PY1OAB,TS1
 PY8AVC,BELEM,Para,Brazil,Master,1,145.41000,724098,BRANDMEISTER,724098,1,,-0.600,PY8AC,TS1 TS2
 PY4LHB,Extrema,Minas Gerais,Brazil,Master,1,927.35000,724099,BM7242,724099,1,,-25.000,PY4LHB,TS1 TS2
@@ -10670,7 +10665,6 @@ PP5JMR,Curitibanos,Santa Catarina,Brazil,Master,1,439.65000,724127,Brandmeister,
 PP5WK,Concordia,Santa Catarina,Brazil,Master,1,439.50000,724128,BRANDMEISTER,724128,1,,-5.000,PP5PI,TS1 TS2
 PY2KGV,JOANOPOLIS,Sao Paulo,Brazil,Master,1,145.31000,724129,BM,724129,1,,-0.600,"PY4EI, PU2LQS, PY2RMF",TS1 TS2
 PY4RPW,Nova Lima,Minas Gerais,Brazil,Peer,1,147.12000,724130,BM 7242 Brasil,724130,1,TS1_1=724;TS2_1=72442,+0.600,PY4AC,TS1 TS2
-PY4RAD,Belo Horizonte - MG,Minas Gerais,Brazil,Peer,1,439.20000,724131,BM 72442 BRA,724131,1,,-5.000,PY4AC,TS1 TS2
 PY1LXD,Itaperuna-RJ,Rio de Janeiro,Brazil,Peer,1,439.70000,724132,DMR+,724132,1,,-5.000,PY1IBM,TS1 TS2
 PR7PB,Joao Pessoa,Paraiba,Brazil,Master,1,434.20000,724133,BM,724133,1,,+5.000,PR7PB,TS1 TS2
 PY2LAS,Parati,Sao Paulo,Brazil,Master,1,439.55000,724134,Brandmeister,724134,1,,-5.000,PY2LY,TS1 TS2
@@ -10722,7 +10716,6 @@ PY2KID,Sao Jose do Rio Pardo,Sao Paulo,Brazil,Master,1,439.65000,724187,BM,72418
 PT2RPT,Brasilia,Distrito Federal,Brazil,Master,1,439.90000,724188,Brandmeister,724188,1,,-5.000,PY2LY,TS1 TS2
 PP2UHF,SENADOR CANEDO,Goias,Brazil,Master,1,439.50000,724189,Brandmeister,724189,1,,-5.000,PP2BK,TS1 TS2
 PY3MC,caxias do sul,Rio Grande do Sul,Brazil,Master,1,145.31000,724190,DMR,724190,1,,-0.600,PY3CWO,TS1 TS2
-PY4RHC,Nova Lima,Minas Gerais,Brazil,Peer,1,146.77000,724191,BM 7242 BRA,724191,1,,-0.600,PY4AC,TS1 TS2
 PY1DIG,Rio De Janeiro,Rio de Janeiro,Brazil,Master,1,439.40000,724192,BM,724192,1,,-5.000,PY1LG,TS1 TS2
 PY2APU,Cordeiropolis,Sao Paulo,Brazil,Master,1,147.03000,724193,BRANDMEISTER,724193,1,,6.000,PV2PIM,TS1 TS2
 PS7BBB,Mossor,Rio Grande do Norte,Brazil,Master,1,439.40000,724194,BM,724194,1,,-5.0000,PS7BB,TS1 TS2
@@ -10791,7 +10784,7 @@ PY6RNJ,vitoria da conquista,Bahia,Brazil,Master,1,146.61000,724264,BM,724264,1,T
 PP5RDB,Blumenau,Santa Catarina,Brazil,Master,1,439.70000,724265,Brandmeiter,724265,1,,-5.000,PU5APL,TS1 TS2
 PY3VBG,Bag,Rio Grande do Sul,Brazil,Master,1,439.62500,724266,BM,724266,1,,-5.000,PY3FSN,TS1 TS2
 PY6GF,Juazeiro,Bahia,Brazil,Master,1,147.30000,724268,BM,724268,0,Favor excluir esses dados essas informaes foram digitadas equivocadamente.,-0.600,PY6GF,TS2
-PY2IV,Assis,Sao Paulo,Brazil,Peer,1,439.92500,724269,BM,724269,0,,-5.000,PY2IV,TS1 TS2
+PY2IV,Assis,Sao Paulo,Brazil,Peer,1,439.92500,724269,BM,724269,1,,-5.000,PY2IV,TS1 TS2
 PR7DA,Sao Jose de Piranhas,Paraiba,Brazil,Master,1,439.95000,724270,Brandmeister,724270,1,,-5.000,PR7RBA,TS1 TS2
 PY6MJ,Salvador Ba,Bahia,Brazil,Master,1,439.52500,724271,BM,724271,1,,-5.000,PY6MZA,TS1 TS2
 PY6ZA,Salvador Ba,Bahia,Brazil,Master,1,146.79000,724272,BM,724272,1,,-0.600,PY6MZA,TS1 TS2
@@ -10825,7 +10818,6 @@ PY4RPV,Sabara,Minas Gerais,Brazil,Peer,1,430.57500,724409,DMR,724409,1,,9.4,PY4C
 PY4RUL,UBERLANDIA,Minas Gerais,Brazil,Peer,1,145.35000,724410,DMR+,724410,1,,-0.600,PY4CEP,TS1 TS2
 PY4RAT,LAVRAS,Minas Gerais,Brazil,Master,1,439.92500,724411,Brandmeister,724411,1,,-5.000,PY4RC,TS1 TS2
 PY4RLD,DIVINOPOLIS,Minas Gerais,Brazil,Peer,1,439.75000,724412,DMR+,724412,1,,+5.000,PY4CEP,TS1 TS2
-PY4RDZ,BELO HORIZONTE,Minas Gerais,Brazil,Peer,1,145.45000,724414,BM,724414,1,,-0.600,PY4AC,TS1 TS2
 PY4RMP,Paraisopolis,Minas Gerais,Brazil,Master,1,146.97000,724415,Brandmeister,724415,1,,-0.600,PU2XID,TS1 TS2
 PY4RPS,Divinpolis,Minas Gerais,Brazil,Peer,1,145.35000,724416,IPSC2,724416,1,TG - 724 TS 1<br>TG - 72431 TS 2,-0.600,PY4CEP,TS1 TS2
 PY4RRP,ONCA DE PITANGUI,Minas Gerais,Brazil,Peer,1,145.49000,724417,DMR+,724417,1,,-0.600,PY4CEP,TS1 TS2
@@ -10884,7 +10876,7 @@ XQ1KN,Antofagasta,Antofagasta,Chile,Peer,1,145.20000,730043,BM,730043,1,,-0.600,
 CE2RGM,Coquimbo,Coquimbo,Chile,Peer,1,146.94000,730045,BM,730045,1,,-0.600,CE2RGM,TS2
 CE1LOA,Ii Regin,Antofagasta,Chile,Master,1,147.09000,730046,BM,730046,1,,+0.600,CE1LOA,Mixed Mode
 CE4RSF,Colchagua,Reg.Metr. de Santiago,Chile,Master,1,147.06000,730048,BM_Chile_7301,730048,1,,+0.600,CE4RSF,Mixed Mode
-CE5EHC,Coronel,Bio Bio,Chile,Master,1,146.19000,730049,DMR,730049,1,Repetidor digital ubicado en la ciudad de coronel en desarrollo y estudio. <br><br>10w<br>antena tram 1480<br>,+0.600,CA5EHC,TS1
+CE5EHC,Coronel,Bio Bio,Chile,Master,1,146.19000,730049,DMR,730049,1,Repetidor digital ubicado en la ciudad de coronel en desarrollo y estudio.<br><br>10w<br>antena tram 1480,+0.600,CA5EHC,TS1
 CE4UJP,CURICO,Maule,Chile,Master,1,147.18000,730050,BM,730050,1,,+0.600,CE4UJP,TS1 TS2
 CE1DDA,Copiapo,Atacama,Chile,Master,1,145.56600,730052,BM,730052,0,,-0.6000,CE1DDA,TS1 TS2
 CA3LOP,santiago,Reg.Metr. de Santiago,Chile,Master,3,163.07500,730053,DMR,730053,0,,-0.600,CA3LOP,TS2
@@ -10896,7 +10888,7 @@ CE3PA,Santiago,Reg.Metr. de Santiago,Chile,Master,1,146.76000,730058,BM,730058,1
 CE3SOC,Santiago,Reg.Metr. de Santiago,Chile,Peer,1,433.60000,730059,BM,730059,1,,+5.000,CE3SOC,TS1 TS2
 CD3VGO,santiago,O'Higgins,Chile,Master,1,145.50000,730060,DMR,730060,0,,-0.600,CD3VGO,TS1
 CE6RB,Valdivia,Los Rios,Chile,Master,75,147.03000,730061,DMR,730061,0,,+0.600,CA6SBX,Mixed Mode
-CA5EHC,Coronel,Bio Bio,Chile,Master,1,146.19000,730062,DMR,730062,0,TG LOCAL 9 TG 73049,+0.600,CA5EHC,TS2
+CA5EHC,Coronel,Bio Bio,Chile,Master,1,146.19000,730062,DMR,730062,1,TG LOCAL 9 TG 73049,+0.600,CA5EHC,TS2
 CD6FRV,Puerto Montt,Los Lagos,Chile,Master,1,153.60000,730063,BM,730063,1,repetidor experimentar para enlace a BM operacion inicial en TG 730 - 7307 - 730911-,-4.500,CD6FRV,TS1 TS2
 CE4UJP,CURICO,Maule,Chile,Master,1,147.39000,730065,BM - ADN,730065,1,None,+0.600,CE4UJP,Mixed Mode
 CA7MZD,CALBUCO,Los Lagos,Chile,Master,1,433.08000,730066,DMR,730066,1,None,+0.000,CA7MZD,TS1
