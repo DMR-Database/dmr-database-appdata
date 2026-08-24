@@ -1791,6 +1791,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 1824,K4ZXX,Jeff,Willow Spring,North Carolina,United States
 1825,E29RKD,Chaowat,sadao songkhla,Songkhla,Thailand
 1826,TA9B,Gultekin,Mersin,Mediterranean Region,Turkiye
+1827,KD9GOL,Tyler,Bloomington,Illinois,United States
 1828,W4NSJ,Jeffrey S,Charlotte,North Carolina,United States
 1829,KF0FYC,Robert,Gas,Kansas,United States
 1830,CE3CKO,Carlos,Santiago,Reg.Metr. de Santiago,Chile
@@ -3475,6 +3476,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3550,IZ7YMM,Raffaele,FOGGIA,Apulia  Basilicata,Italy
 3551,SZ1E,Amateur Radio Networks,Attika,Attiki  Sterea Ellada  Dytiki Ellada,Greece
 3552,KI5LCF,Kevin,Biloxi,Mississippi,United States
+3553,HS1MUV,Direk,lum look ka,Pathum Thani,Thailand
 3554,KP4GVK,Gregorio Velez,San Sebastian,,Puerto Rico
 3555,DG1GDW,Detlef,Endingen,Baden-Wuerttemberg,Germany
 3556,KY8J,Keith,Sebring,Florida,United States
@@ -4349,7 +4351,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4440,KM4BRQ,Thomas G,Seminole,Florida,United States
 4441,HB9TMM,Markus,Bern,Bern,Switzerland
 4442,DU8BL,Bj,Zamboanga City,Zamboanga Peninsula,Philippines
-4443,R2BFU,Oleg,Moscow,,Russia
+4443,R2BFU,Oleg,Moscow,All Regions,Russia
 4444,KC9LOX,Todd,Weston,Wisconsin,United States
 4445,G4GIN,Bill,Lincoln,England,United Kingdom
 4446,OK1MG,Martin,Jevicko,Pardubice Region,Czech Republic
@@ -4977,7 +4979,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 5081,IK2TIF,Fabio,Sesto Calende,Lombardy,Italy
 5082,EA4ADG,Ignacio,Mostoles,Madrid,Spain
 5083,KF0CSI,Andy,Norfolk,Nebraska,United States
-5084,EA4ADG,Ignacio,Mostoles,Madrid,Spain
 5085,TA1TEA,Oktay,Çerkezköy,Marmara Region,Turkiye
 5086,CX3AG,Naelson,La Teja,Montevideo,Uruguay
 5087,DU1REY,Rey,Marikina City Phili,National Capital Region,Philippines
@@ -5934,7 +5935,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 6052,AB0H,Tim,Battlefield,Missouri,United States
 6053,KQ4JAM,Jerrel,Myrtle Beach,South Carolina,United States
 6054,ON3CCC,Peter,,Oost-Vlaanderen,Belgium
-6055,ZL1KM,Kiely,Hamilton,,New Zealand
+6055,ZL1KM,Kiely,Hamilton,North Island 1,New Zealand
 6056,VE2VHL,Michel,Val-David,Quebec,Canada
 6057,K7STR,Sam,Sublimity,Oregon,United States
 6058,2E0GZK,Steve,STOCKPORT,England,United Kingdom
@@ -6085,7 +6086,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 6206,TA3TRA,Berk,Çanakkale,Marmara Region,Turkiye
 6207,N4ASS,Alexis,Sorrento,Florida,United States
 6208,TB2JJJ,Tolga,Ankara,Central Anatolia Region,Turkiye
-6209,VK5ABC,Stirling,UNLEY,South Australia,Australia
 6210,PU4PMZ,Luiz Gsutavo,Dores de Guanhaes,Minas Gerais,Brazil
 6211,PU2PNY,Dario,Santa Isabel,Sao Paulo,Brazil
 6212,KB4TJJ,Ericka,Jacksboro,Tennessee,United States
@@ -6221,6 +6221,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 6344,N6LXA,Geoffrey,Menlo Park,California,United States
 6345,EA4DAT,Juan,Cuenca,Cuenca,Spain
 6347,KB3SVT,Chris,Coudersport,Pennsylvania,United States
+6348,E25RUQ,Thawee,Saimai,Bangkok,Thailand
+6349,E21JRI,Supakit,din dang,Bangkok,Thailand
 6350,KM6IXB,Richard,Oakley,California,United States
 6351,KP4AP,Alberto E.,Mayaguez,,Puerto Rico
 6352,IZ8QIE,Antonio,Scafati,,Italy
@@ -10772,7 +10774,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 10993,K2NDX,Paul,Hawthorne,New York,United States
 10994,KE5VJH,Raymond,Gilmer,Texas,United States
 10995,DL8ZAD,Juergen,Nr Limburg,Hessen,Germany
-10996,LZ1FA,Vasil,Sandanski,,Bulgaria
+10996,LZ1FA,Vasil,Sandanski,Blagoevgrad,Bulgaria
 10997,LZ1DH,Danail,Sofia,Sofia,Bulgaria
 10998,KN5LSU,Chester,Lafayette,Louisiana,United States
 10999,KG7TMQ,Russ,Pinehurst,Idaho,United States
@@ -12184,7 +12186,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 12437,K0EAP,Eric,Lakeville,Minnesota,United States
 12438,LZ2VEV,Valeri,Ruse,Ruse,Bulgaria
 12439,JS1YQM,ShonanDMR,Fujisawa,Kanto,Japan
-12440,W4KWS,Tony,Key West,Florida,United States
 12441,ON4PN,Patrick,Waregem,West-Vlaanderen,Belgium
 12442,TA1GP,Cuneyt,Istanbul,Marmara Region,Turkiye
 12443,KC8LKV,Robert,Swartz Creek,Michigan,United States
@@ -14023,7 +14024,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 14296,2E0TJY,Jon,Leicester,England,United Kingdom
 14297,K8SAS,Steve,Garfield Heights,Ohio,United States
 14298,CT2IGO,Esteves,Viseu,Regiao Centro,Portugal
-14299,KO4WVP,Deepayan,Marion,Iowa,United States
+14299,KO4WVP,Dan,Marion,Iowa,United States
 14300,VA3PKF,Peter,Toronto,Ontario,Canada
 14301,ZR1ACP,Bernhard,Agulhas,Cape,South Africa
 14302,M6WWN,Mark,Woking,England,United Kingdom
@@ -15653,7 +15654,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 15949,EA5IKP,David,Alicante,Alicante,Spain
 15950,EA5GIA,MIGUEL,Valencia,Valencia,Spain
 15951,W7RNR,Daniel,Bothell,Washington,United States
-15952,KE2JBV,Bradford,Webster,New York,United States
+15952,KE2JBV,Brad,Roc,New York,United States
 15953,PU7RNV,Joao,Buique,Pernambuco,Brazil
 15954,CE4FMS,Jose,Linares,Maule,Chile
 15955,VE2CJ,Jean,Grand Mere,Quebec,Canada
@@ -15684,6 +15685,22 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 15980,W6USN,Darren,Temecula,California,United States
 15981,G7SRE,David,Northumberland,England,United Kingdom
 15982,W6YU,Yutaka,Sylmar,California,United States
+15983,N2LEE,Lee,Sebring,Florida,United States
+15984,KI5KHO,Adam,Pearl River,Louisiana,United States
+15985,W2LAS,Jordan,Fishkill,New York,United States
+15986,M7YLA,Ylana,Huddersfield,England,United Kingdom
+15987,KC8SFR,James,Jackson,Michigan,United States
+15988,KO6NKV,Mark,Fullerton,California,United States
+15989,PU7RJS,Joseandro,Frei Miguelinho,Pernambuco,Brazil
+15990,W4OMW,Keith,Lake Placid,Florida,United States
+15991,BG2RKH,Lin,Shenyang,Heilongjiang Jilin Liaoning,China
+15992,TA2IW,Ismail,Yalova,Marmara Region,Turkiye
+15993,EA5GMC,Eduardo,Murcia,Murcia,Spain
+15994,VE4JLG,Julius,Winnipeg,Manitoba,Canada
+15995,RY3ABL,Oleg,Moscow,All Regions,Russia
+15996,N4AJD,Adam,Benton,Kentucky,United States
+15997,N2XRW,Victor,Riverview,Florida,United States
+15998,ZL2LA,LL,New Plymouth,North Island 2,New Zealand
 16032,N7ISP,Adam,Post Falls,Idaho,United States
 16033,N7ISP,Adam,Post Falls,Idaho,United States
 16034,TI4OLS,Oscar,San Isidro,Heredia,Costa Rica
