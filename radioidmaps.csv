@@ -832,7 +832,7 @@ E79VZE,Zenica,All Regions,Bosnia and Hercegovina,Master,1,145.62500,BM,44.26769,
 E70DNE,Neum,All Regions,Bosnia and Hercegovina,Master,1,438.42500,BM,42.935778,17.602115,218017,,-7.600,ACTIVE,E77X,TS1 TS2
 E79DBI,Bihac,All Regions,Bosnia and Hercegovina,Peer,1,438.20000,Brandmeister,44.8153260,15.8644337,218018,"UHF DMR Repeater in the city of Bihac, Bosnia and Herzegovina.<br>TS1 TG218<br>TS2 TG218037",-7.600,ACTIVE,"E73AG, E70BA, E77SKY",TS1 TS2
 E79DME,Medjugorje,All Regions,Bosnia and Hercegovina,Master,1,438.95000,BM,43.1614673,17.6871390,218019,,-7.600,ACTIVE,E77X,TS1 TS2
-E79DCE,Banja Luka,,Bosnia and Hercegovina,Peer,1,438.85000,BM,44.5217367,17.2131823,218020,TS1 218<br>TS2 21810 21812 218020,-7.600,ACTIVE,E74BYZ,TS1 TS2
+E79DCE,Banja Luka,All Regions,Bosnia and Hercegovina,Peer,1,438.85000,BM,44.5217367,17.2131823,218020,TS1 218<br>TS2 21810 21812 218020,-7.600,ACTIVE,E74BYZ,TS1 TS2
 E79VIS,Pale,,Bosnia and Hercegovina,Master,1,145.77500,BM,43.818611,18.4591067,218021,TS1:218<br>TS2:21810,-0.600,ACTIVE,E79VIS,TS1 TS2
 E79TRB,Bijeljina,All Regions,Bosnia and Hercegovina,Master,1,438.58750,BM,44.4027,18.5353,218022,218,-7.600,ACTIVE,E76AH,TS1 TS2
 E79VBN,Bijeljina,All Regions,Bosnia and Hercegovina,Master,1,145.58750,BM,44.4027,18.5353,218023,218,-0.600,ACTIVE,E76AH,TS1 TS2
@@ -3425,7 +3425,7 @@ DL1BH,Bremerhaven,,Germany,,1,439.00000,BM,53.556896,8.578429,262302,,-7.600,ACT
 DB0RVB,Ravensberg,Niedersachsen / Bremen,Germany,Master,1,439.45000,BM,51.62152,10.52669,262303,,-7.600,ACTIVE,DL8AAP,TS1 TS2
 DO0SZ,Salzgitter,,Germany,,1,439.46250,BM,52.1503721,10.3593147,262304,,-7.600,ACTIVE,DO1OTD,TS1 TS2
 DB0JUI,Marienhafe-Ostfriesland,Niedersachsen / Bremen,Germany,Peer,1,439.27500,BM,53.678627,6.996511,262305,,-7.600,ACTIVE,DF6BT,TS1 TS2
-DB0XX,Helmstedt,,Germany,,1,439.50000,DMR-plus,52.240101,11.009440,262306,,-7.600,ACTIVE,DK2HP,TS1 TS2
+DB0XX,Helmstedt,Niedersachsen / Bremen,Germany,Peer,1,439.50000,Brandmeister,52.240101,11.009440,262306,,-7.600,ACTIVE,DK2HP,TS1 TS2
 DM0WL,Winsen Luhe,Niedersachsen / Bremen,Germany,Peer,1,439.03750,BM,53.35593,10.20795,262307,"TS1: TG262 Deutschland | TG9112 Emergency | TG910 WW German<br>TS2: TG9 Local | TG8 Regio (Niedersachsen Nord, DB0AGM/DB0BUC/DB0WL, ext. TG26236) | TG26220 Region Hamburg | TG26221 Hamburg City |  TG 26220 und TG 26221 Mo.-Fr. nicht von 6:00-8:00Uhr",-7.600,ACTIVE,DL7TJ,TS1 TS2
 DM0DOS,Doerenberg,Niedersachsen / Bremen,Germany,Peer,1,145.71250,BM,52.1775,8.044740000000001,262308,,-0.600,ACTIVE,DJ2QW,TS1 TS2
 DL9AM,Herzberg am Harz,Niedersachsen / Bremen,Germany,Master,1,438.37500,DMR-plus,0.0,0.0,262309,,-7.600,ACTIVE,DL9AM,TS1 TS2
@@ -6594,6 +6594,7 @@ KF7LRD,Williams,Arizona,United States,Peer,1,448.30000,AZ-TRBONET-DMR-MARC,35.19
 N2CID,Holland,New York,United States,Peer,1,442.36250,WNYDMR.NETWORK,0,0,312079,,+5.000,ACTIVE,N2CID,TS1 TS2
 NI4Y,Atlanta,Georgia,United States,Master,1,146.73000,BM,33.748,-84.390,312080,Testing,-0.600,ACTIVE,NI4Y,TS1 TS2
 N6YMZ,Juneau,Alaska,United States,Peer,1,447.70000,BrandMeister,58.369974,-134.603937,312081,,-5.000,ACTIVE,N6YMZ,TS1 TS2
+K1RK,Bourne,Massachusetts,United States,Peer,10,145.20000,NEDECN,41.7423154,-70.5825045,312083,Time Slot #1 - Group Call 1 = World Wide*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 759 = SKYWARN<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot<br>Time Slot #1 - Group Call 9999 = Audio Watch<br>*********************************************************<br>Time Slot #2 - Group Call 3181= New England (Mon. 8 PM Net)<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3125 = MA Statewide<br>Time Slot #2 - Group Call 8804 = Cape Net<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br><br>* = PTT Activated<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Website:   http://nedecn.org,-0.600,ACTIVE,"K1RK, N1YHS",TS1 TS2
 K7GDM,Great Falls,Montana,United States,Peer,2,442.80000,BM,47.5048851,-111.2918908,312084,,+5.000,ACTIVE,K7GDM,Mixed Mode
 W3NTT,Slatington,Pennsylvania,United States,Peer,1,438.50000,BrandMeister,40.8014826,-75.6101868,312085,TGIF Bridge,+5.000,ACTIVE,W3NTT,Mixed Mode
 KN4GVY,Florida,Florida,United States,Peer,2,444.00000,F-DARN,27.9908529,-82.6931553,312086,,+5.000,ACTIVE,KJ4FEC,TS1 TS2
@@ -7507,7 +7508,7 @@ K5FER,Rowlett,Texas,United States,Peer,1,147.39000,BM,32.9029017,-96.56388,31314
 KG0RP,Silverthorne,Colorado,United States,Master,11,446.96250,"BM,TGIF,DMR-Plus",39.640115,-106.0696,313150,,-5.000,ACTIVE,"KG0RP, VE2WKR",TS1 TS2
 K8EIE,University Heights,Ohio,United States,Master,1,431.12500,BM,41.497831,-81.537346,313152,,+0.600,ACTIVE,K8EIE,TS1 TS2
 AI6D,Redding,California,United States,Master,1,444.57500,BM,40.561362,-122.451747,313153,,+5.000,ACTIVE,AI6D,TS1 TS2
-WA6VPL,Lompoc,California,United States,Peer,1,444.82500,BM,34.6391501,-120.4579409,313154,Revised Site 1 repeater near Lompoc CA,+5.000,ACTIVE,WA6VPL,TS1 TS2
+WA6VPL,Lompoc,California,United States,Peer,1,444.82500,Brandmeister,34.6391501,-120.4579409,313154,Revised Site 1 repeater near Lompoc CA,+5.000,ACTIVE,WA6VPL,TS1 TS2
 KA7ERV,Idaho City,Idaho,United States,Peer,1,443.67500,BM,43.9126714,-115.8923353,313155,See https://commswg.site,+5.000,ACTIVE,KA7ERV,TS1 TS2
 WX4EMC,Spotsylvania,Virginia,United States,Master,1,145.30000,DMRVA,38.2182,-77.4951,313156,1 27500 Rappahannock Regional Always on<br>1 27510 Heathsville Area Always on (local traffic only)<br>1 31513 Southwest VA Regional PTT 15 min<br>1 31515 Tidewater Regional PTT 15 min<br>1 31516 Peninsula Regional PTT 15 min<br>1 31514 Shenandoah Regional PTT 15 min<br>1 31511 Richmond Metro PTT 15 min<br>1 316272 NASA PTT 15 min<br>1 43277 HEARS Link PTT 15 min<br>1 9998 Parrott (aka Echotest) PTT 1 min<br>2 3151 VA Statewide Always on<br>2 3151225 VA CALL Always on<br>2 27000 Clear Timeslot n/a<br>2 3124 Maryland Statewide PTT 15 min<br>2 2 PRN PTT 15 min<br>2 8802 DELMARVA PTT 15 min,-0.600,ACTIVE,KD4QNA,TS1 TS2
 KE7HHR,Boise,Idaho,United States,Master,2,444.57500,BM,44.712536,-116.093373,313157,,+5.000,ACTIVE,KD7WKF,TS1 TS2
@@ -9222,6 +9223,7 @@ KE2BNX,Wantage,New Jersey,United States,Peer,0,147.48000,Brandmeister,41.2445000
 KD6PAP,Bakersfield,California,United States,Peer,2,443.27500,ATT,35.4010200,-118.9579300,315093,None,5.000,ACTIVE,KD6PAP,TS1 TS2
 W4BAD,Durham NC,North Carolina,United States,Peer,1,444.26250,Brandmeister,36.3120000,-78.9699940,315094,None,5.000,ACTIVE,"W4BAD, K4MJO",TS1 TS2
 N5EPP,Philadelphia,Mississippi,United States,Peer,1,147.33000,Brandmiester,32.7186000,-89.0900000,315095,None,0.600,ACTIVE,K5NDW,TS2
+KK6X,Fairfield,California,United States,Peer,0,443.40000,Brandmeister,38.2492400,-122.0438800,315096,None,+5.000,ACTIVE,KK6X,TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,DMRVA,37.5358149,-77.3821587,315101,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,ACTIVE,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,NC-PRN-,36.6474353,-80.6437257,315102,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,ACTIVE,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,NC-PRN,36.8663865,-81.0515927,315103,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,ACTIVE,K4IJ,TS1 TS2
@@ -10508,9 +10510,9 @@ LU5FB,Rosario,Santa Fe,Argentina Republic,Master,1,434.52500,BrandMeister,-32.92
 LU8ANB,San Bernardo,Buenos Aires,Argentina Republic,Master,1,433.52500,BrandMeister,-34.596500,-58.442680,722013,,438.525,ACTIVE,LU8ANB,TS1 TS2
 LU2AFE,Argentina,Buenos Aires,Argentina Republic,Master,1,434.99500,brandmeister,-34.654048,5,722014,,-0.600,ACTIVE,LU2AFE,TS2
 LU2CSG,Capital Federal,Ciudad de Buenos Aires,Argentina Republic,Master,1,434.65000,BM,-34.637959,-58.407066,722015,,+5.000,ACTIVE,LU2CSG,TS1 TS2
-LU8EUT,Olivos,Buenos Aires,Argentina Republic,Peer,1,433.30000,BrandMeister/DMR+,0.0,0.0,722017,Argentina Link - BM 7227 - DMR+ 4722,+5.000,ACTIVE,LU8EUT,TS1 TS2
-LU8EUT,San Isidro,Buenos Aires,Argentina Republic,Peer,1,433.25000,BrandMeister/DMR+,0.0,0.0,722018,,+5.000,ACTIVE,LU8EUT,TS1 TS2
-LU8EUT,San Isidro,Buenos Aires,Argentina Republic,Peer,1,146.60000,BrandMeister/DMR+,0.0,0.0,722019,,-0.600,ACTIVE,LU8EUT,TS1 TS2
+LU8EUT,Olivos,Buenos Aires,Argentina Republic,Peer,1,433.30000,BrandMeister/DMR+,-34.4652710,-58.5232210,722017,Argentina Link - BM 7227 - DMR+ 4722,+5.000,ACTIVE,LU8EUT,TS1 TS2
+LU8EUT,San Isidro,Buenos Aires,Argentina Republic,Peer,1,433.25000,BrandMeister/DMR+,-34.4830670,-58.504210,722018,,+5.000,ACTIVE,LU8EUT,TS1 TS2
+LU8EUT,San Isidro,Buenos Aires,Argentina Republic,Peer,1,146.60000,BrandMeister/DMR+,-34.4729490,-58.5384560,722019,,-0.600,ACTIVE,LU8EUT,TS1 TS2
 LU8EB,Lanus,Buenos Aires,Argentina Republic,Peer,1,145.23000,BRANDMEISTER,-41.1516,-71.301,722020,,-0.600,ACTIVE,LU8EB,TS1 TS2
 LU1COP,Capital Federal,Buenos Aires,Argentina Republic,Master,1,434.50000,"BM, DMR-MARC",-34.6036844,-58.3815591,722021,,+0.600,ACTIVE,LU1COP,TS1 TS2
 LU2BFM,Cordoba,Cordoba,Argentina Republic,Master,1,433.60000,TGif network,-31.597000,-64.550003,722022,,+5.000,ACTIVE,LU2BFM,Mixed Mode

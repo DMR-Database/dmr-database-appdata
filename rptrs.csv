@@ -832,7 +832,7 @@ E79VZE,Zenica,All Regions,Bosnia and Hercegovina,Master,1,145.62500,218016,BM,21
 E70DNE,Neum,All Regions,Bosnia and Hercegovina,Master,1,438.42500,218017,BM,218017,1,,-7.600,E77X,TS1 TS2
 E79DBI,Bihac,All Regions,Bosnia and Hercegovina,Peer,1,438.20000,218018,Brandmeister,218018,1,"UHF DMR Repeater in the city of Bihac, Bosnia and Herzegovina.<br>TS1 TG218<br>TS2 TG218037",-7.600,"E73AG, E70BA, E77SKY",TS1 TS2
 E79DME,Medjugorje,All Regions,Bosnia and Hercegovina,Master,1,438.95000,218019,BM,218019,1,,-7.600,E77X,TS1 TS2
-E79DCE,Banja Luka,,Bosnia and Hercegovina,Peer,1,438.85000,218020,BM,218020,1,TS1 218<br>TS2 21810 21812 218020,-7.600,E74BYZ,TS1 TS2
+E79DCE,Banja Luka,All Regions,Bosnia and Hercegovina,Peer,1,438.85000,218020,BM,218020,1,TS1 218<br>TS2 21810 21812 218020,-7.600,E74BYZ,TS1 TS2
 E79VIS,Pale,,Bosnia and Hercegovina,Master,1,145.77500,218021,BM,218021,1,TS1:218<br>TS2:21810,-0.600,E79VIS,TS1 TS2
 E79TRB,Bijeljina,All Regions,Bosnia and Hercegovina,Master,1,438.58750,218022,BM,218022,1,218,-7.600,E76AH,TS1 TS2
 E79VBN,Bijeljina,All Regions,Bosnia and Hercegovina,Master,1,145.58750,218023,BM,218023,1,218,-0.600,E76AH,TS1 TS2
@@ -3425,7 +3425,7 @@ DL1BH,Bremerhaven,,Germany,,1,439.00000,262302,BM,262302,1,,-7.600,DL1BH,TS1 TS2
 DB0RVB,Ravensberg,Niedersachsen / Bremen,Germany,Master,1,439.45000,262303,BM,262303,1,,-7.600,DL8AAP,TS1 TS2
 DO0SZ,Salzgitter,,Germany,,1,439.46250,262304,BM,262304,1,,-7.600,DO1OTD,TS1 TS2
 DB0JUI,Marienhafe-Ostfriesland,Niedersachsen / Bremen,Germany,Peer,1,439.27500,262305,BM,262305,1,,-7.600,DF6BT,TS1 TS2
-DB0XX,Helmstedt,,Germany,,1,439.50000,262306,DMR-plus,262306,1,,-7.600,DK2HP,TS1 TS2
+DB0XX,Helmstedt,Niedersachsen / Bremen,Germany,Peer,1,439.50000,262306,Brandmeister,262306,1,,-7.600,DK2HP,TS1 TS2
 DM0WL,Winsen Luhe,Niedersachsen / Bremen,Germany,Peer,1,439.03750,262307,BM,262307,1,"TS1: TG262 Deutschland | TG9112 Emergency | TG910 WW German<br>TS2: TG9 Local | TG8 Regio (Niedersachsen Nord, DB0AGM/DB0BUC/DB0WL, ext. TG26236) | TG26220 Region Hamburg | TG26221 Hamburg City |  TG 26220 und TG 26221 Mo.-Fr. nicht von 6:00-8:00Uhr",-7.600,DL7TJ,TS1 TS2
 DM0DOS,Doerenberg,Niedersachsen / Bremen,Germany,Peer,1,145.71250,262308,BM,262308,1,,-0.600,DJ2QW,TS1 TS2
 DL9AM,Herzberg am Harz,Niedersachsen / Bremen,Germany,Master,1,438.37500,262309,DMR-plus,262309,0,,-7.600,DL9AM,TS1 TS2
@@ -6594,6 +6594,7 @@ KF7LRD,Williams,Arizona,United States,Peer,1,448.30000,312078,AZ-TRBONET-DMR-MAR
 N2CID,Holland,New York,United States,Peer,1,442.36250,312079,WNYDMR.NETWORK,312079,0,,+5.000,N2CID,TS1 TS2
 NI4Y,Atlanta,Georgia,United States,Master,1,146.73000,312080,BM,312080,1,Testing,-0.600,NI4Y,TS1 TS2
 N6YMZ,Juneau,Alaska,United States,Peer,1,447.70000,312081,BrandMeister,312081,1,,-5.000,N6YMZ,TS1 TS2
+K1RK,Bourne,Massachusetts,United States,Peer,10,145.20000,312083,NEDECN,312083,1,Time Slot #1 - Group Call 1 = World Wide*<br>Time Slot #1 - Group Call 13 = WW English*<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 3172 = Northeast<br>Time Slot #1 - Group Call 310 = TAC310*<br>Time Slot #1 - Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 113 = UA English 1*<br>Time Slot #1 - Group Call 123 = UA English 2*<br>Time Slot #1 - Group Call 759 = SKYWARN<br>Time Slot #1 - Group Call 8801 = NETAC 1*<br>Time Slot #1 - Group Call 9998 = Parrot<br>Time Slot #1 - Group Call 9999 = Audio Watch<br>*********************************************************<br>Time Slot #2 - Group Call 3181= New England (Mon. 8 PM Net)<br>Time Slot #2 - Group Call 8 = Region North<br>Time Slot #2 - Group Call 3125 = MA Statewide<br>Time Slot #2 - Group Call 8804 = Cape Net<br>Time Slot #2 - Group Call 9 = Local Site<br>Time Slot #2 - Group Call 8802 = NETAC 2*<br><br>* = PTT Activated<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Website:   http://nedecn.org,-0.600,"K1RK, N1YHS",TS1 TS2
 K7GDM,Great Falls,Montana,United States,Peer,2,442.80000,312084,BM,312084,1,,+5.000,K7GDM,Mixed Mode
 W3NTT,Slatington,Pennsylvania,United States,Peer,1,438.50000,312085,BrandMeister,312085,1,TGIF Bridge,+5.000,W3NTT,Mixed Mode
 KN4GVY,Florida,Florida,United States,Peer,2,444.00000,312086,F-DARN,312086,1,,+5.000,KJ4FEC,TS1 TS2
@@ -7507,7 +7508,7 @@ K5FER,Rowlett,Texas,United States,Peer,1,147.39000,313149,BM,313149,1,75088,+0.6
 KG0RP,Silverthorne,Colorado,United States,Master,11,446.96250,313150,"BM,TGIF,DMR-Plus",313150,1,,-5.000,"KG0RP, VE2WKR",TS1 TS2
 K8EIE,University Heights,Ohio,United States,Master,1,431.12500,313152,BM,313152,1,,+0.600,K8EIE,TS1 TS2
 AI6D,Redding,California,United States,Master,1,444.57500,313153,BM,313153,1,,+5.000,AI6D,TS1 TS2
-WA6VPL,Lompoc,California,United States,Peer,1,444.82500,313154,BM,313154,1,Revised Site 1 repeater near Lompoc CA,+5.000,WA6VPL,TS1 TS2
+WA6VPL,Lompoc,California,United States,Peer,1,444.82500,313154,Brandmeister,313154,1,Revised Site 1 repeater near Lompoc CA,+5.000,WA6VPL,TS1 TS2
 KA7ERV,Idaho City,Idaho,United States,Peer,1,443.67500,313155,BM,313155,1,See https://commswg.site,+5.000,KA7ERV,TS1 TS2
 WX4EMC,Spotsylvania,Virginia,United States,Master,1,145.30000,313156,DMRVA,313156,1,1 27500 Rappahannock Regional Always on<br>1 27510 Heathsville Area Always on (local traffic only)<br>1 31513 Southwest VA Regional PTT 15 min<br>1 31515 Tidewater Regional PTT 15 min<br>1 31516 Peninsula Regional PTT 15 min<br>1 31514 Shenandoah Regional PTT 15 min<br>1 31511 Richmond Metro PTT 15 min<br>1 316272 NASA PTT 15 min<br>1 43277 HEARS Link PTT 15 min<br>1 9998 Parrott (aka Echotest) PTT 1 min<br>2 3151 VA Statewide Always on<br>2 3151225 VA CALL Always on<br>2 27000 Clear Timeslot n/a<br>2 3124 Maryland Statewide PTT 15 min<br>2 2 PRN PTT 15 min<br>2 8802 DELMARVA PTT 15 min,-0.600,KD4QNA,TS1 TS2
 KE7HHR,Boise,Idaho,United States,Master,2,444.57500,313157,BM,313157,1,,+5.000,KD7WKF,TS1 TS2
@@ -9222,6 +9223,7 @@ KE2BNX,Wantage,New Jersey,United States,Peer,0,147.48000,315092,Brandmeister,315
 KD6PAP,Bakersfield,California,United States,Peer,2,443.27500,315093,ATT,315093,1,None,5.000,KD6PAP,TS1 TS2
 W4BAD,Durham NC,North Carolina,United States,Peer,1,444.26250,315094,Brandmeister,315094,1,None,5.000,"W4BAD, K4MJO",TS1 TS2
 N5EPP,Philadelphia,Mississippi,United States,Peer,1,147.33000,315095,Brandmiester,315095,1,None,0.600,K5NDW,TS2
+KK6X,Fairfield,California,United States,Peer,0,443.40000,315096,Brandmeister,315096,1,None,+5.000,KK6X,TS1 TS2
 W4RAT,Richmond,Virginia,United States,Peer,1,443.58750,315101,DMRVA,315101,1,List of talkgroups at this link: http://www.dmrva.org/talkgroups/<br>See full system information at: http://www.dmrva.org/,+5.000,KD4BPZ,TS1 TS2
 WX4F,Fancy Gap,North Carolina,United States,Peer,1,443.93750,315102,NC-PRN-,315102,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/fancy_gap_coverage_map.jpg) <br><br>Contact Name: Gray, WX4F<br><br>Email: grayfulk@embarqmail.com",+5.000,WX4F,TS1 TS2
 K4IJ,Wytheville,Virginia,United States,Peer,1,443.26250,315103,NC-PRN,315103,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/wytheville_coverage_map.jpg) <br><br>Contact Name: Mike Fariss<br><br>Email: mike.fariss@gmail.com,+5.000,K4IJ,TS1 TS2
@@ -10508,9 +10510,9 @@ LU5FB,Rosario,Santa Fe,Argentina Republic,Master,1,434.52500,722012,BrandMeister
 LU8ANB,San Bernardo,Buenos Aires,Argentina Republic,Master,1,433.52500,722013,BrandMeister,722013,1,,438.525,LU8ANB,TS1 TS2
 LU2AFE,Argentina,Buenos Aires,Argentina Republic,Master,1,434.99500,722014,brandmeister,722014,0,,-0.600,LU2AFE,TS2
 LU2CSG,Capital Federal,Ciudad de Buenos Aires,Argentina Republic,Master,1,434.65000,722015,BM,722015,1,,+5.000,LU2CSG,TS1 TS2
-LU8EUT,Olivos,Buenos Aires,Argentina Republic,Peer,1,433.30000,722017,BrandMeister/DMR+,722017,0,Argentina Link - BM 7227 - DMR+ 4722,+5.000,LU8EUT,TS1 TS2
-LU8EUT,San Isidro,Buenos Aires,Argentina Republic,Peer,1,433.25000,722018,BrandMeister/DMR+,722018,0,,+5.000,LU8EUT,TS1 TS2
-LU8EUT,San Isidro,Buenos Aires,Argentina Republic,Peer,1,146.60000,722019,BrandMeister/DMR+,722019,0,,-0.600,LU8EUT,TS1 TS2
+LU8EUT,Olivos,Buenos Aires,Argentina Republic,Peer,1,433.30000,722017,BrandMeister/DMR+,722017,1,Argentina Link - BM 7227 - DMR+ 4722,+5.000,LU8EUT,TS1 TS2
+LU8EUT,San Isidro,Buenos Aires,Argentina Republic,Peer,1,433.25000,722018,BrandMeister/DMR+,722018,1,,+5.000,LU8EUT,TS1 TS2
+LU8EUT,San Isidro,Buenos Aires,Argentina Republic,Peer,1,146.60000,722019,BrandMeister/DMR+,722019,1,,-0.600,LU8EUT,TS1 TS2
 LU8EB,Lanus,Buenos Aires,Argentina Republic,Peer,1,145.23000,722020,BRANDMEISTER,722020,1,,-0.600,LU8EB,TS1 TS2
 LU1COP,Capital Federal,Buenos Aires,Argentina Republic,Master,1,434.50000,722021,"BM, DMR-MARC",722021,1,,+0.600,LU1COP,TS1 TS2
 LU2BFM,Cordoba,Cordoba,Argentina Republic,Master,1,433.60000,722022,TGif network,722022,1,,+5.000,LU2BFM,Mixed Mode
