@@ -453,6 +453,7 @@ F1ZNM,Gardanne,,France,,7,439.82500,208111,BM,208111,0,,-9.400,F1BSL,TS1 TS2
 F5ZST,Baudinard sur Verdon,Ile-de-France,France,,1,145.57500,208112,None,208112,0,,-0.600,F8TRT,
 F6ZEW,MAXEVILLE,Grand Est,France,Master,1,439.40000,208113,BM,208113,1,Aucun,-7.600,"F4DWB, F4EXC",TS1 TS2
 F6ZFD,VILLAZ,Auvergne-Rhone-Alpes,France,Master,1,438.57500,208114,IPSC2-FRANCE 3,208114,1,None,7.600,F4FYF,TS1 TS2
+F6ZFF,Paris,Ile-de-France,France,Master,1,439.00000,208115,TETRAPACK,208115,1,None,-7.600,"F4IEY, F4IQN, F1OXM",Mixed Mode
 F1ZSU,Aspremont,Ile-de-France,France,Master,1,430.42500,208119,BM,208119,1,,+9.400,F1BEH,TS1 TS2
 F1ZSX,VILLENEUVE-LOUBET,,France,,1,439.88750,208146,None,208146,1,,-9.400,F1ATB,
 F1ZAS,Saint Saturnin les Avignon,Provence-Alpes-Cote d Azur,France,Peer,1,439.65000,208157,DMR-plus,208157,1,,-9.400,F1VN,TS1 TS2
@@ -1517,7 +1518,7 @@ YO6NAM,Tampa,,Romania,,1,439.82500,226604,BM,226604,1,,-9.400,YO6FLW,TS1 TS2
 YO6NAM,Tampa,,Romania,,1,439.85000,226605,DMR-plus,226605,1,,-9.400,YO6FLW,TS1 TS2
 YO6F,Targu Mures,,Romania,,1,145.67500,226606,DMR-plus,226606,1,,-0.600,YO6OSC,TS1 TS2
 YO6PWD,Paltinis,,Romania,,1,439.85000,226608,DMR-plus,226608,1,,-9.400,YO2LLQ,TS1 TS2
-YO6R,Reghin,,Romania,,1,145.60000,226609,None,226609,0,,-0.600,YO6SM,
+YO6R,Reghin,Brasov / Covasna / Harghita / Mures / Sibiu,Romania,Peer,1,145.60000,226609,BM,226609,1,,-0.600,YO6SM,TS1
 YO6HDJ,FAGARAS BRASOV,,Romania,,1,431.40000,226610,DMR-plus,226610,0,,7.600,YO6Z,TS1 TS2
 YO6C,Targu Mures,,Romania,,1,439.80000,226612,DMR-plus,226612,1,,-7.600,YO6OSC,TS1 TS2
 YO6KEK,REGHIN,,Romania,,1,439.95000,226699,None,226699,0,,-9.400,YO6ORO,
@@ -3346,7 +3347,7 @@ DB0TVI,Inselsberg Thueringen,Sachsen / Thueringen,Germany,Master,1,439.51250,262
 DM0RZ,Ratzeburg,,Germany,,1,439.88750,262209,None,262209,1,,-9.400,DB5LC,
 DB0GZ,Alfeld,Niedersachsen / Bremen,Germany,Master,1,439.35000,262210,BM,262210,1,26332,-7.600,DL8KM,Mixed Mode
 DB0AT,Ribnitz-Damgarten,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Master,1,438.80000,262212,BM,262212,1,,-7.6,DB3MAX,TS1 TS2
-DB0KPI,Elmshorn,Hamburg / Schleswig-Holstein,Germany,Master,1,439.42500,262213,BM,262213,1,Relais in Testphase<br>TS1: TG262 Deutschland | <br>TS2: TG9 Local | TG8 Regio --> TG26221 Region Hamburg-City | TG262213 (extern --> local TG9),-7.600,DL8AAJ,TS1 TS2
+DB0KPI,Elmshorn,Hamburg / Schleswig-Holstein,Germany,Master,1,439.42500,262213,BM,262213,1,Relais in Testphase<br>TS1: TG262 Deutschland |<br>TS2: TG9 Local | TG8 Regio --> TG26221 Region Hamburg-City | TG262213 (extern --> local TG9),-7.600,DL8AAJ,TS1 TS2
 DB0GE,Erkelenz,Nordrhein-Westfalen,Germany,Master,1,439.56250,262214,BM,262214,1,,-7.600,DG2KCB,TS1 TS2
 DB0GE,Erkelenz,Nordrhein-Westfalen,Germany,Master,1,438.53750,262215,"BM,IPSC2,C4FM, FM  Multimode.718",262215,1,"Multimode , BM,IPSC2, DMR, C4FM,FM",-7.600,DG2KCB,TS1 TS2
 DB0JB,Jueterbog,Berlin / Brandenburg,Germany,Master,1,439.13750,262216,BM,262216,1,,-7.600,DL4YBG,TS1 TS2
@@ -4316,7 +4317,7 @@ VA3PRA,Hammond,Ontario,Canada,Peer,1,442.75000,302040,BrandMeister,302040,1,TS1 
 VE3WOO,Toronto,Ontario,Canada,Master,1,442.17500,302041,Brandmeister,302041,1,"DMR - Repeater  Toronto, Canada",+5.000,VE3OC,TS1
 VE3MMX,Shedden,Ontario,Canada,peer,1,443.66250,302042,Brandmeister,302042,1,,+5.000,VE3MMX,1 2
 VE2REH,Mont-Laurier,Quebec,Canada,Master,1,444.15000,302043,Brandmeister,302043,1,,+5.000,VE2ZVL,TS1 TS2
-VA3NEG,Oakville,Ontario,Canada,Master,1,444.42500,302044,Brandmeister,302044,1,,+,VA3RQ,1 and 2
+VA3NEG,Oakville,Ontario,Canada,Master,1,444.42500,302044,Brandmeister,302044,1,,+5.000,VA3RQ,TS1 TS2
 WB3ISP,Hammond,Ontario,Canada,PEER,1,446.00000,302045,BM,302045,1,,0,VA3ISP,1-2
 VE2REH,LAnge-Gardien,Quebec,Canada,Peer,1,442.55000,302046,BrandMeister,302046,1,,+5.000,VE2ZVL,TS1 TS2
 VA3SLU,Toronto,Ontario,Canada,Master,1,442.41450,302047,BrandMeister DMR,302047,1,,+5.000,VE3ELB,TS1 TS2
@@ -9249,6 +9250,7 @@ N8RAT,Linden,Virginia,United States,Master,1,443.16250,315129,DMRVA,315129,1,Tim
 N3QEM,Vienna,Virginia,United States,Peer,13,145.17625,315130,Interstate,315130,1,,-0.600,N3QEM,TS1 TS2
 N3QEM,Arlington,Virginia,United States,Peer,1,443.06250,315131,Interstate,315131,1,,+5.000,N3QEM,TS1 TS2
 N8RAT,Fredericksburg,Virginia,United States,Master,1,442.11250,315132,DMRVA,315132,1,,+5.000,N8RAT,TS1 TS2
+KJ5PQD,Dublin,Texas,United States,Peer,1,438.80000,315133,Brandmiester,315133,1,None,5.000,KJ5PQD,TS2
 KD4EG,Roanoke Co.,Virginia,United States,Master,1,440.70000,315135,BrandMeister,315135,1,"Time Slot 1, TG 2 Local cluster  linked to Roanoke Local DMRVA<br>Time Slot 2, 3151 Va State Wide",+5.000,KD4EG,TS1 TS2
 WB4EOT,Roanoke,Virginia,United States,Master,1,440.80000,315136,DMRVA,315136,1,"Itinerant repeater used for events, demos and hamfest coverage.<br><br>VA Statewide,  TG 3151, TS 2<br>Local,  TG 27500, TS 1<br>TAC A,  TG 27501, TS 1<br>TAC B,  TG 27502, TS 1",+5.000,WB4EOT,TS1 TS2
 KK4WDG,Roanoke,Virginia,United States,None,1,441.82500,315137,Brandmeister MMDVM,315137,1,,-5.000,K4FDS,None
@@ -9649,10 +9651,8 @@ UN6UGA,Almaty,Almaty,Kazakhstan,Peer,1,145.65000,401006,BrandMeister,401006,1,,-
 UN7UIY,Aktobe,Aktobe,Kazakhstan,Master,1,439.43750,401007,BM,401007,1,TS1 / Any Dynamic TG's<br>TS2 / TG 9 (Local),-7.60000,UN7IY,TS1 TS2
 UN7UBZ,Kokshetau,Akmola,Kazakhstan,Master,1,145.65000,401008,BrandMeister,401008,1,,-0.600,UN1EAU,TS1 TS2
 UN7BWW,Shuchinsk,Akmola,Kazakhstan,Master,1,439.43750,401009,eg. BrandMeister,401009,1,,-7.6,UN7ECY,TS1 TS2
-UB9MDL,Omsk,Astana,Kazakhstan,Peer,1,438.72500,401010,BM,401010,1,,-7.6,UB9MDL,TS1 TS2
 UN7UZA,Astana,Akmola,Kazakhstan,Peer,1,145.75000,401011,BrandMeister,401011,1,,-0.600,UN7UZA,TS1 TS2
 UN6UGE,Almaty,Almaty,Kazakhstan,Peer,1,439.43750,401012,BrandMeister,401012,1,,-7.600,UN6GDM,TS1
-UB9MDL,Omsk,Astana,Kazakhstan,Master,1,439.15000,401013,BM,401013,0,,-9.000,UB9MDL,TS1 TS2
 UN7UBB,Schuchinsk,Akmola,Kazakhstan,Master,1,439.82500,401014,BM,401014,0,TG-401,-7.6,UN7ECY,TS1 TS2
 UN1EAK,Schuchinsk,Akmola,Kazakhstan,Master,1,439.42500,401015,BM,401015,1,,-7.6,UN1EAK,TS1 TS2
 UN7UGA,Almaty,Almaty,Kazakhstan,Peer,1,436.17500,401016,BM,401016,1,Time Slot #1 - Group Call 1 = Local,-5.000,UN9GDE,TS1
@@ -9803,7 +9803,7 @@ BR7JAB,Shaoguan,Hunan Guangdong Guangxi Hainan,China,Master,1,436.36000,460024,B
 BR4IP,Qingdao,Shanghai Shandong Jiangsu,China,Master,1,439.54000,460026,BM,460026,1,,-5.000,BH4LLP,TS1
 BR6QBD,Wuhan,Henan Hubei Anhui,China,Master,1,438.72500,460027,BM,460027,1,"Time slot#1-Group Call 46001=China<br>Time slot#2-Group Call 460027=Wuhan<br>Contact: Tim Yang, BG6TWT<br>Email: kmt1911@qq.com<br>WechatBR6QBD",-7.00,BG6TWT,TS1 TS2
 BR4ECS,SuZhou,Shanghai Shandong Jiangsu,China,Master,0,438.12500,460028,BM4601,460028,0,TS1:TG46001()<br>TS2:TG4600512<br><br>Listen:<br>TG46001<br>4600999<br>TG46025<br>TG4600512<br>,-7.250,BD4SQF,Mixed Mode
-BR7WXD,Guilin,Hunan Guangdong Guangxi Hainan,China,Master,1,439.60000,460029,BM,460029,1,TG46001<br>TG46773,-5.00,BG7QCD,TS1 TS2
+BR7WXD,Guilin,Hunan Guangdong Guangxi Hainan,China,Master,1,439.60000,460029,TG,460029,1,TG46001<br>TG46773,-5.00,BG7QCD,TS1 TS2
 BR8SQJ,QuJing YunNan,Sichuan Guizhou Chongqing Yunnan,China,Master,1,439.87500,460031,BM,460031,1,TG46001/TG460871,-5.000,BG8SRQ,TS2
 BR2RSA,Shenyang,Heilongjiang Jilin Liaoning,China,Master,10,439.37500,460032,DMR-MARC,460032,1,Chinese Radio Sports Association,-7.600,BD2VAA,TS1 TS2
 BR5AL,Hangzhou,Zhejiang Fujian Jiangxi,China,Master,1,439.87500,460034,"BM, HomeBrew Net",460034,1,"BR5AL is a home-brew mmdvm repeater made by BG5HHP(for the all software part) and BG5HXE(for the all radio hardware part)<br><br>It was known as repeater(460501)<br><br>And TG460501 is linked to YSF reflector ""CN CC#1"" (18829) , the dashboard address: https://mmdvm.cc/ysf/<br><br>Call= BR5AL<br><br>Power= 12 Watt<br><br>Height= 400m<br><br>Radio= GP88 for RX and UP450 for TX, A harden NTH-version-based modem board<br><br>Host Box= OpenWrt Linux Box (MT7620 chip with 128M/32M) + DRCC-DVM modem board<br><br>Slot2: Linked to local RF: 439875/CC1/TG460501<br><br>Slot1: Local-only RF : CC1/TG1",-9.000,BG5HHP,Mixed Mode
