@@ -1,6 +1,5 @@
 callsign,city,state,country,assigned,color_code,frequency,id,ipsc_network,locator,map,map_info,offset,trustee,ts_linked
 WB6ECE,Bonny Doon,California,United States,Peer,2,440.58750,110601,Brandmeister,110601,0,,+5.000,KA6SQG,TS1 TS2
-WB6YES,Carlsbad,California,United States,Master,3,447.30000,110602,BrandMeister,110602,1,,-5.000,AA4CD,TS1 TS2
 WB6PQM,Walnut Creek,California,United States,Peer,1,444.15000,110603,Brandmeister,110603,1,,+5.000,WB6PQM,TS1 TS2
 KF6GOI,Thousand Oaks,California,United States,Master,1,445.56000,110604,West Brandmeister,110604,1,,-5.000,KF6GOI,TS1 TS2
 K6UHF,Wrightwood,California,United States,Peer,7,449.74000,110605,BrandMeister,110605,1,,-5.000,K6UHF,TS1 TS2
@@ -40,7 +39,6 @@ K6LLC,SAN JOSE,California,United States,Peer,1,440.22500,110647,PINOY 5153,11064
 WI6Y,Anaheim,California,United States,Peer,3,449.46250,110649,BM,110649,1,,-5.000,WI6Y,TS1 TS2
 W2NOR,San Diego,California,United States,Peer,1,445.20000,110650,BM,110650,1,,-5.000,AF6YU,TS1 TS2
 KG6NLW,Cloverdale,California,United States,Peer,1,440.10000,110651,brandmeister,110651,1,,+5.000,KG6NLW,TS1 TS2
-KC2UFO,Merritt Island,Florida,United States,Peer,1,444.77500,110652,BrandMeister,110652,1,,+5.000,AA4CD,TS1 TS2
 AD1U,LOS GATOS,California,United States,Peer,1,443.95000,110653,Brandmeister,110653,1,"AD1U DMR Repeater<br><br>Crystal Peak, California<br><br>This repeater was transitioned to PINOY Bridge for a better user experience .  <br><br>=Static Talkgroups=<br>Local TS1 / TG51525<br>SCAN i TS1 / TG51546<br>Northern Luzon TS1 / TG5152<br><br>=Dynamic Talkgroups=<br> (Only available on TS2)<br>Nothern Luzon TS2 / TG5152<br>Matulis TS2/ TG51569<br><br><br>Contact Name: Angel Datuin / AD1U<br>Email: ad1unity@ycom",+5.000,AD1U,TS1 TS2
 W6EI,Palo Alto,California,United States,Peer,1,441.60000,110654,BrandMeister,110654,1,,+5.000,W6EI,TS1 TS2
 KC6IAU,San Jose,California,United States,Peer,1,147.10500,110655,Brandmeister,110655,1,,-0.600,N6WGP,TS1 TS2
@@ -454,6 +452,7 @@ F5ZST,Baudinard sur Verdon,Ile-de-France,France,,1,145.57500,208112,None,208112,
 F6ZEW,MAXEVILLE,Grand Est,France,Master,1,439.40000,208113,BM,208113,1,Aucun,-7.600,"F4DWB, F4EXC",TS1 TS2
 F6ZFD,VILLAZ,Auvergne-Rhone-Alpes,France,Master,1,438.57500,208114,IPSC2-FRANCE 3,208114,1,None,7.600,F4FYF,TS1 TS2
 F6ZFF,Paris,Ile-de-France,France,Master,1,439.00000,208115,TETRAPACK,208115,1,None,-7.600,"F4IEY, F4IQN, F1OXM",Mixed Mode
+F4KOL,Toulouse,Occitanie,France,Master,0,439.82500,208116,Brandmeister,208116,1,sysop F5TMJ,-9.400,"F4KOL, F5TMJ",TS2
 F1ZSU,Aspremont,Ile-de-France,France,Master,1,430.42500,208119,BM,208119,1,,+9.400,F1BEH,TS1 TS2
 F1ZSX,VILLENEUVE-LOUBET,,France,,1,439.88750,208146,None,208146,1,,-9.400,F1ATB,
 F1ZAS,Saint Saturnin les Avignon,Provence-Alpes-Cote d Azur,France,Peer,1,439.65000,208157,DMR-plus,208157,1,,-9.400,F1VN,TS1 TS2
@@ -1330,8 +1329,10 @@ IR6L,L'Aquila,Marche / Abruzzo,Italy,Peer,1,145.67500,222477,Hamthings,222477,1,
 IR3CU,Forcella di Giais,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.25000,222478,Brandmeister,222478,1,None,1.600,IW3ROW,Mixed Mode
 IR8BQ,Potenza,Apulia / Basilicata,Italy,Peer,1,145.68750,222479,ADN,222479,1,None,-0.600,IZ8DHD,Mixed Mode
 IR3CLG,PADOVA,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.40000,222480,222,222480,1,None,1.600,IZ3CLG,TS1 TS2
+IR0EI,Grutti di Gualdo Cattaneo,Lazio / Umbria / Sardinia,Italy,Peer,1,145.30000,222481,Hamthings,222481,1,None,-0.600,IZ0OWL,Mixed Mode
 IR8UDG,Monte Calvello,Apulia / Basilicata,Italy,Peer,1,430.05000,222483,HamThings,222483,1,None,+1.600,IU6SSZ,TS1 TS2
 IR8UDK,lamezia terme,Molise / Campania / Calabria,Italy,Peer,1,430.50000,222484,ycs222,222484,1,None,+5.000,IZ8UZK,Mixed Mode
+IR3JDV,Trieste,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.50000,222485,FDMR,222485,1,None,5.000,IV3JDV,Mixed Mode
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,222500,DMR-plus,222500,1,,+5.000,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,222501,DMR-plus,222501,1,,5.000,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,222502,BM,222502,1,,5.000,IK5BNG,TS1 TS2
@@ -1573,7 +1574,7 @@ HB9G,JN36CE,,Switzerland,,1,439.32500,228130,None,228130,1,,-7.600,HB9IBI,
 HB9UCQ,Le Paquier Montbarry,Fribourg,Switzerland,Master,1,438.37500,228131,BM,228131,1,,-7.600,HB9TUK,TS1 TS2
 HB9BR,Lutry,Vaud,Switzerland,Peer,1,439.40000,228132,BM,228132,1,,-7.600,"HB9DBB, HB9VJS",TS1 TS2
 HB9FG,Le Berra Sommet,Fribourg,Switzerland,Master,1,439.00000,228201,BM,228201,1,,-7.600,HB9TUK,TS1 TS2
-HB9LC,La Chaux-de-Fonds,,Switzerland,,1,438.52500,228202,None,228202,1,,7.600,HB9HLI,
+HB9LC,La Chaux-de-Fonds,Neuchatel,Switzerland,Peer,1,438.52500,228202,Brandmeister,228202,1,,7.600,HB9HLI,TS1 TS2
 HB9BO,Interlaken,Bern,Switzerland,Master,1,439.56250,228300,SwissDMR,228300,1,,-7.600,HB9DUU,TS1 TS2
 HB9F,Brienzer-Rothorn,Bern,Switzerland,Peer,1,439.50000,228301,BM,228301,1,,-7.600,HB9DUU,TS1 TS2
 HB9F,Schilth./Piz Gloria,,Switzerland,Peer,1,438.21250,228302,BM,228302,1,,-7.600,HB9DUU,TS1 TS2
@@ -1742,6 +1743,7 @@ OM0ODP,Vysne Hagy,Kosicky / Presovsky,Slovakia,Peer,1,438.27500,231404,BM,231404
 OM0ODK,Kojsovska hola,Kosicky / Presovsky,Slovakia,Master,1,438.25000,231405,BM,231405,1,,-7.600,OM8KT,Mixed Mode
 OE9XXH,Hard,Vorarlberg,Austria,Peer,1,438.46250,232001,DMR+,232001,1,"22828,228,20,2280,2320,2329",-7.600,HB9SDB,TS1 TS2
 OE9XFV,Bregenz,Vorarlberg,Austria,Peer,1,438.52500,232002,BM,232002,1,None,-7.600,OE9AFV,Mixed Mode
+OE4XSM,Breitenbrunn,Burgenland,Austria,Peer,1,439.10000,232003,Brandmeister + IPSC2+,232003,1,None,-7.600,OE4SXM,Mixed Mode
 OE0XMP,Wien,,Austria,,1,438.50000,232069,DMR-plus,232069,0,,-7.600,OE1KBC,TS1 TS2
 OE1XHP,Wien-Donaustadt,Wien,Austria,Master,1,438.92500,232070,"DMR-plus, BM",232070,1,,-7.600,OE1LHP,TS1 TS2
 OE3XVA,St. Valentin,Niederoesterreich,Austria,Master,1,438.62500,232071,"BM, DMR-MARC",232071,1,,-7.6,OE3OCC,TS1 TS2
@@ -2215,7 +2217,6 @@ GB7HM,Hope Mountain,,United Kingdom,Peer,1,439.63750,235300,DMR-plus,235300,0,,-
 GB7HM,Hope Mountain,Wales,United Kingdom,,1,439.63750,235301,Motorola,235301,1,,-9.000,GW1SYG,TS1 TS2
 GB7PN,Prestatyn,Wales,United Kingdom,Peer,1,439.42500,235302,DMR-plus,235302,1,,-9.000,G4NOY,TS1 TS2
 GB7CW,Bridgend,Wales,United Kingdom,,3,439.40000,235303,BM,235303,1,,-9.000,2W0TRR,TS1 TS2
-GB3SP,Carew Beacon,Wales,United Kingdom,,3,433.10000,235304,DMR-plus,235304,0,,1.600,GW4VRO,TS1 TS2
 GB7DP,Treffgarne,Wales,United Kingdom,,3,439.58750,235305,None,235305,1,,-9.000,GW8PKV,
 GB7HK,Cavers,Scotland,United Kingdom,Peer,3,145.62500,235310,DVSPh,235310,1,,-0.600,G0RDI,TS1 TS2
 GB3DW,Harlech,Wales,United Kingdom,,9,145.66250,235333,DMR-plus,235333,1,,0.600,MW0VTK,TS1 TS2
@@ -5332,7 +5333,6 @@ WB6YES,San Marcos,California,United States,Master,1,446.08000,310686,BrandMeiste
 KK6GFX,Santa Barbara,California,United States,Master,1,446.98000,310687,SoCal,310687,1,,-5.000,KI6TPX,TS1 TS2
 WB6YES,San Fernando,California,United States,Master,1,447.26000,310688,BrandMeister,310688,1,,-5.000,N6JVH,TS1 TS2
 KE6NDG,Susanville,California,United States,Peer,1,444.87500,310689,DCI,310689,1,,+5.000,KE6NDG,TS1 TS2
-WB6YES,Carlsbad,California,United States,Master,3,447.26000,310690,BrandMeister,310690,1,,-5.000,AA4CD,TS1 TS2
 K7AZ,Lompoc,California,United States,Master,1,443.42500,310691,BrandMeister,310691,1,,+5.000,K7AZ,TS1 TS2
 KA6SOX,Santa Barbara,California,United States,Peer,1,445.38000,310694,AARG,310694,1,Time Slot #2 - Group Call 1 = DMR-MARC Worldwide - PTT<br>Time Slot #2 - Group Call 13 = DMR-MARC Worldwide <br>Time Slot #2 - Group Call 3 = DMR-MARC N. America<br>Time Slot #2 - Group Call 310 = TAC310 - PTT<br>Time Slot #2 - Group Call 3100 = DCI Bridge<br>Time Slot #2 - Group Call 3176= Southwest Regional<br>Time Slot #2 - Group Call 3176= Southwest<br>Time Slot #2 - Audio Test - PTT<br>Time Slot #2 - Group Call 3777215= Com 1<br>Time Slot #1- Group Call 2 = Local<br>Time Slot #1- Group Call 621= NorCal 1 - PTT<br>Time Slot #1 - Group Call 622 = NorCal 2 - PTT<br>Time Slot #1- Group Call 5150 = Northern CA,-5.000,KA6SOX,TS1 TS2
 K6BIV,Pittsburg,California,United States,Peer,1,440.60000,310695,BrandMeister,310695,1,,+5.000,K6BIV,TS1 TS2
@@ -5346,7 +5346,6 @@ WX6D,Tulare,California,United States,Master,2,442.47500,310704,Mountain West DMR
 N4RLS,Lodi,California,United States,Master,1,444.22500,310705,BrandMeister,310705,1,,+5.000,N4RLS,TS1 TS2
 KG7NBL,Alameda,California,United States,Master,1,442.30000,310706,BrandMeister,310706,1,,+5.000,KA7QQV,TS1 TS2
 W6AJF,Sonoma,California,United States,Peer,1,440.01250,310707,BrandMeister,310707,1,,+5.000,N6KM,TS1 TS2
-WB6YES,San Marcos,California,United States,Master,3,445.88000,310708,BrandMeister,310708,1,,-5.000,AA4CD,TS1 TS2
 W6GRC,Redding,California,United States,Master,1,145.00000,310709,BrandMeister,310709,1,,+2.500,W6GRC,TS1 TS2
 N9QE,Harbor City,California,United States,Peer,15,449.46000,310710,BrandMeister,310710,1,,-5.000,N9QE,TS1 TS2
 W6CMU,Moffett Field,California,United States,Peer,1,443.82500,310711,BrandMeister,310711,1,,+5.000,W6EI,TS1 TS2
@@ -5359,7 +5358,6 @@ WD6AML,Quartsite,Arizona,United States,Master,1,448.95000,310717,Western States 
 N6LDJ,Pleasanton,California,United States,Peer,1,444.58750,310719,BrandMeister,310719,1,None,+5.000,N6LDJ,TS1 TS2
 K6BIV,Pittsburg,California,United States,Peer,2,440.60000,310720,BrandMeister,310720,1,None,+5.000,K6BIV,TS1 TS2
 K6VCD,Ventura,California,United States,Master,2,446.32500,310721,BrandMeister,310721,1,,-5.000,K6VCD,TS1 TS2
-W6THC,Carlsbad,California,United States,Peer,7,447.60000,310722,BrandMeister,310722,1,None,-5.000,AA4CD,TS1 TS2
 W6BML,Mount Shasta,California,United States,Master,1,441.27500,310723,D-Star/DMR/C4FM,310723,1,,+5.000,NR6J,TS1 TS2
 K6TMD,Pine Cove,California,United States,Master,1,446.06250,310724,Western States DMR,310724,1,See westernstatesdmr.com,-5.000,WA6PYJ,TS1 TS2
 WX6D,COALINGA,California,United States,Master,1,442.00000,310726,Mountain West DMR,310726,1,,+5.000,KE6YJC,TS1 TS2
@@ -5861,7 +5859,6 @@ K4ABB,Ortega Jacksonville Fl,Florida,United States,Peer,7,442.92500,311270,BM,31
 K4ABB,Fort Lauderdale,Florida,United States,Peer,7,442.77500,311271,BM,311271,1,Time Slot # 1 - Group Call 31622<br>,+5.000,K4ABB,Mixed Mode
 W4RCC,Southwest Ranches,Florida,United States,Master,7,442.57500,311272,brandmeister,311272,1,,+5.000,W4RCC,Mixed Mode
 NQ6U,Fort Myers,Florida,United States,Peer,9,442.50000,311273,DMR-MARC,311273,1,,+5.000,NQ6U,TS1 TS2
-K4DJN,Cocoa,Florida,United States,Peer,3,444.57500,311274,BrandMeister,311274,1,,+5.000,AA4CD,TS1 TS2
 W4CLL,Lakeland,Florida,United States,Master,1,442.97500,311275,FL-DMR,311275,1,,+5.000,W4CLL,TS1 TS2
 NP2OL,AUBURNDALE,Florida,United States,Peer,1,441.60000,311276,NJ TURBO,311276,1,,+5.000,NP2OL,TS1 TS2
 K2DMR,Saint Lucie,Florida,United States,Peer,10,440.75000,311277,NJ TURBO,311277,1,,+5.000,WR2M,TS1
@@ -5869,7 +5866,6 @@ K5MI,Marco Island,Florida,United States,Master,1,444.81250,311278,DMR Plus,31127
 W2BRW,Lancaster,New York,United States,Erie,1,444.08750,311279,BrandMeister,311279,0,TS1 TS2,+5.0,W2BRW,2
 K2DLJ,Spring Hill,Florida,United States,Peer,1,442.76250,311280,Earthlink,311280,1,,+5.000,K2DLJ,TS1 TS2
 W2GGI,Miami,Florida,United States,Peer,1,444.98750,311281,NY-DMR,311281,1,,+5.000,W2GGI,TS1 TS2
-K4DJN,Titusville,Florida,United States,Peer,3,444.67500,311282,BrandMeister,311282,1,,+5.000,AA4CD,TS1 TS2
 K2DLJ,Spring Hill,Florida,United States,None,1,442.76250,311283,DMR-MARC,311283,1,,+5.000,K2DLJ,TS1 TS2
 AB5OR,Tupelo,Mississippi,United States,Peer,1,145.49000,311284,Brandmeister,311284,1,NWS Memphis TS1   TS2 for local traffic,-.600,NG5U,TS2
 KF4EOK,Jacksonville,Florida,United States,Peer,1,444.55000,311285,BrandMeister,311285,1,,+5.000,KF4EOK,TS1
@@ -5984,7 +5980,6 @@ WA5TBB,Lubbock,Texas,United States,Master,1,444.80000,311404,BrandMeister,311404
 AC0EC,Muscatine,Iowa,United States,Master,2,444.12500,311405,Brandmeister,311405,1,,5.000,AC0EC,Mixed Mode
 KG4IDD,Palm Coast,Florida,United States,Peer,1,442.20000,311406,First Coast DMR,311406,1,,+5.00,KG4IDD,TS1 TS2
 KF6FM,Orange,California,United States,Master,3,448.15000,311407,Western States DMR,311407,1,,-5.000,KF6FM,TS1 TS2
-AA4CD,Carlsbad,California,United States,Peer,11,449.38000,311408,BrandMeister,311408,1,This is a P25 repeater.,-5.000,AA4CD,Mixed Mode
 W0CTS,lamar,Colorado,United States,Peer,1,449.20000,311409,BrandMeister,311409,1,,-5.0000,W0CTS,Mixed Mode
 W2NJR,Springfield,New Jersey,United States,Peer,1,446.32500,311410,BrandMeister,311410,1,,-5.000,K2CB,TS1 TS2
 KM6VLB,La Mesa,California,United States,Peer,15,448.26000,311411,BrandMeister,311411,1,La Mesa FDCCU DMR Repeater will be linked to TG31689 TS1/TS2 CC15.,-5.000,N0MIS,TS1 TS2
@@ -7126,7 +7121,6 @@ K9DKC,Monrovia,Indiana,United States,Peer,1,442.75000,312686,DMR-CrossRoads,3126
 KB4IBW,Dresden,Tennessee,United States,Master,1,145.15000,312687,BM,312687,1,TS-2 3147          TN State Wide<br>31471       Memphis NWS<br>43389       SE Lnk LMARC<br>31477       Knoxville Metro<br>31477       Gatlinburg<br><br>TS-1  9               Local<br>2               Cluster,-0.600,KB4IBW,Mixed Mode
 KN6QGV,Lake Balboa,California,United States,Master,13,0.00000,312688,Nexus-DMR,312688,1,,+5.000,KN6QGV,TS1 TS2
 N5EKR,Ellisville,Mississippi,United States,Master,1,443.87500,312690,BM,312690,1,3128<br>31285,+5.00,N5EKR,TS1 TS2
-W6THC,Palm Springs,California,United States,Peer,1,446.58000,312691,BM,312691,1,PAPAS System TG standard configuration<br>www.papasys.com,-5.000,AA4CD,TS1 TS2
 WB6YES,Palomar Mtn,California,United States,Peer,1,445.86000,312693,BM,312693,1,Recommended Talkgroups<br><br>Timeslot 1<br>California - 3106 (static); California 1 - 31061; North America - 93; Worldwide - 91; Nationwide - 3100; EMCOM - 9911<br><br>Timeslot 2<br>PAPA - 31077(static) ; SoCal - 31066; SoCal 1 - 31067; Local - 2 (static)<br><br>When adding your own talkgroups please use timeslot 1<br><br>Join us for The PAPA System DMR Roundtable on Monday nights at 20:00 (California Time) on the PAPA Chat talkgroup (31077). More information available at http://www.papasys.com,-5.000,AF6FB,TS1 TS2
 WX9DX,Cantrall,Illinois,United States,Master,1,444.50000,312696,BM,312696,1,Send emails about supported Talk groups <br>to wx9dx1951@gmail.com or Facebook me.,+5.000,WX9DX,TS1
 AD4RM,Springfield,Tennessee,United States,Peer,4,442.90000,312697,BM,312697,1,This repeater is a closed machine,+5.000,AD4RM,TS1 TS2
@@ -7169,17 +7163,12 @@ KD0TGF,Ellendale,Minnesota,United States,Peer,10,442.07500,312737,KD0TGF-Network
 KD0TGF,Medford,Minnesota,United States,Peer,2,443.72500,312738,KD0TGF-Network,312738,1,TS1 TG 31272<br>TS1 TG 312734<br>TS2 TG 3127,+5.000,KD0TGF,TS1 TS2
 KD0TGF,Janesville,Minnesota,United States,Peer,2,442.50000,312739,KD0TGF-Network,312739,1,,+5.000,KD0TGF,TS1 TS2
 N0MHO,Warroad,Minnesota,United States,Master,1,443.00000,312740,Brandmeister,312740,1,,+5.000,N0MHO,TS1 TS2
-WB6YES,Ramona,California,United States,Peer,1,445.96000,312742,BM,312742,1,PAPA System standard TG lineup. www.papasys.com,-5.000,AA4CD,TS1 TS2
 KO4TLN,Dallas,Georgia,United States,Master,1,439.00000,312745,DMR-MARC,312745,1,,-5.0,KO4TLN,TS1 TS2
-WB6YES,Lake Forrest,California,United States,Peer,1,446.82000,312746,BM,312746,1,Standard PAPASYS TG lineup.,-5.000,AA4CD,TS1 TS2
-WB6YES,Santa Ynez,California,United States,Peer,1,446.98000,312747,BM,312747,1,Standard PAPASYS TG lineup. See www.papasys.com,-5.000,AA4CD,TS1 TS2
 N5CH,Elk City,Oklahoma,United States,Peer,1,147.22500,312748,BM,312748,1,314098 ts2<br>3140 ts2<br>310100 ts1<br>314101 TS 1<br>,+0.600,N5CH,TS1 TS2
 K6LI,American Canyon,California,United States,Master,3,145.31000,312749,BM,312749,1,,+5.000,KJ6SCG,TS1 TS2
 KD2WZI,New York,New York,United States,Master,4,434.92250,312751,DMR-MARC,312751,0,,+5.00,N2LIA,TS1
 N6JFO,Las Vegas,Nevada,United States,Peer,15,449.80000,312754,BM,312754,1,51522,-5.000,N6JFO,TS1 TS2
-WB6YES,Claremont,California,United States,Peer,1,449.36000,312755,BM,312755,1,Standard PAPASYS TG lineup. See www.papasys.com,-5.000,AA4CD,TS1 TS2
 N7Y0R,Las Vegas,Nevada,United States,Peer,15,446.62500,312756,"BM,DMR-MARC",312756,1,,-5.000,N7Y0R,Mixed Mode
-WB6YES,Tujunga,California,United States,Peer,1,449.38000,312757,BM,312757,1,Standard PAPASYS TG lineup. Visit www.papasys.com,-5.000,AA4CD,TS1 TS2
 N7YOR,Las Vegas,Nevada,United States,Peer,15,446.62500,312758,"BM, DMR-MARC",312758,1,,-5.000,N7YOR,Mixed Mode
 N0NKI,Anoka,Minnesota,United States,Master,1,442.10625,312759,Brandmeister,312759,1,"Static TS1: 3127 (Minnesota Statewide<br>Static TS2: 31272 (Minneapolis St Paul Metro)<br>TS2: Preferred for PTT activity, all Brandmeister Talk-Groups available",+5.000,N0NKI,TS1 TS2
 KI4DNY,Mount Mitchell NC,North Carolina,United States,Peer,1,443.60000,312760,WNC-NET,312760,1,Timeslot 1<br>Local (full time)<br>NET411 (scheduled) [future implementation planned]<br>North America (on demand)<br>TAC310 (on demand)<br>TAC311 (on demand)<br>TAC312 (on demand)<br>WW English (on demand)<br>Data (full time) [future implementation planned]<br>Echo Test (on demand)<br>Clear Timeslot 2<br><br>Timeslot 2<br>WNC (full time)<br>PRN (on demand)<br>Southeast (on demand)<br>Clear Timeslot 1<br><br>Contact: WA4TOG<br>Email: wa4tog@bellsouth.net<br>Website: http://www.wncdmr.net/,+5.000,KI4DNY,TS1 TS2
@@ -7619,7 +7608,6 @@ N8VPZ,Dowagiac,Michigan,United States,Peer,1,442.51250,313287,BM,313287,1,,+5.00
 WM8S,Friendswood area,Texas,United States,Peer,1,441.37500,313288,BM,313288,1,Motorola SLR5700. For incident and event use.,+5.000,WM8S,TS1 TS2
 KD2PWJ,New Brunswick,New Jersey,United States,Peer,1,440.45000,313289,dmr,313289,1,,+5.000,KD2PWJ,TS1
 NV7RP,Sparks,Nevada,United States,Peer,15,440.97500,313291,"BM, DMR-MARC",313291,1,,+5.00,NV7RP,TS1 TS2
-W6THC,Palm Springs,California,United States,Peer,1,447.14000,313293,BM,313293,1,"This is a multimode D-STAR and P25 repeater located at Edom Hill near Palm Springs, CA. See PAPASYS.COM for more information.",-5.000,AA4CD,Mixed Mode
 W5XTR,Franklinton,Louisiana,United States,Master,2,442.32500,313294,Brandmeister,313294,1,,+5.000,W5XTR,TS1 TS2
 KE2AEM,Bronx,New York,United States,Peer,7,445.47500,313295,BrandMeister,313295,1,,-5.000,KE2AEM,TS1 TS2
 KB1MMR,Middlefield,Connecticut,United States,Master,0,446.92500,313296,P25,313296,1,"P25 TGID 38105 for ""CT P25"" network, 1 (default) for local, 10200 North America, and 10201 North America TAC-1.",-5.000,KB1MMR,Mixed Mode
@@ -8265,7 +8253,6 @@ WX5OU,Broken Arrow,Oklahoma,United States,None,1,443.50000,314030,Brandmeister,3
 NG6K,Cedar Hills,Utah,United States,Peer,1,927.96250,314031,AmComm,314031,1,Motorola XPR8380,-25.000,NG6K,TS1 TS2
 K7VU,Sheridan,Wyoming,United States,Peer,1,449.97500,314032,BM,314032,1,,-5.000,K7VU,Mixed Mode
 K3OTW,Frankfort,Kentucky,United States,Master,8,442.87500,314033,KentuckyDMR,314033,1,,+5.000,K3OTW,TS1 TS2
-AA4CD,Los Angeles,California,United States,Peer,1,447.54000,314034,BM,314034,1,www.papasys.com,-5.000,AA4CD,TS1 TS2
 N0FON,HOLYOKE,Colorado,United States,Peer,4,445.16250,314035,RMHAM,314035,1,,-5.000,N0FON,TS1 TS2
 NY4Z,Alpine,New Jersey,United States,Peer,8,438.46250,314036,NY-DMR,314036,1,TS1-<br>TG 444 NYMETRO  FT<br>TS2<br>Private,-5.000,NY4Z,TS1 TS2
 WR3IRS,Montclair,New Jersey,United States,Peer,1,445.47500,314038,Interstate,314038,1,TS1 NJ Statewide (3134) full-time.<br><br>TS2 Local 2 TriState full-time.<br><br>Visit http://www.wr3irs.com for more information,-5.000,WN3A,TS1 TS2
@@ -8380,7 +8367,6 @@ KC1TOY,Windsor Locks,Connecticut,United States,Master,1,443.47500,314163,BM,3141
 WB0WTF,Plattsmouth,Nebraska,United States,Master,1,443.50000,314164,DMR-Marc,314164,1,,-5.000,WB0WTF,TS1 TS2
 N6OGM,Mount Wilson,California,United States,Master,7,449.20000,314167,BM,314167,1,Mt. Wilson Open Multi-Mode DMR/P25/NXDN<br><br>DMR:<br>CC7<br><br>Brandmeister TG 91 (Slot 1) or BM On-Demand<br>XLX288 TG6 (XLX288 Module C) (Slot 2)<br><br>P25:<br>NAC 288<br><br>P25 TG 65400 (XLX288 P25)<br><br>NXDN<br>RAN 7<br><br>NXDN48 TG 65000 (World WIde)<br>NXDN48 TG 65400 (XLX288) On-Demand,-5.000,N6OGM,Mixed Mode
 KF6FM,Kingman,Arizona,United States,Master,5,448.15000,314168,Western States DMR,314168,1,,-5.0000,KF6FM,TS1 TS2
-WB6YES,Pleasants Peak,California,United States,Peer,99,446.36000,314169,P25,314169,1,This is a PAPA System P25 UHF repeater. The NAC is 4CD. The primary TG is PAPA CHAT 31077. This repeater is linked to other PAPA System P25 repeaters. For information on the member supported PAPA System please visit www.papasys.com.,-5.000,AA4CD,Mixed Mode
 N0LAK,South Fork,Colorado,United States,Master,5,449.60000,314170,BM,314170,1,WXCOMM,-5.000,N0LAK,TS1 TS2
 KD0TGF,Brownsdale,Minnesota,United States,Master,2,442.33125,314171,KD0TGF-Network,314171,1,,+5.000,KD0TGF,TS1 TS2
 KD0TGF,Rochester,Minnesota,United States,Master,2,442.00000,314172,KD0TGF-Network,314172,1,,+5.000,KD0TGF,TS1 TS2
@@ -8824,7 +8810,6 @@ KF0ULO,Marshall,Missouri,United States,Master,1,146.68500,314653,BM,314653,1,Dyn
 N6PJW,Poplarville,Mississippi,United States,Master,1,443.25000,314654,BM,314654,1,DMR repeater at 400'AGL and 30W from duplexer<br><br>TS 1 Static<br>314654 - Poplarville MS<br>314128 - McHenry MS<br>3200655 - K5STO DMR ID TG<br>3167769 - N6PJW DMR ID TG<br><br>TS 2 Static<br>312801 - Lucedale MS <br>314766 - Hattiesburg MS,+5.0,N6PJW,TS1 TS2
 K0SI,Columbia,Missouri,United States,Master,3,146.76000,314655,BM,314655,1,,-0.600,K0PHP,TS1 TS2
 WB4GBI,Tallassee,Tennessee,United States,Master,1,444.12500,314656,Brandmeister,314656,1,,+5.000,WB4GBI,TS1 TS2
-AA4CD,Wrightwood,California,United States,Peer,7,449.74000,314657,BM,314657,1,Part of the PAPA System. See www.papasys.com,-5.000,AA4CD,TS1 TS2
 KD0PNQ,Minneapolis,Minnesota,United States,Master,1,441.02500,314659,BM,314659,1,,+5.000,KD0PNQ,TS1
 W1RH,Placerville,California,United States,Master,1,441.72500,314660,DMR,314660,1,,+5.000,W1RH,Mixed Mode
 KG4GOQ,Lake Worth,Florida,United States,Peer,10,444.12500,314661,TGIF,314661,1,,+5.000,KG4GOQ,TS1 TS2
@@ -8854,8 +8839,6 @@ K5VHM,Joplin,Missouri,United States,Master,1,444.07500,314685,BM,314685,1,31209,
 K4BLA,Mills River,North Carolina,United States,Peer,1,442.56250,314686,BM,314686,1,,+5.00,KQ4CLZ,TS1 TS2
 N4EMA,Defuniak Springs,Florida,United States,Master,1,443.75000,314687,TGIF,314687,1,"Welcome to the Walton County Florida ARES repeater. When Activated we may use our TGIF talk group 9625 to coordinate assets. When not activated we hope to provide a TG to connect with local and out of town Hams interested in everything from Emergency Service, POTA, Satellites, to you name it. All are invited to join us.",+5.000,N4EMA,TS2
 W9MBD,Mattoon,Illinois,United States,Master,4,444.97500,314688,BM,314688,1,,+5.000,W9MBD,Mixed Mode
-AA4CD,Toro Peak,California,United States,Peer,5,447.26000,314689,BM,314689,1,See www.papasys.com,-5.000,AA4CD,TS1 TS2
-AA4CD,San Marcos,California,United States,Peer,0,447.30000,314690,P25,314690,1,This is a P25 repeater with NAC 4CD.<br>Use TG 31077<br>www.papasys.com,-5.000,AA4CD,Mixed Mode
 KE7UUJ,Rock Springs,Wyoming,United States,Peer,11,448.02500,314691,BM,314691,1,,-5.000,KE7UUJ,TS1 TS2
 WN1R,New Orleans,Louisiana,United States,Peer,5,443.60000,314692,BM,314692,1,"GULF COAST DMR NETWORK<br>TIME SLOT 2  TG-31011<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>This is a Multi Mode  DMR / D-Star / P25 / YSF/ NXDN / FM Repeater<br>Located on the West Bank in New Orleans<br>Servicing Algiers, Bell Chase, Gretna, Chalmette<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>Time Slot # 2 - 31011 = Gulf Coast DMR<br>Time Slot # 2    3199  = Hurricane Net<br>Time Slot # 2 - 31225  = Southeast Louisiana<br><br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br><br>TIME SLOT #1 WEEKLY NETS<br><br>TG-312801 - Thursday 1930-2200  NET, DMR Round Table<br>and general discussions about radios and DMR<br>network operation  anyone is welcome to join in to the NET.<br>Check-ins typically start @ 1915 -  Net Control is KD4VVZ",+5.0,WN1R,TS1 TS2
 KD4DRP,Alachua,Florida,United States,Master,1,442.01250,314693,P25,314693,1,P25 NAC293,+5.00,KD4DRP,Mixed Mode
@@ -9260,6 +9243,7 @@ N3QEM,Vienna,Virginia,United States,Peer,1,927.70000,315145,Interstate,315145,1,
 W4JWC,Wirtz,Virginia,United States,Master,1,440.75000,315146,Brandmeister,315146,1,,+5.000,W4JWC,TS1 TS2
 W4VSP,Wytheville,Virginia,United States,Peer,1,146.89500,315147,Brandmeister,315147,1,,-0.600,W4VSP,TS1 TS2
 W4BRM,Haymarket,Virginia,United States,Peer,6,448.32500,315148,Brandmeister,315148,1,TS1- TG3151 - static<br>TS2 -TG315148 bridge to analog,-5.000,KE2N,TS1 TS2
+W4CGX,Leesburg,Florida,United States,Peer,1,443.02500,315149,brandmister,315149,1,None,5.000,W4CGX,Mixed Mode
 N07RF,Mazama,Washington,United States,Peer,3,147.41250,315300,NO7RF-Highland,315300,0,,+1.00,NO7RF,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,3,145.21000,315301,PNWDigital,315301,0,"Time Slot #1- Group Call 3153 = Washington Statewide 1<br>Time Slot #1- Group Call 3191 = Cascades 1<br><br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: http://www.pnwdigital.net",+2.78,NO7RF,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,0,433.15000,315302,NO7RF,315302,0,Demo/Testing,+16.000,NO7RF,TS1 TS2
@@ -10547,7 +10531,6 @@ PP1RK,Vila Velha,Espirito Santo,Brazil,Peer,1,147.18000,724010,Brandmeister,7240
 PY1SVL,Teresopolis,Rio de Janeiro,Brazil,Peer,1,146.83000,724011,DMR+,724011,1,Repetidor Teresopolis DMR+<br>TG 724 slot 2,-0.600,PY1PQP,TS1 TS2
 PY1LRP,Duque de Caxias,Rio de Janeiro,Brazil,Peer,1,147.33000,724012,DMR-plus,724012,1,tg724 SLOT1,-0.600,PY1LT,TS1 TS2
 PY2KGS,Santos,Sao Paulo,Brazil,Master,1,146.95000,724013,Brandmaister,724013,1,724 Brasil,-0.600,PY2NBY,TS1 TS2
-PY7JAD,Caruaru,Pernambuco,Brazil,Peer,1,146.81000,724014,dmr+,724014,1,Boa noite esse licena ja esta em uso py7jad TG724014 so pra atualizar o cadastro.,-0.600,PY7JD,TS1 TS2
 PY1URE,NITEROI,Rio de Janeiro,Brazil,Peer,1,439.85000,724015,DMR-plus,724015,1,Repetidor Niteroi DMR+<br>TG 724 slot2,-5.000,PU1LOY,TS1 TS2
 PY1FCT,Friburgo,Rio de Janeiro,Brazil,Peer,1,145.41000,724016,DMR-plus,724016,0,Repetidor Friburgo DMR+ CALEDONIA,-0.600,PU1LOY,TS1 TS2
 PY5TF,Pontal do Parana,Parana,Brazil,Master,1,146.65000,724017,DMR+ MASTER SUL,724017,1,,-0.600,PY5JP,TS1 TS2
