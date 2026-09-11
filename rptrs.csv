@@ -584,7 +584,7 @@ F1ZLR,JO20AH,,France,,1,439.82500,208906,BM,208906,1,,-9.400,F4GPC,TS1 TS2
 F5ZOE,TULLE,Nouvelle-Aquitaine,France,Peer,1,430.50000,208907,BM,208907,1,,+9.400,F5MIW,TS1 TS2
 F5ZBC,Blanzy (02),,France,,0,430.02500,208908,BM,208908,1,,1.600,F4DVK,TS1 TS2
 F1ZMU,St Nolff,,France,,1,430.32500,208909,DMR-plus,208909,0,,9.400,F1BWT,TS1 TS2
-F1ZHY,Montmarault,,France,,1,430.40000,208910,DMR-plus,208910,1,,9.400,F4ARJ,TS1 TS2
+F1ZHY,MONTMARAULT,Auvergne-Rhone-Alpes,France,Peer,1,430.40000,208910,DMR-plus,208910,1,,9.400,F4ARJ,TS1 TS2
 F1ZJP,CHENOVE,,France,,1,430.58750,208912,BM,208912,0,,9.400,F4ALM,TS1 TS2
 F1ZKX,MARGNY LES COMPIEGNE,,France,,1,439.87500,208913,None,208913,1,,-9.600,F1HSW,
 F5ZME,SAINT QUENTIN,,France,,1,439.95000,208914,None,208914,1,,-9.400,F6HDV,
@@ -1786,10 +1786,11 @@ OM0ODK,Kojsovska hola,Kosicky / Presovsky,Slovakia,Master,1,438.25000,231405,BM,
 OE9XXH,Hard,Vorarlberg,Austria,Peer,1,438.46250,232001,DMR+,232001,1,"22828,228,20,2280,2320,2329",-7.600,HB9SDB,TS1 TS2
 OE9XFV,Bregenz,Vorarlberg,Austria,Peer,1,438.52500,232002,BM,232002,1,None,-7.600,OE9AFV,Mixed Mode
 OE4XSM,Breitenbrunn,Burgenland,Austria,Peer,1,439.10000,232003,Brandmeister + IPSC2+,232003,1,None,-7.600,OE4SXM,Mixed Mode
+OE9XVI,Frastanz,Vorarlberg,Austria,Peer,1,438.28750,232004,Brandmeister,232004,1,None,-7.600,OE9PKV,TS1 TS2
 OE0XMP,Wien,,Austria,,1,438.50000,232069,DMR-plus,232069,0,,-7.600,OE1KBC,TS1 TS2
 OE1XHP,Wien-Donaustadt,Wien,Austria,Master,1,438.92500,232070,"DMR-plus, BM",232070,1,,-7.600,OE1LHP,TS1 TS2
 OE3XVA,St. Valentin,Niederoesterreich,Austria,Master,1,438.62500,232071,"BM, DMR-MARC",232071,1,,-7.6,OE3OCC,TS1 TS2
-OE8XGK,dmraustria-at,Kaernten,Austria,Master,1,0.00000,232072,BM,232072,0,,-7.6,OE8VIK,TS1 TS2
+OE8XGK,dmraustria-at,Kaernten,Austria,Master,1,438.45000,232072,BM,232072,1,,-7.6,OE8VIK,TS1 TS2
 OE9TEV,Klaus,Vorarlberg,Austria,Master,1,438.82500,232073,P25 MMDVM,232073,1,,-7.600,OE9TEV,Mixed Mode
 OE3XFP,Heidenreichstein,Niederoesterreich,Austria,Master,1,438.32500,232074,IPSC2,232074,1,,-7.6,OE3DZW,TS1 TS2
 OE3XSR,Haugschlag,Niederoesterreich,Austria,Master,1,438.61250,232075,IPSC2,232075,1,,-7.6,OE3DZW,TS1 TS2
@@ -1875,7 +1876,7 @@ OE7XLH,Lienz/Osttirol,Tirol,Austria,,1,438.87500,232708,DMR-plus,232708,1,,-7.60
 OE7XLI,Hochstein,Tirol,Austria,,1,438.27500,232709,DMR-plus,232709,0,,-7.600,OE7JTK,TS1 TS2
 OE7XLI,Hochstein,Tirol,Austria,,1,438.87500,232710,DMR-plus,232710,0,,-7.600,OE7JTK,TS1 TS2
 OE7XKT,Kaltenbach,Tirol,Austria,,1,438.40000,232711,DMR-plus,232711,1,,-7.600,OE7SBH,TS1 TS2
-OE7XFJ,St. Johann i. Tirol,Tirol,Austria,,1,438.25000,232712,None,232712,1,,-7.600,OE7AOT,
+OE7XFJ,Sankt Johann in Tirol,Tirol,Austria,Master,1,438.25000,232712,Brandmeister,232712,1,,-7.600,OE7AOT,TS1 TS2
 OE7XXR,Kramsach / Rofan,Tirol,Austria,,1,438.22500,232713,None,232713,0,,-7.600,OE7SRI,
 OE7XKH,Zams,Tirol,Austria,,1,438.50000,232714,DMR-plus,232714,1,,7.600,OE7ERJ,TS1 TS2
 OE7XXR,Kramsach / Rofan,Tirol,Austria,,1,438.27500,232715,None,232715,0,,-7.600,OE7SRI,
@@ -1887,12 +1888,12 @@ OE8XMK,Magdalensberg,Kaernten,Austria,,1,145.62500,232804,DMR-plus,232804,0,,-0.
 OE8XWK,St.Georgen/Laengsee,Kaernten,Austria,,1,438.95000,232805,DMR-plus,232805,0,,-7.600,OE8BAD,TS1 TS2
 OE8XVK,Kopein,Kaernten,Austria,,1,438.55000,232822,Hytera,232822,0,,-7.600,OE8PKR,
 OE8XGK,Goedersdorf,Kaernten,Austria,Master,8,438.45000,232836,BM,232836,1,,-7.6,OE8VIK,TS1 TS2
-OE8XGK,Goedersdorf,Kaernten,Austria,Master,1,438.45000,232839,BM,232839,0,,-7.6,OE8VIK,TS1 TS2
+OE8XGK,Goedersdorf,Kaernten,Austria,Master,1,438.45000,232839,BM,232839,1,,-7.6,OE8VIK,TS1 TS2
 OE8XWZ,Woelfnitz,Kaernten,Austria,,1,438.77500,232861,None,232861,0,,-7.600,OE8LCK,
 OE8XIK,Saurachberg,Kaernten,Austria,Peer,1,438.60000,232893,DMR-plus,232893,1,,-7.600,OE1KBC,TS1 TS2
 OE8XPK,Petzen,,Austria,Peer,1,145.62500,232894,DMR-plus,232894,0,,-0.600,OE8HJK,TS1 TS2
 OE8XFK,Dobratsch,Kaernten,Austria,Peer,1,438.90000,232895,BM,232895,1,,-7.600,OE8PKR,TS1 TS2
-OE8XLK,Koralm,Kaernten,Austria,,1,438.70000,232896,DMR-plus,232896,0,,-7.600,OE8URQ,TS1 TS2
+OE9XVI,Frastanz,Vorarlberg,Austria,Peer,1,438.28750,232902,BM,232902,1,,-7.600,OE9PKV,TS1 TS2
 OE9XMH,Muttersberg,Vorarlberg,Austria,,1,438.27500,232907,BM,232907,1,,-7.600,OE9KBV,TS1 TS2
 OE9XXI,Dornbirn,Vorarlberg,Austria,Peer,1,439.05000,232999,BM,232999,1,,-7.600,OE9TNT,TS1 TS2
 GB7KS,Stroud,England,United Kingdom,Peer,2,430.25000,234002,BM,234002,1,Part of the Salop Cluster group of repeaters - please use Slot 1 / TG 75<br><br>https://salop-repeater.weebly.com<br><br>,+9.000,G1MAW,TS1 TS2
@@ -3426,7 +3427,7 @@ DB0PC,NDR Mast Bungsberg,Hamburg / Schleswig-Holstein,Germany,Master,1,438.30000
 DB0FS,Hamburg,Hamburg / Schleswig-Holstein,Germany,Peer,1,145.67500,262203,BM,262203,1,,-0.600,"DL9DAK, DD3XK",TS1 TS2
 DB0PR,Armstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,438.28750,262204,BM,262204,1,"DMR Repeater planned. No existing network for coupling with BM yet.<br>Actually on 439,350MHz -7,6 FM/C4FM Multimode",-7.600,DJ3LE,TS1 TS2
 DM0TR,Trappenkamp,,Germany,,1,439.91250,262205,BM,262205,1,,-9.400,DH8LU,TS1 TS2
-DO0SH,Binsfeld,Rheinland-Pfalz / Saarland,Germany,Peer,1,439.82500,262206,BM,262206,0,Testbetrieb DMR / P25,-9.400,DO6PI,TS1 TS2
+DO0SH,Binsfeld,Rheinland-Pfalz / Saarland,Germany,Peer,1,439.82500,262206,BM,262206,1,Testbetrieb DMR / P25,-9.400,DO6PI,TS1 TS2
 DO0KD,Denkendorf,Bayern,Germany,Peer,1,439.97500,262207,BM,262207,1,Cluster TG26285 TS2<br>TG 26444 TS1,-9.4,DO1KD,TS1 TS2
 DB0TVI,Inselsberg Thueringen,Sachsen / Thueringen,Germany,Master,1,439.51250,262208,BM,262208,0,Derzeit in Vorbereitung / im Aufbau. Noch kein produktiver Betrieb.,-7.600,DL8HC,Mixed Mode
 DM0RZ,Ratzeburg,,Germany,,1,439.88750,262209,None,262209,1,,-9.400,DB5LC,
@@ -3635,7 +3636,7 @@ DB0EG,Schoeppingen,Nordrhein-Westfalen,Germany,Peer,1,439.48750,262441,BM,262441
 DB0ACC,Haltern am See,Nordrhein-Westfalen,Germany,,1,438.45000,262442,BM,262442,1,,-7.600,DL8YBL,TS1 TS2
 DB0WQ,Espelkamp,Nordrhein-Westfalen,Germany,Peer,1,438.71250,262444,BM,262444,1,,-7.600,DL7JW,TS1 TS2
 DB0RTV,Rheine,Nordrhein-Westfalen,Germany,,1,438.51250,262445,DMR-plus,262445,1,,-7.600,DL9YCC,TS1 TS2
-DO0LL,Legden,Nordrhein-Westfalen,Germany,,1,438.46250,262446,DMR-plus,262446,1,,-7.600,DO9LL,TS1 TS2
+DO0LL,Legden,Nordrhein-Westfalen,Germany,Master,1,438.46250,262446,Brandmeister,262446,1,,-7.600,DO9LL,TS1 TS2
 DB0ZV,Hagen,Nordrhein-Westfalen,Germany,,1,438.75000,262447,DMR-plus,262447,1,,-7.600,DG8DCH,TS1 TS2
 DB0OHL,Gelsenkirchen,Nordrhein-Westfalen,Germany,,1,439.93750,262448,None,262448,1,,9.400,DO2STH,
 DO0HA,Hagen/NRW,Nordrhein-Westfalen,Germany,,1,438.41250,262449,DMR-plus,262449,1,,-7.600,DO4HA,TS1 TS2
@@ -3894,7 +3895,7 @@ DM0KF,Kaufbeuren,Bayern,Germany,,1,438.27500,262847,None,262847,1,,-7.600,DL8BDY
 DB0MSK,Solhoehe/Langenprozel,Bayern,Germany,,1,439.05000,262848,BM,262848,1,,-7.600,DL9NCY,TS1 TS2
 DB0WZ,Wuerzburg,Bayern,Germany,,1,439.47500,262849,DMR-plus,262849,1,,-7.600,DG1NWW,TS1 TS2
 DB0ZKA,Augsburg,Bayern,Germany,,1,438.40000,262850,DMR-plus,262850,1,,-7.600,DB3HF,TS1 TS2
-DB0TVM,Muenchen,,Germany,Peer,1,439.80000,262851,DMR-plus,262851,1,,-9.400,DC5SL,TS1 TS2
+DB0TVM,Muenchen,Bayern,Germany,Peer,1,439.80000,262851,DMR-plus,262851,1,,-9.400,DC5SL,TS1 TS2
 DB0MIC,Muenchen,Bayern,Germany,Peer,1,439.52500,262852,DMR-DL,262852,1,,-7.600,DL8MFW,TS1 TS2
 DB0NJ,Muenchen,Bayern,Germany,Peer,1,439.43750,262853,BM,262853,1,,-7.600,DD5KI,TS1 TS2
 DB0MIO,Michelau,Bayern,Germany,Peer,1,438.70000,262854,BM,262854,1,,-7.600,DG2NBJ,TS1 TS2
@@ -4826,6 +4827,7 @@ VA3XDR,Oshawa,Ontario,Canada,Peer,6,146.72000,302466,Brandmeister,302466,1,None,
 VA6KE,Clive,Alberta,Canada,Peer,1,147.39000,302467,Still Learning and setting up,302467,1,,+0.600,VA6KE,TS1
 VE2RFH,LEVIS,Quebec,Canada,Peer,7,449.92500,302468,Brandmeister,302468,1,None,-5.000,VE2XJP,TS1 TS2
 VA2TIQ,TROIS RIVIERES,Quebec,Canada,Peer,1,442.30000,302469,Brandmaster,302469,1,None,+5.000,VE2EM,TS1 TS2
+VA3DVI,Ballantrae,Ontario,Canada,Peer,1,145.17000,302470,BM,302470,1,None,-0.600,VA3UV,TS1 TS2
 VE5DMR,Swift Current,Saskatchewan,Canada,None,1,443.00000,302501,DMR-MARC Canada,302501,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada<br>Time Slot #1 - Group Call 310 = TAC310<br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba<br>Time Slot #2 - Group Call 3026 = Alberta<br>Time Slot #2 - Group Call 3029 = New Brunswick<br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE5EN<br>Contact email: ve5en@shaw.com,+5.000,VE5EN,TS1 TS2
 VE6VPR,Edmonton,Alberta,Canada,Peer,1,440.80000,302600,DMR-MARC Canada,302600,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE6AEW<br>Contact email:,+5.000,VE6AEW,TS1 TS2
 VE6RYC,Calgary,Alberta,Canada,Master,1,444.00000,302601,DMR-MARC Canada,302601,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: Doug Howard, VE6CID<br>Contact email:ve6cid@me.com",+5.000,VE6CID,TS1 TS2
@@ -9339,6 +9341,7 @@ KD2UQK,Deer Park,New York,United States,Peer,1,444.57500,314786,BM,314786,1,,+5.
 AE0F,Farmington,Minnesota,United States,Peer,13,443.50000,314788,NOYB,314788,1,,+5.000,AE0F,Mixed Mode
 N3OCQ,Herndon,Virginia,United States,Master,1,447.35000,314789,BM,314789,1,,-5.0,N3OCQ,TS1 TS2
 KK7CBO,Springville,Utah,United States,Master,1,449.25000,314790,DMR,314790,1,,-5.0,KK7CBO,Mixed Mode
+W9LY,Michigan City,Indiana,United States,Master,1,146.97000,314791,BM,314791,1,LPCARC DMR Talk Group,-0.600,AC9HO,TS1
 WR3IRS,Bucktown,Pennsylvania,United States,Peer,1,445.08125,314792,Interstate,314792,1,Currently operating standalone - connection to Interstate system forthcoming.,-5.000,WN3A,TS1 TS2
 N3MRG,Salisbury,Maryland,United States,Master,6,442.65000,314793,Interstate,314793,1,Delmarvadmr.com,+5.000,N3HSK,TS1 TS2
 NH7TR,San Antonio,Texas,United States,Master,1,446.30500,314794,BM,314794,1,,-5.000,NH7TR,TS2
@@ -9675,6 +9678,7 @@ KM4WUD,Florida,Florida,United States,Master,0,439.00000,315151,MotoDMR,315151,1,
 W8OAK,Pontiac,Michigan,United States,Peer,1,444.46250,315152,standalone,315152,1,"1: 63ARPSC1, TGID: 8901, TS: 1<br>2: 63ARPSC2, TGID: 8902, TS: 2",+5.000,KD8ATK,TS1 TS2
 KM4WUD,Florida,Florida,United States,Master,0,444.00000,315153,MotoDMR,315153,1,,+5.000,KD2KWD,TS1 TS2
 KM4WUD,Athens,New York,United States,Master,0,442.57500,315154,MotoDMR,315154,1,Time Slot: 1<br>Group Call: 1 = Worldwide (PTT)<br>Group Call: 3 = North America (PTT)<br>Group Call: 93 = BM-North America (PTT)<br>Group Call: 113 = UA English 1 (PTT)<br>Group Call: 310 = TAC-310 (PTT)<br>Group Call: 311 = TAC-311 (PTT)<br>Group Call: 312 = TAC-312 (PTT)<br>Group Call: 333 = NY-Metro TAC (PTT)<br>Group Call: 3100 = Bridge-3100 (ON)<br>Group Call: 3134 = NJ Statewide (PTT)<br>Group Call: 3136 = NY Statewide (ON)<br>Group Call: 3172 = Northeast Region (PTT)<br>Group Call: 31361 = Upstate NY (ON)<br>Group Call: 9998 = DMRX Parrot (PTT)<br><br>Time Slot: 2<br>Group Call: 9 = Local Repeater<br>Group Call: 123 = UA English 2 (PTT)<br>Group Call: 444 = NY-Metro (ON)<br>Group Call: 31342 = North Jersey? (PTT)<br>Group Call: 31360 = Tri-State (PTT)<br><br>Website: http://motodmr.net/repeaters/athens-ny/,+5.000,KD2KWD,TS1 TS2
+N5GMJ,Springtown,Texas,United States,Master,1,444.55000,315155,Brandmeister/C-Bridge,315155,1,None,+5.000,N5GMJ,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,3,145.21000,315301,PNWDigital,315301,0,"Time Slot #1- Group Call 3153 = Washington Statewide 1<br>Time Slot #1- Group Call 3191 = Cascades 1<br><br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: http://www.pnwdigital.net",+2.78,NO7RF,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,0,433.15000,315302,NO7RF,315302,0,Demo/Testing,+16.000,NO7RF,TS1 TS2
 WA7DMR,Couer d Alene,Idaho,United States,Peer,1,440.92500,315303,PNWDigital,315303,1,"Time Slot #1- Group Call 3116 = Idaho Statewide 1<br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: https://pnwdigital.net",+5.000,NO7RF,TS1 TS2
@@ -10997,7 +11001,6 @@ LU8AQL,Buenos Aires,Buenos Aires,Argentina Republic,Master,1,433.50000,722028,BM
 LU8DRH,Bahia Blanca,Buenos Aires,Argentina Republic,Master,1,434.50000,722029,BM,722029,1,TG72212,+5.0000,LU8DRH,TS1 TS2
 LU4AE,Villa Del Parque,Caba,Argentina Republic,Master,1,434.67000,722030,BRANDMEISTER,722030,1,,+5.000,LU4AE,TS1 TS2
 LU2CSG,Capital Federal,Ciudad de Buenos Aires,Argentina Republic,Master,1,146.78000,722031,BM,722031,1,,-0.600,LU2CSG,TS1 TS2
-LU9XRL,Ushuaia,Tierra del Fuego,Argentina Republic,Peer,1,433.50000,722032,BM,722032,1,,+5.000,LU9XRL,TS1 TS2
 LU5FB,Alvarez,Santa Fe,Argentina Republic,Master,1,434.75000,722033,BrandMeister,722033,1,,+5.000,"LU2FM, LU5FB",TS1 TS2
 LU5FB,Rosario,Santa Fe,Argentina Republic,Master,1,434.97500,722034,BrandMeister,722034,1,"TS1=7222 (LOCAL ROSARIO), TS2=7229 (ARG ROOM)",+5.000,"LU2FM, LU5FB",TS1 TS2
 LW6DMG,La Plata,Buenos Aires,Argentina Republic,Master,1,145.30000,722035,BM,722035,1,,-0.600,LW6DMG,TS1 TS2
@@ -11341,8 +11344,10 @@ CE3LWU,Santiago De Chile,Reg.Metr. de Santiago,Chile,Master,1,145.40000,730011,D
 CE3LWU,Santiago De Chile,Reg.Metr. de Santiago,Chile,Master,1,431.00000,730012,DMR,730012,1,,+7.6000,CE3LWU,TS1 TS2
 CE6TC,Temuco,La Araucania,Chile,Temuco,1,147.27000,730013,Brandmeister,730013,0,,+0.600,CE6TC,TS1 TS2
 CE4PKZ,Lolol,Reg.Metr. de Santiago,Chile,Master,1,434.10000,730014,BrandMeister,730014,1,TG-LOLOL,+5.000,CE4PKZ,Mixed Mode
+CE4RSF,Colchagua,O'Higgins,Chile,Peer,0,434.98000,730015,BM_Chile_7301,730015,1,None,+5.000,CE4RSF,Mixed Mode
 CE6TC,Temuco,La Araucania,Chile,Temuco,1,146.61000,730016,Brandmeister,730016,0,,-0.600,CE6TC,TS1 TS2
 CE6TC,Temuco,La Araucania,Chile,Temuco,1,146.94000,730017,Brandmeister,730017,0,,-0.600,CE6TC,TS1 TS2
+CE4PKZ,LOLOL,O'Higgins,Chile,Peer,1,439.45000,730020,BM_Chile_7301,730020,1,None,-5.000,CE4PKZ,Mixed Mode
 CE4RSF,Colchagua,Reg.Metr. de Santiago,Chile,Master,1,146.88000,730021,BM_Chile_7301,730021,1,,-0.600,CE4RSF,TS1 TS2
 CE6RLA,Padre Las Casas,La Araucania,Chile,Peer,1,146.73000,730022,BrandMeister,730022,1,,-0.600,CE6RLA,TS1 TS2
 CE2CRO,Ovalle,Coquimbo,Chile,Peer,1,147.15000,730023,BrandMeister,730023,1,TG730         CHILE NACIONAL<br>TG7302       CHILE ZONA 2<br>TG730911    CHILE EMERGENCIAS<br>TG97            LATINOAMERICA<br>TG914911     EMERGENCIA LATINOAMERICA,+0.600,CE2SCP,TS1 TS2
