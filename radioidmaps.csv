@@ -931,9 +931,9 @@ IR0DR,Roma Monte Cavo,Lazio / Umbria / Sardinia,Italy,Peer,1,430.40000,DMR-Marc,
 IR0EF,Perugia,,Italy,,1,430.76250,BM,43.108589,12.388603,222011,,5.000,ACTIVE,IW0QMN,TS1 TS2
 IR0UFZ,M. Orlando - Gaeta,,Italy,,1,430.45000,BM,41.207230,13.576184,222012,,5.000,ACTIVE,IW0CPK,TS1 TS2
 IR0AAC,Bettona,Lazio / Umbria / Sardinia,Italy,Peer,1,431.53750,HamThings,43.013614,12.4847565,222013,,1.600,ACTIVE,IW0RED,TS1 TS2
-IR0UGF,Assisi,,Italy,,1,431.43750,DMR-plus,43.0711952,12.6146669,222014,,1.600,ACTIVE,IW0RED,TS1 TS2
+IR0UGF,Assisi,Lazio / Umbria / Sardinia,Italy,Peer,1,431.43750,DMR-plus,43.0711952,12.6146669,222014,,1.600,ACTIVE,IW0RED,TS1 TS2
 IR0UAJ,ROMA,Lazio / Umbria / Sardinia,Italy,Peer,1,430.72500,BM,41.75083,12.71,222015,,5.000,ACTIVE,IW0HRF,TS1 TS2
-IR0CQ,Assisi,,Italy,,1,145.57500,DMR-plus,43.0711952,12.6146669,222016,,-0.600,ACTIVE,IW0RED,TS1 TS2
+IR0CQ,monte peglia,Lazio / Umbria / Sardinia,Italy,Peer,1,145.57500,DMR-plus,43.0711952,12.6146669,222016,,-0.600,ACTIVE,IW0RED,TS1 TS2
 IR6UDP,Pescara,,Italy,Peer,1,430.55000,BM,42.319232,14.454044,222018,,+5.000,ACTIVE,IR6UDP,TS1 TS2
 IZ0ETE,Poggio Mirteto,,Italy,,1,430.88750,DMR-plus,,,222019,,5.000,ACTIVE,IZ0ETE,TS1 TS2
 IK0HKA,M.te Cassino,,Italy,Peer,1,430.40000,BM,41.488155,13.811771,222020,,5.000,ACTIVE,IZ0ZIP,TS1 TS2
@@ -984,8 +984,8 @@ IR0UIX,GENNAGONNESA,,Italy,,1,430.93750,None,39.22105,8.47101,222067,,5.000,ACTI
 IW0RQJ,Assisi,Lazio / Umbria / Sardinia,Italy,Master,1,430.93750,BM,43.037550,12.625540,222068,,+5.000,ACTIVE,IW0RQJ,TS1 TS2
 IR0UAS,pettino,Lazio / Umbria / Sardinia,Italy,Peer,1,430.23750,HamThings,42.8613470,12.7987180,222069,,1.600,ACTIVE,IW0RED,TS1 TS2
 IR0AY,Assisi,Lazio / Umbria / Sardinia,Italy,Peer,1,431.43750,HamThings,43.0711952,12.6146669,222070,,1.600,ACTIVE,IW0RED,TS1 TS2
-IR0UFQ,Giano dellUmbria,,Italy,,1,430.68750,BrandMeister,42.8334672,12.5777111,222071,,5.000,ACTIVE,IW0RED,
-IR0UGG,Assisi,,Italy,,1,430.23750,DMR-plus,,,222072,,1.600,ACTIVE,IW0RED,
+IR0UFQ,Assisi,Lazio / Umbria / Sardinia,Italy,Peer,1,430.68750,BrandMeister,42.8334672,12.5777111,222071,,5.000,ACTIVE,IW0RED,TS1 TS2
+IR0UGG,Giano dell'umbria,Lazio / Umbria / Sardinia,Italy,Peer,1,430.23750,DMR-plus,43.0711952,12.7987180,222072,,1.600,ACTIVE,IW0RED,TS1 TS2
 IR3ZZW,Paularo,Veneto / Trentino-AA / Friuli-VG,Italy,Master,2,430.83750,BM,46.49750000,13.10083300,222073,,+5.000,ACTIVE,IV3NFC,TS1 TS2
 IR8ZZZ,POZZUOLI,Molise / Campania / Calabria,Italy,Master,1,431.37500,BM,40.828631,14.1224047,222074,22451,+1.600,ACTIVE,IU8JPO,TS1 TS2
 IR5ZYK,Momigno - PT,Tuscany,Italy,Master,1,430.57500,BM,43.97200,10.79865,222075,,+5.000,ACTIVE,IZ5IGB,TS1 TS2
@@ -1364,6 +1364,7 @@ IR0EI,Grutti di Gualdo Cattaneo,Lazio / Umbria / Sardinia,Italy,Peer,1,145.30000
 IR1UIM,Rapallo,Piedmont / Liguria / Aosta,Italy,Peer,1,430.33750,BM,44.3770070,9.2202970,222482,None,+1.600,ACTIVE,IZ1FHG,TS1 TS2
 IR8UDG,Monte Calvello,Apulia / Basilicata,Italy,Peer,1,430.05000,HamThings,40.8902780,15.8063890,222483,None,+1.600,ACTIVE,IU6SSZ,TS1 TS2
 IR8UDK,lamezia terme,Molise / Campania / Calabria,Italy,Peer,1,430.50000,ycs222,38.3700000,16.0100000,222484,None,+5.000,ACTIVE,IZ8UZK,Mixed Mode
+IR0UP,Perugia,Lazio / Umbria / Sardinia,Italy,Peer,0,430.15000,HamThings,43.1006670,12.3958330,222485,None,1.600,ACTIVE,IW0RED,Mixed Mode
 IR1ED,Rapallo,Piedmont / Liguria / Aosta,Italy,Peer,1,145.75000,BM,44.3708640,9.2592430,222486,None,-0.600,ACTIVE,IZ1FHG,TS1 TS2
 IR9ZZW,Caltanissetta,Sicily,Italy,Peer,1,430.91250,Brandmeister,37.4876960,14.0164230,222487,None,+5.000,ACTIVE,IT9AOI,Mixed Mode
 IR3TST,Trieste,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.32500,Brandmeister,45.6314958,13.8170749,222488,None,5.000,ACTIVE,IV3JDV,TS1 TS2
@@ -1776,7 +1777,6 @@ OM0OAE,Zilina Hradisko,Banskobystricky / Zilinsky,Slovakia,Master,1,438.92500,BM
 OM0ODZ,Zvolen,,Slovakia,,1,438.40000,BM,48.579659,19.151115,231320,,-7.600,ACTIVE,OM7ASX,TS1 TS2
 OM0OUL,Lucenec JN98TI,,Slovakia,,1,438.97500,DMR-plus,48.328442,19.690701,231330,,-7.600,ACTIVE,OM7PY,TS1 TS2
 OM0OUH,Vartovka,Banskobystricky / Zilinsky,Slovakia,Master,1,439.27500,BrandMeister,,,231333,,-7.600,ACTIVE,OM7TW,TS1 TS2
-OM0ODM,Kosice,Kosicky / Presovsky,Slovakia,Peer,1,438.22500,BM,48.71372,21.23346,231401,,-7.600,ACTIVE,OM8KT,Mixed Mode
 OM0ODP,Vysne Hagy,Kosicky / Presovsky,Slovakia,Peer,1,438.27500,BM,49.1147700,20.1268900,231404,,-7.600,ACTIVE,OM3WIM,TS1 TS2
 OM0ODK,Kojsovska hola,Kosicky / Presovsky,Slovakia,Master,1,438.25000,BM,48.782131,20.987949,231405,,-7.600,ACTIVE,OM8KT,Mixed Mode
 OE9XXH,Hard,Vorarlberg,Austria,Peer,1,438.46250,DMR+,47.4831170,9.7018570,232001,"22828,228,20,2280,2320,2329",-7.600,ACTIVE,HB9SDB,TS1 TS2
@@ -2947,7 +2947,7 @@ UR0DMU,Mukachevo,,Ukraine,Peer,1,438.72500,BM,48.42031,22.75664,255009,Pavlova m
 UR0DUI,Rahiv,,Ukraine,Peer,1,438.75000,BM,48.10845,24.20723,255010,"DMR  Terentin mauntain 1348 m DMR Sponsored by UR7D Team! https://ur7d.org/ <br>Other repeaters:  <br>FM 438.850 Mhz (-7.6) RX tone 173.8 TX tone 173.8 **Connected to analog room 28606 (Uzghorod, Polonuna Runa, Rakhiv)",-7.600,ACTIVE,UZ5DU,TS1 TS2
 UR0DMM,Mobile,,Ukraine,Peer,1,438.87500,BM,0,0,255011,Mobile Repeater UR7D Team!,-7.600,ACTIVE,UZ5DU,TS1 TS2
 UR0FUN,Odessa,,Ukraine,Peer,1,438.80000,BM,46.48669,30.27058,255012,,-7.600,ACTIVE,UZ5DU,TS1 TS2
-UR0FYG,Odessa,,Ukraine,Master,1,439.07500,BM,46.57776,30.80133,255013,"TS1 - TG25578 (QRZ Odesa, Club TG)<br>TS2 - TG25516 (Odessa), TG2555 (Ukraine)",-7.600,ACTIVE,UR5FYG,TS1 TS2
+UR0FYG,Odessa,All Regions,Ukraine,Master,1,439.07500,BM,46.57776,30.80133,255013,"TS1 - TG25578 (QRZ Odesa, Club TG)<br>TS2 - TG25516 (Odessa), TG2555 (Ukraine)",-7.600,ACTIVE,UR5FYG,TS1 TS2
 UR0UUP,Kyiv,,Ukraine,Peer,1,439.10000,BM,50.45740516470295,30.388125343587227,255014,,-7.600,ACTIVE,UZ5DU,TS1 TS2
 UR0TTX,Netishyn,All Regions,Ukraine,Master,1,438.20000,"BM, TGIF Network",50.346338822225576,26.64918382938176,255015,PSC Network: BM - Color Code:1 - Assigned: - TS Linked:TS1 TS2 - Operator: UR5TNF<br>Time Slot #1Group Call 9 = Local<br>Time Slot #2 Group Call =  2555,-7.6,ACTIVE,UR5TNF,TS1 TS2
 UR0UUJ,Kyiv,,Ukraine,Master,1,439.02500,BM,50.42609340545272,30.492026302325197,255016,"R-85 Kyiv<br>25501, 255, TG 9",-7.6,ACTIVE,UT3USZ,Mixed Mode
@@ -3051,6 +3051,7 @@ SR2GG,Szubin,kujawsko-pomorskie,Poland,Master,12,439.90000,BM,53.016102,17.76260
 SR9GLC,Gliwice,śląskie,Poland,Master,1,439.22500,Bramdmeister,50.298169,18.672607,260052,260,-7.600,ACTIVE,SP9GWP,TS1 TS2
 SR3OW,Ostrow Wlkp,wielkopolskie,Poland,Peer,1,439.05000,Bramdmeister,51.651207,17.82143,260053,,-7.600,ACTIVE,SP3OW,TS1 TS2
 SR8LBT,Lublin,lubelskie,Poland,Master,1,430.10000,"TetraPack, BM",51.235066,22.522841,260054,,+1.6,ACTIVE,SQ8MXP,Mixed Mode
+SR1WR,Ryman,zachodniopomorskie,Poland,Master,1,438.68750,Brandmeister,53.936667,15.540000,260055,,-7.600,ACTIVE,SP1WR,TS1 TS2
 SR9SR,Rybnik,śląskie,Poland,Peer,1,438.48750,BM,50.086691,18.553804,260056,WiP,-7.600,ACTIVE,"SP9KJT, SP9ALX",TS1 TS2
 SR9OKO,Strzybnik,śląskie,Poland,Peer,1,438.80000,260,50.1265569,18.16116712614024,260057,26098<br>26063<br>9,-7.600,ACTIVE,SP9PRR,TS1 TS2
 SR8ALA,Blizne,podkarpackie,Poland,Master,1,439.47500,BM,49.81492,21.99291,260058,Slot 1 TG260  Slot 2 TG26085,-7.600,ACTIVE,SP8SMA,TS1 TS2
@@ -4013,6 +4014,7 @@ CQ0DSB,Serra Bornes,Regiao Norte,Portugal,Peer,1,438.37500,BM,41.43407,-7.00692,
 CQ0EAML,Pontinha,Regiao de Lisboa,Portugal,Master,1,438.17500,TetraPack,38.7705117,-9.1953552,268010,,-7.6,ACTIVE,"CS7ATL, CT2HEW, CT7AJM",Mixed Mode
 CQ0DMT,Lisboa,Regiao de Lisboa,Portugal,Peer,1,438.38750,BM,38.734,-9.1896,268011,,-7.600,ACTIVE,CT7AFY,TS1 TS2
 CQ0DARS,Aveiro,Regiao Norte,Portugal,Peer,1,438.57500,BM,40.78771,-8.3582,268012,,-7.6,ACTIVE,CT2GNH,TS1 TS2
+CQ0DAM,Amarante,Regiao Norte,Portugal,Peer,1,438.22500,DMR-plus,41.2231,-8.0256,268101,,-7.600,ACTIVE,CT2HMR,TS1 TS2
 CQ0DBO,Chaves,Regiao Norte,Portugal,Peer,1,438.40000,BM,41.6978,-7.4378,268102,"Slot2 TG 2, TG 8 (clusters)",-7.600,ACTIVE,CT1DQV,TS1 TS2
 CQ0DBA,Baltar,Regiao Norte,Portugal,Peer,1,438.32500,BM,39.6197269,-8.7828781,268103,,-7.600,ACTIVE,"CT2IXP, CT2JCL",TS1 TS2
 CQ0DGM,Gondomar,,Portugal,,1,438.25000,BrandMeister,41.142151,-8.536241,268104,,-7.600,ACTIVE,CT2GNC,
@@ -4435,7 +4437,7 @@ VE2REO,Gore,Quebec,Canada,Peer,1,446.87500,brandmeister,46.290421,-73.034676,302
 VE7NHR,Nanaimo,British Columbia,Canada,Peer,1,440.82500,BCTRBO,0.0,0.0,302058,,+5.000,ACTIVE,VE7KCY,TS1 TS2
 VE2RYZ,St-Tite,Quebec,Canada,100,7,443.12500,DMR Marc,46.794788,-72.627312,302059,,+5.000,ACTIVE,VE2JTR,Dynamic
 VE3PPU,Straffordville,Ontario,Canada,Peer,1,443.27500,Brandmeister,42.4458762,-80.4641642,302060,,+5.0000,ACTIVE,VE3PPO,TS1 TS2
-VE2XDF,Westmount,Quebec,Canada,Peer,1,927.13750,BrandMeister,45.484322,-73.615440,302061,,-25,ACTIVE,VE2DF,1 / 2
+VE2XDF,Westmount,Quebec,Canada,Peer,1,927.13750,BrandMeister,45.484322,-73.615440,302061,,-25,ACTIVE,VE2DF,TS1 TS2
 VA3BDR,Brockville,Ontario,Canada,Master,1,442.10000,BM,44.589500,-75.684303,302062,,+5.000,ACTIVE,VA3SPM,TS1 TS2
 VE2CTI,Saint Raymond,Quebec,Canada,Peer,5,450.01220,Brandmeister,46.879631,-71.833022,302063,3021,+5,ACTIVE,VE2CTI,2
 VE3STP,Renfrew,Ontario,Canada,Peer,1,443.60000,BrandMeister,45.314690,-76.895119,302064,,+5.0000,ACTIVE,VE3EFF,TS1 TS2
@@ -4784,7 +4786,7 @@ VE3UKC,Ballantrae,Ontario,Canada,Master,1,444.30000,BM,44.04872222222222,-79.296
 VE3ZRB,Milton,Ontario,Canada,Master,1,443.95000,BM,43.477611111111116,-79.91652777777779,302427,,+5.000,ACTIVE,VE3BNI,Mixed Mode
 VE3YXU,Ingersoll,Ontario,Canada,Peer,1,445.60000,BM,43.037235,-80.867990,302428,"local  TG2 andTG9<br>will connect with VE3STR 302277 DMR TG2,<br>110 feet omni antenna  6.5 dbi gain<br>35 watts output",-5.000,ACTIVE,"VE3NRJ, VE3NEM",TS1 TS2
 VE3SKY,Etobicoke,Ontario,Canada,Peer,1,443.10000,BM,43.644458,-79.523261,302429,,+5.000,ACTIVE,VE3GFX,Mixed Mode
-VE3EUC,Alma,Ontario,Canada,Peer,1,444.53750,BM,43.729572,-80.5025570,302430,TG for Elmira Radio Club TBD,+5.000,ACTIVE,VE3ERC,TS1 TS2
+VE3EUC,Alma,Ontario,Canada,Peer,1,444.53750,BM,43.729572,-80.5025570,302430,TG for Elmira Radio Club 302430,+5.000,ACTIVE,VE3ERC,TS1 TS2
 VE9ARC,Moncton,New Brunswick,Canada,Peer,1,147.19500,RXP25,46.162906,-64.879288,302431,,+0.600,ACTIVE,VE9HV,TS1
 VE7USA,Victoria,British Columbia,Canada,Peer,1,444.25000,dmr-marc,48.42366,-123.5169,302432,,+5.00,ACTIVE,VE7BEU,TS1 TS2
 VA7KJL,Cranbrook,British Columbia,Canada,Master,1,443.75000,DMR,49.605744,-115.85002,302433,,+5.000,ACTIVE,VA7KJL,TS1
@@ -7855,9 +7857,7 @@ KB7SJZ,Elko,Nevada,United States,Peer,1,442.40000,BrandMeister,40.8324211,-115.7
 KB7SJZ,Elko,Nevada,United States,Peer,1,442.47500,BrandMeister,40.7825703,-115.65028670000001,313203,,+5.000,ACTIVE,KB7SJZ,TS1 TS2
 NX7R,BLK MTN Henderson NV,Nevada,United States,Peer,15,448.62500,Brandmeister,36.007599,-115.007706,313204,NX7R Repeater - Black Mountain<br>448.6250 mhz -5mhz offset<br>CC-15 / Timeslots 1 & 2 <br>Analog DPL / DCS code N754<br>25w output Hytera RD622,-5.000,ACTIVE,NX7R,TS1 TS2
 NX7R,Concho Az,Arizona,United States,Peer,1,449.62500,BrandMeister,34.395798,-109.596909,313205,NX7R Repeater-2  Concho Az.<br>449.6250 mhz -5mhz offset<br>CC-15 / Timeslots 1 & 2<br>Analog DPL / DCS code N754<br>25w output Hytera RD622,-5.000,ACTIVE,NX7R,TS1 TS2
-WB9STH,Las Vegas,Nevada,United States,Peer,15,448.45000,SF-TRBO,36.0715964,-115.29520470000001,313206,"TG 377215 Comm 1 on TS1 (Always ON)<br>TG 76225 SoCal on TS1 (PTT to turn ON for 5 min, then turns OFF)<br>TG 3176 Southwest Region on TS1 (PTT to turn ON for 5 min, then turns OFF)<br>TG 3115 Hawaii State on TS1 (PTT to turn ON for 10 min, then turns OFF)<br>TG 5150 is NorCal 5150 on TS1 (PTT to turn ON for 10 min, then turns OFF)<br>TG 3100 Bridge on TS1 (PTT to turn ON for 10 min, then turns OFF)<br>TG 3777216 Comm 2 on TS2 (PTT to turn ON for 5 minutes, then turns OFF)<br>TG 3 DMR North America on TS2 (PTT for 10 minutes, Turns ON Wednesday 6pm for 1 hr for Tech Net)<br>TG 1 DMR WW on TS2 (Turns on Saturdays 9am for WW Net for 1 hr and 10 minutes)<br>TG 310 TAC310 on TS2 (PTT to turn ON for 10 minutes) (Turns on Sundays at 5pm for TAC 310 Net for 1 hr)<br>TG 8900 Las Vegas Local on TS2 (Always ON, Turns OFF DMR NA when LV Local in use)<br>TG 9999 Audio Test on TS2 (PTT to turn ON for 5 min, then turns OFF)( http://www.norcaldmr.org/listen-now/index.html)<br>TG 9998 Parrot on TS2 (PTT to turn ON for 5 min, then turns OFF)(Will playback your audio)<br>Contact Name: Dennis Lee<br>Email: katonk@comcast.net",-5.000,ACTIVE,WB9STH,TS1 TS2
 KG7SS,Las Vegas,Nevada,United States,Master,15,447.30000,Stand alone,36.1699412,-115.1398296,313207,8900 Local non-networked,-5.000,ACTIVE,KG7SS,Mixed Mode
-WB9STH,Las Vegas,Nevada,United States,Master,15,448.97500,SF TRBO,36.1699412,-115.1398296,313208,,-5.000,ACTIVE,WB9STH,TS1 TS2
 NX7R,Red Mtn Boulder City Nv,Nevada,United States,Peer,15,449.62500,BrandMeister,35.995461,-114.863823,313209,NX7R Repeater - Red Mountain<br>449.6250 mhz -5mhz offset<br>CC-15 / Timeslots 1 & 2 <br>Analog DPL / DCS code N754<br>25w output Hytera RD622,-5.000,ACTIVE,NX7R,TS1 TS2
 W7TA,Reno,Nevada,United States,Master,1,444.92500,SNARS DMR,39.5209923,-119.9047852,313210,Timeslot 2 - 31328 - SNARS - Reno/Tahoe<br>Timeslot 1 - 31329 - SNARS 2<br>Timeslot 1 - 3132 - Nevada,+5.000,ACTIVE,W7TA,TS1 TS2
 W7TA,Virginia City,Nevada,United States,Master,1,444.82500,SNARS DMR,39.3090658,-119.6632575,313211,Timeslot 2 - 31328 - SNARS - Reno/Tahoe<br>Timeslot 1 - 31329 - SNARS 2<br>Timeslot 1 - 3132 - Nevada,+5.000,ACTIVE,W7TA,TS1 TS2
@@ -8998,7 +8998,6 @@ W9LAG,Milwaukee,Wisconsin,United States,Peer,1,442.05000,DMR-MARC,42.997797,-87.
 KH7MS,Ocean view,Hawaii,United States,Peer,1,444.95000,BrandMeister,19.094498,-155.756092,314428,Static Talkgroups:<br>TG 311551 Hawaii TAC 1 TS 1<br>TG 31153 Hawaii County TS 1<br>TG 310745 Hawaii Tech Net TS 1,+5.000,ACTIVE,KH7MS,TS1 TS2
 K3IR,MANHEIM,Pennsylvania,United States,Peer,1,449.97500,"Interstate DMR,BM,TGIF",40.166339,-76.455313,314429,,-5.000,ACTIVE,K3IR,TS1 TS2
 N2CUE,Longs,South Carolina,United States,Peer,1,147.57000,Dmr Marc,33.856488,-78.758174,314430,,+2.0,ACTIVE,N2CUE,TS1 TS2
-WX4MEM,Memphis,Tennessee,United States,Peer,1,441.00000,BM,35.1294,-89.8031,314431,,+5.000,ACTIVE,WX4MEM,TS1 TS2
 NI5A,Jonesboro,Arkansas,United States,Master,1,443.82500,BM,35.874822,-90.618536,314432,,+5.000,ACTIVE,NI5A,TS1 TS2
 KK4UKC,Palm City,Florida,United States,Master,7,444.97500,DMR-MARC,27.12959471341951,-80.21874858246542,314433,System to be delpoyed shortly,+5.000,ACTIVE,KK4UKC,TS1 TS2
 K2VIZ,Topping,Virginia,United States,Master,1,440.62500,DMRVA,37.6081,-76.4655,314434,DMRVA.org talkgroup profile,+5.00,ACTIVE,K2VIZ,TS1 TS2
@@ -10753,7 +10752,6 @@ E24DH,Ranong,Ranong,Thailand,None,1,146.61250,internet,0.0,0.0,520007,,-0.600,AC
 E25CX,Muang,Ubon Ratchathani,Thailand,Master,1,145.73750,DMR-MARC,15,104,520008,,-0.000,ACTIVE,HS3SRS,TS1 TS2
 E25FE,Muang Pathum Thani,Pathum Thani,Thailand,Master,1,145.55000,BrandMeister,13.9631790,100.5843820,520010,status: Operation<br>Call sign: E25FE<br>Keeper: E23PKK<br>Mode: Digital Voice<br>Frequency: V74 - 145.5500 MHz<br>CTCSS Tone: -<br>Locator: OK03HK,0.00,ACTIVE,E23PKK,TS1
 HS8JCV,Hatyai,Songkhla,Thailand,Master,1,146.61250,BrandMeister,7.038217,100.518794,520011,Songkhla Thailand DMR Repeater<br>Thailand Talkgroup (TG520)<br>Power by DTDXA,-0.600,ACTIVE,HS8JCV,TS1 TS2
-HS1SXI,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,Thailand,Peer,1,145.55000,BrandMeister,14,100,520012,,-0.0000,ACTIVE,HS1SXI,TS2
 HS5XDJ,Thailand,Chiang Mai,Thailand,Master,1,443.60000,DMR,18.862025,99.035164,520013,,+5.0,ACTIVE,HS5XDJ,Mixed Mode
 E24EZ,Bang Kruai,Nonthaburi,Thailand,Master,1,146.02500,BrandMeister,13.823124,100.459129,520014,,+0.600,ACTIVE,HS0AC,TS1 TS2
 HS0AC,Bang Kruai,Nonthaburi,Thailand,Peer,1,146.02500,BrandMeister,13.822273393375964,100.45929754283755,520015,,+0.600,ACTIVE,HS0AC,TS1 TS2
