@@ -297,10 +297,10 @@ ON0VBT,Asse,Vlaams Brabant,Belgium,Peer,1,430.37500,206019,BM,206019,1,,+1.600,O
 ON0HAS,Hasselt,Limburg,Belgium,Master,1,439.41250,206020,BM,206020,1,,-7.600,ON4ABR,TS1 TS2
 ON0VTI,Tielt,West-Vlaanderen,Belgium,Peer,1,439.47500,206021,BM,206021,1,,-7.6,ON4AAK,TS1 TS2
 ON0BTS,Wavre,Wal. Brabant,Belgium,Peer,2,438.75000,206022,BM,206022,1,,-7.600,ON4LBO,TS1 TS2
-ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,1,438.67500,206023,BM,206023,1,206 2066,-7.600,ON7ASZ,TS1 TS2
-ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,2,439.30000,206024,BM,206024,1,Sloten TG1 TG2,-7.600,ON7ASZ,TS1 TS2
+OO7D,Lede,Oost-Vlaanderen,Belgium,Master,1,438.67500,206023,BM,206023,1,206 2066,-7.600,ON7ASZ,TS1 TS2
+OO7D,Lede,Oost-Vlaanderen,Belgium,Master,2,439.30000,206024,BM,206024,1,Sloten TG1 TG2,-7.600,ON7ASZ,TS1 TS2
 ON0MSF,Ixelles,Brussels,Belgium,Master,2,439.27500,206025,BM,206025,1,,-7.6000,ON6RF,TS1 TS2
-ON0LEE,Lede,Oost-Vlaanderen,Belgium,Master,2,439.30000,206026,BM,206026,1,TG1 en TG2,-7.600,ON7ASZ,TS1 TS2
+OO7D,Lede,Oost-Vlaanderen,Belgium,Master,2,439.30000,206026,BM,206026,1,TG1 en TG2,-7.600,ON7ASZ,TS1 TS2
 ON0DV,Eupen,Liege,Belgium,Peer,1,439.30000,206027,Brandmeister,206027,1,None,-7.600,ON4LFE,TS1 TS2
 ON0UHF,Oostduinkerke,West-Vlaanderen,Belgium,Master,1,145.63750,206028,Brandmeister,206028,1,None,-0.600,"ON4AIM, ON6UHF",TS1 TS2
 ON0AA,Oostkamp,West-Vlaanderen,Belgium,Master,1,439.00000,206029,Brandmeister,206029,1,None,-7.600,ON4AAK,TS1 TS2
@@ -462,6 +462,7 @@ F6ZEW,MAXEVILLE,Grand Est,France,Master,1,439.40000,208113,BM,208113,1,Aucun,-7.
 F6ZFD,VILLAZ,Auvergne-Rhone-Alpes,France,Master,1,438.57500,208114,IPSC2-FRANCE 3,208114,1,None,7.600,F4FYF,TS1 TS2
 F6ZFF,Paris,Ile-de-France,France,Master,1,439.00000,208115,TETRAPACK,208115,1,None,-7.600,"F4IEY, F4IQN, F1OXM",Mixed Mode
 F4KOL,Toulouse,Occitanie,France,Master,0,439.82500,208116,Brandmeister,208116,1,sysop F5TMJ,-9.400,"F4KOL, F5TMJ",TS2
+F6ZHF,Chatenay-Malabry,Ile-de-France,France,Peer,1,430.12500,208117,Brandmeister,208117,1,None,+9.400,F1IUQ,TS1 TS2
 F1ZSU,Aspremont,Ile-de-France,France,Master,1,430.42500,208119,BM,208119,1,,+9.400,F1BEH,TS1 TS2
 F1ZSX,VILLENEUVE-LOUBET,,France,,1,439.88750,208146,None,208146,1,,-9.400,F1ATB,
 F1ZAS,Saint Saturnin les Avignon,Provence-Alpes-Cote d Azur,France,Peer,1,439.65000,208157,DMR-plus,208157,1,,-9.400,F1VN,TS1 TS2
@@ -1714,7 +1715,6 @@ OK0MM,Kozlov,South Bohemian Region,Czech Republic,Master,1,145.62500,230008,BM,2
 OK0ZN,Znojmo,South Moravian Region,Czech Republic,Master,1,438.40000,230009,DMR,230009,1,OK0ZN  vtejte :) Znojmo JN88AU,-7.6,OK2ZNJ,TS1
 OK0DH,Hustopece,South Moravian Region,Czech Republic,Master,1,439.10000,230010,DMR C4FM Dstar,230010,1,230,-7.600,OK2GPS,Mixed Mode
 OK0RZJ,Strancice,Central Bohemian Region,Czech Republic,Peer,0,438.95000,230011,Brandmaister,230011,1,None,-7.600,OK1ALF,Mixed Mode
-OK0BCA,Lisci Hora,Hradec Kralove Region,Czech Republic,Master,1,438.87500,230012,JO70UQ,230012,1,None,-7.600,"OK1MX, OK1ALX",TS1 TS2
 OK0DBY,Praha 6,,Czech Republic,,1,439.32500,230101,Hytera,230101,1,,-7.600,OK1MDX,
 OK0BK,Kladno,Central Bohemian Region,Czech Republic,Master,1,439.00000,230102,BM,230102,1,,-7.600,OK1DSJ,TS1 TS2
 OK0POR,Vidovice,,Czech Republic,,1,439.48750,230103,BM,230103,0,,-7.600,OK1POR,TS1 TS2
@@ -1737,8 +1737,8 @@ OK0BPT,Libin Prachatice,South Bohemian Region,Czech Republic,Master,1,439.07500,
 OK0DPL,Plzen-Bory,,Czech Republic,,1,439.50000,230211,BrandMeister,230211,1,,-7.600,OK1JRA,
 OK0T,Hrad Doubravka,,Czech Republic,,1,438.80000,230301,None,230301,1,,-7.600,OK5DM,
 OK0BEA,Klasterec nad ohri,,Czech Republic,,1,439.21250,230302,None,230302,1,,-7.600,OK1ITE,
-OK0BCA,Lisci Hora,Hradec Kralove Region,Czech Republic,Master,1,438.87500,230401,BM,230401,1,,-7.600,OK1MX,TS1 TS2
-OK0DJ,Jested,Liberec Region,Czech Republic,Master,1,439.15000,230402,Brandmeister,230402,1,230402,-7.600,OK1ALX,TS1 TS2
+OK0BCA,Lisci Hora,Hradec Kralove Region,Czech Republic,Master,1,438.87500,230401,BrandMeister,230401,1,,-7.600,"OK1ALX, OK1MX",TS1 TS2
+OK0DJ,Jested,Liberec Region,Czech Republic,Master,1,439.15000,230402,BrandMeister,230402,1,230402,-7.600,OK1ALX,TS1 TS2
 OK0DAS,Snezka - Krkonose,,Czech Republic,,1,438.30000,230403,Hytera,230403,0,,-7.600,OK2JIB,
 OK0BBK,Turnov,,Czech Republic,,1,439.05000,230444,None,230444,1,,-7.600,OK1TPF,
 OK0Q,Zandov,,Czech Republic,,0,431.77500,230501,BM,230501,1,,7.600,OK1FWG,TS1 TS2
@@ -3408,7 +3408,7 @@ DB0MAD,Mannheim,Baden-Wuerttemberg,Germany,Peer,1,438.47500,262182,BM,262182,1,,
 DO0SDL,Stendal,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Master,0,439.06250,262183,FM-Funknetz.de,262183,1,"DO0SDL Relaisfunkstelle Stendal / Altmark mit anbindung an das FM-Funknetz, Locale TG 39576, Sachsen-Anhalt 26207.",-0.600,DO2FRK,TS2
 DO0SOB,Erwitte,Nordrhein-Westfalen,Germany,Master,1,439.36250,262184,BM,262184,1,,-7.6,DO2HKR,TS1 TS2
 DB0FSG,Langenbach,Bayern,Germany,Peer,1,439.93750,262186,BM,262186,1,"262,2628,9",-9.4,DL3NCU,TS1 TS2
-DB0IDS,Idstein,Hessen,Germany,Peer,1,438.41250,262187,BM,262187,1,,-7.600,DD2ZN,TS1 TS2
+DB0IDS,Idstein,Hessen,Germany,Peer,1,438.41250,262187,BM,262187,1,,-7.600,DH2KD,TS1 TS2
 DB0LOL,Loeningen,Niedersachsen / Bremen,Germany,Master,1,439.50000,262188,DMR,262188,0,,-7.600,DL1LOL,Mixed Mode
 DL3OCK,Berlin,Berlin / Brandenburg,Germany,Peer,1,438.62500,262189,BM,262189,1,Mobile Repeater for testing issues,-7.600,DL3OCK,TS1 TS2
 DB0LS,Lauchhammer,Berlin / Brandenburg,Germany,Master,1,438.22500,262190,"DMR+, YSF",262190,1,,-7.600,DG1FI,Mixed Mode
@@ -3671,7 +3671,6 @@ DB0DE,Kaarst,Nordrhein-Westfalen,Germany,,1,439.86250,262478,BM,262478,0,,-9.400
 DO0KVH,Kleve,Nordrhein-Westfalen,Germany,,2,439.40000,262479,BM,262479,1,,-7.600,DO1KVH,TS1 TS2
 DB0HI,Heiligenhaus,Nordrhein-Westfalen,Germany,Peer,1,439.11250,262480,DMR-MARC,262480,1,,-7.600,DF2ER,Mixed Mode
 DB0HI,Heiligenhaus,Nordrhein-Westfalen,Germany,Peer,1,439.41250,262481,BM,262481,0,,-7.600,DF2ER,Mixed Mode
-DB0HFD,Herford,Nordrhein-Westfalen,Germany,Master,1,439.01250,262482,BM,262482,1,,-7.600,DG9YIB,TS1 TS2
 DB0DRI,Bad Driburg Germany,Nordrhein-Westfalen,Germany,,1,438.43750,262483,DMR-plus,262483,1,,-7.600,DH4BS,TS1 TS2
 DB0HX,Hoexter Germany,Nordrhein-Westfalen,Germany,,1,439.81250,262484,DMR-plus,262484,1,,-9.400,DH4BS,TS1 TS2
 DB0DUX,Duesseldorf,Nordrhein-Westfalen,Germany,,1,438.30000,262486,BM,262486,1,,-7.600,DC4AB,TS1 TS2
@@ -3716,7 +3715,7 @@ DB0EW,Saarbruecken,,Germany,,1,439.52500,262588,DMR-plus,262588,1,,-7.600,DB7VM,
 DB0ZDF,Mainz,Rheinland-Pfalz / Saarland,Germany,Peer,1,439.30000,262592,BM,262592,0,,-7.600,DL1ITU,TS1 TS2
 DF0MOT,Gr.Feldberg/Ts.,,Germany,Master,1,438.20000,262600,BM,262600,1,,-7.600,DF6RK,TS1 TS2
 DF0MOT,Gr.Feldberg/Ts.,Hessen,Germany,,1,439.57500,262601,DMR-plus,262601,0,,-7.600,DF6RK,TS1 TS2
-DB0VA,Hohe Wurzel / Ts.,Hessen,Germany,,1,438.18750,262602,BM,262602,1,,-7.600,DF6RK,TS1 TS2
+DB0VA,Hohe Wurzel,Hessen,Germany,Peer,1,438.18750,262602,BM,262602,1,Relaisfunkstelle DB0VA auf der Hohen Wurzel b. Wiesbaden,-7.600,"DH2KD, DG3FBL, DL1XM",TS1 TS2
 DB0BVO,Steinau a.d.Strasse,Hessen,Germany,,1,438.40000,262603,DMR-plus,262603,1,,-7.600,DL7FN,TS1 TS2
 DB0MOT,Kl.Feldberg / Taunus,Hessen,Germany,,1,438.23750,262604,BM,262604,1,,-7.600,DF6RK,TS1 TS2
 DB0MOT,Kl.Feldberg / Taunus,Hessen,Germany,,1,439.43750,262605,None,262605,0,,-7.600,DF6RK,
@@ -4256,6 +4255,7 @@ YM3CKN,Canakkale,Marmara Region,Turkiye,Peer,1,439.27500,286069,BM,286069,1,None
 YM4KA,Antalya,,Turkiye,,1,439.20000,286070,BM,286070,1,,-7.600,TA4K,TS1 TS2
 YM4KAL,Alanya,,Turkiye,,1,145.61250,286071,BM,286071,1,,-0.600,TA4AKF,TS1 TS2
 YM3KCN,CANAKKALE,Marmara Region,Turkiye,Peer,1,439.26250,286072,BM,286072,1,None,-7.600,"TA3OER, TA3ONK, TA3OWL",TS1 TS2
+YM2KDB,KARAMURSEL,Marmara Region,Turkiye,Peer,2,439.37500,286073,BM,286073,1,None,-7.600,YM2KDB,TS1 TS2
 YM4KL,NAZILLI,,Turkiye,,1,439.20000,286092,None,286092,0,,-7.600,YM4KL,
 YM4KL,NAZILLI,,Turkiye,,1,439.20000,286093,None,286093,0,,-7.600,YM4KL,
 YM3KRM,Balkesir,,Turkiye,Master,1,439.16250,286101,BM,286101,1,,-7.600,TA3UYC,Mixed Mode
@@ -4519,7 +4519,7 @@ VE3RIG,Phelpston,Ontario,Canada,Peer,1,442.05000,302141,TGIF,302141,1,,+5.000,VE
 VE3XLX,Scarborough,Ontario,Canada,Master,1,443.38750,302142,BM,302142,1,,+5.000,VA3CZK,Mixed Mode
 VA3PMO,Mississauga,Ontario,Canada,Master,1,444.25000,302143,BM,302143,1,,+5.000,VA3UV,TS1 TS2
 VO1JY,Grand Falls-Windsor,Newfoundland,Canada,Master,5,444.25000,302144,BrandMeister,302144,1,,+5.000,VO1MXZ,TS1 TS2
-VE7CNC,Surrey,British Columbia,Canada,Peer,1,440.60000,302145,BC-TRBO,302145,1,DUMMY LOAD / TEST RPTR,+5.000,VE7KA,TS1 TS2
+VE7CNC,Richmond,British Columbia,Canada,Peer,1,440.60000,302145,BC-TRBO,302145,1,DUMMY LOAD / TEST RPTR,+5.000,VE7KA,TS1 TS2
 VE3LOW,Hamilton,Ontario,Canada,Master,1,443.83750,302146,DMR,302146,1,,+5.00,VA3ALU,TS1
 VE2RAG,Val-Belair,Quebec,Canada,Master,1,442.65000,302147,BM,302147,1,,+5.000,VE2ABC,TS1 TS2
 VE3XF,Stayner,Ontario,Canada,Master,1,442.00000,302148,BM,302148,1,Small fill in repeater.<br><br>302 Canada<br>,+5.00,VE3XF,Mixed Mode
@@ -6738,7 +6738,7 @@ WB0YRG,Mission - Stand By Rpt,Kansas,United States,Peer,1,442.10000,312012,Brand
 KC0DMR,Topeka,Kansas,United States,Peer,4,442.30000,312013,Brandmeister,312013,1,,+5.000,NI0Y,TS1 TS2
 WD0GQA,Kansas City,Kansas,United States,Peer,1,443.85000,312014,BM,312014,1,,+5.000,WD0GQA,TS1 TS2
 WD0GQA,Kansas City,Kansas,United States,Peer,1,442.85000,312015,BM,312015,1,,+5.000,WD0GQA,TS1 TS2
-KD0JWD,Olathe,Kansas,United States,Peer,1,145.23000,312016,BM,312016,0,,-0.600,KD0JWD,TS1 TS2
+KD0JWD,Olathe,Kansas,United States,Peer,1,145.23000,312016,BM,312016,1,,-0.600,KD0JWD,TS1 TS2
 K0USY,Lecompton,Kansas,United States,Peer,1,444.47500,312017,KS-DMR,312017,1,Timeslot/Talkgroups available at:<br>http://www.ks-dmr.net/<br><br>Contact Name: Cort Buffington<br>Email: n0mjs@me.com<br>Website: www.k0usy.org (http://www.k0usy.org/),+5.000,N0MJS,TS1 TS2
 KC0DMR,Leavenworth,Kansas,United States,Peer,4,442.35000,312018,Brandmeister,312018,1,,+5.000,NI0Y,TS1 TS2
 WB0KIA,Mission,Kansas,United States,Peer,1,147.16500,312019,Brandmeister,312019,1,,-0.600,WB0KIA,TS1 TS2
