@@ -31,7 +31,7 @@ WB6YES,PALM Springs,California,United States,Peer,3,445.41000,BrandMeister,33.82
 WB6YES,PALM Springs,California,United States,Peer,3,445.41000,BrandMeister,33.8246269,-116.540303,110638,,-5.000,ACTIVE,W6ONT,TS2
 K6JSI,Oceanside,California,United States,Peer,1,448.80000,brandmeister,33.1958696,-117.3794834,110639,,-5.000,ACTIVE,K6UFX,TS1 TS2
 AE6TV,San Bernardino,California,United States,Peer,1,448.90000,Brandmeister,34.180531,-117.299599,110640,,-5.000,ACTIVE,AE6TV,TS1 TS2
-W6TRW,Redondo Beach,California,United States,Master,2,449.46250,Western States DMR,33.8455911,-118.3886766,110641,,-5.000,ACTIVE,N6DSP,TS1 TS2
+W6TRW,Redondo Beach,California,United States,Master,2,449.46250,Western States DMR,33.8455911,-118.3886766,110641,,-5.000,ACTIVE,N6FR,TS1 TS2
 W6EDX,Fresno,California,United States,None,1,442.80000,5152,36.800270,-119.892899,110642,,+5.000,ACTIVE,W6EDX,TS2
 KC6IAU,SAN FRANCISCO,California,United States,Peer,1,441.57500,Brandmeister,37.7790262,-122.4199061,110643,,+5.000,ACTIVE,N6WGP,TS1 TS2
 N6VVY,San Diego,California,United States,Master,1,449.36000,brandmeister,32.611176,-116.788986,110644,,-5.000,ACTIVE,N6VVY,TS1 TS2
@@ -438,7 +438,7 @@ F1ZMV,Saint Jean De Nay,Auvergne-Rhone-Alpes,France,Master,1,439.68750,"BM, ADN,
 F5ZIP,La Ville-du-bois,Centre-Val de Loire,France,,1,430.01250,DMR-plus,48.6610752,2.2687891,208091,,9.400,ACTIVE,F6MPN,TS1 TS2
 F1ZVL,Chatenay-Malabry,Ile-de-France,France,Peer,1,145.63750,Brandmeister,48.7761510,2.2783490,208092,None,-0.600,ACTIVE,F1IUQ,TS1 TS2
 F5ZIO,Montreuil,Centre-Val de Loire,France,,1,430.45000,BM,49.016701,2.250000,208093,,9.400,ACTIVE,F6MPN,TS1 TS2
-F6ZEM,Chateaubourg,Bretagne,France,Peer,1,430.16250,brandmeister,48.1105120,-1.38817,208094,relaisf6zem@gmail.com,+9.400,ACTIVE,F1UOT,TS1 TS2
+F6ZEM,Chateaubourg,Bretagne,France,Peer,3,430.16250,brandmeister,48.1105120,-1.38817,208094,relaisf6zem@gmail.com,+9.400,ACTIVE,F1UOT,TS1 TS2
 F1ZLJ,GALGON,Nouvelle-Aquitaine,France,Master,1,430.21250,DMR-plus,44.985264,-0.272542,208095,,+9.400,ACTIVE,F4GLJ,TS1 TS2
 F1ZOE,Paris,Ile-de-France,France,Peer,1,430.17500,DMRF,48.8252841,2.3664919,208096,None,9.400,ACTIVE,F1TDI,TS1 TS2
 F1ZVZ,LE BURGAUD,Occitanie,France,Peer,0,439.72500,1,43.7940518,1.1627924,208097,None,0.000,ACTIVE,F4INI,Mixed Mode
@@ -461,7 +461,7 @@ F6ZFD,VILLAZ,Auvergne-Rhone-Alpes,France,Master,1,438.57500,IPSC2-FRANCE 3,45.94
 F6ZFF,Paris,Ile-de-France,France,Master,1,439.00000,TETRAPACK,48.8801509,2.3618485,208115,None,-7.600,ACTIVE,"F4IEY, F4IQN, F1OXM",Mixed Mode
 F4KOL,Toulouse,Occitanie,France,Master,0,439.82500,Brandmeister,43.4800000,1.5340000,208116,sysop F5TMJ,-9.400,ACTIVE,"F4KOL, F5TMJ",TS2
 F6ZHF,Chatenay-Malabry,Ile-de-France,France,Peer,1,430.12500,Brandmeister,48.7670404,2.2775316,208117,None,+9.400,ACTIVE,F1IUQ,TS1 TS2
-F6ZFI,Chateaubourg,Bretagne,France,Peer,1,430.03750,brandmeister,48.1105120,-1.3881700,208118,None,+9.400,ACTIVE,F1UOT,TS1 TS2
+F6ZFI,Chateaubourg,Bretagne,France,Peer,2,430.03750,brandmeister,48.1105120,-1.3881700,208118,None,+9.400,ACTIVE,F1UOT,TS1 TS2
 F1ZSU,Aspremont,Ile-de-France,France,Master,1,430.42500,BM,43.77016,7.25455,208119,,+9.400,ACTIVE,F1BEH,TS1 TS2
 F1ZSX,VILLENEUVE-LOUBET,,France,,1,439.88750,None,43.647831,7.130500,208146,,-9.400,ACTIVE,F1ATB,
 F1ZAS,Saint Saturnin les Avignon,Provence-Alpes-Cote d Azur,France,Peer,1,439.65000,DMR-plus,43.959381,4.919920,208157,,-9.400,ACTIVE,F1VN,TS1 TS2
@@ -796,7 +796,7 @@ ED9YAB,Ceuta,Ceuta,Spain,,1,438.67500,DMR-plus,35.892860,-5.363129,214901,,-7.60
 HG1RUG,Gyor,Budapest,Hungary,Peer,8,439.27500,2162,47.6607,17.6685,216001,,-7.6,ACTIVE,HG1DFL,TS1 TS2
 HG7RUJ,Orbottyan,Pest,Hungary,Master,8,439.31250,BM,47.69089,19.2966,216002,,-7.600,ACTIVE,HG5BVA,TS1 TS2
 HG2RUK,Kab,Nyugat-Dunantul,Hungary,Master,8,438.30000,BM,47.047237,17.656688,216003,,-7.600,ACTIVE,HA9MDP,TS1 TS2
-HG5RUD,Budapest,Pest,Hungary,Peer,8,438.47500,Brandmeister,47.5501520,19.0014660,216004,,-7.600,ACTIVE,HA5CD,TS1
+HG5RUD,Budapest,Pest,Hungary,Peer,8,438.47500,Brandmeister,47.5161813,18.9601782,216004,,-7.600,ACTIVE,HA5CD,TS1
 HG2RUE,Kabhegy,,Hungary,,8,438.30000,BM,47.046265,17.656843,216101,,-7.600,ACTIVE,HA5ZF,TS1 TS2
 HG1RUE,Gyor,,Hungary,,8,438.25000,BM,47.581944,17.658661,216102,,-7.600,ACTIVE,HA2IT,TS1 TS2
 HG1RUD,Gyor,,Hungary,,1,439.25000,BrandMeister,47.687609,17.6346815,216103,,-7.600,ACTIVE,HA2IT,
@@ -2120,7 +2120,6 @@ GB7SN,Sheffield,England,United Kingdom,,1,439.67500,BM,53.3806626,-1.4702278,235
 GB7CK,Folkestone,England,United Kingdom,,3,439.73750,DMR-plus,51.0791335,1.1794073,235109,,-9.000,ACTIVE,M1CMN,TS1 TS2
 GB7LO,Bromley,England,United Kingdom,Master,3,439.51250,DMR-plus,51.4028046,0.0148142,235112,,-9.000,ACTIVE,G1HIG,TS1 TS2
 GB7CL,Clacton on Sea,,United Kingdom,,3,439.63750,DMR-plus,,,235113,,9.000,ACTIVE,G0MBA,TS1 TS2
-GB7BX,Brown Clee,England,United Kingdom,Peer,11,439.43750,BM,52.5957012,-2.5582016,235114,,-9.000,ACTIVE,G4VZO,TS1 TS2
 GB7GT,Clee Hill,,United Kingdom,Peer,13,439.41250,BM,52.374535,-2.600397,235115,,-9.000,ACTIVE,G3PWJ,TS1 TS2
 GB7AV,Aylesbury,England,United Kingdom,Peer,3,439.43750,DMR-plus,51.8161412,-0.8130383,235116,,-9.000,ACTIVE,G0RAS,TS1 TS2
 GB7EP,Epsom,England,United Kingdom,Master,3,439.40000,DMR-plus,51.3326098,-0.2678212,235117,"Always connected: TS1: 1, 2, 13, 235.  TS2: 801<br><br>User Activated (UA) TG's also supported",-9.000,ACTIVE,G0OXZ,TS1 TS2
@@ -2167,7 +2166,6 @@ GB7XYZ,Demo Repeater,England,United Kingdom,Peer,3,439.16250,DMR-plus,52.392426,
 GB7WL,Amersham,England,United Kingdom,Peer,3,439.46250,DMR-Plus,51.6740875,-0.6073643,235169,,-9.000,ACTIVE,M0ZPU,TS1 TS2
 GB7HR,Heathrow Airport,England,United Kingdom,Master,3,439.45000,DMR-plus,51.46773895,-0.4587800741571181,235170,"Always connected: TS1: 1, 2, 13, 235.  TS2: 801<br><br>User Activated (UA) TG's also supported",-9.000,ACTIVE,G0OXZ,TS1 TS2
 GB7IK,Rochester Kent,England,United Kingdom,Peer,3,439.43750,DMR-plus,51.389062,0.5049347,235171,,-9.000,ACTIVE,G6CKK,TS1 TS2
-GB3BX,Brown Clee,England,United Kingdom,Peer,13,145.67500,BM,52.5957012,-2.5582016,235172,,-0.600,ACTIVE,G4VZO,TS1 TS2
 GB7BM,BIRMINGHAM,England,United Kingdom,Peer,9,439.40000,BM,52.4800000,-1.9220000,235173,Slot 1:-<br>Only TG75 the Salop Custer should be used on Slot 1.<br><br>Slot 2:-<br>TG23580 for the West Midlands Sites.<br>TG235173 for Local so other Sites can connect into GB7BM IF they used this TG.<br>TG23590 will join the East Midlands Sites.<br>TG9 is just a local TG please try and use TG235173 instead.<br>So standard BrandMeister protocols are used on Slot 2.,-9.000,ACTIVE,G8NDT,TS1 TS2
 GB7YJ,Nr Warwick,England,United Kingdom,Peer,3,439.58750,BM,52.200352,-1.487140,235174,,-9.000,ACTIVE,G4USP,TS1 TS2
 GB3RF,Accrington,England,United Kingdom,Peer,2,145.77500,DMR-plus,53.7527983,-2.3701201,235175,,-0.600,ACTIVE,M0NFI,TS1 TS2
@@ -2243,7 +2241,7 @@ GB7GB,Birmingham,England,United Kingdom,Peer,8,439.76250,BM,52.565500,-1.911105,
 GB7CO,Fareham,England,United Kingdom,,3,439.48750,DMR-plus,50.835579,-1.191624,235272,,-9.000,ACTIVE,G3ZDF,TS1 TS2
 GB7WM,Astley,England,United Kingdom,,1,439.68750,None,53.5009963,-2.4496899,235273,,9.000,ACTIVE,G4WLI,
 GB7LA,Lancaster,England,United Kingdom,Peer,6,439.36250,NWMG,53.9945538,-2.7872057,235274,235274,-9.000,ACTIVE,G7CDA,Mixed Mode
-GB7WV,Market Harborough,England,United Kingdom,Master,2,439.68750,BM,52.488911,-0.928858,235275,,-9.000,ACTIVE,G1IVG,Mixed Mode
+GB7WV,Market Harborough,England,United Kingdom,Master,2,439.68750,BM,52.488911,-0.928858,235275,,-9.000,ACTIVE,"G1IVG, G4XEX",Mixed Mode
 GB7XY,Newcastle Upon Tyne,England,United Kingdom,,10,439.42500,BM,54.973709,-1.611090,235276,,-9.000,ACTIVE,M0DMP,TS1 TS2
 GB3TH,Tamworth staffs,England,United Kingdom,,1,434.97500,None,52.6345819,-1.6948438,235278,,1.600,ACTIVE,G8YUQ,TS1 TS2
 GB7KD,TQ6059813884,England,United Kingdom,,3,439.68750,DMR-plus,50,-3,235279,,9.000,ACTIVE,G1ERJ,TS1 TS2
@@ -3331,7 +3329,7 @@ DO0NMD,Neumagen-Dhron,Rheinland-Pfalz / Saarland,Germany,Master,1,439.95000,BM,4
 DB0BRO,Brocken/Harz,,Germany,,1,439.43750,,,,262099,,-7.600,ACTIVE,DG0CBP,
 DB0JSF,Frankfurt/Oder,,Germany,,1,439.95000,DMR-plus,,,262101,,-9.400,ACTIVE,DF1JSF,TS1 TS2
 DO0RAM,Ramelsloh,Niedersachsen / Bremen,Germany,Master,1,438.40000,Tetra,53.3523700,10.0312480,262102,,-7.600,ACTIVE,DO1XX,Mixed Mode
-DB0TGO,Berlin-Tegelort,,Germany,,1,434.78750,None,52.569592,13.232200,262103,,0.000,ACTIVE,DL7ATA,
+DB0TGO,Berlin,Berlin / Brandenburg,Germany,Peer,1,434.78750,Brandmeister,52.569592,13.232200,262103,,0.000,ACTIVE,DL7ATA,TS1
 DB0SP,Berlin - Wannsee,,Germany,,6,145.62500,None,52.421199,13.1800603,262104,,-0.600,ACTIVE,DL7HD,
 DB0AF,Altdoebern,Berlin / Brandenburg,Germany,Master,1,438.25000,"DMR+, BM",51.6381,14.0403,262105,,-7.600,ACTIVE,DG1FI,TS1 TS2
 DB0BES,Bestensee,,Germany,,1,438.52500,None,52.242895,13.6279176,262106,,-7.600,ACTIVE,DL4KA,
@@ -3373,7 +3371,6 @@ DB0KR,Gresshausen,Bayern,Germany,Master,1,438.23750,BM,50.044896,10.38499,262143
 DB0UHC,Grevenbroich,Nordrhein-Westfalen,Germany,Master,1,439.87500,BM,51.05949,6.60728,262144,Statische TG 90710 (Weltweit deutschsprachige Radioscouting TG) auf Zeitschlitz 1,-9.400,ACTIVE,DB1MV,TS1 TS2
 DM0DOS,Doerenberg,Niedersachsen / Bremen,Germany,Peer,1,439.87500,IPSC2,52.17748,8.04438,262145,,-9.400,ACTIVE,DJ2QW,TS1 TS2
 DB0TC,Freising,Bayern,Germany,Master,1,438.66250,BM,48.4341,11.8192,262146,,-7.600,ACTIVE,DL2XP,Mixed Mode
-DL7ATA,Berlin,Berlin / Brandenburg,Germany,Peer,1,434.78750,BM,52.56968774307993,13.232991369726545,262147,,+0.5,ACTIVE,DL7ATA,Mixed Mode
 DB0HBG,Hesselberg,Bayern,Germany,Master,1,439.53750,BM,49.066004,10.536117,262148,,-7.6,ACTIVE,DG5MPQ,TS1 TS2
 DB0SIF,Giessen,Hessen,Germany,Master,1,438.35000,BM,50.34498740,8.40151340,262149,,-7.600,ACTIVE,DL6FBS,TS1 TS2
 DB0BRB,Brandenburg a.d.H,,Germany,,1,439.48750,None,52.414291,12.521100,262150,,-7.600,ACTIVE,DL2RZE,
@@ -5979,7 +5976,7 @@ W4ILD,Saint Petersburg,Florida,United States,Peer,0,440.00000,W4ILD,0.0,0.0,3112
 W4CLL,Lakeland,Florida,United States,Master,1,442.02500,FL-DMR,28.0428382,-81.8842467,311205,"Contact Name: Chuck Lavender, W4CLL<br>Email: service@pcds2.com<br>Website: http://www.w4cll.com",+5.000,ACTIVE,W4CLL,TS1 TS2
 KC2CWT,KingsLand,Georgia,United States,Peer,1,444.97500,DMR-SE,30.799955,-81.689827,311206,"Time Slot #1 - Group Call 3 = N. America (ON)<br>Time Slot #1 - Group Call 1 =World Wide (PTT)<br>Time Slot #1 - Group Call 13 =WW English (PTT)<br>Time Slot #1- Group Call 3112 =Florida Statewide(PTT)<br>Time Slot #1 - Group Call 3174 =Southeast Regional (PTT)<br>Time Slot #1 - Group Call 310 =TAC-310 (PTT)<br>Time Slot #1 - Group Call 311 =TAC-311 (PTT)<br>Time Slot #2 - Group Call 2 =Local-NetWork (ON)<br>Time Slot #2 - Group Call 9= Local-Repeater (PTT)<br>Time Slot #2 - Group Call 3136 =TRI-State (PTT)<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Bob, KC2CWT<br>Email: kc2cwt@kc2cwt.net",+5.000,ACTIVE,KC2CWT,TS1 TS2
 W2WDW,LakeWorth,Florida,United States,Peer,0,444.47500,brandmeister,26.3683064,-80.1289321,311207,,+5.000,ACTIVE,W2WDW,TS1 TS2
-N4DES,Boca Raton,Florida,United States,Master,8,442.00000,DMR-MARC,26.358592300000005,-80.0834223,311208,"TS 1 - TG 3 = N. America (ON)<br>TS 1 - TG 1 =World Wide (PTT)<br>TS 1 - TG 13 =WW English (PTT)<br>TS 1 - TG 3112 =Florida Statewide(PTT)<br>TS 1 - TG 3174 =Southeast Regional (PTT)<br>TS 1 - TG 310 =TAC-310 (PTT)<br>TS 1 - TG 311 =TAC-311 (PTT)<br>TS 2 - TG 561 =Palm Beach County Local (ON)<br>TS 2 - TG 9 =Local-Repeater (PTT)<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area:<br><br>Contact Name: Mark Filla, N4DES<br>Email: Mark.N4DES@gmail.com",+5.000,ACTIVE,N4DES,TS1 TS2
+N4DES,Boca Raton,Florida,United States,Master,8,442.00000,DMR-MARC,26.358592300000005,-80.0834223,311208,,+5.000,ACTIVE,N4DES,TS1 TS2
 W4MOT,Fort Lauderdale,Florida,United States,Peer,1,147.10500,Brandmeister,26.0965,-80.108,311209,TS1 USA full Time and all dynamic TG on TS1 for 15 minutes<br>TS2 Florida State and SE Florida full time,+0.600,ACTIVE,"W4MOT, K4XF",TS1 TS2
 W4ALR,Eustis,Florida,United States,Peer,1,444.55000,dmr-se.org,28.967538,-81.562210,311210,"TIME SLOT 1:<br><br>Full time: <br>Group Call 3112 = Florida Statewide<br>Group Call 31121 = First Coast DMR<br><br>On PTT:<br>Group Call 3 =  N. America<br>Group Call 3174 = Southeast Regional<br>Group Call 310 = TAC 310<br>Group Call 311 = TAC 311<br>Group Call 316272 = NASA<br>Group Call 316274 = KSC<br>Group Call 9998 = Parrot/Test<br><br>TIME SLOT 2:<br>Group Call 2 = Lake County/Countywide (W4ALR, K4AUS, K4LAK repeaters)<br>Group Call 9 = Local Coverage<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area: https://fasma.org/wp-content/uploads/K4AUS-Service-contour.png<br><br>Contact Name: Jason Matthews, K4AUS<br>Email:jason@lcso.org",+5.000,ACTIVE,K4AUS,TS1 TS2
 KC4RPP,Naples,Florida,United States,Master,0,443.10000,None,26.1420358,-81.7948103,311211,,+5.000,ACTIVE,KC4RPP,TS1 TS2
@@ -7220,7 +7217,7 @@ N1ATP,OTIS,Massachusetts,United States,Peer,1,447.93750,Brandmeister,42.1930224,
 N1WW,Gardner,Massachusetts,United States,Peer,3,145.34000,NEDECN,42.5816600,-71.9820200,312536,"DMR Repeater linked to the NEDECN DMR+ network.<br>Covering north central Worcester County, eastern Franklin County, SW New Hampshire areas.<br><br>Website:  http://nedecn.org",-0.600,ACTIVE,N1WW,TS1 TS2
 KB1SFG,Lawrence,Massachusetts,United States,Master,1,446.37500,Brandmeister,42.7070354,-71.1631137,312538,,-5.000,ACTIVE,KB1SFG,TS2
 KA1GG,West Bridgewater,Massachusetts,United States,Peer,4,449.98750,Brandmeister,42.009392,-71.044701,312539,,-5.000,ACTIVE,AJ1L,Mixed Mode
-AC1M,Norwell,Massachusetts,United States,PEER,5,145.25000,Brandmeister,42.192200,-70.821404,312540,,-0.600,ACTIVE,KC1HO,Mixed Mode
+AC1M,Norwell,Massachusetts,United States,Master,5,145.25000,Brandmeister,42.192200,-70.821404,312540,,-0.600,ACTIVE,KC1HO,Mixed Mode
 W1ATD,Marshfield,Massachusetts,United States,Peer,9,145.39000,Brandmeister,42.111141,-70.704323,312541,,-0.600,ACTIVE,AJ1L,Mixed Mode
 NA1HS,North Attleboro,Massachusetts,United States,Master,3,447.97500,Brandmeister,41.9834324,-71.3328328,312542,,-5.000,ACTIVE,KA1EWN,TS1 TS2
 WB1GOF,Westford,Massachusetts,United States,Master,1,146.45000,BM,42.5792583,-71.4378411,312543,Time Slot # 1 - Group Call 3125 = MA SW<br>Time Slot # 1 - Group Call 3133 = NH SW<br>Time Slot # 1 - Group Call 31801 = Gathering Spot 1<br>Time Slot # 2 - Group Call 312543 = WB1GOF-C D-STAR XLX978<br>Time Slot # 2 - Group Call 302050 = FreeStar/CanNet XLX416,-1.50000,ACTIVE,KA8SCP,TS1 TS2
@@ -9973,7 +9970,7 @@ XE2JMN,Ensenada,Baja California Norte,Mexico,Peer,1,430.12500,IPSC2,31.7149160,-
 XE2JSC,Saltillo,Coahuila,Mexico,Peer,15,433.52500,BM/DMR+,25.4303000,-101.0000000,334055,None,0.000,ACTIVE,XE2JSC,Mixed Mode
 XE2GF,Tijuana,Baja California Norte,Mexico,Peer,1,438.32500,DMR+,32.5000000,-117.0000000,334056,None,-5.000,ACTIVE,XE2GF,TS2
 XE2TCP,Monterrey,Nuevo Leon,Mexico,Master,2,438.32500,Brandmeister,25.7221730,-100.3980420,334057,None,-5.000,ACTIVE,XE2TCP,TS1 TS2
-XE2W,MONTERREY,Nuevo Leon,Mexico,Master,1,438.15000,9999999,25.6063340,-100.2806730,334058,None,-5.000,ACTIVE,XE2W,Mixed Mode
+XE2W,MONTERREY,Nuevo Leon,Mexico,Master,1,438.00000,9999999,25.6063340,-100.2806730,334058,None,-5.000,ACTIVE,XE2W,Mixed Mode
 XE1EFQ,Mexico City,Mexico City,Mexico,Peer,1,438.22500,URAM Net,19.2262233,-99.1733267,334101,"Time Slot #1 - Grp Call 1 = World Wide PTT 2 min<br>Time Slot #1 - Grp Call 3 = North America PTT 15 <br>Time Slot #1 - Grp Call 14 = WW Spanish <br>Time Slot #1 - Grp Call 334 = Mexico<br>Time Slot #2 - Grp Call 2 = Local D.F. <br>Time Slot #2 - Grp Call 9998 = Parrot PTT 2 <br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Jose, XE1EFQ<br>Email: xe1efq@gmail.com",-5.000,ACTIVE,XE1EFQ,TS1 TS2
 XE1EFQ,Mexico City,Mexico City,Mexico,Peer,1,438.25625,URAM Net,19.4371306,-99.1304964,334102,"Time Slot #1 - Grp Call 1 = World Wide PTT 2 min<br>Time Slot #1 - Grp Call 3 = North America PTT 15<br>Time Slot #1 - Grp Call 14 = WW Spanish <br>Time Slot #1 - Grp Call 334 = Mexico<br>Time Slot #2 - Grp Call 2 = Local D.F. <br>Time Slot #2 - Grp Call 9998 = Parrot PTT 2 <br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Jose, XE1EFQ<br>Email: xe1efq@gmail.com",-5.000,ACTIVE,XE1EFQ,TS1 TS2
 XE1EL,Atotonilco,Jalisco,Mexico,Peer,1,146.97000,DMR+ IPSC2,20.5607957,-102.5134277,334103,,-0.600,ACTIVE,XE1EL,TS1 TS2
@@ -10716,7 +10713,7 @@ DX1HB,Marikina City,National Capital Region,Philippines,Master,1,431.80000,Brand
 DW3EUN,San Jose Del Monte,Northern Luzon,Philippines,Peer,1,434.55000,BrandMeister Network,16,120,515102,,+5.000,ACTIVE,DU2HVZ,TS1 TS2
 DX2PNY,Dagupan City,Northern Luzon,Philippines,Peer,2,434.55000,DX-PINOY,16,120,515103,,+5.000,ACTIVE,DU2HVZ,TS1 TS2
 DU2HVZ,Villasis,Northern Luzon,Philippines,Peer,3,434.55000,Brandmeister Network,0.0,0.0,515104,,+5.000,ACTIVE,DU2HVZ,TS1 TS2
-DU2RD,State of Piat,Northern Luzon,Philippines,Master,1,145.41000,5152,16,121,515105,,-0.600,ACTIVE,DU2RD,TS1 TS2
+DU2RD,State of Piat,Cagayan Valley,Philippines,Master,1,145.41000,5152,17.7831830,121.4882060,515105,,-0.600,ACTIVE,DU2RD,TS1 TS2
 DX1ARM,Marikina,National Capital Region,Philippines,Peer,1,431.60000,FM/Fusion,14.62578,121.12251,515106,"DX1ARM Amateur Radio Movement, Inc.<br>Bridge to WIRES-X and DMR https://dx1arm.com",+5.000,ACTIVE,4I1RAC,Mixed Mode
 DZ1REC,Taguig City,National Capital Region,Philippines,Peer,1,436.75000,BrandMeister,14.603333,121.040000,515107,,-5.000,ACTIVE,DZ1PUP,TS1 TS2
 DX2SIG,Urdaneta City,Northern Luzon,Philippines,Peer,1,434.70000,BM,,,515108,,+5.0,ACTIVE,DV2EVE,TS1
