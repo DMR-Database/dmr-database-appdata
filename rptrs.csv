@@ -292,7 +292,7 @@ ON0ZBR,Zeebrugge,West-Vlaanderen,Belgium,Master,1,439.58750,206014,BM,206014,1,,
 ON0GBX,Gembloux,Namur,Belgium,Peer,2,438.52500,206015,BM,206015,1,TS1 On demand<br>TS2 TG20681,-7.600,ON4KNN,TS1 TS2
 ON0HVL,Wijtschate-Heuvelland,West-Vlaanderen,Belgium,Master,1,439.01250,206016,BM,206016,1,,-7.600,ON4APB,Mixed Mode
 ON0TG,Brussel,Brussels,Belgium,Master,1,438.41250,206017,BM,206017,1,,-7.6,ON1TG,TS1 TS2
-ON0LGE,Retinne,Liege,Belgium,Master,2,439.21250,206018,BM,206018,1,The ID DMR for ON0LGE is  206800<br>,-7.600,ON6DP,TS2
+ON0LGE,Retinne,Liege,Belgium,Master,2,439.21250,206018,BM,206018,1,The ID DMR for ON0LGE is  206800,-7.600,ON6DP,TS2
 ON0VBT,Asse,Vlaams Brabant,Belgium,Peer,1,430.37500,206019,BM,206019,1,,+1.600,ON6FP,TS1 TS2
 ON0HAS,Hasselt,Limburg,Belgium,Master,1,439.41250,206020,BM,206020,1,,-7.600,ON4ABR,TS1 TS2
 ON0VTI,Tielt,West-Vlaanderen,Belgium,Peer,1,439.47500,206021,BM,206021,1,,-7.6,ON4AAK,TS1 TS2
@@ -1708,7 +1708,7 @@ HB9DR,Rheineck,St. Gallen,Switzerland,Peer,1,438.67500,228905,DMR+,228905,1,,-7.
 OK0G,Libin,South Bohemian Region,Czech Republic,Master,1,145.58750,230001,BM,230001,1,A new repeater on Libin (ASL 1096).,-0.600,OK1ZJV,Mixed Mode
 OK0DAN,Zatec - Ceradice,Usti nad Labem Region,Czech Republic,Master,1,438.91250,230002,BM,230002,1,"Silo Ceradice, VO OK4DAN, technik OK1ZJV, www.ok1ocb.cz",-7.600,OK1ZJV,Mixed Mode
 OK0DNS,Cerny Vrch,Liberec Region,Czech Republic,Master,2,438.37500,230003,OKDMR,230003,1,,-7.600,OK4MD,TS1 TS2
-OK0BL,erchov,Pilsen Region,Czech Republic,Master,0,439.30000,230004,BM,230004,1,,-7.600,OK1ZJV,TS1 TS2
+OK0BL,Cerchov,Pilsen Region,Czech Republic,Master,0,439.30000,230004,BM,230004,1,,-7.600,OK1ZJV,TS1 TS2
 OK0DG,Adamov,South Bohemian Region,Czech Republic,Master,1,439.00000,230005,BM,230005,1,,-7.600,OK1ZJV,Mixed Mode
 OK0BCL,Zandov,Liberec Region,Czech Republic,Master,0,438.82500,230006,BM,230006,1,"FM is prority, Digi for future<br>Temporary QTH at responsible operator home QTH.",-7.6,"OK1MPX, OK1ZJV",Mixed Mode
 OK0ZAT,atec,Usti nad Labem Region,Czech Republic,Peer,0,439.27500,230007,BM,230007,1,,-7.600,OK1TBP,Mixed Mode
@@ -1733,7 +1733,7 @@ OK0BPI,Pisek-Drhovle,,Czech Republic,,1,438.21250,230204,None,230204,1,,-7.600,O
 OK0BLI,Lipno Blizna,South Bohemian Region,Czech Republic,Master,1,439.10000,230205,BM,230205,1,,-7.600,OK1ZJV,Mixed Mode
 OK0BSJ,Svaty Jan nad Malsi,,Czech Republic,,1,439.48750,230206,None,230206,1,,-7.600,OK1PZ,
 OK0EB,Klet,,Czech Republic,,1,439.17500,230207,None,230207,1,,7.600,OK1VHB,
-OK0BTA,Jistebnice TA,South Bohemian Region,Czech Republic,Master,1,438.80000,230208,BM,230208,1,,-7.600,OK1ZJV,Mixed Mode
+OK0BTA,Kratosice TA,South Bohemian Region,Czech Republic,Master,1,438.80000,230208,BM,230208,1,,-7.600,OK1ZJV,Mixed Mode
 OK0BPT,Libin Prachatice,South Bohemian Region,Czech Republic,Master,1,439.07500,230209,BM,230209,1,,-7.600,OK1ZJV,Mixed Mode
 OK0DPL,Plzen-Bory,,Czech Republic,,1,439.50000,230211,BrandMeister,230211,1,,-7.600,OK1JRA,
 OK0T,Hrad Doubravka,,Czech Republic,,1,438.80000,230301,None,230301,1,,-7.600,OK5DM,
@@ -1873,12 +1873,10 @@ OE7XUT,St Ulrich am Pillers,Tirol,Austria,Master,1,438.62500,232707,BM,232707,1,
 OE7XLH,Lienz/Osttirol,Tirol,Austria,,1,438.87500,232708,DMR-plus,232708,1,,-7.600,OE7JTK,TS1 TS2
 OE7XLI,Hochstein,Tirol,Austria,,1,438.27500,232709,DMR-plus,232709,0,,-7.600,OE7JTK,TS1 TS2
 OE7XLI,Hochstein,Tirol,Austria,Peer,1,438.87500,232710,DMR-plus,232710,1,,-7.600,OE7JTK,TS1 TS2
-OE7XKT,Kaltenbach,Tirol,Austria,,1,438.40000,232711,DMR-plus,232711,1,,-7.600,OE7SBH,TS1 TS2
 OE7XFJ,Sankt Johann in Tirol,Tirol,Austria,Master,1,438.25000,232712,Brandmeister,232712,1,,-7.600,OE7AOT,TS1 TS2
 OE7XXR,Kramsach / Rofan,Tirol,Austria,,1,438.22500,232713,None,232713,0,,-7.600,OE7SRI,
 OE7XKH,Zams,Tirol,Austria,,1,438.50000,232714,DMR-plus,232714,1,,7.600,OE7ERJ,TS1 TS2
 OE7XXR,Kramsach / Rofan,Tirol,Austria,,1,438.27500,232715,None,232715,0,,-7.600,OE7SRI,
-OE7XKT,Kaltenbach,Tirol,Austria,,1,438.40000,232721,None,232721,0,,7.600,OE7SBH,
 OE7XWT,Weinbergerhaus KU,Tirol,Austria,Master,1,438.47500,232750,DMR,232750,1,,-7.600,OE7MPI,TS1 TS2
 OE8XPK,Petzen,Kaernten,Austria,Peer,1,438.50000,232802,DMR-plus,232802,1,,-7.600,OE8HJK,TS1 TS2
 OE8XMK,Magdalensberg,Kaernten,Austria,Peer,1,438.85000,232803,DMR-plus,232803,1,,-7.600,OE8HJK,TS1 TS2
@@ -3996,7 +3994,7 @@ DB0ERK,hueckelhoven,Nordrhein-Westfalen,Germany,Master,1,438.83750,263499,BM,263
 DB0HAS,Zeil am Main,Bayern,Germany,,1,439.97500,263801,DMR-plus,263801,1,,-9.400,DG8NCY,TS1 TS2
 DB0AM,Amberg,Bayern,Germany,,1,438.28750,263803,DMR-plus,263803,1,,0.000,DC6RN,TS1 TS2
 DB0BMW,Pentling,Bayern,Germany,,1,438.76250,263804,None,263804,1,,7.600,DL7GA,
-DB0GJ,Marloffstein,Bayern,Germany,,1,439.12500,263805,None,263805,1,,-7.600,DL2NEW,
+DB0GJ,Marloffstein,Bayern,Germany,Peer,1,439.12500,263805,Brandmeister,263805,1,,-7.600,DL2NEW,TS1 TS2
 DB0PE,Pfoerring,Bayern,Germany,Master,1,438.46250,263810,BM,263810,1,,-7.600,DG2MMK,TS1 TS2
 DB0RKB,Bischofsheim,Bayern,Germany,Master,1,439.58750,263837,BM,263837,1,,-7.600,DH1NBC,TS1 TS2
 DB0RUF,Wuerzburg,Bayern,Germany,Peer,1,144.88750,263878,BM,263878,1,,-0.0,DH1NBC,Mixed Mode
@@ -4829,6 +4827,7 @@ VA3DVI,Ballantrae,Ontario,Canada,Peer,1,145.17000,302470,BM,302470,1,None,-0.600
 VA2XPR,Notre-Dame-du-Mont-Carmel,Quebec,Canada,Peer,1,449.82500,302471,BrandMeister,302471,1,None,-5.000,"VA2XB, VE2NBZ, VE2TRF",TS1 TS2
 VA7UWR,Vancouver Island portable,British Columbia,Canada,Master,10,433.10000,302472,Brandmeister,302472,1,None,+5.000,VA7UW,TS1 TS2
 VA7UW,Vancouver Island Portable,British Columbia,Canada,Master,10,433.10000,302473,Brandmeister,302473,1,None,+5.000,VA7UW,TS1 TS2
+VE4DRK,Winnipeg,Manitoba,Canada,Peer,1,146.97000,302474,30217,302474,1,Testing configuration,-0.600,VE4DRK,TS1
 VE5DMR,Swift Current,Saskatchewan,Canada,None,1,443.00000,302501,DMR-MARC Canada,302501,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada<br>Time Slot #1 - Group Call 310 = TAC310<br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba<br>Time Slot #2 - Group Call 3026 = Alberta<br>Time Slot #2 - Group Call 3029 = New Brunswick<br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE5EN<br>Contact email: ve5en@shaw.com,+5.000,VE5EN,TS1 TS2
 VE6VPR,Edmonton,Alberta,Canada,Peer,1,440.80000,302600,DMR-MARC Canada,302600,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE6AEW<br>Contact email:,+5.000,VE6AEW,TS1 TS2
 VE6RYC,Calgary,Alberta,Canada,Master,1,444.00000,302601,DMR-MARC Canada,302601,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: Doug Howard, VE6CID<br>Contact email:ve6cid@me.com",+5.000,VE6CID,TS1 TS2
@@ -7167,7 +7166,7 @@ KM8CC,Oshtemo,Michigan,United States,Peer,1,444.57500,312479,BrandMeister,312479
 NE7WY,Gillette,Wyoming,United States,Peer,11,448.75000,312481,brandmeister,312481,1,,-5.0,NE7WY,TS1 TS2
 WJ1D,Wharton,Texas,United States,Peer,1,444.91250,312482,BM,312482,1,"TS1 - 3148 (TX Statewide), 31484 (SE Texas), 3199 (Hurricane), 31480 (TX Chat), 31011 (GC DMR)<br>TS-2 - 3109 (Connecticut Statewide), 3123 (Maine Statewide), 3133 (NH Statewide), 3150 (VT Statewide), 3172 (NE Region)",+5.000,WJ1D,TS1 TS2
 K6CV,Twain Harte,California,United States,Master,1,444.65000,312483,BM,312483,1,Motorola SLR-5700,+5.000,K6CV,TS1 TS2
-KA0JSW,Newport,Pennsylvania,United States,Peer,1,147.30000,312484,Interstate 2 cbridge,312484,1,Contact Chris <br> kb3tww@frontier.com<br>Information available on<br>delmarvadmr.com <br>,+0.600,KB3TWW,TS1 TS2
+KA0JSW,Newport,Pennsylvania,United States,Peer,1,147.30000,312484,Interstate 2 cbridge,312484,1,Contact Chris<br>kb3tww@frontier.com<br>Information available on<br>delmarvadmr.com,+0.600,KB3TWW,TS1 TS2
 KE4PMP,Pelham,Georgia,United States,Peer,1,441.81250,312485,DMR-SE,312485,1,"This repeater is on the First Coast network.<br>Time slot 1 talk groups include: TG9 static is linked to Vidalia net, (TG310592)<br>GASW TG3113 Dynamic, GA ARES TG31130 Dynamic, Digi Link TG31137 Dynamic<br>Time slot 2 talk groups include: TG9 local only (Not networked) TG2 First Coast DMR<br>",+5.000,KE4PMP,TS1 TS2
 W4PFT,Carnesville,Georgia,United States,Peer,1,444.11250,312486,BM,312486,1,,+5.000,W4PFT,TS1 TS2
 K5WMS,Helena,Arkansas,United States,Master,6,444.37500,312487,BM,312487,1,TG:312487 static on TS2,+5.000,K5WMS,TS1 TS2
@@ -9970,7 +9969,7 @@ XE2JMN,Ensenada,Baja California Norte,Mexico,Peer,1,430.12500,334054,IPSC2,33405
 XE2JSC,Saltillo,Coahuila,Mexico,Peer,15,433.52500,334055,BM/DMR+,334055,1,None,0.000,XE2JSC,Mixed Mode
 XE2GF,Tijuana,Baja California Norte,Mexico,Peer,1,438.32500,334056,DMR+,334056,1,None,-5.000,XE2GF,TS2
 XE2TCP,Monterrey,Nuevo Leon,Mexico,Master,2,438.32500,334057,Brandmeister,334057,1,None,-5.000,XE2TCP,TS1 TS2
-XE2W,MONTERREY,Nuevo Leon,Mexico,Master,1,438.00000,334058,9999999,334058,1,None,-5.000,XE2W,Mixed Mode
+XE2W,MONTERREY,Nuevo Leon,Mexico,Peer,1,438.00000,334058,9999999,334058,1,None,-5.000,XE2W,Mixed Mode
 XE1EFQ,Mexico City,Mexico City,Mexico,Peer,1,438.22500,334101,URAM Net,334101,1,"Time Slot #1 - Grp Call 1 = World Wide PTT 2 min<br>Time Slot #1 - Grp Call 3 = North America PTT 15 <br>Time Slot #1 - Grp Call 14 = WW Spanish <br>Time Slot #1 - Grp Call 334 = Mexico<br>Time Slot #2 - Grp Call 2 = Local D.F. <br>Time Slot #2 - Grp Call 9998 = Parrot PTT 2 <br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Jose, XE1EFQ<br>Email: xe1efq@gmail.com",-5.000,XE1EFQ,TS1 TS2
 XE1EFQ,Mexico City,Mexico City,Mexico,Peer,1,438.25625,334102,URAM Net,334102,1,"Time Slot #1 - Grp Call 1 = World Wide PTT 2 min<br>Time Slot #1 - Grp Call 3 = North America PTT 15<br>Time Slot #1 - Grp Call 14 = WW Spanish <br>Time Slot #1 - Grp Call 334 = Mexico<br>Time Slot #2 - Grp Call 2 = Local D.F. <br>Time Slot #2 - Grp Call 9998 = Parrot PTT 2 <br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Jose, XE1EFQ<br>Email: xe1efq@gmail.com",-5.000,XE1EFQ,TS1 TS2
 XE1EL,Atotonilco,Jalisco,Mexico,Peer,1,146.97000,334103,DMR+ IPSC2,334103,1,,-0.600,XE1EL,TS1 TS2
@@ -10610,7 +10609,7 @@ YH1RIRU,South Tangerang,Banten,Indonesia,Master,10,430.36000,510020,BM,510020,1,
 YB2TDP,Rembang,Jawa Tengah,Indonesia,Peer,1,147.50200,510021,BM_5021_Malaysia,510021,1,TG510,+0.600,YB2TDP,TS2
 YH3BAU,Bangkalan,Jawa Timur,Indonesia,Master,1,432.58000,510022,BM,510022,1,,5.000,YB3CII,TS2
 YH0DVRA,Bekasi,Jawa Barat,Indonesia,Master,1,438.00000,510023,BM,510023,1,Cibitung Repeater by YB0RWN,+5.0,YB0SPS,TS1 TS2
-YH2BFX,Surakarta,Jawa Tengah,Indonesia,Peer,1,432.40000,510024,BM_3104_America,510024,1,None,+5.000,YD2CFW,TS1 TS2
+YH2BFX,Surakarta,Jawa Tengah,Indonesia,Peer,1,432.40000,510024,BM_3104_America,510024,1,None,+5.000,"YD2CFW, YB2PBB, YB2RX",TS1 TS2
 YH2BHR,Kota Semarang,Jawa Tengah,Indonesia,Master,1,146.86000,510025,BM,510025,1,None,-0.600,"YD2SMG, YB2CYA",TS1 TS2
 YH3BLV,Surabaya,Jawa Timur,Indonesia,Master,1,146.86000,510026,BM,510026,1,None,-60.000,YC3BUS,TS1 TS2
 YD6HQN,Medan,Sumatera Utara,Indonesia,Master,6,432.88500,510027,dmr.solvion.web.id,510027,1,None,+5.000,YD6HQN,TS1 TS2
@@ -11151,11 +11150,9 @@ PT7DR,Fortaleza,Ceara,Brazil,Master,1,439.55000,724148,BM,724148,1,Time Slot #1 
 PY4COT,Belo Horizonte,Minas Gerais,Brazil,Master,1,439.50000,724149,BM,724149,1,COTAM Group - Amateur Radio Division<br>Repeater of Metropolitan Area Coverage of Belo Horizonte City.<br>Priority to local open communications. Maybe temporaly closed in safety public emergencies help due goverment request or on COTAM Operations.,-5.000,PU4BIO,TS2
 PT7JU,Juazeiro do Norte,Ceara,Brazil,Master,1,439.35000,724150,BM,724150,1,,-5.000,PT7CE,TS1 TS2
 PT7KP,FORTALEZA,Ceara,Brazil,Master,1,145.33000,724151,BM,724151,1,,-0.600,PT7MV,TS1 TS2
-PT7DR,FORTALEZA,Ceara,Brazil,Master,1,439.55000,724152,BM,724152,1,,-5.000,PT7MV,TS1 TS2
 PY4RFB,Barbacena,Minas Gerais,Brazil,Master,1,146.65000,724153,BM,724153,1,"Repeater installed in Barbacena MG - Brazil.<br>Built by PY4EI, PY2BB/PY5QQ and PU4RFN in installed with local help<br>Will be maintaned by the three one.<br>Time Slot #1 - Group Call 724 = Brazil<br>Time Slot #2 - Group Call 724942 = Net BR",-0.600,PY4EI,TS1 TS2
 PP5XAP,Chapeco,Santa Catarina,Brazil,Master,1,147.18000,724154,ECHOLINK,724154,1,,+0.600,PU5ADW,TS1 TS2
 PY1SAR,Cabo Frio,Rio de Janeiro,Brazil,Master,1,147.30000,724155,BM,724155,0,"Repeater installed in Cabo Frio - RJ - Brazil.<br>Built by PY1SR, and PY4EI in installed with local help<br>Will be maintaned by the three one.<br>Time Slot #1 - Group Call 724 = Brazil<br>Time Slot #2 - Group Call 724942 = Net BR",+0.600,PY1SR,TS1 TS2
-PS7RKD,NATAL,Rio Grande do Norte,Brazil,Master,1,147.90000,724156,BM,724156,1,,-0.600,PT7MV,TS1 TS2
 PY4UAU,UBERABA,Minas Gerais,Brazil,Master,1,145.21000,724157,DMR,724157,1,,-0.600,PY4EF,TS1 TS2
 PY5BTR,Francisco Beltro,Parana,Brazil,Master,1,145.29000,724158,IPSC+,724158,1,Master Sul,-0.600,PU5TDC,TS1 TS2
 PY6LF,Lauro De Freitas,Bahia,Brazil,Master,1,434.50000,724159,BM,724159,1,in process of assembly,+5.000,PY6AHX,TS1 TS2
