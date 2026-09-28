@@ -3247,7 +3247,7 @@ DB0OFL,Rhauderfehn,Niedersachsen / Bremen,Germany,Master,1,144.83750,262013,"DMR
 DL0LGT,Wilhelmshaven,Niedersachsen / Bremen,Germany,Master,1,438.45000,262015,BM,262015,1,TS1: TG26429;  TS2: TG2623,-7.6,DL6BAJ,TS1 TS2
 DL0LGT,Wilhelmshaven,Niedersachsen / Bremen,Germany,Master,1,439.97500,262016,BM,262016,1,portabel Repeater for events and tests,-9.4,DL6BAJ,TS1 TS2
 DB0HRU,Abtsteinach,Hessen,Germany,Master,1,438.76250,262017,BM,262017,1,Test operation.,-7.6,DG4ZV,Mixed Mode
-DG3SBI,Alfdorf,Baden-Wuerttemberg,Germany,Master,1,439.31250,262018,BM,262018,0,TG1: 2620<br>TG2: 26273<br>,-7.6,DG3SBI,Mixed Mode
+DG3SBI,Alfdorf,Baden-Wuerttemberg,Germany,Master,1,439.31250,262018,BM,262018,1,TG1: 2620<br>TG2: 26273,-7.6,DG3SBI,Mixed Mode
 DB0SKF,Freudenstadt,Baden-Wuerttemberg,Germany,Peer,1,438.27500,262019,bm,262019,1,no static TG's,-7.600,DJ2GZ,TS1 TS2
 DO0LP,Remscheid,Nordrhein-Westfalen,Germany,Master,1,438.33750,262020,Bm,262020,1,"TS1 - TG 265112,     TS2 - TG 8 Bergisch Land (26313),     TS2 - TG 262020 (DOK R13)",-7.6000,DO8LP,TS1 TS2
 DM0NBG,Nuernberg,Bayern,Germany,Peer,1,438.52500,262021,BM,262021,1,,-7.600,DL6WZ,TS1 TS2
@@ -3502,7 +3502,6 @@ DL1BH,Bremerhaven,,Germany,,1,439.00000,262302,BM,262302,1,,-7.600,DL1BH,TS1 TS2
 DB0RVB,Ravensberg,Niedersachsen / Bremen,Germany,Master,1,439.45000,262303,BM,262303,1,,-7.600,DL8AAP,TS1 TS2
 DO0SZ,Salzgitter,,Germany,,1,439.46250,262304,BM,262304,1,,-7.600,DO1OTD,TS1 TS2
 DB0JUI,Marienhafe-Ostfriesland,Niedersachsen / Bremen,Germany,Peer,1,439.27500,262305,BM,262305,1,,-7.600,DF6BT,TS1 TS2
-DB0XX,Helmstedt,Niedersachsen / Bremen,Germany,Peer,1,439.50000,262306,Brandmeister,262306,1,,-7.600,DK2HP,TS1 TS2
 DM0WL,Winsen Luhe,Niedersachsen / Bremen,Germany,Peer,1,439.03750,262307,BM,262307,1,"TS1: TG262 Deutschland | TG9112 Emergency | TG910 WW German<br>TS2: TG9 Local | TG8 Regio (Niedersachsen Nord, DB0AGM/DB0BUC/DB0WL, ext. TG26236) | TG26220 Region Hamburg | TG26221 Hamburg City |  TG 26220 und TG 26221 Mo.-Fr. nicht von 6:00-8:00Uhr",-7.600,DL7TJ,TS1 TS2
 DM0DOS,Doerenberg,Niedersachsen / Bremen,Germany,Peer,1,145.71250,262308,BM,262308,1,,-0.600,DJ2QW,TS1 TS2
 DL9AM,Herzberg am Harz,Niedersachsen / Bremen,Germany,Master,1,438.37500,262309,DMR-plus,262309,1,,-7.600,DL9AM,TS1 TS2
@@ -4251,7 +4250,7 @@ YM2KDB,KARAMURSEL,Marmara Region,Turkiye,Peer,2,439.37500,286073,BM,286073,1,Non
 YM4KL,NAZILLI,,Turkiye,,1,439.20000,286092,None,286092,0,,-7.600,YM4KL,
 YM4KL,NAZILLI,,Turkiye,,1,439.20000,286093,None,286093,0,,-7.600,YM4KL,
 YM3KRM,Balkesir,,Turkiye,Master,1,439.16250,286101,BM,286101,1,,-7.600,TA3UYC,Mixed Mode
-YM3KK,Bursa,,Turkiye,,1,439.40000,286160,BM,286160,1,,-7.600,TA3NHI,TS1 TS2
+YM3KK,Bursa,Marmara Region,Turkiye,Peer,1,439.40000,286160,BM,286160,1,,-7.600,TA3NHI,TS1 TS2
 YM3KB,Bursa Nilufer,,Turkiye,,1,145.70000,286161,None,286161,1,,-0.600,TA3SA,
 YM3KBU,Bursa,,Turkiye,,1,439.16250,286162,BM,286162,1,,-7.600,TA3ASN,TS1 TS2
 YM3KI,Inegol / Bursa,,Turkiye,,1,439.37500,286163,None,286163,0,,-7.600,TA3AHS,
@@ -4825,6 +4824,7 @@ VA2XPR,Notre-Dame-du-Mont-Carmel,Quebec,Canada,Peer,1,449.82500,302471,BrandMeis
 VA7UWR,Vancouver Island portable,British Columbia,Canada,Master,10,433.10000,302472,Brandmeister,302472,1,None,+5.000,VA7UW,TS1 TS2
 VA7UW,Vancouver Island Portable,British Columbia,Canada,Master,10,433.10000,302473,Brandmeister,302473,1,None,+5.000,VA7UW,TS1 TS2
 VE4DRK,Winnipeg,Manitoba,Canada,Peer,1,146.97000,302474,30217,302474,1,Testing configuration,-0.600,VE4DRK,TS1
+VE2RXZ,Montreal,Quebec,Canada,Peer,0,444.60000,302475,Brandmeister,302475,1,None,5.000,VE2TRF,TS1 TS2
 VE5DMR,Swift Current,Saskatchewan,Canada,None,1,443.00000,302501,DMR-MARC Canada,302501,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada<br>Time Slot #1 - Group Call 310 = TAC310<br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba<br>Time Slot #2 - Group Call 3026 = Alberta<br>Time Slot #2 - Group Call 3029 = New Brunswick<br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE5EN<br>Contact email: ve5en@shaw.com,+5.000,VE5EN,TS1 TS2
 VE6VPR,Edmonton,Alberta,Canada,Peer,1,440.80000,302600,DMR-MARC Canada,302600,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE6AEW<br>Contact email:,+5.000,VE6AEW,TS1 TS2
 VE6RYC,Calgary,Alberta,Canada,Master,1,444.00000,302601,DMR-MARC Canada,302601,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: Doug Howard, VE6CID<br>Contact email:ve6cid@me.com",+5.000,VE6CID,TS1 TS2
@@ -8019,7 +8019,7 @@ W9IPA,Champaign,Illinois,United States,Master,1,443.76875,313392,BM,313392,1,TS1
 W3ZTB,Harrisburg,Pennsylvania,United States,Master,1,443.12300,313393,BM,313393,1,,+5.000,W3ZTB,TS1
 KB7APU,BLUE RIVER--OR SAR,Oregon,United States,Peer,1,440.63750,313394,OR SAR,313394,1,"OREGON SAR REPEATER--SEE USER GUIDE--WWW.SARDMR.COM<br>TALK GROUPS--TS1  3187 PNW 1, NO QSO, CALLING ONLY<br>3141 OREGON 1, ACTIVATED BY SCHEDULE AND PTT ONLY<br>3153 WASHINGTON 1, PTT SPECIAL USE ONLY<br>3181 LOCAL 1--PRIMARY USE- ALL STATIONS ON THE NETWORK MONITOR LOCAL 1, LINKED WITH ALL REPEATERS<br>9998 PARROT AUDIO READBACK<br>TIME SLOT 2--3166 LOCAL 2, LOCAL REPEATER CHAT, DOES NOT TIE UP ENTIRE NETWORK<br>31771 PNW REGIONAL, ACTIVED BY SCHEDULE ONLY FOR NET<br>3 SEARCH AND RESCUE TALK GROUPS ARE NOT PUBLISHED BUT FOLKS ARE WELCOME TO LISTEN IN.<br>NOTE--NOT A BRANDMEISTER REPEATER.  ONLY USE SUPPORTED TALK GROUPS LISTED HERE.  SYSTEM SUPPORTS MOTOROLA ROAMING ONLY, NO OTHER ROAMING OR APRS SUPPORTED.",+5.00,KB7APU,TS1 TS2
 W6POC,Burney,California,United States,Master,0,440.07500,313395,YSF,313395,1,,+5.000,W6POC,Mixed Mode
-N7KP,hudson,Florida,United States,Peer,1,443.62500,313396,BM,313396,1,"FLA 3112,TAC 310, NA 93, USA 3100, TAC 311., TAC 312, WA 3153",+5.000,N7KP,TS1 TS2
+N7KP,hudson,Florida,United States,Peer,1,441.96250,313396,BM,313396,1,"FLA 3112,TAC 310, FLA TAC 31120,TAC 311",+5.000,N7KP,TS1 TS2
 N9WNH,Columbia City,Indiana,United States,Peer,1,442.55000,313397,Crossroads,313397,1,,+5.000,N9WNH,Mixed Mode
 N1DTA,Mitchellsburg,Kentucky,United States,Peer,1,444.51250,313398,kentuckydmr c bidge,313398,1,,+5.000,N1DTA,TS1 TS2
 N1DTA,Glasgow,Kentucky,United States,Peer,1,444.17500,313399,kentuckydmr c bidge,313399,1,,+5.000,N1DTA,TS1 TS2
@@ -9056,7 +9056,6 @@ WR4SC,Charleston,South Carolina,United States,Peer,1,443.03750,314509,NC-PRN,314
 WR4SC,Sumter,South Carolina,United States,Peer,1,442.31250,314510,NC-PRN,314510,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeaters Coverage Area<br> <br>Contact Name: Roger, AE4UX<br>Email: contact@ncprn.net",+5.000,WR4SC,TS1 TS2
 WR4SC,Greenwood,South Carolina,United States,Peer,1,443.83750,314511,NC-PRN,314511,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeaters Coverage Area<br> <br>Contact Name: Roger, AE4UX<br>Email: contact@ncprn.net",+5.000,WR4SC,TS1 TS2
 WR4SC,Florence,South Carolina,United States,Peer,1,442.16250,314512,NC-PRN-,314512,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee/South Carolina<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/dillon_coverage_map.jpg)<br><br>Contact Name: Scott Whittaker, AE4UX<br><br>Email: contact@ncprn.net",+5.000,WR4SC,TS1 TS2
-K4KGB,Waynesville,North Carolina,United States,Master,1,443.85000,314513,FL-DMR,314513,1,,+5.000,K4IUG,TS1 TS2
 WR4SC,Rock Hill,South Carolina,United States,Peer,1,440.51250,314514,NC PRN,314514,1,,+5.000,WR4SC,TS1 TS2
 WR4SC,Spartanburg,South Carolina,United States,Peer,1,440.66250,314515,NC PRN,314515,1,,+5.000,WR4SC,TS1 TS2
 WR4SC,Orangeburg,South Carolina,United States,Peer,1,440.58750,314516,NC PRN,314516,1,,+5.000,WR4SC,TS1 TS2
@@ -9909,7 +9908,7 @@ NP4PC,San Sebastian,All Regions,Puerto Rico,Master,1,448.65000,330114,BM,330114,
 KP3JE,Aguada,,Puerto Rico,Master,1,449.62500,330115,BM,330115,1,,-5.000,KP3JE,TS1
 WP4SBC,Maunabo,All Regions,Puerto Rico,Master,1,439.80000,330116,FreeDMR,330116,1,Bienvenidos a RadioAficionado Digital P.R. Jueyero Isla<br>BM DMR: 330116 en Maunabo P.R. Cuidad Jueyera..Grupo con temas de la radio y otros de inters para los RadioAficionados..Ven y Comparte con Nosotros...,+5.000,WP4SBC,TS2
 KP3Y,LAJAS,All Regions,Puerto Rico,Master,1,447.97500,330117,BM,330117,1,"TS1 330050, TS2 33027",-5.000,KP3Y,TS1 TS2
-KP4IGI,Bayamon,All Regions,Puerto Rico,Master,1,440.80000,330118,300101127,330118,1,None,+5.000,KP4IGI,TS2
+KP4IGI,Bayamon,All Regions,Puerto Rico,Master,1,440.80000,330118,330010127,330118,1,None,+5.000,KP4IGI,TS2
 KP4NU,Caguas,,Puerto Rico,Peer,1,447.50000,330201,BrandMeister (U.S.A.),330201,1,,-5.000,KP4NU,TS1 TS2
 KP4AG,Guaynabo,,Puerto Rico,Master,1,447.75000,330304,brandmeister,330304,1,,-5.000,KP4GA,TS1 TS2
 KE2KL,Anasco,,Puerto Rico,Peer,1,442.05000,330501,NY-DMR,330501,1,,+5.000,KE2KL,TS1 TS2
@@ -11336,7 +11335,6 @@ CE3HIR,Santiago,Reg.Metr. de Santiago,Chile,Master,1,146.72500,730029,7303059,73
 CE5RMC,Chiguayante,Bio Bio,Chile,Master,1,147.41500,730030,BM,730030,1,Repetidor en modo pruebas del Radioclub Manquimvida de Chiguayante<br><br>Frecuencia: 146.415<br>Modo Siplex<br>TG Esttico: 7305<br>Color: 1<br>TS: 2<br>,-0.600,CE5RMC,TS2
 CA2LDW,CANELA,Coquimbo,Chile,Peer,1,439.10000,730031,bm,730031,1,,-5.000,CA2LDW,TS1 TS2
 CD1HDG,Copiapo,Atacama,Chile,Master,1,147.27000,730032,BM,730032,1,,-0.600,CE1HDG,TS1 TS2
-CD1YRC,Vallenar,Atacama,Chile,Master,1,145.20000,730033,BM,730033,0,Repetidor de prueba,-0.600,CA1YRC,TS1 TS2
 CE4PEC,San Javier,Maule,Chile,Master,1,438.10000,730034,BM,730034,1,,-5.000,CE4PEC,Mixed Mode
 CE4PEC,San Javier,Maule,Chile,Master,1,434.75500,730035,BM,730035,1,,+5.000,CE4PEC,Mixed Mode
 CD2HEY,Chile,Valparaiso,Chile,Master,1,146.54000,730036,BM,730036,1,,-5.000,CD2HEY,TS1

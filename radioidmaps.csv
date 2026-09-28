@@ -3247,7 +3247,7 @@ DB0OFL,Rhauderfehn,Niedersachsen / Bremen,Germany,Master,1,144.83750,"DMR, D-Sta
 DL0LGT,Wilhelmshaven,Niedersachsen / Bremen,Germany,Master,1,438.45000,BM,53.515881,8.145610,262015,TS1: TG26429;  TS2: TG2623,-7.6,ACTIVE,DL6BAJ,TS1 TS2
 DL0LGT,Wilhelmshaven,Niedersachsen / Bremen,Germany,Master,1,439.97500,BM,53.56845463131945,8.241287350265534,262016,portabel Repeater for events and tests,-9.4,ACTIVE,DL6BAJ,TS1 TS2
 DB0HRU,Abtsteinach,Hessen,Germany,Master,1,438.76250,BM,49.54012,8.80350,262017,Test operation.,-7.6,ACTIVE,DG4ZV,Mixed Mode
-DG3SBI,Alfdorf,Baden-Wuerttemberg,Germany,Master,1,439.31250,BM,0.0,0.0,262018,TG1: 2620<br>TG2: 26273<br>,-7.6,ACTIVE,DG3SBI,Mixed Mode
+DG3SBI,Alfdorf,Baden-Wuerttemberg,Germany,Master,1,439.31250,BM,48.8405843,9.7174694,262018,TG1: 2620<br>TG2: 26273,-7.6,ACTIVE,DG3SBI,Mixed Mode
 DB0SKF,Freudenstadt,Baden-Wuerttemberg,Germany,Peer,1,438.27500,bm,48.436581,8.389080,262019,no static TG's,-7.600,ACTIVE,DJ2GZ,TS1 TS2
 DO0LP,Remscheid,Nordrhein-Westfalen,Germany,Master,1,438.33750,Bm,51.174198,7.217354,262020,"TS1 - TG 265112,     TS2 - TG 8 Bergisch Land (26313),     TS2 - TG 262020 (DOK R13)",-7.6000,ACTIVE,DO8LP,TS1 TS2
 DM0NBG,Nuernberg,Bayern,Germany,Peer,1,438.52500,BM,49.449326,11.148937,262021,,-7.600,ACTIVE,DL6WZ,TS1 TS2
@@ -3502,7 +3502,6 @@ DL1BH,Bremerhaven,,Germany,,1,439.00000,BM,53.556896,8.578429,262302,,-7.600,ACT
 DB0RVB,Ravensberg,Niedersachsen / Bremen,Germany,Master,1,439.45000,BM,51.62152,10.52669,262303,,-7.600,ACTIVE,DL8AAP,TS1 TS2
 DO0SZ,Salzgitter,,Germany,,1,439.46250,BM,52.1503721,10.3593147,262304,,-7.600,ACTIVE,DO1OTD,TS1 TS2
 DB0JUI,Marienhafe-Ostfriesland,Niedersachsen / Bremen,Germany,Peer,1,439.27500,BM,53.678627,6.996511,262305,,-7.600,ACTIVE,DF6BT,TS1 TS2
-DB0XX,Helmstedt,Niedersachsen / Bremen,Germany,Peer,1,439.50000,Brandmeister,52.240101,11.009440,262306,,-7.600,ACTIVE,DK2HP,TS1 TS2
 DM0WL,Winsen Luhe,Niedersachsen / Bremen,Germany,Peer,1,439.03750,BM,53.35593,10.20795,262307,"TS1: TG262 Deutschland | TG9112 Emergency | TG910 WW German<br>TS2: TG9 Local | TG8 Regio (Niedersachsen Nord, DB0AGM/DB0BUC/DB0WL, ext. TG26236) | TG26220 Region Hamburg | TG26221 Hamburg City |  TG 26220 und TG 26221 Mo.-Fr. nicht von 6:00-8:00Uhr",-7.600,ACTIVE,DL7TJ,TS1 TS2
 DM0DOS,Doerenberg,Niedersachsen / Bremen,Germany,Peer,1,145.71250,BM,52.1775,8.044740000000001,262308,,-0.600,ACTIVE,DJ2QW,TS1 TS2
 DL9AM,Herzberg am Harz,Niedersachsen / Bremen,Germany,Master,1,438.37500,DMR-plus,51.6661670,10.3433330,262309,,-7.600,ACTIVE,DL9AM,TS1 TS2
@@ -4251,7 +4250,7 @@ YM2KDB,KARAMURSEL,Marmara Region,Turkiye,Peer,2,439.37500,BM,40.6839290,29.60503
 YM4KL,NAZILLI,,Turkiye,,1,439.20000,None,,,286092,,-7.600,ACTIVE,YM4KL,
 YM4KL,NAZILLI,,Turkiye,,1,439.20000,None,,,286093,,-7.600,ACTIVE,YM4KL,
 YM3KRM,Balkesir,,Turkiye,Master,1,439.16250,BM,39.683655,27.998053,286101,,-7.600,ACTIVE,TA3UYC,Mixed Mode
-YM3KK,Bursa,,Turkiye,,1,439.40000,BM,40.141945,29.108545,286160,,-7.600,ACTIVE,TA3NHI,TS1 TS2
+YM3KK,Bursa,Marmara Region,Turkiye,Peer,1,439.40000,BM,40.141945,29.108545,286160,,-7.600,ACTIVE,TA3NHI,TS1 TS2
 YM3KB,Bursa Nilufer,,Turkiye,,1,145.70000,None,40.14158,29.13577,286161,,-0.600,ACTIVE,TA3SA,
 YM3KBU,Bursa,,Turkiye,,1,439.16250,BM,40.338520,29.018963,286162,,-7.600,ACTIVE,TA3ASN,TS1 TS2
 YM3KI,Inegol / Bursa,,Turkiye,,1,439.37500,None,,,286163,,-7.600,ACTIVE,TA3AHS,
@@ -4825,6 +4824,7 @@ VA2XPR,Notre-Dame-du-Mont-Carmel,Quebec,Canada,Peer,1,449.82500,BrandMeister,46.
 VA7UWR,Vancouver Island portable,British Columbia,Canada,Master,10,433.10000,Brandmeister,50.0000000,-126.0000000,302472,None,+5.000,ACTIVE,VA7UW,TS1 TS2
 VA7UW,Vancouver Island Portable,British Columbia,Canada,Master,10,433.10000,Brandmeister,49.0000000,-124,302473,None,+5.000,ACTIVE,VA7UW,TS1 TS2
 VE4DRK,Winnipeg,Manitoba,Canada,Peer,1,146.97000,30217,49.8368010,-97.0781430,302474,Testing configuration,-0.600,ACTIVE,VE4DRK,TS1
+VE2RXZ,Montreal,Quebec,Canada,Peer,0,444.60000,Brandmeister,45.5588560,-73.5519230,302475,None,5.000,ACTIVE,VE2TRF,TS1 TS2
 VE5DMR,Swift Current,Saskatchewan,Canada,None,1,443.00000,DMR-MARC Canada,50.30184070000001,-107.8393936,302501,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada<br>Time Slot #1 - Group Call 310 = TAC310<br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba<br>Time Slot #2 - Group Call 3026 = Alberta<br>Time Slot #2 - Group Call 3029 = New Brunswick<br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE5EN<br>Contact email: ve5en@shaw.com,+5.000,ACTIVE,VE5EN,TS1 TS2
 VE6VPR,Edmonton,Alberta,Canada,Peer,1,440.80000,DMR-MARC Canada,53.5265078,-113.3021517,302600,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: VE6AEW<br>Contact email:,+5.000,ACTIVE,VE6AEW,TS1 TS2
 VE6RYC,Calgary,Alberta,Canada,Master,1,444.00000,DMR-MARC Canada,51.0448476,-114.0710449,302601,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 302 = Canada <br>Time Slot #1 - Group Call 310 = TAC310 <br>Time Slot #1 - Group Call 9999 = Audio Test<br>Time Slot #2 - Group Call 3023 = Ontario<br>Time Slot #2 - Group Call 3022 = Quebec<br>Time Slot #2 - Group Call 3024 = Manitoba <br>Time Slot #2 - Group Call 3026 = Alberta <br>Time Slot #2 - Group Call 3029 = New Brunswick <br>Time Slot #2 - Group Call 3027 = British Columbia<br>Time Slot #2 - Group Call 2 = Local<br><br>You Must Have [ARS] Disabled in Your Radio<br><br>Contact: Doug Howard, VE6CID<br>Contact email:ve6cid@me.com",+5.000,ACTIVE,VE6CID,TS1 TS2
@@ -8019,7 +8019,7 @@ W9IPA,Champaign,Illinois,United States,Master,1,443.76875,BM,40.1164843,-88.2430
 W3ZTB,Harrisburg,Pennsylvania,United States,Master,1,443.12300,BM,40.2642551305121,-76.88323098300609,313393,,+5.000,ACTIVE,W3ZTB,TS1
 KB7APU,BLUE RIVER--OR SAR,Oregon,United States,Peer,1,440.63750,OR SAR,44.1351187,-122.275782,313394,"OREGON SAR REPEATER--SEE USER GUIDE--WWW.SARDMR.COM<br>TALK GROUPS--TS1  3187 PNW 1, NO QSO, CALLING ONLY<br>3141 OREGON 1, ACTIVATED BY SCHEDULE AND PTT ONLY<br>3153 WASHINGTON 1, PTT SPECIAL USE ONLY<br>3181 LOCAL 1--PRIMARY USE- ALL STATIONS ON THE NETWORK MONITOR LOCAL 1, LINKED WITH ALL REPEATERS<br>9998 PARROT AUDIO READBACK<br>TIME SLOT 2--3166 LOCAL 2, LOCAL REPEATER CHAT, DOES NOT TIE UP ENTIRE NETWORK<br>31771 PNW REGIONAL, ACTIVED BY SCHEDULE ONLY FOR NET<br>3 SEARCH AND RESCUE TALK GROUPS ARE NOT PUBLISHED BUT FOLKS ARE WELCOME TO LISTEN IN.<br>NOTE--NOT A BRANDMEISTER REPEATER.  ONLY USE SUPPORTED TALK GROUPS LISTED HERE.  SYSTEM SUPPORTS MOTOROLA ROAMING ONLY, NO OTHER ROAMING OR APRS SUPPORTED.",+5.00,ACTIVE,KB7APU,TS1 TS2
 W6POC,Burney,California,United States,Master,0,440.07500,YSF,40.88626455140245,-121.78952824780144,313395,,+5.000,ACTIVE,W6POC,Mixed Mode
-N7KP,hudson,Florida,United States,Peer,1,443.62500,BM,28.3617709,-82.6932847,313396,"FLA 3112,TAC 310, NA 93, USA 3100, TAC 311., TAC 312, WA 3153",+5.000,ACTIVE,N7KP,TS1 TS2
+N7KP,hudson,Florida,United States,Peer,1,441.96250,BM,28.3617709,-82.6932847,313396,"FLA 3112,TAC 310, FLA TAC 31120,TAC 311",+5.000,ACTIVE,N7KP,TS1 TS2
 N9WNH,Columbia City,Indiana,United States,Peer,1,442.55000,Crossroads,41.171725,-85.487082,313397,,+5.000,ACTIVE,N9WNH,Mixed Mode
 N1DTA,Mitchellsburg,Kentucky,United States,Peer,1,444.51250,kentuckydmr c bidge,37.5927,-84.9433,313398,,+5.000,ACTIVE,N1DTA,TS1 TS2
 N1DTA,Glasgow,Kentucky,United States,Peer,1,444.17500,kentuckydmr c bidge,36.9993,-85.9227,313399,,+5.000,ACTIVE,N1DTA,TS1 TS2
@@ -9056,7 +9056,6 @@ WR4SC,Charleston,South Carolina,United States,Peer,1,443.03750,NC-PRN,32.7764749
 WR4SC,Sumter,South Carolina,United States,Peer,1,442.31250,NC-PRN,33.9433066,-80.2962827,314510,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeaters Coverage Area<br> <br>Contact Name: Roger, AE4UX<br>Email: contact@ncprn.net",+5.000,ACTIVE,WR4SC,TS1 TS2
 WR4SC,Greenwood,South Carolina,United States,Peer,1,443.83750,NC-PRN,34.2049348,-82.1062807,314511,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeaters Coverage Area<br> <br>Contact Name: Roger, AE4UX<br>Email: contact@ncprn.net",+5.000,ACTIVE,WR4SC,TS1 TS2
 WR4SC,Florence,South Carolina,United States,Peer,1,442.16250,NC-PRN-,34.2072594,-79.7607422,314512,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee/South Carolina<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Click here to view the Repeater's Coverage Area (http://24.172.25.174:85/resources/dillon_coverage_map.jpg)<br><br>Contact Name: Scott Whittaker, AE4UX<br><br>Email: contact@ncprn.net",+5.000,ACTIVE,WR4SC,TS1 TS2
-K4KGB,Waynesville,North Carolina,United States,Master,1,443.85000,FL-DMR,35.4887476,-82.9888725,314513,,+5.000,ACTIVE,K4IUG,TS1 TS2
 WR4SC,Rock Hill,South Carolina,United States,Peer,1,440.51250,NC PRN,34.9248667,-81.0250784,314514,,+5.000,ACTIVE,WR4SC,TS1 TS2
 WR4SC,Spartanburg,South Carolina,United States,Peer,1,440.66250,NC PRN,34.9495672,-81.9320482,314515,,+5.000,ACTIVE,WR4SC,TS1 TS2
 WR4SC,Orangeburg,South Carolina,United States,Peer,1,440.58750,NC PRN,33.4918203,-80.8556476,314516,,+5.000,ACTIVE,WR4SC,TS1 TS2
@@ -9909,7 +9908,7 @@ NP4PC,San Sebastian,All Regions,Puerto Rico,Master,1,448.65000,BM,18.284902,-66.
 KP3JE,Aguada,,Puerto Rico,Master,1,449.62500,BM,18.1859,-67.1049,330115,,-5.000,ACTIVE,KP3JE,TS1
 WP4SBC,Maunabo,All Regions,Puerto Rico,Master,1,439.80000,FreeDMR,17.996719,-65.884503,330116,Bienvenidos a RadioAficionado Digital P.R. Jueyero Isla<br>BM DMR: 330116 en Maunabo P.R. Cuidad Jueyera..Grupo con temas de la radio y otros de interés para los RadioAficionados..Ven y Comparte con Nosotros...,+5.000,ACTIVE,WP4SBC,TS2
 KP3Y,LAJAS,All Regions,Puerto Rico,Master,1,447.97500,BM,17.99828,-67.09462,330117,"TS1 330050, TS2 33027",-5.000,ACTIVE,KP3Y,TS1 TS2
-KP4IGI,Bayamon,All Regions,Puerto Rico,Master,1,440.80000,300101127,18.2885400,-66.1628100,330118,None,+5.000,ACTIVE,KP4IGI,TS2
+KP4IGI,Bayamon,All Regions,Puerto Rico,Master,1,440.80000,330010127,18.2885400,-66.1628100,330118,None,+5.000,ACTIVE,KP4IGI,TS2
 KP4NU,Caguas,,Puerto Rico,Peer,1,447.50000,BrandMeister (U.S.A.),18.2387995,-66.035249,330201,,-5.000,ACTIVE,KP4NU,TS1 TS2
 KP4AG,Guaynabo,,Puerto Rico,Master,1,447.75000,brandmeister,18.3574502,-66.1109998,330304,,-5.000,ACTIVE,KP4GA,TS1 TS2
 KE2KL,Anasco,,Puerto Rico,Peer,1,442.05000,NY-DMR,18.2908652,-67.1388448,330501,,+5.000,ACTIVE,KE2KL,TS1 TS2
@@ -11336,7 +11335,6 @@ CE3HIR,Santiago,Reg.Metr. de Santiago,Chile,Master,1,146.72500,7303059,,,730029,
 CE5RMC,Chiguayante,Bio Bio,Chile,Master,1,147.41500,BM,-36.7938164,-73.072257,730030,Repetidor en modo pruebas del Radioclub Manquimávida de Chiguayante<br><br>Frecuencia: 146.415<br>Modo Siplex<br>TG Estático: 7305<br>Color: 1<br>TS: 2<br>,-0.600,ACTIVE,CE5RMC,TS2
 CA2LDW,CANELA,Coquimbo,Chile,Peer,1,439.10000,bm,-31.3893572,-71.4160487,730031,,-5.000,ACTIVE,CA2LDW,TS1 TS2
 CD1HDG,Copiapo,Atacama,Chile,Master,1,147.27000,BM,-27.3903070,-70.3290546,730032,,-0.600,ACTIVE,CE1HDG,TS1 TS2
-CD1YRC,Vallenar,Atacama,Chile,Master,1,145.20000,BM,0.0,0.0,730033,Repetidor de prueba,-0.600,ACTIVE,CA1YRC,TS1 TS2
 CE4PEC,San Javier,Maule,Chile,Master,1,438.10000,BM,-35.616001,-71.508003,730034,,-5.000,ACTIVE,CE4PEC,Mixed Mode
 CE4PEC,San Javier,Maule,Chile,Master,1,434.75500,BM,-35.669300,-71.831001,730035,,+5.000,ACTIVE,CE4PEC,Mixed Mode
 CD2HEY,Chile,Valparaiso,Chile,Master,1,146.54000,BM,-32.7393731,-70.7177971,730036,,-5.000,ACTIVE,CD2HEY,TS1
