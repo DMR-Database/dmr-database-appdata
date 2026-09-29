@@ -1819,7 +1819,7 @@ OE1XIK,Wien 22,Wien,Austria,Peer,1,438.42500,232191,DMR-plus,232191,1,,-7.600,OE
 OE1XQU,Wienerberg,Wien,Austria,Peer,1,438.45000,232192,DMR-plus,232192,1,,-7.600,OE1KBC,TS1 TS2
 OE1XQU,Laaerberg,Wien,Austria,Peer,1,438.20000,232193,DMR-plus,232193,1,,-7.600,OE1KBC,TS1 TS2
 OE1XAR,Wien/Bisamberg,Wien,Austria,,1,438.33750,232197,DMR-plus,232197,0,,-7.600,OE1CMW,TS1 TS2
-OE2XSV,Sonnblick,,Austria,Master,1,439.08750,232201,DMR-plus,232201,0,,-7.600,OE7JTK,TS1 TS2
+OE2XSV,Rauris,Salzburg,Austria,Master,1,439.08750,232201,DMR-plus,232201,0,,-7.600,OE7JTK,TS1 TS2
 OE2XZR,Salzburg JN67NT,Salzburg,Austria,,1,439.18500,232222,DMR-plus,232222,0,,-8.000,OE2RPL,TS1 TS2
 OE2XAP,Tannberg,Salzburg,Austria,Peer,1,438.60000,232223,Brandmeister,232223,1,,7.600,OE2WAO,TS1 TS2
 OE3XWJ,Jauerling,,Austria,Master,1,438.42500,232301,DMR-plus,232301,1,,-7.600,OE1KBC,TS1 TS2
@@ -3335,7 +3335,6 @@ DM0RD,Berlin/Tempelhof,,Germany,Peer,1,439.58750,262110,BM,262110,0,,-7.600,DG1T
 DB0WOL,Bad Freienwalde,,Germany,,1,439.55000,262111,BM,262111,1,,-7.600,DG2BTR,TS1 TS2
 DB0FFS,Scharenstetten,Baden-Wuerttemberg,Germany,Peer,1,439.32500,262112,BM,262112,1,,-7.6,DL2CC,TS1 TS2
 DO0AKW,Waldthurn,Bayern,Germany,Master,1,439.82500,262113,"BM, P25",262113,1,,-9.4,DO1AKW,Mixed Mode
-DB0TRR,Ratingen,Nordrhein-Westfalen,Germany,Master,1,434.71250,262114,DMR-MARC,262114,1,,-0.600,DC0EC,TS1 TS2
 DB0ETL,Karlsruhe,Baden-Wuerttemberg,Germany,Master,1,438.48750,262115,BM,262115,1,,-7.6,DF4IAO,TS1 TS2
 DB0KSN,Soest,Nordrhein-Westfalen,Germany,Peer,1,438.31250,262116,BM,262116,1,,-7.600,DO8JG,TS1 TS2
 DB0XTK,Neuoetting,Bayern,Germany,Master,1,438.36250,262117,BM,262117,1,,-7.600,DD7MH,TS1 TS2
@@ -3502,6 +3501,7 @@ DL1BH,Bremerhaven,,Germany,,1,439.00000,262302,BM,262302,1,,-7.600,DL1BH,TS1 TS2
 DB0RVB,Ravensberg,Niedersachsen / Bremen,Germany,Master,1,439.45000,262303,BM,262303,1,,-7.600,DL8AAP,TS1 TS2
 DO0SZ,Salzgitter,,Germany,,1,439.46250,262304,BM,262304,1,,-7.600,DO1OTD,TS1 TS2
 DB0JUI,Marienhafe-Ostfriesland,Niedersachsen / Bremen,Germany,Peer,1,439.27500,262305,BM,262305,1,,-7.600,DF6BT,TS1 TS2
+DB0XX,Helmstedt,Niedersachsen / Bremen,Germany,Peer,1,439.50000,262306,Brandmeister,262306,1,,-7.600,DK2HP,TS1 TS2
 DM0WL,Winsen Luhe,Niedersachsen / Bremen,Germany,Peer,1,439.03750,262307,BM,262307,1,"TS1: TG262 Deutschland | TG9112 Emergency | TG910 WW German<br>TS2: TG9 Local | TG8 Regio (Niedersachsen Nord, DB0AGM/DB0BUC/DB0WL, ext. TG26236) | TG26220 Region Hamburg | TG26221 Hamburg City |  TG 26220 und TG 26221 Mo.-Fr. nicht von 6:00-8:00Uhr",-7.600,DL7TJ,TS1 TS2
 DM0DOS,Doerenberg,Niedersachsen / Bremen,Germany,Peer,1,145.71250,262308,BM,262308,1,,-0.600,DJ2QW,TS1 TS2
 DL9AM,Herzberg am Harz,Niedersachsen / Bremen,Germany,Master,1,438.37500,262309,DMR-plus,262309,1,,-7.600,DL9AM,TS1 TS2
@@ -3641,7 +3641,6 @@ DB0LR,Winterberg,Nordrhein-Westfalen,Germany,Peer,2,439.97500,262453,DMR-plus,26
 DB0CW,Gummersbach,Nordrhein-Westfalen,Germany,,1,145.66250,262454,DMR-plus,262454,1,,-0.600,DJ3CW,TS1 TS2
 DB0CW,Gummersbach,,Germany,Peer,1,439.48750,262455,DMR-plus,262455,1,,-7.600,DJ3CW,TS1 TS2
 DB0MON,Nordeifel/Kreis AC,Nordrhein-Westfalen,Germany,Peer,1,439.77500,262456,DMR-plus,262456,0,,-9.400,DH6KQ,TS1 TS2
-DM0RS,Remscheid,Nordrhein-Westfalen,Germany,,1,438.81250,262457,DMR-plus,262457,1,,-7.600,DC0EC,TS1 TS2
 DO0WT,Lemgo,Nordrhein-Westfalen,Germany,,1,439.92500,262458,BM,262458,1,,-9.400,DO2THU,TS1 TS2
 DO0KLV,Kleve,Nordrhein-Westfalen,Germany,,2,439.40000,262459,BM,262459,1,,-7.600,DO1KVH,TS1 TS2
 DB0DBN,Oelberg Bonn,Nordrhein-Westfalen,Germany,Peer,1,439.97500,262460,DMR-plus,262460,1,,-9.400,DL1YBL,TS1 TS2
@@ -4079,19 +4078,19 @@ LX0DUC,Diekirch,All Regions,Luxemburg,Peer,2,439.48750,270123,BM,270123,1,,-7.60
 LX0LARO,Larochette,,Luxemburg,,2,439.48750,270124,BM,270124,1,,-7.600,LX2CS,TS1 TS2
 LX0DML,Blaschette,,Luxemburg,Master,1,438.33750,270130,XLX,270130,1,,-7.600,LX1IQ,TS1 TS2
 LX0DMM,Machtum,,Luxemburg,Master,1,145.58750,270140,XLX,270140,1,,-0.600,LX1IQ,TS1 TS2
-EI2SIRG,Waterford,,Ireland,Master,1,430.25000,272001,BM,272001,1,,+9.000,EI8JA,TS1 TS2
-EI7CDD,Co Waterford,,Ireland,Master,1,439.65000,272002,BM,272002,1,,-9.000,EI8JA,TS1 TS2
+EI2SIRG,Co Cork,All Regions,Ireland,Master,1,430.25000,272001,BM,272001,1,,+9.000,EI8JA,TS1 TS2
+EI7CDD,Co - Waterford,All Regions,Ireland,Master,1,439.65000,272002,BM,272002,1,,-9.000,EI8JA,TS1 TS2
 EI2GCD,Galway City,,Ireland,,1,144.85000,272003,DMR-plus,272003,1,,0.000,EI5DD,TS1 TS2
 EI7RHD,Letteragh Galway,,Ireland,Master,1,439.45000,272006,BM,272006,1,,-9.000,EI5DD,TS1 TS2
 EI7WCD,Co. Waterford,,Ireland,,1,439.67500,272007,None,272007,1,,-9.000,EI7IG,
-EI7MLD,Mt Leinster,,Ireland,Master,1,430.30000,272008,BM,272008,1,,+9.000,EI8JA,TS1 TS2
+EI7MLD,Mount Leinster,All Regions,Ireland,Master,1,430.30000,272008,BM,272008,1,,+9.000,EI8JA,TS1 TS2
 EI7AKR,Abbeyknockmoy,,Ireland,Master,1,430.82500,272009,BM,272009,1,,+7.600,EI5DD,TS1 TS2
 EJ7IBD,Inishbofin Island,,Ireland,Master,1,439.47500,272010,BM,272010,0,,-9.000,EI5DD,TS1 TS2
 EI7LRD,Knockroe Loughrea,,Ireland,Master,1,439.50000,272011,BM,272011,1,,-9.000,EI5DD,TS1 TS2
 EI2BED,roscommon,All Regions,Ireland,Peer,1,144.86250,272012,brandmeister,272012,1,,0.000,EI9HQB,TS1
 EI7SLR,GALWAY,All Regions,Ireland,Master,1,433.35000,272013,BM,272013,1,,+1.6000,EI4ABB,TS1
 EI7PMD,Portmarnock,All Regions,Ireland,Master,2,439.46250,272014,"BM,DMR",272014,1,Static TG 2722,-9.00000,EI4HOB,TS1 TS2
-EI7FXD,Cork City,,Ireland,Master,1,430.25000,272015,BM,272015,1,,+9.000,EI8JA,TS1 TS2
+EI7FXD,Cork City,All Regions,Ireland,Master,1,430.25000,272015,BM,272015,1,,+9.000,EI8JA,TS1 TS2
 EI2LCG,Limerick,,Ireland,,2,144.86250,272016,None,272016,1,,0.000,EI4KP,
 EI7SNR,Mullingar,All Regions,Ireland,Peer,2,439.70000,272018,FreeDMR,272018,1,,-9.000,EI6HPB,TS1 TS2
 EI7FGD,Dublin,All Regions,Ireland,Peer,13,430.26250,272019,BM,272019,1,,+9.000,EI2OARC,TS2
@@ -9664,6 +9663,8 @@ KK7HEP,Roseburg,Oregon,United States,Peer,1,440.92500,315165,BM,315165,1,None,+5
 NE4SC,Green Sea,South Carolina,United States,Peer,1,147.33000,315166,Brandmeister,315166,1,None,+0.600,K4SHP,TS1 TS2
 KC5GO,Novato,California,United States,Peer,0,442.72500,315167,98002,315167,1,None,5.000,KC5GO,TS2
 WA6CR,Novato,California,United States,Peer,14,442.72500,315168,98002,315168,1,None,5.000,WA6CR,TS2
+W1ASS,Deerfield,New Hampshire,United States,Master,0,927.72500,315169,BrandMeister,315169,1,None<br>Test repeater for working on DMR network,-25.000,W1ASS,TS1 TS2
+W9ML,Hebron,Indiana,United States,Master,1,444.55000,315170,Brandmeister,315170,1,None,+5.000,W9ML,Mixed Mode
 NO7RF,Mazama,Washington,United States,Peer,3,145.21000,315301,PNWDigital,315301,0,"Time Slot #1- Group Call 3153 = Washington Statewide 1<br>Time Slot #1- Group Call 3191 = Cascades 1<br><br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: http://www.pnwdigital.net",+2.78,NO7RF,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,0,433.15000,315302,NO7RF,315302,0,Demo/Testing,+16.000,NO7RF,TS1 TS2
 WA7DMR,Couer d Alene,Idaho,United States,Peer,1,440.92500,315303,PNWDigital,315303,1,"Time Slot #1- Group Call 3116 = Idaho Statewide 1<br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: https://pnwdigital.net",+5.000,NO7RF,TS1 TS2
@@ -9962,8 +9963,8 @@ XE2RCS,Saltillo,Coahuila,Mexico,Peer,1,147.70000,334053,BM MEXICO,334053,1,None,
 XE2JMN,Ensenada,Baja California Norte,Mexico,Peer,1,430.12500,334054,IPSC2,334054,1,None,-5.000,"XE2JMN, XE2JCC",TS1
 XE2JSC,Saltillo,Coahuila,Mexico,Peer,15,433.52500,334055,BM/DMR+,334055,1,None,0.000,XE2JSC,Mixed Mode
 XE2GF,Tijuana,Baja California Norte,Mexico,Peer,1,438.32500,334056,DMR+,334056,1,None,-5.000,XE2GF,TS2
-XE2TCP,Monterrey,Nuevo Leon,Mexico,Master,2,438.32500,334057,Brandmeister,334057,1,None,-5.000,XE2TCP,TS1 TS2
-XE2W,MONTERREY,Nuevo Leon,Mexico,Peer,1,438.00000,334058,9999999,334058,1,None,-5.000,XE2W,Mixed Mode
+XE2TCP,Monterrey,Nuevo Leon,Mexico,Master,2,438.27500,334057,Brandmeister,334057,1,None,-5.000,XE2TCP,TS1 TS2
+XE2W,MONTERREY,Nuevo Leon,Mexico,Peer,1,438.00000,334058,334058,334058,1,None,-5.000,XE2W,TS1 TS2
 XE1EFQ,Mexico City,Mexico City,Mexico,Peer,1,438.22500,334101,URAM Net,334101,1,"Time Slot #1 - Grp Call 1 = World Wide PTT 2 min<br>Time Slot #1 - Grp Call 3 = North America PTT 15 <br>Time Slot #1 - Grp Call 14 = WW Spanish <br>Time Slot #1 - Grp Call 334 = Mexico<br>Time Slot #2 - Grp Call 2 = Local D.F. <br>Time Slot #2 - Grp Call 9998 = Parrot PTT 2 <br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Jose, XE1EFQ<br>Email: xe1efq@gmail.com",-5.000,XE1EFQ,TS1 TS2
 XE1EFQ,Mexico City,Mexico City,Mexico,Peer,1,438.25625,334102,URAM Net,334102,1,"Time Slot #1 - Grp Call 1 = World Wide PTT 2 min<br>Time Slot #1 - Grp Call 3 = North America PTT 15<br>Time Slot #1 - Grp Call 14 = WW Spanish <br>Time Slot #1 - Grp Call 334 = Mexico<br>Time Slot #2 - Grp Call 2 = Local D.F. <br>Time Slot #2 - Grp Call 9998 = Parrot PTT 2 <br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Jose, XE1EFQ<br>Email: xe1efq@gmail.com",-5.000,XE1EFQ,TS1 TS2
 XE1EL,Atotonilco,Jalisco,Mexico,Peer,1,146.97000,334103,DMR+ IPSC2,334103,1,,-0.600,XE1EL,TS1 TS2
