@@ -730,7 +730,7 @@ ED3YAI,Tosa dAlp,,Spain,,1,145.71250,214325,DMR-plus,214325,1,,-0.600,EA3IK,TS1 
 ED3ZAT,Tortosa,,Spain,,1,438.26250,214326,BM,214326,1,,-7.600,EB3GHN,TS1 TS2
 ED3ZAS,Esparreguera,Barcelona,Spain,Master,1,438.50000,214327,BM,214327,1,,-7.600,EA3PJ,TS1 TS2
 ED3ZAG,Garraf,,Spain,,1,438.23750,214328,DMR-plus,214328,1,,-7.600,EA3HKB,TS1 TS2
-ED3YBD,Palleja,,Spain,,1,438.43750,214331,DMR-plus,214331,1,,-7.600,EA3FUD,TS1 TS2
+ED3YBD,Palleja,Barcelona,Spain,Peer,1,438.43750,214331,DMR-plus,214331,1,,-7.600,EA3FUD,TS1 TS2
 ED3YAI,Tosa dAlp,,Spain,,1,438.43750,214332,DMR-plus,214332,1,,-7.600,EA3IK,TS1 TS2
 ED3YAB,Montserrat - BCN,,Spain,,1,439.41250,214333,DMR-plus,214333,1,,-7.600,EA3IK,TS1 TS2
 ED3YAD,Sant Cugat del Valle,,Spain,,1,438.97500,214335,BM,214335,1,,-7.600,EA3GIL,TS1 TS2
@@ -1919,7 +1919,7 @@ GB7DVS,DV Scotland Phoenix,Scotland,United Kingdom,Peer,1,439.60000,234025,DV Sc
 GB7AR,Ridley,England,United Kingdom,Master,15,439.52500,234026,BM,234026,1,,-9.0,G6VBJ,TS1 TS2
 GB7FT,Portsmouth,England,United Kingdom,Master,3,439.71250,234027,BM,234027,1,,-9.000,M0PPR,TS1 TS2
 GB3EB,Newhaven,England,United Kingdom,Peer,3,145.78750,234031,BM,234031,1,,-0.600,G0TJH,Mixed Mode
-GB7NV,Hucknall,England,United Kingdom,Master,1,430.82500,234032,FreeDMR,234032,1,,+7.6,M0NGT,TS1 TS2
+GB7NV,Hucknall,England,United Kingdom,Master,1,430.82500,234032,FreeDMR,234032,1,,+7.6,G0HRV,TS1 TS2
 GB7KV,Kemnay,Scotland,United Kingdom,Master,5,430.81250,234033,Extended Freedom,234033,1,,+7.6,G0WUR,Mixed Mode
 GB7BE,BECCLES,England,United Kingdom,Peer,2,439.66250,234034,DVSPH,234034,1,,-9.000,M0JGX,TS1 TS2
 GB3IS,East Kilbride South Uist,Scotland,United Kingdom,Peer,7,430.88750,234035,BM,234035,0,,+7.600,G8SAU,Mixed Mode
@@ -2580,7 +2580,7 @@ SK7HW,Vaxjo,Kronoberg,Sweden,Master,7,434.70000,240770,BM,240770,1,"2400,2402,24
 SK7DL,Emmaboda,,Sweden,,7,432.78750,240771,BM,240771,1,,2.000,SM7XOH,TS1 TS2
 SK7BQ,Kristianstad,Skane,Sweden,Master,7,434.52500,240777,BM,240777,1,,-2.000,SA7BGG,TS1 TS2
 SM7YXK,Malmoe,,Sweden,,7,434.70000,240799,BM,240799,0,,-2.000,SM7YKX,TS1 TS2
-LD1OA,Roverkollen,Oslo,Norway,,1,434.88750,242002,BM,242002,1,,-2.000,LB9GE,TS1 TS2
+LD1OA,Roverkollen,Oslo,Norway,Master,1,434.88750,242002,BM,242002,1,,-2.000,LB9GE,TS1 TS2
 LD3DV,Drammen,Akershus,Norway,Master,1,434.52500,242003,DMR,242003,1,,-2.000,LA0HY,TS1 TS2
 LA8OR,Bislingen,Akershus,Norway,Master,1,434.60000,242004,BM,242004,1,,-2.0,LA8JKA,TS1 TS2
 LD1NR,Lillestrm,Innlandet,Norway,Master,1,434.63750,242005,BM,242005,1,242<br>2421<br>2429,-2.000,LA3EHA,TS1 TS2
@@ -2901,7 +2901,7 @@ UD6Y,None,,Russia,Peer,1,438.66250,250612,BM,250612,1,None,-7.600,UD6Y,TS1 TS2
 UB6RNA,,,Russia,,1,439.00000,250613,BM,250613,1,,-7.600,UB6RNA,TS1 TS2
 RR6AO,,,Russia,,1,0.00000,250614,BM,250614,0,,,RK6ARW,TS1 TS2
 R6DHJ,Washington,All Regions,Russia,Peer,1,446.01250,250615,BM,250615,1,None,-12.900,R6DHJ,TS1 TS2
-RR6UAA,None,,Russia,Master,3,434.60000,250616,BM,250616,0,None,-1.600,RC6UAD,TS1 TS2
+RR6UAA,Astrakhan,All Regions,Russia,Master,3,434.60000,250616,BM,250616,0,None,-1.600,RC6UAD,TS1 TS2
 R6UAG,,,Russia,,1,431.75000,250617,BM,250617,1,,+7.600,R6UAG,TS1 TS2
 RD3ANL,,,Russia,,1,0.00000,250624,BM,250624,0,,,RD3ANL,TS1 TS2
 RR7KAA,atr Da,,Russia,Master,1,434.62500,250701,BM,250701,1,None,-1.600,RK7K,TS1 TS2
@@ -3070,6 +3070,8 @@ SR5AWK,Warszawa,mazowieckie,Poland,Master,0,431.61250,260069,Local site,260069,1
 SR4BF,Brzoski Falki,podlaskie,Poland,Master,4,438.80000,260070,BrandMeister,260070,1,None,7.600,SP4SB,TS1 TS2
 SR8LUB,Lublin,lubelskie,Poland,Peer,0,439.40000,260071,"TetraPack, BM",260071,1,None,7.600,SQ8MXP,Mixed Mode
 SR7KFX,Uniejow,dzkie,Poland,Peer,0,439.25000,260072,DMR,260072,1,None,-7.600,SQ9EPG,TS1 TS2
+SR9NP,PRZEHYBA,maopolskie,Poland,Peer,9,438.93750,260073,www.radioklub.pl,260073,1,None,7.600,"SQ9OJV, SQ9OKT",TS1 TS2
+SR5WA,Warszawa,mazowieckie,Poland,Master,5,439.35000,260074,KO02mg,260074,1,None,-7.600,SO5WZ,TS1 TS2
 SR1KG,Kolobrzeg,zachodniopomorskie,Poland,Master,1,439.22500,260101,Brandmeister,260101,1,TG260 TG2601,-7.600,SQ1KW,TS1 TS2
 SR1UVX,Stargard,zachodniopomorskie,Poland,Master,1,439.38750,260102,Brandmeister,260102,1,,-7.600,SQ1GZG,TS1 TS2
 SR1UVH,Uznam Island,zachodniopomorskie,Poland,Master,1,439.02500,260103,Brandmeister,260103,1,,-7.600,SP1WSX,TS1 TS2
@@ -5295,7 +5297,6 @@ W9MJW,Covington,Indiana,United States,peer,1,443.08750,310480,BM Nation Wide Sta
 KJ7CMR,United States,South Carolina,United States,Peer,1,438.80000,310481,BM,310481,1,KJ7CMR - marine mobile - Monitors 146.520Mhz,-5.000,KJ7CMR,Mixed Mode
 N6CID,Nampa,Idaho,United States,Peer,3,442.95000,310482,BM,310482,1,,+5.0,N6CID,TS1 TS2
 W7BPD,Everson,Washington,United States,Peer,1,440.37500,310483,PNW,310483,1,,+5.000,W7BPD,TS2
-N8OFP,Rittman,Ohio,United States,Peer,7,443.73750,310484,Brandmeister,310484,1,,+5.000,N8OFP,TS2
 N5LUY,Spring,Texas,United States,peer,3,440.65000,310485,Lone Star,310485,1,,+5.000,N5LUY,2
 K7AZ,San Luis Obispo,California,United States,Peer,3,443.30000,310486,BrandMeister,310486,1,AARG Repeater  Installing 26 January 2019!,+5.000,K7AZ,TS1 TS2
 N8SCA,Fremont,Ohio,United States,Peer,7,442.06250,310487,Brandmeister,310487,1,"N8SCA ARES Sandusky Ohio, Ohio",+5.000,N8SCA,2
@@ -8120,6 +8121,7 @@ W5VOM,Port OConnor,Texas,United States,Peer,9,443.77500,313500,TMARC POC,313500,
 N5UBJ,Farmington,New Mexico,United States,Peer,1,442.32500,313501,AZ-TRBONET,313501,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 = Group Call 2 = AZ/NM Local<br>Time Slot #2 = Group Call 3100 = DCI Bridge<br>Time Slot #2 = Group Call 3176 = Regional SW<br>Time Slot #2 - Group Call 310 = TAC310<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Information: Bill, N5UBJ<br>Email: vanhuss@swwmail.net",+5.000,N5UBJ,TS1 TS2
 N5UBJ,Aztec,New Mexico,United States,Peer,1,442.25000,313502,AZ-TRBONET,313502,1,"Time Slot #1 - Group Call 1 = World Wide - PTT<br>Time Slot #1 - Group Call 13 = WW English <br>Time Slot #1 - Group Call 3 = N. America - PTT<br>Time Slot #2 = Group Call 2 = AZ/NM Local<br>Time Slot #2 = Group Call 3100 = DCI Bridge - PTT<br>Time Slot #2 = Group Call 3176 = Southwest Region - PTT<br>Time Slot #2 - Group Call 3185 = Cactus<br>Time Slot #2 - Group Call 3104 = Arizona Statewide<br>Time Slot #2 - Group Call 3135 = New Mexico Statewide<br>Time Slot #2 - Group Call 3148 = Texas Statewide - PTT<br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Information: Bill, N5UBJ<br>Email: vanhuss@swwmail.net",+5.000,N5UBJ,TS1 TS2
 KA8JMW,Albuquerque,New Mexico,United States,Peer,7,442.90000,313503,Rocky Mtn,313503,1,"Time Slot#1 - Group Call 700 = Colorado Wide<br>Time Slot#2 - Group Call 719 = Colorado South<br><br>You Must Have [ARS] Disabled Within Your Radio.<br><br>Contact: Ed, KA8JMW<br>Email: ka8jmw@arrl.org",+5.000,KA8JMW,TS1 TS2
+N5IA,Lordsburg,New Mexico,United States,Master,1,440.82500,313504,AZ-TRBONET,313504,1,Time Slot #1 - Group Call 1 = World Wide (PTT)<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America (PTT)<br>Time Slot #2 - Group Call 2 = AZ/NM Local<br>Time Slot #2 - Group Call 3100 = DCI Bridge (PTT)<br>Time Slot #2 - Group Call 3176 = Regional SW<br>Time Slot #2 - Group Call 3135 = New Mexico<br>Time Slot #2 - Group Call 3104 = Arizona<br>Time Slot #2 - Group Call 3185 = Cactus<br>Time Slot #2 - Group Call 3148 = LoneStar (PTT)<br><br>You Must Have [ARS] Disabled Within Your Radio,+5.000,"KD5OH, KD6CUB, N5BG, WB5LJO",TS1 TS2
 NM5BB,Los Alamos,New Mexico,United States,Peer,7,442.22500,313505,Colorado/Rocky Mountain,313505,1,,+5.000,NM5BB,TS1
 WA5IHL,Albquerque,New Mexico,United States,Peer,1,442.25000,313506,AZ Trbo,313506,1,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 = Group Call 2 = AZ/NM Local<br>Time Slot #2 = Group Call 3100 = DCI Bridge<br>Time Slot #2 = Group Call 3176 = Regional SW<br>Time Slot #2 - Group Call 310 = TAC310<br><br>You Must Have [ARS] Disabled Within Your Radio<br>,+5.000,WA5IHL,TS1 TS2
 KE5FYL,Grants,New Mexico,United States,Peer,1,441.32500,313507,BrandMeister,313507,1,,+5.000,K5HLH,TS1 TS2
@@ -9661,6 +9663,7 @@ WA6CR,Novato,California,United States,Peer,14,442.72500,315168,98002,315168,1,No
 W1ASS,Deerfield,New Hampshire,United States,Master,0,927.72500,315169,BrandMeister,315169,1,None<br>Test repeater for working on DMR network,-25.000,W1ASS,TS1 TS2
 W9ML,Hebron,Indiana,United States,Master,1,444.55000,315170,Brandmeister,315170,1,None,+5.000,W9ML,Mixed Mode
 KD9SAZ,Rockford,Illinois,United States,Master,1,443.45000,315171,AMCOMM,315171,1,None,+5.000,KD9SAZ,TS1 TS2
+KX4DOR,Ridgeville,South Carolina,United States,Peer,1,443.80000,315172,,315172,1,Dart (Dorchester County ARES) Emergency Coordinator,5.000,KX4DOR,TS2
 NO7RF,Mazama,Washington,United States,Peer,3,145.21000,315301,PNWDigital,315301,0,"Time Slot #1- Group Call 3153 = Washington Statewide 1<br>Time Slot #1- Group Call 3191 = Cascades 1<br><br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: http://www.pnwdigital.net",+2.78,NO7RF,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,0,433.15000,315302,NO7RF,315302,0,Demo/Testing,+16.000,NO7RF,TS1 TS2
 WA7DMR,Couer d Alene,Idaho,United States,Peer,1,440.92500,315303,PNWDigital,315303,1,"Time Slot #1- Group Call 3116 = Idaho Statewide 1<br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: https://pnwdigital.net",+5.000,NO7RF,TS1 TS2
@@ -10998,6 +11001,7 @@ LU5AM,Delta del Tigre,Buenos Aires,Argentina Republic,Master,15,433.92500,722051
 LU4HH,Bosque Alegre Cordoba Argentina,Cordoba,Argentina Republic,Master,1,434.60000,722052,BM,722052,1,LU4HH Radio Club Cordoba. open DMR Repeater located at Estacion Astrofisica de Bosque Alegre. 1256 metros sobre nivel del mar. Linked to Argentina Link.,+5.000,LU4HH,TS2
 LU2FM,Rosario,Santa Fe,Argentina Republic,Master,1,434.75000,722053,BM,722053,1,,+5.000,LU2FM,TS1 TS2
 LU2FM,Rosario,Santa Fe,Argentina Republic,Master,1,434.75000,722054,BM,722054,1,,+5.000,LU2FM,TS1 TS2
+LU4DQ,Quilmes,Buenos Aires,Argentina Republic,Peer,1,434.30000,722055,BM2222,722055,1,www.lu4dq.com.ar,5.000,LU4DQ,TS1 TS2
 PY2LY,Indaiatuba,Sao Paulo,Brazil,Master,1,439.62500,724002,Brandmeister,724002,1,,-5.000,PY2LY,TS1 TS2
 PY1NDN,Friburgo,Rio de Janeiro,Brazil,Master,1,147.27000,724003,DMR-plus,724003,0,TG-724 slot1,+0.600,PU1LOY,TS1 TS2
 PY2KCP,Espirito Santo do Pinhal,Sao Paulo,Brazil,Master,1,145.45000,724004,Brandmeister,724004,1,,-0.600,PU2XID,TS1 TS2
