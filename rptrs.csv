@@ -101,7 +101,6 @@ W2TUP,Tupper Lake,New York,United States,Peer,1,446.02500,113609,GARA,113609,0,,
 K2WW,Cranberry Lake,New York,United States,Peer,1,444.75000,113610,GARA,113610,0,,+5.000,K2WW,TS1 TS2
 K2WW,Parishville,New York,United States,Peer,1,147.07500,113611,GARA,113611,0,,+0.600,K2WW,TS1 TS2
 W2RGM,Dix Hills,New York,United States,Peer,1,448.52500,113612,GARA,113612,1,,-5.000,W2RGM,TS1 TS2
-W2RGM,Dix Hills,New York,United States,Peer,1,147.07500,113613,"GARA TS-2,",113613,1,,+0.600,W2RGM,TS1 TS2
 N2LEN,New Baltimore,New York,United States,Master,1,449.02500,113614,DMR-MARC,113614,0,,-5.000,N2LEN,TS1 TS2
 K2JRC,Bayside,New York,United States,Peer,3,438.58750,113615,Bronx TRBO,113615,1,"Time Slot<br>#1 - Group Call TG 9 Local Talk Group - FT<br>#1 - Group Call TG 9998 = Parrot Audio Test Server-PTT<br>#1 - Group Call TG 3 = North America - PTT<br>#1 - Group Call TG 310 = Tac 310 Talk Group - PTT<br>#1 - Group Call TG 311 = Tac 311 Talk Group - PTT<br>#2 - Group Call TG 444 NY Metro System wide-FT<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area: <br><br>Contact Name: Jerry, K2JRC<br>Email: jerrycudmore@pobox.com",-5.000,K2JRC,TS1 TS2
 K2JRC,Manhattan NYC,New York,United States,Master,2,438.56250,113616,Bronx Trbo,113616,1,Time Slot<br>#1 - Group Call TG 347639 Disney -FT ( for information on this TG click to go to the BEARS website) <br>#1 - Group Call  TG 9 Local Talk Group - FT<br>#1 - Group Call  TG 9998 = Parrot Audio Test Server<br>#1 - Group Call TG 3 = North America  - PTT<br>#1 - Group Call TG 310 = Tac 310 Talk Group - PTT<br>#1 - Group Call TG 311 = Tac 311 Talk Group - PTT<br>#2 - Group Call TG 444 NY Metro System wide-FT,-5.000,K2JRC,TS1 TS2
@@ -3959,7 +3958,7 @@ DB0NLS,Lauta,Sachsen / Thueringen,Germany,Peer,1,439.51250,262949,DMR-plus,26294
 DB0SBL,Siebleben,,Germany,,1,434.71250,262959,DMR-plus,262959,1,,0.000,DL4ALI,TS1 TS2
 DB0GC,Glauchau,Sachsen / Thueringen,Germany,Peer,1,439.45000,262960,BM/D*/NXDN/YSF,262960,1,,-7.600,DM8WP,TS1 TS2
 DB0TUD,Dresden,,Germany,,1,438.30000,262962,None,262962,1,,7.600,DH5YM,
-DB0ERZ,Zwoenitz,Sachsen / Thueringen,Germany,Master,1,439.46250,262969,BM,262969,0,,-7.600,DO8GT,TS1 TS2
+DB0ERZ,Zwoenitz,Sachsen / Thueringen,Germany,Master,1,439.46250,262969,BM,262969,1,,-7.600,DO8GT,TS1 TS2
 DB0SKO,Harztor,,Germany,,1,439.41250,262970,BM,262970,1,,-7.600,DL5SKO,TS1 TS2
 DB0SON,Sonneberg,,Germany,,1,438.41250,262977,BrandMeister,262977,1,,-7.600,DC7RY,
 DB0ERZ,Auersberg - 1019m/NN,,Germany,,1,439.46250,262979,BM,262979,1,,-7.600,DL3YK,TS1 TS2
@@ -8592,7 +8591,7 @@ K5BOX,Ponca City,Oklahoma,United States,Peer,1,444.75000,314011,BM,314011,1,"K5B
 W5GDL,Oklahoma City,Oklahoma,United States,Peer,1,443.22500,314012,OK Net,314012,1,"Time Slot #1 - Group Call 1 = WW All, PTT 10 min.<br>Time Slot #1 - Group Call 13= WW English, PTT 10 min.<br>Time Slot #1 - Group Call 3 = DMR-MARC North America <br>Time Slot #1 - Group Call 310 = TAC-310, PTT 10 min. <br>Time Slot #1 - Group Call 311 = TAC-311, PTT 10 min. <br>Time Slot #1 - Group Call 9999 = Audio Test with VU Meter on NORCALDMR.com , PTT, 5 min. time out <br>Time Slot #2 - Group Call 3140 = OK-KS Temporary Time Slot #2 - Group Call 3175= TX-OK Regional<br>Time Slot #2 - Group Call 2 = Local<br>Time Slot #2 - Group Call 9998 = Audio Test (Parrot)<br><br>Contact: Steve, W5GDL<br>Email: Steve@coldhandarms.com",+5.000,W5GDL,TS1 TS2
 W5RAB,Bartlesville,Oklahoma,United States,Peer,2,444.47500,314013,BM,314013,1,"Contact:<br>Don, KE9XB6@GMAIL.COM<br>WD5ETD wd5etd@gmail.com",+5.000,"KE9XB, W5NS",TS1 TS2
 W5IAS,Big Cabin,Oklahoma,United States,Peer,1,443.82500,314014,BM,314014,1,Contact: W5IAS<br>trustee@w5ias.com,+5.000,"W5GGW, WB5ANX",TS1 TS2
-WD5ETD,Bartlesville,Oklahoma,United States,Peer,1,444.37500,314015,BM,314015,1,Contact: W5RAB<br>rbuford@bartnet.net,+5.000,W5RAB,TS1 TS2
+WD5ETD,Bartlesville,Oklahoma,United States,Peer,1,444.37500,314015,BM,314015,1,Contact: W5IAS<br>trustee@w5ias.com,+5.000,"W5GGW, WB5ANX",TS1 TS2
 N5MS,Norman,Oklahoma,United States,Master,1,443.82500,314016,OK Net,314016,1,"N5MS 443.825 +5 MHz, Color Code 1",+5.000,N5MS,TS1 TS2
 N5PLV,Lawton,Oklahoma,United States,Peer,4,443.60000,314017,OK Net,314017,1,"N5PLV 443.600 +5 MHz, Color Code 4",+5.000,N5PLV,TS1 TS2
 KB5KWV,Oklahoma City,Oklahoma,United States,Peer,1,443.17500,314018,DMR-MARC,314018,1,"Time Slot #1 - Group Call 1 = WW All, PTT 10 min.<br>Time Slot #1 - Group Call 13= WW English, PTT 10 min.<br>Time Slot #1 - Group Call 3 = DMR-MARC North America<br>Time Slot #1 - Group Call 310 = TAC-310, PTT 10 min.<br>Time Slot #1 - Group Call 311 = TAC-311, PTT 10 min.<br><br>Time Slot #2 - Group Call 3175= TX-OK Regional<br>Time Slot #2 - Group Call 3140 = OK Statewide<br>Time Slot #2 - Group Call 8800= OK Central<br>Time Slot #2 - Group Call 2 = Local<br>Time Slot #2 - Group Call 9998 = Audio Test (Parrot)",+5.000,KB5KWV,TS1 TS2
@@ -9660,7 +9659,6 @@ WA6CR,Novato,California,United States,Peer,14,442.72500,315168,98002,315168,1,No
 W1ASS,Deerfield,New Hampshire,United States,Master,0,927.72500,315169,BrandMeister,315169,1,None<br>Test repeater for working on DMR network,-25.000,W1ASS,TS1 TS2
 W9ML,Hebron,Indiana,United States,Master,1,444.55000,315170,Brandmeister,315170,1,None,+5.000,W9ML,Mixed Mode
 KD9SAZ,Rockford,Illinois,United States,Master,1,443.45000,315171,AMCOMM,315171,1,None,+5.000,KD9SAZ,TS1 TS2
-KX4DOR,Ridgeville,South Carolina,United States,Peer,1,443.80000,315172,,315172,1,Dart (Dorchester County ARES) Emergency Coordinator,5.000,KX4DOR,TS2
 N4OTS,Utica,Kentucky,United States,Master,1,440.65000,315173,Brandmiester,315173,1,None,+5.000,N4OTS,TS2
 N2BIA,Rock Hill,New York,United States,Peer,3,442.55000,315174,Brandmister,315174,1,None,+5.000,N2BIA,TS1 TS2
 N7COX,Star,Idaho,United States,Master,1,444.85000,315175,Amcomm,315175,1,None,+5.000,N7COX,TS1
@@ -10801,6 +10799,7 @@ ZL1WIS,Auckland,North Island 1,New Zealand,Peer,1,439.68750,530045,ZL-TRBO,53004
 ZL2SQRL,Wellington,North Island 1,New Zealand,Peer,1,439.65000,530046,Multi/Dynamic,530046,0,,-5.000,ZL2SQRL,Mixed Mode
 ZL3TOY,Christchurch,South Island,New Zealand,Peer,1,438.45000,530047,BM,530047,1,"TS1 - TG9 Local, TG5303<br>TS2 - TG10 Local, TG8999",-5.000,ZL3TOY,Mixed Mode
 ZL1DKS,Christchurch,South Island,New Zealand,Master,2,439.50000,530048,DVNZ,530048,1,None,-5.000,"ZL1DKS, ZL3FTB",TS2
+ZL2AB,New Plymouth,North Island 1,New Zealand,Peer,1,438.47500,530049,Branmeister,530049,1,None,-5.000,"ZL2AB, ZL2UFW",TS1 TS2
 ZL1CCT,Hamilton,North Island 1,New Zealand,None,12,145.35000,530100,Hamilton,530100,1,"Time Slot#1 - Group Call 1 = Worldwide Calling (2 min max)<br>Time Slot #1- Group Call 13 = Worldwide English<br>Time Slot #2- Group Call 5 = VK/ZL Regional<br><br>Contact: Brian, ZL1HN<br>Email: ZL1HN@xtra.co.nz",-0.600,ZL1HN,None
 ZL1UX,Hamilton,North Island 1,New Zealand,Peer,1,439.72500,530101,ZL-TRBO Hamilton,530101,1,"Time Slot#1 - Group Call 1 = Worldwide Calling (2 min max)<br>Time Slot #1- Group Call 13 = Worldwide English<br>Time Slot #2- Group Call 5 = VK/ZL Regional<br><br>Contact: Tom, ZL1THG<br>Email: Tom.Bevan@looptechnologies.com",-5.000,ZL1THG,TS1 TS2
 ZL1DMR,AREC STSP,North Island 1,New Zealand,Peer,1,438.77500,530102,ZL-TRBO,530102,0,,-5.000,ZL4JY,TS1 TS2
