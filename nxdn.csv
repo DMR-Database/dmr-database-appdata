@@ -4075,7 +4075,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4162,PA1GM,Gerard,Utrecht,Utrecht,Netherlands
 4163,PA3EHA,Carel,Weesp,Noord-Holland,Netherlands
 4164,KC1SEC,Jason,Madawaska,Maine,United States
-4165,K7KHQ,Kelly,Spokane,Washington,United States
+4165,K7KHQ,Kelly,Bozeman,Montana,United States
 4166,KC3VDM,Peter,Philadelphia,Pennsylvania,United States
 4167,TA7GOK,Ahmet Said,Erzincan,,Turkiye
 4168,XE1DM,Mario,Pachuca de Soto,Hidalgo,Mexico
@@ -4741,6 +4741,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4839,WB4HAM,Ron,Laurinburg,North Carolina,United States
 4840,KJ8D,Gary,Fort Ashby,West Virginia,United States
 4841,K0SAH,Scott,Colorado Springs,Colorado,United States
+4842,JI3XEF,Masahiro,Sakai,Kinki,Japan
 4843,JL1PPL,Jun,Kunitachi Tokyo,Kanto,Japan
 4844,JE1GQM,Mitsuyoshi,Kita-Ku Tokyo,Kanto,Japan
 4845,KB1ODO,Andrew,Castleton,Vermont,United States
@@ -6570,7 +6571,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 6701,KE2CFK,Simon,Fort Lee,New Jersey,United States
 6702,F4JKH,Andreas,Rambouillet,Ile-de-France,France
 6703,SP9KSK,Klaudiusz,Staniatki,małopolskie,Poland
-6704,DD4CS,Christopher,,,Germany
+6704,DD4CS,Chris,Norden,Niedersachsen  Bremen,Germany
 6705,N9QHF,Joseph,Niantic,Illinois,United States
 6706,PD4JSE,Leon,Ouddorp  Z H,Zuid-Holland,Netherlands
 6707,PD0JCH,Jaap,Ouddorp,Zuid-Holland,Netherlands
@@ -7482,7 +7483,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7627,M7NTE,Dave,Sunderland,England,United Kingdom
 7628,K7OI,Mark,Meadview,Arizona,United States
 7629,WB9PAR,John,Fortville,Indiana,United States
-7630,ON4KNN,Pierre,Sambreville,Namur,Belgium
 7631,KG4CWC,Robert,West Palm Beach,Florida,United States
 7632,DY4RTM,Ronnel,NAGA,Bicol Region,Philippines
 7633,M7OGV,Derek,Chelmsford,England,United Kingdom
@@ -7884,7 +7884,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 8034,JN6EZN,Fields,Kagosima,Kyushu,Japan
 8035,N0CKL,Nicholas,Grand Island,Nebraska,United States
 8036,K0GUR,Michael,Denver,Colorado,United States
-8037,W8LGZ,Jimmie J,Little Hocking,Ohio,United States
+8037,W8LGZ,Jimmie,Parkersburg,West Virginia,United States
 8038,NI4MX,Edward E,Palmetto,Florida,United States
 8039,F9PK,Pierre,NICE,Provence-Alpes-Cote d Azur,France
 8040,AI5PF,Paul,Austin,Texas,United States
@@ -8295,7 +8295,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 8451,W8GCR,Jason,Pittsboro,North Carolina,United States
 8452,XE1Z,Luis Arturo,Azcapotzalco,Mexico City,Mexico
 8453,P43P,Jacobo,Oranjestad,All Regions,Aruba
-8454,W4BWB,Barry W,Deland,Florida,United States
+8454,W4BWB,Barry,Deland,Florida,United States
 8455,K1JGR,Jose,Beaumont,Texas,United States
 8456,W8SJW,Shawn,Keyser,West Virginia,United States
 8457,JN1OLJ,Seiichi,kawasaki,Kanto,Japan
@@ -8541,7 +8541,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 8703,YG8RSE,Ramli Maruf,Gorontalo,Gorontalo,Indonesia
 8704,UR5FMG,Sergey,Odessa,All Regions,Ukraine
 8705,M7VOC,Nick,Middlesbrough,England,United Kingdom
-8706,WR7CW,Earl J,Gillette,Wyoming,United States
+8706,WR7CW,Earl,Gillette,Wyoming,United States
 8707,VU23DC,Chandana,Coimbatore,Tamil Nadu,India
 8708,WL9N,William,Weatherford,Texas,United States
 8709,KO4UXX,James,Jackson,Georgia,United States
@@ -10921,7 +10921,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 11118,2W0GAQ,Ifor,Caernarfon,Wales,United Kingdom
 11119,BH7LQX,Han,Foshan,Hunan Guangdong Guangxi Hainan,China
 11120,VE7HWD,Daniel,Port Coquitlam,British Columbia,Canada
-11121,LU5HTV,Tomas,Córdoba  Capital,Cordoba,Argentina Republic
 11122,KD9ZZV,Tyler,Madison,Wisconsin,United States
 11123,BG7YRE,Donghai,haikou,Hunan Guangdong Guangxi Hainan,China
 11124,LU4AE,Claudio Marco,Villa Del Parque,Caba,Argentina Republic
@@ -11173,7 +11172,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 11370,Z31DAD,Martin,Bitola,All Regions,Macedonia
 11371,K4PTX,Skee,Florence,South Carolina,United States
 11372,KK4PPN,Gerald,Columbia,Tennessee,United States
-11373,LU4CN,Carlos,Capital Federal,Buenos Aires,Argentina Republic
+11373,LU4CN,Carlos,Buenos Aires,Ciudad de Buenos Aires,Argentina Republic
 11374,W2PAX,David,Naples,Florida,United States
 11375,PU2VAJ,Vicente,Iguape,Sao Paulo,Brazil
 11376,W2RFX,Scott,Jackson,New Jersey,United States
@@ -16379,7 +16378,27 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 16659,KD2YQS,Rich,Tinton Falls,New Jersey,United States
 16660,NA2F,Antonio,Wilmington,North Carolina,United States
 16661,KD3AGS,Warren,Baltimore,Maryland,United States
+16662,A41MC,Majid,Muscat,All Regions,Oman
+16663,M7OMU,Steve,Barrow-In-Furness,England,United Kingdom
+16664,CA3ALL,Alfredo,La Granja,Reg.Metr. de Santiago,Chile
+16665,M5LEE,Lee,Maryport,England,United Kingdom
 16666,BG8LGG,Luo,Chongqing,Sichuan Guizhou Chongqing Yunnan,China
+16667,UR4UYZ,Irpin Center for Extracurricular Education,Irpin,All Regions,Ukraine
+16668,TA8DD,Suleyman,Gaziantep,Southeastern Anatolia Region,Turkiye
+16669,KR4PBH,Timothy,Pensacola,Florida,United States
+16670,SP8GPP,Grzegorz,Rzeszow,podkarpackie,Poland
+16671,SQ2OTV,Karol,Gdansk,pomorskie,Poland
+16672,PY5QR,Marlos,Curitiba,Parana,Brazil
+16673,N1ZKW,Glenn,San Diego,California,United States
+16674,SQ5RJA,Rafal,Warszawa,mazowieckie,Poland
+16675,KZ4NK,Erwin,Stafford,Virginia,United States
+16676,VK2WTJ,Tingjian,Beverly Hills,New South Wales,Australia
+16677,VK6JJM,Jesse,Bonniefield,Western Australia,Australia
+16678,XE2DHR,David,Mirador De La Silla,Nuevo Leon,Mexico
+16679,KR4LEV,Mitchell,Liberty,North Carolina,United States
+16680,AD4WS,Edward,Maryville,Tennessee,United States
+16681,N2GXT,Keith,Maywood,New Jersey,United States
+16682,9W2MS,Nizam,Ampang,West Malaysia,Malaysia
 16688,BG7PVA,Franco,Guangzhou,Hunan Guangdong Guangxi Hainan,China
 16801,OA6AHJ,Carlos,Ilo Peru,Ica,Peru
 16802,KI7CMV,John H,Windsor,Missouri,United States
@@ -17236,7 +17255,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 31425,KI5SEH,Christopher,Whitesboro,Texas,United States
 31426,KI5SEH,Christopher,Whitesboro,Texas,United States
 31427,KI5SEH,Christopher,Whitesboro,Texas,United States
-31428,E25MTT,Bancha,Mueang Pathumthani District Pathumthani,Pathum Thani,Thailand
 31460,WV8CW,Charles C,Miller,South Dakota,United States
 31461,WP4RMR,Radames,Arecibo,,Puerto Rico
 31462,2E0OPT,Jon,Newcastle under Lyme,England,United Kingdom
@@ -17657,7 +17675,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 44022,KA1MXL,Kevin,Warwick,Rhode Island,United States
 44023,DS3DIF,Geunjin,Taean,ChungChong Nam-Do,Korea Republic of
 44026,N1GMB,Glenn,West Warwick,Rhode Island,United States
-44027,AA9KJ,Joseph W,Carmel,Indiana,United States
+44027,AA9KJ,Joseph,Carmel,Indiana,United States
 44035,EA4DDL,David,Valmojado,Toledo,Spain
 44037,N1BSB,Brad,Morehead City,North Carolina,United States
 44038,HL2DRY,Kim,Yeongwol,Seoul,Korea Republic of
