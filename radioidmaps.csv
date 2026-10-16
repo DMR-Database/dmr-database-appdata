@@ -101,6 +101,7 @@ W2TUP,Tupper Lake,New York,United States,Peer,1,446.02500,GARA,0.0,0.0,113609,,-
 K2WW,Cranberry Lake,New York,United States,Peer,1,444.75000,GARA,0.0,0.0,113610,,+5.000,ACTIVE,K2WW,TS1 TS2
 K2WW,Parishville,New York,United States,Peer,1,147.07500,GARA,0.0,0.0,113611,,+0.600,ACTIVE,K2WW,TS1 TS2
 W2RGM,Dix Hills,New York,United States,Peer,1,448.52500,GARA,40.8048207,-73.3362298,113612,,-5.000,ACTIVE,W2RGM,TS1 TS2
+W2RGM,Dix Hills,New York,United States,Peer,1,147.07500,"GARA TS-2,",40.8048207,-73.3362298,113613,,+0.600,ACTIVE,W2RGM,TS1 TS2
 N2LEN,New Baltimore,New York,United States,Master,1,449.02500,DMR-MARC,0.0,0.0,113614,,-5.000,ACTIVE,N2LEN,TS1 TS2
 K2JRC,Bayside,New York,United States,Peer,3,438.58750,Bronx TRBO,40.7408584,-73.758241,113615,"Time Slot<br>#1 - Group Call TG 9 Local Talk Group - FT<br>#1 - Group Call TG 9998 = Parrot Audio Test Server-PTT<br>#1 - Group Call TG 3 = North America  - PTT<br>#1 - Group Call TG 310 = Tac 310 Talk Group - PTT<br>#1 - Group Call TG 311 = Tac 311 Talk Group - PTT<br>#2 - Group Call TG 444 NY Metro System wide-FT<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area: <br><br>Contact Name: Jerry, K2JRC<br>Email: jerrycudmore@pobox.com",-5.000,ACTIVE,K2JRC,TS1 TS2
 K2JRC,Manhattan NYC,New York,United States,Master,2,438.56250,Bronx Trbo,40.6781784,-73.9441579,113616,Time Slot<br>#1 - Group Call TG 347639 Disney -FT ( for information on this TG click to go to the BEARS website) <br>#1 - Group Call  TG 9 Local Talk Group - FT<br>#1 - Group Call  TG 9998 = Parrot Audio Test Server<br>#1 - Group Call TG 3 = North America  - PTT<br>#1 - Group Call TG 310 = Tac 310 Talk Group - PTT<br>#1 - Group Call TG 311 = Tac 311 Talk Group - PTT<br>#2 - Group Call TG 444 NY Metro System wide-FT,-5.000,ACTIVE,K2JRC,TS1 TS2
@@ -1369,6 +1370,7 @@ IR0ZXU,Rocca Priora,Lazio / Umbria / Sardinia,Italy,Peer,1,430.21250,HamThings,4
 IR0ZYF,Rocca Priora,Lazio / Umbria / Sardinia,Italy,Peer,0,145.57500,HamThings,41.7944100,12.7634600,222492,None,-0.600,ACTIVE,IU6SSZ,Mixed Mode
 IR0ZXV,Rocca Priora RM,Lazio / Umbria / Sardinia,Italy,Peer,0,145.65000,HamThings,41.7944100,12.7634600,222493,None,-0.600,ACTIVE,IU6SSZ,Mixed Mode
 IR3TSA,Trieste,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,431.50000,Hamthings,45.6314958,13.8170749,222494,None,+5.000,ACTIVE,IV3JDV,TS1 TS2
+IR1UFB,Castagneto Po,Piedmont / Liguria / Aosta,Italy,Peer,8,430.55000,bremmaster,45.1614150,7.8848580,222495,None,5.000,ACTIVE,I1WTM,Mixed Mode
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,DMR-plus,43.851292,10.667000,222500,,+5.000,ACTIVE,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,DMR-plus,43.831721,11.1992239,222501,,5.000,ACTIVE,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,BM,44.0094968,10.1019306,222502,,5.000,ACTIVE,IK5BNG,TS1 TS2
@@ -1953,6 +1955,7 @@ GB7BW,Wakefield,England,United Kingdom,Master,2,439.72500,YorkshireDMR,53.63,-1.
 GB7FO,Blackpool,England,United Kingdom,Peer,1,430.27500,DMR-PLUS,53.8179442,-3.0509812,234067,,+9.00,ACTIVE,G0WDA,TS1 TS2
 GB7RS,Milton Keynes,England,United Kingdom,Peer,4,439.61250,BM,51.997725751560814,-0.7401132361679141,234070,,-9.0,ACTIVE,G0GMB,TS2
 GB7KE,Gillingham,England,United Kingdom,Master,3,430.58750,Bm,51.3871701,0.559698,234071,,+9.0,ACTIVE,M0TIU,TS1 TS2
+GB7WS,Billingshurst,England,United Kingdom,Peer,3,439.42500,DMR-MARC,51.024687,-0.456426,234072,,-9.00000,ACTIVE,G4LRP,TS1 TS2
 GB7HK,Hawick,Scotland,United Kingdom,Peer,3,145.62500,DVSPh,55.422564,-2.7866951,234079,,-0.600,ACTIVE,G8SJP,TS1 TS2
 GB7PH,Hailsham,England,United Kingdom,Peer,3,439.46250,DM DMR+ TGIF freeDMR,50.8635851,0.2591601,234080,,-9.000,ACTIVE,M0LIP,TS1 TS2
 GB7FB,Bideford,England,United Kingdom,Peer,5,439.47500,South West Cluster,51.014350,-4.214139,234081,TS1 - 9 Local<br>TS2 - 950 South West Cluster,-9.000,ACTIVE,M0MFS,TS1 TS2
@@ -4770,7 +4773,7 @@ VE2GYK,Saint Bonaventure,Quebec,Canada,Peer,2,442.05000,Brandmeister,45.96270,-7
 VE3TTT,London,Ontario,Canada,Master,1,434.45000,BM,42.984180,-81.244300,302419,,+5.000,ACTIVE,VA3JCD,TS1 TS2
 VE6WRN,Calgary,Alberta,Canada,Master,1,444.92500,Private HB link,51.05888,-114.18630,302420,TS1 local use only TG 16777215 All Call. TS2 link pending TG,+5.0,ACTIVE,VE6AMC,TS1 TS2
 VE6WRO,Calgary,Alberta,Canada,Peer,1,927.05000,Private HB link,51.05875,-114.1861,302421,TS1 Use all call. TS2 Link TG Pending,-25.00,ACTIVE,VE6AMC,TS1 TS2
-VE7NMO,Victoria,British Columbia,Canada,Master,1,441.50000,Single Freq. ERDM Mode,48.4286000,123.3592000,302422,"Motorola DMR Extended Range Direct Mode ""ERDM"" (repeater mode) single frequency two time slots. Receive on TS1 and retransmit simultaneously on TS2. Not classified Advanced certificate required under ISED  Canada publication Ric-3 and Radiocommunications act or Regulations.",+0.00,ACTIVE,VA7XJC,TS1 TS2
+VE7NMO,Victoria,British Columbia,Canada,Master,1,441.50000,Single Freq. ERDM Mode,48.4298550,-123.3597720,302422,"Motorola DMR Extended Range Direct Mode ""ERDM"" (repeater mode) single frequency two time slots. Receive on TS1 and retransmit simultaneously on TS2. Not classified Advanced certificate required under ISED  Canada publication Ric-3 and Radiocommunications act or Regulations.",+0.00,ACTIVE,VA7XJC,TS1 TS2
 VE7BEL,Victoria,British Columbia,Canada,Master,1,440.50000,dmr-marc,48.42366,-123.5169,302423,,+5.00,ACTIVE,VE7VCC,TS1 TS2
 VE3THA,Ballinafad,Ontario,Canada,Master,1,443.42500,BM,43.68,-79.99,302424,,+5.000,ACTIVE,VA3RJS,TS1
 VA3WYK,Burgessville,Ontario,Canada,Peer,5,442.10000,BM,43.1070000,-80.7800000,302425,,+5.00,ACTIVE,VA3WYK,TS1 TS2
@@ -6242,13 +6245,9 @@ WA4TOG,Asheville,North Carolina,United States,Peer,1,927.72500,900-NET,35.600089
 N7UH,Medford,Oregon,United States,Master,1,442.80000,BrandMeister,42.29763,-122.7509,311499,,+5.000,ACTIVE,N7UH,TS1 TS2
 K5THS,Tecumseh,Oklahoma,United States,Peer,1,443.37500,Brandmeister,35.259232,-96.945450,311500,K5THS Repeater. Sponsored by Tecumseh High School ARC(K5THS)  and Pottawatomie County ARC(W5SXA).<br>Located at Krouch S.T.E.A.M. Center.,+5.000,ACTIVE,KM5CL,TS1 TS2
 WH6TF,Kapaa,Hawaii,United States,Peer,0,444.30000,SF-TRBO,22.0884434,-159.2937347,311501,Time Slot #1 - Group Call 1 = DMR-MARC World Wide<br>Time Slot #1 - Group Call 3 = DMR-MARC U.S. / English Speaking Countries<br>Time Slot #2 - Group Call 3777215 = TRBO-6<br>Time Slot #2- Group Call 3115 = HI Statewide<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area (http://www.dmr-marc.net/images/wh6tf-coverage.jpg)<br> <br><br>Contact Name: Nick LoCicero<br>Email: n.pl@hawaiiantel.net,+5.000,ACTIVE,WH6TF,TS1 TS2
-AH6CP,Honolulu,Hawaii,United States,Peer,0,444.90000,SF-TRBO-,21.297311,-157.7454247,311502,Time Slot #2 - Group Call 1 = DMR-MARC World Wide<br>Time Slot #2 - Group Call 3 = DMR-MARC U.S. / English Speaking Countries<br>Time Slot #2 - Group Call 96801 = Oahu<br>Time Slot #1 - Group Call 3777215 = TRBO-6<br>Time Slot #1- Group Call 3115 = HI Statewide<br> <br><br>Contact Information:<br><br>mototrbohi-owner@yahoogroups.com,+5.000,ACTIVE,AH6CP,TS1 TS2
 WB6EGR,Waikiki,Hawaii,United States,Peer,0,443.65000,SF-TRBO,21.285002,-157.835698,311503,,+5.000,ACTIVE,NO7BS,TS1 TS2
 KH7HO,Kaaawa,Hawaii,United States,Peer,0,443.47500,Hawaii TRBO,21.5463434,-157.8604889,311504,"TS1: Group Call 3115 = HI-1<br>TS2:<br>Group Call 3115808 = HI-2<br>Group Call 1 = WW<br>Group Call 3 = NA<br>Group Call 310 = TAC310<br>Group Call 96793 = Island Local<br>Group Call 3777215 = Comm1<br>Group Call 3176 = Southwest <br><br>Contact: Clem, KH7HO<br>Email: chmjung4@yahoo.com",+5.000,ACTIVE,KH7HO,TS1 TS2
-AH6CP,Moana Loa,Hawaii,United States,Peer,1,444.75000,Hawaii Trbo,19.4721389,-155.5922066,311505,,+5.000,ACTIVE,AH6CP,TS1 TS2
 KH6FV,Honolulu,Hawaii,United States,Peer,0,443.82500,Hawaii Trbo,21.3069444,-157.8583333,311506,,+5.000,ACTIVE,KH6FV,TS1 TS2
-AH6CP,Honolulu,Hawaii,United States,Peer,0,444.40000,SF-TRBO,21.404431,-158.0602597,311507,Time Slot #2 - Group Call 1 = DMR-MARC World Wide<br>Time Slot #2 - Group Call 3 = DMR-MARC U.S. / English Speaking Countries <br>Time Slot #2 - Group Call 96801 = Oahu<br>Time Slot #1 - Group Call 3777215 = TRBO-6<br>Time Slot #1- Group Call 3115 = HI Statewide<br> <br><br>Contact Information:<br><br>mototrbohi-owner@yahoogroups.com,+5.000,ACTIVE,AH6CP,TS1 TS2
-AH6CP,Honolulu,Hawaii,United States,Peer,0,444.30000,"SF-TRBO - Kaimuki, HI",21.2790778,-157.7680921,311508,Time Slot #2 - Group Call 1 = DMR-MARC World Wide<br>Time Slot #2 - Group Call 3 = DMR-MARC U.S. / English Speaking Countries<br>Time Slot #2 - Group Call 96801 = Oahu<br>Time Slot #1 - Group Call 3777215 = TRBO-6<br>Time Slot #1- Group Call 3115 = HI Statewide<br> <br><br>Contact Information:<br><br>mototrbohi-owner@yahoogroups.com,+5.000,ACTIVE,AH6CP,TS1 TS2
 KH7HO,Kailua,Hawaii,United States,Peer,0,443.97500,SF-TRBO,21.3695857,-157.7110933,311509,Time Slot #2 - Group Call 1 = DMR-MARC World Wide<br>Time Slot #2 - Group Call 3 = DMR-MARC U.S. / English Speaking Countries <br>Time Slot #2 - Group Call 96801 = Oahu<br>Time Slot #1 - Group Call 3777215 = TRBO-6<br>Time Slot #1- Group Call 3115 = HI Statewide<br> <br><br>Contact Information:<br><br>mototrbohi-owner@yahoogroups.com,+5.000,ACTIVE,KH7HO,TS1 TS2
 WH6FM,Hilo,Hawaii,United States,Peer,4,444.90000,Hawaii-TRBO,19.7343305,-155.0955231,311510,Time Slot #2 - Group Call 1 = DMR-MARC World Wide<br>Time Slot #2 - Group Call 3 = DMR-MARC North America<br>Time Slot #2 - Group Call 96720 = Hawaii<br>Time Slot #1 - Group Call 3777215 = TRBO-6<br>Time Slot #1 - Group Call 3115 = HI Statewide<br><br>Contact Information:<br><br>Paul Agamata<br>paul@wh6fm.org,+5.000,ACTIVE,WH6FM,TS1 TS2
 AH6HI,Honolulu,Hawaii,United States,Peer,0,444.42500,Hawaii Trbo,21.3069444,-157.8583333,311511,,+5.000,ACTIVE,AH6HI,TS1 TS2
@@ -6256,27 +6255,17 @@ KH6FV,Waimanalo,Hawaii,United States,Peer,0,443.60000,Hawaii Trbo,21.3461219,-15
 KH7HO,Kahuku,Hawaii,United States,Peer,0,443.72500,SF-TRBO,21.6931013,-157.9531426,311513,TS1: Group Call 3115 = HI-1<br>TS2: Group Call 3115808 = HI-2 Group Call 1 = WW Group Call 3 = NA Group Call 310 = TAC310 Group Call 96801 = Island Local Group Call 3777215 = Comm1 Group Call 3176 = Southwest <br>Contact Information:<br><br>mototrbohi-owner@yahoogroups.com,+5.000,ACTIVE,KH7HO,TS1 TS2
 NH7YS,Lihue,Hawaii,United States,Peer,0,444.32500,Hawaii Trbo,21.9811111,-159.3711111,311514,,+5.000,ACTIVE,NH7YS,TS1 TS2
 KH7HO,Kaneohe,Hawaii,United States,Peer,0,444.60000,Hawaii Trbo,21.3996475,-157.7973653,311515,,+5.000,ACTIVE,KH7HO,TS1 TS2
-AH6KD,Honolulu,Hawaii,United States,Master,0,444.20000,Hawaii Trbo,21.3069444,-157.8583333,311516,,+5.000,ACTIVE,AH6CP,TS1 TS2
 KH6FV,Portable,Hawaii,United States,Peer,5,444.65000,Hawaii Trbo,19.8967662,-155.5827818,311517,,+5.000,ACTIVE,KH6FV,TS1 TS2
-AH6CP,Kahanamoku,Hawaii,United States,Peer,0,444.52500,Hawaii Trbo,21.2839174,-157.8382814,311518,,+5.000,ACTIVE,AH6CP,TS1 TS2
 KH7HO,North Shore,Hawaii,United States,Peer,0,442.62500,Hawaii Trbo,21.5616575,-158.0715983,311519,,+5.000,ACTIVE,KH7HO,TS1 TS2
 KH6C,Central,Hawaii,United States,Peer,3,444.95000,Hawaii Trbo DMR-MARC,20.8911111,-156.5047222,311520,,+5.000,ACTIVE,KH6C,TS1 TS2
 KH6FV,Mokuleia,Hawaii,United States,Peer,0,443.60000,Hawaii Trbo,21.576681,-158.2065642,311521,,+5.000,ACTIVE,KH6FV,TS1 TS2
 KH6C,Haleakala,Hawaii,United States,Peer,3,443.15000,Hawaii Trbo DMR-MARC,20.7983626,-156.3319253,311522,,+5.000,ACTIVE,KH6C,TS1 TS2
 KH6FV,Haleakala,Hawaii,United States,Peer,0,444.85000,Hawaii Trbo,19.7297222,-155.09,311523,,+5.000,ACTIVE,KH6FV,TS1 TS2
-AH6CP,Kukuilono,Hawaii,United States,Peer,1,444.35000,SF-TRBO,21.2790778,-157.7680921,311524,Time Slot #2 - Group Call 1 = DMR-MARC World Wide<br>Time Slot #2 - Group Call 3 = DMR-MARC U.S. / English Speaking Countries<br>Time Slot #2 - Group Call 96801 = Oahu<br>Time Slot #1 - Group Call 3777215 = TRBO-6<br>Time Slot #1- Group Call 3115 = HI Statewide<br> <br><br>Contact Information:<br><br>mototrbohi-owner@yahoogroups.com,+5.000,ACTIVE,AH6CP,TS1 TS2
 KH6FV,Honolulu,Hawaii,United States,Master,2,443.42500,Hawaii Trbo,21.3069444,-157.8583333,311525,,+5.000,ACTIVE,KH6FV,TS1 TS2
 AH6GR,Haleakala,Hawaii,United States,Peer,1,442.85000,Brandmeister,20.709169,-156.252502,311526,"TS1: 3115<br>TS1: 31089<br>TS2: 31151<br>TS2: 2<br><br>Contact Information:<br><br>Randy, AH6GR<br>ah6gr@arrl.net",+5.000,ACTIVE,AH6GR,TS1 TS2
 KH6FV,Mauna Kea,Hawaii,United States,Peer,3,444.37500,Hawaii Trbo,19.8206105,-155.4680936,311527,,+5.000,ACTIVE,KH6FV,TS1 TS2
 KH6FV,Kapolei,Hawaii,United States,Peer,1,443.47500,Hawaii Trbo, 21.386271,-158.105569,311528,,+5.000,ACTIVE,KH6FV,TS1 TS2
-KH6OCD,Honolulu,Hawaii,United States,Peer,1,146.86000,RACES, 21.386367,-158.105632,311529,,-0.600,ACTIVE,AH6CP,Mixed Mode
-AH6CP,HONOLULU,Hawaii,United States,Master,5,147.30000,DMR HAWAII,21.263102,-157.704255,311530,,+0.600,ACTIVE,AH6CP,Mixed Mode
-KH6HPZ,HONOLULU,Hawaii,United States,Master,1,147.06000,RACES, 21.265472,-157.801548,311531,,+0.600,ACTIVE,AH6CP,Mixed Mode
-KH6HPZ,Kula,Hawaii,United States,Peer,1,147.02000,RACES, 20.704973,-156.265179,311532,,+0.600,ACTIVE,AH6CP,Mixed Mode
-KH6HPZ,Hilo,Hawaii,United States,Peer,1,147.04000,RACES, 19.584244,-155.451757,311533,,+0.600,ACTIVE,AH6CP,Mixed Mode
-KH6HPZ,Lihue,Hawaii,United States,Peer,1,147.04000,RACES, 22.000324,-159.358275,311534,,+0.600,ACTIVE,AH6CP,Mixed Mode
 AH6GR,Wailuku,Hawaii,United States,Peer,1,442.75000,BrandMeister,20.873623,-156.516006,311535,"TS1: 3115<br>TS1: 31089<br>TS2: 31151<br>TS2: 2<br><br>Contact Information:<br><br>Randy, AH6GR<br>ah6gr@arrl.net",+5.000,ACTIVE,AH6GR,TS1 TS2
-AH6Q,Honolulu,Hawaii,United States,Peer,1,444.57500,DMR HAWAII,21.3069444,-157.8583333,311536,,+5.000,ACTIVE,AH6CP,TS1 TS2
 AH6OO,Honolulu,Hawaii,United States,Peer,1,443.20000,Brandmeister,21.3069444,-157.8583333,311537,,+5.000,ACTIVE,AH6OO,TS1 TS2
 KH6FV,Honolulu,Hawaii,United States,Peer,1,443.82500,Hawaii-TRBO,21.3155431,-157.7732417,311538,Time Slot #2 - Group Call 1 = DMR-MARC World Wide<br>Time Slot #2 - Group Call 3 = DMR-MARC U.S. / English Speaking Countries<br>Time Slot #2 - Group Call 96801 = Oahu<br>Time Slot #1 - Group Call 3777215 = TRBO-6<br>Time Slot #1- Group Call 3115 = HI Statewide<br> <br><br>Contact Information:<br><br>hazmathi@gmail.com,+5.000,ACTIVE,KH6FV,TS1 TS2
 KH6C,West Maui,Hawaii,United States,Peer,0,444.82500,Hawaii Trbo DMR-MARC,20.9256882,-156.6517353,311539,,+5.000,ACTIVE,KH6C,TS1 TS2
@@ -8906,6 +8895,7 @@ KN6TYF,Oakland,California,United States,Master,7,441.50000,BM,37,-122.0,314363,,
 K6XH,Callao,Virginia,United States,Master,1,443.08750,BM,037.9988,-0076.545,314364,,+5.000,ACTIVE,K6XH,TS1 TS2
 AA4PP,Naples,Florida,United States,Master,1,442.01250,BM,26.12659,-81.72790,314365,"The Repeater is on the County Barn Tower, 200ft AGL. Antenna is a 4 el Telewave extended dipole, cardioid pattern to north.",+5.000,ACTIVE,AG0X,TS1 TS2
 NE4SC,Shallotte,North Carolina,United States,Peer,1,444.97500,Brandmeister,34.04314,-78.33077,314366,,+5.000,ACTIVE,K4SHP,TS1 TS2
+N1DTA,Greenville,Kentucky,United States,Peer,1,443.33750,kentucky dmr,37.2439,-87.191,314367,,+5.00,ACTIVE,N1DTA,TS1 TS2
 KC5AJP,Sulphur,Louisiana,United States,Master,6,147.70500,AmComm,30.1719368590685,-93.38736126822876,314368,,-0.600,ACTIVE,KC5AJP,TS1 TS2
 K4KNS,Evans,Georgia,United States,Master,15,444.90000,TGIF,33.5165610,-82.1437720,314369,TS1 - TG 358<br>TS2 - TG 985,+5.000,ACTIVE,"K4KNS, KN4FYG",TS1 TS2
 N5CRS,Bay Springs,Mississippi,United States,Master,1,444.92500,BM,31.97694,-89.29142,314370,n5crs,+5.00,ACTIVE,N5CRS,TS2
@@ -9662,6 +9652,8 @@ W8UM,Ann Arbor,Michigan,United States,Peer,1,444.07500,Univ. of Michigan / BM,42
 KC5KKT,Gainesville,Texas,United States,Peer,1,444.00000,3102.brandmeister.network,33.6830000,-97.1715000,315183,Contact me at kc5kkt@qsl.net.,5.000,ACTIVE,KC5KKT,TS1
 N1TVI,Painesville,Ohio,United States,Peer,1,443.47500,BM,41.6977369,-81.2685614,315184,SKYNET REPEATER SYSTEM<br>skynetsystem.org,5.000,ACTIVE,N1TVI,TS1 TS2
 NE4SC,Aynor,South Carolina,United States,Peer,1,443.66250,Brandmeister,33.9497000,-79.1083000,315185,None,+5.000,ACTIVE,K4SHP,TS1 TS2
+N1DTA,Elizabethtown,Kentucky,United States,Peer,1,444.33750,kentuckydmr c bidge,37.7450000,-85.8869000,315186,None,5.000,ACTIVE,N1DTA,TS1 TS2
+N1DTA,brook,Kentucky,United States,Peer,1,442.43750,kentuckydmr c bidge,38.0637480,-85.7310140,315187,None,5.000,ACTIVE,N1DTA,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,3,145.21000,PNWDigital,48.5600000,-120.3300000,315301,"Time Slot #1- Group Call 3153 = Washington Statewide 1<br>Time Slot #1- Group Call 3191 = Cascades 1<br><br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: http://www.pnwdigital.net",+2.78,ACTIVE,NO7RF,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,0,443.15000,NO7RF,48.5600000,-120.3300000,315302,Demo/Testing,+5.000,ACTIVE,NO7RF,TS1 TS2
 WA7DMR,Couer d Alene,Idaho,United States,Peer,1,440.92500,PNWDigital,47.6804,-116.7760,315303,"Time Slot #1- Group Call 3116 = Idaho Statewide 1<br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: https://pnwdigital.net",+5.000,ACTIVE,NO7RF,TS1 TS2
@@ -10741,6 +10733,7 @@ HS0AC,Bang Kruai,Nonthaburi,Thailand,Peer,1,146.02500,BrandMeister,13.8222733933
 HS5GDX,THA,Chiang Mai,Thailand,Peer,1,146.21250,BM,18.972556,98.6362514,520017,,-0.600,ACTIVE,HS5GDX,TS2
 HS3NTQ,Nikhompattana,Rayong,Thailand,Master,1,146.55000,DMR,0.0,0.0,520018,,-0.600,ACTIVE,HS3NTQ,TS2
 HS9ZQR,raman,Yala,Thailand,Master,8,145.70000,DMR,6.51494678977257,101.50382150034373,520019,,-0.600,ACTIVE,HS9ZQR,Mixed Mode
+E25NJ,Phra Phrom,Nakhon Si Thammarat,Thailand,Peer,0,145.73750,ASL3 Hub68777+XLX877+DMR,8.3476110,99.9245000,520020,"E25NJ Hub68777 Club, Nakhon Si Thammarat, Thailand",0.000,ACTIVE,"E24JAT, E25OUK, E25ZLY, E26CPX, HS8MGX",Mixed Mode
 E25MM,Nongkrot,Nakhon Sawan,Thailand,Master,1,145.56250,BM,15.95942,100.114600,520022,,-0.000,ACTIVE,HS0ZET,TS1 TS2
 E24ZVH,Doisaket,Chiang Mai,Thailand,Peer,1,146.62500,-,18.8723240,99.1400750,520023,None,-0.600,ACTIVE,E24ZVH,TS2
 9V1RS,Singapore,Singapore,Singapore,Singapore South,1,145.62500,BrandMeister,1.306000,103.781502,525001,MMDVM Multimode (DMR/C4FM/D-STAR)<br><br>[DMR]<br>TS1: TG525<br>TS2: -<br>[C4FM]: -<br>[D-STAR]: -,-0.600,ACTIVE,9V1LH,1
@@ -10819,6 +10812,7 @@ P29LZ,Lae,,Papua New Guinea,Master,0,144.92000,None,-6.7155252,146.999905,537101
 CN8TET,Tetouan City,,Morocco,,1,439.80000,BM,35.48482132,0,604001,,-9.600,ACTIVE,CN8XA,TS1 TS2
 CN8SNA,Oujda,All Regions,Morocco,Master,1,438.80000,FreeDMR_Maroc,34.6911110,-1.8773060,604002,,+5.000,ACTIVE,CN8SNA,TS2
 CN8GFH,Tamansourt Marrakech,All Regions,Morocco,Peer,1,430.40000,YES,31.7643500,-8.1114400,604003,None,+9.400,ACTIVE,CN8GFH,TS1 TS2
+CN8SNA,Oujda,All Regions,Morocco,Peer,0,144.87500,brandmeisteR,34.6509816,-1.9930324,604004,None,+5.000,ACTIVE,CN8SNA,TS1
 CN8TET,CASA City,,Morocco,,1,145.78750,BM,,,604006,,-0.600,ACTIVE,CN8XA,TS1 TS2
 CN8TET,RABAT City,,Morocco,,1,145.78750,BM,,,604007,,-0.600,ACTIVE,CN8XA,TS1 TS2
 CN8TET,OujdaCity,,Morocco,,1,145.78750,BM,,,604008,,-0.600,ACTIVE,CN8XA,TS1 TS2
@@ -11432,6 +11426,7 @@ YV5CBO,La Guaira,Distrito Capital,Venezuela,Master,1,147.15000,BM,10.5625000,-66
 YV4VEC,VALENCIA,Carabobo,Venezuela,Peer,1,146.64000,ADN Systems,10.1608000,-67.7304000,734017,REPETIDOR AL SERVICIO DE TODOS LOS RADIOAFICIONADOS DE LA CIUDAD DE VALENCIA Y SUS ALREDEDORES.,-0.600,ACTIVE,YV4VEC,TS1 TS2
 YV6CR,EL TIGRE,Anzoategui,Venezuela,Master,1,439.99000,BRAINMASTER.COM,8.8861100,-64.2611100,734018,None,-5.000,ACTIVE,YV6CR,TS1 TS2
 YY6CJJ,El Tigre,Anzoategui,Venezuela,Peer,1,439.85000,Brainmaster,8.8763307,-64.1741317,734019,None,-5.000,ACTIVE,YY6CJJ,TS1
+YV2FYY,Los Caballeros,Merida,Venezuela,Peer,1,146.76000,BM; TGIF,8.5924590,-71.1675370,734020,None,-0.600,ACTIVE,YV2FYY,TS1 TS2
 YV1GAG,MARACAIBO,Zulia,Venezuela,Master,1,439.87500,ADN SYSTEM,10.6464410,-71.6244400,734101,TG 734 Principal<br>TG 7341 Zona YV1<br>TG 73440 NET DIGITAL VENEZUELA,-5.000,ACTIVE,YV1GAG,TS1 TS2
 YV1GAG,maracaibo,Zulia,Venezuela,Master,1,439.57500,BM,10.604724,-71.654556,734102,REPETIDOR DMR MMDVM UHF PARA LA RED BM<br>734 slot 1<br>7341 slot 2,-5.000,ACTIVE,YV1GAG,TS1 TS2
 YV4KW,Valencia Carabobo,Aragua,Venezuela,Master,1,146.88000,DMR-Marc,10.1828036,-68.003553,734401,,-0.600,ACTIVE,YV4KW,TS1
