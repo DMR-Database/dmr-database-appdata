@@ -3700,7 +3700,7 @@ DB0WIM,Herxheim,,Germany,Peer,1,439.56250,262524,BrandMeister,262524,1,,-7.600,D
 DB0RPL,Hoehr-Grenzhausen,Rheinland-Pfalz / Saarland,Germany,Peer,1,438.30000,262530,DMR-plus BM XLX,262530,1,,-7.600,DL5DI,TS1 TS2
 DB0LJ,Kruft - XLX,Rheinland-Pfalz / Saarland,Germany,Master,1,439.82500,262531,DMRplus XLX,262531,1,,-9.400,DL5DI,TS1 TS2
 DB0VI,Marpingen,,Germany,,1,439.15000,262533,None,262533,1,,-7.600,DC4VK,
-DB0SAB,Saarburg Hosteberg,,Germany,,1,439.07500,262540,BM,262540,1,,-7.600,DF2OO,TS1 TS2
+DB0SAB,Saarburg,Rheinland-Pfalz / Saarland,Germany,Peer,1,439.07500,262540,BM,262540,1,,-7.600,DF2OO,TS1 TS2
 DO0PZ,Nickenich,,Germany,,1,438.37500,262549,BM,262549,1,,-7.600,DO7PB,TS1 TS2
 DB0UT,Erbeskopf,Rheinland-Pfalz / Saarland,Germany,Peer,1,439.85000,262550,BM,262550,1,,-9.400,DJ2QW,TS1 TS2
 DM0DOS,Doerenberg,Niedersachsen / Bremen,Germany,Peer,1,438.86250,262551,BM,262551,1,,-7.600,DJ2QW,TS1 TS2
@@ -9654,6 +9654,8 @@ N1TVI,Painesville,Ohio,United States,Peer,1,443.47500,315184,BM,315184,1,SKYNET 
 NE4SC,Aynor,South Carolina,United States,Peer,1,443.66250,315185,Brandmeister,315185,1,None,+5.000,K4SHP,TS1 TS2
 N1DTA,Elizabethtown,Kentucky,United States,Peer,1,444.33750,315186,kentuckydmr c bidge,315186,1,None,5.000,N1DTA,TS1 TS2
 N1DTA,brook,Kentucky,United States,Peer,1,442.43750,315187,kentuckydmr c bidge,315187,1,None,5.000,N1DTA,TS1 TS2
+W3ETO,Enola,Pennsylvania,United States,Peer,1,443.30000,315188,SMRA EMCOMM,315188,1,"None<br>coverage Carlisle to eastern Cumberland County<br>I81,Rt15 Rt11 Pa Turnpike into Perry,Dauphin,York.Franklin County",5.000,"W3ETO, KB3TWW",TS1 TS2
+W3ETO,Heberling,Pennsylvania,United States,Peer,1,444.40000,315189,SMRA EMCOMM,315189,1,"Shippensburg to Carlisle<br>into Perry,Franklin County into Maryland, West Virginia, Virginia  I81, Pa Turnpike, Rt11",5.000,"KB3TWW, W3ETO",TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,3,145.21000,315301,PNWDigital,315301,1,"Time Slot #1- Group Call 3153 = Washington Statewide 1<br>Time Slot #1- Group Call 3191 = Cascades 1<br><br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: http://www.pnwdigital.net",+2.78,NO7RF,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,0,443.15000,315302,NO7RF,315302,1,Demo/Testing,+5.000,NO7RF,TS1 TS2
 WA7DMR,Couer d Alene,Idaho,United States,Peer,1,440.92500,315303,PNWDigital,315303,1,"Time Slot #1- Group Call 3116 = Idaho Statewide 1<br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: https://pnwdigital.net",+5.000,NO7RF,TS1 TS2
@@ -10592,6 +10594,7 @@ YH2BFX,Surakarta,Jawa Tengah,Indonesia,Peer,1,432.40000,510024,BM_3104_America,5
 YH2BHR,Kota Semarang,Jawa Tengah,Indonesia,Master,1,146.86000,510025,BM,510025,1,None,-0.600,"YD2SMG, YB2CYA",TS1 TS2
 YH3BLV,Surabaya,Jawa Timur,Indonesia,Master,1,146.86000,510026,BM,510026,1,None,-60.000,YC3BUS,TS1 TS2
 YD6HQN,Medan,Sumatera Utara,Indonesia,Master,6,437.88500,510027,dmr.solvion.web.id,510027,1,None,-5.000,YD6HQN,TS1 TS2
+YD3CSC,Tuban,Jawa Timur,Indonesia,Master,7,438.85000,510028,Uhf,510028,1,None,5.000,YD3CSC,TS1 TS2
 DX3NE,CABANATUAN CITY,National Capital Region,Philippines,Peer,1,439.95000,515001,IPSC,515001,0,,-5.000,4F3XAN,TS1 TS2
 DX2EVM,Baguio City,Ilocos Region,Philippines,Peer,1,439.27500,515002,Scan International,515002,0,DX2EVM Scan International Repeater<br>TG- 515015  Slot 2<br>TG- 51546 Slot 1,-5.000,AD1U,TS1 TS2
 DX1EVM,Quezon City,National Capital Region,Philippines,Peer,1,434.80000,515003,SCAN i DMR,515003,1,DX2EVM Scan International Repeater<br>TG- 51546 Slot 2<br>TG-515015 Slot 1,+5.00,AD1U,TS1 TS2
@@ -10618,7 +10621,7 @@ DX2ACV,Santiago CityIsabel,Northern Luzon,Philippines,Master,1,438.70000,515025,
 DX4ARE,Legazpi City Albay,National Capital Region,Philippines,Peer,1,439.95000,515026,IPSC,515026,0,,-5.000,DU4ABA,TS1 TS2
 DW4CHZ,Naga City,National Capital Region,Philippines,Peer,1,439.95000,515027,IPSC,515027,1,,-5.000,DW4CHZ,TS1 TS2
 4F3XAN,Quezon City,National Capital Region,Philippines,Peer,1,439.94000,515028,IPSC,515028,1,,-5.000,4F3XAN,TS1 TS2
-DX8WMG,Zamboanga City,Zamboanga Peninsula,Philippines,Master,1,0.00000,515029,BrandMeister,515029,0,,-0.000,DU8BL,TS2
+DX8WMG,Zamboanga City,Zamboanga Peninsula,Philippines,Master,1,144.94000,515029,BrandMeister,515029,0,,-0.000,DU8BL,TS2
 DX4CS,Naga City,Bicol Region,Philippines,Peer,1,434.64000,515030,DMR,515030,1,,5.000,DX4CS,1 and 2
 DX3ARC,CABANATUAN CITY,Central Luzon,Philippines,Worldwide,1,438.70000,515031,opsc,515031,1,"This is Amateur Rainbow Communication in Region 3 Central Luzon, Philippines known as DX3ARC.<br><br>Thank you,<br>DV3AZS",5 mhz,DX3ARC,1 and 2
 DX1BSP,Metro Manila,National Capital Region,Philippines,Master,5,434.10000,515032,BrandMeister,515032,0,DX1BSP,+5.000,DX1BSP,2
@@ -10905,6 +10908,7 @@ TI0RC,NICOYA,Guanacaste,Costa Rica,Peer,1,439.40000,712012,BM,712012,1,CERRO AZU
 TI0ATI,San Jose,San Jose,Costa Rica,Master,15,439.95000,712013,IPSC,712013,1,None,-5.000,"TI0ATI, TI2DRU",TS1 TS2
 TI0ATI,San Jose,San Jose,Costa Rica,Peer,15,439.95000,712014,BM,712014,1,None,-5.000,"TI0ATI, TI2DRU",TS1 TS2
 TI0ATI,San Jose,San Jose,Costa Rica,Peer,15,147.20000,712015,IPSC,712015,1,712,+0.600,"TI0ATI, TI2DRU",TS1 TS2
+TI0ARC,Cartago,Cartago,Costa Rica,Peer,6,146.75000,712016,A,712016,1,None,-0.600,TI0ARC,TS1
 HP3ICC,Chiriqui,Panama,Panama,Master,1,145.13000,714001,ADN Systems,714001,1,,-0.600,HP3ICC,Mixed Mode
 HP1UPR,PO BOX 081605263,Panama,Panama,Master,10,145.49000,714004,BrandMeister,714004,1,7146,-0.600,HP1MRA,TS1 TS2
 HP1UPA,PO BOX 081605263,Panama,Panama,Master,10,147.10000,714005,BrandMeister,714005,1,tg7146,-0.600,HP1MRA,TS1 TS2

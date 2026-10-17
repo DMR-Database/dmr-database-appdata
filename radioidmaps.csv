@@ -3700,7 +3700,7 @@ DB0WIM,Herxheim,,Germany,Peer,1,439.56250,BrandMeister,49.1463456,8.2156228,2625
 DB0RPL,Hoehr-Grenzhausen,Rheinland-Pfalz / Saarland,Germany,Peer,1,438.30000,DMR-plus BM XLX,50.4243,7.7322,262530,,-7.600,ACTIVE,DL5DI,TS1 TS2
 DB0LJ,Kruft - XLX,Rheinland-Pfalz / Saarland,Germany,Master,1,439.82500,DMRplus XLX,50.3882,7.3410000,262531,,-9.400,ACTIVE,DL5DI,TS1 TS2
 DB0VI,Marpingen,,Germany,,1,439.15000,None,49.455292,7.079900,262533,,-7.600,ACTIVE,DC4VK,
-DB0SAB,Saarburg Hosteberg,,Germany,,1,439.07500,BM,49.602440,6.506559,262540,,-7.600,ACTIVE,DF2OO,TS1 TS2
+DB0SAB,Saarburg,Rheinland-Pfalz / Saarland,Germany,Peer,1,439.07500,BM,49.602440,6.506559,262540,,-7.600,ACTIVE,DF2OO,TS1 TS2
 DO0PZ,Nickenich,,Germany,,1,438.37500,BM,50.413673,7.324239,262549,,-7.600,ACTIVE,DO7PB,TS1 TS2
 DB0UT,Erbeskopf,Rheinland-Pfalz / Saarland,Germany,Peer,1,439.85000,BM,49.749691,7.118540,262550,,-9.400,ACTIVE,DJ2QW,TS1 TS2
 DM0DOS,Doerenberg,Niedersachsen / Bremen,Germany,Peer,1,438.86250,BM,49.8224,6.7867,262551,,-7.600,ACTIVE,DJ2QW,TS1 TS2
@@ -9654,6 +9654,8 @@ N1TVI,Painesville,Ohio,United States,Peer,1,443.47500,BM,41.6977369,-81.2685614,
 NE4SC,Aynor,South Carolina,United States,Peer,1,443.66250,Brandmeister,33.9497000,-79.1083000,315185,None,+5.000,ACTIVE,K4SHP,TS1 TS2
 N1DTA,Elizabethtown,Kentucky,United States,Peer,1,444.33750,kentuckydmr c bidge,37.7450000,-85.8869000,315186,None,5.000,ACTIVE,N1DTA,TS1 TS2
 N1DTA,brook,Kentucky,United States,Peer,1,442.43750,kentuckydmr c bidge,38.0637480,-85.7310140,315187,None,5.000,ACTIVE,N1DTA,TS1 TS2
+W3ETO,Enola,Pennsylvania,United States,Peer,1,443.30000,SMRA EMCOMM,40.3055449,-77.0066426,315188,"None<br>coverage Carlisle to eastern Cumberland County<br>I81,Rt15 Rt11 Pa Turnpike into Perry,Dauphin,York.Franklin County",5.000,ACTIVE,"W3ETO, KB3TWW",TS1 TS2
+W3ETO,Heberling,Pennsylvania,United States,Peer,1,444.40000,SMRA EMCOMM,40.2214800,-77.5327368,315189,"Shippensburg to Carlisle<br>into Perry,Franklin County into Maryland, West Virginia, Virginia  I81, Pa Turnpike, Rt11",5.000,ACTIVE,"KB3TWW, W3ETO",TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,3,145.21000,PNWDigital,48.5600000,-120.3300000,315301,"Time Slot #1- Group Call 3153 = Washington Statewide 1<br>Time Slot #1- Group Call 3191 = Cascades 1<br><br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: http://www.pnwdigital.net",+2.78,ACTIVE,NO7RF,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,0,443.15000,NO7RF,48.5600000,-120.3300000,315302,Demo/Testing,+5.000,ACTIVE,NO7RF,TS1 TS2
 WA7DMR,Couer d Alene,Idaho,United States,Peer,1,440.92500,PNWDigital,47.6804,-116.7760,315303,"Time Slot #1- Group Call 3116 = Idaho Statewide 1<br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: https://pnwdigital.net",+5.000,ACTIVE,NO7RF,TS1 TS2
@@ -10592,6 +10594,7 @@ YH2BFX,Surakarta,Jawa Tengah,Indonesia,Peer,1,432.40000,BM_3104_America,-7.54691
 YH2BHR,Kota Semarang,Jawa Tengah,Indonesia,Master,1,146.86000,BM,-7.1331680,110.3626810,510025,None,-0.600,ACTIVE,"YD2SMG, YB2CYA",TS1 TS2
 YH3BLV,Surabaya,Jawa Timur,Indonesia,Master,1,146.86000,BM,-7.259967,112.4533420,510026,None,-60.000,ACTIVE,YC3BUS,TS1 TS2
 YD6HQN,Medan,Sumatera Utara,Indonesia,Master,6,437.88500,dmr.solvion.web.id,3.5940000,98.6740000,510027,None,-5.000,ACTIVE,YD6HQN,TS1 TS2
+YD3CSC,Tuban,Jawa Timur,Indonesia,Master,7,438.85000,Uhf,-6.9093501,112.0597912,510028,None,5.000,ACTIVE,YD3CSC,TS1 TS2
 DX3NE,CABANATUAN CITY,National Capital Region,Philippines,Peer,1,439.95000,IPSC,0.0,0.0,515001,,-5.000,ACTIVE,4F3XAN,TS1 TS2
 DX2EVM,Baguio City,Ilocos Region,Philippines,Peer,1,439.27500,Scan International,0.0,0.0,515002,DX2EVM Scan International Repeater<br>TG- 515015  Slot 2<br>TG- 51546 Slot 1,-5.000,ACTIVE,AD1U,TS1 TS2
 DX1EVM,Quezon City,National Capital Region,Philippines,Peer,1,434.80000,SCAN i DMR,14.676,121.0437,515003,DX2EVM Scan International Repeater<br>TG- 51546 Slot 2<br>TG-515015 Slot 1,+5.00,ACTIVE,AD1U,TS1 TS2
@@ -10618,7 +10621,7 @@ DX2ACV,Santiago CityIsabel,Northern Luzon,Philippines,Master,1,438.70000,5152,16
 DX4ARE,Legazpi City Albay,National Capital Region,Philippines,Peer,1,439.95000,IPSC,0.0,0.0,515026,,-5.000,ACTIVE,DU4ABA,TS1 TS2
 DW4CHZ,Naga City,National Capital Region,Philippines,Peer,1,439.95000,IPSC,14,121,515027,,-5.000,ACTIVE,DW4CHZ,TS1 TS2
 4F3XAN,Quezon City,National Capital Region,Philippines,Peer,1,439.94000,IPSC,14.659620,121.028053,515028,,-5.000,ACTIVE,4F3XAN,TS1 TS2
-DX8WMG,Zamboanga City,Zamboanga Peninsula,Philippines,Master,1,0.00000,BrandMeister,0,0,515029,,-0.000,ACTIVE,DU8BL,TS2
+DX8WMG,Zamboanga City,Zamboanga Peninsula,Philippines,Master,1,144.94000,BrandMeister,0,0,515029,,-0.000,ACTIVE,DU8BL,TS2
 DX4CS,Naga City,Bicol Region,Philippines,Peer,1,434.64000,DMR,13.6240122,123.1850318,515030,,5.000,ACTIVE,DX4CS,1 and 2
 DX3ARC,CABANATUAN CITY,Central Luzon,Philippines,Worldwide,1,438.70000,opsc,15.472120,120.958351,515031,"This is Amateur Rainbow Communication in Region 3 Central Luzon, Philippines known as DX3ARC.<br><br>Thank you,<br>DV3AZS",5 mhz,ACTIVE,DX3ARC,1 and 2
 DX1BSP,Metro Manila,National Capital Region,Philippines,Master,5,434.10000,BrandMeister,41.73329,-50.39989,515032,DX1BSP,+5.000,ACTIVE,DX1BSP,2
@@ -10905,6 +10908,7 @@ TI0RC,NICOYA,Guanacaste,Costa Rica,Peer,1,439.40000,BM,9.950880039444927,-85.293
 TI0ATI,San Jose,San Jose,Costa Rica,Master,15,439.95000,IPSC,9.9061710,-84.1600000,712013,None,-5.000,ACTIVE,"TI0ATI, TI2DRU",TS1 TS2
 TI0ATI,San Jose,San Jose,Costa Rica,Peer,15,439.95000,BM,9.9061760,-84.1617980,712014,None,-5.000,ACTIVE,"TI0ATI, TI2DRU",TS1 TS2
 TI0ATI,San Jose,San Jose,Costa Rica,Peer,15,147.20000,IPSC,9.9061600,-84.1618300,712015,712,+0.600,ACTIVE,"TI0ATI, TI2DRU",TS1 TS2
+TI0ARC,Cartago,Cartago,Costa Rica,Peer,6,146.75000,A,9.9400000,-83.8600000,712016,None,-0.600,ACTIVE,TI0ARC,TS1
 HP3ICC,Chiriqui,Panama,Panama,Master,1,145.13000,ADN Systems,9.331112,-79.783465,714001,,-0.600,ACTIVE,HP3ICC,Mixed Mode
 HP1UPR,PO BOX 081605263,Panama,Panama,Master,10,145.49000,BrandMeister,9.229940,-79.383057,714004,7146,-0.600,ACTIVE,HP1MRA,TS1 TS2
 HP1UPA,PO BOX 081605263,Panama,Panama,Master,10,147.10000,BrandMeister,8.678520,-79.917984,714005,tg7146,-0.600,ACTIVE,HP1MRA,TS1 TS2
