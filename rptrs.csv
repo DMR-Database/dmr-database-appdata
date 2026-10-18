@@ -174,7 +174,7 @@ SV3K,Kalamata,Peloponnisos,Greece,Peer,1,439.37500,202018,BM,202018,1,"TG202, TG
 SV6S,Arta,Ipeiros,Greece,Master,1,145.58750,202019,TGIF,202019,1,,-0.600,SZ6ARTA,TS1 TS2
 SV2G,54351 Thessaloniki,Dytiki Makedonia / Kentriki Makedonia,Greece,Master,1,434.75000,202020,None,202020,1,,-1.6000,SZ2TSL,Mixed Mode
 SW8AA,Lemnos,N. Aegean,Greece,Peer,1,439.38750,202021,BM,202021,0,,-7.600,SZ8LES,TS1 TS2
-SZ4THE,LARISSA,Thessalia,Greece,Peer,3,438.73700,202022,IPSC2-GR-RPT,202022,1,None,-7.600,SZ4THE,TS1 TS2
+SZ4THE,LARISSA,Thessalia,Greece,Peer,3,438.73700,202022,DMR-plus,202022,1,None,-7.600,SZ4THE,TS1 TS2
 SV9M,Hrakleio City,Kriti,Greece,Peer,1,438.91250,202023,DMR+,202023,1,TS1 / TG 202<br>TS2 / TG 8 + TG 9,-7.600,"SV1EDZ, SZ1E",TS1 TS2
 SV6G,Ioannina,Ipeiros,Greece,Peer,1,438.75000,202024,BrandMesiter,202024,1,None,-7.600,SV6NOB,TS1 TS2
 SW1F,Imittos Athens,Attiki / Sterea Ellada / Dytiki Ellada,Greece,Peer,1,438.81250,202101,DMR-plus,202101,1,,-7.600,SV1EDZ,TS1 TS2
@@ -1233,7 +1233,6 @@ IR3UII,Comune di Tarcento,,Italy,,1,431.12500,222333,DMR-plus,222333,1,,1.600,IV
 IR3UGD,Jaufen - Giovo,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.53750,222334,BM,222334,1,,+1.600,IW3AMQ,Mixed Mode
 IR3EF,Monte Bernadia(UD),,Italy,Master,1,145.58750,222335,BM,222335,1,,-1.600,IW3QOJ,TS1 TS2
 IR3UFM,Schoeneben - Belpiano,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.58750,222336,BM,222336,1,,+5.000,IW3AMQ,Mixed Mode
-IQ3VO,Verona,,Italy,,1,430.90000,222337,BM,222337,1,,5.000,IZ4ATU,TS1 TS2
 IR3DV,Kronplatz - Plan de Corones,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.52500,222338,BM,222338,1,,+1.600,IW3AMQ,Mixed Mode
 IR3EB,Piz Chavalatsch - Cavallaccio,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.52500,222339,BM,222339,1,,+1.600,IW3AMQ,Mixed Mode
 IR3ZYG,CIMA EKAR,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.48750,222340,BM,222340,1,,+1.6000,I3WTT,TS1 TS2
@@ -1985,7 +1984,6 @@ GB7HK,Hawick,Scotland,United Kingdom,Peer,3,145.62500,234111,DVSPh,234111,1,,-0.
 GB7CH,Hainault,England,United Kingdom,,3,439.61250,234112,None,234112,1,,-9.000,M0MBD,
 GB7LK,Liskeard Cornwall,England,United Kingdom,Peer,5,430.81250,234113,DMR-plus,234113,1,,+7.6000,G4RKY,TS1 TS2
 GB3BH,East Sussex,England,United Kingdom,Master,3,430.98750,234114,BM,234114,1,"TS2: 234114, 2350, 23510",+7.6,M0JDN,TS1 TS2
-GB7HY,Heapey,England,United Kingdom,Master,10,439.57500,234115,BM,234115,1,,-9.000,M1CGI,TS1 TS2
 GB3MX,Cumbria,England,United Kingdom,Master,1,145.63750,234116,DMR,234116,1,,-0.600,M5LEE,Mixed Mode
 G0OLX,Isle of Sheppey,England,United Kingdom,Peer,3,439.16250,234117,DMR +,234117,1,"1,,2,13,235,801",-9.000,G0OLX,TS1 TS2
 GB7DG,Portpatrick Dumfries and Galloway,Scotland,United Kingdom,Peer,7,430.90000,234118,Brandmeister,234118,0,,+7.600,GM7RYR,TS1 TS2
@@ -4067,20 +4065,20 @@ LX0NSR,Ettelbruck,,Luxemburg,,1,438.68750,270106,BM,270106,1,,-7.600,LX2CS,TS1 T
 LX0DMR,Luxembourg,,Luxemburg,,1,438.28750,270107,BM,270107,1,,-7.600,LX2CS,TS1 TS2
 LX0DMX,Differdange,,Luxemburg,,1,438.47500,270108,BM,270108,1,,-7.600,LX3X,TS1 TS2
 LX0FSK,Hobscheid,,Luxemburg,,1,438.88750,270109,BM,270109,1,,-7.600,LX2CS,TS1 TS2
-LX0DME,Eschdorf,,Luxemburg,Master,1,439.51250,270110,XLX,270110,1,,-7.600,LX1IQ,TS1 TS2
+LX0DME,Eschdorf,All Regions,Luxemburg,Master,1,439.51250,270110,XLX,270110,1,,-7.600,LX1IQ,TS1 TS2
 LX0E,nationwide,All Regions,Luxemburg,Master,1,439.90000,270111,BM,270111,1,,-9.400,"LX1DUC, LX2CS",TS1 TS2
 LX0E,nationwide,All Regions,Luxemburg,Master,1,439.91250,270112,BM,270112,1,,-9.400,"LX1DUC, LX2CS",TS1 TS2
 LX0E,nationwide,All Regions,Luxemburg,Master,1,439.91250,270113,BM,270113,1,,-9.400,"LX1DUC, LX2CS",TS1 TS2
 LX0BER,Nocher,,Luxemburg,,1,438.98750,270114,BM,270114,1,,-7.600,LX2CS,TS1 TS2
-LX0MVL,Kirchberg,,Luxemburg,Master,1,438.61250,270115,XLX,270115,1,,-7.600,LX1IQ,TS1 TS2
-LX0RL,Eisenborn,,Luxemburg,Peer,1,438.83750,270116,XLX,270116,1,,-7.600,LX1IQ,Mixed Mode
+LX0MVL,Kirchberg,All Regions,Luxemburg,Master,1,438.61250,270115,XLX,270115,1,,-7.600,LX1IQ,TS1 TS2
+LX0RL,Eisenborn,All Regions,Luxemburg,Peer,1,438.83750,270116,XLX,270116,1,,-7.600,LX1IQ,Mixed Mode
 LX0LWL,Lorentzweiler,,Luxemburg,,1,439.81250,270117,BM,270117,1,,-9.400,LX2CS,TS1 TS2
-LX0DRB,Bourscheid,,Luxemburg,Master,1,439.52500,270120,XLX,270120,1,,-7.600,LX1IQ,TS1 TS2
+LX0DRB,Bourscheid,All Regions,Luxemburg,Master,1,439.52500,270120,XLX,270120,1,,-7.600,LX1IQ,TS1 TS2
 LX0DRU,Rumelange,,Luxemburg,,1,438.80000,270122,None,270122,0,,-7.600,LX1SC,
 LX0DUC,Diekirch,All Regions,Luxemburg,Peer,2,439.48750,270123,BM,270123,1,,-7.600,LX1DUC,TS1
 LX0LARO,Larochette,,Luxemburg,,2,439.48750,270124,BM,270124,1,,-7.600,LX2CS,TS1 TS2
-LX0DML,Blaschette,,Luxemburg,Master,1,438.33750,270130,XLX,270130,1,,-7.600,LX1IQ,TS1 TS2
-LX0DMM,Machtum,,Luxemburg,Master,1,145.58750,270140,XLX,270140,1,,-0.600,LX1IQ,TS1 TS2
+LX0DML,Blaschette,All Regions,Luxemburg,Master,1,438.33750,270130,XLX,270130,1,,-7.600,LX1IQ,TS1 TS2
+LX0DMM,Machtum,All Regions,Luxemburg,Master,1,145.58750,270140,XLX,270140,1,,-0.600,LX1IQ,TS1 TS2
 EI2SIRG,Co Cork,All Regions,Ireland,Master,1,430.25000,272001,BM,272001,1,,+9.000,EI8JA,TS1 TS2
 EI7CDD,Co - Waterford,All Regions,Ireland,Master,1,439.65000,272002,BM,272002,1,,-9.000,EI8JA,TS1 TS2
 EI2GCD,Galway City,,Ireland,,1,144.85000,272003,DMR-plus,272003,1,,0.000,EI5DD,TS1 TS2
@@ -4796,7 +4794,7 @@ VE1DRR,Halifax,Nova Scotia,Canada,Master,1,443.75000,302441,BM,302441,1,Will be 
 VA6SRG,Dunmore,Alberta,Canada,Master,4,444.80000,302442,dstar,302442,1,,+5.000,VA6CWK,Mixed Mode
 VE2RGM,Grandes-Piles,Quebec,Canada,Master,1,444.67500,302443,BM,302443,1,,+5.000,VA2PPP,TS1 TS2
 VE3FDW,Dresden,Ontario,Canada,Master,7,444.90000,302444,BM,302444,1,"3023,3021610 linked <br>91 Saturday net activated at 10 - 16:00 Slot 2 Can key up any talkgroup on BM anytime<br>FM Mode 88.5",+5.000,VE3FDW,Mixed Mode
-VA7DXH,Ladysmith,British Columbia,Canada,Peer,1,440.82500,302445,BCTRBO,302445,1,Will follow ASAP.,+5.00,VA7DXX,TS1 TS2
+VA7DXH,Ladysmith,British Columbia,Canada,Peer,1,440.82500,302445,BCTRBO,302445,1,Will follow ASAP.,+5.00,"VA7DXX, VE7PMD",TS1 TS2
 VE1EAN,Windsor,Nova Scotia,Canada,Peer,1,443.65000,302447,BM,302447,1,,+5.000,VE1JKB,TS2
 VE3FDW,WALLACEBURG,Ontario,Canada,Master,7,146.30000,302448,BM,302448,1,"tg slot 2= 3023,3021610 and 91 on saturdays between 10:00am 4:00pm<br><br>Simplex ONLY",-0.6,VE3FDW,TS2
 VA7KEL,Kelowna,British Columbia,Canada,Peer,1,444.82500,302449,BM,302449,1,"Talk groups: 302020,  30271, 302,  3027,  30272, 3025",+5.000,VE7BST,TS1 TS2
@@ -4975,7 +4973,6 @@ KK4AXA,Montgomery,Alabama,United States,PEER,1,443.97500,310123,Brandmeister,310
 N4NQV,Auburn,Alabama,United States,Peer,1,444.77500,310124,Brandmeister,310124,1,,+5.000,N4NQV,TS1 TS2
 KG4YRU,Jacksonville,Alabama,United States,Peer,2,440.70000,310125,Brandmeister,310125,1,,+5.000,KG4YRU,TS1 TS2
 W4PCI,Nectar,Alabama,United States,Master,1,147.44500,310126,Brandmister,310126,1,,-1.000,W4PCI,TS1 TS2
-N4UAI,Cullman,Alabama,United States,None,1,444.90000,310127,Brandmiester,310127,1,,+5.000,W4DWF,TS1 TS2
 N4GLE,Sheffield,Alabama,United States,Peer,3,146.88000,310128,AmComm,310128,1,,-0.600,N4GLE,TS1 TS2
 W4NQ,Elba,Alabama,United States,Peer,1,443.00000,310129,AmComm,310129,1,,+5.000,N4WFF,TS1 TS2
 WB2FYF,South Amboy,New Jersey,United States,Peer,1,440.25000,310131,Brandmeister,310131,1,,+5.000,WB2FYF,TS1 TS2
@@ -6085,8 +6082,6 @@ N8WHG,Jasper,Georgia,United States,Peer,3,145.37000,311330,Georgia DMR,311330,1,
 KJ4KKB,Dallas,Georgia,United States,Peer,3,443.80000,311331,Cbridge,311331,1,,+5.000,KJ4KKB,TS1 TS2
 W9SH,Cumming,Georgia,United States,Peer,2,444.12500,311332,K4USD,311332,1,,+5.000,W9SH,Mixed Mode
 N4LMC,Lookout Mountain,Georgia,United States,Peer,1,444.71250,311333,TGIF,311333,1,TGIF Network<br>TS1 TG320 (changeable) QuadNet<br>TS2 TG43389 (static) SouthEast Link,+5.000,W4EDP,TS1 TS2
-K4KV,Tifton,Georgia,United States,Master,1,444.87500,311334,Brandmeister,311334,1,,+5.000,K4KV,TS1 TS2
-K4KV,Moultrie,Georgia,United States,Master,1,444.50000,311335,Brandmeister,311335,1,,+5.000,K4KV,TS1 TS2
 AI1U,Lawrenceville,Georgia,United States,Peer,1,442.70000,311336,BM3102,311336,1,TS 1 - QuadNet (31012)<br>TS 2 - Atlanta Metro (31131)<br>,+5.000,AI1U,TS1 TS2
 WA4ASI,Covington,Georgia,United States,Master,2,444.80000,311337,Brandmeister,311337,1,,+5.000,WA4ASI,TS2
 KD4Z,Marietta,Georgia,United States,Master,1,442.97500,311338,BM,311338,1,"Sweat Mountain high site repeater on Brandmeister network.  Atlanta Metro Static on 31131 Slot 1 , GA Statewide Static on 3113 Slot 2",+5.000,KD4Z,TS1 TS2
@@ -8389,7 +8384,7 @@ KB9CRA,Kokomo,Indiana,United States,Peer,1,442.40000,313810,BM,313810,1,For Talk
 W4USF,Tampa,Florida,United States,Master,2,443.11250,313811,BM,313811,1,TG ID will be updated later,+5.000,W4USF,TS1 TS2
 WB4EOT,Roanoke,Virginia,United States,Peer,1,147.16500,313812,DMRVA,313812,1,"A new repeater for the DMRVA network is located on Fort Lewis Mountain near Salem, Virginia. The repeater is on the air and operational.<br>TG / TS details:<br>TG 3151 TS 2  VA Statewide<br>TG 43277 TS 2  HEARS - TG linked to N4HRS HEARS network.  www.n4hrs.org<br>TG 27500 TS 1  Local<br>TG 27501  TS 1  TAC A<br>TG 27502  TS 1  TAC B",+0.600,WB4EOT,TS1 TS2
 WH7PW,Honolulu,Hawaii,United States,Master,1,434.97500,313813,BM,313813,1,,+5.00,WH7PW,TS1 TS2
-K1QL,Blackstone,Massachusetts,United States,Peer,1,448.62500,313814,BM,313814,1,"TS1 Local, TS2 TG91 Worldwide",-5.000,K1QL,Mixed Mode
+K1QL,Blackstone,Massachusetts,United States,Peer,1,448.62500,313814,BM,313814,1,"TS1 Local, TS2 TG91 Worldwide",-5.000,K1QL,TS1 TS2
 K1JST,Exeter,Rhode Island,United States,Peer,2,145.31000,313815,BM,313815,1,"Unpadded TGs - BM<br>8 Padded TGs - NEDECN via CanTrbo<br>M17-M17 C CAN 0<br>Time Slot #1 - Group Call 8000759 - SKYWARN Gray, Norton, Burlington, Albany NWS<br>Time Slot #1 - Group Call 8008801 - NEDECN NE TAC 1<br>Time Slot #2 - Group Call 310381 - Local<br>Time Slot #2 - Group Call 3105992 - NB1RI Repeater Network<br>Time Slot #2 - Group Call 8003181 - NEDECN New England Wide<br>Time Slot #2 - Group Call 8003144 - NEDECN RI Statewide<br>",-0.6,K1JST,TS1 TS2
 KF7MAN,Tavares,Florida,United States,Peer,1,440.17500,313816,BM,313816,1,226,+5.000,KF7MAN,TS1 TS2
 K4CBA,Gastonia,North Carolina,United States,Peer,1,442.05000,313817,BM,313817,1,,+5.000,K4CBA,TS1 TS2
@@ -9239,7 +9234,6 @@ W4KEV,Knoxville,Tennessee,United States,Peer,1,440.55000,314732,Brandmeister,314
 KR4BT,sparta,Tennessee,United States,Master,1,147.16500,314739,BrandMeister,314739,1,,+0.600,KR4BT,Mixed Mode
 W4DMM,Lebanon,Tennessee,United States,Peer,1,440.62500,314740,Brandmeister,314740,1,TS2 3147 TN Statewide<br>TS2 314722 Se Link Network,+5.000,W4DMM,TS1 TS2
 NQ4Y,Monteagle Mtn,Tennessee,United States,Master,1,442.20000,314741,Brandmeister,314741,1,NQ4Y Monteagle Mtn Repeater,+5.000,NQ4Y,TS1 TS2
-KK4XA,MARYVILLE,Tennessee,United States,Master,1,444.07500,314742,BRANDMEISTER,314742,1,,+5.000,KK4XA,Mixed Mode
 W4YI,Ooltewah,Tennessee,United States,Peer,1,444.90000,314743,BrandMeister,314743,1,,+5.000,W4YI,TS1 TS2
 N1YPM,Cherryfield,Maine,United States,Master,12,147.18000,314745,BM,314745,1,,+0.6000,AG7JV,TS1 TS2
 K6AEM,Castro Valley,California,United States,Master,5,440.83750,314746,DMR-MARC,314746,1,91,+5.000,K6AEM,TS1 TS2
@@ -9646,7 +9640,7 @@ W8VD,New Baltimore,Michigan,United States,Peer,1,147.00000,315176,Brandmeister,3
 W9ODO,Pekin,Illinois,United States,Peer,12,444.82500,315177,Brandmeister,315177,1,None,5.000,"W9ODO, KT9Y, W9NJM",TS1 TS2
 N3CMY,Millerstown,Pennsylvania,United States,Peer,1,449.72500,315178,Brandmeister,315178,1,None,-5.000,N3CMY,TS1 TS2
 W4SNC,Statesville,North Carolina,United States,Peer,0,443.60000,315179,PRN,315179,1,None,+5.000,KC4KQC,TS1 TS2
-N0KFI,Wilkesboro,North Carolina,United States,Peer,1,145.21000,315180,Brandmeister,315180,1,Owner,-0.600,N0KFI,TS1
+N0KFI,Wilkesboro,North Carolina,United States,Peer,1,145.48000,315180,Brandmeister,315180,1,Owner,-0.600,N0KFI,TS1
 W8GMM,East Palestine,Ohio,United States,Peer,1,443.87500,315181,Brandmeister,315181,1,None,+5.000,W8GMM,TS1 TS2
 W8UM,Ann Arbor,Michigan,United States,Peer,1,444.07500,315182,Univ. of Michigan / BM,315182,1,None,+5.000,"W2PUT, W8UM",TS1 TS2
 KC5KKT,Gainesville,Texas,United States,Peer,1,444.00000,315183,3102.brandmeister.network,315183,1,Contact me at kc5kkt@qsl.net.,5.000,KC5KKT,TS1
@@ -10153,6 +10147,7 @@ HL2DEA,Wonju,Seoul,Korea Republic of,4501,1,439.80000,450021,BrandMeister,450021
 HL2DEA,Wonju,Seoul,Korea Republic of,4501,1,439.89000,450022,BrandMeister,450022,0,MMDVM,-5,HL2DEA,1&2
 HL2DEA,Wonju,Seoul,Korea Republic of,4501,1,439.83000,450023,BrandMeister,450023,0,MMDVM,-5,HL2DEA,1&2
 HL2DEA,Wonju,Seoul,Korea Republic of,4501,1,439.81000,450024,BrandMeister,450024,0,MMDVM,-5,HL2DEA,1&2
+DS4GOD,Gwangju,KWangJu Si,Korea Republic of,Master,1,439.80000,450025,DMR-MARC,450025,1,TG450518,-5.000,DS4GOD,Mixed Mode
 DS3DIF,Taean,ChungChong Nam-Do,Korea Republic of,Master,1,433.80000,450026,BM,450026,0,,+5.000,DS3DIF,TS2
 DS5KET,PUSAN,BuSan Si,Korea Republic of,Master,1,443.40000,450027,BM,450027,1,,+2.0,DS5KET,TS1
 6K5EBC,Jung-gu Ulsan,UlSan Si,Korea Republic of,Master,1,435.75500,450028,dmr,450028,1,,-5.000,6K5EBC,Mixed Mode
