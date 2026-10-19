@@ -228,7 +228,6 @@ PD0JCH,Ouddorp,Zuid-Holland,Netherlands,Peer,1,438.20000,204008,Brandmeister,204
 PI2GOE,Wilhelminadorp,Zeeland,Netherlands,Peer,7,438.40000,204009,BM,204009,1,Note: the repeater is still under construction and is not yet setup for production. Data as depicted here may definitely change!<br><br>Deze repeater draait bij PI4Z en is daarvoor primair beschikbaar.,-7.600,"PI2GOE, PB5A, PE9GHZ",TS1 TS2
 PI4LEK,LEEK,Groningen,Netherlands,Peer,1,454.90000,204010,DMR,204010,1,None,10.000,PD2EN,TS1 TS2
 PI1LEK,Leek,Groningen,Netherlands,Peer,1,454.90000,204011,DMR,204011,1,None,10.000,PD2EN,TS1 TS2
-PI1AMS,Amsterdam,,Netherlands,Peer,1,438.05000,204101,BM,204101,1,,-7.600,PA3PM,TS1 TS2
 PI1DHG,Den Haag,Zuid-Holland,Netherlands,,1,438.20000,204201,BM,204201,1,,-7.600,PA3FRH,TS1 TS2
 PI1HGD,Den Haag,Zuid-Holland,Netherlands,,1,438.25000,204202,DMR-plus,204202,1,,-7.600,PA3FRH,TS1 TS2
 PI1VLD,VLAARDINGEN,Zuid-Holland,Netherlands,,1,438.82150,204210,None,204210,1,,-7.600,PA0ISK,TS1 TS2
@@ -1233,6 +1232,7 @@ IR3UII,Comune di Tarcento,,Italy,,1,431.12500,222333,DMR-plus,222333,1,,1.600,IV
 IR3UGD,Jaufen - Giovo,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.53750,222334,BM,222334,1,,+1.600,IW3AMQ,Mixed Mode
 IR3EF,Monte Bernadia(UD),,Italy,Master,1,145.58750,222335,BM,222335,1,,-1.600,IW3QOJ,TS1 TS2
 IR3UFM,Schoeneben - Belpiano,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.58750,222336,BM,222336,1,,+5.000,IW3AMQ,Mixed Mode
+IQ3VO,,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.90000,222337,BM,222337,1,,5.000,IU3EEP,TS1 TS2
 IR3DV,Kronplatz - Plan de Corones,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.52500,222338,BM,222338,1,,+1.600,IW3AMQ,Mixed Mode
 IR3EB,Piz Chavalatsch - Cavallaccio,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.52500,222339,BM,222339,1,,+1.600,IW3AMQ,Mixed Mode
 IR3ZYG,CIMA EKAR,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.48750,222340,BM,222340,1,,+1.6000,I3WTT,TS1 TS2
@@ -1370,6 +1370,7 @@ IR0ZYF,Rocca Priora,Lazio / Umbria / Sardinia,Italy,Peer,0,145.57500,222492,HamT
 IR0ZXV,Rocca Priora RM,Lazio / Umbria / Sardinia,Italy,Peer,0,145.65000,222493,HamThings,222493,1,None,-0.600,IU6SSZ,Mixed Mode
 IR3TSA,Trieste,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,431.50000,222494,Hamthings,222494,1,None,+5.000,IV3JDV,TS1 TS2
 IR1UFB,Castagneto Po,Piedmont / Liguria / Aosta,Italy,Peer,8,430.55000,222495,bremmaster,222495,1,None,5.000,I1WTM,Mixed Mode
+IR7UBA,Bari,Apulia / Basilicata,Italy,Peer,0,430.30000,222496,Hamthings,222496,1,None,1.600,"IQ7DV, IZ7OIX",Mixed Mode
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,222500,DMR-plus,222500,1,,+5.000,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,222501,DMR-plus,222501,1,,5.000,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,222502,BM,222502,1,,5.000,IK5BNG,TS1 TS2
@@ -1657,7 +1658,6 @@ HB9DD,Mt Tamaro,Ticino,Switzerland,Peer,1,438.46250,228602,BM,228602,1,,-7.600,H
 HB9DD,Airolo,Ticino,Switzerland,Peer,1,438.48750,228603,BM,228603,1,,-7.600,HB9ODP,TS1 TS2
 HB9DD,Biasca,Ticino,Switzerland,Peer,1,438.43750,228604,BM,228604,1,,-7.600,HB9ODP,TS1 TS2
 HB9DD,Monte Generoso,Ticino,Switzerland,Peer,1,438.43750,228605,BM,228605,1,,-7.600,HB9ODP,TS1 TS2
-HB9CF,Seelisberg UR,Uri,Switzerland,Peer,1,438.41250,228606,BM,228606,1,nicht mehr in Betrieb,-7.600,HB9HJJ,TS1 TS2
 HB9DD,San Bernardino,Ticino,Switzerland,Peer,1,438.51250,228607,BM,228607,1,,-7.600,HB9ODP,TS1 TS2
 HB9DD,Mendrisio,Ticino,Switzerland,Peer,2,145.63750,228609,BM,228609,1,,-0.600,HB9ODP,TS1 TS2
 HB9DD,Locarno,Ticino,Switzerland,Peer,1,438.51250,228610,BM,228610,1,,-7.600,HB9ODP,TS1 TS2
@@ -4232,7 +4232,7 @@ YM5KAA,Adana,Mediterranean Region,Turkiye,Peer,1,439.38750,286056,BM,286056,1,20
 YM6KTC,CANKIRI,Central Anatolia Region,Turkiye,Peer,1,439.17500,286057,BM,286057,1,AKRAD TG: 2862012<br>YM6KTC TG: 286057,-7.600,TA5HY,TS1 TS2
 YM3KO,Manisa,Aegean Region,Turkiye,Master,1,439.40000,286058,BM,286058,1,TG28645,-7.600,YM3KO,TS2
 YM4KSO,Aydin,Aegean Region,Turkiye,Master,1,439.16250,286059,Dmr,286059,1,286096<br>28609<br>286091<br>286092,-7.6000,"TB4DIK, YM4KSO",TS2
-YM2KA,Ankara Baglum,,Turkiye,,1,439.25000,286060,BM,286060,1,,-7.600,TA3AS,TS1 TS2
+YM2KA,Ankara,Central Anatolia Region,Turkiye,Peer,1,439.25000,286060,BM,286060,1,,-7.600,TA3AS,TS1 TS2
 YM2KRD,Ankara,Central Anatolia Region,Turkiye,Master,1,439.17500,286061,BM,286061,1,2862012,-7.600,"TA2ZE, TA5HY",TS1 TS2
 YM2KCL,KOCAELI,Marmara Region,Turkiye,Master,1,439.41250,286062,BM,286062,1,,-7.600,YM2KCL,TS1 TS2
 YM3KYM,Izmir,Aegean Region,Turkiye,Master,1,439.16250,286063,BM,286063,1,TG-28635,-7.600,YM3KYM,TS1 TS2
@@ -4259,7 +4259,7 @@ YM8KS,Gaziantep,Southeastern Anatolia Region,Turkiye,Master,1,439.40000,286270,B
 YM5KY,Mersin,Mediterranean Region,Turkiye,Peer,1,439.17500,286330,BM,286330,1,28633,-7.600,TA5O,Mixed Mode
 YM5KMS,Mersin,Aegean Region,Turkiye,Master,1,439.42500,286331,DMR,286331,0,,-7.600,TA5AHO,TS1
 YM5KSE,Erdemli Mersin,Aegean Region,Turkiye,Master,1,145.60000,286333,DMR,286333,0,,-0.600,TA5AHO,TS1
-YM1KE,Istanbul,,Turkiye,,1,439.17500,286340,BM,286340,0,,-7.600,TA1MD,TS1 TS2
+YM1KE,Istanbul,Marmara Region,Turkiye,Peer,1,439.17500,286340,BM,286340,1,,-7.600,TA1MD,TS1
 YM1KWB,Istanbul,,Turkiye,,1,439.38750,286341,BM,286341,0,,-7.600,TA1TW,TS1 TS2
 YM1KAT,Istanbul,,Turkiye,,1,439.27500,286342,None,286342,0,,-7.600,TA1IJK,
 YM1KYA,Avcilar,,Turkiye,Master,1,145.73750,286343,BM,286343,1,,-0.600,TA2MEK,TS1 TS2
@@ -4848,7 +4848,7 @@ VA7VTV,Vernon,British Columbia,Canada,Peer,1,449.60000,302712,Brandmeister,30271
 VA7PTV,Penticton,British Columbia,Canada,Peer,1,449.70000,302713,Brandmeister,302713,1,,-5.000,VA7UN,Mixed Mode
 VE7KTV,Kelowna,British Columbia,Canada,Master,1,146.60000,302714,Brandmeister,302714,1,,-0.600,VA7UN,Mixed Mode
 VA7JPL,Kelowna,British Columbia,Canada,Master,1,146.70000,302716,Brandmeister,302716,1,,-0.600,VA7UN,Mixed Mode
-VE7EQN,Kelowna,British Columbia,Canada,None,1,444.17500,302717,Brandmeister,302717,1,,+5.000,VE7EQN,Mixed Mode
+VE7EQN,Kelowna,British Columbia,Canada,Master,1,444.17500,302717,Brandmeister,302717,1,,+5.000,VE7EQN,Mixed Mode
 VE7SLV,West Vancouver,British Columbia,Canada,Peer,1,443.85000,302718,BCTRBO,302718,1,,+5.000,VA7BC,TS1 TS2
 VE7RYS,Vancouver,British Columbia,Canada,Master,1,442.17500,302719,Private c-bridge,302719,1,,+5.000,VE7ET,TS1 TS2
 VE7BDY,Nelson,British Columbia,Canada,None,1,147.04000,302720,WiFI,302720,1,,+0.600,VE7IHL,Mixed Mode
@@ -6721,7 +6721,7 @@ KF5PFO,Taos,New Mexico,United States,Master,5,442.17500,312033,RMHAM,312033,1,,+
 N0XRM,Clay Center,Kansas,United States,Peer,1,442.75000,312035,KS-DMR,312035,1,,+5.000,NV8Q,TS1 TS2
 K0PRO,Pittsburg,Kansas,United States,None,1,146.94000,312036,KS-DMR,312036,1,,-0.600,K0PR,TS1 TS2
 WA0SLL,Leavenworth,Kansas,United States,Peer,1,442.57500,312037,BM,312037,1,,+5.000,WA0SLL,TS1 TS2
-KB0QNK,Great Bend,Kansas,United States,Peer,1,0.00000,312038,BM,312038,0,,+5.000,KB0QNK,TS1 TS2
+KB0QNK,Great Bend,Kansas,United States,Peer,1,444.70000,312038,BM,312038,0,,+5.000,KB0QNK,TS1 TS2
 NV8Q,Alma,Kansas,United States,Peer,1,444.98750,312039,KS-DMR,312039,1,,+5.000,NV8Q,TS1 TS2
 K0ESU,Emporia,Kansas,United States,Peer,1,443.00000,312040,brandmeister,312040,1,,+5.000,WX0U,TS1 TS2
 WO9C,Miami,Florida,United States,Master,1,443.45000,312041,BrandMeister,312041,1,311667,+5.000,WO9C,TS1 TS2
@@ -9234,6 +9234,7 @@ W4KEV,Knoxville,Tennessee,United States,Peer,1,440.55000,314732,Brandmeister,314
 KR4BT,sparta,Tennessee,United States,Master,1,147.16500,314739,BrandMeister,314739,1,,+0.600,KR4BT,Mixed Mode
 W4DMM,Lebanon,Tennessee,United States,Peer,1,440.62500,314740,Brandmeister,314740,1,TS2 3147 TN Statewide<br>TS2 314722 Se Link Network,+5.000,W4DMM,TS1 TS2
 NQ4Y,Monteagle Mtn,Tennessee,United States,Master,1,442.20000,314741,Brandmeister,314741,1,NQ4Y Monteagle Mtn Repeater,+5.000,NQ4Y,TS1 TS2
+KK4XA,MARYVILLE,Tennessee,United States,Master,1,444.07500,314742,BRANDMEISTER,314742,1,,+5.000,KK4XA,Mixed Mode
 W4YI,Ooltewah,Tennessee,United States,Peer,1,444.90000,314743,BrandMeister,314743,1,,+5.000,W4YI,TS1 TS2
 N1YPM,Cherryfield,Maine,United States,Master,12,147.18000,314745,BM,314745,1,,+0.6000,AG7JV,TS1 TS2
 K6AEM,Castro Valley,California,United States,Master,5,440.83750,314746,DMR-MARC,314746,1,91,+5.000,K6AEM,TS1 TS2
@@ -9640,7 +9641,7 @@ W8VD,New Baltimore,Michigan,United States,Peer,1,147.00000,315176,Brandmeister,3
 W9ODO,Pekin,Illinois,United States,Peer,12,444.82500,315177,Brandmeister,315177,1,None,5.000,"W9ODO, KT9Y, W9NJM",TS1 TS2
 N3CMY,Millerstown,Pennsylvania,United States,Peer,1,449.72500,315178,Brandmeister,315178,1,None,-5.000,N3CMY,TS1 TS2
 W4SNC,Statesville,North Carolina,United States,Peer,0,443.60000,315179,PRN,315179,1,None,+5.000,KC4KQC,TS1 TS2
-N0KFI,Wilkesboro,North Carolina,United States,Peer,1,145.48000,315180,Brandmeister,315180,1,Owner,-0.600,N0KFI,TS1
+N0KFI,Wilkesboro,North Carolina,United States,Peer,1,147.78000,315180,Brandmeister,315180,1,Owner,-0.600,N0KFI,TS1
 W8GMM,East Palestine,Ohio,United States,Peer,1,443.87500,315181,Brandmeister,315181,1,None,+5.000,W8GMM,TS1 TS2
 W8UM,Ann Arbor,Michigan,United States,Peer,1,444.07500,315182,Univ. of Michigan / BM,315182,1,None,+5.000,"W2PUT, W8UM",TS1 TS2
 KC5KKT,Gainesville,Texas,United States,Peer,1,444.00000,315183,3102.brandmeister.network,315183,1,Contact me at kc5kkt@qsl.net.,5.000,KC5KKT,TS1
@@ -9650,6 +9651,7 @@ N1DTA,Elizabethtown,Kentucky,United States,Peer,1,444.33750,315186,kentuckydmr c
 N1DTA,brook,Kentucky,United States,Peer,1,442.43750,315187,kentuckydmr c bidge,315187,1,None,5.000,N1DTA,TS1 TS2
 W3ETO,Enola,Pennsylvania,United States,Peer,1,443.30000,315188,SMRA EMCOMM,315188,1,"None<br>coverage Carlisle to eastern Cumberland County<br>I81,Rt15 Rt11 Pa Turnpike into Perry,Dauphin,York.Franklin County",5.000,"W3ETO, KB3TWW",TS1 TS2
 W3ETO,Heberling,Pennsylvania,United States,Peer,1,444.40000,315189,SMRA EMCOMM,315189,1,"Shippensburg to Carlisle<br>into Perry,Franklin County into Maryland, West Virginia, Virginia  I81, Pa Turnpike, Rt11",5.000,"KB3TWW, W3ETO",TS1 TS2
+N0EMR,Quincy,Illinois,United States,Master,1,442.62500,315190,N0EMR,315190,1,None,5.000,N0EMR,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,3,145.21000,315301,PNWDigital,315301,1,"Time Slot #1- Group Call 3153 = Washington Statewide 1<br>Time Slot #1- Group Call 3191 = Cascades 1<br><br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: http://www.pnwdigital.net",+2.78,NO7RF,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,0,443.15000,315302,NO7RF,315302,1,Demo/Testing,+5.000,NO7RF,TS1 TS2
 WA7DMR,Couer d Alene,Idaho,United States,Peer,1,440.92500,315303,PNWDigital,315303,1,"Time Slot #1- Group Call 3116 = Idaho Statewide 1<br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: https://pnwdigital.net",+5.000,NO7RF,TS1 TS2
@@ -10077,7 +10079,7 @@ AP2MHC,Multan,,Pakistan,Peer,1,438.50000,410005,BM,410005,1,,-8.300,AP2MHC,TS1 T
 AP2HD,Islamabad,,Pakistan,Master,1,444.00000,410006,BM,410006,1,,+5.000,AP2HD,TS1 TS2
 AP5ARS,Changla gali,,Pakistan,Peer,1,438.21500,410007,BM,410007,1,TG 410,-2.400,AP5ARS,TS1 TS2
 AP2ZAF,Faisalabad,,Pakistan,Master,1,432.21500,410008,"BM,DMR-FSD",410008,1,,+5.000,AP2ZAF,TS1 TS2
-AP5LHR,Lahore,,Pakistan,Peer,1,146.44000,410009,BM,410009,1,TG410,+2.40,AP2BDR,TS1 TS2
+AP5LHR,Lahore,All Regions,Pakistan,Peer,1,146.44000,410009,BM,410009,1,TG410,+2.40,AP2BDR,TS1 TS2
 AP5LM,lakki marwat,All Regions,Pakistan,Peer,2,147.99000,410010,BM,410010,1,,+2.00,AP2AUM,TS1 TS2
 AP5FRS,Peshawar,,Pakistan,Peer,1,144.02000,410011,BM,410011,1,talk group 410,+3.970,AP2MHC,TS1 TS2
 AP2STA,Sunehri Masjid Road  Peshawar Cantt,,Pakistan,Peer,1,144.01000,410012,BM,410012,1,TG 410,+3.00,AP2STA,TS1 TS2
@@ -11048,7 +11050,6 @@ PY3DMR,Santo Angelo,Rio Grande do Sul,Brazil,Master,1,439.90000,724061,DMR+MASTE
 PY2KWA,PIRACICABA,Sao Paulo,Brazil,Master,1,439.02500,724062,BrandMeister,724062,1,"Time Slot 1 = TG724 (Brasil)<br>Time Slot 2 = TG2 (Direto TG 724062), as teras-feiras a noite NetBR (TG724942) e sempre dinmico.",-5.000,PY2GM,TS1 TS2
 PY4DIG,Conselheiro Lafaiete,Minas Gerais,Brazil,Master,1,439.60000,724063,BrandMeister,724063,1,Repetidora Digital - Ouro Branco - MG<br>DMR 439.600Mhz Offset -5000,-5.000,PY4BN,TS1 TS2
 PY2DVR,Serra do Japi Cabreuva,Sao Paulo,Brazil,Master,1,146.67000,724064,Brandmeister,724064,1,,-0.600,PY2LY,TS1 TS2
-PY2KLF,Birigui,Sao Paulo,Brazil,Master,1,147.30000,724065,BrandMeister,724065,1,,+0.600,PU2PHK,TS1 TS2
 PY1YRG,Saquarema,Rio de Janeiro,Brazil,Peer,1,439.92500,724066,DMR+,724066,1,,-5.000,PY1IP,TS1 TS2
 PY5CLB,Colombo,Parana,Brazil,Master,1,439.85000,724067,brandmeister,724067,1,,-5.000,PY5TD,TS1 TS2
 PY2KCI,Sao Carlos Sp,Sao Paulo,Brazil,Master,1,146.79000,724068,BrandMeister,724068,1,,-0.600,PU2XMZ,TS1 TS2
@@ -11295,6 +11296,7 @@ PY7UCA,Pernambuco,Pernambuco,Brazil,Peer,1,439.90000,724903,DMR+,724903,1,,-5.00
 PY7NJ,caruaru,Pernambuco,Brazil,Peer,1,147.06000,724904,dmr+,724904,1,,-0.600,PY7LFB,TS1 TS2
 CE3LWU,Santiago,Reg.Metr. de Santiago,Chile,Master,1,145.40000,730001,Mixed Mode,730001,1,,-0.600,CE3LWU,Mixed Mode
 CE3LWU,Santiago,Reg.Metr. de Santiago,Chile,Master,1,438.20000,730002,mixed mode,730002,1,,-5.000,CE3LWU,Mixed Mode
+XQ2KVL,Valparaiso,Valparaiso,Chile,Peer,1,145.50000,730003,DMR BM,730003,1,,-0.600,XQ2KVL,TS1 TS2
 CE3RSC,Santiago,Reg.Metr. de Santiago,Chile,Valparaiso-Reg Metropolitana,1,146.85000,730004,Brandmeister,730004,1,TS1 TG: 730<br>TS2 TG: 7303-7302-7304,-0.600,CE3RSC,TS1 TS2
 CE3RSC,Santiago,Reg.Metr. de Santiago,Chile,Metropolitana-Valparaiso,1,433.85000,730005,Brandmeister,730005,1,TS1 TG: 730<br>TS2 TG: 7302-7303-7304-7305-730911,+5.000,CE3RSC,TS1 TS2
 CE3RSC,Santiago,Reg.Metr. de Santiago,Chile,Metropolitana-Valparaiso,1,145.47000,730006,Brandmeister/DMR-MARC,730006,1,TS1 TG: 730<br>TS2 TG: 7302-7303-7304-730911,-0.600,CE3RSC,TS1 TS2
@@ -11377,6 +11379,7 @@ CE2AA,Valparaiso,Valparaiso,Chile,Master,4,146.60000,730208,1,730208,1,,-0.600,C
 CE3AA,Olmue,Valparaiso,Chile,Peer,1,147.36000,730210,BrandMeister,730210,1,,+0.600,XQ2FL,TS1 TS2
 CE2VOV,Valparaiso,Valparaiso,Chile,Peer,1,145.10000,730211,DMR BM,730211,1,,-0.600,XQ2KVL,TS1 TS2
 CE2VRP,La Serena,Coquimbo,Chile,Peer,1,433.70000,730212,Brandmeister,730212,1,,+5.000,CE2VRP,TS1 TS2
+XQ2KVL,valparaiso,Valparaiso,Chile,Peer,1,430.10000,730213,DMR BM,730213,1,,+5.000,XQ2KVL,TS1 TS2
 CA2UMH,Los Andes,Valparaiso,Chile,Peer,1,144.10000,730214,Cable,730214,1,,+0.600,CA2UMH,TS1 TS2
 XQ2FL,Vina del Mar,Valparaiso,Chile,Peer,1,438.15000,730215,BrandMeister,730215,1,,-5.000,XQ2FL,TS1 TS2
 CE2UGO,VALPARAISO,Valparaiso,Chile,Master,1,433.50000,730216,Master Chile,730216,1,,+5.000,CE2UGO,TS1
