@@ -1232,7 +1232,7 @@ IR3UII,Comune di Tarcento,,Italy,,1,431.12500,222333,DMR-plus,222333,1,,1.600,IV
 IR3UGD,Jaufen - Giovo,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.53750,222334,BM,222334,1,,+1.600,IW3AMQ,Mixed Mode
 IR3EF,Monte Bernadia(UD),,Italy,Master,1,145.58750,222335,BM,222335,1,,-1.600,IW3QOJ,TS1 TS2
 IR3UFM,Schoeneben - Belpiano,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.58750,222336,BM,222336,1,,+5.000,IW3AMQ,Mixed Mode
-IQ3VO,,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.90000,222337,BM,222337,1,,5.000,IU3EEP,TS1 TS2
+IR3ZYQ,Verona,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,431.50000,222337,BM,222337,1,,+1.600,IU3EEP,TS1 TS2
 IR3DV,Kronplatz - Plan de Corones,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.52500,222338,BM,222338,1,,+1.600,IW3AMQ,Mixed Mode
 IR3EB,Piz Chavalatsch - Cavallaccio,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.52500,222339,BM,222339,1,,+1.600,IW3AMQ,Mixed Mode
 IR3ZYG,CIMA EKAR,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.48750,222340,BM,222340,1,,+1.6000,I3WTT,TS1 TS2
@@ -1371,6 +1371,7 @@ IR0ZXV,Rocca Priora RM,Lazio / Umbria / Sardinia,Italy,Peer,0,145.65000,222493,H
 IR3TSA,Trieste,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,431.50000,222494,Hamthings,222494,1,None,+5.000,IV3JDV,TS1 TS2
 IR1UFB,Castagneto Po,Piedmont / Liguria / Aosta,Italy,Peer,8,430.55000,222495,bremmaster,222495,1,None,5.000,I1WTM,Mixed Mode
 IR7UBA,Bari,Apulia / Basilicata,Italy,Peer,0,430.30000,222496,Hamthings,222496,1,None,1.600,"IQ7DV, IZ7OIX",Mixed Mode
+IR7F,Bari,Apulia / Basilicata,Italy,Peer,0,145.78750,222497,HamThings,222497,1,None,-0.600,"IQ7DV, IZ7OIX",Mixed Mode
 IR5UP,Pisa,Tuscany,Italy,Master,1,430.57500,222500,DMR-plus,222500,1,,+5.000,IW5EDX,TS1 TS2
 IK5XMK,Sesto Fiorentino,Tuscany,Italy,,1,430.65000,222501,DMR-plus,222501,1,,5.000,IK5XMK,TS1 TS2
 IK5BNG,Marina di Massa,Tuscany,Italy,,1,430.53750,222502,BM,222502,1,,5.000,IK5BNG,TS1 TS2
@@ -3005,7 +3006,7 @@ SR7LL,Lodz,dzkie,Poland,Master,1,145.71250,260002,Brandmeister,260002,1,,-0.600,
 SR3DOS,Ostrow Wielkopolski,wielkopolskie,Poland,Master,1,438.28750,260003,"Brandmeister,BM",260003,1,DMR+C4FM+D-STAR<br>438.2875MHz -7.600,-7.600,SQ3KNL,TS1 TS2
 SR2BYD,Bydgoszcz,kujawsko-pomorskie,Poland,Master,2,145.78750,260004,"Brandmeister, DMR-plus",260004,1,260,-0.600,SQ2AGA,TS1 TS2
 SR3DRW,Rawicz,wielkopolskie,Poland,Master,1,438.33750,260005,Brandmeister,260005,1,,-7.600,SP3QYJ,TS1 TS2
-SR6UWB,Szczawno Zdroj,dolnolskie,Poland,Peer,1,439.31250,260006,JO80CS,260006,1,None,-7.600,"M0HZQ, SQ6RR",Mixed Mode
+SR6UWB,Szczawno Zdroj,dolnolskie,Poland,Peer,0,439.31250,260006,JO80CS,260006,1,None,-7.600,"M0HZQ, SQ6RR",Mixed Mode
 SR7LDX,Lodz,dzkie,Poland,Master,1,439.50000,260007,Brandmeister,260007,1,,-7.600,SQ7SCC,Mixed Mode
 SR5SE,Siedlce,mazowieckie,Poland,Master,1,438.75000,260008,Brandmeister,260008,1,,-7.600,SQ5APT,Mixed Mode
 SR9KAO,Tarnow,maopolskie,Poland,Master,1,439.21250,260009,Brandmeister,260009,1,,-7.600,SQ9MUR,TS1 TS2
@@ -3765,7 +3766,7 @@ DB0RV,Ravensburg,Baden-Wuerttemberg,Germany,,1,439.41250,262711,BM,262711,1,,-7.
 DB0RB,Bruchsal,Baden-Wuerttemberg,Germany,Peer,1,439.81250,262712,BM,262712,1,,-9.400,"DH2MD, DL9UL",TS1 TS2
 DB0ARH,Herrenberg AlterRain,Baden-Wuerttemberg,Germany,,1,439.85000,262713,BM,262713,1,,-9.400,DL8SCU,TS1 TS2
 DB0STB,Stocksberg,Baden-Wuerttemberg,Germany,,1,439.52500,262714,DMR-plus,262714,1,,7.600,DC7TU,TS1 TS2
-DB0WTL,Loewenstein,Baden-Wuerttemberg,Germany,,1,439.21250,262715,BM,262715,1,,-7.600,DC7TU,TS1 TS2
+DB0WTL,Loewenstein,Baden-Wuerttemberg,Germany,Master,1,439.21250,262715,BM,262715,1,,-7.600,"DC7TU, DL9SK",TS1 TS2
 DB0LHR,Lahr,Baden-Wuerttemberg,Germany,,1,438.55000,262716,DMR-plus,262716,1,,-7.600,DO1MKS,TS1 TS2
 DM0KB,Konstanz,Baden-Wuerttemberg,Germany,,1,145.60000,262717,BM,262717,1,,-0.600,DG8GL,TS1 TS2
 DB0FRB,Freiburg im Breisgau,Baden-Wuerttemberg,Germany,Peer,1,439.56250,262718,BM,262718,1,,-7.600,DL1AFA,TS1 TS2
@@ -5351,6 +5352,8 @@ AB6BP,Merced,California,United States,Peer,1,145.37000,310539,BrandMeister,31053
 W1VAN,Fort Collins,Colorado,United States,master,2,147.16500,310540,Brandmeister,310540,1,3171,+600,W1VAN,TS 1/TS2
 W1VAN,Fort Collins,Colorado,United States,master,2,446.90000,310541,Brandmeister,310541,1,,-5.000,W1VAN,TS1 TS2
 NH7M,Dayton,Nevada,United States,Master,1,443.45000,310542,BrandMeister,310542,1,,+5.000,NH7M,2
+KA4BNI,Jackson,Tennessee,United States,Master,1,443.71250,310543,Brandmeister,310543,1,9         Local only TG                      TS 1<br>2         KA4BNI Cluster Repeaters TS 1<br>3147   TN Statewide                      TS 2<br>31471  Memphis NWS                   TS 2<br>Please use other talk groups on    TS 1,+5.000,KA4BNI,TS1 TS2
+KA4BNI,Martin,Tennessee,United States,Master,1,444.71250,310544,Brandmeister,310544,1,9            Local only TG                       TS 1<br>2            KA4BNI Cluster Repeaters  TS 1<br>3147       TN Statewide                       TS 2<br>31471     Memphis NWS                    TS 2<br>Please use other TGs on                   TS 1,+5.000,KA4BNI,TS1 TS2
 KD6MTU,Whitmore/Redding,California,United States,Master,1,145.07500,310545,BrandMister,310545,1,,+2.500,KD6MTU,TS1 TS2
 WV8CW,Miller,South Dakota,United States,Master,1,145.39000,310546,BRANDMEISTER,310546,1,,-0.600,WV8CW,Mixed Mode
 N3JLT,Bluemont,Virginia,United States,Peer,1,449.92500,310547,Interstate-2 Network,310547,1,Talkgroup info at http://www.delmarvadmr.com,-5.000,KA3LAO,TS1 TS2
@@ -5427,7 +5430,7 @@ KB6FEC,Oakland,California,United States,Peer,0,443.82500,310624,NorCal AREA,3106
 K6HLE,Mountain View,California,United States,Peer,0,442.51250,310625,NorCal AREA,310625,1,,+5.000,KB6UOO,TS1 TS2
 KB6FEC,Livermore,California,United States,Peer,1,147.15000,310626,BrandMeister,310626,1,,+0.600,KB6FEC,TS1 TS2
 KB6FEC,Magalia,California,United States,Peer,0,147.15000,310627,NorCal AREA,310627,1,"Time Slot #2 - Group Call 1 = DMR-MARC World Wide - PTT<br>Time Slot #2 - Group Call 13 = DMR-MARC WW English<br>Time Slot #2 - Group Call 3 = DMR-MARC N. America<br>Time Slot #2 - Group Call 310 = TAC310 - PTT<br>Time Slot #2 - Group Call 3100 = DCI Bridge<br>Time Slot #2 - Group Call 3176= Southwest Regional<br>Time Slot #2 - Group Call 9999= Audio Test - PTT<br>Time Slot #2 - Group Call 3777215= Com 1<br>Time Slot #1- Group Call 2 = Local<br>Time Slot #1- Group Call 5150 = Northern CA<br><br>Contact Name: Gary, W6GRC<br>Email: gary@yeswecanauto.com",+0.600,KB6FEC,TS1 TS2
-W6JSO,Salinas,California,United States,Master,1,444.52500,310628,BrandMeister,310628,1,"Time Slot #2 - Group Call 1 = DMR-MARC Worldwide<br>Time Slot #2 - Group Call 3 =  DMR-MARC N. Amer./English Speaking Countries  <br><br><br>Time Slot #2 - Group Call 3100 = DCI Bridge<br>Time Slot #2 - Group Call 3176= Southwest Regional<br>Time Slot #2- Group Call 3777215= TRBO-6 <br>Time Slot #1- Group Call 2 = Local<br>Time Slot #1- Group Call 5150 = Northern CA <br>Contact Name: Jeff Olinger, W6JSO <br>Email: jeffoli@sbcglobal.net",+5.000,W6JSO,TS1 TS2
+W6JSO,Volcano,California,United States,Master,1,440.03750,310628,BrandMeister,310628,1,"Time Slot #2 - Group Call 1 = DMR-MARC Worldwide<br>Time Slot #2 - Group Call 3 =  DMR-MARC N. Amer./English Speaking Countries<br><br><br>Time Slot #2 - Group Call 3100 = DCI Bridge<br>Time Slot #2 - Group Call 3176= Southwest Regional<br>Time Slot #2- Group Call 3777215= TRBO-6<br>Time Slot #1- Group Call 2 = Local<br>Time Slot #1- Group Call 5150 = Northern CA<br>Contact Name: Jeff Olinger, W6JSO<br>Email: jeffoli@sbcglobal.net",+5.000,W6JSO,TS1 TS2
 K6ACS,Santa Rosa,California,United States,Master,1,442.11250,310629,BrandMeister,310629,0,Time Slot #2 - Group Call 1 = DMR-MARC Worldwide<br>Time Slot #2 - Group Call 3 =  DMR-MARC N. Amer./English Speaking Countries <br><br><br>Time Slot #2 - Group Call 3100 = DCI Bridge<br>Time Slot #2 - Group Call 3176= Southwest Regional<br>Time Slot #2- Group Call 3777215= TRBO-6 <br>Time Slot #1- Group Call 2 = Local<br>Time Slot #1- Group Call 5150 = Northern CA<br><br> <br>Contact Name:  Jeff Foster<br>Email: hamus@comcast.net,+5.000,KE6N,TS1 TS2
 W6SRR,Sunol,California,United States,Master,1,443.51250,310630,SF-TRBO,310630,1,Time Slot #2 - Group Call 1 = DMR-MARC Worldwide<br>Time Slot #2 - Group Call 3 =  DMR-MARC N. Amer./English Speaking Countries  <br><br><br>Time Slot #2 - Group Call 3100 = DCI Bridge<br>Time Slot #2 - Group Call 3176= Southwest Regional<br>Time Slot #2- Group Call 3777215= TRBO-6 <br>Time Slot #1- Group Call 2 = Local<br>Time Slot #1- Group Call 5150 = Northern CA <br>Contact Name: Tim Barrett <br>Email: k6biv@mac.com,+5.000,W6TCP,TS1 TS2
 KA3AJM,Vista,California,United States,Peer,0,447.90000,310631,DCN/METRO,310631,1,,-5.000,KF6AJM,TS1 TS2
@@ -5829,6 +5832,7 @@ N1PFC,Worcester,Massachusetts,United States,MASTER,1,442.20000,311058,NEDECN,311
 KB5FLX,Tomball,Texas,United States,PEER,7,441.60000,311059,LONESTAR,311059,1,Time Slot 1& 2,+5.000,N5LUY,1&2
 KG5MMT,Abilene,Texas,United States,Peer,14,443.96250,311060,BrandMeister,311060,1,,+5.00,KD5EFB,TS1 TS2
 W2ACC,Stanley,New York,United States,30 miles,3,444.30000,311061,Brandmeister,311061,1,,+5.0,W2ACC,1 and 2
+KA4BNI,Dresden,Tennessee,United States,Peer,1,442.15000,311062,Brandmeister,311062,1,9            Local only TG                       TS 1<br>2            KA4BNI Cluster                    TS 1<br>3147       TN Statewide                       TS 2<br>31471     Memphis NWS                    TS 2<br>Please use other TGs on                   TS 1,+5.000,KA4BNI,TS1 TS2
 WB7AWL,Oregon City,Oregon,United States,Peer,1,145.25000,311063,PNW Digital,311063,1,,-0.600,WB7AWL,TS1 TS2
 W5XTR,Slidell,Louisiana,United States,Master,5,442.00000,311064,Brandmeister,311064,1,,+5.000,W5XTR,TS1 TS2
 KB9PFM,Atlanta,Indiana,United States,PEER,1,442.47500,311065,BRANDMEISTER,311065,1,Part of the Southern Indiana Link System's Digital Linked MMDVM Repeater System<br>https://w9win.org TG 31188,+5.00,KB9PFM,1
@@ -6919,6 +6923,7 @@ N4RMG,Rome,Georgia,United States,Master,1,442.23750,312243,BM,312243,1,,+5.0,N4R
 AI6BX,Redlands,California,United States,Peer,3,446.62000,312244,Brandmeister,312244,1,Part of the PAPA System,-5.000,AI6BX,TS1 TS2
 KM4ZRT,Land O Lakes,Florida,United States,Peer,1,441.85000,312245,BM,312245,1,,+0.5000,KM4ZRT,TS1 TS2
 K7SLB,Seattle,Washington,United States,Master,1,443.52500,312246,PNW,312246,1,,+5.000,K7SLB,TS1 TS2
+KA4BNI,Gleason,Tennessee,United States,Peer,1,145.47000,312247,Brandmeister,312247,1,,-0.600,KA4BNI,TS1 TS2
 W2RJR,Staten Island,New York,United States,Master,1,440.65000,312248,Multiple,312248,1,,+5.000,W2RJR,TS1 TS2
 N5OAK,Dripping Springs,Texas,United States,Master,1,441.30000,312249,BM,312249,1,,+5.000,KV5TX,TS1 TS2
 WW5ENZ,Choctaw,Oklahoma,United States,Master,1,444.61500,312250,DMR-MARC,312250,1,,+0.5,WW5ENZ,TS1
@@ -7136,7 +7141,7 @@ KM8CC,Oshtemo,Michigan,United States,Peer,1,444.57500,312479,BrandMeister,312479
 NE7WY,Gillette,Wyoming,United States,Peer,11,448.75000,312481,brandmeister,312481,1,,-5.0,NE7WY,TS1 TS2
 WJ1D,Wharton,Texas,United States,Peer,1,444.91250,312482,BM,312482,1,"TS1 - 3148 (TX Statewide), 31484 (SE Texas), 3199 (Hurricane), 31480 (TX Chat), 31011 (GC DMR)<br>TS-2 - 3109 (Connecticut Statewide), 3123 (Maine Statewide), 3133 (NH Statewide), 3150 (VT Statewide), 3172 (NE Region)",+5.000,WJ1D,TS1 TS2
 K6CV,Twain Harte,California,United States,Master,1,444.65000,312483,BM,312483,1,Motorola SLR-5700,+5.000,K6CV,TS1 TS2
-KA0JSW,Newport,Pennsylvania,United States,Peer,1,147.30000,312484,Interstate 2 cbridge,312484,1,Contact Chris<br>kb3tww@frontier.com<br>Information available on<br>delmarvadmr.com,+0.600,KB3TWW,TS1 TS2
+KA0JSW,Newport,Pennsylvania,United States,Peer,1,147.30000,312484,Interstate 2 cbridge,312484,1,"Please Contact Kevin Magloulin<br>KA0JQO he is actually the trustee of the repeater take me off he renewed the license, but I dont have a copy of it.",+0.600,KB3TWW,TS1 TS2
 KE4PMP,Pelham,Georgia,United States,Peer,1,441.81250,312485,DMR-SE,312485,1,"This repeater is on the First Coast network.<br>Time slot 1 talk groups include: TG9 static is linked to Vidalia net, (TG310592)<br>GASW TG3113 Dynamic, GA ARES TG31130 Dynamic, Digi Link TG31137 Dynamic<br>Time slot 2 talk groups include: TG9 local only (Not networked) TG2 First Coast DMR<br>",+5.000,KE4PMP,TS1 TS2
 W4PFT,Carnesville,Georgia,United States,Peer,1,444.11250,312486,BM,312486,1,,+5.000,W4PFT,TS1 TS2
 K5WMS,Helena,Arkansas,United States,Master,6,444.37500,312487,BM,312487,1,TG:312487 static on TS2,+5.000,K5WMS,TS1 TS2
@@ -7869,7 +7874,7 @@ KF6FM,Breckenridge,California,United States,Master,1,430.96250,313260,Western St
 K4PKT,Lake Harbor,Florida,United States,Master,1,444.48750,313261,DMR FL,313261,1,"K4PKT (Lake Harbor) DMR Time Slot Assignment:<br><br>Talkgroup Info<br>Time Slot #1 - Group Call xx =SW Florida<br>Time Slot #1 - Group Call 3112 = Florida Statewide (PTT)<br>Time Slot #1 - Group Call 310 = TAC310 (PTT)<br>Time Slot #1 - Group Call 311 = TAC311 (PTT)<br>Time Slot #2 - Group Call 2 = Local Network<br>Time Slot #2 - Group Call 9 = Local Site (PTT)<br>Time Slot #2 - Group Call 561 = Local Group (ON)<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: John, WB4MOZ / K4PKT<br>Email: mozpkt@comcast.net",+5.000,WB4MOZ,TS1 TS2
 KB0RFC,Dodge City,Kansas,United States,Master,1,444.40000,313262,BM,313262,1,3100,+5.000,KB0RFC,Mixed Mode
 KC2FTO,Davenport,Florida,United States,Master,1,927.52500,313263,BM,313263,1,,-25.00,KC2FTO,TS1 TS2
-KB3TWW,Michaux Forest Gardners,Pennsylvania,United States,Peer,1,440.24375,313264,Interstate DMR Network,313264,1,"Please see Delmarvadmr.com, this repeater is part of The Interstate DMR Network and follows <br>South Central Pa talk groups.",+5.0,KB3TWW,TS1 TS2
+KB3TWW,Michaux Forest Gardners,Pennsylvania,United States,Peer,1,440.24375,313264,Interstate DMR Network,313264,1,This repeater is part of the SMRA DMR countywide network<br>TS 1 main Talkgroup 1 3142211<br>TS 2 test Talkgroup 2 3142212,+5.0,KB3TWW,TS1 TS2
 KA4OBT,Erlanger,Kentucky,United States,Peer,1,442.76250,313265,BM,313265,1,,+5.000,KA4OBT,TS1 TS2
 WF8Z,Middletown,Ohio,United States,Master,1,443.08750,313267,BM,313267,1,,+5.000,WF8Z,TS1 TS2
 N5SPJ,Canton,Mississippi,United States,Peer,1,444.41250,313268,BrandMeister,313268,1,DMR ID 313268,+5.000,N5SPJ,TS1 TS2
@@ -9286,7 +9291,6 @@ WR3IRS,Bucktown,Pennsylvania,United States,Peer,1,445.08125,314792,Interstate,31
 N3MRG,Salisbury,Maryland,United States,Master,6,442.65000,314793,Interstate,314793,1,Delmarvadmr.com,+5.000,N3HSK,TS1 TS2
 NH7TR,San Antonio,Texas,United States,Master,1,446.30500,314794,BM,314794,1,,-5.000,NH7TR,TS2
 KD2UQK,Deer Park,New York,United States,Peer,1,440.25000,314795,BM,314795,1,,+5.000,KD2UQK,TS1
-WD4EMA,Chatsworth,Georgia,United States,Peer,1,440.65000,314796,BM,314796,1,Timeslot 1 used for BM Talk groups.<br>Timeslot 2 used for local communications.,+5.0,WD4EMA,TS1 TS2
 K6ACR,Arroyo Grande,California,United States,Peer,8,147.24000,314797,Brandmeister,314797,1,None,+0.600,K6ACR,TS1 TS2
 KM4BLG,Mars Hill,North Carolina,United States,Master,1,442.10000,314798,Brandmeister,314798,1,None,+5.000,KM4BLG,TS1 TS2
 W5EBQ,Dallas,Texas,United States,Peer,1,440.47500,314801,LonestarNet,314801,1,,+5.000,W5EBQ,TS1 TS2
@@ -10149,7 +10153,6 @@ HL2DEA,Wonju,Seoul,Korea Republic of,4501,1,439.80000,450021,BrandMeister,450021
 HL2DEA,Wonju,Seoul,Korea Republic of,4501,1,439.89000,450022,BrandMeister,450022,0,MMDVM,-5,HL2DEA,1&2
 HL2DEA,Wonju,Seoul,Korea Republic of,4501,1,439.83000,450023,BrandMeister,450023,0,MMDVM,-5,HL2DEA,1&2
 HL2DEA,Wonju,Seoul,Korea Republic of,4501,1,439.81000,450024,BrandMeister,450024,0,MMDVM,-5,HL2DEA,1&2
-DS4GOD,Gwangju,KWangJu Si,Korea Republic of,Master,1,439.80000,450025,DMR-MARC,450025,1,TG450518,-5.000,DS4GOD,Mixed Mode
 DS3DIF,Taean,ChungChong Nam-Do,Korea Republic of,Master,1,433.80000,450026,BM,450026,0,,+5.000,DS3DIF,TS2
 DS5KET,PUSAN,BuSan Si,Korea Republic of,Master,1,443.40000,450027,BM,450027,1,,+2.0,DS5KET,TS1
 6K5EBC,Jung-gu Ulsan,UlSan Si,Korea Republic of,Master,1,435.75500,450028,dmr,450028,1,,-5.000,6K5EBC,Mixed Mode
