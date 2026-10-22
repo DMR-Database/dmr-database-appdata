@@ -631,6 +631,7 @@ ED1ZBJ,LEON,Leon,Spain,Peer,1,438.22500,214006,BM,214006,1,,-7.600,EB1Y,TS1 TS2
 ED3YAZ,Girona,Girona,Spain,Master,1,438.28700,214007,BM,214007,1,No estatic TG<br>only dinamics TG,-7.600,ED3YAZ,TS1 TS2
 ED5ZAF,Albacete,Albacete,Spain,Peer,1,438.47500,214008,BM,214008,1,,-7.600,EA5SW,TS1 TS2
 ED2YAV,Bilbao,Vizcaya,Spain,Master,1,438.40000,214009,BM,214009,1,,-7.600,EA2AFZ,TS1 TS2
+ED2ZAL,LOARRE,Huesca,Spain,Peer,1,438.25000,214010,BM,214010,1,,-7.600,EA2IV,TS1 TS2
 ED4ZAG,Madrid,Madrid,Spain,Master,1,438.30000,214011,BM,214011,1,,-7.600,EA4LF,TS1 TS2
 ED2ZAM,Monzon,Huesca,Spain,Peer,1,438.50000,214012,BM,214012,1,GRUPO RADIOAFICIONADOS CINCA MEDIO<br>TS1: TG214,-7.600,EA2RCJ,TS1 TS2
 EA5ZAP,Benicassim,Castellon,Spain,Master,1,438.20000,214013,BM,214013,1,,-7.600,EA5RKD,TS1 TS2
@@ -1218,7 +1219,7 @@ IR3UEZ,Monte Grisa,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.45000,222
 IR3ZZV,Cazzaso Tolmezzo UD,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,145.61250,222322,BM,222322,1,,-1.600,IW3QOJ,TS1 TS2
 IR3ZZG,Colli berici,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.17500,222323,BM,222323,1,,+1.600,IU3KOE,TS1 TS2
 IR3UIV,San Dona di Piave,,Italy,,1,145.77500,222324,DMR-plus,222324,1,,-0.600,IZ3LSV,TS1 TS2
-IR3UW,Aviano,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.15000,222325,Brandmeistet,222325,1,,1.600,IK3XTW,TS1 TS2
+IR3UW,Aviano,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.15000,222325,Brandmeistet,222325,1,,1.600,"IK3XTW, IV3BVK",TS1 TS2
 IR3UAN,Helm - Elmo,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.58750,222326,BM,222326,1,,+5.000,IW3AMQ,Mixed Mode
 IR3UAP,Plose,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,145.57500,222327,BM,222327,1,,-0.600,IW3AMQ,Mixed Mode
 IR3UGM,Gantkofel - Maccaion,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.51250,222328,BM,222328,1,,+1.600,IW3AMQ,Mixed Mode
@@ -1770,6 +1771,7 @@ OM0ODX,Dedinka,Nitriansky / Trenciansky / Trnavsky,Slovakia,Master,1,438.10000,2
 OM0ODA,Bratislava,Bratislavsky,Slovakia,Master,1,439.52500,231003,BM,231003,1,,-7.600,OM8AS,TS1 TS2
 OM0ODV,Kralova Lehota,Banskobystricky / Zilinsky,Slovakia,Peer,1,438.22500,231004,BM,231004,1,None,-7.600,OM3WIM,TS1 TS2
 OM0ODO,Makovica,Kosicky / Presovsky,Slovakia,Master,1,438.35000,231005,BM,231005,1,None,-7.600,OM8KT,Mixed Mode
+OM0ODD,Kosice,Kosicky / Presovsky,Slovakia,Master,10,438.50000,231006,DMR,231006,1,None,-7.600,OM8KT,TS1 TS2
 OM0ODB,Bratislava,Bratislavsky,Slovakia,Peer,1,438.32500,231111,BM,231111,1,,-7.600,OM1AEG,TS1 TS2
 OM0OAA,Zilina mesto,Banskobystricky / Zilinsky,Slovakia,Peer,1,438.62500,231301,BM,231301,1,"DUAL-MODE MULTI-PROTOCOL D-STAR/DMR/FUSION/NXDN/FM CTCSS 67,0Hz.<br>DMR TS1 static TGs: 231; 230.",-7.600,OM6AXE,Mixed Mode
 OM0OUA,Martin - Velka Luka,,Slovakia,,1,439.13750,231302,BM,231302,1,,-7.600,OM6AR,TS1 TS2
@@ -4289,6 +4291,7 @@ YM1KRM,Tekirdag Merkez,,Turkiye,,1,439.16250,286591,BM,286591,0,,-7.600,TA1UHX,T
 YM5KKE,AKSARAY,Central Anatolia Region,Turkiye,Master,1,439.16250,286681,BM,286681,1,286681<br>2862012<br>9286<br>Time Slot # 1 - Group Call 286681 = Aksaray<br>Time Slot # 1 - Group Call 2862012 = AKRAD<br>Time Slot # 1 - Group Call 9286 = TIF,-7.600,TA5HY,TS1 TS2
 YM2KBD,YALOVA,Marmara Region,Turkiye,Peer,1,439.37500,286771,BM,286771,1,ANARAD YALOVA TG28677,-7.600,TA2JW,Mixed Mode
 T79DMR,San Marino,All Regions,San Marino,Peer,1,430.17500,292001,BM,292001,1,,1.600,T77NM,TS1 TS2
+T79TG,San Marino,All Regions,San Marino,Peer,1,430.48750,292002,292,292002,1,,5.000,T77NM,Mixed Mode
 S55DMR,Lisca,Posavska,Slovenia,Peer,1,439.07500,293001,BM,293001,1,,-7.600,S56CT,TS1 TS2
 S55DTR,Sv Planina,Zasavska,Slovenia,Peer,1,439.17500,293002,BM,293002,1,,-7.600,S56CT,TS1 TS2
 S55DZV,LJUBLJANA,Osrednjeslovenska,Slovenia,Peer,1,438.55000,293003,BM,293003,1,,-7.600,S57NIX,TS1 TS2
@@ -6761,7 +6764,7 @@ N8NQH,Bellbrook,Ohio,United States,Master,11,444.43750,312071,BM,312071,1,"Hyter
 K7WVD,Corvallis,Oregon,United States,Master,1,444.27500,312072,Brandmeister,312072,1,Repeater is in construction phase.,+5.00,N7GWA,TS1 TS2
 WY7EOC,Jackson,Wyoming,United States,Master,11,445.20000,312073,WyDMR,312073,1,,-5.00,N7GT,TS1 TS2
 K4CGA,Dallas,Georgia,United States,Master,1,442.67500,312074,BM,312074,1,,+5.000,K4CGA,TS1 TS2
-AC2DW,Toms River,New Jersey,United States,Peer,2,447.51875,312075,Brandmeister,312075,1,Time Slot 1 - Ocean County TG 31660 (static)<br>                    <br>Time Slot 2 - Available for access to any BM talk group on dynamic PTT status. <br>,-5.000,AC2DW,TS1 TS2
+AC2DW,Toms River,New Jersey,United States,Peer,2,447.51875,312075,Brandmeister,312075,1,Time Slot 1 - Ocean County TG 31660 (static)<br><br>Time Slot 2 - Available for access to any BM talk group on dynamic PTT status.,-5.000,AC2DW,TS1 TS2
 KA6ZRJ,El Dorado Hills.,California,United States,Master,1,442.70000,312076,BM,312076,1,,+5.000,KA6ZRJ,TS1 TS2
 W7BEQ,Worland,Wyoming,United States,Master,11,445.01250,312077,WYDMR,312077,1,Wyoming DMR Project Portable repeater TS1 3156 Wyoming Wide TS2 3156 Local 100,-5.000,W7BEQ,TS1 TS2
 KF7LRD,Williams,Arizona,United States,Peer,1,448.30000,312078,AZ-TRBONET-DMR-MARC,312078,1,Time Slot #1 - Group Call 1 = World Wide (PTT)<br>Time Slot #1 - Group Call 9 = Northern AZ Repeater Group only<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America (PTT)<br>Time Slot #1 - Group Call 310 = TAC 310 (PTT)<br>Time Slot #1 - Group Call 310 = TAC 311 (PTT)<br>Time Slot #2 - Group Call 2 = AZ/NM Local<br>Time Slot #2 - Group Call 3100 = DCI Bridge (PTT)<br>Time Slot #2 - Group Call 3104 = AZ Statewide<br>Time Slot #2 - Group Call 3135 = NM STATEWIDE<br>Time Slot #2 - Group Call 3176 = Regional SW (PTT)<br>Time Slot #2 - Group Call 3185 = Cactus Radio Club (open)<br>PTT= Disconnects after 10 mins. if there's no local key up<br><br>You Must Have [ARS] Disabled Within Your Radio<br>,-5.00,KF7LRD,TS1 TS2
@@ -6835,7 +6838,6 @@ K0XM,Blue Springs,Missouri,United States,Peer,1,443.45000,312150,TGIF,312150,1,,
 K0XM,Blue Springs,Missouri,United States,Peer,1,441.06250,312151,BM,312151,1,,+5.0,K0XM,TS1 TS2
 N7GV,Green Valley,Arizona,United States,Peer,1,449.37500,312152,BM,312152,1,,-5.000,N7GV,TS1 TS2
 WB9COY,Del Mar,California,United States,Master,1,449.46250,312153,BM,312153,1,"This is a multi mode repeater based on the KI6ZUM MMDVM board.  The repeater is linked to the YSF America network, BM and P25.",-5.000,WB9COY,Mixed Mode
-KK5CM,Thibodaux,Louisiana,United States,Master,1,444.37500,312154,TGIF,312154,1,Connected to Westnet Amateur Radio Group (WARG) talkgroup - linked to club repeaters in California and Virginia.,+5.000,KK5CM,TS1 TS2
 KD4LPU,Newark,Ohio,United States,Master,7,147.35000,312156,BM,312156,1,,+0.600,KD4LPU,TS1
 K6LNK,Aptos,California,United States,Peer,10,145.01250,312157,BrandMeister,312157,1,,+2.500,N6JOA,TS1 TS2
 K6LNK,Markleeville,California,United States,Peer,8,145.01250,312158,BrandMeister,312158,1,,+2.500,N6JOA,TS1 TS2
@@ -8579,7 +8581,7 @@ N5MS,Norman,Oklahoma,United States,Master,1,443.82500,314016,OK Net,314016,1,"N5
 N5PLV,Lawton,Oklahoma,United States,Peer,4,443.60000,314017,OK Net,314017,1,"N5PLV 443.600 +5 MHz, Color Code 4",+5.000,N5PLV,TS1 TS2
 KB5KWV,Oklahoma City,Oklahoma,United States,Peer,1,443.17500,314018,DMR-MARC,314018,1,"Time Slot #1 - Group Call 1 = WW All, PTT 10 min.<br>Time Slot #1 - Group Call 13= WW English, PTT 10 min.<br>Time Slot #1 - Group Call 3 = DMR-MARC North America<br>Time Slot #1 - Group Call 310 = TAC-310, PTT 10 min.<br>Time Slot #1 - Group Call 311 = TAC-311, PTT 10 min.<br><br>Time Slot #2 - Group Call 3175= TX-OK Regional<br>Time Slot #2 - Group Call 3140 = OK Statewide<br>Time Slot #2 - Group Call 8800= OK Central<br>Time Slot #2 - Group Call 2 = Local<br>Time Slot #2 - Group Call 9998 = Audio Test (Parrot)",+5.000,KB5KWV,TS1 TS2
 W5RLW,Edmond,Oklahoma,United States,Peer,1,443.05000,314019,Brandmeister,314019,1,,+5.000,W5RLW,TS1 TS2
-W5RLW,Edmond,Oklahoma,United States,Peer,1,442.32500,314020,Brandmeister,314020,1,,+5.000,W5RLW,TS1 TS2
+W5RLW,Edmond,Oklahoma,United States,Peer,1,442.32500,314020,Brandmeister,314020,1,,+5.000,"W5RLW, AE5GS",TS1 TS2
 W5IAS,Leonard,Oklahoma,United States,Peer,1,443.65000,314021,BM,314021,1,Contact: W5IAS<br>trustee@w5ias.com,+5.000,"W5GGW, WB5ANX",TS1 TS2
 WD5ETD,TULSA,Oklahoma,United States,Peer,1,441.97500,314022,brandmeister,314022,1,,+5.000,WD5ETD,TS1 TS2
 KB5KWV,Hallett,Oklahoma,United States,Peer,1,443.17500,314023,BrandMeister,314023,1,,+5.000,KB5KWV,TS1 TS2
@@ -8946,7 +8948,7 @@ K5GOE,Fayetteville,Arkansas,United States,Master,1,443.12500,314419,Brandmeister
 W7RSS,Ogden,Utah,United States,Peer,1,447.38750,314420,BM,314420,1,,-5.000,W7RSS,TS1 TS2
 W4KST,Marietta,Georgia,United States,Peer,7,442.71250,314421,BM,314421,1,,+5.000,W4KST,TS1 TS2
 WX4CC,Muscle Shoals,Alabama,United States,Master,1,146.76000,314422,AmComm,314422,1,,-0.6,KW4HT,Mixed Mode
-N2FED,Mount Freedom,New Jersey,United States,Master,7,441.90000,314423,DMR-SE,314423,1,"For complete repeater details, visit https://n2fed.net",+5.000,N2FED,TS1 TS2
+N2FED,Mount Freedom,New Jersey,United States,Master,7,447.87500,314423,DMR-SE,314423,1,"For complete repeater details, visit https://n2fed.net",-5.000,N2FED,TS1 TS2
 N1JPB,Milton,New Hampshire,United States,Peer,7,442.50000,314424,AmComm DMR,314424,1,,+5.000,N1JPB,TS1 TS2
 N0ESQ,Fairview,North Carolina,United States,Master,7,147.22500,314426,DMR-MARC,314426,1,02-08-2025 -- Testing mode. Eventual dynamic mixed mode.,+0.600,N0ESQ,Mixed Mode
 W9LAG,Milwaukee,Wisconsin,United States,Peer,1,442.05000,314427,DMR-MARC,314427,1,- Worldwide (TG1)<br>- Europe (TG2)<br>- North America (TG3)<br>- Oceania (TG5)<br>- Worldwide German (TG10)<br>- Worldwide French (TG11)<br>- Worldwide English (TG13)<br>- Worldwide Spanish (TG14)<br>- Latin American Group (31600),+5.000,W9LAG,TS1 TS2
@@ -9656,6 +9658,9 @@ N1DTA,brook,Kentucky,United States,Peer,1,442.43750,315187,kentuckydmr c bidge,3
 W3ETO,Enola,Pennsylvania,United States,Peer,1,443.30000,315188,SMRA EMCOMM,315188,1,"None<br>coverage Carlisle to eastern Cumberland County<br>I81,Rt15 Rt11 Pa Turnpike into Perry,Dauphin,York.Franklin County",5.000,"W3ETO, KB3TWW",TS1 TS2
 W3ETO,Heberling,Pennsylvania,United States,Peer,1,444.40000,315189,SMRA EMCOMM,315189,1,"Shippensburg to Carlisle<br>into Perry,Franklin County into Maryland, West Virginia, Virginia  I81, Pa Turnpike, Rt11",5.000,"KB3TWW, W3ETO",TS1 TS2
 N0EMR,Quincy,Illinois,United States,Master,1,442.62500,315190,N0EMR,315190,1,None,5.000,N0EMR,TS1 TS2
+KC0AHL,Bismarck,North Dakota,United States,Peer,4,444.65000,315191,RadioID,315191,1,,5.000,KC0AHL,Mixed Mode
+N2FED,Mount Freedom,New Jersey,United States,Master,1,449.47500,315192,DMR-SE,315192,1,None,-5.000,N2FED,Mixed Mode
+N2FED,Jefferson Twp,New Jersey,United States,Master,7,443.90000,315193,DMR-SE,315193,1,None,+5.000,N2FED,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,3,145.21000,315301,PNWDigital,315301,1,"Time Slot #1- Group Call 3153 = Washington Statewide 1<br>Time Slot #1- Group Call 3191 = Cascades 1<br><br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: http://www.pnwdigital.net",+2.78,NO7RF,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,0,443.15000,315302,NO7RF,315302,1,Demo/Testing,+5.000,NO7RF,TS1 TS2
 WA7DMR,Couer d Alene,Idaho,United States,Peer,1,440.92500,315303,PNWDigital,315303,1,"Time Slot #1- Group Call 3116 = Idaho Statewide 1<br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: https://pnwdigital.net",+5.000,NO7RF,TS1 TS2
@@ -11262,6 +11267,7 @@ PT7MAZ,Juazeiro do Norte,Ceara,Brazil,Master,1,439.65000,724288,BM,724288,1,None
 PP5CAL,Campo Alegre,Santa Catarina,Brazil,Peer,1,146.93000,724289,724,724289,1,None,0.600,PP5ED,TS1
 PY2ZYV,Itu,Sao Paulo,Brazil,Peer,1,439.99000,724290,BM,724290,1,None,-5.000,PY2ZYV,Mixed Mode
 PY5IAP,Castro,Parana,Brazil,Peer,1,146.69000,724291,DMR,724291,1,None,-0.600,PY5MAY,TS1
+PP5RAS,Itajai,Santa Catarina,Brazil,Peer,1,439.15000,724292,TG,724292,1,None,-5.000,PP5ZQ,Mixed Mode
 PY3HA,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,146.77000,724301,Brandmeister,724301,1,,-0.600,PY3NZ,TS1 TS2
 PY3RPT,Porto Alegre,Rio Grande do Sul,Brazil,Master,1,145.35000,724302,Mixed Mode,724302,1,,-0.600,PY3NZ,TS1 TS2
 PY3SMS,Guaiba,Rio Grande do Sul,Brazil,Master,1,439.55000,724303,DMR+ MASTER SUL,724303,1,,-5.000,PY5JP,TS1 TS2
