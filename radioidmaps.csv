@@ -228,6 +228,7 @@ PD0JCH,Ouddorp,Zuid-Holland,Netherlands,Peer,1,438.20000,Brandmeister,51.8243160
 PI2GOE,Wilhelminadorp,Zeeland,Netherlands,Peer,7,438.40000,BM,51.5339600,3.8756900,204009,Note: the repeater is still under construction and is not yet setup for production. Data as depicted here may definitely change!<br><br>Deze repeater draait bij PI4Z en is daarvoor primair beschikbaar.,-7.600,ACTIVE,"PI2GOE, PB5A, PE9GHZ",TS1 TS2
 PI4LEK,LEEK,Groningen,Netherlands,Peer,1,454.90000,DMR,53.1632327,6.3771190,204010,None,10.000,ACTIVE,PD2EN,TS1 TS2
 PI1LEK,Leek,Groningen,Netherlands,Peer,1,454.90000,DMR,53.1576499,6.3839319,204011,None,10.000,ACTIVE,PD2EN,TS1 TS2
+PI2BOZ,Bergen op Zoom,Noord-Brabant,Netherlands,Master,1,438.50000,Brandmeister,51.4951580,4.309300,204012,"Approved, but not on air yet.",-7.600,ACTIVE,PA0RPA,TS1
 PI1DHG,Den Haag,Zuid-Holland,Netherlands,,1,438.20000,BM,52.080780,4.335861,204201,,-7.600,ACTIVE,PA3FRH,TS1 TS2
 PI1HGD,Den Haag,Zuid-Holland,Netherlands,,1,438.25000,DMR-plus,52.090561,4.353970,204202,,-7.600,ACTIVE,PA3FRH,TS1 TS2
 PI1VLD,VLAARDINGEN,Zuid-Holland,Netherlands,,1,438.82150,None,51.9227863,4.329563378870851,204210,,-7.600,ACTIVE,PA0ISK,TS1 TS2
@@ -237,7 +238,7 @@ PI1UTR,Ijsselstein,Utrecht,Netherlands,Master,1,438.35000,BM,52.010021,5.053711,
 PI1UTR,Ijsselstein,Utrecht,Netherlands,,1,438.47500,None,52.026205250000004,5.028685923229064,204301,,-7.000,ACTIVE,PE1RJV,
 PI1SPA,Spakenburg,Utrecht,Netherlands,,2,438.30000,BM,52.256046,5.379183,204342,,-7.600,ACTIVE,PD0RAF,TS1 TS2
 PI1HRL,Heerlen,Limburg,Netherlands,Peer,2,438.26250,BM,50.925591,5.968248,204400,,-7.600,ACTIVE,PD4RS,TS1 TS2
-PI1ZLB,Maastricht,,Netherlands,Peer,3,438.15000,BM,50.843899,5.652308,204402,,-7.600,ACTIVE,PD3R,TS1 TS2
+PI1ZLB,Maastricht,Limburg,Netherlands,Peer,3,438.15000,BM,50.843899,5.652308,204402,,-7.600,ACTIVE,PD3R,TS1 TS2
 PI1NLB,Gennep,Limburg,Netherlands,,1,438.02500,BM,51.681473,5.971625,204403,,-7.600,ACTIVE,PA3ETC,TS1 TS2
 PI2VLI,Vlissingen,Zeeland,Netherlands,,1,430.33750,BM,51.463230,3.556372,204404,,1.600,ACTIVE,PE1IAD,TS1 TS2
 PI3VLI,Vlissingen,,Netherlands,,1,145.66250,None,51.463291,3.556000,204410,,-0.600,ACTIVE,PE1IAD,TS1 TS2
@@ -1331,7 +1332,7 @@ IR3UJA,Pianezze TV,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.53750,BM,
 IR3ZZL,Pianezze TV,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.57500,BM,45.9244871,12.0159833,222453,,+4.000,ACTIVE,IZ3WTX,TS2
 IR3ZZZ,Pianezze TV,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.68750,BM,45.924450,12.019231,222454,,+5.000,ACTIVE,IZ3WTX,TS2
 IR7ZZI,MOTTOLA,Apulia / Basilicata,Italy,Master,1,430.30000,BM,40.6332,17.0383,222455,"E.R.A.V. MOTTOLA  DMR  Repeater  RU12 - Ubicata a 400 mslm e gestito dall'Ente di Terzo Settore Organizzazione di Volontariato di Protezione Civile denominata ""Emergenza Radio Amatori Volontari"" Mottola, sede operativa in Via Vanvitelli n.2 74017 Mottola (TA) Italia.",+1.600,ACTIVE,IQ7ET,TS1 TS2
-IR4UAV,Salsomaggiore Terme,Emilia-Romagna,Italy,Master,1,431.32500,BM,44.809380,9.989821,222456,222456,+1.600,ACTIVE,IK4NZD,TS1 TS2
+IR4UAV,Salsomaggiore Terme,Emilia-Romagna,Italy,Master,1,431.32500,BM,44.809380,9.989821,222456,222456,+1.600,ACTIVE,"IK4NZD, IZ4NEB",TS1 TS2
 IR8L,Potenza,Apulia / Basilicata,Italy,Master,1,145.60000,BM,40.50449266473357,15.75152086448973,222457,,-0.600,ACTIVE,"IQ8PZ, IZ8GUR",Mixed Mode
 IR3ZYD,Spinea,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,431.42500,BM,45.47628,12.14390,222458,,+1.600,ACTIVE,IW3HVB,TS1 TS2
 IR9ZVR,Santa Flavia Pa,Sicily,Italy,Master,1,430.35000,BM,38.046365,13.512019,222459,22291,+1.600,ACTIVE,IT9CSD,Mixed Mode
@@ -2407,7 +2408,7 @@ OZ1REN,Nakskov,Sjaelland,Denmark,,15,434.67500,DMR-plus,0.0,0.0,238554,,-2.000,A
 OZ7REX,Hoejby,Sjaelland,Denmark,,5,434.72500,DMR-plus,55.9103711,11.5970027,238555,,-2.000,ACTIVE,OZ5X,TS1 TS2
 OZ3KAR,Goerlose,Sjaelland,Denmark,,14,434.70000,BM,55.871429,12.194272,238560,,-2.000,ACTIVE,OZ3ACC,TS1 TS2
 OZ6KAR,Slagelse,Sjaelland,Denmark,,15,434.66250,DMR-plus,55.363800,11.333400,238561,,-2.000,ACTIVE,OZ2GRE,TS1 TS2
-OZ0REN,Blishoej,Sjaelland,Denmark,Master,15,434.63750,DMR-plus,0.0,0.0,238564,,-2.000,ACTIVE,OZ5WU,TS1 TS2
+OZ0REN,Blishoej,Sjaelland,Denmark,Master,15,434.63750,DMR-plus,54.7112660,11.9252260,238564,,-2.000,ACTIVE,OZ5WU,TS1 TS2
 OZ2KAR,Roskilde,Sjaelland,Denmark,,15,434.66250,DMR-plus,55.6433478,12.0819247,238570,,-2.000,ACTIVE,OZ2GRE,TS1 TS2
 OZ2REF,Herfoelge,Sjaelland,Denmark,,15,434.93750,DMR-plus,55.41119725,12.142937610722154,238571,,-2.000,ACTIVE,OZ1EIZ,TS1 TS2
 OZ9REF,Stubbekoebing,Sjaelland,Denmark,,15,434.61250,BM,54.8869284,12.037363029387423,238572,,-2.000,ACTIVE,OZ1EIZ,TS1 TS2
@@ -2415,7 +2416,7 @@ OZ4REF,Slagelse,Sjaelland,Denmark,,15,434.62500,BrandMeister.Networ,55.397636750
 OZ4REG,Regnemark,Sjaelland,Denmark,,9,434.63750,DMR-plus,55.587700,12.280800,238575,,-2.000,ACTIVE,OZ2GRE,TS1 TS2
 OZ6REG,Regnemark,Sjaelland,Denmark,,9,434.63750,BM,55.463371,12.008555,238576,,-2.000,ACTIVE,OZ2GRE,TS1 TS2
 OZ7KAR,Hoejby Sj,Sjaelland,Denmark,,5,434.72500,Motorola,,,238577,,-2.000,ACTIVE,OZ5X,
-OZ0REA,Naestved,Sjaelland,Denmark,Peer,15,434.68750,DMR-plus,55.2328252,11.7674102,238580,,-2.000,ACTIVE,OZ5WU,TS1 TS2
+OZ0REA,Stenlille,Sjaelland,Denmark,Peer,15,434.68750,DMR-plus,55.5393096,11.5920971,238580,,-2.000,ACTIVE,OZ5WU,TS1 TS2
 OZ0REB,Naestved Test,Sjaelland,Denmark,,15,434.70000,DMR-plus,55.2328252,11.7674102,238581,,-2.000,ACTIVE,OZ5WU,TS1 TS2
 OZ0REF,Slots Bjergby Tower,Sjaelland,Denmark,,15,434.63750,DMR-plus,55.3686132,11.331846322767525,238590,,-2.000,ACTIVE,OZ5WU,
 5Q5XX,CBridge,Sjaelland,Denmark,,1,434.00000,Motorola,,,238599,,0.000,ACTIVE,5Q5XX,
@@ -3344,7 +3345,7 @@ DO0AKW,Waldthurn,Bayern,Germany,Master,1,439.82500,"BM, P25",49.6716216,12.33630
 DB0ETL,Karlsruhe,Baden-Wuerttemberg,Germany,Master,1,438.48750,BM,48.939470,8.421987,262115,,-7.6,ACTIVE,DF4IAO,TS1 TS2
 DB0KSN,Soest,Nordrhein-Westfalen,Germany,Peer,1,438.31250,BM,51.562067,8.084255,262116,,-7.600,ACTIVE,DO8JG,TS1 TS2
 DB0XTK,Neuoetting,Bayern,Germany,Master,1,438.36250,BM,48.2367,12.68414,262117,,-7.600,ACTIVE,DD7MH,TS1 TS2
-DB0ABC,Wüstenbuch,Bayern,Germany,Master,1,438.35000,BM,49.7918,10.5815,262118,,-7.6,ACTIVE,DB2FB,TS1 TS2
+DB0ABC,Wuestenbuch,Bayern,Germany,Master,1,438.35000,BM,49.7918,10.5815,262118,,-7.6,ACTIVE,DB2FB,TS1 TS2
 DB0WTS,Bochum-Sundern,Nordrhein-Westfalen,Germany,Master,1,439.80000,BM,51.427778,7.1941667,262119,,-9.4000,ACTIVE,DL5DAA,Mixed Mode
 DB0OUD,Berlin,Berlin / Brandenburg,Germany,Peer,1,438.62500,BM,52.502186,13.333024,262120,,-7.600,ACTIVE,DL3OCK,TS1 TS2
 DB0LOS,Rauen nr Fürstenwalde,Berlin / Brandenburg,Germany,Master,1,438.47500,BM,52.321362,14.037694,262121,,-7.600,ACTIVE,DG6IBT,TS1 TS2
@@ -4264,7 +4265,7 @@ YM5KMS,Mersin,Aegean Region,Turkiye,Master,1,439.42500,DMR,0.0,0.0,286331,,-7.60
 YM5KSE,Erdemli Mersin,Aegean Region,Turkiye,Master,1,145.60000,DMR,0.0,0.0,286333,,-0.600,ACTIVE,TA5AHO,TS1
 YM1KE,Istanbul,Marmara Region,Turkiye,Peer,1,439.17500,BM,40.98,28.9,286340,,-7.600,ACTIVE,TA1MD,TS1
 YM1KWB,Istanbul,,Turkiye,,1,439.38750,BM,,,286341,,-7.600,ACTIVE,TA1TW,TS1 TS2
-YM1KAT,Istanbul,,Turkiye,,1,439.27500,None,41,28.9,286342,,-7.600,ACTIVE,TA1IJK,
+YM1KAT,ISTANBUL,Marmara Region,Turkiye,Peer,1,439.27500,BrandMeister,41,28.9,286342,,-7.600,ACTIVE,TA1KS,TS1 TS2
 YM1KYA,Avcilar,,Turkiye,Master,1,145.73750,BM,40.980576,28.731649,286343,,-0.600,ACTIVE,TA2MEK,TS1 TS2
 YM1KK,Istanbul,Marmara Region,Turkiye,Peer,1,439.22500,BM,41.073177,29.116234,286344,,-7.600,ACTIVE,TA1EAT,TS1 TS2
 YM2KRA,Camlica Kule,,Turkiye,Master,1,439.16250,BM,41.016327,29.065456,286345,,-7.600,ACTIVE,TA2MEK,TS1 TS2
@@ -4651,7 +4652,7 @@ VE6WCD,Whitecourt,Alberta,Canada,Master,7,444.32500,DMR,54.1367844,-115.6544084,
 VE2RTO,MT-ORFORD,Quebec,Canada,Peer,1,927.32500,BM,45.3118401,-72.2417821,302290,,-25.0,ACTIVE,VE2NBZ,TS1 TS2
 VE2KMR,Saint-Damien,Quebec,Canada,Peer,1,443.42500,DMRQ,45.5031824,-73.5698065,302291,,+5.000,ACTIVE,VE2JKA,TS1 TS2
 VA2RIH,Anse-au-Griffon,Quebec,Canada,Peer,1,144.51000,BM,48.9454890,-64.3108950,302292,,+0.600,ACTIVE,VE2VMT,Mixed Mode
-VA6ACW,Calgary,Alberta,Canada,Master,1,146.80500,XLXMaster,51.14432065951025,-114.24793523094087,302293,,-0.6,ACTIVE,VE6FSN,Mixed Mode
+VA6ACW,Calgary,Alberta,Canada,Master,1,444.62500,Brandmeister,51.14432065951025,-114.24793523094087,302293,,+5.000,ACTIVE,VE6FSN,Mixed Mode
 VE3TUH,Markdale,Ontario,Canada,Master,1,146.71500,DMR,44.3607300,-80.6981800,302294,,-0.6,ACTIVE,VE3TUH,Mixed Mode
 VE7NL,Surrey,British Columbia,Canada,Master,1,430.20000,BM,49.1913033,-122.849143,302295,TBD,+9.000,ACTIVE,VE7NL,TS1 TS2
 VE2TOJ,900mhz-StUrsule Louiseville,Quebec,Canada,Master,1,927.73750,Multi-Mode DMR=BM / NXDN / P25,46.290453,-73.03477,302296,,-9.950,ACTIVE,VE2TOJ,TS1 TS2
@@ -7812,7 +7813,7 @@ KE4PRF,Seffner,Florida,United States,Master,1,442.77500,"BM, TGIF",27.9985410000
 KH7EC,Kahuku,Hawaii,United States,Peer,1,443.05000,PRIVATE NETWORK,21.3042574,-157.8549477,313194,,+5.000,ACTIVE,KH7EC,TS1 TS2
 K7LYY,Columbia Falls,Montana,United States,Peer,1,146.76000,BM,48.21890261566171,-114.32986418890484,313195,,-0.600,ACTIVE,K7LYY,Mixed Mode
 W9BTM,Sheboygan,Wisconsin,United States,Peer,1,433.80000,BM,43.7128967,-87.9370433,313196,"Sheboygan, WI DMR Network",+5.000,ACTIVE,W9BTM,Mixed Mode
-N4JFD,Unicoi,Tennessee,United States,Peer,15,443.98750,BM,36.21719,-82.37078,313197,,5.000,ACTIVE,N4JFD,TS1 TS2
+N4JFD,Unicoi,Tennessee,United States,Peer,15,443.98750,BM,36.21719,-82.37078,313197,,5.000,ACTIVE,"N4JFD, W4YSF",TS1 TS2
 AA0RC,Vandalia,Missouri,United States,Peer,3,444.12500,BM,39.31191378591519,-91.47648781309248,313198,,+5.000,ACTIVE,AA0RC,TS1 TS2
 W5EPA,Tow,Texas,United States,Master,1,445.72500,BM,30.8518742,-98.4437032,313199,,-5.000,ACTIVE,W5EPA,TS1 TS2
 WB6TNP,Las Vegas,Nevada,United States,Peer,15,448.92500,SF-TRBO,36.3225941,-115.5713654,313200,"TG 76225 SoCal on TS1 (PTT to turn ON for 5 min, then turns OFF)<br>TG 3176 Southwest Region on TS1 (PTT to turn ON for 5 min, then turns OFF)<br>TG 3115 Hawaii State on TS1 (PTT to turn ON for 10 min, then turns OFF)<br>TG 5150 is NorCal 5150 on TS1 (PTT to turn ON for 10 min, then turns OFF)<br>TG 3100 Bridge on TS1 (PTT to turn ON for 10 min, then turns OFF)<br>TG 3777216 Comm 2 on TS2 (PTT to turn ON for 5 minutes, then turns OFF)<br>TG 3 DMR North America on TS2 (PTT for 10 minutes, Turns ON Wednesday 6pm for 1 hr for Tech Net)<br>TG 1 DMR WW on TS2 (Turns on Saturdays 9am for WW Net for 1 hr and 10 minutes)<br>TG 310 TAC310 on TS2 (PTT to turn ON for 10 minutes) (Turns on Sundays at 5pm for TAC 310 Net for 1 hr)<br>TG 8900 Las Vegas Local on TS2 (Always ON, Turns OFF DMR NA when LV Local in use)<br>TG 9999 Audio Test on TS2 (PTT to turn ON for 5 min, then turns OFF)( http://www.norcaldmr.org/listen-now/index.html)<br>TG 9998 Parrot on TS2 (PTT to turn ON for 5 min, then turns OFF)(Will playback your audio)       Contact Name: Dennis Lee<br>Email: katonk@comcast.net",-5.000,ACTIVE,WB6TNP,TS1 TS2
@@ -8682,7 +8683,7 @@ W6UDF,Cathlamet,Washington,United States,Peer,1,146.45000,PNW,46.1996600,-123.37
 WY8G,Mount Gilead,Ohio,United States,Peer,1,224.94000,BM,040.5497252,-82.7562895,314130,THIS WILL BE A DSTAR REPEATER. PRIMARY REFLECTOR 030C,-1.6000,ACTIVE,WY8G,TS1 TS2
 KB5BUN,Murphysboro,Arkansas,United States,Master,8,442.25000,BM,34.3402,-93.4126,314131,310501<br>310575<br>Ts1,+5.000,ACTIVE,KB5BUN,TS1 TS2
 KE4TZN,Aurora,North Carolina,United States,Peer,1,440.55000,NCPRN,35.266497,-76.849105,314132,Color Code 1<br><br>Talkgroups Available on Time Slot 2<br><br>PRN - 2<br><br>Talkgroups Available on Time Slot 1<br><br>Local — 27500<br>PRN Chat 1 — 27501<br>PRN Chat 2 — 27502<br>Echotest Server — 9998,+5.00,ACTIVE,KE4TZN,TS1 TS2
-N1YKT,Hopkinsville,Kentucky,United States,Master,1,442.45000,BM,36.865601,-87.488617,314133,,+5.000,ACTIVE,N1YKT,TS1 TS2
+N1YKT,Hopkinsville,Kentucky,United States,Master,1,442.45000,BM,36.865601,-87.488617,314133,,+5.000,ACTIVE,N1YKT,TS1
 N3XA,Staunton,Virginia,United States,Peer,1,444.52500,BM,38.12545133275408,-79.06534872721167,314134,,+5.0,ACTIVE,N3XA,TS1 TS2
 KH6BFD,Kailua Kona,Hawaii,United States,Peer,1,442.65000,BM,19.43,-155.5,314136,,+5.00,ACTIVE,KH6BFD,TS1 TS2
 NC1D,New Ulm,Minnesota,United States,Master,1,420.55000,BM,44.3144,-94.4593,314137,The Dive 155 DMR<>YSF<>D*<br>,+5.000,ACTIVE,NC1D,TS1 TS2
@@ -9159,7 +9160,7 @@ W3AWG,Dysart,Pennsylvania,United States,Master,1,444.40000,BM,40.57552011389886,
 AD1U,San Jose,California,United States,Peer,1,443.95000,BM,,,314643,,+5.000,ACTIVE,AD1U,TS1 TS2
 W0ZML,Sioux Falls,South Dakota,United States,Master,1,443.30000,BM,43.50448,-96.70463,314644,TG1: Local<br>TG2: SD Digital Hub 31466,+5.000,ACTIVE,W0ZML,TS1 TS2
 N3RZL,Brockway,Pennsylvania,United States,Master,1,442.20000,Brandmeister,41.39260000,-78.690271,314645,TG 9 for local access,+5.000,ACTIVE,N3RZL,TS1 TS2
-N7PRC,Prescott,Arizona,United States,Master,1,445.70000,SNARS,34.6466,-112.4363,314647,,-5.000,ACTIVE,N7PRC,TS1 TS2
+N7PRC,Prescott,Arizona,United States,Peer,1,445.70000,BrandMeister,34.6466,-112.4363,314647,,-5.000,ACTIVE,N7PRC,TS1 TS2
 W5OU,Norman,Oklahoma,United States,Peer,1,442.75000,BM,34.441500,-97.201690,314648,,+5.000,ACTIVE,W5OU,TS1 TS2
 KG5JDS,Pontotoc,Mississippi,United States,Peer,1,440.57500,BM,34.32686,-89.57984,314649,"Static on 31285 on TS2, Static on National Weather Service Memphis on 314431 TS1",+5.00,ACTIVE,KG5JDS,TS1 TS2
 K2ZZ,Elizabeth,New Jersey,United States,Peer,1,440.00000,BM,40.685846409494054,-74.21518827883422,314650,,+5.000,ACTIVE,K2ZZ,TS1 TS2
@@ -9659,7 +9660,7 @@ W3ETO,Enola,Pennsylvania,United States,Peer,1,443.30000,SMRA EMCOMM,40.3055449,-
 W3ETO,Heberling,Pennsylvania,United States,Peer,1,444.40000,SMRA EMCOMM,40.2214800,-77.5327368,315189,"Shippensburg to Carlisle<br>into Perry,Franklin County into Maryland, West Virginia, Virginia  I81, Pa Turnpike, Rt11",5.000,ACTIVE,"KB3TWW, W3ETO",TS1 TS2
 N0EMR,Quincy,Illinois,United States,Master,1,442.62500,N0EMR,39.9356000,-91.4099000,315190,None,5.000,ACTIVE,N0EMR,TS1 TS2
 KC0AHL,Bismarck,North Dakota,United States,Peer,4,444.65000,RadioID,46.8049100,-100.7577160,315191,,5.000,ACTIVE,KC0AHL,Mixed Mode
-N2FED,Mount Freedom,New Jersey,United States,Master,1,449.47500,DMR-SE,40.8311800,-74.5349900,315192,None,-5.000,ACTIVE,N2FED,Mixed Mode
+N2FED,Mount Freedom,New Jersey,United States,Master,1,449.47500,DMR-SE,40.8311800,-74.5349900,315192,"MMDVM Repeater - Multi-Mode<br>DMR TS1 TG 654 (N2FED), TS2 TG 31360 (TRI-STATE)<br>P25 Reflector - N2FED TG 654<br>NXDN Reflector - N2FED TG 654<br>YSF Reflector - US-N2FED 00654<br>XLX Reflector - XLXFED",-5.000,ACTIVE,N2FED,Mixed Mode
 N2FED,Jefferson Twp,New Jersey,United States,Master,7,443.90000,DMR-SE,40.9403000,-74.6129700,315193,None,+5.000,ACTIVE,N2FED,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,3,145.21000,PNWDigital,48.5600000,-120.3300000,315301,"Time Slot #1- Group Call 3153 = Washington Statewide 1<br>Time Slot #1- Group Call 3191 = Cascades 1<br><br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: http://www.pnwdigital.net",+2.78,ACTIVE,NO7RF,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,0,443.15000,NO7RF,48.5600000,-120.3300000,315302,Demo/Testing,+5.000,ACTIVE,NO7RF,TS1 TS2
