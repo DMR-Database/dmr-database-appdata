@@ -228,7 +228,7 @@ PD0JCH,Ouddorp,Zuid-Holland,Netherlands,Peer,1,438.20000,Brandmeister,51.8243160
 PI2GOE,Wilhelminadorp,Zeeland,Netherlands,Peer,7,438.40000,BM,51.5339600,3.8756900,204009,Note: the repeater is still under construction and is not yet setup for production. Data as depicted here may definitely change!<br><br>Deze repeater draait bij PI4Z en is daarvoor primair beschikbaar.,-7.600,ACTIVE,"PI2GOE, PB5A, PE9GHZ",TS1 TS2
 PI4LEK,LEEK,Groningen,Netherlands,Peer,1,454.90000,DMR,53.1632327,6.3771190,204010,None,10.000,ACTIVE,PD2EN,TS1 TS2
 PI1LEK,Leek,Groningen,Netherlands,Peer,1,454.90000,DMR,53.1576499,6.3839319,204011,None,10.000,ACTIVE,PD2EN,TS1 TS2
-PI2BOZ,Bergen op Zoom,Noord-Brabant,Netherlands,Master,1,438.50000,Brandmeister,51.4951580,4.309300,204012,"Approved, but not on air yet.",-7.600,ACTIVE,PA0RPA,TS1
+PI2BOZ,Bergen op Zoom,Noord-Brabant,Netherlands,Peer,1,438.50000,Brandmeister,51.4951580,4.309300,204012,"Approved, but not on air yet.",-7.600,ACTIVE,PA0RPA,TS1 TS2
 PI1DHG,Den Haag,Zuid-Holland,Netherlands,,1,438.20000,BM,52.080780,4.335861,204201,,-7.600,ACTIVE,PA3FRH,TS1 TS2
 PI1HGD,Den Haag,Zuid-Holland,Netherlands,,1,438.25000,DMR-plus,52.090561,4.353970,204202,,-7.600,ACTIVE,PA3FRH,TS1 TS2
 PI1VLD,VLAARDINGEN,Zuid-Holland,Netherlands,,1,438.82150,None,51.9227863,4.329563378870851,204210,,-7.600,ACTIVE,PA0ISK,TS1 TS2
@@ -238,7 +238,7 @@ PI1UTR,Ijsselstein,Utrecht,Netherlands,Master,1,438.35000,BM,52.010021,5.053711,
 PI1UTR,Ijsselstein,Utrecht,Netherlands,,1,438.47500,None,52.026205250000004,5.028685923229064,204301,,-7.000,ACTIVE,PE1RJV,
 PI1SPA,Spakenburg,Utrecht,Netherlands,,2,438.30000,BM,52.256046,5.379183,204342,,-7.600,ACTIVE,PD0RAF,TS1 TS2
 PI1HRL,Heerlen,Limburg,Netherlands,Peer,2,438.26250,BM,50.925591,5.968248,204400,,-7.600,ACTIVE,PD4RS,TS1 TS2
-PI1ZLB,Maastricht,Limburg,Netherlands,Peer,3,438.15000,BM,50.843899,5.652308,204402,,-7.600,ACTIVE,PD3R,TS1 TS2
+PI1ZLB,Maastricht,Limburg,Netherlands,Peer,3,438.15000,BM,50.843899,5.652308,204402,,-7.600,ACTIVE,"PA0FOT, PE2KMV",TS1 TS2
 PI1NLB,Gennep,Limburg,Netherlands,,1,438.02500,BM,51.681473,5.971625,204403,,-7.600,ACTIVE,PA3ETC,TS1 TS2
 PI2VLI,Vlissingen,Zeeland,Netherlands,,1,430.33750,BM,51.463230,3.556372,204404,,1.600,ACTIVE,PE1IAD,TS1 TS2
 PI3VLI,Vlissingen,,Netherlands,,1,145.66250,None,51.463291,3.556000,204410,,-0.600,ACTIVE,PE1IAD,TS1 TS2
@@ -3617,7 +3617,6 @@ DB0NG,Marl,Nordrhein-Westfalen,Germany,Peer,1,438.57500,DMR-plus,51.6485843,7.08
 DB0WE,Essen/Ruhrgebiet,Nordrhein-Westfalen,Germany,,1,439.95000,BM,51.412773,6.992900,262421,,-9.400,ACTIVE,DL8DAV,TS1 TS2
 DB0OTV,Meerbusch,Nordrhein-Westfalen,Germany,,1,439.50000,DMR-plus,51.2652237,6.6760958,262422,,-7.600,ACTIVE,DB1EPO,TS1 TS2
 DO0UN,Luenen,Nordrhein-Westfalen,Germany,,1,439.90000,DMR-plus,51.6142482,7.5228088,262423,,-9.400,ACTIVE,DO3DO,TS1 TS2
-DF2MM,Detmold,Nordrhein-Westfalen,Germany,Peer,1,439.92500,DMR-plus,51.936284,8.8791526,262425,,-9.400,ACTIVE,DF2MM,TS1 TS2
 DB0WUP,Wuppertal,Nordrhein-Westfalen,Germany,Peer,1,438.33750,BrandMeister,51.264018,7.1780374,262426,,-7.600,ACTIVE,DM1SW,TS1 TS2
 DM0DU,Hagen JO31RI,Nordrhein-Westfalen,Germany,,1,438.07500,DMR-plus,,,262427,,0.000,ACTIVE,DD1DU,TS1 TS2
 DM0DU,Hagen,Nordrhein-Westfalen,Germany,,1,144.85000,DMR-plus,51.3582945,7.473296,262428,,0.000,ACTIVE,DD1DU,TS1 TS2
@@ -7041,7 +7040,7 @@ N9BMG,Hahira,Georgia,United States,Master,1,146.70000,BM,30.9913064,-83.3726575,
 W2BRW,Colden,New York,United States,Master,1,442.15000,BM,0.0,0.0,312370,,+5.000,ACTIVE,W2BRW,TS1 TS2
 N8PC,Findlay,Ohio,United States,Master,1,147.04500,TGIF,41.021922,-83.643644,312371,Allstar/Echolink/DMR TGIF TG 31465,+0.600,ACTIVE,N8PC,TS2
 WZ8E,Bluefield,Virginia,United States,Peer,1,145.25000,WV STATE DMR,37.258878,-81.176161,312372,WZ8E - East River Mt <br>Bluefield VA/WV<br>Time Slot 1 Talk Group Time Slot 2 Talk Group Full or On Demand System Notes<br>Local 9 State Wide 3154 Full Time<br>North America 3 Clear Time Slot 2 27000 On Demand 5 min timer<br>World Wide 1 VA State 3151 On Demand 5 min timer<br>Clear Time Slot 27000 KY STATE 3121 On Demand 5 min timer<br>South East 3174 OHIO STATE 3139 On Demand 5 min timer<br>TAC 310 310 Ohio Guys On Demand 5 min timer<br>TAC 311 311 TENNESSEE STATE 3147 On Demand 5 min timer<br>DCI Bridge 3100<br>Mid atlantic 3173<br><br>Audio Test 9998<br>JOTA 907 JOTA 1 9701<br>JOTA 2 9702,-0.600,ACTIVE,WZ8E,TS1 TS2
-KD4FJ,Harlingen,Texas,United States,Peer,1,443.87500,BM,26.18158,-97.759727,312373,,+5.000,ACTIVE,KD4FJ,TS1 TS2
+KD4FJ,Harlingen,Texas,United States,Peer,1,443.87500,BM,26.18158,-97.759727,312373,Add YSF function,+5.000,ACTIVE,KD4FJ,TS1 TS2
 W5LRD,Laredo,Texas,United States,Master,1,442.17500,BrandMeister,27.5201836,-99.5212428,312374,,+5.000,ACTIVE,W5LRD,TS1 TS2
 KC0EQQ,Birmingham,Alabama,United States,Peer,1,444.45000,BM,33.5206824,-86.8024326,312375,,+5.000,ACTIVE,KC0EQQ,TS1 TS2
 KD9KOO,Springfield,Illinois,United States,Master,5,444.97500,Brandmeister,39.789034,-89.678050,312376,Motorola ID,+5.000,ACTIVE,KD9KOO,TS1 TS2
@@ -9527,7 +9526,7 @@ KC9PXI,Tuscola,Illinois,United States,Master,1,146.95500,Brandmeister,39.7921298
 WA4AAZ,CASTLE HAYNE,North Carolina,United States,Peer,3,444.98750,BrandMeister,34.3170000,-77.9352000,315051,None,+5.000,ACTIVE,WA4AAZ,TS1 TS2
 W1ASS,Deerfield,New Hampshire,United States,Master,1,927.68750,BrandMeister,43.1758000,-71.2081000,315052,None,-25.000,ACTIVE,W1ASS,Mixed Mode
 AA5SG,Ellisville,Mississippi,United States,Peer,1,441.21250,Brandmeister,31.6000000,-89.2000000,315053,None,+5.000,ACTIVE,AA5SG,Mixed Mode
-N7COX,Star,Idaho,United States,Peer,1,444.55000,Amcomm,43.6898000,-116.4875000,315054,None,+5.000,ACTIVE,N7COX,TS1
+N7COX,Star,Idaho,United States,Master,1,444.55000,Amcomm,43.6898000,-116.4875000,315054,N7COX@techie.com,+5.000,ACTIVE,N7COX,TS1
 N4TAE,Theodore,Alabama,United States,Peer,7,145.13000,AmComm,30.5369167,-88.2389472,315055,None,-0.600,ACTIVE,N4TAE,TS1 TS2
 KN4KAN,Enville,Tennessee,United States,Peer,1,444.35000,Brandmister,35.4678000,-88.4522000,315056,None,+5.000,ACTIVE,KN4KAN,TS1 TS2
 W1SMS,DANBURY,Connecticut,United States,Peer,0,445.92500,interstate,41.4426250,-73.5054800,315057,None,5.000,ACTIVE,W1SMS,TS1 TS2
@@ -9640,7 +9639,7 @@ W9ML,Hebron,Indiana,United States,Master,1,444.55000,Brandmeister,41.4345950,-87
 KD9SAZ,Rockford,Illinois,United States,Master,1,443.45000,AMCOMM,42.3313133,89.1554593,315171,None,+5.000,ACTIVE,KD9SAZ,TS1 TS2
 N4OTS,Utica,Kentucky,United States,Master,1,440.65000,Brandmiester,37.6250810,-87.0835360,315173,None,+5.000,ACTIVE,N4OTS,TS2
 N2BIA,Rock Hill,New York,United States,Peer,3,442.55000,Brandmister,41.5979870,-74.6046030,315174,None,+5.000,ACTIVE,N2BIA,TS1 TS2
-N7COX,Star,Idaho,United States,Master,1,444.85000,Amcomm,43.6921080,-116.4934620,315175,None,+5.000,ACTIVE,N7COX,TS1
+N7COX,Star,Idaho,United States,Master,1,442.25000,Amcomm,43.6921080,-116.4934620,315175,N7COX@techie.com,+5.000,ACTIVE,N7COX,TS1
 W8VD,New Baltimore,Michigan,United States,Peer,1,147.00000,Brandmeister,42.6966771,-82.7364379,315176,None,+0.600,ACTIVE,W8VD,TS1 TS2
 W9ODO,Pekin,Illinois,United States,Peer,12,444.82500,Brandmeister,40.5629000,-89.6328000,315177,None,5.000,ACTIVE,"W9ODO, KT9Y, W9NJM",TS1 TS2
 N3CMY,Millerstown,Pennsylvania,United States,Peer,1,449.72500,Brandmeister,40.5680980,-77.1405100,315178,None,-5.000,ACTIVE,N3CMY,TS1 TS2
@@ -9833,7 +9832,6 @@ NP4UG,Puerto Rico,All Regions,Puerto Rico,Master,1,449.47500,BM,18.3721000,-66.1
 KP4BW,Naguabo,,Puerto Rico,Master,1,440.92500,BM,18.236113,-65.812941,330039,,+5.000,ACTIVE,KP4BW,TS1
 KP4BW,Naperville,,Puerto Rico,Master,1,442.37500,BM,51.171164,-80.315769,330040,,+5.000,ACTIVE,KP4BW,TS1
 WP4GT,San Juan,,Puerto Rico,Master,1,448.75000,BM,18.398063,-66.081724,330041,,-5.000,ACTIVE,WP4GT,TS1
-KP4ASD,Ponce,,Puerto Rico,Master,1,449.15000,TGIF,17.98939,-66.63578,330043,DMR/ANALOG DYNAMIC MIXED MODE <br>ECHOLINK NODE 996973,-5.000,ACTIVE,KP4ASD,Mixed Mode
 NU5M,San Juan,All Regions,Puerto Rico,Master,1,442.02500,BM,18.4536,-66.0697,330044,,+5.000,ACTIVE,NU5M,TS2
 KP4AZH,Salinas,All Regions,Puerto Rico,Peer,1,446.85000,BM,17.98350,-66.31750,330045,"TG-330045 Salinas, Puerto Rico",-5.000,ACTIVE,KP4AZH,TS1 TS2
 NW4A,Aguas BuenasPR,,Puerto Rico,Master,1,440.32500,BM,18.051601,-66.124877,330046,Time Slot # 1 - 330013  = IslaComm DMR<br>Time Slot # 2 - 33033  = KP3AV Systems<br>Time Slot # 1 - 330911  = Emergencia<br>Time Slot # 2- 330911  = Emergencia,+5.0,ACTIVE,NW4A,Mixed Mode
