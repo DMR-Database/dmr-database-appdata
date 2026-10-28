@@ -2906,7 +2906,7 @@ R6DHJ,Washington,All Regions,Russia,Peer,1,446.01250,250615,BM,250615,1,None,-12
 RR6UAA,Astrakhan,All Regions,Russia,Master,3,434.60000,250616,BM,250616,0,None,-1.600,RC6UAD,TS1 TS2
 R6UAG,,,Russia,,1,431.75000,250617,BM,250617,1,,+7.600,R6UAG,TS1 TS2
 RD3ANL,,,Russia,,1,0.00000,250624,BM,250624,0,,,RD3ANL,TS1 TS2
-RR7KAA,atr Da,,Russia,Master,1,434.62500,250701,BM,250701,1,None,-1.600,RK7K,TS1 TS2
+RR7KAA,Chatyrdag,All Regions,Russia,Master,1,434.62500,250701,BM,250701,1,None,-1.600,RK7K,TS1 TS2
 RR7RAC,,,Russia,,5,434.72500,250702,BM,250702,0,,+4.600,R7RBB,TS1 TS2
 RK7K,Simferopol,All Regions,Russia,Peer,3,438.75000,250703,BM,250703,1,None,7.600,RK7K,Mixed Mode
 RC7LL,,,Russia,,1,438.82500,250704,BM,250704,1,,-7.600,RC7LL,TS1 TS2
@@ -3485,6 +3485,7 @@ DM0NDR,Hamburg Moorfleet,Hamburg / Schleswig-Holstein,Germany,Peer,0,439.57500,2
 DB0ABG,Ahrensburg,,Germany,,1,439.50000,262273,DMR-plus,262273,1,,-7.600,DL5KUA,TS1 TS2
 DB0CIX,Frankfurt am Main,Hessen,Germany,Peer,1,438.83750,262274,BM,262274,1,None,-7.600,"DL1XM, DG3FBL",Mixed Mode
 DK0RI,Reutlingen,Baden-Wuerttemberg,Germany,Peer,1,438.37500,262275,Brandmeister,262275,1,None,-7.600,DK6TE,Mixed Mode
+DO0BD,Bergheim,Nordrhein-Westfalen,Germany,Peer,1,439.45000,262276,Brandmeister,262276,1,None,-7.600,DO6BD,TS1 TS2
 DB0HHH,Hamburg Lohbruegge,Hamburg / Schleswig-Holstein,Germany,Peer,1,438.62500,262277,DMR-plus,262277,1,,-7.600,DK1MC,TS1 TS2
 DB0MIA,Hohwachter Bucht,,Germany,,1,144.81250,262278,DMR-plus,262278,1,,0.000,DB9HE,TS1 TS2
 DB0EAT,Ellerhoop,,Germany,,1,438.40000,262280,DMR-plus,262280,1,,7.600,DL6EAT,
@@ -4701,7 +4702,6 @@ VA3RVU,Toronto,Ontario,Canada,Master,1,444.50000,302344,DMR+,302344,1,,+5.000,VA
 VE3DPL,Courtland,Ontario,Canada,Peer,1,146.65500,302345,Brandmeister,302345,1,,-0.600,VE3PPO,Mixed Mode
 VE3MHL,Sault Ste Marie,Ontario,Canada,Master,1,444.45000,302346,DMR-MARC,302346,1,,+5.000,VE3MHL,TS1 TS2
 VA3SRF,Smooth Rock Falls,Ontario,Canada,Peer,3,442.67500,302347,Brandmeister,302347,1,,+5.000,VA3MCX,Mixed Mode
-VA3YVL,Hearst,Ontario,Canada,Peer,3,442.87500,302348,Brandmeister,302348,1,,+5.000,VA3MCX,Mixed Mode
 VE3UPS,Parry Sound,Ontario,Canada,Peer,1,444.80000,302349,Brandmeister,302349,1,,+5.000,VA3SD,TS1 TS2
 VE3WOO,Markham,Ontario,Canada,Peer,1,444.40000,302350,Brandmeister,302350,1,"MMDVM Repeater - Downtown Toronto Canada<br><br>Modes: DMR, DStar, Fusion, NXDN, and P25",+5.000,VE3OC,TS1 TS2
 VE3MEI,Brantford,Ontario,Canada,Peer,1,444.91250,302351,Brandmeister,302351,1,,+5.000,VE3UG,TS1 TS2
@@ -6631,7 +6631,6 @@ KD0PMM,LeMars,Iowa,United States,None,1,444.92500,311930,BM,311930,1,,+5.000,N0S
 K0HU,Otho,Iowa,United States,Peer,5,443.57500,311931,yes,311931,1,,+5.000,K0HU,TS1 TS2
 N0BKB,Greenfield,Iowa,United States,Peer,1,444.55000,311933,3001,311933,1,,+5.000,N0BKB,TS1 TS2
 N0VPR,Johnston,Iowa,United States,Peer,1,442.57500,311934,Brandmeister,311934,1,,+5.000,N0VPR,TS1 TS2
-KD9HAE,dubuque,Iowa,United States,Master,1,443.20000,311935,brandmiester,311935,1,,+5.000,KD9HAE,Mixed Mode
 W0RAY,Menlo,Iowa,United States,Master,1,444.55000,311936,Brandmeister,311936,1,,+5.000,W0RAY,TS1 TS2
 W0RBK,Reinbeck,Iowa,United States,Master,1,444.87500,311937,Brandmeister,311937,1,,+5.000,AE0TB,TS1 TS2
 W0GQ,Cedar Rapids,Iowa,United States,Master,1,443.60000,311938,Brandmeister,311938,1,,+5.000,KC0ALC,TS1 TS2
@@ -6647,7 +6646,6 @@ WB0YLA,Thurman,Iowa,United States,Master,1,444.50000,311947,brandmeister,311947,
 K9ADL,Lenox,Iowa,United States,None,1,444.95000,311948,Brandmeister,311948,1,,+5.000,K9ADL,TS1 TS2
 N0VPR,Scranton,Iowa,United States,Master,1,444.30000,311949,Branmeister,311949,1,,+5.000,N0VPR,TS1 TS2
 W0EL,Waterloo,Iowa,United States,Peer,1,444.70000,311950,brandmeister/marc,311950,1,,+5.000,W0EL,TS1 TS2
-KD9HAE,Dubuque,Iowa,United States,Peer,0,444.05000,311951,Brandmeister,311951,1,,+5.000,KD9HAE,TS1 TS2
 WA7DMR,Spokane Valley,Washington,United States,Peer,1,440.37500,311952,PNWDigital,311952,1,,+5.0000,NO7RF,TS1 TS2
 K8KH,Lexington,Kentucky,United States,Peer,1,0.00000,311953,BM,311953,0,https://brandmeister.network/?page=lh&DestinationID=311953,+5.000,K8KH,TS2
 WA7DMR,Seven Cedars,Washington,United States,Peer,1,440.43750,311955,PNWDigital,311955,0,Pending Contruction/Installation,+5.0000,NO7RF,TS1 TS2
@@ -7213,7 +7211,6 @@ KC2IRV,Blakeslee,Pennsylvania,United States,Peer,1,449.82500,312564,BM,312564,1,
 WA7HAA,Brush Prairie,Washington,United States,Master,7,444.11250,312565,PNW Digital,312565,1,PNW TG Deck,+5.000,WA7HAA,TS1 TS2
 N6TKA,Williams,Arizona,United States,Peer,1,440.76250,312566,BM,312566,1,SLR5700 Williams Test,+5.000,N6TKA,TS1 TS2
 K5TKR,Uncertian,Texas,United States,Peer,9,441.97500,312567,BM,312567,1,TS1/TS2 LINKED- Portable Repeater,+5.000,K5TKR,TS1 TS2
-KC9LMF,Carthage,Illinois,United States,Master,7,147.10500,312568,Local,312568,1,,+0.6,KW9Q,Mixed Mode
 W7NV,Reno,Nevada,United States,Peer,4,443.11250,312569,BM,312569,1,"Palomino Valley, Reno, Nevada<br>",+5.000,W7VY,TS1 TS2
 KB7DWO,Minden,Nevada,United States,Master,1,444.10000,312570,BM,312570,1,,+5.000,KB7DWO,TS1
 K4GNV,GAINESVILLE,Florida,United States,Master,1,146.68500,312571,BM,312571,1,"REPEATER IS BEING BUILT, HAVE ANALOG MACHINE NOW. I AM THE REPEATER TRUSTEE, SERVING THE GAINESVILLE AMATEUR RADIO SOCIETY. SHANNON BOAL, K4GLM<br>TS1 TG-91 (Static)<br>",-0.600,K4GLM,TS1 TS2
@@ -7778,7 +7775,6 @@ W9EBN,Marion,Indiana,United States,Peer,1,443.40000,313162,BM,313162,1,,+5.00,W9
 W4YSF,Jonesborough,Tennessee,United States,Peer,11,440.67500,313163,BM,313163,1,,+5.00,W4YSF,TS1 TS2
 W5JWP,Brenham,Texas,United States,Master,3,442.27500,313164,Multiple,313164,1,TS1-TG2-Local Repeater<br>TS1-TG3148-Lonestar TX Statewide<br>TS2-TG8204-Lonestar HTX2<br>TS2-TG9000-Brandmeister TX Statewide,+5.000,W5JWP,TS1 TS2
 KI4FRJ,London,Kentucky,United States,Master,1,442.90000,313165,"BM,DMR-MARC",313165,1,,+5.000,KI4FRJ,TS1 TS2
-KF5WEX,Longview,Texas,United States,Master,1,147.85000,313166,BM,313166,1,,-0.600,W5DKD,Mixed Mode
 AH6OO,Honolulu,Hawaii,United States,Master,1,434.07000,313167,BM,313167,1,,+5.000,AH6OO,TS1 TS2
 KI5HPE,Santa Fe,New Mexico,United States,Peer,1,449.27500,313168,TGIF,313168,1,TG135 Northern NM<br>TG29930 NM Multi<br>TG204 TechFirst<br>TG575 Southern NM<br>TG600 Rio Rancho<br>TG320 QuadNet Array<br>TG700 ABQ<br>TG3135 New Mexico<br>TG8035 NM WX<br>TG31580 NM Nerds,-5.000,KE5ZBG,TS1 TS2
 W4CMB,Carnesville,Georgia,United States,Peer,1,443.20000,313169,BM,313169,1,Brandmeister,+5.000,W4CMB,TS1 TS2
@@ -7853,7 +7849,6 @@ KB6XN,LAS VEGAS,Nevada,United States,Peer,15,146.97000,313245,brandmister,313245
 W0CDM,Louisville,Colorado,United States,Master,7,443.50000,313246,BM,313246,1,,+5.000,W0RMT,TS1 TS2
 WR3D,EDINBURGH,Virginia,United States,Peer,3,443.50000,313247,DMR+,313247,1,,+5.000,WR3D,TS1 TS2
 K4IO,Mansfield,Georgia,United States,Master,2,443.12500,313248,BM,313248,1,3101845,+5.000,K4IO,TS2
-KF5WEX,Longview,Texas,United States,Master,1,444.99500,313249,BM,313249,1,,+5.00,W5DKD,Mixed Mode
 K2VIZ,New Kent,Virginia,United States,Master,1,442.05000,313250,DMRVA,313250,1,,+5.000,K2VIZ,TS1 TS2
 KF4UCI,Buffalo Gap,Virginia,United States,Peer,1,443.15000,313251,DMRVA,313251,1,,+5.000,KF4UCI,TS1 TS2
 WE3MAN,Florence,Alabama,United States,Master,3,440.51250,313252,BM,313252,1,,+5.00,WE3MAN,TS1 TS2
@@ -8314,7 +8309,7 @@ WB4YNF,Hertford,North Carolina,United States,Peer,1,442.16250,313733,PRN,313733,
 K4OBX,Duck,North Carolina,United States,Peer,1,442.63750,313735,ECS,313735,1,Time Slot #1 - Group Call 1 = World Wide (PTT)<br>Time Slot #1 - Group Call 13= WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = Local<br>Time Slot #2 - Group Call 3174- Southeast Regional<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Contact: K4OBX<br>Email: randyjordan@embarqmail.com<br>Website: http://dmr-ecs.org,+5.000,K4OBX,TS1 TS2
 N4DUB,Greensboro,North Carolina,United States,Master,11,441.86250,313736,N/A,313736,1,,+5.000,N4DUB,TS1 TS2
 K4NWJ,Asheboro,North Carolina,United States,Peer,1,440.71250,313737,NC PRN,313737,1,Talkgroups Available on Time Slot 1<br><br>Local  27500<br>PRN Chat 1  27501<br>PRN Chat 2  27502<br>Echotest Server  9998<br><br>Talkgroups Available on Time Slot 2<br><br>PRN  2,+5.000,K4NWJ,TS1 TS2
-K4HA,Raleigh,North Carolina,United States,Master,1,442.51250,313738,ChicagoLand,313738,1,"Time Slot #1 - Group Call 1 = World Wide (PTT)<br>Time Slot #1 - Group Call 13= WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = Local<br>Time Slot #2 - Group Call 3137= North Carolina<br>Time Slot #2 - Group Call 3169= Midwest<br>Time Slot #2 - Group Call 3174= Southeast Regional<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Bob, K4HA <br>Email: k4ha@att.net",+5.000,K4HA,TS1 TS2
+K4HA,Raleigh,North Carolina,United States,Master,1,442.51250,313738,ChicagoLand,313738,1,"Time Slot #1 - Group Call 1 = World Wide (PTT)<br>Time Slot #1 - Group Call 13= WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = Local<br>Time Slot #2 - Group Call 3137= North Carolina<br>Time Slot #2 - Group Call 3169= Midwest<br>Time Slot #2 - Group Call 3174= Southeast Regional<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Bob, K4HA<br>Email: k4ha@att.net",+5.000,K4HA,TS1 TS2
 KC4TVO,Spruce Pine,North Carolina,United States,Peer,1,443.38750,313739,NC-PRN,313739,1,,+5.000,KC4TVO,TS1 TS2
 KB4CTS,Cary,North Carolina,United States,Peer,1,443.78750,313740,NC-PRN,313740,1,"Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = North Carolina/Tennessee<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeaters Coverage Area (http://24.172.25.174:85/resources/cary_coverage_map.jpg)<br>Contact Name: John Giffin, KB4CTS<br>Email: rg321@nc.rr.com",+5.000,KB4CTS,TS1 TS2
 K1DMR,Hayesville,North Carolina,United States,Peer,1,443.03750,313741,K4USD Network,313741,1,"TS1 TG1-WW (PTT)<br>TS1 TG3-NA<br>TS1 TG13-WWE<br>TS1 TG10-WWG (PTT)<br>TS2 TG2-Local (USD Net)<br>TG2 TG9-Local Rpt<br>TS2 TG3113-GA State<br>TS2 TG3125-MA State (PTT)<br>TS2 TG3139-OH State (PTT)<br>TS2 TG3174-SE Regional<br>TS2 TG3100-Bridge (PTT)<br>TS2 TG8951-TAC 1 (PTT)<br>TS2 TG310-TAC 310 (PTT)<br>TS2 TG311-TAC 311 (PTT)<br>TS2 TG9998-Parrot (PTT)<br>TS2 TG9999-NoCal Audio Test (PTT)<br><br>Contact Name: Ken, K1DMR<br>Email: email@kenbryant.net",+5.000,K1DMR,TS1 TS2
@@ -9745,7 +9740,6 @@ W9RCG,Menomonee Falls,Wisconsin,United States,Peer,9,442.01875,315537,ChicagoLan
 W2WAY,Sturtevant,Wisconsin,United States,Peer,9,927.72500,315538,ChicagoLand,315538,1,WI State Wide TG 3155 Full Time Slot 1<br>ChicagoLand. Local 2 PTT 12 hours  Slot 2<br>SE Reg WI TG 440 Slot 2 full time <br>BM Worldwide 91 S1 PTT 15 min<br>Bridge available on S2 PTT 15 min<br>All other States on S1 PTT 15 min.<br>Local 9 is linked to Racine and Kenosha 900 DMR repeaters. <br><br>See ChicagoLand Website for complete Time Slot TG Matrix<br>http://chicagoland-cc.org/index.html,-25.000,W2WAY,TS1 TS2
 W9RCG,Baraboo,Wisconsin,United States,Peer,9,442.11875,315539,ChicagoLand,315539,1,,+5.000,W9RCG,TS1 TS2
 W9RCG,Wausau,Wisconsin,United States,Peer,9,442.13125,315540,ChicagoLand,315540,1,,+5.000,W9RCG,TS1 TS2
-KD9HAE,Beetown,Wisconsin,United States,Peer,2,443.20000,315541,Brandmeister,315541,1,,+5.000,KD9HAE,TS1 TS2
 N9OIG,Union Grove,Wisconsin,United States,Peer,9,146.74500,315542,DMR+ CLAND,315542,1,,-0.600,N9OIG,TS1 TS2
 KB9LQC,Fond du Lac,Wisconsin,United States,Peer,12,443.19375,315543,Chicagoland,315543,1,,+5.000,KB9LQC,TS1 TS2
 KD9EJA,CUMBERLAND,Wisconsin,United States,Peer,4,443.50000,315544,BrandMeister,315544,1,,+5.000,KD9HDR,TS1 TS2
