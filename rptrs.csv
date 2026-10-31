@@ -892,7 +892,7 @@ YU1PIN,LESKOVAC,,Serbia,Peer,1,434.86250,220007,BM,220007,1,,-1.60000,YU1PIN,TS1
 YU0DBG,Belgrade,,Serbia,Master,1,438.20000,220008,BM,220008,1,,-7.600,YU1VI,TS1 TS2
 YU0DKM,Kosovska Mitrovica,,Serbia,Master,1,438.32500,220009,BM,220009,1,,-7.600,YU1VI,TS1 TS2
 YU0DKO,Kopaonik,,Serbia,Master,1,438.25000,220010,BM,220010,1,,-7.600,YU1VI,TS1 TS2
-YU0DBC,Belgrade,,Serbia,Master,1,438.22500,220011,BM,220011,1,,-7.600,YU1VI,TS1 TS2
+YU0DBC,Belgrade,All Regions,Serbia,Master,1,438.22500,220011,BM,220011,1,,-7.600,YU1VI,TS1 TS2
 YU0DTS,Trstenik,All Regions,Serbia,Master,1,438.61250,220012,BM,220012,1,,-7.600,YT3MN,TS1 TS2
 YU0DCS,Subotica,,Serbia,Master,1,438.37500,220013,BM,220013,1,TS1 220<br>TS2 220013,-7.6,YU2BRA,TS1 TS2
 YU0DKG,Kragujevac,,Serbia,Master,1,438.20000,220014,BM,220014,1,,-7.600,YU1VI,TS1 TS2
@@ -1146,7 +1146,7 @@ IR3ZXU,Castello Tesino,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.95000
 IR0ZYH,Rocca Priora RM,Lazio / Umbria / Sardinia,Italy,Peer,1,430.27500,222249,ADN-2224,222249,1,SL1 = TG222<br>SL1 = TG222995<br>SL2 = TG22201,+1.600,IU6SSZ,TS1 TS2
 IR1ZYN,Santo Stefano d Aveto,Piedmont / Liguria / Aosta,Italy,Master,1,430.52500,222250,BM,222250,1,,+5.000,IW4ELZ,TS1 TS2
 IR3ZXH,Domegge di Cadore,Veneto / Trentino-AA / Friuli-VG,Italy,Master,1,430.81250,222251,BM,222251,1,,-285.425,IW3GXX,TS1 TS2
-IR3ZXX,Villorba,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,145.71250,222252,BM,222252,1,222345 RETE DOLOMITI,-0.600,IZ3HPC,TS1 TS2
+IR3ZXX,Villorba,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,145.63750,222252,BM,222252,1,222345 RETE DOLOMITI,-0.600,IZ3HPC,TS1 TS2
 IR1ZZN,Perosa Argentina,Piedmont / Liguria / Aosta,Italy,Master,1,430.16250,222253,BM,222253,1,,+5.000,IW1ELM,TS1 TS2
 IR3ZVI,Bolzano,Veneto / Trentino-AA / Friuli-VG,Italy,Peer,1,430.38750,222255,BM,222255,1,Hytera RD985.,+1.600,IW3BTS,TS1 TS2
 IR0ZYD,Punta Tricoli  lanusei,Lazio / Umbria / Sardinia,Italy,Master,1,430.78750,222256,BM,222256,1,TG 22202  SLOT2<br>TG 222        SLOT1,+5.000,IW0UQF,TS1 TS2
@@ -1393,6 +1393,7 @@ IR5E,M. Pietra Pertusa LU,Tuscany,Italy,,1,145.60000,222519,None,222519,0,,-0.60
 IR5UCM,Elba - Cima di Monte,Tuscany,Italy,,1,431.57500,222520,DMR-plus,222520,0,,5.000,IW5EJM,TS1 TS2
 IR5UE,M. Pietra Pertusa LU,Tuscany,Italy,,1,430.20000,222521,None,222521,0,,1.600,I5KG,
 IR5UO,Montecarlo Lucca,Tuscany,Italy,Master,1,432.67500,222522,BM,222522,1,22251/Toscana,+1.600,I5NOD,TS1 TS2
+IR6UCC,Monte Majella CH,Marche / Abruzzo,Italy,Peer,0,430.21250,222523,HamThings,222523,1,None,1.600,IU6SSZ,Mixed Mode
 IR5UDP,Monte Cascetto,Tuscany,Italy,,1,430.62500,222525,DMR-plus,222525,1,,5.000,IZ5MMN,TS1 TS2
 IR5UCK,Monte Fiore Quarrata  PT,Tuscany,Italy,Master,1,431.48750,222535,BM,222535,1,22251/Toscana,+1.600,I5NOD,TS1 TS2
 IR5UCT,Loc . campi,Tuscany,Italy,,1,430.42500,222539,DMR-plus,222539,1,,5.000,IZ5OQO,TS1 TS2
@@ -3617,6 +3618,7 @@ DB0NG,Marl,Nordrhein-Westfalen,Germany,Peer,1,438.57500,262420,DMR-plus,262420,1
 DB0WE,Essen/Ruhrgebiet,Nordrhein-Westfalen,Germany,,1,439.95000,262421,BM,262421,1,,-9.400,DL8DAV,TS1 TS2
 DB0OTV,Meerbusch,Nordrhein-Westfalen,Germany,,1,439.50000,262422,DMR-plus,262422,1,,-7.600,DB1EPO,TS1 TS2
 DO0UN,Luenen,Nordrhein-Westfalen,Germany,,1,439.90000,262423,DMR-plus,262423,1,,-9.400,DO3DO,TS1 TS2
+DF2MM,Detmold,Nordrhein-Westfalen,Germany,Peer,1,439.92500,262425,DMR-plus,262425,1,,-9.400,DF2MM,TS1 TS2
 DB0WUP,Wuppertal,Nordrhein-Westfalen,Germany,Peer,1,438.33750,262426,BrandMeister,262426,1,,-7.600,DM1SW,TS1 TS2
 DB0DDO,Dortmund,Nordrhein-Westfalen,Germany,,1,145.72500,262429,None,262429,1,,-0.600,DG7DBX,
 DB0AVR,Stolberg/Aachen,,Germany,Peer,1,439.83750,262430,MARC,262430,0,,-9.400,DH6KQ,TS1 TS2
@@ -4290,7 +4292,7 @@ YM1KRM,Tekirdag Merkez,,Turkiye,,1,439.16250,286591,BM,286591,0,,-7.600,TA1UHX,T
 YM5KKE,AKSARAY,Central Anatolia Region,Turkiye,Master,1,439.16250,286681,BM,286681,1,286681<br>2862012<br>9286<br>Time Slot # 1 - Group Call 286681 = Aksaray<br>Time Slot # 1 - Group Call 2862012 = AKRAD<br>Time Slot # 1 - Group Call 9286 = TIF,-7.600,TA5HY,TS1 TS2
 YM2KBD,YALOVA,Marmara Region,Turkiye,Peer,1,439.37500,286771,BM,286771,1,ANARAD YALOVA TG28677,-7.600,TA2JW,Mixed Mode
 T79DMR,San Marino,All Regions,San Marino,Peer,1,430.17500,292001,BM,292001,1,,1.600,T77NM,TS1 TS2
-T79TG,San Marino,All Regions,San Marino,Peer,1,430.48750,292002,292,292002,1,,5.000,T77NM,Mixed Mode
+T79TG,San Marino,All Regions,San Marino,Peer,1,430.48750,292002,BM,292002,1,,5.000,T77NM,Mixed Mode
 S55DMR,Lisca,Posavska,Slovenia,Peer,1,439.07500,293001,BM,293001,1,,-7.600,S56CT,TS1 TS2
 S55DTR,Sv Planina,Zasavska,Slovenia,Peer,1,439.17500,293002,BM,293002,1,,-7.600,S56CT,TS1 TS2
 S55DZV,LJUBLJANA,Osrednjeslovenska,Slovenia,Peer,1,438.55000,293003,BM,293003,1,,-7.600,S57NIX,TS1 TS2
@@ -4650,7 +4652,7 @@ VE6WCD,Whitecourt,Alberta,Canada,Master,7,444.32500,302288,DMR,302288,1,TS1-TG10
 VE2RTO,MT-ORFORD,Quebec,Canada,Peer,1,927.32500,302290,BM,302290,1,,-25.0,VE2NBZ,TS1 TS2
 VE2KMR,Saint-Damien,Quebec,Canada,Peer,1,443.42500,302291,DMRQ,302291,1,,+5.000,VE2JKA,TS1 TS2
 VA2RIH,Anse-au-Griffon,Quebec,Canada,Peer,1,144.51000,302292,BM,302292,0,,+0.600,VE2VMT,Mixed Mode
-VA6ACW,Calgary,Alberta,Canada,Peer,1,444.62500,302293,Brandmeister,302293,1,,+5.000,VE6FSN,TS2
+VA6ACW,Calgary,Alberta,Canada,Peer,1,444.62500,302293,Brandmeister,302293,1,,+5.000,VE6FSN,TS1 TS2
 VE3TUH,Markdale,Ontario,Canada,Master,1,146.71500,302294,DMR,302294,1,,-0.6,VE3TUH,Mixed Mode
 VE7NL,Surrey,British Columbia,Canada,Master,1,430.20000,302295,BM,302295,1,TBD,+9.000,VE7NL,TS1 TS2
 VE2TOJ,900mhz-StUrsule Louiseville,Quebec,Canada,Master,1,927.73750,302296,Multi-Mode DMR=BM / NXDN / P25,302296,1,,-9.950,VE2TOJ,TS1 TS2
@@ -9648,6 +9650,7 @@ NG6K,Saratoga Springs,Utah,United States,Peer,1,927.01250,315195,AmComm,315195,1
 KE2BNX,Wantage,New Jersey,United States,Peer,7,447.82500,315196,Private,315196,1,None,-5.000,KE2BNX,Mixed Mode
 KE2BNX,Wantage,New Jersey,United States,Peer,7,223.46000,315197,Private,315197,1,None,+1.600,KE2BNX,Mixed Mode
 KM4VIQ,Morganton,North Carolina,United States,Peer,1,442.30000,315198,WNC DMR Amateur Radio Group,315198,1,None,5.000,KM4VIQ,TS1
+KC9OHC,Muncie,Indiana,United States,Master,1,443.15000,315201,,315201,1,None,0.500,KC9OHC,Mixed Mode
 NO7RF,Mazama,Washington,United States,Peer,3,145.21000,315301,PNWDigital,315301,1,"Time Slot #1- Group Call 3153 = Washington Statewide 1<br>Time Slot #1- Group Call 3191 = Cascades 1<br><br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: http://www.pnwdigital.net",+2.78,NO7RF,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,0,443.15000,315302,NO7RF,315302,1,Demo/Testing,+5.000,NO7RF,TS1 TS2
 WA7DMR,Couer d Alene,Idaho,United States,Peer,1,440.92500,315303,PNWDigital,315303,1,"Time Slot #1- Group Call 3116 = Idaho Statewide 1<br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: https://pnwdigital.net",+5.000,NO7RF,TS1 TS2
@@ -11326,7 +11329,7 @@ CE2IEN,Vina Del Mar,Valparaiso,Chile,Master,1,145.67500,730038,DMR-MARC,730038,1
 CE4FVS,Rancagua,O'Higgins,Chile,Master,1,433.62500,730039,"BM, FREEDMR",730039,1,"730, 7304, 730911",+5.000,CE4FVS,TS1 TS2
 CA4PGL,morales,O'Higgins,Chile,Master,1,145.70000,730040,BrandMeister,730040,0,,-0.600,CA4PGL,TS1
 CE2GVM,Vina Del Mar,Valparaiso,Chile,Master,1,146.92500,730041,BM,730041,1,,-0.600,CE2GVM,TS1 TS2
-CE6TTL,Ancud,Los Lagos,Chile,Peer,1,145.20000,730042,Brandmeister,730042,1,,-0.600,CE6TTL,TS1 TS2
+CE6TTL,Ancud,Los Lagos,Chile,Peer,1,145.20000,730042,Brandmeister,730042,1,,-0.600,CE7TD,TS1 TS2
 XQ1KN,Antofagasta,Antofagasta,Chile,Peer,1,145.20000,730043,BM,730043,1,,-0.600,XQ1KN,TS1 TS2
 CE1RCD,Caldera,Atacama,Chile,Master,1,147.19000,730044,BM,730044,0,,+0.600,CE1RCD,TS1 TS2
 CE2RGM,Coquimbo,Coquimbo,Chile,Peer,1,146.94000,730045,BM,730045,1,,-0.600,CE2RGM,TS2
