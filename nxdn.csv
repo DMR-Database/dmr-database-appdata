@@ -2040,7 +2040,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2086,HS9NIG,Mareeyae,Saiburi,Pattani,Thailand
 2087,DG7NAO,Heinrich,Neunkirchen,Bayern,Germany
 2088,SV1FTU,Vasilis,LAMIA,Attiki  Sterea Ellada  Dytiki Ellada,Greece
-2089,HP1DBK,Edwin,,Panama,Panama
+2089,HP1DBK,Edwin,Panama,Panama,Panama
 2090,G5ART,Russel,Beausale,England,United Kingdom
 2091,KK4KSX,Bob,Surfside Beach,South Carolina,United States
 2092,G0UZL,Chris,Blandford Forum,England,United Kingdom
@@ -6473,7 +6473,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 6610,EA7JSJ,Cesar,Las Gabias,Granada,Spain
 6611,KC2NJV,Wayne,Bellmore,New York,United States
 6612,YU7NNM,Varga,Senta,All Regions,Serbia
-6613,K2PZ,Manfred,Sunnyvale,California,United States
 6614,EA7JDR,JUAN CARLOS,,,Spain
 6615,VE3HQR,Brian,Campbellford,Ontario,Canada
 6616,VK2JY,Terence I,,New South Wales,Australia
@@ -7509,13 +7508,14 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7665,VK3VC,Phill,West Wodonga,Victoria,Australia
 7666,K9FEH,Chester,Melrose Park,Illinois,United States
 7667,IK2ECR,Mario,Nova Milanese,,Italy
-7668,E25LY,Digital Voice,Mueang Pattani,Pattani,Thailand
+7668,E25LY,Gateway,Mueang Pattani,Pattani,Thailand
 7669,VE2BYW,Jean-Robert,Trois-Rivières,Quebec,Canada
 7670,K2LRX,Laura,Toms River,New Jersey,United States
 7671,SP6QKY,Robert,Jelenia Gora,dolnośląskie,Poland
 7672,KY4TRK,James,Tulare,California,United States
 7673,W4VOL,Terry,Lexington,Tennessee,United States
 7674,BM5GSS,Rui-Cheng,Nantou City,Central Taiwan,Taiwan
+7675,CX6AM,Mauro,Uruguay,Montevideo,Uruguay
 7676,DS1TSY,Hyunggeun,GURO-GU,Seoul,Korea Republic of
 7677,SY1DUP,Georges,ATHENS,Attiki  Sterea Ellada  Dytiki Ellada,Greece
 7678,M6GYZ,Dave,Wellington,England,United Kingdom
@@ -11765,7 +11765,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 11992,M7IOQ,Travis,Birmingham,England,United Kingdom
 11993,KD2SZT,AndrewMeyer,Marion,New York,United States
 11994,K7CTM,Thomas,Reed Point,Montana,United States
-11995,KD3CLB,Aaron,Evans City,Pennsylvania,United States
+11995,W3AAR,Aaron,Evans City,Pennsylvania,United States
 11996,M9TAM,Trevor,Windsor,England,United Kingdom
 11997,K6JSV,Jesse,San Antonio,Texas,United States
 11998,M9PMC,Philip,Bangor,Northern Ireland,United Kingdom
@@ -15122,7 +15122,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 15399,K1EKU,Tonycole,Lexington,Kentucky,United States
 15400,TA1UK,Umur,Istanbul,Marmara Region,Turkiye
 15401,N5YSQ,Billy,Paris,Texas,United States
-15402,K3CIA,Denver,Jacksonville,North Carolina,United States
 15403,TB2MAX,Lokman,Ankara,Central Anatolia Region,Turkiye
 15404,F4CLS,Olivier,La Ciotat,Provence-Alpes-Cote d Azur,France
 15405,SP9TCF,Remigiusz,Katowice,śląskie,Poland
@@ -15346,7 +15345,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 15636,TA2DGB,Efe,Ankara,Central Anatolia Region,Turkiye
 15637,EA7LRV,Josefo,Cordoba,Cordoba,Spain
 15638,EA4GOD,RICARDO,San Martin Dela Vega,Madrid,Spain
-15639,DN9STB,Stephan,Sulzbach,Hessen,Germany
+15639,DO9STB,Stephan,Sulzbach,Hessen,Germany
 15640,KR4IIO,Jonathan,Whiteville,North Carolina,United States
 15641,G0KAD,Mike,Crawley,England,United Kingdom
 15642,PU7MAZ,Faustino,Fortaleza,Ceara,Brazil
@@ -15358,7 +15357,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 15648,EA3IYO,Alberto,Terrassa,Barcelona,Spain
 15649,EA4GWA,Javier,Leganes,Madrid,Spain
 15651,EB2DPT,Jose,Erandio,Vizcaya,Spain
-15652,S21LEJ,Sufian,Dhaka,All Regions,Bangladesh
 15653,KR4IFP,Michael,Sebring,Florida,United States
 15654,KJ5MEL,Jose,Austin,Texas,United States
 15655,EB4FGE,Alejandro,Fuenlabrada,Madrid,Spain
@@ -16195,7 +16193,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 16496,M7HKT,Mark,Chorley,England,United Kingdom
 16497,KR4PAY,John,Pineville,North Carolina,United States
 16498,N1ULS,Josh,Rumford,Maine,United States
-16499,NA4GF,Bobby,Thomasville,North Carolina,United States
+16499,KR4RC,Bobby,Thomasville,North Carolina,United States
 16500,M7KSZ,Robert,HUDDERSFIELD,England,United Kingdom
 16501,WS7EMA,Shane,North Las Vegas,Nevada,United States
 16502,KR4DDF,Stephen,Fort Myers,Florida,United States
@@ -16571,8 +16569,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 16873,KD4CHT,Alan,Princeton,North Carolina,United States
 16874,VA4MM,Mike,Winnipeg,Manitoba,Canada
 16875,VE3PNO,Mike,Ottawa,Ontario,Canada
-16876,EB7ESY,Juan,Malaga,Malaga,Spain
-16877,EA7KBW,Juan,Malaga,Malaga,Spain
+16876,EB7ESY,Juan,Spain,Malaga,Spain
+16877,EA7KBW,Juan,Spain,Malaga,Spain
 16878,KI6ZUM,Jim,San Diego,California,United States
 16879,DL7ZO,Torsten,Heilbronn,Baden-Wuerttemberg,Germany
 16880,KE9EDF,Emdon,Lewistown,Illinois,United States
@@ -16667,6 +16665,22 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 16969,AF4AI,Jim,Hornbeak,Tennessee,United States
 16970,DN9OKA,Oliver,Dortmund,Nordrhein-Westfalen,Germany
 16971,VE2KRN,Rene,Rouyn-Noranda,Quebec,Canada
+16972,E25XTV,Wanzianub,Mueang Pattani,Pattani,Thailand
+16973,PD0GTO,Dennis,Rotterdam,Zuid-Holland,Netherlands
+16974,SP1SNR,Arkadiusz,Szczecin,zachodniopomorskie,Poland
+16975,DN9LKX,Luca,Dortmund,Nordrhein-Westfalen,Germany
+16976,KF0ZZA,Robert,Severance,Colorado,United States
+16977,OK4MJ,Mrak,Stary Plzenec,Pilsen Region,Czech Republic
+16978,IQ4JHE,Associazione Radioamatori Marinai Italiani Distretto di Modena,Carpi,Emilia-Romagna,Italy
+16979,EA2FHT,Asier,Trapagaran,Vizcaya,Spain
+16980,KJ5SDC,Tristan,Booneville,Arkansas,United States
+16981,MW7NEF,Stephen,Holywell,Wales,United Kingdom
+16982,KF4ZPI,John,San Angelo,Texas,United States
+16983,IU4RWN,Andrea,Carpi,Emilia-Romagna,Italy
+16984,K9KJB,Kevin,Eugene,Oregon,United States
+16985,PD2LEN,Lennaert,Huissen,Gelderland,Netherlands
+16986,TA3JS,Mehmet,Izmir,Aegean Region,Turkiye
+16987,9W2HZZ,Hafizuddin,Tumpat,West Malaysia,Malaysia
 17002,KC9GMX,Steven R,Geff,Illinois,United States
 17003,G8FHU,G8FHU,,,United Kingdom
 17004,KC9GMX,Steven R,Geff,Illinois,United States
@@ -16941,7 +16955,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 22009,DL1FLW,Lawrence,Leipzig,Sachsen  Thueringen,Germany
 22027,CS7ACD,Paulo,Gouveia,Regiao Centro,Portugal
 22028,CT5YWF,Graca,Gouveia,Regiao Centro,Portugal
-22039,AF5XP,Christopher W,Sulphur,Louisiana,United States
+22039,AF5XP,Christopher,Sulphur,Louisiana,United States
 22040,BH6AOV,Gong,Chuzhou,Henan Hubei Anhui,China
 22041,SQ8ESQ,Jakub,Bilgoraj,,Poland
 22052,K5LPD,Oren,Carencro,Louisiana,United States
