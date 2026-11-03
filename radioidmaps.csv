@@ -2,7 +2,6 @@ callsign,city,state,country,assigned,color_code,frequency,ipsc_network,lat,lng,l
 WB6ECE,Bonny Doon,California,United States,Peer,2,440.58750,Brandmeister,0.0,0.0,110601,,+5.000,ACTIVE,KA6SQG,TS1 TS2
 WB6YES,Carlsbad,California,United States,Master,3,447.30000,BrandMeister,33.090927,-117.219910,110602,,-5.000,ACTIVE,AA4CD,TS1 TS2
 WB6PQM,Walnut Creek,California,United States,Peer,1,444.15000,Brandmeister,38.003868,-122.025497,110603,,+5.000,ACTIVE,WB6PQM,TS1 TS2
-KF6GOI,Thousand Oaks,California,United States,Master,1,445.56000,West Brandmeister,34.1705609,-118.8375937,110604,,-5.000,ACTIVE,KF6GOI,TS1 TS2
 K6UHF,Wrightwood,California,United States,Peer,7,449.74000,BrandMeister,34.351742,-117.676888,110605,,-5.000,ACTIVE,K6UHF,TS1 TS2
 KA7QQV,Alameda,California,United States,Peer,1,443.50000,brandmeister,37.7652065,-122.2416355,110607,,+5.000,ACTIVE,KA7QQV,TS1 TS2
 WX6D,Place Holder,California,United States,Peer,1,443.43750,Mountain West DMR,37.9100783,-122.0651819,110609,,+5.000,ACTIVE,KE6YJC,TS1 TS2
@@ -255,7 +254,7 @@ PI1KAN,Nijmegen Noord,Gelderland,Netherlands,,1,430.92500,None,51.8727805,5.8575
 PI1TTA,Arnhem,Gelderland,Netherlands,,1,438.21250,None,51.984257,5.9108573,204605,,-7.000,ACTIVE,PE2CVF,
 PD0JAC,Arnhem,Gelderland,Netherlands,,1,430.06250,N/A,51.984257,5.9108573,204612,,7.600,ACTIVE,PD0JAC,
 PI2NMG,Nijmegen,Gelderland,Netherlands,,2,438.31250,BM,51.830471,5.863725,204640,,-7.600,ACTIVE,PA3HDR,TS1 TS2
-PI1GRB,Groesbeek,Gelderland,Netherlands,,2,145.71250,BM,51.794010,5.900293,204660,,-0.600,ACTIVE,PE2GER,TS1 TS2
+PI1GRB,Groesbeek,Gelderland,Netherlands,Peer,2,145.71250,BM,51.794010,5.900293,204660,,-0.600,ACTIVE,PE2GER,TS1 TS2
 PI1GRB,Groesbeek,Gelderland,Netherlands,Peer,2,438.41250,BM,51.7741022,5.9305385,204661,,-7.600,ACTIVE,PE2GER,TS1 TS2
 PI1GRB,Groesbeek,Gelderland,Netherlands,Peer,2,430.16250,BM,51.830471,5.863725,204662,,+1.600,ACTIVE,PE2GER,TS1 TS2
 PI1GRL,Groenlo,Gelderland,Netherlands,,1,438.32500,BM,52.0425903,6.6170412,204666,,-7.600,ACTIVE,PC2KY,TS1 TS2
@@ -2063,7 +2062,6 @@ MB5LA,Lancaster,England,United Kingdom,Master,1,439.52500,BM,54.031843450635826,
 GB3VE,Cumbria  United Kingdom,England,United Kingdom,Master,1,433.10000,TGIF,54.4048,-2.2743,234203,,+1.6,ACTIVE,G0IYQ,TS1 TS2
 GB7XF,Manchester,England,United Kingdom,Master,10,439.25000,BM,53.511857,-2.078977,234204,,+9.000,ACTIVE,M0NCZ,TS1 TS2
 MB6DL,Dalgety Bay,Scotland,United Kingdom,Master,1,431.06250,BM,,,234205,,+0.000,ACTIVE,MM7IIL,TS1 TS2
-GB7MI,Mirfield,England,United Kingdom,Peer,2,439.43750,"BM, YorkshireDMR",53.681141,-1.703800,234206,TS1 is normally conmnected to The Yorkshire Net TG23450 and TS2 is connected to the Brandmaister network.,-9.000,ACTIVE,M0OGR,TS1 TS2
 MB5MT,Beaconsfield,England,United Kingdom,Master,3,439.47500,BM,50,-3,234207,,-9.000,ACTIVE,G7DPE,TS1 TS2
 GB7BV,Andover,England,United Kingdom,Peer,9,433.13750,BM,51.25,-1.4,234208,,+5.000,ACTIVE,2E0ISI,TS1 TS2
 GB7SY,Northampton,England,United Kingdom,Peer,6,145.58750,BM,52.226255,-0.924953,234209,TG9 TS1 - Local<br>TS2 - Free Choice,-0.600,ACTIVE,M0LHI,TS1 TS2
@@ -2599,7 +2597,7 @@ LD9MS,Spansdalen,Troms,Norway,Master,1,434.63750,BM,68.721389,17.851111,242015,2
 LA7GRR,Vaga,Innlandet,Norway,Master,5,434.80000,BM,61.897565331869004,9.284453081427927,242016,,-2.000,ACTIVE,LB4GH,TS1 TS2
 LD3TD,Tonsberg,Vestfold,Norway,Peer,1,434.56250,BM,0.0,0.0,242017,,-2.000,ACTIVE,LB3GE,Mixed Mode
 LD7TD,Trondheim,Troendelag,Norway,Master,1,434.70000,BM,63.262229,10.356088,242018,,-2.000,ACTIVE,LB0VG,TS1 TS2
-LD9AH,Soervaer,Finnmark,Norway,Master,1,145.73750,BM,0.0,0.0,242019,Altagruppen hybrid repeater,-0.600,ACTIVE,LA5A,TS1 TS2
+LD9AH,Soervaer,Finnmark,Norway,Master,1,145.73750,BM,70.6553400,21.9646118,242019,Altagruppen hybrid repeater,-0.600,ACTIVE,LA5A,TS1 TS2
 LD8VR,Sortland,Nordland,Norway,Master,1,434.67500,BM,0.0,0.0,242020,,-2.000,ACTIVE,LB9BI,TS1 TS2
 LD4RD,4130 HJELMELAND,Rogaland,Norway,Master,1,145.60000,BM,59.265970,6.078314,242021,,-0.600,ACTIVE,LA5L,TS1 TS2
 LB2RJ,Flekkefjord,Agder,Norway,Peer,1,434.62500,BM,58.301,6.640,242022,!!! TEST PHASE ONGOING !!!,-2.000,ACTIVE,LB2RJ,TS2
@@ -2607,7 +2605,7 @@ LA6PR,Bodo,Nordland,Norway,Peer,1,434.67500,"BM,DMR",67.3074543,14.4565932,24202
 LD2HT,Romsaas - OSLO N/E,Oslo,Norway,,1,434.10000,None,59.968472,10.892733,242055,,0.000,ACTIVE,LA6UMA,
 LA1KRR,Brum,Innlandet,Norway,,1,434.92500,BM,59.918880,10.515982,242101,,-2.000,ACTIVE,LA8GKA,TS1 TS2
 LA5YR,Enebakk,Innlandet,Norway,,1,434.90000,BM,59.780262,11.003797,242102,,-2.000,ACTIVE,LA4YNA,TS1 TS2
-LA2YRR,Stangaasen,Innlandet,Norway,,1,434.75000,BM,59.780815,10.795479,242103,,-2.000,ACTIVE,LA9WKA,TS1 TS2
+LA2YRR,Stangaasen,Innlandet,Norway,Peer,1,434.75000,BM,59.780815,10.795479,242103,,-2.000,ACTIVE,LA9WKA,TS1 TS2
 LD2EM,Hurdal,Innlandet,Norway,,10,145.57500,None,,,242104,,-0.600,ACTIVE,LA9GTA,
 LA8ER,Mistberget,Innlandet,Norway,,1,434.87500,BM,60.376522,11.158790,242105,,-2.000,ACTIVE,LA9GTA,TS1 TS2
 LA1KRR,Baerum,Innlandet,Norway,,8,434.93750,BM,,,242111,,-2.000,ACTIVE,LA8GKA,TS1 TS2
@@ -2652,8 +2650,8 @@ LA7SR,Sandefjord,Vestfold,Norway,Peer,1,434.80000,BM,0.0,0.0,242804,,-2.000,ACTI
 LD1SG,Sarpsborg GrNlum,Ostfold,Norway,Peer,1,434.81250,BM,59.286690,11.061528,242808,,-2.000,ACTIVE,LB3UI,TS1 TS2
 LD8MV,Mosjoen-Vardefjell,Nordland,Norway,Peer,1,434.82500,BM,65.878700,13.304600,242902,Location Vardefjell east of Mosjøen<br>Hytera RD625 and Sinclair Q3220E duplexer into 2 vertically stacked dipoles.<br>Accepts local chat on TG 242902 TS2,-2.000,ACTIVE,LA9KY,TS1 TS2
 LD8SA,Sandnessjoen,Nordland,Norway,Peer,1,434.80000,BM,66.006241,12.618011,242903,"Static TG`s 242, 2429 on TS1<br>Please use 242903 on TS2 for local traffic",-2.000,ACTIVE,LA5LIA,TS1 TS2
-LD8MR,RanaMo DV-rptr,,Norway,,1,434.85000,Motorola,66.316101,14.147500,242904,,-2.000,ACTIVE,LA1PHA,
-LD8NN,KvassnesNESNA,,Norway,,1,433.27500,BrandMeister,66.212502,13.053500,242905,,0.000,ACTIVE,LA1PHA,
+LD8MR,Mo i Rana,Nordland,Norway,Peer,1,434.85000,Motorola,66.316101,14.147500,242904,,-2.000,ACTIVE,LA1PHA,TS1 TS2
+LD8NN,Nesna,Nordland,Norway,Peer,1,433.27500,BrandMeister,66.212502,13.053500,242905,,0.000,ACTIVE,LA1PHA,TS2
 LD8BS,Bronnoysund,Nordland,Norway,Peer,1,434.97500,BM,65.496941,12.245410,242906,"Static TG`s 242, 2429 on TS1<br>Please use 242906 on TS2 for local traffic",-2.000,ACTIVE,LA5LIA,TS1 TS2
 LA6M,Bardufoss,Troms,Norway,Master,1,434.65000,BM,69.065637,18.5159237,242907,,-2.000,ACTIVE,LA2MLA,TS1 TS2
 LD8LK,Leknes,Nordland,Norway,Master,1,433.63750,BM,68.1455430,13.6281700,242908,,+0.000,ACTIVE,LA7DHA,TS1
@@ -3293,7 +3291,7 @@ DB0YCF,Furth Im Wald,Bayern,Germany,Master,2,439.50000,BM,49.308165,12.8452877,2
 DB0MMR,Halsbach,Bayern,Germany,Master,8,145.57500,BM,48.139303,12.668623,262059,,-0.600,ACTIVE,DD7MH,TS1 TS2
 DM0SVX,Halle,Sachsen-Anhalt / Mecklenburg-Vorpommen,Germany,Peer,1,430.37500,freeDMR,51.5165059,11.953159451382785,262060,,+7.600,ACTIVE,DL1HRC,TS2
 DM0IZH,Itzehoe,Hamburg / Schleswig-Holstein,Germany,Master,1,439.87500,BM,53.924133,9.501290,262061,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.4,ACTIVE,DJ3LE,TS1 TS2
-DB0VIP,15838 Am Mellensee,Berlin / Brandenburg,Germany,Master,1,439.35000,BM,52.18434500,13.42293100,262062,,-7.6000,ACTIVE,DD6WG,TS1 TS2
+DB0VIP,Am Mellensee,Berlin / Brandenburg,Germany,Master,1,439.35000,BM,52.18434500,13.42293100,262062,,-7.6000,ACTIVE,DD6WG,TS1 TS2
 DM0BT,Bayreuth,Bayern,Germany,Master,1,439.87500,BM,49.94939043381865,11.562058971499855,262063,",",-9.4,ACTIVE,DB9CR,TS1 TS2
 DB0WMS,Schöppingen,Nordrhein-Westfalen,Germany,Peer,0,430.35000,BM,52.10754343875677,7.255324182678229,262064,Tetra <> BM TG 26242<br><br>Frequenz : 430.350 MHz<br><br>Mode 1a (Simplex)<br><br>MCC : 901 (Weltweit)<br><br>MNC :16383 (unspezifiziert)<br><br>GSSI : 1 (ausschließlich),+0.0000,ACTIVE,DJ3AM,Mixed Mode
 DM0UHF,Erkelenz,Nordrhein-Westfalen,Germany,Master,1,439.33750,ipsc2,51.080992,6.3160684,262065,"zweite DM0UHF  DMR Fequenz  439,2375 Mhz   IPSC 2 NETZ   ZS1 TG 282       ZS2 TG: Rheinland",-7.600,ACTIVE,DG2KCB,TS1 TS2
@@ -3389,7 +3387,7 @@ DM0SC,Schwabach,Bayern,Germany,Peer,1,438.96250,BM,49.13447,11.05168,262163,,-7.
 DB0MOT,Kleiner Feldberg,Hessen,Germany,Peer,0,438.27500,BM,50.221840,8.446440,262164,TETRA,-7.600,ACTIVE,DF6RK,TS1 TS2
 DB0MW,Moerfelden-Walldorf,Hessen,Germany,Peer,1,439.80000,BM,49.9689,8.57,262165,TG 26269 TS2,-9.400,ACTIVE,"DG3FBL, DL1XM",TS1 TS2
 DB0NDR,Hamburg,Hamburg / Schleswig-Holstein,Germany,Master,1,439.22500,BM,53.57607,09.99003,262166,,-7.6,ACTIVE,"DD3XK, DL9DAK",TS1 TS2
-DB0BLX,10117 Berlin,Berlin / Brandenburg,Germany,Master,1,439.31250,BM,52.5103945,13.3938060,262167,,-7.600,ACTIVE,DD6WG,TS1 TS2
+DB0BLX,Berlin,Berlin / Brandenburg,Germany,Master,1,439.31250,BM,52.5103945,13.3938060,262167,,-7.600,ACTIVE,DD6WG,TS1 TS2
 DB0CP,Wolfsberg,Bayern,Germany,Master,1,439.02500,BM,48.54323,11.43126,262168,,-7.600,ACTIVE,DK7MI,TS1 TS2
 DB0VL,Thuine Lingen,Niedersachsen / Bremen,Germany,Peer,1,439.55000,BM,52.51853,7.50511,262169,,-7.600,ACTIVE,DJ2QW,TS1 TS2
 DB0BAR,Baruth,Berlin / Brandenburg,Germany,Peer,1,439.50000,Ipsc,52.0462945,13.5019022,262170,,-7.600,ACTIVE,DG2RON,TS1
@@ -3460,7 +3458,7 @@ DB0HPA,Laegerdorf,,Germany,Peer,1,439.51250,DMR-plus,53.8873062,9.5797245,262240
 DB0DND,Oberhausen,Bayern,Germany,Peer,1,438.86250,BM,48.726137,11.148252,262241,,-7.6,ACTIVE,DL2UKH,TS1 TS2
 DB0DAN,Zernien,Niedersachsen / Bremen,Germany,Peer,1,438.65000,BM,53.0656160,10.8972860,262242,None,-7.600,ACTIVE,"DL6YEA, DA1XX",TS1 TS2
 DB0PEG,Pegnitz,Bayern,Germany,Master,1,438.93750,Brandmeister,49.7580310,11.5327670,262243,None,7.600,ACTIVE,"DK7AM, DO2SK, DB9CR",TS1 TS2
-DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,439.92500,BM,54.562000,9.375000,262244,TG8 - Cluster AFu-Nord <br>External TG 26225,-9.400,ACTIVE,DJ3LE,TS1 TS2
+DB0AFU,Silberstedt,Hamburg / Schleswig-Holstein,Germany,Master,1,439.92500,BM,54.562000,9.375000,262244,TG8 - Cluster AFu-Nord<br>External TG 26225,-9.400,ACTIVE,DJ3LE,TS1 TS2
 DO0ELM,Destedt,Niedersachsen / Bremen,Germany,Master,1,439.15000,Brandmeister,52.2351731,10.7067038,262245,2623 TS1<br>26538 (8) TS2,-7.600,ACTIVE,DO2ARD,Mixed Mode
 DB0FT,ai-project,Hessen,Germany,Master,1,438.57500,BM,50.2322000,8.4572000,262246,None,-7.600,ACTIVE,"DL1XM, DG3FBL",TS2
 DB0HHO,Grosshansdorf,,Germany,,1,439.52500,DMR-plus,53.648010,10.275660,262250,,-7.600,ACTIVE,DL5KUA,TS1 TS2
@@ -3765,7 +3763,7 @@ DM0ZF,Lauf,Baden-Wuerttemberg,Germany,Peer,0,144.82500,P25,48.643688,8.132190,26
 DB0VS,Moenchweiler,Baden-Wuerttemberg,Germany,Peer,1,438.30000,BM,48.100491,8.415000,262709,,-7.600,ACTIVE,DL1GFM,TS1 TS2
 DB0COM,HAM RADIO,Baden-Wuerttemberg,Germany,Peer,1,439.97500,BM,47.677171,9.507806,262710,,-9.400,ACTIVE,DL1YBL,TS1 TS2
 DB0RV,Ravensburg,Baden-Wuerttemberg,Germany,,1,439.41250,BM,47.810379,9.588956,262711,,-7.600,ACTIVE,DC6MS,TS1 TS2
-DB0RB,Bruchsal,Baden-Wuerttemberg,Germany,Peer,1,439.81250,BM,49.101429,8.588561,262712,,-9.400,ACTIVE,"DH2MD, DL9UL",TS1 TS2
+DB0RB,Bruchsal,Baden-Wuerttemberg,Germany,Peer,1,439.81250,BM,49.1064499,8.6130197,262712,,-9.400,ACTIVE,"DH2MD, DK1SI, DL9UL",TS1 TS2
 DB0ARH,Herrenberg AlterRain,Baden-Wuerttemberg,Germany,,1,439.85000,BM,48.604992,8.894193,262713,,-9.400,ACTIVE,DL8SCU,TS1 TS2
 DB0STB,Stocksberg,Baden-Wuerttemberg,Germany,,1,439.52500,DMR-plus,49.0694664,9.407515,262714,,7.600,ACTIVE,DC7TU,TS1 TS2
 DB0WTL,Loewenstein,Baden-Wuerttemberg,Germany,Master,1,439.21250,BM,49.090199,9.406736,262715,,-7.600,ACTIVE,"DC7TU, DL9SK",TS1 TS2
@@ -6880,7 +6878,7 @@ KH7MS,Holualoa,Hawaii,United States,Peer,1,444.40000,BrandMeister,19.639990,-155
 N8PC,Findlay,Ohio,United States,Master,1,442.87500,TGIF,41.021922,-83.643644,312200,Time Slot #1 - Group Call 31465 = N8PC Repeater<br>Time Slot #2 - Group Call 31465<br>,+5.000,ACTIVE,N8PC,TS1 TS2
 WA5LRC,Westlake,Louisiana,United States,Peer,10,444.97500,CBridge 2.0,30.242355,-93.250769,312201,TS2 3122 LA State (All the time on)<br>TS2 1000 Local<br><br>TS1 3148 TX State (All the time on)<br>TS1 91  World Wide (PTT)<br>TS1 310 TAC 310  (PTT)<br>TS1 3100 USA Nation Wide  (PTT)<br>TS1 3174 Southeast  (PTT)<br>TS1 98006 AMSAT   (PTT)<br>,+5.000,ACTIVE,WA5LRC,TS1 TS2
 KD5JFE,Lockport,Louisiana,United States,None,1,443.32500,Brandmeister,29.641411,-90.529930,312202,,+5.000,ACTIVE,KD5JFE,Mixed Mode
-W5SLA,LaCombe,Louisiana,United States,Peer,1,444.10000,Brandmeister,30.311317,-89.913654,312203,,+5.000,ACTIVE,W5SLA,Mixed Mode
+W5SLA,LaCombe,Louisiana,United States,Peer,1,444.10000,Brandmeister,30.311317,-89.913654,312203,,+5.000,ACTIVE,"W5SLA, K5OZ",Mixed Mode
 N5UXT,New Orleans,Louisiana,United States,Master,5,444.22500,Brandmister,29.951050,-90.071533,312204,,+5.000,ACTIVE,N5UXT,TS1 TS2
 KD5KNZ,COVINGTON,Louisiana,United States,Master,9,442.50000,BrandMeister,30.533,-90.222,312205,,+5.000,ACTIVE,KD5KNZ,TS1 TS2
 K5LPD,Carencro,Louisiana,United States,Master,1,144.98000,Brandmeister,30.244400,-92.107101,312206,,+2.5000,ACTIVE,K5LPD,TS1 TS2
@@ -8788,7 +8786,7 @@ W3SC,Pottsville,Pennsylvania,United States,Peer,1,444.39375,Interstate-2,40.6850
 W3TWA,Barnesville,Pennsylvania,United States,Master,5,146.89500,Brandmeister,40.799069,-76.069354,314267,Connected to Allstar Node 53297 and linked to 146.8950 repeater in Delano PA,-0.6,ACTIVE,W3TWA,TS1 TS2
 KB3TEM,Pittston,Pennsylvania,United States,Master,1,446.50000,QuadNet,41.295422,-75.823441,314268,TG 9 slot 1 Local Repeater<br>TG 320 Slot 1 is QuadNet Array<br>TG 321 Slot 1 is QuadNet Tech Chat<br>TG 322 Slot 1 is West Michigan-Connect Bridged to Fusion II Network<br>TG 323 slot 1 is South East-Link By LMARC MultiMode Connect<br><br>Local Reflector is 4541 Slot 2<br><br><br>KB3TEM Repeater is Own and Operated by the Northeast PA Digital Amateur Association<br><br>446.500 Mhz Repeater output<br>-5.0 Mhz Split<br>441.500 Mhz Repeater Input<br>Color Code 1<br><br>,-5.000,ACTIVE,W3XPT,TS1 TS2
 KB3WLV,Reading,Pennsylvania,United States,Master,1,442.30000,DMR,40.335345,-75.9279495,314269,saludos a todos 73 de juan el de reading,-5.000,ACTIVE,KB3WLV,TS1 TS2
-N3YFO,Johnstown,Pennsylvania,United States,None,1,442.82500,Brandmeister,40.282368,-78.840492,314270,,+5.000,ACTIVE,N3YFO,TS1 TS2
+N3YFO,Johnstown,Pennsylvania,United States,Peer,1,442.82500,Brandmeister,40.282368,-78.840492,314270,,+5.000,ACTIVE,N3YFO,TS1 TS2
 KC2LHJ,Allentown,Pennsylvania,United States,None,1,441.40000,DMR,40.591358,-75.438560,314271,,+5.000,ACTIVE,KC2LHJ,TS1 TS2
 N3RPV,Bethlehem,Pennsylvania,United States,Peer,1,145.23000,DCI,40.626111,-75.375556,314272,,-0.600,ACTIVE,N3RPV,TS1 TS2
 KG3I,Blakeslee,Pennsylvania,United States,Master,0,447.27500,DMR-MARC,41.092586,-75.5926886,314273,,-5.000,ACTIVE,KG3I,Mixed Mode
