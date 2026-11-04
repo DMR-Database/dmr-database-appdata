@@ -1391,6 +1391,7 @@ IR5UCM,Elba - Cima di Monte,Tuscany,Italy,,1,431.57500,222520,DMR-plus,222520,0,
 IR5UE,M. Pietra Pertusa LU,Tuscany,Italy,,1,430.20000,222521,None,222521,0,,1.600,I5KG,
 IR5UO,Montecarlo Lucca,Tuscany,Italy,Master,1,432.67500,222522,BM,222522,1,22251/Toscana,+1.600,I5NOD,TS1 TS2
 IR6UCC,Monte Majella CH,Marche / Abruzzo,Italy,Peer,0,430.21250,222523,HamThings,222523,1,None,1.600,IU6SSZ,Mixed Mode
+IK2UIZ,Olgiate Olona,Lombardy,Italy,Peer,2,430.23750,222524,BM2222,222524,1,None,1.600,IK2UIZ,TS1 TS2
 IR5UDP,Monte Cascetto,Tuscany,Italy,,1,430.62500,222525,DMR-plus,222525,1,,5.000,IZ5MMN,TS1 TS2
 IR5UCK,Monte Fiore Quarrata  PT,Tuscany,Italy,Master,1,431.48750,222535,BM,222535,1,22251/Toscana,+1.600,I5NOD,TS1 TS2
 IR5UCT,Loc . campi,Tuscany,Italy,,1,430.42500,222539,DMR-plus,222539,1,,5.000,IZ5OQO,TS1 TS2
@@ -3018,7 +3019,6 @@ SR6WF,Mrozow,dolnolskie,Poland,Master,1,438.40000,260014,BM,260014,1,,-7.600,SQ6
 SR8LSD,Swidnik,lubelskie,Poland,Master,1,430.02500,260015,"TetraPack, BM",260015,1,,+1.6,SP8MB,Mixed Mode
 SR5O,Ostroleka,mazowieckie,Poland,Master,5,145.67500,260016,"BM, DMR-plus, YSF",260016,1,,-0.600,SP5NAF,TS1 TS2
 SR2PA,Paslek,warmisko-mazurskie,Poland,Master,2,439.30000,260017,BM,260017,1,,-7.600,SP2PA,TS1 TS2
-SR4UG,Giby,podlaskie,Poland,Master,4,438.77500,260018,DMR-plus,260018,1,,-7.600,SP4XKB,TS1 TS2
 SR4OS,Ostrda,warmisko-mazurskie,Poland,Master,4,438.40000,260019,BM,260019,1,,-7.600,SP4I,TS1 TS2
 SR4DM,Podlena,warmisko-mazurskie,Poland,Master,4,438.30000,260020,BM,260020,1,,-7.600,SP4I,TS1 TS2
 SR9GR,Gorlice,maopolskie,Poland,Master,1,438.53750,260022,Brandmeister,260022,1,TG260999,-7.600,SP9KGR,TS1 TS2
@@ -3388,7 +3388,6 @@ DB0MOT,Kleiner Feldberg,Hessen,Germany,Peer,0,438.27500,262164,BM,262164,1,TETRA
 DB0MW,Moerfelden-Walldorf,Hessen,Germany,Peer,1,439.80000,262165,BM,262165,1,TG 26269 TS2,-9.400,"DG3FBL, DL1XM",TS1 TS2
 DB0NDR,Hamburg,Hamburg / Schleswig-Holstein,Germany,Master,1,439.22500,262166,BM,262166,1,,-7.6,"DD3XK, DL9DAK",TS1 TS2
 DB0BLX,Berlin,Berlin / Brandenburg,Germany,Master,1,439.31250,262167,BM,262167,1,,-7.600,DD6WG,TS1 TS2
-DB0CP,Wolfsberg,Bayern,Germany,Master,1,439.02500,262168,BM,262168,1,,-7.600,DK7MI,TS1 TS2
 DB0VL,Thuine Lingen,Niedersachsen / Bremen,Germany,Peer,1,439.55000,262169,BM,262169,1,,-7.600,DJ2QW,TS1 TS2
 DB0BAR,Baruth,Berlin / Brandenburg,Germany,Peer,1,439.50000,262170,Ipsc,262170,1,,-7.600,DG2RON,TS1
 DB0VC,Bungsberg,Hamburg / Schleswig-Holstein,Germany,Master,1,438.38750,262171,BM,262171,1,,-7.6,DJ3LE,TS1 TS2
@@ -4196,7 +4195,7 @@ YM3KBO,Bursa,Marmara Region,Turkiye,Master,1,145.73750,286014,BM,286014,1,286201
 YM2KKB,Karabuk,Black Sea Region,Turkiye,Master,1,439.17500,286015,BM,286015,1,286015 and 2862012 is static TG in our repeater,-7.600,TA2AFQ,TS1 TS2
 YM2KB,Bolu,Black Sea Region,Turkiye,Master,1,439.40000,286016,BM,286016,1,,-7.60,TA2AEC,Mixed Mode
 YM5KDA,Hatay,,Turkiye,Master,1,439.37500,286017,BM,286017,1,,-7.600,TA5LA,Mixed Mode
-YM2KKO,Kocaeli,,Turkiye,Master,1,439.16250,286018,BM,286018,1,Time Slot 1  : 286018   AKRAD Kocaeli <br>Time Slot 1  : 2862012 AKRAD Genel,-7.600,TA2UVT,TS1 TS2
+YM2KKO,Kocaeli,Marmara Region,Turkiye,Master,1,439.16250,286018,BM,286018,1,Time Slot 1  : 286018   AKRAD Kocaeli<br>Time Slot 1  : 2862012 AKRAD Genel,-7.600,TA2UVT,TS1 TS2
 YM6VSM,SAMSUN,Black Sea Region,Turkiye,Peer,1,145.78750,286019,Brandmeister,286019,1,SAMRAD VHF VEZRKPR 145.7875,-0.600,"TA6UNT, YM6VSM",TS2
 YM3KMA,Manisa,Aegean Region,Turkiye,Peer,1,439.17500,286020,BM,286020,1,Time Slot #2 - Group Call 28645 = Manisa<br>Time Slot #2 - Group Call 28635 = zmir<br>Time Slot #2 - Group Call 286 = Trkiye,-7.600,TA3F,TS2
 YM3KC,Izmir,Aegean Region,Turkiye,Peer,1,439.22500,286021,BM,286021,1,TG 28635 IZMIR,-7.600,TA3TX,TS1 TS2
@@ -7137,7 +7136,6 @@ KM8CC,Oshtemo,Michigan,United States,Peer,1,444.57500,312479,BrandMeister,312479
 NE7WY,Gillette,Wyoming,United States,Peer,11,448.75000,312481,brandmeister,312481,1,,-5.0,NE7WY,TS1 TS2
 WJ1D,Wharton,Texas,United States,Peer,1,444.91250,312482,BM,312482,1,"TS1 - 3148 (TX Statewide), 31484 (SE Texas), 3199 (Hurricane), 31480 (TX Chat), 31011 (GC DMR)<br>TS-2 - 3109 (Connecticut Statewide), 3123 (Maine Statewide), 3133 (NH Statewide), 3150 (VT Statewide), 3172 (NE Region)",+5.000,WJ1D,TS1 TS2
 K6CV,Twain Harte,California,United States,Master,1,444.65000,312483,BM,312483,1,Motorola SLR-5700,+5.000,K6CV,TS1 TS2
-KA0JSW,Newport,Pennsylvania,United States,Peer,1,147.30000,312484,Interstate 2 cbridge,312484,1,"Please Contact Kevin Magloulin<br>KA0JQO he is actually the trustee of the repeater take me off he renewed the license, but I dont have a copy of it.",+0.600,KB3TWW,TS1 TS2
 KE4PMP,Pelham,Georgia,United States,Peer,1,441.81250,312485,DMR-SE,312485,1,"This repeater is on the First Coast network.<br>Time slot 1 talk groups include: TG9 static is linked to Vidalia net, (TG310592)<br>GASW TG3113 Dynamic, GA ARES TG31130 Dynamic, Digi Link TG31137 Dynamic<br>Time slot 2 talk groups include: TG9 local only (Not networked) TG2 First Coast DMR<br>",+5.000,KE4PMP,TS1 TS2
 W4PFT,Carnesville,Georgia,United States,Peer,1,444.11250,312486,BM,312486,1,,+5.000,W4PFT,TS1 TS2
 K5WMS,Helena,Arkansas,United States,Master,6,444.37500,312487,BM,312487,1,TG:312487 static on TS2,+5.000,K5WMS,TS1 TS2
