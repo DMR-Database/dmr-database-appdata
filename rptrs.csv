@@ -1393,6 +1393,7 @@ IR5UO,Montecarlo Lucca,Tuscany,Italy,Master,1,432.67500,222522,BM,222522,1,22251
 IR6UCC,Monte Majella CH,Marche / Abruzzo,Italy,Peer,0,430.21250,222523,HamThings,222523,1,None,1.600,IU6SSZ,Mixed Mode
 IK2UIZ,Olgiate Olona,Lombardy,Italy,Peer,2,430.23750,222524,BM2222,222524,1,None,1.600,IK2UIZ,TS1 TS2
 IR5UDP,Monte Cascetto,Tuscany,Italy,,1,430.62500,222525,DMR-plus,222525,1,,5.000,IZ5MMN,TS1 TS2
+IK2TIF,Sesto Calende,Lombardy,Italy,Peer,1,430.02500,222526,BrandMeister,222526,1,None,5.000,IK2TIF,TS1 TS2
 IR5UCK,Monte Fiore Quarrata  PT,Tuscany,Italy,Master,1,431.48750,222535,BM,222535,1,22251/Toscana,+1.600,I5NOD,TS1 TS2
 IR5UCT,Loc . campi,Tuscany,Italy,,1,430.42500,222539,DMR-plus,222539,1,,5.000,IZ5OQO,TS1 TS2
 IR5UDV,Loc.la Noce Vernio P,Tuscany,Italy,,1,430.40000,222545,None,222545,1,,5.000,IZ5GTN,TS1 TS2
@@ -1922,7 +1923,7 @@ GB3EB,Newhaven,England,United Kingdom,Peer,3,145.78750,234031,BM,234031,1,,-0.60
 GB7NV,Hucknall,England,United Kingdom,Master,1,430.82500,234032,FreeDMR,234032,1,,+7.6,G0HRV,TS1 TS2
 GB7KV,Kemnay,Scotland,United Kingdom,Master,5,430.81250,234033,Extended Freedom,234033,1,,+7.6,G0WUR,Mixed Mode
 GB7BE,BECCLES,England,United Kingdom,Peer,2,439.66250,234034,DVSPH,234034,1,,-9.000,M0JGX,TS1 TS2
-GB3IS,East Kilbride South Uist,Scotland,United Kingdom,Peer,7,430.88750,234035,BM,234035,0,,+7.600,G8SAU,Mixed Mode
+GB3IS,East Kilbride South Uist,Scotland,United Kingdom,Peer,7,430.88750,234035,BM,234035,1,,+7.600,G8SAU,Mixed Mode
 GB7IL,Inverness,Scotland,United Kingdom,Master,5,145.66250,234036,BM,234036,1,,-0.600,GM6GRE,TS1 TS2
 GB7NQ,EMF Camp Eastnor UK,England,United Kingdom,Master,10,430.87500,234037,BM,234037,1,,+7.6,M0VNA,TS1 TS2
 GB7GL,Glasgow  City Centre,Scotland,United Kingdom,Peer,7,430.85000,234038,Brandmeister,234038,1,,+7.600,GM7RYR,TS1 TS2
@@ -2283,8 +2284,8 @@ GB3ED,Edinburgh,Scotland,United Kingdom,Peer,1,430.88750,235446,DMR-plus,235446,
 GB7EU,Edinburgh  City Centre,Scotland,United Kingdom,Peer,11,430.83750,235447,Brandmeister,235447,1,,+7.600,GM7RYR,Mixed Mode
 GB7EA,Erskine,Scotland,United Kingdom,Peer,1,439.53750,235450,DMR-plus,235450,1,,-9.000,MM0PAZ,TS1 TS2
 GB7BB,Banff,Scotland,United Kingdom,Master,1,439.71250,235454,DMR-plus,235454,1,,-9.000,MM0BUH,TS1 TS2
-GB3EI,Clachan North Uist,Scotland,United Kingdom,Peer,1,145.61250,235460,BM,235460,0,,-0.600,G8SAU,Mixed Mode
-GB7EI,Clachan North Uist,Scotland,United Kingdom,Peer,6,430.85000,235461,BM,235461,0,,+7.600,G8SAU,TS1 TS2
+GB3EI,Clachan North Uist,Scotland,United Kingdom,Peer,1,145.61250,235460,BM,235460,1,,-0.600,G8SAU,Mixed Mode
+GB7EI,Clachan North Uist,Scotland,United Kingdom,Peer,6,430.85000,235461,BM,235461,1,,+7.600,G8SAU,TS1 TS2
 GB7GD,Aberdeen,Scotland,United Kingdom,,1,145.68750,235467,DMR-plus,235467,1,,-0.600,MM0RDM,TS1 TS2
 GB7BI,Fortrose,Scotland,United Kingdom,Peer,1,439.66250,235475,BM,235475,1,,-9.000,GM0UDL,TS1 TS2
 GB7II,Inverness,Scotland,United Kingdom,Peer,3,439.45000,235476,brandmeister,235476,1,,-9.000,GM0UDL,TS1 TS2
@@ -4108,7 +4109,7 @@ TF3DMR,Reykjavik,,Iceland,Peer,1,439.85000,274002,BM,274002,1,,-5.000,TF3EY,TS1 
 9H1BBS,Naxxar,,Malta,,1,430.41250,278100,Motorola,278100,1,,9.000,9H1IA,
 5B4CY,Troodos,All Regions,Cyprus,Peer,1,438.40000,280001,BM,280001,1,cars@cyhams.org,-7.600,5B4AHZ,TS1 TS2
 5B4NC,Nicosia,All Regions,Cyprus,Peer,1,438.20000,280002,BM,280002,1,cars@cyhams.org,-7.600,5B4AHZ,TS1 TS2
-5B4MS,Limassol,,Cyprus,,1,438.83750,280003,DMR-plus,280003,0,,-7.600,5B4AMD,TS1 TS2
+5B4MS,Limassol,All Regions,Cyprus,Peer,1,438.83750,280003,Brandmeister,280003,1,,-7.600,5B4AMD,TS1 TS2
 5B4AIE,Paphos,,Cyprus,,1,438.60000,280004,BM,280004,1,,-7.600,5B4ALJ,TS1 TS2
 5B4AMH,Fyti,,Cyprus,,1,438.70000,280005,BM,280005,1,,-7.600,5B4ALJ,TS1 TS2
 5B4AMD,Limassol,,Cyprus,,1,439.00000,280006,None,280006,1,,-7.600,SV1JRF,
@@ -6843,7 +6844,6 @@ WA7HAA,Portland,Oregon,United States,Master,7,443.23750,312168,PNW Digital,31216
 W4GZX,Cleveland,Tennessee,United States,Peer,1,440.70000,312169,BM,312169,1,,+5.000,W4GZX,TS1 TS2
 WB5TUF,Richmond,Texas,United States,Peer,9,442.55000,312170,DMR-MARC,312170,1,,+5.000,WB5TUF,TS1 TS2
 N2AZT,WESTBURY,New York,United States,Peer,1,438.46000,312171,BRONX-TRBO,312171,1,TS1  All are PTT activated<br><br>TG 91 (worldwide Brandmeister)<br>TG 8750 K2MAK<br>TG 31653 Kings County Radio Club Fusion Link<br><br><br><br><br>TS2<br><br>GREEK AMERICAN TG 31699 Full Time<br> TG 444 NY METRO PTT 15 MIN,-5.000,N2AZT,TS1 TS2
-W1HPC,Enfield,Connecticut,United States,Peer,1,448.07500,312172,BM,312172,1,,-5.000,W1HPC,TS1 TS2
 W5AW,Big Spring,Texas,United States,Master,1,443.50000,312173,BM,312173,1,,+5.00,W5LND,TS1
 KD4NJA,Oneonta,Alabama,United States,Master,1,145.26000,312174,BM,312174,1,PSARG group on BM,-0.600,KD4NJA,TS2
 NU5D,Gatesville,Texas,United States,Master,1,441.33750,312175,C-BRIDGE2,312175,1,Cloud HB LINK - IPSC Bridge -> C Bridge 2,-5.000,NU5D,TS1 TS2
@@ -9586,7 +9586,7 @@ KD4RJN,Ashland,Virginia,United States,None,1,443.13750,315143,brandmeister,31514
 N3QEM,Herndon,Virginia,United States,Peer,13,145.16375,315144,Interstate,315144,1,,-0.600,N3QEM,TS1 TS2
 N3QEM,Vienna,Virginia,United States,Peer,1,927.70000,315145,Interstate,315145,1,,-25.000,N3QEM,TS1 TS2
 W4JWC,Wirtz,Virginia,United States,Master,1,440.75000,315146,Brandmeister,315146,1,,+5.000,W4JWC,TS1 TS2
-W4VSP,Wytheville,Virginia,United States,Peer,1,443.26250,315147,Brandmeister,315147,1,,+5.000,"W4VSP, K4IJ",TS1 TS2
+W4VSP,Wytheville,Virginia,United States,Peer,1,443.26250,315147,Brandmeister,315147,1,,+5.000,"K4IJ, W4VSP",TS1 TS2
 W4BRM,Haymarket,Virginia,United States,Peer,6,448.32500,315148,Brandmeister,315148,1,TS1- TG3151 - static<br>TS2 -TG315148 bridge to analog,-5.000,KE2N,TS1 TS2
 W4CGX,Leesburg,Florida,United States,Peer,1,443.02500,315149,brandmister,315149,1,None,5.000,W4CGX,Mixed Mode
 KK6X,Fairfield,California,United States,Peer,1,443.40000,315150,Brandmeister,315150,1,,+5.000,KK6X,TS1 TS2
