@@ -1392,7 +1392,7 @@ IR5UE,M. Pietra Pertusa LU,Tuscany,Italy,,1,430.20000,None,,,222521,,1.600,ACTIV
 IR5UO,Montecarlo Lucca,Tuscany,Italy,Master,1,432.67500,BM,43.8511862,10.6676214,222522,22251/Toscana,+1.600,ACTIVE,I5NOD,TS1 TS2
 IR6UCC,Monte Majella CH,Marche / Abruzzo,Italy,Peer,0,430.21250,HamThings,42.1580400,14.1276900,222523,None,1.600,ACTIVE,IU6SSZ,Mixed Mode
 IR5UDP,Monte Cascetto,Tuscany,Italy,,1,430.62500,DMR-plus,43.7559788,10.5422684,222525,,5.000,ACTIVE,IZ5MMN,TS1 TS2
-IK2TIF,Sesto Calende,Lombardy,Italy,Peer,1,430.02500,BrandMeister,45.7389211,8.6557152,222526,None,5.000,ACTIVE,IK2TIF,TS1 TS2
+IK2TIF,Sesto Calende,Lombardy,Italy,Peer,1,430.01250,BrandMeister,45.7389211,8.6557152,222526,None,5.000,ACTIVE,IK2TIF,TS1 TS2
 IR5UCK,Monte Fiore Quarrata  PT,Tuscany,Italy,Master,1,431.48750,BM,43.828602,10.939444,222535,22251/Toscana,+1.600,ACTIVE,I5NOD,TS1 TS2
 IR5UCT,Loc . campi,Tuscany,Italy,,1,430.42500,DMR-plus,43.401001,11.490500,222539,,5.000,ACTIVE,IZ5OQO,TS1 TS2
 IR5UDV,Loc.la Noce Vernio P,Tuscany,Italy,,1,430.40000,None,43.990829,11.101111,222545,,5.000,ACTIVE,IZ5GTN,TS1 TS2
@@ -3098,7 +3098,6 @@ SR2D,Gdansk,pomorskie,Poland,Master,1,145.72500,Brandmeister,54.36143405,18.6282
 SR2UVG,RTCN Chwaszczyno,pomorskie,Poland,Master,2,438.83750,Brandmeister,54.452950,18.436190,260220,,-7.600,ACTIVE,SP2XDM,TS1 TS2
 SR2GDD,Gdansk,pomorskie,Poland,Master,2,438.28750,Brandmeister,54.354343,18.718557,260222,,-7.600,ACTIVE,SP2TFV,TS1 TS2
 SR2DCH,Czluchow,pomorskie,Poland,Master,2,438.38750,"BM, HBLink",53.660431,17.379398,260230,,-7.600,ACTIVE,SP2GCH,TS1 TS2
-SR2UVF,Bydgoszcz,kujawsko-pomorskie,Poland,Master,1,438.93750,Brandmeister,53.142330,18.134743,260260,Slot 1:<br>260 - SP - Polska<br>2602 - SP2 - rozmowy w obrębie okręgu wywoławczego SP2<br>260015 - SP EmCom - łączność kryzysowa<br><br>Slot 2:<br>260260 - BYDZIA - Grupa rozmowna dla Bydgoszczy i okolic,-7.600,ACTIVE,SQ2RBY,TS1 TS2
 SR2DMR,Jablowo-Tower,kujawsko-pomorskie,Poland,Peer,12,439.31250,Brandmeister,52.919571,17.836592,260270,,-7.600,ACTIVE,SP2GG,TS1 TS2
 SR3DMR,Poznan,wielkopolskie,Poland,Master,1,145.61250,Brandmeister,52.459141,16.905466,260301,,-0.600,ACTIVE,SP3YOR,TS1 TS2
 SR3DSE,Srem,wielkopolskie,Poland,Master,1,438.73750,Brandmeister,52.086056,17.022083,260302,,-7.600,ACTIVE,SQ3GJH,TS1 TS2
@@ -5106,6 +5105,7 @@ WX1NH,Enfield,New Hampshire,United States,Peer,7,447.07500,BrandMeister,43.62559
 WA0CQG,Balaton,Minnesota,United States,Master,1,442.15000,Brandmeister,44.2361111,-95.8716667,310268,,+5.000,ACTIVE,WA0CQG,TS1 TS2
 N2LEN,New Baltimore,New York,United States,Peer,1,145.45000,Brandmeister,42.42096,-73.85552,310269,,-0.600,ACTIVE,N2LEN,TS1 TS2
 N3QEM,Vienna,Virginia,United States,Peer,1,927.67500,Interstate,38.9012225,-77.2652604,310270,,-25.000,ACTIVE,N3QEM,TS1 TS2
+W6JMX,Woodside,California,United States,Peer,1,442.10000,Brandmaister,37.4299388,-122.2538557,310271,,+5.000,ACTIVE,W6JMX,TS1 TS2
 KB5DMT,Love Road,Mississippi,United States,Peer,1,441.92500,DixieDMR.radio,34.802778,-89.811944,310272,,+5.000,ACTIVE,KB5DMT,TS1 TS2
 W4XI,Tuscaloosa,Alabama,United States,Peer,1,443.82500,Brandmeister,33.130001,-87.269989,310273,,+5.000,ACTIVE,KG4MPU,TS1 TS2
 N8OJ,Marietta,Ohio,United States,Peer,7,442.90000,Brandmeister,39.415352,-81.4548436,310274,,+5.000,ACTIVE,W8JL,TS1 TS2
@@ -5186,7 +5186,7 @@ W3WDD,Itinerant,North Carolina,United States,Peer,1,440.80000,NC-PRN,35.3699100,
 W3WDD,Franklin,North Carolina,United States,Peer,1,444.82500,NC-PRN,35.328298,-83.336462,310354,"Please Visit W3WDD.com for further details. This repeater uses a standard PRN Network Codeplug, But Links to Cashiers, and Sylva on Local, referred to as Jackson Local",+5.00,ACTIVE,W3WDD,TS1 TS2
 W3WDD,Cullowhee,North Carolina,United States,Peer,1,444.15000,NC-PRN,35.3071000,-83.1785000,310355,Pending,+5.0,ACTIVE,W3WDD,TS1 TS2
 WB4CDK,LaFollette,Tennessee,United States,Peer,1,444.85000,Brandmeister,36.385109,-84.094292,310356,,+5.000,ACTIVE,WB4CDK,TS1 TS2
-WR4JW,Somerville,Alabama,United States,Peer,1,440.61250,Brandmeister,34.404991,-86.800003,310357,,+5.0,ACTIVE,WR4JW,"TS1,TS2"
+WR4JW,Somerville,Alabama,United States,Peer,1,440.61250,AMCOM,34.4907149,-86.6304948,310357,,+5.0,ACTIVE,WR4JW,TS1 TS2
 KC1FRJ,Smyrna,Maine,United States,Peer,12,145.19000,NEDECN,46.162884,-68.093912,310358,"*Updated List - 12/2024*<br><br>Time Slot #1 – Group Call 759 = SKYWARN<br>Time Slot #1 – Group Call 9998 = Parrot*<br>Time Slot #1 - Group Call 9999 Audio Watch*<br>Time Slot #1 – Group Call 1 = World Wide*<br>Time Slot #1 – Group Call 3 = North America<br>Time Slot #1 – Group Call 3172 = Northeast<br>Time Slot #1 – Group Call 310 = TAC310*<br>Time Slot #1 – Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 312 = TAC312*<br>Time Slot #1 – Group Call 8801 = NETAC 1*<br>Time Slot #1 – Group Call 3109 = CT Statewide*<br>Time Slot #1 – Group Call 3125 = MA Statewide*<br>Time Slot #1 – Group Call 3133 = NH Statewide*<br>Time Slot #1 – Group Call 3144 = RI Statewide*<br>Time Slot #1 – Group Call 3150 = VT Statewide*<br>————————————<br>Time Slot #2 – Group Call 8802 = NETAC 2*<br>Time Slot #2 – Group Call 3181 = New England Wide (Mon. 8 PM Net)<br>Time Slot #2 – Group Call 3029 = New Brunswick<br>Time Slot #2 – Group Call 3123 = ME Statewide<br>Time Slot #2 – Group Call 9 = Local Site<br>* PTT Activated<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Gerry, KC1FRJ<br>Email: gerryo@atlanticradio.com<br>Website: http://nedecn.org",-0.600,ACTIVE,KC1FRJ,TS1 TS2
 WF7W,Port Angeles,Washington,United States,"Port Angeles, Sequim, WA",1,442.12500,BrandMeister/DMR-MARC/CAN,48.07832,-123.4,310359,,+5.000,ACTIVE,WF7W,TS1 and TS2
 WA6VPL,Lompoc,California,United States,Peer,1,440.57500,BrandMeister,34.731,-120.434,310360,"Harris Grade, near Lompoc CA, at 1,000 ft elevation<br>TG: AARG and CDM",+5.000,ACTIVE,WA6VPL,TS1 TS2
@@ -5206,7 +5206,7 @@ N0KEG,Parker,Colorado,United States,peer,1,448.05000,Brandmeister,39.536331,-104
 KB6BF,Pismo Beach,California,United States,Peer,2,444.60000,BrandMeister,35.153953,-120.635557,310375,TG1:  W6AB (3124918)<br>TG2:  AARG (31274)<br>TG2:  CDM (31076),+5.000,ACTIVE,KB6BF,TS1 TS2
 N8OBU,tba,Michigan,United States,peer,2,444.71250,brandmeister,0.0,0.0,310376,,+5000,ACTIVE,N8OBU,1&2
 N5JFP,La Vernia,Texas,United States,Peer,1,145.25000,DMR-MARC/Brandmeister/DMR+/TGIF,30.5785,-98.2812,310377,**All Talkgroups Use TS2**<br><br>All Talk Groups are PTT (Except TX SW 3148) with a 15 Minute Timeout<br><br>Slot 2<br>TG1 Worldwide<br>TG3 North America<br>TG13 Woldwide English<br>TG1776 USA 1776<br>TG3148 TX Statewide<br>TG3175 Southern Plains<br>TG8210 W.O.R.G,-0.000,ACTIVE,N5JFP,TS2
-KB9PTI,Chicago,Illinois,United States,Master,1,443.97500,BrandMeister,41.912521,-87.633270,310380,Club AIRA TG3300 www.tg330pr.net,+5.000,ACTIVE,KB9PTI,TS1 TS2
+KB9PTI,Chicago,Illinois,United States,Master,1,444.00000,BrandMeister,41.912521,-87.633270,310380,Club AIRA TG3300 www.tg330pr.net,+5.000,ACTIVE,KB9PTI,TS1 TS2
 K1EWG,West Greenwich,Rhode Island,United States,Peer,2,448.82500,"BM, DMR-MARC, M17",41.6076,-71.6384,310381,"Unpadded TGs - BM<br>8 Padded TGs - NEDECN via CanTrbo<br>M17-M17 C CAN 0<br>Time Slot #1 - Group Call 8000759 - SKYWARN Gray, Norton, Burlington, Albany NWS<br>Time Slot #1 - Group Call 8008801 - NEDECN NE TAC 1<br>Time Slot #2 - Group Call 310381 - Local<br>Time Slot #2 - Group Call 3105992 - NB1RI Repeater Network<br>Time Slot #2 - Group Call 8003181 - NEDECN New England Wide<br>Time Slot #2 - Group Call 8003144 - NEDECN RI Statewide<br>",-5.000,ACTIVE,K1JST,TS1 TS2
 NG8N,Columbus,Ohio,United States,Master,1,441.50000,BandMeister,39.932731,-83.039223,310384,,+5.000,ACTIVE,NG8N,Mixed Mode
 KC8BPE,Delaware,Ohio,United States,Peer,1,442.13750,Brandmeister,40.30187,-83.05789,310385,,+5.000,ACTIVE,KC8BPE,TS1 TS2
@@ -6492,7 +6492,7 @@ W2SLV,RUSSELL,New York,United States,Peer,1,442.35000,CAN_TRBO,0.0,0.0,311781,,+
 W0PM,Springfield,Missouri,United States,Peer,2,442.37500,Brandmeister,37.16355,-93.31986,311782,"This won't actually be a repeater.  I'm going to try to connect a c-Bridge into a Brandmeister server, setting up an IPSC Manager in the c-Bridge as a Peer.  The c-Bridge will allow for a connection from the Brandmeister network to my repeater on Slot 2 (Slot 1 is on the DMR-MARC network).<br><br>I do not plan on bridging the two slots together, but this will allow for the one repeater to be used on both networks.<br>",+5.000,ACTIVE,W0PM,TS2
 WD5ETD,Tulsa,Oklahoma,United States,Peer,1,441.97500,BrandMeister,36.004490,-95.925491,311783,<br>,+5.000,ACTIVE,WD5ETD,TS1 TS2
 N9NWI,Mount Pulaski,Illinois,United States,Master,3,443.82500,BM,40.010891,-89.282303,311784,,+5.000,ACTIVE,N9NWI,TS1 TS2
-WR4JW,Somerville,Alabama,United States,Peer,1,444.70000,Brandmeister,34.439991,-86.949982,311785,TS-1 31013 ALERT-K4NWS<br>TS-2 3101 ALABAMA<br>TS-2 31010 ALABAMA LINK<br>TS-2 31014 HSV<br>TS-2 31016 NW ALABAMA,+5.0,ACTIVE,WR4JW,TS1 TS2
+WR4JW,Somerville,Alabama,United States,Peer,1,444.70000,Brandmeister,34.4983474,-86.8793568,311785,TS-1 31013 ALERT-K4NWS<br>TS-2 3101 ALABAMA<br>TS-2 31010 ALABAMA LINK<br>TS-2 31014 HSV<br>TS-2 31016 NW ALABAMA,+5.0,ACTIVE,WR4JW,TS1 TS2
 WR3IRS,Chambersburg,Pennsylvania,United States,Peer,1,223.90000,Interstate,40.000000,-77.000000,311786,"TS1: PA Statewide 3142 full-time, all others PTT<br><br>TS2: Local 2 = Western PA (31422) full-time<br><br>Visit www.wr3irs.com for more information",-1.600,ACTIVE,WN3A,TS1 TS2
 WF1RES,LaGrange,Kentucky,United States,Master,3,440.52500,Brandmeister,38.437382,-85.384033,311787,,+5.000,ACTIVE,KC9FQT,TS1 TS2
 N6RXT,herald,California,United States,Peer,1,439.10000,Brandmeister,38.3119,-121.1729,311788,,-5.00,ACTIVE,N6RXT,TS1 TS2

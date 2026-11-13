@@ -1392,7 +1392,7 @@ IR5UE,M. Pietra Pertusa LU,Tuscany,Italy,,1,430.20000,222521,None,222521,0,,1.60
 IR5UO,Montecarlo Lucca,Tuscany,Italy,Master,1,432.67500,222522,BM,222522,1,22251/Toscana,+1.600,I5NOD,TS1 TS2
 IR6UCC,Monte Majella CH,Marche / Abruzzo,Italy,Peer,0,430.21250,222523,HamThings,222523,1,None,1.600,IU6SSZ,Mixed Mode
 IR5UDP,Monte Cascetto,Tuscany,Italy,,1,430.62500,222525,DMR-plus,222525,1,,5.000,IZ5MMN,TS1 TS2
-IK2TIF,Sesto Calende,Lombardy,Italy,Peer,1,430.02500,222526,BrandMeister,222526,1,None,5.000,IK2TIF,TS1 TS2
+IK2TIF,Sesto Calende,Lombardy,Italy,Peer,1,430.01250,222526,BrandMeister,222526,1,None,5.000,IK2TIF,TS1 TS2
 IR5UCK,Monte Fiore Quarrata  PT,Tuscany,Italy,Master,1,431.48750,222535,BM,222535,1,22251/Toscana,+1.600,I5NOD,TS1 TS2
 IR5UCT,Loc . campi,Tuscany,Italy,,1,430.42500,222539,DMR-plus,222539,1,,5.000,IZ5OQO,TS1 TS2
 IR5UDV,Loc.la Noce Vernio P,Tuscany,Italy,,1,430.40000,222545,None,222545,1,,5.000,IZ5GTN,TS1 TS2
@@ -3098,7 +3098,6 @@ SR2D,Gdansk,pomorskie,Poland,Master,1,145.72500,260213,Brandmeister,260213,1,,-0
 SR2UVG,RTCN Chwaszczyno,pomorskie,Poland,Master,2,438.83750,260220,Brandmeister,260220,1,,-7.600,SP2XDM,TS1 TS2
 SR2GDD,Gdansk,pomorskie,Poland,Master,2,438.28750,260222,Brandmeister,260222,1,,-7.600,SP2TFV,TS1 TS2
 SR2DCH,Czluchow,pomorskie,Poland,Master,2,438.38750,260230,"BM, HBLink",260230,1,,-7.600,SP2GCH,TS1 TS2
-SR2UVF,Bydgoszcz,kujawsko-pomorskie,Poland,Master,1,438.93750,260260,Brandmeister,260260,1,Slot 1:<br>260 - SP - Polska<br>2602 - SP2 - rozmowy w obrbie okrgu wywoawczego SP2<br>260015 - SP EmCom - czno kryzysowa<br><br>Slot 2:<br>260260 - BYDZIA - Grupa rozmowna dla Bydgoszczy i okolic,-7.600,SQ2RBY,TS1 TS2
 SR2DMR,Jablowo-Tower,kujawsko-pomorskie,Poland,Peer,12,439.31250,260270,Brandmeister,260270,1,,-7.600,SP2GG,TS1 TS2
 SR3DMR,Poznan,wielkopolskie,Poland,Master,1,145.61250,260301,Brandmeister,260301,1,,-0.600,SP3YOR,TS1 TS2
 SR3DSE,Srem,wielkopolskie,Poland,Master,1,438.73750,260302,Brandmeister,260302,1,,-7.600,SQ3GJH,TS1 TS2
@@ -5106,6 +5105,7 @@ WX1NH,Enfield,New Hampshire,United States,Peer,7,447.07500,310267,BrandMeister,3
 WA0CQG,Balaton,Minnesota,United States,Master,1,442.15000,310268,Brandmeister,310268,1,,+5.000,WA0CQG,TS1 TS2
 N2LEN,New Baltimore,New York,United States,Peer,1,145.45000,310269,Brandmeister,310269,1,,-0.600,N2LEN,TS1 TS2
 N3QEM,Vienna,Virginia,United States,Peer,1,927.67500,310270,Interstate,310270,1,,-25.000,N3QEM,TS1 TS2
+W6JMX,Woodside,California,United States,Peer,1,442.10000,310271,Brandmaister,310271,1,,+5.000,W6JMX,TS1 TS2
 KB5DMT,Love Road,Mississippi,United States,Peer,1,441.92500,310272,DixieDMR.radio,310272,1,,+5.000,KB5DMT,TS1 TS2
 W4XI,Tuscaloosa,Alabama,United States,Peer,1,443.82500,310273,Brandmeister,310273,1,,+5.000,KG4MPU,TS1 TS2
 N8OJ,Marietta,Ohio,United States,Peer,7,442.90000,310274,Brandmeister,310274,1,,+5.000,W8JL,TS1 TS2
@@ -5186,7 +5186,7 @@ W3WDD,Itinerant,North Carolina,United States,Peer,1,440.80000,310353,NC-PRN,3103
 W3WDD,Franklin,North Carolina,United States,Peer,1,444.82500,310354,NC-PRN,310354,1,"Please Visit W3WDD.com for further details. This repeater uses a standard PRN Network Codeplug, But Links to Cashiers, and Sylva on Local, referred to as Jackson Local",+5.00,W3WDD,TS1 TS2
 W3WDD,Cullowhee,North Carolina,United States,Peer,1,444.15000,310355,NC-PRN,310355,1,Pending,+5.0,W3WDD,TS1 TS2
 WB4CDK,LaFollette,Tennessee,United States,Peer,1,444.85000,310356,Brandmeister,310356,1,,+5.000,WB4CDK,TS1 TS2
-WR4JW,Somerville,Alabama,United States,Peer,1,440.61250,310357,Brandmeister,310357,1,,+5.0,WR4JW,"TS1,TS2"
+WR4JW,Somerville,Alabama,United States,Peer,1,440.61250,310357,AMCOM,310357,1,,+5.0,WR4JW,TS1 TS2
 KC1FRJ,Smyrna,Maine,United States,Peer,12,145.19000,310358,NEDECN,310358,1,"*Updated List - 12/2024*<br><br>Time Slot #1  Group Call 759 = SKYWARN<br>Time Slot #1  Group Call 9998 = Parrot*<br>Time Slot #1 - Group Call 9999 Audio Watch*<br>Time Slot #1  Group Call 1 = World Wide*<br>Time Slot #1  Group Call 3 = North America<br>Time Slot #1  Group Call 3172 = Northeast<br>Time Slot #1  Group Call 310 = TAC310*<br>Time Slot #1  Group Call 311 = TAC311*<br>Time Slot #1 - Group Call 312 = TAC312*<br>Time Slot #1  Group Call 8801 = NETAC 1*<br>Time Slot #1  Group Call 3109 = CT Statewide*<br>Time Slot #1  Group Call 3125 = MA Statewide*<br>Time Slot #1  Group Call 3133 = NH Statewide*<br>Time Slot #1  Group Call 3144 = RI Statewide*<br>Time Slot #1  Group Call 3150 = VT Statewide*<br><br>Time Slot #2  Group Call 8802 = NETAC 2*<br>Time Slot #2  Group Call 3181 = New England Wide (Mon. 8 PM Net)<br>Time Slot #2  Group Call 3029 = New Brunswick<br>Time Slot #2  Group Call 3123 = ME Statewide<br>Time Slot #2  Group Call 9 = Local Site<br>* PTT Activated<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact: Gerry, KC1FRJ<br>Email: gerryo@atlanticradio.com<br>Website: http://nedecn.org",-0.600,KC1FRJ,TS1 TS2
 WF7W,Port Angeles,Washington,United States,"Port Angeles, Sequim, WA",1,442.12500,310359,BrandMeister/DMR-MARC/CAN,310359,1,,+5.000,WF7W,TS1 and TS2
 WA6VPL,Lompoc,California,United States,Peer,1,440.57500,310360,BrandMeister,310360,1,"Harris Grade, near Lompoc CA, at 1,000 ft elevation<br>TG: AARG and CDM",+5.000,WA6VPL,TS1 TS2
@@ -5206,7 +5206,7 @@ N0KEG,Parker,Colorado,United States,peer,1,448.05000,310374,Brandmeister,310374,
 KB6BF,Pismo Beach,California,United States,Peer,2,444.60000,310375,BrandMeister,310375,1,TG1:  W6AB (3124918)<br>TG2:  AARG (31274)<br>TG2:  CDM (31076),+5.000,KB6BF,TS1 TS2
 N8OBU,tba,Michigan,United States,peer,2,444.71250,310376,brandmeister,310376,0,,+5000,N8OBU,1&2
 N5JFP,La Vernia,Texas,United States,Peer,1,145.25000,310377,DMR-MARC/Brandmeister/DMR+/TGIF,310377,1,**All Talkgroups Use TS2**<br><br>All Talk Groups are PTT (Except TX SW 3148) with a 15 Minute Timeout<br><br>Slot 2<br>TG1 Worldwide<br>TG3 North America<br>TG13 Woldwide English<br>TG1776 USA 1776<br>TG3148 TX Statewide<br>TG3175 Southern Plains<br>TG8210 W.O.R.G,-0.000,N5JFP,TS2
-KB9PTI,Chicago,Illinois,United States,Master,1,443.97500,310380,BrandMeister,310380,1,Club AIRA TG3300 www.tg330pr.net,+5.000,KB9PTI,TS1 TS2
+KB9PTI,Chicago,Illinois,United States,Master,1,444.00000,310380,BrandMeister,310380,1,Club AIRA TG3300 www.tg330pr.net,+5.000,KB9PTI,TS1 TS2
 K1EWG,West Greenwich,Rhode Island,United States,Peer,2,448.82500,310381,"BM, DMR-MARC, M17",310381,1,"Unpadded TGs - BM<br>8 Padded TGs - NEDECN via CanTrbo<br>M17-M17 C CAN 0<br>Time Slot #1 - Group Call 8000759 - SKYWARN Gray, Norton, Burlington, Albany NWS<br>Time Slot #1 - Group Call 8008801 - NEDECN NE TAC 1<br>Time Slot #2 - Group Call 310381 - Local<br>Time Slot #2 - Group Call 3105992 - NB1RI Repeater Network<br>Time Slot #2 - Group Call 8003181 - NEDECN New England Wide<br>Time Slot #2 - Group Call 8003144 - NEDECN RI Statewide<br>",-5.000,K1JST,TS1 TS2
 NG8N,Columbus,Ohio,United States,Master,1,441.50000,310384,BandMeister,310384,1,,+5.000,NG8N,Mixed Mode
 KC8BPE,Delaware,Ohio,United States,Peer,1,442.13750,310385,Brandmeister,310385,1,,+5.000,KC8BPE,TS1 TS2
