@@ -640,7 +640,7 @@ ED3YBK,Esparreguera,Barcelona,Spain,Master,1,145.57500,BM,41.534134,1.871182,214
 ED3YBK,Esparreguera,Barcelona,Spain,Master,1,145.57500,BM,41.534120,1.871120,214021,TG 214316 EA3SPAIN,-0.600,ACTIVE,EA3PJ,TS1 TS2
 ED5ZAQ,Higueruela,Albacete,Spain,Master,1,438.40000,BM,38.983511,-1.411156,214022,,-7.600,ACTIVE,EA5SW,TS1 TS2
 ED1YBL,Parada Sil - Ourense,Ourense,Spain,Master,1,145.63750,BM,42.3495700,-7.6099700,214025,None,-0.600,ACTIVE,EA1CI,Mixed Mode
-ED1YBK,Sabadelle - Ourense,Ourense,Spain,Master,1,438.25000,BM,42.3583080,-7.8295740,214026,None,-7.600,ACTIVE,EA1CI,TS1 TS2
+ED1YBK,Sabadelle - Ourense,Ourense,Spain,Master,1,438.25000,BM,42.3583080,-7.8295740,214026,None,-7.600,ACTIVE,EA1CI,Mixed Mode
 EA4GTP,Mostoles,Madrid,Spain,Peer,1,438.45000,192.168.10.1,40.3283680,-3.8703450,214027,None,-7.600,ACTIVE,EA4GTP,TS1 TS2
 ED7ZAI,SEVILLA,Sevilla,Spain,Peer,1,439.00000,Brandmeister,37.3463900,-6.0626200,214028,None,-7.600,ACTIVE,EA7GIB,TS1 TS2
 ED1ZAW,Leon,Leon,Spain,Peer,1,438.40000,brandmeister,42.8529600,-5.1941100,214029,None,-7.600,ACTIVE,EB1Y,TS1 TS2
@@ -4159,7 +4159,7 @@ LZ0VDR,Varna Galata,,Bulgaria,,1,438.70000,DMR-plus,,,284333,,-7.600,ACTIVE,LZ2P
 LZ0VTR,Sofia,Sofia City,Bulgaria,Master,1,438.62500,BM,42.669991,23.230000,284359,,-7.600,ACTIVE,LZ3OM,TS1 TS2
 LZ0ARN,Plovdiv,,Bulgaria,Master,6,439.60000,BM,42.11,24.73,284555,,-7.600,ACTIVE,LZ1DAF,TS1
 LZ0SDR,Sofia,,Bulgaria,,1,439.12500,BM,,,284666,,-7.600,ACTIVE,LZ1HNN,TS1 TS2
-LZ0RDZ,Varna,,Bulgaria,,1,439.40000,None,,,284888,,-7.600,ACTIVE,LZ4DZ,
+LZ0RDZ,Varna,Varna,Bulgaria,Peer,1,439.40000,brandmaister,43.2461970,27.7061070,284888,,-7.600,ACTIVE,LZ4DZ,Mixed Mode
 LZ0DAF,Achtopol,Burgas,Bulgaria,Master,1,438.45000,DMR-plus,42.116617,27.849309,284997,,-7.600,ACTIVE,LZ1ZAF,TS1 TS2
 LZ0PLD,Plovdiv,,Bulgaria,Peer,1,438.80000,BrandMeister,,,284998,,-7.600,ACTIVE,LZ1CWT,TS1 TS2
 LZ0ZAF,Plovdiv,Plovdiv,Bulgaria,Master,1,438.70000,DMR-plus,41.9961503,24.7203927,284999,,-7.600,ACTIVE,LZ1ZAF,TS1 TS2
@@ -7631,7 +7631,6 @@ KE8SVT,Columbus,Ohio,United States,Master,1,443.15000,dmr-marc,39.9622601,-83.00
 W5AMG,Georgetown,Texas,United States,Peer,1,440.55000,BM,30.6326942,-97.6772311,313039,,+5.000,ACTIVE,W5AMG,TS1 TS2
 KF7KGN,Draper,Utah,United States,Master,1,927.98750,BM,40.4717568,-111.8240768,313040,,-25.00,ACTIVE,KF7KGN,TS2
 KI5NEL,Houston,Texas,United States,Master,4,440.25000,BM,29.7589382,-95.3676974,313041,,+5.000,ACTIVE,KI5NEL,Mixed Mode
-KD2LAQ,Pennington,New Jersey,United States,Peer,1,442.20000,BM,40.3281213,-74.7909992,313042,,+5.000,ACTIVE,N2VVL,TS1 TS2
 W7DGT,Mojave County,Nevada,United States,Peer,15,449.20000,TGIF.network,35.08117334,-113.90459531,313043,"TS1 - 51547<br>TS2 - 31775, 928",-5.000,ACTIVE,N6DOZ,TS1 TS2
 KW4EO,Hendersonville,North Carolina,United States,Peer,1,145.06000,WNC,35.46,-82.36,313044,,-0.600,ACTIVE,KW4EO,TS1 TS2
 KM5CL,Maud,Oklahoma,United States,Peer,1,442.82500,BM,35.130355,-96.745819,313045,,+5.000,ACTIVE,KM5CL,TS1 TS2
@@ -7803,7 +7802,6 @@ KG7SS,Las Vegas,Nevada,United States,Peer,15,447.27500,SF Trbo,36.1672559,-115.1
 K7IZA,Henderson,Nevada,United States,Master,1,447.80000,Brandmeister,36.0395247,-114.9817213,313225,,-5.000,ACTIVE,K7IZA,TS1 TS2
 KB6XN,LAS VEGAS,Nevada,United States,Peer,2,445.75000,LonestarNet,36.070824,-115.244919,313226,,-5.000,ACTIVE,KB6XN,TS1 TS2
 W7TA,Sparks / Fernley,Nevada,United States,Master,1,442.87500,SNARS DMR,39.5966853,-119.48662140000002,313227,Timeslot 2 - 31328 - SNARS - Reno/Tahoe<br>Timeslot 1 - 31329 - SNARS 2<br>Timeslot 1 - 3132 - Nevada,+5.000,ACTIVE,W7TA,TS1 TS2
-KG6DTL,LAS VEGAS,Nevada,United States,Peer,15,448.32500,WA6PYJ,36.1672559,-115.1485163,313228,,-5.000,ACTIVE,KG6DTL,TS1 TS2
 W7XM,North Las Vegas,Nevada,United States,Master,1,442.85000,Brandmeister,36.285229,-115.148003,313229,None,+5.000,ACTIVE,W7XM,TS1 TS2
 KB6XN,LAS VEGAS,Nevada,United States,Master,2,445.72500,SF TURBO,36.1672559,-115.1485163,313230,,-5.000,ACTIVE,KB6XN,TS1 TS2
 W7TA,Fernley,Nevada,United States,Master,1,441.95000,SNARS DMR,39.6048048,-119.2404748,313231,Timeslot 2 - 31328 - SNARS - Reno/Tahoe<br>Timeslot 1 - 31329 - SNARS 2<br>Timeslot 1 - 3132 - Nevada,+5.000,ACTIVE,W7TA,TS1 TS2
@@ -8115,7 +8113,7 @@ KI5GXD,Weatherford,Oklahoma,United States,Master,5,145.31000,BM,35.498844,-98.72
 AG2K,Trumbull,Connecticut,United States,Master,1,442.20000,CTDARN,41.2428742,-73.2006687,313559,,+5.000,ACTIVE,AG2K,TS1 TS2
 N5HC,Scottsburg,Virginia,United States,Peer,1,441.83750,DMR-MARC,36.7573604,-78.7897293,313560,,+5.000,ACTIVE,N5HC,Mixed Mode
 KG0RP,Loveland,Colorado,United States,Master,11,439.80000,"BM,TGIF,DMR-Plus",40.4936460,-105.1817070,313561,,-5.000,ACTIVE,"KG0RP, VE2WKR",TS1 TS2
-W0OFK,Norfolk,Nebraska,United States,Peer,1,442.60000,DMR-MARC,42.0191667,-97.31866666666666,313562,TS1<br>1 - DMR-MARC Worldwide<br>3 - DMR-MARC North America<br>13 - DMR-MART North American English<br>3120 - KSDMR Kansas Statewide<br>3169 - DMR-MARC Midwest<br>31691 - DMR-MARC Tri-State<br><br>TS2<br>2 - Nebraska TRBO Local<br>3131 - Nebraska TRBO Nebraska Statewide<br>9998 - Nebraska TRBO Parrot<br>,+5.000,ACTIVE,KC0HYI,TS1 TS2
+W0OFK,Norfolk,Nebraska,United States,Peer,1,442.60000,DMR-MARC,42.0191667,-97.31866666666666,313562,TS1<br>1 - DMR-MARC Worldwide<br>3 - DMR-MARC North America<br>13 - DMR-MART North American English<br>3120 - KSDMR Kansas Statewide<br>3169 - DMR-MARC Midwest<br>31691 - DMR-MARC Tri-State<br><br>TS2<br>2 - Nebraska TRBO Local<br>3131 - Nebraska TRBO Nebraska Statewide<br>9998 - Nebraska TRBO Parrot,+5.000,ACTIVE,KC0HYI,TS1 TS2
 KF6BM,Palm Springs,California,United States,Master,5,430.38750,Western States DMR,33.77217944999999,-116.49529769683983,313563,,+9.000,ACTIVE,KF6BM,TS1 TS2
 KA4KBX,Roanoke,Alabama,United States,Master,1,442.20000,Brandmeister,33.1505606,-85.37153,313564,,+5.000,ACTIVE,KA4KBX,TS1 TS2
 W0SWL,Lutz,Florida,United States,Master,1,443.90000,BM,28.1300994,-82.45918424070945,313566,,+5.00,ACTIVE,W0SWL,Mixed Mode
@@ -8334,7 +8332,7 @@ N4SJW,Pittsboro,North Carolina,United States,Peer,1,440.62500,BM,35.7989780,-79.
 KD2YGN,Warsaw,New York,United States,Master,1,224.00000,DMR,0.0,0.0,313795,,-1.6,ACTIVE,KD2YGN,TS1
 KE2BSD,Rego Park,New York,United States,Master,12,443.35000,BM,-73.5238395,40.6690188,313796,,-5.000,ACTIVE,KE2BSD,TS1
 N6WEB,Celeste,Texas,United States,Peer,1,440.22500,BM,33.347695,-96.226967,313797,TG 2 - Static SNARS 31328,+5.000,ACTIVE,N6WEB,TS1 TS2
-KQ4HCD,Athens,Alabama,United States,Master,1,442.90000,BM,34.9179,-86.8521,313798,,+5.000,ACTIVE,KQ4HCD,TS1 TS2
+KQ4HCD,Athens,Alabama,United States,Master,1,442.90000,TGIF,34.9179000,-86.8521,313798,,+5.000,ACTIVE,KQ4HCD,TS1 TS2
 KD0TGF,Oshawa,Minnesota,United States,Master,2,442.37500,KD0TGF-Network,44.3,-94.1047,313799,TS1 TG 31272<br>TS1 TG 312734<br>TS2 TG 3127,+5.000,ACTIVE,KD0TGF,TS1 TS2
 NH7CY,Minneapolis,Minnesota,United States,Master,11,927.90000,Brandmeister,44.900790,-93.341700,313800,Mixed mode: Analog/DMR/P25,-25.00,ACTIVE,NH7CY,Mixed Mode
 WV5D,Soso,Mississippi,United States,Master,1,444.97500,bm,31.745938,-89.106687,313802,3128,+5.00,ACTIVE,WV5D,Mixed Mode
@@ -8347,7 +8345,7 @@ K0NXA,Springfield,Missouri,United States,Peer,5,444.57500,Brandmeister,37.204672
 KK5PD,Marquette,Michigan,United States,Peer,7,443.40000,BM,46.4481521,-87.6305899,313809,,+5.0,ACTIVE,KK5PD,TS1 TS2
 KB9CRA,Kokomo,Indiana,United States,Peer,1,442.40000,BM,40.4289,-86.1233,313810,For Talk Groups see:<br>https://brandmeister.network/?page=repeater&id=311813<br><br>Contact: Kevin McNeely<br>Email: kb9cra@outlook.com<br>You Must Have [ARS] Disabled Within Your Radio,+5.000,ACTIVE,KB9CRA,TS1 TS2
 W4USF,Tampa,Florida,United States,Master,2,443.11250,BM,28.06,-82.02,313811,TG ID will be updated later,+5.000,ACTIVE,W4USF,TS1 TS2
-WB4EOT,Roanoke,Virginia,United States,Peer,1,147.16500,DMRVA,37.3083,-80.1614,313812,"A new repeater for the DMRVA network is located on Fort Lewis Mountain near Salem, Virginia. The repeater is on the air and operational.<br>TG / TS details:<br>TG 3151 TS 2  VA Statewide<br>TG 43277 TS 2  HEARS - TG linked to N4HRS HEARS network.  www.n4hrs.org<br>TG 27500 TS 1  Local<br>TG 27501  TS 1  TAC A<br>TG 27502  TS 1  TAC B",+0.600,ACTIVE,WB4EOT,TS1 TS2
+WB4EOT,Roanoke,Virginia,United States,Peer,1,147.16500,DMRVA,37.3083,-80.1614,313812,"VHF repeater for the DMRVA network is located on Fort Lewis Mountain near Salem, Virginia. The repeater is on the air and operational. Updated November 2026.<br>TG / TS details:<br>TG 3151 TS 2  VA Statewide<br>TG 43277 TS 2  HEARS - TG linked to N4HRS HEARS network.  www.n4hrs.org<br>TG 27500 TS 1  Local<br>TG 27501  TS 1  TAC A<br>TG 27502  TS 1  TAC B",+0.600,ACTIVE,WB4EOT,TS1 TS2
 WH7PW,Honolulu,Hawaii,United States,Master,1,434.97500,BM,24.98747,121.2927,313813,,+5.00,ACTIVE,WH7PW,TS1 TS2
 K1QL,Blackstone,Massachusetts,United States,Peer,1,448.62500,BM,42.04169845581055,-71.51334381103516,313814,"TS1 Local, TS2 TG91 Worldwide",-5.000,ACTIVE,K1QL,TS1 TS2
 K1JST,Exeter,Rhode Island,United States,Peer,2,145.31000,BM,41.5789,-71.6234,313815,"Unpadded TGs - BM<br>8 Padded TGs - NEDECN via CanTrbo<br>M17-M17 C CAN 0<br>Time Slot #1 - Group Call 8000759 - SKYWARN Gray, Norton, Burlington, Albany NWS<br>Time Slot #1 - Group Call 8008801 - NEDECN NE TAC 1<br>Time Slot #2 - Group Call 310381 - Local<br>Time Slot #2 - Group Call 3105992 - NB1RI Repeater Network<br>Time Slot #2 - Group Call 8003181 - NEDECN New England Wide<br>Time Slot #2 - Group Call 8003144 - NEDECN RI Statewide<br>",-0.6,ACTIVE,K1JST,TS1 TS2
@@ -8911,7 +8909,7 @@ N4TDX,Titusville,Florida,United States,Peer,13,442.85000,BM,28.552497742200824,-
 AI5VQ,Leslie,Arkansas,United States,Peer,1,444.60000,BM,35.83350651287552,-92.54586786861765,314437,,+5.000,ACTIVE,AI5VQ,TS1 TS2
 NF2F,Mt  Dora,Florida,United States,Peer,1,442.80000,BM,,,314438,,+5.000,ACTIVE,NF2F,TS1 TS2
 WR3IRS,Eagles Peak,Pennsylvania,United States,Peer,1,441.45000,Interstate,40.33,-76.18,314439,TS2: TG2 = South-Central PA (31423) full-time<br><br>On Interstate c-Bridge #2<br><br>Visit www.wr3irs.com for more information,+5.0000,ACTIVE,WN3A,TS1 TS2
-WB4EOT,Rock Mount,Virginia,United States,Peer,1,145.08000,DMRVA,36.9140,-79.9545,314440,"DMRVA Talk Group Line as follows.<br>TG 3151 VA Statewide TS 2<br>TG 43277 TS 2 HEARS - TG linked to N4HRS HEARS network.  www.n4hrs.org<br>TG 27500 Local TS 1<br>TG 27501 TAC A TS 1<br>TG 27502 TAC B TS 1<br><br>Repeater is on air and active at Thornton Mountain site located in Franklin County as of January 2026.<br>Local TG 27500 is linked to DMR repeaters on Poor Mtn 444.775 and Fort Lewis Mtn 147.165, Tinker Mtn, 444.475, and Mountain Lake 444.250.<br>Refer to Talk Group matrix on www.dmrva.org for latest TG information.",+1.400,ACTIVE,WB4EOT,TS1 TS2
+WB4EOT,Rocky Mount,Virginia,United States,Peer,1,145.08000,DMRVA,36.9140,-79.9545,314440,"DMRVA Talk Group Line as follows.<br>TG 3151 VA Statewide TS 2<br>TG 43277 TS 2 HEARS - TG linked to N4HRS HEARS network.  www.n4hrs.org<br>TG 27500 Local TS 1<br>TG 27501 TAC A TS 1<br>TG 27502 TAC B TS 1<br>TG 31511 TS 1 RICHMOND METRO<br><br>Repeater is on air and active at Thornton Mountain site located in Franklin County as of November 2026.<br>Local TG 27500 is linked to DMR repeaters on Poor Mtn 444.775 and Fort Lewis Mtn 147.165, Tinker Mtn, 444.475, and Mountain Lake 444.250.<br>Refer to Talk Group matrix on www.dmrva.org for latest TG information.",+1.400,ACTIVE,WB4EOT,TS1 TS2
 W8MAL,Oak Harbor,Ohio,United States,Peer,1,442.77500,Brandmeister,41.5093,-83.147281,314441,Please use TS 1 for all dynamic talk groups and disconnect when finished. Emergency Communications and ARES preempt all non-emergent communications on the system.<br><br><br>TS 1 Static<br>3188917 - Lucas County ARES CH 2<br>31395 -  Ohio ARES<br><br>TS 2 Static<br>31392 - Cleveland NWS<br>3115753 - Lucas County ARES CH 1,+5.00,ACTIVE,"W8MAL, KF8BDU, KF8DIX, W8ZKI",Mixed Mode
 W4END,Harvest,Alabama,United States,Master,1,440.77500,AmComm,34.7923,-86.8322,314442,Mixed mode DMR/Analog,+5.00,ACTIVE,W4END,TS1
 N0NMS,Joplin,Missouri,United States,Peer,5,443.50000,BM,37.0908157,-94.5244365,314444,BM Static TalkGroups TS1: 3205642 TS2:31292<br>Analog UHF Mixed Mode,+5.000,ACTIVE,N0NMS,TS1 TS2
@@ -9609,6 +9607,7 @@ NG6K,Saratoga Springs,Utah,United States,Peer,1,927.01250,AmComm,40.2831760,-111
 KE2BNX,Wantage,New Jersey,United States,Peer,7,447.82500,Private,41.2460000,-74.5840000,315196,None,-5.000,ACTIVE,KE2BNX,Mixed Mode
 KE2BNX,Wantage,New Jersey,United States,Peer,7,223.46000,Private,41.2460000,-74.5850000,315197,None,+1.600,ACTIVE,KE2BNX,Mixed Mode
 KM4VIQ,Morganton,North Carolina,United States,Peer,1,442.30000,WNC DMR Amateur Radio Group,35.7234635,-81.6084279,315198,None,5.000,ACTIVE,KM4VIQ,TS1
+KC9OHC,Muncie,Indiana,United States,Master,1,443.15000,,40.273873,-85.484439,315201,None,0.500,ACTIVE,KC9OHC,Mixed Mode
 KE9FUI,Luck,Wisconsin,United States,Peer,1,443.56250,Brandmeister,45.5689460,-92.3799630,315202,None,+5.000,ACTIVE,KE9FUI,Mixed Mode
 KD4GHL,Canton,North Carolina,United States,Peer,1,440.87500,3102.master.brandmeister.network,35.5320000,-82.8370000,315203,None,5.000,ACTIVE,KD4GHL,TS1 TS2
 WX4EMC,Bowling Green,Virginia,United States,Peer,1,442.57500,DMRVA,38.0505000,-77.3460000,315204,None,+5.000,ACTIVE,KD4QNA,TS1 TS2
@@ -9793,7 +9792,7 @@ KP4BW,Naperville,All Regions,Puerto Rico,Master,1,442.37500,BM,51.171164,-80.315
 WP4GT,San Juan,,Puerto Rico,Master,1,448.75000,BM,18.398063,-66.081724,330041,,-5.000,ACTIVE,WP4GT,TS1
 NU5M,San Juan,All Regions,Puerto Rico,Master,1,442.02500,BM,18.4536,-66.0697,330044,,+5.000,ACTIVE,NU5M,TS2
 KP4AZH,Salinas,All Regions,Puerto Rico,Peer,1,446.85000,BM,17.98350,-66.31750,330045,"TG-330045 Salinas, Puerto Rico",-5.000,ACTIVE,KP4AZH,TS1 TS2
-NW4A,Aguas BuenasPR,,Puerto Rico,Master,1,440.32500,BM,18.051601,-66.124877,330046,Time Slot # 1 - 330013  = IslaComm DMR<br>Time Slot # 2 - 33033  = KP3AV Systems<br>Time Slot # 1 - 330911  = Emergencia<br>Time Slot # 2- 330911  = Emergencia,+5.0,ACTIVE,NW4A,Mixed Mode
+NW4A,Aguas Buenas,All Regions,Puerto Rico,Master,1,440.32500,BM,18.051601,-66.124877,330046,Time Slot # 1 - 330013  = IslaComm DMR<br>Time Slot # 2 - 33033  = KP3AV Systems<br>Time Slot # 1 - 330911  = Emergencia<br>Time Slot # 2- 330911  = Emergencia,+5.0,ACTIVE,NW4A,Mixed Mode
 KP4ECO,Mayaguez,,Puerto Rico,Master,1,440.02500,DMRplus TG-33015,18.186890,-67.119831,330047,,+5.000,ACTIVE,KP4ECO,TS1 TS2
 KP4NET,LARES,All Regions,Puerto Rico,Master,1,448.60000,BM 330050,18.22539,-66.73212,330050,"TG 330050    CC 1    TS 1<br>WP4RWR Ponce, PR UHF 448.600 MHz<br>NP3EC Arecibo, PR VHF 146.850MHz<br>KP4ILO Lares, PR VHF 146.750 MHz<br>KP4NET Lares, PR  UHF 448.600 MHz<br>ALL REPEATER USE CC1 TS1 TG 330050",-5.000,ACTIVE,WP3B,TS1 TS2
 KP4ILO,Aguadilla,,Puerto Rico,Master,1,146.75000,BM,0.0,0.0,330051,,-0.600,ACTIVE,KP4ILO,TS1 TS2
@@ -10040,7 +10039,7 @@ AP2ARS,Islamabad,All Regions,Pakistan,Master,1,144.98500,DMR,31.5204,74.3587,410
 AP2ARS,Islamabad,All Regions,Pakistan,Peer,1,144.82500,DMR,30.1575,71.5249,410003,PARS DMR Islamabad Repeater<br>TG 41033,+2.0,ACTIVE,AP2ARS,TS1 TS2
 AP5CG,Islamabad,,Pakistan,Master,1,144.01000,BM,33.6417,72.9534,410004,,+3.980,ACTIVE,AP2HD,TS1 TS2
 AP2MHC,Multan,,Pakistan,Peer,1,438.50000,BM,30.208805,71.486141,410005,,-8.300,ACTIVE,AP2MHC,TS1 TS2
-AP2HD,Islamabad,,Pakistan,Master,1,444.00000,BM,33.641882,72.949987,410006,,+5.000,ACTIVE,AP2HD,TS1 TS2
+AP2HD,Islamabad,All Regions,Pakistan,Master,1,444.00000,BM,33.641882,72.949987,410006,,+5.000,ACTIVE,AP2HD,TS1 TS2
 AP5ARS,Changla gali,,Pakistan,Peer,1,438.21500,BM,31.4758,74.3426,410007,TG 410,-2.400,ACTIVE,AP5ARS,TS1 TS2
 AP2ZAF,Faisalabad,,Pakistan,Master,1,432.21500,"BM,DMR-FSD",31.35479864359397,73.14996141829405,410008,,+5.000,ACTIVE,AP2ZAF,TS1 TS2
 AP5LHR,Lahore,All Regions,Pakistan,Peer,1,146.44000,BM,31.283361,74.203347,410009,TG410,+2.40,ACTIVE,AP2BDR,TS1 TS2
@@ -10752,7 +10751,7 @@ ZL1TPD,Tauranga,North Island 1,New Zealand,None,940,146.80000,DStar,0.0,0.0,5301
 ZL1KLP,Hunua,North Island 1,New Zealand,None,1,432.32500,"DMR+ ZL, BM",-37.000000,175.000000,530106,TG8 on radio is mapped to ZL-TRBO network TG530<br><br>The rest BM,-0.000,ACTIVE,ZL1KLP,None
 ZL2DMR,Porirua,North Island 2,New Zealand,Master,1,439.75000,ZL-TRBO,-41.1538997,174.8036181,530200,"Time Slot #1- Group Call 13 = Worldwide English<br>Time Slot #2- Group Call 5 = VK/ZL Regional<br>Time Slot #2- Group Call 530= New Zealand<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeaters Coverage Area (http://www.dmr-marc.net/images/zl2r-coverage.jpg)<br><br>Contact: John Yaldwyn, ZL4JY<br>Email: jy@4rf.com",-5.000,ACTIVE,ZL4JY,TS1 TS2
 ZL4DMR,Wellington,North Island 1,New Zealand,Peer,1,438.75000,ZL-TRBO,-41.0000000,175.0000000,530201,,-5.000,ACTIVE,ZL4JY,TS1 TS2
-ZL2OA,Masterton,North Island 1,New Zealand,Peer,1,433.82500,ZL-TRBO,0.0,0.0,530202,"Time Slot #1- Group Call 13 = Worldwide English<br>Time Slot #2- Group Call 5 = VK/ZL Regional<br>Time Slot #2- Group Call 530= New Zealand<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeaters Coverage Area (http://www.dmr-marc.net/images/zl2r-coverage.jpg)<br><br>Contact: John Yaldwyn, ZL4JY<br>Email: jy@4rf.com",+5.000,ACTIVE,ZL2OA,TS1 TS2
+ZL2OA,Masterton,North Island 1,New Zealand,Peer,1,433.82500,ZL-TRBO,-40.8489370,175.7354620,530202,"Time Slot #1- Group Call 13 = Worldwide English<br>Time Slot #2- Group Call 5 = VK/ZL Regional<br>Time Slot #2- Group Call 530= New Zealand<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeaters Coverage Area (http://www.dmr-marc.net/images/zl2r-coverage.jpg)<br><br>Contact: John Yaldwyn, ZL4JY<br>Email: jy@4rf.com",+5.000,ACTIVE,"ZL2OA, ZL2BA",TS1 TS2
 ZL2KB,Kapiti,North Island 1,New Zealand,Peer,1,439.70000,ZL-TRBO,-40.9101,175.011,530203,"Time Slot #1- Group Call 13 = Worldwide English<br>Time Slot #2- Group Call 5 = VK/ZL Regional<br>Time Slot #2- Group Call 530= New Zealand<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeaters Coverage Area (http://www.dmr-marc.net/images/zl2r-coverage.jpg)<br><br>Contact: John Yaldwyn, ZL4JY<br>Email: jy@4rf.com",-5.000,ACTIVE,ZL2KB,TS1 TS2
 ZL2WA,Wellington,North Island 2,New Zealand,Peer,1,439.72500,ZL-TRBO,-41.3036956,174.7282043,530204,"Time Slot#1 - Group Call 1 = Worldwide Calling (2 min max)<br>Time Slot #1- Group Call 13 = Worldwide English<br>Time Slot #2- Group Call 530= New Zealand<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeaters Coverage Area (http://www.dmr-marc.net/images/zl2r-coverage.jpg)<br><br>Contact: John Yaldwyn, ZL4JY<br>Email: jy@4rf.com",-5.000,ACTIVE,ZL4JY,TS1 TS2
 ZL2KO,Manawatu,North Island 2,New Zealand,Peer,1,439.71250,ZL-TRBO,0.0,0.0,530205,"Time Slot#1 - Group Call 1 = Worldwide Calling (2 min max)<br>Time Slot #1- Group Call 13 = Worldwide English<br>Time Slot #2- Group Call 5 = VK/ZL Regional<br>Time Slot #2- Group Call 530= New Zealand<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Click here to view the Repeaters Coverage Area (http://www.dmr-marc.net/images/zl2r-coverage.jpg)<br><br>Contact: Scott, ZL2KO<br>Email: Scott@groovy.org.nz",-5.000,ACTIVE,ZL2FX,TS1 TS2
@@ -11364,8 +11363,8 @@ CE8WDB,Punta Arenas,Magallanes,Chile,Peer,1,433.05000,Brandmeister,-53.099098,-7
 HK5VD,Santiago de Cali,Valle del Cauca,Colombia,Peer,11,146.85000,facebook.com/hk5vd,3.4516467,-76.5319854,732001,,-0.600,ACTIVE,HK5VD,TS2
 HK3PQI,BOGOTA,Cundinamarca,Colombia,Master,1,146.64000,Mixed Mode,4.304008,-74.8041001029661,732002,,-0.600,ACTIVE,HK3G,Mixed Mode
 HK7DAF,Barrancabermeja,Santander,Colombia,Master,21,149.68500,DMR,7.0673313,-73.8525627,732003,,-5.000,ACTIVE,HK7DAF,TS1
-HK6REC,DOSQUEBRADAS  RISARALDA,Rosaralda,Colombia,Master,1,432.87500,BM,4.5302,-75.3939,732004,Asociación de Radioaficionados del Eje Cafetero Asorec-Hk6REC,+5.000,ACTIVE,HK6REC,TS2
-HK6REC,DOSQUEBRADAS  RISARALDA,Rosaralda,Colombia,Master,1,146.03000,BM,4.5602,-75.3939,732005,Repetidor prueba VHF 146.030 -600,-0.600,ACTIVE,HK6REC,TS1 TS2
+HK6REC,DOSQUEBRADAS  RISARALDA,Risaralda,Colombia,Master,1,432.87500,BM,4.5302,-75.3939,732004,Asociación de Radioaficionados del Eje Cafetero Asorec-Hk6REC,+5.000,ACTIVE,HK6REC,TS2
+HK6REC,DOSQUEBRADAS  RISARALDA,Risaralda,Colombia,Master,1,146.03000,BM,4.5602,-75.3939,732005,Repetidor prueba VHF 146.030 -600,-0.600,ACTIVE,HK6REC,TS1 TS2
 HK1NA,Barranquilla,Atlantico,Colombia,Master,1,438.27500,BM,11.0072222,-74.81472222222222,732006,Repetidora Digital DMR de la Integración Costeña / Zona HK1 Barranquilla-Colombia,-5.000,ACTIVE,HK1NA,TS1
 HK4VDW,PUERTO BERRIO ANTIOQIA,Antioquia,Colombia,Peer,1,144.59000,DMR,6.4924222,-74.3960068,732007,,+0.600,ACTIVE,HK4VDW,TS2
 HK4RAU,Medellin,Antioquia,Colombia,Master,10,146.67500,186.85.240.38,6.3107254,-75.6052973,732008,None,-0.600,ACTIVE,HK4RAU,Mixed Mode
