@@ -703,7 +703,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 721,KB3SAR,Jason,Watertown,New York,United States
 722,NG1P,Bill,Topsham,Maine,United States
 723,IW2DPZ,Fernando,Somma Lombardo,Lombardy,Italy
-724,PU1LOY,Luiz Sergio,Rio De Janeiro,Rio de Janeiro,Brazil
+724,PU1LOY,Luizsergio,Rio De Janeiro,Rio de Janeiro,Brazil
 725,K4WSX,Mario,Sebastian,Florida,United States
 726,KO4LJ,Todd,Winston-Salem,North Carolina,United States
 727,KN6DYQ,Nicholas,Centralia,Washington,United States
@@ -1286,7 +1286,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 1312,BG9EGA,Yang,XiAn,Shaanxi Ningxia Gansu Qinghai,China
 1313,KB2UNZ,Edward,Kenvil,New Jersey,United States
 1314,KB2UNZ,Edward,Kenvil,New Jersey,United States
-1315,EA7OR,Francisco,Cordoba,Cordoba,Spain
+1315,EC7T,Francisco,Cordoba,Cordoba,Spain
 1316,M1CFK,Neil,Redditch-R-ID-,England,United Kingdom
 1317,OK9DMR,Michal,Praha,Prague,Czech Republic
 1318,VK3HAG,Ashley S,Reservoir,Victoria,Australia
@@ -2717,6 +2717,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2787,DO8PE,Gary,Münster-Sarmsheim,Rheinland-Pfalz  Saarland,Germany
 2788,WQ9V,Kenneth,Brownsville,Texas,United States
 2789,KP4ABR,Amado,Florida,,United States
+2790,BG7HNU,Shijie,Changsha,Hunan Guangdong Guangxi Hainan,China
 2791,TA9ALC,Ali,igdir,Eastern Anatolia Region,Turkiye
 2792,KG4QVL,Joshua,Grantville,Georgia,United States
 2793,KO4MRI,Thomas,SARASOTA,Florida,United States
@@ -3641,7 +3642,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 3731,KC1RJS,Nathaniel,Northborough,Massachusetts,United States
 3732,KF5LFQ,Michael,Jacksonville,Arkansas,United States
 3733,W2DJ,Joel G,Cape Coral,Florida,United States
-3734,PU1CBL,Cebolao,Guacui Es,Espirito Santo,Brazil
+3734,PP1CBL,Cebolao,Guacui Es,Espirito Santo,Brazil
 3735,EB6ACD,Pedro,PALMA DE MALLORCA,Baleares,Spain
 3736,OE3OSB,Erich,Obersiebenbrunn,Niederoesterreich,Austria
 3737,KC3JS,Bruce,Germanton,North Carolina,United States
@@ -4679,7 +4680,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 4787,JR7YVT,Club,Sendai,Tohoku,Japan
 4788,SQ5CZP,Przemyslaw,Gostynin,mazowieckie,Poland
 4789,JH1TWX,Yoshimi,Tokyo,Kanto,Japan
-4790,M0TFO,Rob,Bath,England,United Kingdom
+4790,G5TFO,Rob,Bath,England,United Kingdom
 4791,DF9GE,Patrick,Spaichingen,Baden-Wuerttemberg,Germany
 4792,VE6HQ,Donald,Red Deer,Alberta,Canada
 4793,DK2FA,Michael,Kassel,Hessen,Germany
@@ -14180,7 +14181,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 14465,CD2IYA,Jose,San Antonio,Valparaiso,Chile
 14466,OK1MIT,Mirek,Slatinany,Pardubice Region,Czech Republic
 14467,K4DBC,James,Pinetta,Florida,United States
-14468,TB2ATH,Tunchakan,Istanbul,Marmara Region,Turkiye
 14470,KG5IE,Billy,Denton,Texas,United States
 14471,KD2OVM,Axel,Brooklyn,New York,United States
 14472,KR4MCE,Jesse,Indian Land,South Carolina,United States
@@ -15891,7 +15891,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 16207,TA2IJ,Soyhan,Istanbul,Marmara Region,Turkiye
 16208,DB3GW,Guido,Bremen,Niedersachsen  Bremen,Germany
 16209,TA1TNA,Tuna,Istanbul,Marmara Region,Turkiye
-16210,BI4AXK,Fan,Shanghai Pudong,Shanghai Shandong Jiangsu,China
+16210,BI4AXK,Zheyu,Shanghai Pudong,Shanghai Shandong Jiangsu,China
 16211,KE2JCV,Luis,Parlin,New Jersey,United States
 16212,BG7ENA,Quanqian,Changsha,Hunan Guangdong Guangxi Hainan,China
 16213,N2EOM,Andrea,Belton,Texas,United States
@@ -16803,7 +16803,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 17129,WA1KXV,Marc,Auburn,California,United States
 17130,KE9DUS,Jess,Stoughton,Wisconsin,United States
 17131,N2OAD,Joseph,Forked River,New Jersey,United States
-17132,UR5DGR,Pavlo,Kherson,All Regions,Ukraine
+17132,UR5DGR,Pavlo,,All Regions,Ukraine
 17133,PD3MC,Marcel,Kerkrade,Limburg,Netherlands
 17134,K3XL,Bud,Westford,Massachusetts,United States
 17135,PU2MLR,Marcos,Capao Bonito,Sao Paulo,Brazil
@@ -17506,11 +17506,59 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 17835,KD5INN,Jerry,Wichita Falls,Texas,United States
 17836,KK7VFZ,Eric,Simpsonville,South Carolina,United States
 17837,W5MFH,Michael,Bullhead City,Arizona,United States
+17838,NX3D,Milton,Sewickley,Pennsylvania,United States
+17839,KE8TGA,Leo,Mason,Ohio,United States
+17840,WA2NYY,Mark,Hopewell Junction,New York,United States
+17841,W8BFD,Bryan,Belpre,Ohio,United States
+17842,KE0JGH,Preston,Nixa,Missouri,United States
+17843,TA6EA,Ahmet,Turkey,Central Anatolia Region,Turkiye
+17844,KE0BQA,Dyllan,Wichita,Kansas,United States
+17845,W0CES,John,Benedict,Nebraska,United States
+17846,ZL3TTA,Trevor,Nelson,South Island,New Zealand
+17847,K7SWU,Jay,St  George,Utah,United States
+17848,VK7DIK,Fred,Ulverstone,Tasmania,Australia
+17849,ZS1WLM,Willem,Saldanha,Cape,South Africa
+17850,SQ5NXX,Marcin,Warszawa,,Poland
+17851,CN8MHW,Wassim,TEMARA,All Regions,Morocco
+17852,JP7BJY,Kanemitsu,Kitakami-City Iwate-Pref,Tohoku,Japan
+17853,4L7EL,Vakhtang,Bitsmendi,All Regions,Georgia
+17854,MW7KKW,Kevin,Bridgend,Wales,United Kingdom
 17855,KR6Q,Demian,Sacramento,California,United States
 17856,MM0RBR,Robert,Dunfermline,,United Kingdom
+17857,E26EBL,Naruephong,Rawai Muang Phuket,Phuket,Thailand
+17858,VY2WTF,Richard,Belfast,Prince Edward Island,Canada
+17859,KK7TQA,Dane,Everson,Washington,United States
+17860,KD2ARB,Pete,Belle Mead,New Jersey,United States
+17861,KJ7NWW,Jeremiah,BRIGHAM CITY,Utah,United States
 17862,WD9JEN,Mark,Arlington Heights,Illinois,United States
 17863,N8JJO,John,Burtchville,Michigan,United States
 17864,M7LIE,Emilie,Leigh,,United Kingdom
+17865,KJ5FLM,Michael,Oakwood,Oklahoma,United States
+17866,IZ5CMC,Maurizio,Grosseto,Tuscany,Italy
+17867,KM7GAN,Joshua,Murray,Utah,United States
+17868,SP5MMR,Maciek,Garwolin,mazowieckie,Poland
+17869,NX2M,21St Century Arc,Albany,New York,United States
+17870,SV3FUP,ARISTIDIS,PATRA,,Greece
+17871,WA4VGZ,James,Nashville,Tennessee,United States
+17872,EA8DTO,Cesar,Santa Cruz De Tenerife,Santa Cruz de Tenerife,Spain
+17873,PD0WC,Wouter,Sint-Annaland,Zeeland,Netherlands
+17874,OK1TZL,Martin,Nejdek,Karlovy Vary Region,Czech Republic
+17875,PR2QM,Nadiel,,Sao Paulo,Brazil
+17876,N6MON,Terence,San Lorenzo,California,United States
+17877,KM4ECA,Christophe,Shepherdsville,Kentucky,United States
+17878,KD5FJV,Michael,Tuscaloosa,Alabama,United States
+17879,KE4OGG,Raymond,Seneca,South Carolina,United States
+17880,KM7DKX,Seth,Spanaway,Washington,United States
+17881,VK3TBR,Tim,Horsham,Victoria,Australia
+17882,KF8AUN,Nate,Bristolville,Ohio,United States
+17883,J73IMS,Ishmael,Portsmouth,,Dominica
+17884,JS1YVW,NAKAYAMA AMC,,,Japan
+17885,KJ5JKL,Michael,Wylie,Texas,United States
+17886,YD0BXR,Dhetyo,Jakarta Timur,DKI Jakarta,Indonesia
+17887,KC3WQE,Lawrence,Hanover,Pennsylvania,United States
+17888,KC1UA,Scott,Marstons Mills,Massachusetts,United States
+17889,AD7TG,Eric,Prescott Valley,Arizona,United States
+17890,VA3POQ,Victor,Toronto,Ontario,Canada
 17982,K8DJN,RUTH E,HUBBARD,,United States
 17999,BG2HFY,Liu,Harbin,Heilongjiang Jilin Liaoning,China
 18002,PU2YPP,Cristiano,Sao Vicente,Sao Paulo,Brazil
@@ -18626,7 +18674,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 41187,ON4LCH,Michel,Ittre,,Belgium
 41248,EA1IWY,EA1IWY,Ourense,,Spain
 41279,KC7DMF,Mark A,Culver,Oregon,United States
-41280,KE8OMX,Craig A,WYOMING,Michigan,United States
+41280,KE8OMX,Craig,Gowen,Michigan,United States
 41322,EA1AYL,JOSE MANUEL,PRAVIA,,Spain
 41334,N7GYL,Chris E,Florence,Oregon,United States
 41335,VE9CBZ,Glen,Fredericton,New Brunswick,Canada
