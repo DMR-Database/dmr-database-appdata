@@ -2250,11 +2250,11 @@ GB7GG,Airdrie,Scotland,United Kingdom,Peer,1,439.62500,DVSPh Network,55.8609825,
 GB7DE,Kennoway - Kingdom of Fife,Scotland,United Kingdom,Peer,1,145.63750,Brandmeister,56.23324,-3.07098,235403,,-0.600,ACTIVE,GM7RYR,TS1 TS2
 GB7JD,Jedburgh,Scotland,United Kingdom,Peer,1,439.41250,DMR-plus,55.471901,-2.568500,235404,,-9.000,ACTIVE,GM4UPX,TS1 TS2
 GB7SS,Elgin,Scotland,United Kingdom,,1,439.58750,BM,57.659344,-3.310528,235405,,-9.000,ACTIVE,GM7LSI,TS1 TS2
-GB7KN,Kirknewton IO85HV,Scotland,United Kingdom,,1,439.43750,DMR-plus,,,235407,,-9.000,ACTIVE,GM5JPB,TS1 TS2
+GB7KN,Kirknewton,Scotland,United Kingdom,Peer,1,439.43750,DMR-plus,55.8876740,-3.4158380,235407,,-9.000,ACTIVE,GM5JPB,TS1 TS2
 GB7CS,East Kilbride,Scotland,United Kingdom,,1,439.77500,DMR-plus,55.760176,-4.179078,235408,,-9.000,ACTIVE,GM7GDE,TS1 TS2
 GB7FE,Stirling,Scotland,United Kingdom,Peer,1,439.47500,Brandmeister,56.1071200,-3.8458700,235410,,-9.000,ACTIVE,GM0MZB,TS1 TS2
 GB7DA,Airdrie,Scotland,United Kingdom,Peer,1,145.77500,DVSPh Network,55.86,-3.99,235411,,-0.600,ACTIVE,GM4AUP,TS1 TS2
-GB7LV,Livingston,Scotland,United Kingdom,,1,145.61250,DMR-plus,55.8831932,-3.5149461,235412,,-0.600,ACTIVE,GM5JPB,TS1 TS2
+GB7LV,Broxburn,Scotland,United Kingdom,Peer,1,145.61250,DMR-plus,55.9311460,-3.4694940,235412,,-0.600,ACTIVE,GM5JPB,TS1 TS2
 GB7OR,Orkney Islands,Scotland,United Kingdom,Peer,1,439.46250,BM,58.98801,-3.02528,235414,GB7OR is a 70cm DMR and FM repeater covering the Orkney Islands and parts of Caithness on mainland Scotland. Operation on FM will require a ctcss encode tone of 162.2 Hz and a different ctcss decode tone (tone squelch) of 77 Hz to avoid hearing the digital signals on FM. The current DMR TalkGroup configuration is shown under Slot details. on the Brandmeister rerpeater page..<br>https://brandmeister.network/?page=device&id=235414,-9.000,ACTIVE,GM4WMM,TS1 TS2
 GB3DU,Duns,Scotland,United Kingdom,Master,1,145.76250,BM,55.777842,-2.3438476,235417,,-0.600,ACTIVE,GM7LUN,TS1 TS2
 GB3OH,Linlithgow,Scotland,United Kingdom,Peer,1,430.95000,Brandmeister,55.9967000,-3.6464200,235418,,7.600,ACTIVE,GM0MZB,TS1 TS2
@@ -2752,7 +2752,7 @@ ES1RVA,Tallinn,All Regions,Estonia,Master,1,145.77500,BM,59.4258,24.8005,248006,
 ES4RVK,Kohtla-Jarve,All Regions,Estonia,Master,1,145.72500,BM,59.39470449664931,27.2962994361237,248007,"248, 24804, 24814, 248112",-0.600,ACTIVE,ES4RM,TS1 TS2
 ES8DMR,Lihula,All Regions,Estonia,Master,1,438.65000,BM,58.693177,23.8399,248008,,-7.6,ACTIVE,ES8AT,Mixed Mode
 ES3DMR,Rapla,All Regions,Estonia,Master,1,438.80000,BM,58.94347,24.73334,248009,,-7.6,ACTIVE,ES2AST,TS1 TS2
-ES3DMRA,Märjamaa,,Estonia,Peer,1,438.75000,BM,58.90524994138524,24.432340118636056,248010,TS1: Dynamic<br>TS2: TG248 - Estonia,-7.6,ACTIVE,ES1KRM,Mixed Mode
+ES3DMRA,Marjamaa,All Regions,Estonia,Peer,1,438.75000,BM,58.90524994138524,24.432340118636056,248010,TS1: Dynamic<br>TS2: TG248 - Estonia,-7.6,ACTIVE,ES1KRM,Mixed Mode
 RK3FWD,None,,Russia,Peer,1,443.00000,BM,42.0,65.0,250000,None,+5.000,ACTIVE,R3ABM,TS1 TS2
 R0AFJ,,,Russia,,1,0.00000,BM,0,0,250001,,,ACTIVE,R0AFJ,TS1 TS2
 RR9UAA,Kemerovo,All Regions,Russia,Master,1,439.40000,BM,55.311358,86.097200,250004,"2501, 250942, 250142",-7.600,ACTIVE,R9UHI,Mixed Mode
@@ -2770,7 +2770,7 @@ RK9XS,,,Russia,,1,0.00000,BM,0.0,0.0,250016,,,ACTIVE,RK9XS,TS1 TS2
 UA0LGY,,,Russia,,1,438.80000,BM,43.12236,131.9031,250017,,-7.600,ACTIVE,UA0LGY,TS1 TS2
 R6LHS,Rostov,,Russia,Master,1,438.67500,2502,47.266267,39.684482,250018,"TS1: 2501<br>TS2: 250500, 250616, 25011",-7.6,ACTIVE,R6LHS,Mixed Mode
 R2FDB,Kaliningrad,,Russia,Peer,1,438.50000,BM 2503,54.871475,19.941999,250019,,-7.600,ACTIVE,R2FDB,TS1 TS2
-RA3ZCP,Belgorodskaya Obl,,Russia,Master,1,439.35000,BM,50.65067,38.68241,250020,,-7.600,ACTIVE,RA3ZCP,TS1
+RA3ZCP,Belgorodskaya Obl,All Regions,Russia,Master,1,439.35000,BM,50.65067,38.68241,250020,,-7.600,ACTIVE,RA3ZCP,TS1
 R2FDB,Kaliningrad,,Russia,Master,1,438.20000,BM,,,250021,,-7.600,ACTIVE,R2FDB,TS1 TS2
 RN3A,Dedovsk,,Russia,Master,1,439.67500,FreeDMR,55.87555,37.12749,250022,,-7.600,ACTIVE,RN3A,TS1 TS2
 RN3A,Dedovsk,,Russia,Master,1,439.67500,BM,55.875190999999994,37.12632028662624,250023,,-7.600,ACTIVE,RN3A,TS1 TS2
@@ -3387,7 +3387,6 @@ DO0SOB,Erwitte,Nordrhein-Westfalen,Germany,Master,1,439.36250,BM,51.51055,8.3385
 DB0FSG,Langenbach,Bayern,Germany,Peer,1,439.93750,BM,48.434244,11.819593,262186,"262,2628,9",-9.4,ACTIVE,DL3NCU,TS1 TS2
 DB0IDS,Idstein,Hessen,Germany,Peer,1,438.41250,BM,50.22028,8.24806,262187,,-7.600,ACTIVE,DH2KD,TS1 TS2
 DB0LOL,Loeningen,Niedersachsen / Bremen,Germany,Master,1,439.50000,DMR,0.0,0.0,262188,,-7.600,ACTIVE,DL1LOL,Mixed Mode
-DL3OCK,Berlin,Berlin / Brandenburg,Germany,Peer,1,438.62500,BM,52.50222,13.33306,262189,Mobile Repeater for testing issues,-7.600,ACTIVE,DL3OCK,TS1 TS2
 DB0LS,Lauchhammer,Berlin / Brandenburg,Germany,Master,1,438.22500,"DMR+, YSF",51.5274,13.8307,262190,,-7.600,ACTIVE,DG1FI,Mixed Mode
 DK5RAS,Fuerth,Bayern,Germany,Peer,1,439.70000,BM,49.4727100,10.9825900,262191,,-9.4,ACTIVE,DK5RAS,TS1 TS2
 DB0TEN,Bomlitz,Niedersachsen / Bremen,Germany,Master,1,439.21250,BM,52.902111,9.667600,262192,,-7.600,ACTIVE,DK1OM,TS1 TS2
@@ -3485,7 +3484,6 @@ DB0OBO,Bad Muender,Niedersachsen / Bremen,Germany,Peer,1,439.53750,DMR-plus,52.1
 DL1BH,Bremerhaven,Niedersachsen / Bremen,Germany,Peer,1,439.00000,BM,53.556896,8.578429,262302,,-7.600,ACTIVE,DL1BH,TS1 TS2
 DB0RVB,Ravensberg,Niedersachsen / Bremen,Germany,Master,1,439.45000,BM,51.62152,10.52669,262303,,-7.600,ACTIVE,DL8AAP,TS1 TS2
 DO0SZ,Salzgitter,,Germany,,1,439.46250,BM,52.1503721,10.3593147,262304,,-7.600,ACTIVE,DO1OTD,TS1 TS2
-DB0JUI,Marienhafe-Ostfriesland,Niedersachsen / Bremen,Germany,Peer,1,439.27500,BM,53.678627,6.996511,262305,,-7.600,ACTIVE,DF6BT,TS1 TS2
 DB0XX,Helmstedt,Niedersachsen / Bremen,Germany,Peer,1,439.50000,Brandmeister,52.2371000,11.0049000,262306,,-7.600,ACTIVE,DK2HP,TS1 TS2
 DM0WL,Winsen Luhe,Niedersachsen / Bremen,Germany,Peer,1,439.03750,BM,53.35593,10.20795,262307,"TS1: TG262 Deutschland | TG9112 Emergency | TG910 WW German<br>TS2: TG9 Local | TG8 Regio (Niedersachsen Nord, DB0AGM/DB0BUC/DB0WL, ext. TG26236) | TG26220 Region Hamburg | TG26221 Hamburg City |  TG 26220 und TG 26221 Mo.-Fr. nicht von 6:00-8:00Uhr",-7.600,ACTIVE,DL7TJ,TS1 TS2
 DM0DOS,Doerenberg,Niedersachsen / Bremen,Germany,Peer,1,145.71250,BM,52.1775,8.044740000000001,262308,,-0.600,ACTIVE,DJ2QW,TS1 TS2
@@ -4159,7 +4157,6 @@ YM5KKE,AKSARAY,Central Anatolia Region,Turkiye,Peer,1,439.16250,2841,38.3733330,
 YM1KK,Istanbul,Marmara Region,Turkiye,Peer,1,439.22500,BM,41.0163900,29.0655000,286002,9286,-7.600,ACTIVE,TA1EAT,TS1 TS2
 YM1KAB,ISTANBUL,Marmara Region,Turkiye,Peer,0,439.23750,BrandMeister,41.0292221,28.6027769,286003,None,-7.600,ACTIVE,TA1MLD,TS1 TS2
 YM1KPL,Tekirdag,Marmara Region,Turkiye,Peer,1,439.41250,BrandMeister,41.2965546,27.9464071,286004,None,-7.600,ACTIVE,"TA1NDA, TA1SDA, YM1KPL, TA1DRD, TA1TEC",TS1
-TB7CEA,Ordualtinordu,Black Sea Region,Turkiye,Peer,1,432.50000,0,40.9782600,37.9547720,286006,Hicbiri,0.000,ACTIVE,TB7CEA,TS2
 YM3KZ,Mustafakemalpasa Bursa,Marmara Region,Turkiye,Peer,2,145.68750,Local,40.0371660,28.3945700,286007,,-0.600,ACTIVE,"YM3KZ, TA3SG",Mixed Mode
 YM6VSM,SAMSUN,Black Sea Region,Turkiye,Peer,1,439.27500,Brandmeister,41.2125000,36.2970000,286008,SAMRAD UHF 439.275,-7.600,ACTIVE,"YM6VSM, TA6UNT",TS1 TS2
 YM6VSM,samsun,Black Sea Region,Turkiye,Peer,1,145.72500,Brandmeister,41.1247250,36.1748040,286009,SAMRAD VHF DMR 145.725,-0.600,ACTIVE,"YM6VSM, TA6UNT",TS2
@@ -4784,7 +4781,6 @@ VE1MCM,Currys Corner,Nova Scotia,Canada,Peer,1,442.12500,BM,44.974765,-64.129338
 VE3MBR,OWEN SOUND,Ontario,Canada,Peer,1,444.42500,BM,44.569834,-80.911539,302455,,+5.000,ACTIVE,VE3RNK,TS1 TS2
 VA3PWR,Newmarket,Ontario,Canada,Peer,1,442.00000,MMDVM,44.0653641,-79.4323002,302456,None,+5.000,ACTIVE,VE3PWR,TS1 TS2
 VE7RKO,Prince George,British Columbia,Canada,Peer,1,433.50000,BM,54.0158330,-122.8044000,302457,None,+5.000,ACTIVE,VE7BUL,TS2
-VE3STR,St Thomas,Ontario,Canada,Master,1,443.82500,BM,42.7659470,-81.1654730,302458,Analog crosslink for 302277.,+5.000,ACTIVE,"VE3NEM, VE3NRJ",TS1
 VE7KRX,cranbrook,British Columbia,Canada,Peer,1,444.92500,private hb link,49.5000000,115.0000000,302459,None,+5.000,ACTIVE,VE7CRX,TS1
 VE2SWH,Sainte-Sophie,Quebec,Canada,Peer,2,448.67500,HOME,45.7956921,-73.9391855,302460,None,-5,ACTIVE,VA2SSK,TS1 TS2
 VE1VO,Liverpool,Nova Scotia,Canada,Peer,1,444.30000,Brandmister,44.0678440,-64.7186490,302461,None,+5.000,ACTIVE,VE1SMC,TS1 TS2
@@ -5960,7 +5956,6 @@ W4PJT,Tampa,Florida,United States,Master,1,443.11250,FL-DMR,27.950575,-82.457177
 KG4GOQ,Lake Worth,Florida,United States,Master,10,444.45000,DMR-MARC-Lake,26.6213925,-80.0703867,311224,"Time Slot #1 - Group Call 1 = World Wide (PTT activated with 5 min inactivity timeout)<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br><br>Time Slot #2 - Group Call 2 = Local<br>Time Slot #2- Group Call 3112- Florida Statewide<br>Time Slot #2 - Group Call 3174- Southeast Regional<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area<br> <br>Contact Name:  Paul, KG4GOQ<br>Email: KG4GOQ@bellsouth.net<br>Website:",+5.000,ACTIVE,KG4GOQ,TS1 TS2
 KD4SJF,Palm Beach Gardens,Florida,United States,Master,10,442.10000,DMR-FL,26.8056285,-80.0717497,311225,"TS 1 TG-3 = N. America (ON)<br>TS 1 TG-13 =WW English (PTT)<br>TS 1 TG-3112 =Florida Statewide(PTT)<br>TS 1 TG-3174 =Southeast Regional (PTT)<br>TS 1 TG-310 =TAC-310 (PTT)<br>TS 1 TG-311 =TAC-311 (PTT)<br>TS 2 Group Call 2 =Local-NetWork (ON)<br>TS 2 Group Call 9= Local-Repeater (PTT)<br>TS 2 Group Call 3136 =TRI-State (PTT)<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area<br> <br>Contact Name: James, KD4SJF<br>Email: copter479@@aol.com<br>Website:",+5.000,ACTIVE,KD4SJF,TS1 TS2
 W2GGI,Delray Beach,Florida,United States,Master,1,443.30000,DMR-MARC,26.4483854,-80.0738097,311226,"TS 1 TG-3 = N. America (ON)<br>TS 1 TG-13 =WW English (PTT)<br>TS 1 TG-3112 =Florida Statewide(PTT)<br>TS 1 TG-3174 =Southeast Regional (PTT)<br>TS 1 TG-310 =TAC-310 (PTT)<br>TS 1 TG-311 =TAC-311 (PTT)<br>TS 1 TG-3126=MICHIGAN-STATE (PTT)<br>TS 2 Group Call 2 =Local-NetWork (ON)<br>TS 2 Group Call 9= Local-Repeater (PTT)<br>TS 2 Group Call 3136 =TRI-State (PTT)<br><br>You Must Have [ARS] Disabled Within Your Radio<br> <br>Contact Name: Robert, W2GGI<br>Email: W2GGI@bellsouth.net<br>Website:",+5.000,ACTIVE,W2GGI,TS1 TS2
-N4GUS,Kissimmee,Florida,United States,Master,1,444.97500,DMR-MARC,28.3278611,-81.4061703,311227,Time Slot #1 - Group Call 1 = World Wide<br>Time Slot #1 - Group Call 13 = WW English<br>Time Slot #1 - Group Call 3 = N. America<br>Time Slot #2 - Group Call 2 = Local<br>Time Slot #2- Group Call 3112- Florida Statewide<br>Time Slot #2 - Group Call 3174- Southeast Regional<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area (http://dmr-marc.net/images/k4aus-coverage.jpg)<br><br>Contact Name: Stehen Butler<br>Email: no9s@no9s.org,+5.000,ACTIVE,NO9S,TS1 TS2
 KM4CTB,Jacksonville Beach,Florida,United States,Peer,1,442.42500,K4USD Network,30.286839,-81.390648,311228,"TS1 TG1 WW (PTT)<br>TS1 TG3 NA<br>TS1 TG13 WWE (PTT)<br>TS1 TAC 310 (PTT)<br>TS1 TAC 311 (PTT)<br>TS1 TG 9-Local Repeater<br><br>TS2 TG 2-Local (FCDMR Net)<br>TS2 TG 3112-FL State<br>TS2 TG 3113-GA State (PTT)<br>TS2 TG 3125-MA State (PTT)<br>TS2 TG 3139-OH State (PTT)<br>TS2 TG 3174-SE Regional<br>TS2 TG 3100-Bridge (PTT)<br>TS2 TG 8951-TAC 1 (PTT)<br>TS2 TG 1776 - US 1776 (PTT)<br>TS2 TG 113 - UA English 1 (PTT)<br>TS2 TG 123 - UA English 2 (PTT)<br>TS2 TG 9998-Parrot (PTT)<br>TS2 TG 9999-NoCal Audio Test (PTT)<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Donny, KM4CTB<br>Email: djstratmann@gmail.com",+5.000,ACTIVE,KM4CTB,TS1 TS2
 K4LAK,Tavares,Florida,United States,Peer,1,444.61250,dmr-se.org,28.8236357,-81.711985,311229,"TIME SLOT 1:<br><br>Full time: <br>Group Call 3112 = Florida Statewide<br>Group Call 31121 = First Coast DMR<br><br>On PTT:<br>Group Call 3 =  N. America<br>Group Call 3174 = Southeast Regional<br>Group Call 310 = TAC 310<br>Group Call 311 = TAC 311<br>Group Call 316272 = NASA<br>Group Call 316274 = KSC<br>Group Call 9998 = Parrot/Test<br><br>TIME SLOT 2:<br>Group Call 2 = Lake County/Countywide (W4ALR, K4AUS, K4LAK repeaters)<br>Group Call 9 = Local Coverage<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Area: https://fasma.org/wp-content/uploads/K4AUS-Service-contour.png<br><br>Contact Name: Jason Matthews, K4AUS<br>Email:jason@lcso.org",+5.000,ACTIVE,K4AUS,TS1 TS2
 N2XDA,Jacksonville,Florida,United States,Peer,7,444.42500,K4USD Network,30.317766,-81.661377,311230,"TS1 TG1 WW (PTT)<br>TS1 TG3 NA<br>TS1 TG13 WWE (PTT)<br>TS1 TAC 310 (PTT)<br>TS1 TAC 311 (PTT)<br>TS1 TG 9-Local Repeater<br><br>TS2 TG 2-Local (FCDMR Net)<br>TS2 TG 3112-FL State<br>TS2 TG 3113-GA State (PTT)<br>TS2 TG 3125-MA State (PTT)<br>TS2 TG 3139-OH State (PTT)<br>TS2 TG 3174-SE Regional<br>TS2 TG 3100-Bridge (PTT)<br>TS2 TG 8951-TAC 1 (PTT)<br>TS2 TG 1776 - US 1776 (PTT)<br>TS2 TG 113 - UA English 1 (PTT)<br>TS2 TG 123 - UA English 2 (PTT)<br>TS2 TG 9998-Parrot (PTT)<br>TS2 TG 9999-NoCal Audio Test (PTT)<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Contact Name: Dave, N2XDA<br>Email: crjdave@gmail.com<br>Website:",+5.000,ACTIVE,N2XDA,TS1 TS2
@@ -7146,6 +7141,7 @@ W1MLL,Dennis,Massachusetts,United States,Peer,11,146.47000,NEDECN,41.704167,-70.
 N1ATP,OTIS,Massachusetts,United States,Peer,1,447.93750,Brandmeister,42.1930224,-73.0919689,312535,Portable Event Repeater Hytera RD982i,-5.000,ACTIVE,N1ATP,TS1 TS2
 N1WW,Gardner,Massachusetts,United States,Peer,3,145.34000,NEDECN,42.5816600,-71.9820200,312536,"DMR Repeater linked to the NEDECN DMR+ network.<br>Covering north central Worcester County, eastern Franklin County, SW New Hampshire areas.<br><br>Website:  http://nedecn.org",-0.600,ACTIVE,N1WW,TS1 TS2
 KB1SFG,Lawrence,Massachusetts,United States,Master,1,446.37500,Brandmeister,42.7070354,-71.1631137,312538,,-5.000,ACTIVE,KB1SFG,TS2
+KA1GG,West Bridgewater,Massachusetts,United States,Peer,4,449.98750,Brandmeister,42.009392,-71.044701,312539,,-5.000,ACTIVE,AJ1L,Mixed Mode
 AC1M,Norwell,Massachusetts,United States,Master,5,145.25000,Brandmeister,42.192200,-70.821404,312540,,-0.600,ACTIVE,KC1HO,Mixed Mode
 W1ATD,Marshfield,Massachusetts,United States,Peer,9,145.39000,Brandmeister,42.111141,-70.704323,312541,,-0.600,ACTIVE,AJ1L,Mixed Mode
 NA1HS,North Attleboro,Massachusetts,United States,Master,3,447.97500,Brandmeister,41.9834324,-71.3328328,312542,,-5.000,ACTIVE,KA1EWN,TS1 TS2
@@ -8917,7 +8913,7 @@ N3RZL,Brockway,Pennsylvania,United States,Master,1,442.35000,Brandmeister,41.246
 N4TS,Mountain City,Georgia,United States,Peer,1,443.15000,BM,34.54169,-83.24434,314469,,+5.000,ACTIVE,N4TS,TS2
 WA9RSK,Decatur,Illinois,United States,Peer,5,443.25000,BM,39.8769444,-89.0150000,314470,,+5.00,ACTIVE,WA9RSK,TS1 TS2
 K6TZ,Santa Barbara,California,United States,Peer,1,445.48000,BM,34.4221319,-119.7026673,314471,,-5.000,ACTIVE,K6TZ,TS1 TS2
-N5JLR,Harlingen,Texas,United States,Master,1,442.47500,BrandMiester,26.075686,-97.47960,314472,"TS-2 TG-2, So-Texas (31482)<br>TS-1 Texas St. (3148)",+5.000,ACTIVE,KD4FJ,TS1 TS2
+KD4FJ,Harlingen,Texas,United States,Master,1,442.47500,BrandMiester,26.075686,-97.47960,314472,"TS-2 TG-2, So-Texas (31482)<br>TS-1 Texas St. (3148)",+5.000,ACTIVE,KD4FJ,TS1 TS2
 N2FED,Watnong Mountain,New Jersey,United States,Master,7,448.87500,DMR-SE,40.847294,-74.486641,314473,"For complete repeater details, visit https://n2fed.net",-5.000,ACTIVE,N2FED,TS1 TS2
 KC0YHU,Urbandale,Iowa,United States,Master,1,147.30000,TGIF,41.631705,-93.721284,314475,"Analog FM and TGIF.Network TG's 7399 Amateur Radio Missionary Service, 319 YLSystem primarily.",+0.600,ACTIVE,KC0YHU,Mixed Mode
 W4UA,High Point,North Carolina,United States,Master,1,443.90000,BM,36.03880,-79.97922,314476,,+5.000,ACTIVE,N4TLC,TS1 TS2
@@ -9729,7 +9725,7 @@ K5TKR,Longview,Texas,United States,Peer,1,440.60000,BM,32.5007031,-94.74049,3158
 W5ZMV,TEXAS CITY,Texas,United States,Peer,5,440.62500,Lonestar,29.396013,-94.9175485,315826,,+5.000,ACTIVE,W5ZMV,TS1 TS2
 KE5PL,Midland,Texas,United States,Peer,7,147.22000,P25NX,31.9973662,-102.0779482,315827,,+0.600,ACTIVE,KE5PL,TS1
 N5ETX,Farmersville,Texas,United States,Peer,1,0.00000,Brandmeister,33.137402,-96.292152,315828,,+5.000,ACTIVE,WB5KSD,TS1 TS2
-W5DFW,Keller,Texas,United States,Master,1,424.97500,Mixed Mode,32.9299655,-97.2271249,315829,,+5.000,ACTIVE,N5CN,TS1 TS2
+W5DFW,Keller,Texas,United States,Peer,1,424.97500,Mixed Mode,32.9299655,-97.2271249,315829,,+5.000,ACTIVE,N5CN,TS1 TS2
 WA5KXG,Houston,Texas,United States,Peer,9,443.75000,TMARC Houston,29.5821811,-95.7607832,315830,Timeslot 1	                                                      Timeslot 2<br>Talkgroup Name	Talkgroup ID		         Talkgroup Name	    Talkgroup ID<br>Local Repeater	   2		                          Texas Statewide	        3148<br>HTX2	                   8204		                   Worldwide	                 1<br>BM South Texas	   31482		                   North America	         3<br>BM SouthEast Texas  31484	                           TAC310	                         310<br>AMSAT	                    98006<br>SETECG	                    8686<br>SkyHub Link	           310847<br>NARS	                   3146211<br>HOU Metro	           8207,+5.000,ACTIVE,WA5KXG,TS1 TS2
 W5EBQ,Dallas,Texas,United States,Master,1,441.63750,Lonestar,32.7762719,-96.7968559,315831,,+5.000,ACTIVE,W5EBQ,TS1 TS2
 N5JLP,Belton,Texas,United States,Master,10,442.67500,Brandmiester,31.024090,-97.279991,315832,,+5.000,ACTIVE,N5SIM,TS1 TS2
@@ -10957,7 +10953,7 @@ PP5ABA,JOINVILLE,Santa Catarina,Brazil,Master,1,439.25000,BrandMeister,-26.36680
 PY4RAC,Barbacena,Minas Gerais,Brazil,Peer,1,145.29000,DMR-plus,-21.5456,-43.0987,724030,TG-724 SL2 MG,-0.600,ACTIVE,PU1LOY,TS1 TS2
 PP5GRI,Florianopolis,Santa Catarina,Brazil,1,1,146.69000,DMR+MASTER SUL,-27.5973002,-48.5496098,724031,,-0.600,ACTIVE,PP5DR,TS1 TS2
 PY2KCR,Paraibuna,Sao Paulo,Brazil,Master,1,147.09000,BrandMeister,-23.499106637475805,-45.67412456197885,724032,,+0.600,ACTIVE,PY2TB,TS1 TS2
-PR8AAA,Sao Luis,Maranhao,Brazil,Master,1,439.75000,BrandMeister,-2.500710,-44.274841,724033,TG 724 Slot 1,-5.000,ACTIVE,PU8NOW,1 and 2
+PR8AAA,Sao Luis,Maranhao,Brazil,Master,1,439.75000,BrandMeister,-2.500710,-44.274841,724033,TG 724 Slot 1,-5.000,ACTIVE,PU8NOW,TS1 TS2
 PY5DIG,Toledo,Parana,Brazil,50,1,434.12500,BrandMeister,-24.751400,-53.700851,724034,,+5.000,ACTIVE,PY5QQ,TS1&2
 PP5CR,Cacador,Santa Catarina,Brazil,1,1,439.62500,DMR+ MASTER SUL,-26.77567,-51.0120041,724036,,-5.000,ACTIVE,PY5JP,TS1  TS2
 PY3EL,Santa Rosa,Rio Grande do Sul,Brazil,Master,1,147.12000,DMR BrandMeister,-27.492755,-54.275076,724037,,-0.600,ACTIVE,PY3LK,TS1 TS2
@@ -11367,6 +11363,7 @@ YV4VEC,VALENCIA,Carabobo,Venezuela,Peer,1,146.64000,ADN Systems,10.1608000,-67.7
 YV6CR,EL TIGRE,Anzoategui,Venezuela,Master,1,439.99000,BRAINMASTER.COM,8.8861100,-64.2611100,734018,None,-5.000,ACTIVE,YV6CR,TS1 TS2
 YY6CJJ,El Tigre,Anzoategui,Venezuela,Peer,1,439.85000,Brainmaster,8.8763307,-64.1741317,734019,None,-5.000,ACTIVE,YY6CJJ,TS1
 YV2FYY,Los Caballeros,Merida,Venezuela,Peer,1,146.76000,BM; TGIF,8.5924590,-71.1675370,734020,None,-0.600,ACTIVE,YV2FYY,TS1 TS2
+YV3CXF,Acariagua,Lara,Venezuela,Master,1,147.24000,BRAIMEISTER,9.596232,-69.2260700,734021,None,+0.600,ACTIVE,YV3CXF,TS1 TS2
 YV1GAG,MARACAIBO,Zulia,Venezuela,Master,1,439.87500,ADN SYSTEM,10.6464410,-71.6244400,734101,TG 734 Principal<br>TG 7341 Zona YV1<br>TG 73440 NET DIGITAL VENEZUELA,-5.000,ACTIVE,YV1GAG,TS1 TS2
 YV1GAG,maracaibo,Zulia,Venezuela,Master,1,439.57500,BM,10.604724,-71.654556,734102,REPETIDOR DMR MMDVM UHF PARA LA RED BM<br>734 slot 1<br>7341 slot 2,-5.000,ACTIVE,YV1GAG,TS1 TS2
 YV4KW,Valencia Carabobo,Aragua,Venezuela,Master,1,146.88000,DMR-Marc,10.1828036,-68.003553,734401,,-0.600,ACTIVE,YV4KW,TS1
