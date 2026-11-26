@@ -402,7 +402,7 @@ F5ZKZ,Talence,Nouvelle-Aquitaine,France,Master,1,439.87500,2082,44.81938,-0.5818
 F1ZMY,Bourges,Centre-Val de Loire,France,Master,1,430.17500,BM,46.55676,2.20160,208066,TG 20803,+9.400,ACTIVE,F4FAU,TS1 TS2
 F1ZVO,Mont Ventoux,Provence-Alpes-Cote d Azur,France,Master,1,430.46250,"IPSC2, BM",44.173588,5.277612,208067,,+9.4000,ACTIVE,F4JCD,TS1 TS2
 F6ZCD,SAINT ETIENNE,Auvergne-Rhone-Alpes,France,Master,1,145.28750,"BM, IPSC2, HBLINK",45.39472,4.40167,208068,,-0.6,ACTIVE,F4GIX,TS1 TS2
-F6ZCH,Saint-Nazaire,Pays de la Loire,France,Peer,1,431.75000,BM,47.25966511121526,-2.2379069910302074,208069,Relais DMR F6ZCH :<br>Motorola DR3000 avec Sirio SPO-420-5<br>431.7500Mhz (TX côté relais) - 439.3500Mhz (RX côté relais) - TG20844 - CC1 - TS1<br>Interconnecté à BM : https://brandmeister.network/?page=device&id=208069,+7.600,ACTIVE,F4JFU,TS1 TS2
+F6ZCH,Saint-Nazaire,Pays de la Loire,France,Peer,1,431.75000,BM,47.2581038,-2.2349262,208069,Relais DMR F6ZCH :<br>Motorola DR3000 avec Sirio SPO-420-5<br>431.7500Mhz (TX côté relais) - 439.3500Mhz (RX côté relais) - TG20844 - CC1 - TS1<br>Interconnecté à BM : https://brandmeister.network/?page=device&id=208069,+7.600,ACTIVE,F4JFU,TS1 TS2
 F6ZCL,Saint-Malo,Bretagne,France,Peer,1,439.16250,BM,48.637780,-2.028890,208070,,-7.600,ACTIVE,F4VWS,TS1 TS2
 F4BDE,Rinxent,Hauts-de-France,France,Peer,1,439.45000,"BM,IPSC2",50.80687,1.73977,208071,,-9.4,ACTIVE,F4BDE,TS1 TS2
 F1ZJC,COLOMBES,,France,,0,430.37500,BM,49.016701,2.250000,208072,,9.400,ACTIVE,F1NWD,TS1 TS2
@@ -1443,10 +1443,9 @@ IR8UCE,Monte Virgo,,Italy,,0,430.28750,BM,40.7346,13.8722,222806,,5.000,ACTIVE,I
 IR8UCQ,Monte Frigento CE,,Italy,,15,431.33750,DMR-plus,,,222808,,1.600,ACTIVE,IK8AUC,TS1 TS2
 IR8BA,Calitri Av,,Italy,,1,145.58750,BM,40.902187,15.435689,222809,,-0.600,ACTIVE,IW8EQE,TS1 TS2
 IR8UDB,Monte Patalecchia,,Italy,,1,430.32500,BM,43.3207987,11.8771182,222810,,5.000,ACTIVE,IZ0ZIP,TS1 TS2
-IR8UCO,Villa San Giovanni,,Italy,,1,145.78750,DMR-plus,38.166672,15.833330,222811,,-0.600,ACTIVE,IK8TGH,TS1 TS2
 IW8RBP,Belvedere Marittimo,,Italy,,0,430.86250,DMR-plus,,,222814,,5.000,ACTIVE,IW8RBP,TS1 TS2
 IR8UBV,M.Vergine,,Italy,,1,430.21250,BM,40.934101,14.724200,222815,,5.000,ACTIVE,IK8SYZ,
-IR8UCN,Villa S.Giovanni (RC,,Italy,,1,430.32500,DMR-plus,38.2201116,15.6373809,222818,,1.600,ACTIVE,IK8TGH,TS1 TS2
+IR8UCN,Villa San Giovanni,Molise / Campania / Calabria,Italy,Peer,1,430.32500,DMR-plus,38.2201116,15.6373809,222818,,1.600,ACTIVE,IK8TGH,TS1 TS2
 IR8BR,Monte Pizzone,,Italy,,1,145.57500,BM,40.574028,15.203407,222820,,-0.600,ACTIVE,IW8EQE,TS1 TS2
 IR8DA,Villa San Giovanni,,Italy,,1,430.75000,None,38.208801,15.724600,222821,,5.000,ACTIVE,IW8QPG,
 IR8BX,Montefusco,,Italy,,1,145.57500,BM,41.037632,14.853435,222830,,-0.600,ACTIVE,IW8EQE,TS1 TS2
@@ -3405,7 +3404,6 @@ DM0TR,Trappenkamp,,Germany,,1,439.91250,BM,54.042400,10.200200,262205,,-9.400,AC
 DO0SH,Binsfeld,Rheinland-Pfalz / Saarland,Germany,Peer,1,439.82500,BM,49.9634000,6.7072000,262206,Testbetrieb DMR / P25,-9.400,ACTIVE,DO6PI,TS1 TS2
 DO0KD,Denkendorf,Bayern,Germany,Peer,1,439.97500,BM,48.94106382960124,11.471052557212232,262207,Cluster TG26285 TS2<br>TG 26444 TS1,-9.4,ACTIVE,DO1KD,TS1 TS2
 DB0TVI,Inselsberg Thueringen,Sachsen / Thueringen,Germany,Master,1,439.51250,BM,0.0,0.0,262208,Derzeit in Vorbereitung / im Aufbau. Noch kein produktiver Betrieb.,-7.600,ACTIVE,DL8HC,Mixed Mode
-DB0GZ,Alfeld,Niedersachsen / Bremen,Germany,Master,1,439.35000,BM,51.9756700,9.8175500,262210,26332,-7.600,ACTIVE,DL8KM,Mixed Mode
 DH4HAV,Hamburg,Hamburg / Schleswig-Holstein,Germany,Peer,1,439.92500,BM,53.550341,10.000654,262211,"26221,26421,262",-9.400,ACTIVE,DH4HAV,TS1 TS2
 DB0KPI,Elmshorn,Hamburg / Schleswig-Holstein,Germany,Master,1,439.42500,BM,53.75073,9.65481,262213,Relais in Testphase<br>TS1: TG262 Deutschland |<br>TS2: TG9 Local | TG8 Regio --> TG26221 Region Hamburg-City | TG262213 (extern --> local TG9),-7.600,ACTIVE,DL8AAJ,TS1 TS2
 DB0GE,Erkelenz,Nordrhein-Westfalen,Germany,Master,1,439.56250,BM,51.718,6.124,262214,,-7.600,ACTIVE,DG2KCB,TS1 TS2
@@ -4795,7 +4793,7 @@ VA2TIQ,TROIS RIVIERES,Quebec,Canada,Peer,1,446.80000,Brandmaster,46.3065390,-72.
 VA3DVI,Ballantrae,Ontario,Canada,Peer,1,145.17000,BM,44.0482900,-79.2899500,302470,None,-0.600,ACTIVE,VA3UV,TS1 TS2
 VA2XPR,Notre-Dame-du-Mont-Carmel,Quebec,Canada,Peer,1,449.82500,BrandMeister,46.5024323,-72.6355868,302471,None,-5.000,ACTIVE,"VA2XB, VE2NBZ, VE2TRF",TS1 TS2
 VA7UWR,Vancouver Island portable,British Columbia,Canada,Master,10,433.10000,Brandmeister,50.0000000,-126.0000000,302472,None,+5.000,ACTIVE,VA7UW,TS1 TS2
-VA7UW,Vancouver Island Portable,British Columbia,Canada,Master,10,433.10000,Brandmeister,49.0000000,-124,302473,None,+5.000,ACTIVE,VA7UW,TS1 TS2
+VA7UW,Cambpell River,British Columbia,Canada,Master,1,145.35000,Brandmeister,50.0032000,-125.2456000,302473,None,-0.600,ACTIVE,VA7UW,TS1 TS2
 VE4DRK,Winnipeg,Manitoba,Canada,Peer,1,146.97000,302,49.8368010,-97.0781430,302474,Testing configuration,-0.600,ACTIVE,VE4DRK,TS1 TS2
 VE2RXZ,Montreal,Quebec,Canada,Peer,0,444.60000,Brandmeister,45.5588560,-73.5519230,302475,None,5.000,ACTIVE,VE2TRF,TS1 TS2
 VE7VAP,Victoria,British Columbia,Canada,Peer,1,443.95000,BC-TURBO,48.4422000,-123.5697230,302476,None,+5,ACTIVE,VE7BEU,TS1 TS2
@@ -5325,6 +5323,8 @@ AB6BP,Merced,California,United States,Peer,1,145.37000,BrandMeister,37.200190,-1
 W1VAN,Fort Collins,Colorado,United States,master,2,147.16500,Brandmeister,40.305977,-104.600945,310540,3171,+0.600,ACTIVE,W1VAN,TS 1/TS2
 W1VAN,Fort Collins,Colorado,United States,master,2,446.90000,Brandmeister,40.549305,-105.197289,310541,,-5.000,ACTIVE,W1VAN,TS1 TS2
 NH7M,Dayton,Nevada,United States,Master,1,443.45000,BrandMeister,39.2371689,-119.59295,310542,,+5.000,ACTIVE,NH7M,2
+KA4BNI,Jackson,Tennessee,United States,Master,1,443.71250,Brandmeister,35.657360,-88.762032,310543,9         Local only TG                      TS 1<br>2         KA4BNI Cluster Repeaters TS 1<br>3147   TN Statewide                      TS 2<br>31471  Memphis NWS                   TS 2<br>Please use other talk groups on    TS 1,+5.000,ACTIVE,KA4BNI,TS1 TS2
+KA4BNI,Martin,Tennessee,United States,Master,1,444.71250,Brandmeister,36.339882,-88.859863,310544,9            Local only TG                       TS 1<br>2            KA4BNI Cluster Repeaters  TS 1<br>3147       TN Statewide                       TS 2<br>31471     Memphis NWS                    TS 2<br>Please use other TGs on                   TS 1,+5.000,ACTIVE,KA4BNI,TS1 TS2
 KD6MTU,Whitmore/Redding,California,United States,Master,1,145.07500,BrandMister,40.570980,-121.953697,310545,,+2.500,ACTIVE,KD6MTU,TS1 TS2
 WV8CW,Miller,South Dakota,United States,Master,1,145.39000,BRANDMEISTER,44.518139,-98.982071,310546,,-0.600,ACTIVE,WV8CW,Mixed Mode
 N3JLT,Bluemont,Virginia,United States,Peer,1,449.92500,Interstate-2 Network,39.113445,-77.833797,310547,Talkgroup info at http://www.delmarvadmr.com,-5.000,ACTIVE,KA3LAO,TS1 TS2
@@ -5801,6 +5801,7 @@ N1PFC,Worcester,Massachusetts,United States,MASTER,1,442.20000,NEDECN,42.2796666
 KB5FLX,Tomball,Texas,United States,PEER,7,441.60000,LONESTAR,35.157180,-95.592016,311059,Time Slot 1& 2,+5.000,ACTIVE,N5LUY,1&2
 KG5MMT,Abilene,Texas,United States,Peer,14,443.96250,BrandMeister,32.444378,-99.734627,311060,,+5.00,ACTIVE,KD5EFB,TS1 TS2
 W2ACC,Stanley,New York,United States,30 miles,3,444.30000,Brandmeister,42.80889,-77.08609,311061,,+5.0,ACTIVE,W2ACC,1 and 2
+KA4BNI,Dresden,Tennessee,United States,Peer,1,442.15000,Brandmeister,36.294979,-88.660378,311062,9            Local only TG                       TS 1<br>2            KA4BNI Cluster                    TS 1<br>3147       TN Statewide                       TS 2<br>31471     Memphis NWS                    TS 2<br>Please use other TGs on                   TS 1,+5.000,ACTIVE,KA4BNI,TS1 TS2
 WB7AWL,Oregon City,Oregon,United States,Peer,1,145.25000,PNW Digital,45.3243,-122.574368,311063,,-0.600,ACTIVE,WB7AWL,TS1 TS2
 W5XTR,Slidell,Louisiana,United States,Master,5,442.00000,Brandmeister,30.22742,-89.69059,311064,,+5.000,ACTIVE,W5XTR,TS1 TS2
 KB9PFM,Atlanta,Indiana,United States,PEER,1,442.47500,BRANDMEISTER,40.216576,-86.159426,311065,Part of the Southern Indiana Link System's Digital Linked MMDVM Repeater System<br>https://w9win.org TG 31188,+5.00,ACTIVE,KB9PFM,1
@@ -6492,7 +6493,6 @@ N9GPY,Culver,Indiana,United States,Peer,1,443.92500,Crossroads DMR,41.2225682,-8
 N9MTF,Columbia CIty,Indiana,United States,Peer,1,442.80000,Hoosier DMR,41.175800,-85.556297,311815,"Time Slot #1 - Grp Call 1 = World Wide (PTT activated)<br>Time Slot #1 - Grp Call 13= WW English<br>Time Slot #1 - Grp Call 3 = N. America<br>Time Slot #1 - Grp Call 310 = TAC-310 (PTT Activated)<br>Time Slot #1 - Grp Call 113 = UA English 1 (User Activated)<br>Time Slot #1 - Grp Call 123 = UA English 2 (User Activated)<br>Time Slot #1 - Grp Call 9998 = Audio Parrot <br>Time Slot #1 - Grp Call 9999 = Audio Test<br>Time Slot #2 - Grp Call 2 = Local<br>Time Slot #2 - Grp Call 3118 = Indiana Statewide<br>Time Slot #2 - Grp Call 3169 = Midwest Regional<br><br>You Must Have [ARS] Disabled Within Your Radio<br>Contact: Brad, N9MTF               Email: bpeterson@usa.com",+5.000,ACTIVE,N9MTF,TS1 TS2
 K9DEW,Mishawaka,Indiana,United States,Peer,1,442.05000,W9SMJ ? NET,41.594968,-86.160539,311816,"Time Slot #1 - Group Call 1 = Worldwide (PTT)<br>Time Slot #1 - Group Call 3 = North America<br>Time Slot #1 - Group Call 13= Worldwide English<br>Time Slot #1 - Group Call 310 = TAC-310<br>Time Slot #2 - Group Call 2 = Local<br>Time Slot #2 - Group Call 3118 = Indiana Statewide<br>Time Slot #2 - Group Call 3126 = Michigan Statewide<br>Time Slot #2- Group Call 3169 = Midwest Regional<br><br>You Must Have [ARS] Disabled Within Your Radio<br><br>Coverage Map: http://www.k9dew.com/index.cfm/photo-gallery/<br><br>Contact: Dewey, K9DEW<br>Email: k9dew@aol.com<br>Website: http://www.k9dew.com",+5.000,ACTIVE,K9DEW,TS1 TS2
 KB9TTX,Kokomo,Indiana,United States,Peer,1,442.40000,Crossroads DMR,40.460922,-86.119041,311818,"For Talk Groups see:<br>http://www.crossroadsdmr.org/?page_id=276<br><br>Contact: John, KB9TTX<br>Email: kb9ttx@yahoo.com<br><br>You Must Have [ARS] Disabled Within Your Radio",+5.000,ACTIVE,KB9TTX,TS1 TS2
-NF9K,Monrovia,Indiana,United States,Peer,1,443.47500,Crossroads,39.5614676,-86.51793460000002,311819,"NF9K 443.475 +5 MHz, Color Code 1 http://www.crossroadsdmr.org/?page_id=236",+5.000,ACTIVE,NF9K,TS1 TS2
 W9SMJ,Peru,Indiana,United States,Peer,1,441.26250,W9SMJ-NET,40.7663853,-86.0684542,311820,"Time Slot #1 - Grp Call 1 = World Wide (PTT activated)<br>Time Slot #1 - Grp Call 13= WW English<br>Time Slot #1 - Grp Call 3 = N. America<br>Time Slot #1 - Grp Call 310 = TAC-310 (PTT Activated)<br>Time Slot #1 - Grp Call 113 = UA English 1 (User Activated)<br>Time Slot #1 - Grp Call 123 = UA English 2 (User Activated)<br>Time Slot #1 - Grp Call 9998 = Audio Parrot<br>Time Slot #1 - Grp Call 9999 = Audio Test<br>Time Slot #2 - Grp Call 2 = Local<br>Time Slot #2 - Grp Call 3118 = Indiana Statewide<br>Time Slot #2 - Grp Call 3169 = Midwest Regional<br><br>Coverage Map (http://dmr-marc.net/images/n9kyb-coverage.jpg)<br><br>Contact: Steve, W9SMJ<br>Email: W9SMJ@sotacbroadband.com",+5.000,ACTIVE,W9SMJ,TS1 TS2
 N9GPY,Plymouth,Indiana,United States,Peer,1,444.92500,Crossroads DMR,41.4192058,-86.305182,311821,Time Slot #1 - Grp Call 1 = World Wide (PTT activated)<br>Time Slot #1 - Grp Call 13= WW English<br>Time Slot #1 - Grp Call 3 = N. America<br>Time Slot #1 - Grp Call 310 = TAC-310 (PTT Activated)<br>Time Slot #1 - Grp Call 113 = UA English 1 (User Activated)<br>Time Slot #1 - Grp Call 123 = UA English 2 (User Activated)<br>Time Slot #1 - Grp Call 9998 = Audio Parrot<br>Time Slot #1 - Grp Call 9999 = Audio Test<br>Time Slot #2 - Grp Call 2 = Local<br>Time Slot #2 - Grp Call 3118 = Indiana Statewide<br>Time Slot #2 - Grp Call 3169 = Midwest Regional<br>Time Slot #2 - Grp Call 31189 = Crossroads<br>Coverage Map<br><br>Contact: Rich N9GPY<br>Email: rich@culcom.net,+5.000,ACTIVE,N9GPY,TS1 TS2
 W9YB,West Lafayette,Indiana,United States,Peer,1,443.60000,Hoosier DMR,40.422909,-86.911308,311822,"Time Slot #1 - Grp Call 1 = World Wide (PTT activated)<br>Time Slot #1 - Grp Call 13= WW English<br>Time Slot #1 - Grp Call 3 = N. America<br>Time Slot #1 - Grp Call 310 = TAC-310 (PTT Activated)<br>Time Slot #1 - Grp Call 113 = UA English 1 (User Activated)<br>Time Slot #1 - Grp Call 123 = UA English 2 (User Activated)<br>Time Slot #1 - Grp Call 9998 = Audio Parrot<br>Time Slot #1 - Grp Call 9999 = Audio Test<br>Time Slot #2 - Grp Call 2 = Local<br>Time Slot #2 - Grp Call 3118 = Indiana Statewide<br>Time Slot #2 - Grp Call 3169 = Midwest Regional<br><br>Coverage Map (http://dmr-marc.net/images/n9kyb-coverage.jpg)<br><br>Contact: Tim, N9DKI<br>Email: timn9dki@gmail.com",+5.000,ACTIVE,N9DKI,TS1 TS2
@@ -6878,6 +6878,7 @@ N4RMG,Rome,Georgia,United States,Master,1,442.23750,BM,34.232101,-85.234856,3122
 AI6BX,Redlands,California,United States,Peer,3,446.62000,Brandmeister,34.838898,-114.592964,312244,Part of the PAPA System,-5.000,ACTIVE,AI6BX,TS1 TS2
 KM4ZRT,Land O Lakes,Florida,United States,Peer,1,441.85000,BM,28.21673000,-82.52497000,312245,,+0.5000,ACTIVE,KM4ZRT,TS1 TS2
 K7SLB,Seattle,Washington,United States,Master,1,443.52500,PNW,47.6039000,-122.3236000,312246,,+5.000,ACTIVE,K7SLB,TS1 TS2
+KA4BNI,Gleason,Tennessee,United States,Peer,1,145.47000,Brandmeister,36.186167,-88.64172,312247,,-0.600,ACTIVE,KA4BNI,TS1 TS2
 W2RJR,Staten Island,New York,United States,Master,1,440.65000,Multiple,40.594440,-74.109612,312248,,+5.000,ACTIVE,W2RJR,TS1 TS2
 N5OAK,Dripping Springs,Texas,United States,Master,1,441.30000,BM,30.1902067,-98.0866781,312249,,+5.000,ACTIVE,KV5TX,TS1 TS2
 WW5ENZ,Choctaw,Oklahoma,United States,Master,1,444.61500,DMR-MARC,35.4975654,-100.2689263,312250,,+0.5,ACTIVE,WW5ENZ,TS1
@@ -8559,7 +8560,7 @@ K0RPT,Lincoln,Nebraska,United States,Master,1,444.30000,BM,40.813756,-96.681679,
 W4YSF,Elizabethton,Tennessee,United States,Peer,11,442.13750,BM,36.3372,-82.2155,314077,,+5.00,ACTIVE,W4YSF,TS1 TS2
 N6CID,Alamogordo,New Mexico,United States,Master,1,442.97500,BM,32.8614474,-105.9803432,314078,,+5.00,ACTIVE,N6CID,TS1 TS2
 KD8LBS,Liberty Township,Ohio,United States,Peer,1,444.97500,BM,39.3533061,-84.4170819,314080,,+5.000,ACTIVE,KD8LBS,TS1 TS2
-N9MGR,Arkdale,Wisconsin,United States,Peer,0,442.12500,BrandMeister,44.0267106,-89.8877853,314082,This is a test system on a testing frequency. Up time is unknown & not guaranteed.,+5.000,ACTIVE,N9MGR,Mixed Mode
+N9MGR,Arkdale,Wisconsin,United States,Peer,0,442.12500,BrandMeister,44.0267106,-89.8877853,314082,This is a test system on a testing frequency. Up time is unknown & not guaranteed. Significant problems with coverage & reliability continue to be encountered. No more information is available at this time.,+5.000,ACTIVE,N9MGR,Mixed Mode
 KC8BPE,Marion,Ohio,United States,Master,1,444.50000,Bm,40.582417,-83.135169,314083,,+5.000,ACTIVE,KC8BPE,TS1 TS2
 W0SVH,Anderson,Texas,United States,Peer,4,443.95000,BM,30.590630,-96.100970,314084,TS=1<br>312681 South Coast Reflector<br>Local=2<br>TS=2<br>Europe (92)<br>North America (93)<br>Usa Bridge (3100)<br>South East Texas (31484),+5.000,ACTIVE,W0SVH,TS1 TS2
 KB3UNV,Corry,Pennsylvania,United States,Master,1,443.50000,BM,41.92033,-79.64032,314086,,+5.000,ACTIVE,KB3UNV,Mixed Mode
@@ -9350,7 +9351,7 @@ KN4DND,Robertsdale,Alabama,United States,Peer,1,443.32500,Brandmeister,30.562129
 KC5CZC,Fort Worth,Texas,United States,Peer,1,441.37500,Brandmeister,32.7571203,-97.2126657,314949,TS1 / 9<br>TS2 / 31817,+5.000,ACTIVE,KC5CZC,TS2
 W5LLS,Watauga,Texas,United States,Peer,1,441.36250,Brandmeister,32.8824950,-97.2430840,314950,None,5.000,ACTIVE,W5LLS,TS1 TS2
 N4CWJ,Verona,Virginia,United States,Peer,1,444.96250,BM,38.221104,-79.0058970,314951,None,+5.000,ACTIVE,"N4CWJ, N3XA",TS1 TS2
-WB8CQV,South Charleston,West Virginia,United States,Peer,1,147.21000,Master,38.3399630,-81.7370440,314952,None,+0.600,ACTIVE,WB8CQV,Mixed Mode
+WB8CQV,South Charleston,West Virginia,United States,Peer,1,147.21000,Master,38.3399630,-81.7370440,314952,None,+0.600,ACTIVE,WB8CQV,TS1
 W4LDG,Morristown,Tennessee,United States,Peer,1,442.38750,BRANDMEISTER,36.182787,-83.403440,314953,None,+5.000,ACTIVE,AB4DK,TS1 TS2
 KB0AEC,Leavenworth,Kansas,United States,Peer,2,146.00000,IPSC,39.3168310,-94.9619890,314954,New VHF DMR coordination (pending with KRC) as of 3/17/2026,+0.600,ACTIVE,KB0AEC,TS2
 KB0AEC,King City,Missouri,United States,Peer,7,146.46000,IPSC,40.0841670,-94.5222220,314955,New VHF DMR repeater coordination pending with MRCC as of 3/16/2026,+1.000,ACTIVE,KB0AEC,TS2
@@ -9594,6 +9595,7 @@ W9ZGP,Batavia,Illinois,United States,Peer,0,147.06000,Chicagoland-CC,41.8522964,
 W9CEQ,Aurora,Illinois,United States,Peer,1,443.42500,Chicagoland-CC,41.7880280,-88.2825280,315209,None,+5.000,ACTIVE,W9CEQ,TS1 TS2
 KB2AZG,Salisbury,North Carolina,United States,Peer,1,444.87000,134.56.80.151,35.7057930,-80.5324010,315210,None,+5.000,ACTIVE,KB2AZG,Mixed Mode
 KK7VNR,Lynnwood,Washington,United States,Peer,1,442.51250,BrandMeister,47.8421968,-122.2860718,315211,None,5.000,ACTIVE,KK7VNR,TS1 TS2
+KR4HVV,Kenbridge,Virginia,United States,Peer,1,145.05000,brandmister,36.9622000,-78.1295000,315212,None,-0.600,ACTIVE,KR4HVV,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,3,145.21000,PNWDigital,48.5600000,-120.3300000,315301,"Time Slot #1- Group Call 3153 = Washington Statewide 1<br>Time Slot #1- Group Call 3191 = Cascades 1<br><br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: http://www.pnwdigital.net",+2.78,ACTIVE,NO7RF,TS1 TS2
 NO7RF,Mazama,Washington,United States,Peer,0,443.15000,NO7RF,48.5600000,-120.3300000,315302,Demo/Testing,+5.000,ACTIVE,NO7RF,TS1 TS2
 WA7DMR,Couer d Alene,Idaho,United States,Peer,1,440.92500,PNWDigital,47.6804,-116.7760,315303,"Time Slot #1- Group Call 3116 = Idaho Statewide 1<br><br>Contact Name: Mike, NO7RF<br>Email: no7rf@pnwdigital.net<br><br>Website: https://pnwdigital.net",+5.000,ACTIVE,NO7RF,TS1 TS2
