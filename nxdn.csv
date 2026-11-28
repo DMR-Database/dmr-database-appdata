@@ -1823,6 +1823,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 1863,DL9DCA,Bjoern,Wanne-Eickel,Nordrhein-Westfalen,Germany
 1864,HS4JSU,Jamnong,เสลภูมิ,Roi Et,Thailand
 1865,KK4KTV,Brian,Liberty,Kentucky,United States
+1866,CA6NFR,Richard,PUERTO OCTAY,Los Lagos,Chile
 1867,W4TT,Jeng-Shiou,Boston,Massachusetts,United States
 1868,WS3RIC,Eric J,Bristol,Pennsylvania,United States
 1869,N9TQR,Kevin L,Vincennes,Indiana,United States
@@ -2919,7 +2920,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 2991,N4JTC,Jason,Panama City,Florida,United States
 2992,BG3OXP,Jia,Hong Kong,Hong Kong,China
 2993,E20KLN,Orathep,Bangkok,Bangkok,Thailand
-2994,K4DO,Marion C,Kingsland,Georgia,United States
+2994,K4DO,Marion,Kingsland,Georgia,United States
 2995,KO9P,Jeff,Bloomington,Indiana,United States
 2996,BH1DEG,Guoshun,Bei Jing,Beijing,China
 2997,SP7CC,Arek,Lodz,łódzkie,Poland
@@ -4941,7 +4942,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 5053,W7TRD,Sean,Vancouver,Washington,United States
 5054,DL9DBC,Heinz,Dortmund,,Germany
 5055,K0BDJ,Brett,Farmington,Minnesota,United States
-5056,HS8BXE,Smith,ThungSong,Nakhon Si Thammarat,Thailand
 5057,DS3QHU,Seongmin,Taean,ChungChong Nam-Do,Korea Republic of
 5058,W1ERB,Eric,Berlin,Connecticut,United States
 5059,DS3QHV,Seongyoon,Taean,ChungChong Nam-Do,Korea Republic of
@@ -6543,7 +6543,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 6690,CD3CQC,Cristian,Puerto Montt,Los Lagos,Chile
 6691,KC1TMW,Randy,Westfield,Maine,United States
 6692,KQ4MVW,Marshall,Tybee Island,Georgia,United States
-6693,KG6K,Jon,Youngsville,North Carolina,United States
+6693,KG6K,Jon,Raleigh,North Carolina,United States
 6694,SP3DEF,Paweł,Poznań,wielkopolskie,Poland
 6695,TI5EAO,Edwin,Costa Rica,Guanacaste,Costa Rica
 6696,IW0EAC,Andrea,Lariano,Lazio  Umbria  Sardinia,Italy
@@ -7155,7 +7155,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 7315,EA2EZD,Raul,Vitoria,Alava,Spain
 7316,W4ZHA,Corey,Hixson,Tennessee,United States
 7317,N9EQ,Scott,West Bloomfield,Michigan,United States
-7318,YO8TEH,Izzy,Bacau,Bacau  Botosani  Iasi  Neamt  Suceava  Vaslui,Romania
 7319,K4FBI,Michael E,Herndon,Virginia,United States
 7320,N3UP,Theodore,Aston,Pennsylvania,United States
 7321,G5STE,Steven,Wednesbury,England,United Kingdom
@@ -8522,7 +8521,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 8708,WL9N,William,Weatherford,Texas,United States
 8709,KO4UXX,James,Jackson,Georgia,United States
 8710,WD9GET,Keith E,Alvin,Texas,United States
-8711,AE0LI,Lucas M,Independence,Missouri,United States
+8711,AE0LI,Lucas,,,United States
 8712,N0JKY,Daniel,Burnsville,Minnesota,United States
 8713,KI5WWT,Joseph,Lancaster,Texas,United States
 8714,EA2TU,Javier,Isla Playa,Cantabria,Spain
@@ -9404,7 +9403,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 9602,KM4QAV,Christopher,Centerville,Georgia,United States
 9603,M7JGQ,John,Milton Keynes,England,United Kingdom
 9604,RA4YFT,Dmitry,Chuvash,All Regions,Russia
-9605,M6KXU,Barrie,Dartmouth,England,United Kingdom
+9605,M6KXU,Barrie,South Brent,England,United Kingdom
 9606,WX5DEL,Michael W,Oklahoma City,Oklahoma,United States
 9607,LY4PR,Romualdas,Obeliai,All Regions,Lithuania
 9608,WN7ANT,Everett,Aurora,Colorado,United States
@@ -11227,6 +11226,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 11458,KY4SRH,Steven,Lexington,Kentucky,United States
 11459,W8TMS,Tom,Howell,Michigan,United States
 11460,KD3BZM,Todd,Allentown,Pennsylvania,United States
+11461,HS6TWI,Ritthirong,Muangphitsanulok,Phitsanulok,Thailand
 11462,KJ5XF,Jose,Wimberley,Texas,United States
 11463,W8RLJ,Richard,Petoskey,Michigan,United States
 11464,K8SMS,Steven,Howell,Michigan,United States
@@ -17596,7 +17596,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 17926,6K2HRT,Sik-Gong,Inchon Si Sun Won Men,KyungKi-Do,Korea Republic of
 17927,KK5WM,James,Beebe,Arkansas,United States
 17928,N6RPR,Dan,Laguna Hills,California,United States
-17929,PU5TKD,Sandro,Sao Jose Dos Pinhais,Parana,Brazil
+17929,PY5LR,Sandro,Sao Jose Dos Pinhais,Parana,Brazil
 17930,KE6MTF,Kirk,Burbank,California,United States
 17931,KQ4VPU,Ron,Monroe,Georgia,United States
 17932,VK2ATD,Adam,Queanbeyan,New South Wales,Australia
@@ -17897,6 +17897,67 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 18227,SQ1MP,Marcin,Gdynia,pomorskie,Poland
 18228,KD8DZO,Joseph,Frankford,West Virginia,United States
 18229,LU9DRN,Claudio,Lomas,,Argentina Republic
+18230,KR4GRJ,Leonard,Valdosta,Georgia,United States
+18231,NC8A,Michael,Walbridge,Ohio,United States
+18232,KK7IKX,Jake,Eagle mountain,Utah,United States
+18233,HK4ARP,Andres,Envigado,Antioquia,Colombia
+18234,UB4HVX,Sergey,Togliatty,All Regions,Russia
+18235,KC1GDB,Jon,Guilford,Connecticut,United States
+18236,VE7JSO,Jason,Pitt Meadows,British Columbia,Canada
+18237,UB6LSU,Andrej,Kamensk Shakhtinsky  Ro,All Regions,Russia
+18238,IU4FLT,Giovanni,Serramazzoni,Emilia-Romagna,Italy
+18239,E73DPL,ISKRA,Bijeljina,All Regions,Bosnia and Hercegovina
+18240,PD1EMT,Jeroen,Veghel,Noord-Brabant,Netherlands
+18241,VK4GEO,Darrin,Townview  Qld,Queensland,Australia
+18242,R6LY,Maxim,,,Russia
+18243,N3XTF,Stephen,Abington,Pennsylvania,United States
+18244,PA0JGX,Joop,EA Torrevieja Alicante PA Wognum,Noord-Holland,Netherlands
+18245,DO4EM,Markus,Werneuchen,Berlin  Brandenburg,Germany
+18246,KD9QGP,Dustin,Munster,Indiana,United States
+18247,W9EAM,Ethan,Greenwood,Indiana,United States
+18248,KC1UUS,Gregory,Sidney,Maine,United States
+18249,KB8GYU,Dana,Belpre,Ohio,United States
+18250,IZ5MJO,Marco,Certaldo - Fiano,Tuscany,Italy
+18251,DL4DD,Uli,Laegerdorf,Hamburg  Schleswig-Holstein,Germany
+18252,KR4QZJ,Charles,Raleigh,North Carolina,United States
+18253,KE0HVO,Brett,Poplar Bluff,Missouri,United States
+18254,OE4JHW,Juergen,Neufeld,Burgenland,Austria
+18255,AE2K,Eric,Bronx,New York,United States
+18256,W8VD,Walter,New Baltimore,Michigan,United States
+18257,EA3JDG,Paco,Badalona,Barcelona,Spain
+18258,DG6RCH,Christian,Mamming,Bayern,Germany
+18259,XQ5CGU,Claudio,Yumbel,Bio Bio,Chile
+18260,OE7KTI,Anton,Innsbruck,Tirol,Austria
+18261,KP2US,Peter,Miami Beach,Florida,United States
+18262,DO8TG,Tim,Rodenberg,Niedersachsen  Bremen,Germany
+18263,KB2RF,Rick,Manalapan,New Jersey,United States
+18264,DL3SH,Stephan,Feilnbach,Bayern,Germany
+18265,KF0FPK,James,Harbor Springs,Michigan,United States
+18266,N3TEB,Norman,Jacksonville,Florida,United States
+18267,KR4NVI,William,Spartanburg,South Carolina,United States
+18268,K0LW,Lee,Peculiar,Missouri,United States
+18269,KD8SKZ,Levi,Weirton,West Virginia,United States
+18270,K2LTM,Lester,Yonkers,New York,United States
+18271,K9COF,Shannon,Morgantown,Indiana,United States
+18272,N0KQX,Dale,Garden City,Kansas,United States
+18273,N9JIH,Scott,Downers Grove,Illinois,United States
+18274,KI1R,Clarence,York,South Carolina,United States
+18275,F1OLZ,Michel,Poullaouen,Bretagne,France
+18276,JA6FEZ,Hirofumi,Ichikikushikino,Kyushu,Japan
+18277,N9MJC,Michael,Bear,Delaware,United States
+18278,KF8FW,Jim,Sheffield Village,Ohio,United States
+18279,K1HFZ,Jeffrey,Kensington,Connecticut,United States
+18280,KD8BKB,Robert,Pataskala,Ohio,United States
+18281,VE2DFY,Jean,Sainte-Julienne,Quebec,Canada
+18282,W1VS,Tony,Hendersonville,Tennessee,United States
+18283,IK5ZQC,Francesco,,Tuscany,Italy
+18284,IU1WWY,Antonio,Turin,Piedmont  Liguria  Aosta,Italy
+18285,HS3JVT,Nakornwattee,Buriram,,Thailand
+18286,KB7GP,David,Olympia,Washington,United States
+18287,KJ5FMP,Kirk,Bigelow,Arkansas,United States
+18288,N2RSR,Peter,Cape Coral,Florida,United States
+18289,KF6FJD,Michael,Cape Coral,Florida,United States
+18290,VK3EI,Lino,Balwyn North,Victoria,Australia
 18314,K9JTV,Jeff,Martinsville,Indiana,United States
 18315,F0DXQ,Halim,Vernon,,France
 18335,KB2WZX,John W,Conway,South Carolina,United States
@@ -19223,7 +19284,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,CITY,STATE,COUNTRY
 52111,VK2IPT,Ian,WYEE,New South Wales,Australia
 52114,VK2GG,Dan,Dora Creek,New South Wales,Australia
 52118,VK2GP,Colin,Toronto,New South Wales,Australia
-52119,VK2YF,Frederick,Ballina,New South Wales,Australia
 52120,VK2GG,Dan,Dora Creek,New South Wales,Australia
 52122,VK2KXX,Colin,Toronto,New South Wales,Australia
 52245,VK2AMV,Lindsay,Parkes,New South Wales,Australia
